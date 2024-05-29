@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+	<?xml version='1.0' encoding='utf-8'?>
 <mywebstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<created_at>2010-05-21 17:32</created_at>
+	<created_at>2010-05-29 15:30</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 4*6pack*330ml  (5+1Δώρο)</Name>
@@ -91,6 +91,25 @@
 		<Barcode>5202382900038</Barcode>
 		<Quantity>20</Quantity>
 		</product>
+	<product>
+		<ID>320311</ID>
+		<Name>FIX 6*4pack*500ml (3+1Δ)</Name>
+		<Product_Link>https://www.skroutz.gr/s/27286410/Fix-Lager-Kouti-4x500ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/027286/27286410/20211123100810_fix_lager_kouti_4x500ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24.00</VAT>
+		<Price>27.29</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
+		<Manufacturer>FIX</Manufacturer>
+		<MPN>0463</MPN>
+		<Weight>12.3 kg</Weight>
+		<Description>Η μπύρα lager της εταιρείας Fix είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Το χρώμα της είναι ξανθό και η περιεκτικότητα σε αλκοόλ 5%. </Description>
+		<Barcode>52003342200506</Barcode>
+		<Quantity>20</Quantity>
+	</product>
 	<product><ID>320321</ID>
 		<Name>KAISER 6*4pack*500ml  (3+1Δ)</Name>
 		<Product_Link>https://www.skroutz.gr/s/45301520/Mpyra-Kouti-Kaiser-4x500-ml-3-1-Doro.html</Product_Link>
@@ -709,6 +728,82 @@
 		<Barcode>5201171888168</Barcode>
 		<Quantity>20</Quantity>
 		</product>
+	<product>
+		<ID>11821</ID>
+		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 4*6p*330ml (5+1 Δώρο)</Name>
+		<Product_Link>https://www.abconline.gr/VAP-ORANGADE-330ML-13874</Product_Link>
+		<Image_Link>https://www.abconline.gr/images/thumbs/0099001_02-22-15-0129_510.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>10.73</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΒΑΠ</Manufacturer>
+		<MPN>0059</MPN>
+		<Weight>10.7 kg</Weight>
+		<Description>Η ΒΑΠ Πορτοκαλάδα είναι ένα αναψυκτικό από την ελληνική εταιρεία ΒΑΠ. Αυτή η προσφορά περιλαμβάνει συνολικά 24 κουτιά, με ένα επιπλέον κουτί δωρεάν σε κάθε εξαπλή συσκευασία (5+1 δώρο). Η πορτοκαλάδα χαρακτηρίζεται από τη δροσιστική γεύση του φρέσκου πορτοκαλιού, ιδανική για να συνοδεύει το γεύμα ή να καταναλώνεται οποιαδήποτε στιγμή της ημέρας για μια δροσερή ανάπαυλα.</Description>
+		<Barcode>5202382211127</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>11822</ID>
+		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 4*6p*330ml (5+1 Δώρο)</Name>
+		<Product_Link>https://www.abconline.gr/VAP-LEMONADE-330ML-13875</Product_Link>
+		<Image_Link>https://www.abconline.gr/images/thumbs/0096042_02-22-15-0130.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>10.73</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΒΑΠ</Manufacturer>
+		<MPN>0060</MPN>
+		<Weight>10.7 kg</Weight>
+		<Description>Η ΒΑΠ Λεμονάδα είναι ένα αναψυκτικό από την ελληνική εταιρεία ΒΑΠ. Αυτή η προσφορά περιλαμβάνει συνολικά 24 κουτιά, με ένα επιπλέον κουτί δωρεάν σε κάθε εξαπλή συσκευασία (5+1 δώρο). Είναι ιδανική για να συνοδεύει τα γεύματά σας ή για να την απολαμβάνετε μόνη της, προσφέροντας αναζωογόνηση και απόλαυση σε κάθε γουλιά.</Description>
+		<Barcode>5202382222239</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>11831</ID>
+		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 4*6p*330ml (4+2 Δώρο)</Name>
+		<Product_Link>https://www.skroutz.gr/s/32702478/VAP-Portokalada-me-Anthrakiko-6x330ml.html</Product_Link>
+		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5202382511210_1-1000x1000.jpg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>7.79</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΒΑΠ</Manufacturer>
+		<MPN>0061</MPN>
+		<Weight>7.8 kg</Weight>
+		<Description>Η ελληνική ΒΑΠ Πορτοκαλάδα είναι ένα αναψυκτικό με απολαυστική και πλούσια γεύση πορτοκαλιού. Περιλαμβάνει τέσσερις συσκευασίες με έξι μπουκάλια των 330ml το καθένα. Με την αγορά αυτής της συσκευασίας, προσφέρονται δώρο δύο επιπλέον μπουκάλια (4+2 δώρο). Το PET σκεύος είναι ανθεκτικό και εύχρηστο, καθιστώντας την πορτοκαλάδα ιδανική για να τη μεταφέρετε παντού και να την απολαμβάνετε οποιαδήποτε στιγμή της ημέρας.</Description>
+		<Barcode>5202382511210</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>11832</ID>
+		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 4*6p*330ml (4+2 Δώρο)</Name>
+		<Product_Link>https://www.skroutz.gr/s/32525504/VAP-Lemonada-me-Anthrakiko-6x330ml.html</Product_Link>
+		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5202382522315_1-1000x1000.jpg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>7.79</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΒΑΠ</Manufacturer>
+		<MPN>0062</MPN>
+		<Weight>7.8 kg</Weight>
+		<Description>Η ελληνική ΒΑΠ Λεμονάδα είναι ένα αναψυκτικό με απολαυστική και πλούσια γεύση λεμονιού. Περιλαμβάνει τέσσερις συσκευασίες με έξι μπουκάλια των 330ml το καθένα. Με την αγορά αυτής της συσκευασίας, προσφέρονται δώρο δύο επιπλέον μπουκάλια (4+2 δώρο). Το PET σκεύος είναι ανθεκτικό και εύχρηστο, καθιστώντας την λεμονάδα ιδανική για να τη μεταφέρετε παντού και να την απολαμβάνετε οποιαδήποτε στιγμή της ημέρας.</Description>
+		<Barcode>5202382522315</Barcode>
+		<Quantity>20</Quantity>
+	</product>
 	<product><ID>12011</ID>
 		<Name>COCA COLA 1500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/24685999/Coca-Cola-Classic-me-Anthrakiko-Mpoukali-1500ml.html</Product_Link>
@@ -915,7 +1010,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>14.97</Price>
+		<Price>16.02</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
@@ -1909,7 +2004,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>7.63</Price>
+		<Price>7.25</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
@@ -1927,7 +2022,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>7.94</Price>
+		<Price>7.54</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
@@ -1945,7 +2040,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>8.12</Price>
+		<Price>7.72</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
@@ -2342,7 +2437,7 @@
 		<MPN>0898</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Barcode>35201064011223</Barcode>
+		<Barcode>5201064000424</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52102</ID>
@@ -2396,7 +2491,7 @@
 		<MPN>0345</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Barcode>52010640111236</Barcode>
+		<Barcode>5201064011147</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52152</ID>
@@ -2576,7 +2671,7 @@
 		<MPN>0125</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
-		<Barcode>15202037000059</Barcode>
+		<Barcode>15202037000417</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52352</ID>
@@ -2594,7 +2689,7 @@
 		<MPN>0232</MPN>
 		<Weight>5 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
-		<Barcode>15202037000059</Barcode>
+		<Barcode>15202037000431</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52401</ID>
@@ -4031,7 +4126,7 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>71001</ID>
-		<Name>SEMANA BLUE 950ml / 38 MEZ     </Name>
+		<Name>SEMANA BLUE 800ml</Name>
 		<Product_Link>https://www.elsamarket.gr/index.php?route=product/product&amp;path=18_75&amp;product_id=1221</Product_Link>
 		<Image_Link>https://media.veli.store/media/product/3800024046001.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -5664,7 +5759,7 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>75151</ID>
-		<Name>ΦΙΑΛΙΔΙΟ ΥΓΡΑΕΡΙΟΥ ASTRON TRIA 190 γρ   </Name>
+		<Name>ΦΙΑΛΙΔΙΟ ΥΓΡΑΕΡΙΟΥ 190 γρ</Name>
 		<Product_Link>https://toolsandfarm.gr/en/product/astrontria-fialidio-ygraeriou-gia-gkazaki-190gr/</Product_Link>
 		<Image_Link>https://toolsandfarm.gr/wp-content/uploads/2022/09/astrontria-fialidio-ygraeriou-gia-gkazaki-190gr-1.jpg.webp</Image_Link>
 		<Additional>None</Additional>
@@ -5682,7 +5777,7 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>75152</ID>
-		<Name>ΦΙΑΛΙΔΙΟ ΥΓΡΑΕΡΙΟΥ ASTRON TRIA 500 γρ   </Name>
+		<Name>ΦΙΑΛΙΔΙΟ ΥΓΡΑΕΡΙΟΥ 500 γρ</Name>
 		<Product_Link>https://komotrade.gr/product/%CF%86%CE%B9%CE%B1%CE%BB%CE%B9%CE%B4%CE%B9%CE%BF-%CF%85%CE%B3%CF%81%CE%B1%CE%B5%CF%81%CE%B9%CE%BF%CF%85-astrontria-500gr/</Product_Link>
 		<Image_Link>https://komotrade.gr/wp-content/uploads/2021/11/055-005.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -5700,7 +5795,7 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>75153</ID>
-		<Name>ΦΙΑΛΙΔΙΟ ΥΓΡΑΕΡΙΟΥ ASTRON TRIA 500 γρ  ΒΑΛΒΙΔΑ    </Name>
+		<Name>ΦΙΑΛΙΔΙΟ ΥΓΡΑΕΡΙΟΥ 500 γρ ΜΕ ΒΑΛΒΙΔΑ</Name>
 		<Product_Link>https://komotrade.gr/product/%cf%86%ce%b9%ce%b1%ce%bb%ce%b9%ce%b4%ce%b9%ce%bf-%cf%85%ce%b3%cf%81%ce%b1%ce%b5%cf%81%ce%b9%ce%bf%cf%85-astrontria-500gr-%ce%b2%ce%b1%ce%bb%ce%b2%ce%b9%ce%b4%ce%b1/</Product_Link>
 		<Image_Link>https://1a98ff65da.cbaul-cdnwnd.com/3e0a34afad70a87fb4a1cc1d9f7f5189/200000053-f213cf2140/33-0034-1-620x620.jpg?ph=1a98ff65da</Image_Link>
 		<Additional>None</Additional>
