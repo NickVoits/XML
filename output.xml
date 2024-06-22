@@ -1,24 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mywebstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<created_at>2010-05-29 15:30</created_at>
-	<product>
-		<ID>31023</ID>
-		<Name>Άλφα 24τμχ x330ml</Name>
+<product><ID>31023</ID>
+		<Name>Άλφα 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43960896/Alfa-Mpyra-Lager-Kouti-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201261031030_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>20.01</Price>
+		<Price>5.24</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>Άλφα</Manufacturer>
 		<MPN>0461</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
-		<Barcode>35201261231844</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201261231843</Barcode>
+		<Quantity>80</Quantity>
 		</product><product><ID>320213</ID>
 		<Name>FIX 24τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/45477005/Mpyra-Kouti-FIX-8x330-ml-6-2-Doro.html</Product_Link>
@@ -38,58 +37,94 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>320221</ID>
-		<Name>Kaiser 24τμχ x330ml</Name>
+		<Name>Kaiser 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/51221007/Kaiser-Pilsner-Kaiser-Mpyra-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://eblokomarket.gr/8683-thickbox_default/bira-kaiser-330ml.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>28.04</Price>
+		<Price>7.46</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>Kaiser</Manufacturer>
 		<MPN>0178</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
-		<Barcode>25201309103914</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201309103910</Barcode>
+		<Quantity>40</Quantity>
 		</product>
 	<product><ID>320271</ID>
-		<Name>FIX ANEY 24τμχ x330ml</Name>
+		<Name>FIX ANEY 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43961062/Fix-Aney-Mpyra-Kouti-330ml-5-1Doro.html</Product_Link>
 		<Image_Link>https://xalkiadakis.gr/products/150702.jpg?v=1682590708</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>16.78</Price>
+		<Price>4.47</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>FIX</Manufacturer>
 		<MPN>0503</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Fix ΑΝΕΥ προσφέρει μια δροσιστική επιλογή για όσους αναζητούν μια απολαυστική γευστική εμπειρία χωρίς την παρουσία αλκοόλ. Με χρυσαφένιο χρώμα και ελαφριά, φρουτώδη αίσθηση, προσφέρει μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Ιδανική για όσους απολαμβάνουν τη μπύρα αλλά προτιμούν να αποφεύγουν την κατανάλωση αλκοόλ.</Description>
 		<Barcode>75200334266682</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>40</Quantity>
+		</product>
+	<product><ID>32226</ID>
+		<Name>ΒΕΡΓΙΝΑ RADLER  4τμχ x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/45304518/Mpyra-me-Lemoni-Kouti-Vergina-Radler-4x330ml-3-1-Doro.html</Product_Link>
+		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/5/4200016165/bergina-radler-koyti-31-5203076031939.png?id=1687960771</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
+		<VAT>24.00</VAT>
+		<Price>4.89</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
+		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
+		<MPN>0504</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Η μπύρα radler της εταιρείας Βεργίνα είναι μία μπύρα τύπου lager και περιέχει χυμό λεμονιού. Χρώμα: Ξανθιά. Αλκοόλ : 2%</Description>
+		<Barcode>5203076031939</Barcode>
+		<Quantity>12</Quantity>
+		</product>
+	<product><ID>32227</ID>
+		<Name>ΒΕΡΓΙΝΑ FREE  6τμχ x330ml </Name>
+		<Product_Link>https://www.skroutz.gr/s/26444369/Vergina-Low-Alcohol-Kouti-6-x-330ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/026444/26444369/20201231123546_vergina_low_alcohol_kouti_6_x_330ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
+		<VAT>24.00</VAT>
+		<Price>3.65</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
+		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
+		<MPN>0505</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Η μπύρα low alcohol της εταιρείας Βεργίνα είναι μία μπύρα με χαμηλή περιεκτικότητα σε αλκοόλ, που δεν υστερεί όμως σε γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
+		<Barcode>5203076051135</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>32323</ID>
-		<Name>ΜΠΥΡΑ ΒΑΠ 24τμχ x330ml</Name>
+		<Name>ΜΠΥΡΑ ΒΑΠ 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43962105/Zythos-Vap-Mpyra-Kouti-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/017455/17455609/20210304174507_vap_kouti_330ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>15.43</Price>
+		<Price>4.19</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΖΥΘΟΣ ΒΑΠ</Manufacturer>
 		<MPN>0184</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Barcode>5202382900038</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5202382900045</Barcode>
+		<Quantity>80</Quantity>
 		</product>
 	<product><ID>320311</ID>
 		<Name>FIX 24τμχ x500ml</Name>
@@ -128,7 +163,7 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>32133</ID>
-		<Name>PILS HELLAS 24τμχ x500ml</Name>
+		<Name>PILS HELLAS 24τμχ x500ml </Name>
 		<Product_Link>https://www.skroutz.gr/s/16120784/EZA-Pilsener-Kouti-4x500ml.html</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1015728/pils-mpira-hellas-500ml.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -146,714 +181,799 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>32333</ID>
-		<Name>ΜΠΥΡΑ ΒΑΠ 24τμχ x500ml</Name>
+		<Name>ΜΠΥΡΑ ΒΑΠ 6τμχ x500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43962381/Zythos-Vap-Mpyra-Kouti-500ml-4-2-Doro.html</Product_Link>
 		<Image_Link>https://thessbeera.gr/wp-content/uploads/2020/09/%CE%92%CE%91%CE%A0-%CE%96%CE%A5%CE%98%CE%9F%CE%A3-%CE%9A%CE%9F%CE%A5%CE%A4%CE%99-%E2%80%93-%CE%9A%CE%99%CE%92%CE%A9%CE%A4%CE%99%CE%9F-24-%CE%A7-500-cl-42-scaled.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>20.02</Price>
+		<Price>5.74</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΜΠΥΡΑ</Manufacturer>
 		<MPN>0453</MPN>
-		<Weight>12.3 kg</Weight>
+		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Barcode>5202382900021</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5202382900083</Barcode>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>110110</ID>
-		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x1500ml</Name>
+		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ 1500ml</Name>
 		<Product_Link>https://www.malikiosis.gr/shop/proionta-psygeiou/anapsyktika-chymoi-nero-pota/portokalada-kliafa-1500ml/</Product_Link>
 		<Image_Link>https://www.malikiosis.gr/wp-content/uploads/2021/04/%CE%A0%CE%9F%CE%A1%CE%A4%CE%9F%CE%9A%CE%91%CE%9B%CE%91%CE%94%CE%91-%CE%9A%CE%9B%CE%99%CE%91%CE%A6%CE%91-1500ML.png</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.63</Price>
+		<Price>1.41</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0838</MPN>
-		<Weight>9.3 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
-Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
+		<Weight>1.5 kg</Weight>
+		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά. Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>456</Quantity>
 		</product>
 	<product><ID>110118</ID>
-		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 6τμχ x1500ml</Name>
+		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 1500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/50268767/Portokalada-choris-anthrakiko-Kliafa-1-5-lt-0-20euro.html</Product_Link>
 		<Image_Link>https://www.kmkike.gr/wp-content/uploads/2022/12/KLIAFAS-MPLE-1.5-1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.63</Price>
+		<Price>1.41</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0133</MPN>
-		<Weight>9.3 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, χωρίς ανθρακικό και χωρίς συντηρητικά.
-Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
+		<Weight>1.5 kg</Weight>
+		<Description>Αναψυκτικό με γεύση πορτοκάλι, χωρίς ανθρακικό και χωρίς συντηρητικά. Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001692</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>228</Quantity>
 		</product>
 	<product><ID>110120</ID>
-		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ 6τμχ x1500ml</Name>
+		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ 1500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/45360276/Kliafa-Lemonada-1-5lt-0-20euro.html</Product_Link>
 		<Image_Link>https://www.kmkike.gr/wp-content/uploads/2022/12/KLIAFAS-LEMONADA-1.5.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.63</Price>
+		<Price>1.41</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0140</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275001708</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>456</Quantity>
 		</product>
 	<product><ID>11031</ID>
-		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/44017020/Kliafa-Portokalada-me-Anthrakiko-Fiali-6x330ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/05/KLIAFA-ORANGE-6X330.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.09</Price>
+		<Price>3.21</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0797</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
-Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Barcode>65201275610377</Barcode>
-		<Quantity>20</Quantity>
+		<Weight>2 kg</Weight>
+		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά. Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
+		<Barcode>5201275610375</Barcode>
+		<Quantity>200</Quantity>
 		</product>
 	<product><ID>110311</ID>
-		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΖΑΧΑΡΗ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΖΑΧΑΡΗ  6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/45374020/Portokalada-choris-zachari-Kliafa-6x330-ml-5-1-doro.html</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/2/4200015422/portokali-xwris-zaxarh-6x330ml-pet-51-dwro.jpg?id=1653993200</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.09</Price>
+		<Price>3.21</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0144</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>
-Η κλιάφα πορτοκάλι χωρίς ζάχαρη είναι ένα φρουτώδες, αρωματικό σνακ που παράγεται από φρέσκα πορτοκάλια χωρίς την προσθήκη ζάχαρης. Είναι μια υγιεινή επιλογή για όσους αποφεύγουν την πρόσθεση ζάχαρης στη διατροφή τους, προσφέροντας τη φυσική γεύση και τα θρεπτικά οφέλη του φρούτου χωρίς τα επιπλέον σάκχαρα.</Description>
-		<Barcode>65201275000758</Barcode>
+		<Weight>2 kg</Weight>
+		<Description>Η κλιάφα πορτοκάλι χωρίς ζάχαρη είναι ένα φρουτώδες, αρωματικό σνακ που παράγεται από φρέσκα πορτοκάλια χωρίς την προσθήκη ζάχαρης. Είναι μια υγιεινή επιλογή για όσους αποφεύγουν την πρόσθεση ζάχαρης στη διατροφή τους, προσφέροντας τη φυσική γεύση και τα θρεπτικά οφέλη του φρούτου χωρίς τα επιπλέον σάκχαρα.</Description>
+		<Barcode>5201275000756</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>110318</ID>
-		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 6τμχ x330ml ΠΕΤ </Name>
 		<Product_Link>https://www.skroutz.gr/s/45373201/Portokalada-choris-anthrakiko-Kliafa-330-ml.html</Product_Link>
 		<Image_Link>https://s1.sklavenitis.gr/images/1600x1600/files/ProductMedia/Products/1544064/1.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.09</Price>
+		<Price>3.21</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0733</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Barcode>65201275611374</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201275611372</Barcode>
+		<Quantity>200</Quantity>
 		</product>
 	<product><ID>11032</ID>
-		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://citydrinks.gr/product/kliafa-lemoni-6%CF%87330ml-pet-51/</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/05/KLIAFA-LEMON-6X330.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.09</Price>
+		<Price>3.21</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0199</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Barcode>65201275610278</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201275610276</Barcode>
+		<Quantity>200</Quantity>
 		</product>
 	<product><ID>110321</ID>
-		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ ΧΩΡΙΣ ΖΑΧΑΡΗ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ ΧΩΡΙΣ ΖΑΧΑΡΗ 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.e-fresh.gr/el/lemonada-xwris-zaxarh-kliafa-6x330-ml-51-dwro</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/4/4200015424/lemoni-xwris-zaxarh-6x330ml-pet-51-dwro.jpg?id=1653993448</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.09</Price>
+		<Price>3.21</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0145</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ Λεμόνι Χωρίς Ζάχαρη είναι μια αναζωογονητική αναψυκτική που προσφέρει το φρέσκο άρωμα και τη γεύση του λεμονιού, χωρίς την προσθήκη ζάχαρης. Είναι ιδανική επιλογή για όσους αναζητούν μια αναζωογονητική πρόταση με χαμηλή περιεκτικότητα σε ζάχαρη.</Description>
-		<Barcode>65201275000765</Barcode>
+		<Barcode>5201275000763</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>110322</ID>
-		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.e-fresh.gr/el/lemonada-xwris-anthrakiko-kliafa-6x330-ml-51-dwro</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/4/4200015434/lemonada-xwris-anthrakiko-6x330ml-pet-51-dwro.jpg?id=1653996928</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.09</Price>
+		<Price>3.21</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0696</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Λεμόνι Χωρίς Ανθρακικό είναι μια δροσιστική αναψυκτική με γεύση λεμονιού, χωρίς ανθρακικό, ιδανική για όσους αναζητούν μια ελαφριά και φρουτώδη απόλαυση.</Description>
-		<Barcode>652012750001021</Barcode>
+		<Barcode>5201275001029</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11033</ID>
-		<Name>ΚΛΙΑΦΑ ΣΟΔΑ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΣΟΔΑ 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/45373916/Soda-Kliafa-6x330-ml-5-1-doro.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/081691/81691916/20230831124314_d41e21a6.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>7.65</Price>
+		<Price>2.44</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0015</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Barcode>65201275610674</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201275610672</Barcode>
+		<Quantity>200</Quantity>
 		</product>
 	<product><ID>11035</ID>
-		<Name>ΚΛΙΑΦΑ ΒΥΣΣΙΝΟ 24τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΒΥΣΣΙΝΟ 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/44017128/Kliafa-Vyssinada-me-Anthrakiko-Fiali-6x330ml.html</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320548-1_0_low.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.35</Price>
+		<Price>3.93</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0307</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Barcode>65201275601474</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201275601472</Barcode>
+		<Quantity>200</Quantity>
 		</product>
 	<product><ID>11038</ID>
-		<Name>BIBI COLA 24τμχ x330ml ΠΕΤ</Name>
+		<Name>BIBI COLA 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://kalavrytinos.gr/gr/cartquickpro/catalog_product/view/id/76016</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/321033-1_0_low.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.09</Price>
+		<Price>3.21</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0240</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Βίβι Cola είναι μια δροσιστική αναψυκτική με γεύση κόλας που αναδεικνύεται από την ευχάριστη αίσθηση δροσιάς που προσφέρει. Με την κλασική της γεύση και αναζωογονητικό αφρώδες χαρακτήρα, αποτελεί δημοφιλή επιλογή για αναψυκτικό διάλειμμα κατά τη διάρκεια της ημέρας.</Description>
-		<Barcode>65201275001762</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201275001760</Barcode>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>110388</ID>
-		<Name>BIBI COLA ZERO 24τμχ x330ml ΠΕΤ</Name>
+		<Name>BIBI COLA ZERO 6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://kalavrytinos.gr/gr/cartquickpro/catalog_product/view/id/76017</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/321034-1_low.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.79</Price>
+		<Price>3.43</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0242</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Βίβι Cola Zero είναι μια αναψυκτική με αποδραστική γεύση από cola, χωρίς προσθήκη ζάχαρης. Είναι μια δροσιστική επιλογή με χαμηλή περιεκτικότητα σε θερμίδες και κατάλληλη για όσους αναζητούν μια light εναλλακτική χωρίς να χάνουν την αυθεντική γεύση της cola.</Description>
-		<Barcode>65201275001816</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201275001814</Barcode>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>11511</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x1500ml</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 1500ml</Name>
 		<Product_Link>https://www.malikiosis.gr/shop/proionta-psygeiou/anapsyktika-chymoi-nero-pota/portokalada-epsa-1500ml/</Product_Link>
 		<Image_Link>https://www.malikiosis.gr/wp-content/uploads/2021/04/%CE%A0%CE%9F%CE%A1%CE%A4%CE%9F%CE%9A%CE%91%CE%9B%CE%91%CE%94%CE%91-%CE%95%CE%A8%CE%91-1500ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>7.27</Price>
+		<Price>1.54</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0836</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171151163</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>240</Quantity>
 		</product>
 	<product><ID>11512</ID>
-		<Name>ΕΨΑ ΛΕΜΟΝΙ 6τμχ x1500ml</Name>
+		<Name>ΕΨΑ ΛΕΜΟΝΙ 1500ml</Name>
 		<Product_Link>https://www.market-in.gr/el-gr/kava-anapsuktika-xumoi-md-anapsuktika-lemonada/epsa-lemonada-pet-1-5lt</Product_Link>
 		<Image_Link>https://imageproxy.wolt.com/menu/menu-images/61964d434edccd4457f7359d/c111f7ec-06b7-11ed-a45c-d2c4c007e757_7092756.jpg.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.97</Price>
+		<Price>1.48</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0379</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171150265</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>240</Quantity>
 		</product>
 	<product><ID>11521</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://eshop.goldenbrands.com.gr/el/%CE%B1%CE%BD%CE%B1%CF%88%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CE%BF/17281-%CE%B5%CF%88%CE%B1-%CF%80%CE%BF%CF%81%CF%84%CE%BF%CE%BA%CE%B1%CE%BB%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%85%CF%84%CE%B9-6x4x330ml-51.html</Product_Link>
 		<Image_Link>https://static.ab.gr/medias/sys_master/h15/h84/8832192839710.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.96</Price>
+		<Price>3.81</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0380</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
-		<Barcode>5201171800122</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171310058</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115218</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΧΩΡΙΣ ΑΝΘΡΑΚΙΚΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.wineshop.gr/product/eca-portokalada-xoris-an8rakiko-33cl-tin-24ada/</Product_Link>
 		<Image_Link>https://www.wineshop.gr/wp-content/uploads/2017/08/epsaportokaladaxorisanthrakiko_1.gif</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.96</Price>
+		<Price>3.81</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0875</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Εψα Πορτοκάλι Χωρίς Ανθρακικό είναι μια δροσιστική αναψυκτική που προσφέρει τον ευεργετικό γεύση και άρωμα του φρέσκου πορτοκαλιού. Είναι ιδανική για όσους απολαμβάνουν τις φυσικές γεύσεις χωρίς ανθρακικό.</Description>
-		<Barcode>5201171800108</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171310027</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11522</ID>
-		<Name>ΕΨΑ ΛΕΜΟΝΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://eshop.goldenbrands.com.gr/en/%CE%B1%CE%BD%CE%B1%CF%88%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CE%BF/17280-%CE%B5%CF%88%CE%B1-%CE%BB%CE%B5%CE%BC%CE%BF%CE%BD%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%85%CF%84%CE%B9-6x4x330ml-51.html</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/19-43-02.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.45</Price>
+		<Price>3.64</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0313</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
-		<Barcode>5201171800177</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171310010</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11523</ID>
-		<Name>ΕΨΑ ΣΟΔΑ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΣΟΔΑ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.paxoswines.com/soft-drinks/carbonated/epsa-soda-water-330x24met.htm</Product_Link>
 		<Image_Link>https://d3kdwhwrhuoqcv.cloudfront.net/uploads/products/202006/2020_06_pockee_EPSA_Soda_4x330ml_Can-.png</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>8.40</Price>
+		<Price>2.67</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0314</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>H Σόδα της ΕΨΑ είναι η επιλογή που θα ξεδιψάσει και θα τονώσει τις αισθήσεις σου. Είτε το απολαμβάνεις μόνο του, είτε ως mixer στα αγαπημένα σου cocktail, η καθαρή του γεύση του θα σε αφήσει να νιώσεις απόλυτα ανανεωμένος/η.</Description>
 		<Barcode>5201171001390</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11524</ID>
-		<Name>ΕΨΑ ΓΚΑΖΟΖΑ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΓΚΑΖΟΖΑ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.e-fresh.gr/el/gkazoza-koyti-epsa-4x330-ml</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/0/4200000850/epsa-gkazoza-4x330ml-can.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.03</Price>
+		<Price>3.51</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0930</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Το Συναρπαστικό Αναψυκτικό «Lemon Lime» είναι φτιαγμένο για να αναζωογονεί και να τονώνει την διάθεση σου. Το Lemon Lime της ΕΨΑ είναι εδώ συνδυάζοντας τις πικάντικες σταγόνες των λεμονιών με τις ζωηρές γεύσεις του λάιμ. Είτε μετά από μία ζεστή μέρα του καλοκαιριού είτε ως συνοδευτικό στο αγαπημένο σου γεύμα είναι η καταλληλότερη επιλογή για να σε ανανεώσει.</Description>
-		<Barcode>5201171800115</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171310034</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11527</ID>
-		<Name>ΕΨΑ PINK GRAPEFRUIT 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ PINK GRAPEFRUIT 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.masoutis.gr/categories/item/epsa-pink-grapefruit---lemon-330ml-5-1dwro?4011078</Product_Link>
 		<Image_Link>https://edt-shop.gr/18063-home_default_2x/epsa-pink-grapefruit-lemon-koyti-330ml-4x6pack-51-dwro.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.42</Price>
+		<Price>3.64</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0182</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Ροζ Γκρέιπφρουτ &amp; Λεμόνι είναι το Ανατρεπτικότερο αναψυκτικό της ΕΨΑ. Συνδυάζοντας το γλυκό – πικάντικο χυμό γκρέιπφρουτ με τα ζουμερά στοιχεία του λεμονιού, σπάνε τα όρια των κλασσικών αναψυκτικών. Είτε χαλαρώνεις στο σπίτι, είτε διασκεδάσεις σε κάποιο μαγαζί, είναι τόσο δελεαστικό που δεν μπορεί να λείπει από τα ποτά σου.</Description>
-		<Barcode>5201171800146</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171310072</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115291</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΕ ΓΙΑΣΕΜΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΕ ΓΙΑΣΕΜΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.masoutis.gr/categories/item/epsa-portokalada-giasemi-330ml-5-1dwro</Product_Link>
 		<Image_Link>https://masoutisadm.masoutis.gr/main/ExportPromoOffers/PromoOffers_574_1949.webp</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.19</Price>
+		<Price>3.56</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0105</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Το Νέο Αναψυκτικό «Πορτοκάλι με Γιασεμί» έρχεται να προστεθεί στις γευστικές σου εμπειρίες. Μια εντελώς διαφορετική παραλλαγή της διαχρονικής Πορτοκαλάδας της ΕΨΑ, συνδυασμένη με τον καλοκαιρινό αέρα του Γιασεμιού.</Description>
-		<Barcode>5201171901119</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171801143</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115292</ID>
-		<Name>ΕΨΑ ΛΕΜΟΝΙ ΜΕ ΙΒΙΣΚΟ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΛΕΜΟΝΙ ΜΕ ΙΒΙΣΚΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.masoutis.gr/categories/item/epsa-lemonada-ibiskos-330ml-5-1dwro?4011037</Product_Link>
 		<Image_Link>https://imageproxy.wolt.com/menu/menu-images/63f8c000865b00c7cd5edd55/05b90106-1755-11ef-8abf-c2da0ae748c8_4010955.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.19</Price>
+		<Price>3.56</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0973</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Το Νέο Αναψυκτικό «Λεμόνι με Ιβίσκο» έρχεται να ανατρέψει τη γευστική σου εμπειρία. Μια τολμηρή παραλλαγή της διαχρονικής Λεμονάδας της ΕΨΑ, συνδυασμένη με την εξωτική γοητεία του Ιβίσκου.</Description>
 		<Barcode>5201171801136</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115296</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ COLA 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/portokalades/27172-epsa-portokali-cola-koyti-330ml-4x6pack-51-dwro.html</Product_Link>
 		<Image_Link>https://edt-shop.gr/18065-home_default_2x/epsa-portokali-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.30</Price>
+		<Price>3.91</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0536</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Το νέο αναψυκτικό το οποίο επαναπροσδιορίζει τα όρια της γεύσης, προσθέτοντας στη γνώριμη σε όλους μας «cola» την έντονη έκρηξη του Πορτοκαλιού.</Description>
-		<Barcode>5201171801136</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171310089</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115297</ID>
-		<Name>ΕΨΑ YUZU COLA 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ YUZU COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/koles/27171-epsa-yuzu-cola-koyti-330ml-4x6pack-51-dwro.html</Product_Link>
 		<Image_Link>https://edt-shop.gr/18064-home_default_2x/epsa-yuzu-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.30</Price>
+		<Price>3.91</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0050</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Το νέο αναψυκτικό το οποίο επαναπροσδιορίζει τα όρια της γεύσης, προσθέτοντας στη γνώριμη σε όλους μας «cola» το εξωτικό εσπεριδοειδές Yuzu.</Description>
-		<Barcode>5201171800160</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171310096</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11531</ID>
 		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 12τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/29350249/EPSA-Mpoukali-Portokalada-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1023592/epsa-anapsuktiko-portokalada-me-anthrakiko-330ml-51.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.5</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>5.03</Price>
+		<Price>3.2</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0146</MPN>
-		<Weight>4.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
-		<Barcode>5201171150265</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>520117133237</Barcode>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>115318</ID>
 		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΠΛΕ 12τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/44091807/EPSA-CHoris-Anthrakiko-Mpoukali-6x330ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/05/EPSA-PORTOK-MPLE-51-6X330ML.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.5</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>5.03</Price>
+		<Price>3.2</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0620</MPN>
-		<Weight>4.3 kg</Weight>
-		<Description>
-Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
+		<Weight>2 kg</Weight>
+		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<Barcode>5201171331220</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>11532</ID>
 		<Name>ΕΨΑ ΛΕΜΟΝΙ 12τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/29350091/EPSA-Mpoukali-Lemonada-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://static.ab.gr/medias/sys_master/hdc/h84/9660423602206.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.5</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>4.81</Price>
+		<Price>3.06</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0658</MPN>
-		<Weight>4.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>11535</ID>
 		<Name>ΕΨΑ ΒΥΣΣΙΝΟ 12τμχ x330ml</Name>
 		<Product_Link>https://edt-shop.gr/mixers/15762-epsa-byssinada-330ml-pet-51-2x6pack.html</Product_Link>
 		<Image_Link>https://static.shopflix.gr/images/detailed/11398/20230126165723_anapsyktiko_vyssinada_epsa_6x330ml_5_1_doro.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.5</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.97</Price>
+		<Price>4.43</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0450</MPN>
-		<Weight>4.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<Barcode>5201171331244</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>11541</ID>
 		<Name>ΕΨΑ ΤΣΑΙ ΛΕΜΟΝΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/tsai/27249-epsa-tsai-lemoni-330ml-4x6pack.html</Product_Link>
 		<Image_Link>https://epsa.gr/wp-content/uploads/2024/03/Category-GR-tea-lemon.png</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>14.59</Price>
+		<Price>4.64</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0046</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η κλασική συνταγή της ΕΨΑ για Iced Drink με τσάι Λεμόνι προσφέρει απόλυτη δροσιά με υπέροχη φυσική γεύση, γιατί περιέχει πραγματικό χυμό λεμονιού.</Description>
-		<Barcode>5201171888144</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171300073</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11542</ID>
 		<Name>ΕΨΑ ΤΣΑΙ ΡΟΔΑΚΙΝΟ 24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/tsai/27248-epsa-tsai-rodakino-330ml-4x6pack.html</Product_Link>
 		<Image_Link>https://epsa.gr/wp-content/uploads/2024/03/Category-GR-tea-peach.png</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>14.59</Price>
+		<Price>4.64</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0210</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Το καλοκαιρινό Αναψυκτικό που απαγορεύεται να μην δοκιμάσεις. Το άκρως δελεαστικό Τσάι Ροδάκινο της ΕΨΑ είναι φτιαγμένο από τα πιο ζουμερά &amp; λαχταριστά ροδάκινα. Είτε μετά από μία πολύ ζεστή ημέρα είτε μετά από την γυμναστική σου είναι το αναψυκτικό που θα σου προσφέρει την δροσιά που αναζητάς.</Description>
-		<Barcode>5201171888168</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201171880247</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11821</ID>
-		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 24τμχ x330ml</Name>
+		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.abconline.gr/VAP-ORANGADE-330ML-13874</Product_Link>
 		<Image_Link>https://www.abconline.gr/images/thumbs/0099001_02-22-15-0129_510.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.63</Price>
+		<Price>3.7</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΑΠ</Manufacturer>
 		<MPN>0059</MPN>
-		<Weight>10.7 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η ΒΑΠ Πορτοκαλάδα είναι ένα αναψυκτικό από την ελληνική εταιρεία ΒΑΠ. Αυτή η προσφορά περιλαμβάνει συνολικά 24 κουτιά, με ένα επιπλέον κουτί δωρεάν σε κάθε εξαπλή συσκευασία (5+1 δώρο). Η πορτοκαλάδα χαρακτηρίζεται από τη δροσιστική γεύση του φρέσκου πορτοκαλιού, ιδανική για να συνοδεύει το γεύμα ή να καταναλώνεται οποιαδήποτε στιγμή της ημέρας για μια δροσερή ανάπαυλα.</Description>
 		<Barcode>5202382211127</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11822</ID>
-		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 24τμχ x330ml</Name>
+		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.abconline.gr/VAP-LEMONADE-330ML-13875</Product_Link>
 		<Image_Link>https://www.abconline.gr/images/thumbs/0096042_02-22-15-0130.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.63</Price>
+		<Price>3.7</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΑΠ</Manufacturer>
 		<MPN>0060</MPN>
-		<Weight>10.7 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η ΒΑΠ Λεμονάδα είναι ένα αναψυκτικό από την ελληνική εταιρεία ΒΑΠ. Αυτή η προσφορά περιλαμβάνει συνολικά 24 κουτιά, με ένα επιπλέον κουτί δωρεάν σε κάθε εξαπλή συσκευασία (5+1 δώρο). Είναι ιδανική για να συνοδεύει τα γεύματά σας ή για να την απολαμβάνετε μόνη της, προσφέροντας αναζωογόνηση και απόλαυση σε κάθε γουλιά.</Description>
 		<Barcode>5202382222239</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11831</ID>
-		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 24τμχ x330ml</Name>
+		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/32702478/VAP-Portokalada-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5202382511210_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>8.94</Price>
+		<Price>2.84</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΑΠ</Manufacturer>
 		<MPN>0061</MPN>
-		<Weight>7.8 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η ελληνική ΒΑΠ Πορτοκαλάδα είναι ένα αναψυκτικό με απολαυστική και πλούσια γεύση πορτοκαλιού. Περιλαμβάνει τέσσερις συσκευασίες με έξι μπουκάλια των 330ml το καθένα. Με την αγορά αυτής της συσκευασίας, προσφέρονται δώρο δύο επιπλέον μπουκάλια (4+2 δώρο). Το PET σκεύος είναι ανθεκτικό και εύχρηστο, καθιστώντας την πορτοκαλάδα ιδανική για να τη μεταφέρετε παντού και να την απολαμβάνετε οποιαδήποτε στιγμή της ημέρας.</Description>
 		<Barcode>5202382511210</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11832</ID>
-		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 24τμχ x330ml</Name>
+		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/32525504/VAP-Lemonada-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5202382522315_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>8.94</Price>
+		<Price>2.84</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΑΠ</Manufacturer>
 		<MPN>0062</MPN>
-		<Weight>7.8 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η ελληνική ΒΑΠ Λεμονάδα είναι ένα αναψυκτικό με απολαυστική και πλούσια γεύση λεμονιού. Περιλαμβάνει τέσσερις συσκευασίες με έξι μπουκάλια των 330ml το καθένα. Με την αγορά αυτής της συσκευασίας, προσφέρονται δώρο δύο επιπλέον μπουκάλια (4+2 δώρο). Το PET σκεύος είναι ανθεκτικό και εύχρηστο, καθιστώντας την λεμονάδα ιδανική για να τη μεταφέρετε παντού και να την απολαμβάνετε οποιαδήποτε στιγμή της ημέρας.</Description>
 		<Barcode>5202382522315</Barcode>
 		<Quantity>20</Quantity>
 		</product>
+	<product><ID>11911</ID>
+		<Name>ΚΟΛΑ ΠΗΓΗ ΔΙΝΑΚΗ 2000ml ΜΕ ΞΙΝΟ ΝΕΡΟ ΦΛΩΡΙΝΑΣ</Name>
+		<Product_Link>https://www.skroutz.gr/s/30077654/Afoi-Dinaki-Mpoukali-Cola-me-Anthrakiko-2000ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/030077/30077654/xlarge_20210719133747_afoi_dinaki_cola_2000ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>0.89</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
+		<MPN>1000</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Η μοναδική Cola Φλώρινας Δινάκη από φυσικό ξινό νερό, τώρα χωρίς προσθήκη ζάχαρης, με γλυκαντικά από το φυτό Στέβια και 0 θερμίδες!</Description>
+		<Barcode>5205241020601</Barcode>
+		<Quantity>240</Quantity>
+		</product>
+	<product><ID>11912</ID>
+		<Name>ΓΚΑΖΟΖΑ ΠΗΓΗ ΔΙΝΑΚΗ 2000ml ΜΕ ΞΙΝΟ ΝΕΡΟ ΦΛΩΡΙΝΑΣ</Name>
+		<Product_Link>https://www.skroutz.gr/s/29380243/Afoi-Dinaki-Mpoukali-Gazoza-me-Anthrakiko-2000ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/029380/29380243/xlarge_20231016094606_afoi_dinaki_mpoukali_gazoza_me_anthrakiko_2000ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>0.89</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
+		<MPN>1001</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Η κλασική συνταγή της ελληνικής γκαζόζας φτιαγμένη μοναδικά και με μεράκι από φυσικό ξινό νερό Φλώρινας!</Description>
+		<Barcode>5205241000252</Barcode>
+		<Quantity>120</Quantity>
+		</product>
+	<product><ID>11914</ID>
+		<Name>ΠΟΡΤΟΚΑΛΑΔΑ ΠΗΓΗ ΔΙΝΑΚΗ 2000ml ΜΕ ΞΙΝΟ ΝΕΡΟ ΦΛΩΡΙΝΑΣ</Name>
+		<Product_Link>https://www.skroutz.gr/s/29380255/Afoi-Dinaki-Mpoukali-Portokalada-me-Anthrakiko-2000ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029380/29380255/xlarge_20210609133405_afoi_dinaki_portokalada_2000ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>0.89</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
+		<MPN>1002</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Αναψυκτικό της εταιρείας Αφοί Δινάκη με φυσικό χυμό πορτοκαλιών.</Description>
+		<Barcode>5205241000054</Barcode>
+		<Quantity>240</Quantity>
+		</product>
+	<product><ID>11915</ID>
+		<Name>ΛΕΜΟΝΑΔΑ ΠΗΓΗ ΔΙΝΑΚΗ 2000ml ΜΕ ΞΙΝΟ ΝΕΡΟ ΦΛΩΡΙΝΑΣ</Name>
+		<Product_Link>https://www.skroutz.gr/s/29900647/Afoi-Dinaki-Mpoukali-Lemonada-me-Anthrakiko-2000ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/029900/29900647/xlarge_20230131095829_afoi_dinaki_mpoukali_lemonada_me_anthrakiko_2000ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>0.89</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
+		<MPN>1003</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Ποτέ άλλοτε η λεμονάδα δε συνδύαζε τόσο μοναδικά τους χυμούς και τα αρώματα από φρέσκα, ζουμερά ελληνικά λεμόνια και το εξαιρετικό φυσικό ξινό νερό Φλώρινας.  Όλη η γεύση και η δροσιά της ελληνικής γης σε ένα ποτήρι.</Description>
+		<Barcode>5205241000153</Barcode>
+		<Quantity>240</Quantity>
+		</product>
+	<product><ID>11916</ID>
+		<Name>ΒΥΣΣΙΝΑΔΑ ΠΗΓΗ ΔΙΝΑΚΗ 2000ml ΜΕ ΞΙΝΟ ΝΕΡΟ ΦΛΩΡΙΝΑΣ</Name>
+		<Product_Link>https://www.skroutz.gr/s/29380387/Afoi-Dinaki-Mpoukali-Vyssinada-me-Anthrakiko-CHoris-Zachari-2000ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/029380/29380387/xlarge_20210609133530_afoi_dinaki_vyssinada_2000ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>0.89</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
+		<MPN>1004</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Αναψυκτικό της εταιρείας Αφοί Δινάκη με φυσικό χυμό βύσσινων.</Description>
+		<Barcode>5205241000450</Barcode>
+		<Quantity>240</Quantity>
+		</product>
 	<product><ID>12011</ID>
-		<Name>COCA COLA 6τμχ x1500ml</Name>
+		<Name>COCA COLA 1500ml ΕΛΛΗΝΙΚΗ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24685999/Coca-Cola-Classic-me-Anthrakiko-Mpoukali-1500ml.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/2/125780_1_2_1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.73</Price>
+		<Price>1.87</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>0128</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000051684</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5449000000439</Barcode>
+		<Quantity>600</Quantity>
 		</product>
 	<product><ID>120110</ID>
-		<Name>COCA COLA 6τμχ x1500ml ΕΙΣΑΓΩΓΗΣ</Name>
+		<Name>COCA COLA 1500ml ΕΙΣΑΓΩΓΗΣ</Name>
 		<Product_Link>https://www.skroutz.gr/s/48534000/Coca-Cola-me-Anthrakiko-1-5LIT.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/024685/24685999/xlarge_20220217092802_coca_cola_1500ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>9.00</Price>
+		<Price>1.56</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>0693</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση. Εισαγωγής.</Description>
 		<Barcode>5449000051981</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>600</Quantity>
 		</product>
 	<product><ID>120118</ID>
-		<Name>COCA COLA ZERO 6τμχ x1500ml</Name>
+		<Name>COCA COLA ZERO 1500ml ΕΛΛΗΝΙΚΗ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24252948/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Mpoukali-1500ml.html</Product_Link>
 		<Image_Link>https://ngt.gr/wp-content/uploads/2023/09/Coca-Cola-Zero-1500ml.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.87</Price>
+		<Price>1.89</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
 		<MPN>0272</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000134318</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5449000133335</Barcode>
+		<Quantity>300</Quantity>
 		</product>
 	<product><ID>12021</ID>
-		<Name>COCA COLA 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>COCA COLA 24τμχ x330ml ΚΟΥΤΙ ΕΛΛΗΝΙΚΗ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24685667/Coca-Cola-Classic-me-Anthrakiko-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0001226.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -868,7 +988,7 @@
 		<Weight>8.3 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214928</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>50</Quantity>
 		</product>
 	<product><ID>1202101</ID>
 		<Name>COCA COLA 12τμχ x330ml ΚΟΥΤΙ ΕΙΣΑΓΩΓΗΣ</Name>
@@ -886,10 +1006,10 @@
 		<Weight>8.3 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση. Εισαγωγής.</Description>
 		<Barcode>5449000055200</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>100</Quantity>
 		</product>
 	<product><ID>120218</ID>
-		<Name>COCA COLA ZERO 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>COCA COLA ZERO 24τμχ x330ml ΚΟΥΤΙ ΕΛΛΗΝΙΚΗ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24519804/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://lh5.googleusercontent.com/proxy/6AIYwsWOPYbtAZgWxDP7TV6czrPwWFy7i1oz0NX72rtU2-1wyOPn1o-ixJutWBIid46gM12e4-75mogzhnmEI3Y_qUO9HazW2QpUB4m1SBcaVuWB8S3zkqtp</Image_Link>
 		<Additional>None</Additional>
@@ -922,7 +1042,7 @@
 		<Weight>8.3 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση. Εισαγωγής.</Description>
 		<Barcode>5449000133342</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>12022</ID>
 		<Name>ΣΠΡΑΙΤ 24τμχ x330ml ΚΟΥΤΙ</Name>
@@ -1015,7 +1135,7 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>12031</ID>
-		<Name>COCA COLA 24τμχ x500ml</Name>
+		<Name>COCA COLA 24τμχ x500ml </Name>
 		<Product_Link>https://e-vk.gr/coca-cola-24500-ml/p/2790/6,48/</Product_Link>
 		<Image_Link>https://m.media-amazon.com/images/I/81Kv3XB26yL.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1051,202 +1171,238 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>130111</ID>
-		<Name>ΒΙΚΟΣ COLA 6τμχ x1500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/34499180/Vikos-Mpoukali-Cola-me-Anthrakiko-6x1500ml.html</Product_Link>
+		<Name>ΒΙΚΟΣ COLA 1500ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/48789832/Vikos-Cola-Vikos-1-5-Lt-0-30euro.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/045225/45225689/20230823104532_vikos_cola_1_5lt_0_30.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.17</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>5.63</Price>
+		<Price>1.11</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0605</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Barcode>5201946910773</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201946900521</Barcode>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>13031</ID>
-		<Name>ΒΙΚΟΣ COLA 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ COLA 6τμχ x330ml</Name>
 		<Product_Link>https://www.ab.gr/el/eshop/Kava-anapsyktika-nera-xiroi-karpoi/Anapsyktika/Cola/Anapsyktiko-Cola-Fiali-6x330ml-5-1-Doro/p/7142320</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320687_low.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.54</Price>
+		<Price>2.44</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0165</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>180</Quantity>
 		</product>
 	<product><ID>130318</ID>
-		<Name>ΒΙΚΟΣ COLA ZERO 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ COLA ZERO 6τμχ x330ml</Name>
 		<Product_Link>https://www.ab.gr/en/eshop/Veverages-soft-drinks-waters-nuts/Soft-drinks/Cola/Anapsyktiko-Cola-Zero-Fiali-6x330ml-5-1-Doro/p/7580259</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/10_11_21/d6cb4ba7-c695-4e99-9051-a9a507a5a77a_EB.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.87</Price>
+		<Price>2.56</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0752</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
 		<Barcode>5201946911268</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>130319</ID>
-		<Name>ΒΙΚΟΣ COLA STEVIA 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ COLA STEVIA 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43961410/Vikos-Cola-Me-Stevia-330ml-5-1-Doro.html?product_id=163155455</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/BIKOS-COLA-STEVIA-51-6X330ML.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.54</Price>
+		<Price>2.44</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0036</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Αναζητάς έντονη γεύση χωρίς θερμίδες; Βρες τη Βίκος Cola Στέβια, με φυσικό γλυκαντικό από το φυτό στέβια και χαμηλό γλυκαιμικό δείκτη. Νιώσε την πλούσια εμπειρία της Βίκος Cola με τη γλυκιά γεύση της στέβια και την ευεργετικότητα του φυσικού μεταλλικού νερού, όλα σε ένα.</Description>
 		<Barcode>5201946911060</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>13032</ID>
-		<Name>ΒΙΚΟΣ ΓΚΑΖΟΖΑ 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΓΚΑΖΟΖΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/27592387/Vikos-Mpoukali-Gazoza-me-Anthrakiko-330ml.html</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/12_10_22/ca93b6a0-1c56-41cd-a5a2-a80d4f744aac_E1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.54</Price>
+		<Price>2.44</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0306</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<Barcode>5201946910315</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>13033</ID>
-		<Name>ΒΙΚΟΣ ΣΟΔΑ 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΣΟΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.ab.gr/el/eshop/Kava-anapsyktika-nera-xiroi-karpoi/Anapsyktika/Soda-Tonik-Mixers/Anapsyktiko-Soda-Fiali-6-X-330ml-4-2-Doro-/p/7466879</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/12_10_22/98420063-9ed5-4ac7-877f-7d84d17610f2_E1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>4.31</Price>
+		<Price>1.61</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0340</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>180</Quantity>
 		</product>
 	<product><ID>13034</ID>
-		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://kritikos-sm.gr/products/kaba/anapsuktika/portokalada/bikos-portokalada-6330ml-51d-869126/</Product_Link>
 		<Image_Link>https://littlemarket.gr/wp-content/uploads/2020/11/%CE%92%CE%99%CE%9A%CE%9F%CE%A3-51%CE%94%CF%8E%CF%81%CE%BF-%CE%A0%CE%9F%CE%A1%CE%A4%CE%9F%CE%9A%CE%91%CE%9B%CE%91%CE%94%CE%91.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>7.10</Price>
+		<Price>2.65</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0034</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>180</Quantity>
 		</product>
 	<product><ID>130341</ID>
-		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ 18τμχ x330ml Χ.ΑΝΘΡΑΚΙΚΟ</Name>
+		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml Χ.ΑΝΘΡΑΚΙΚΟ</Name>
 		<Product_Link>https://www.ab.gr/el/eshop/Kava-anapsyktika-nera-xiroi-karpoi/Anapsyktika/Portokalada/Portokalada-Choris-Anthrakiko-330ml-5-1-Doro/p/7335840</Product_Link>
 		<Image_Link>https://e-vk.gr/images/photos/vikos-portokalada-xwris-anthrakiko-36330-ml-51-238-yiez.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>7.10</Price>
+		<Price>2.65</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0699</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>60</Quantity>
+		</product>
+	<product><ID>130349</ID>
+		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ STEVIA 6τμχ x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/24772953/Vikos-Stevia-Mpoukali-Portokalada-me-Anthrakiko-CHoris-Zachari-6x330ml.html</Product_Link>
+		<Image_Link>https://e-xpressdelivery.com/wp-content/uploads/2024/06/106029.jpg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>2.65</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
+		<MPN>0299</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Αναψυκτικά με κύριο συστατικό το Φυσικό Μεταλλικό Νερό, από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ, αλλά και χυμούς από ελληνικά φρούτα, που δημιουργούν τα πιο ξεχωριστές γεύσεις του καλοκαιριού μας και υπόσχονται πραγματική απόλαυση χάρη στη μοναδική τους γεύση.</Description>
+		<Barcode>5201946911046</Barcode>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>13035</ID>
-		<Name>ΒΙΚΟΣ ΛΕΜΟΝΑΔΑ 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΛΕΜΟΝΑΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43960064/Vikos-Lemonada-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/043960/43960064/20230710155211_vikos_lemonada_330ml_5_1_doro.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>6.54</Price>
+		<Price>2.44</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0312</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<Barcode>5201946910292</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>180</Quantity>
+		</product>
+	<product><ID>130359</ID>
+		<Name>ΒΙΚΟΣ ΛΕΜΟΝΑΔΑ STEVIA 6τμχ x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/24772968/Vikos-Stevia-Mpoukali-Lemonada-me-Anthrakiko-CHoris-Zachari-6x330ml.html</Product_Link>
+		<Image_Link>https://kosmosmarket.gr/wp-content/uploads/2023/07/%CE%92%CE%99%CE%9A%CE%9F%CE%A3-%CE%9B%CE%95%CE%9C%CE%9F%CE%9D%CE%91%CE%94%CE%91-stevia-330ml-51-%CE%94%CE%A9%CE%A1%CE%9F.jpg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>2.44</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
+		<MPN>0300</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Τα μόνα αναψυκτικά με Φυσικό Μεταλλικό Νερό από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ.Με φυσικά γλυκαντικά από το φυτό στέβια.</Description>
+		<Barcode>5201946911053</Barcode>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>13036</ID>
-		<Name>ΒΙΚΟΣ ΒΥΣΣΙΝΑΔΑ 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΒΥΣΣΙΝΑΔΑ 6τμχ x330ml</Name>
 		<Product_Link>https://www.e-fresh.gr/el/byssinada-bikos-6x330-ml-51-dwro</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/7/4200001807/bikos-byssinada-6x33051.jpg?id=1654007445</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>9.75</Price>
+		<Price>3.63</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0476</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<Barcode>5201946910445</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>13037</ID>
-		<Name>ΒΙΚΟΣ PINK GRAPEFRUIT 18τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ PINK GRAPEFRUIT 6τμχ x330ml </Name>
 		<Product_Link>https://www.skroutz.gr/s/37902414/Vikos-Anapsyktiko-Pink-Grapefruit-me-Anthrakiko-Mpoukali-6x330ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0003586.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>3</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>8.65</Price>
+		<Price>3.22</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>0137</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>14021</ID>
 		<Name>TUBORG ΣΟΔΑ 24τμχ x330ml ΚΟΥΤΙ</Name>
@@ -1264,7 +1420,7 @@
 		<Weight>8.3 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703176</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>14022</ID>
 		<Name>TUBORG ΣΟΔΑ ΛΕΜΟΝΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
@@ -1285,7 +1441,7 @@
 		<Quantity>0</Quantity>
 		</product>
 	<product><ID>14023</ID>
-		<Name>TUBORG PINEAPPLE 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>TUBORG PINEAPPLE 24τμχ x330ml ΚΟΥΤΙ </Name>
 		<Product_Link>https://eshop.goldenbrands.com.gr/el/%CE%B1%CE%BD%CE%B1%CF%88%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CE%BF/15265-tuborg-pineapple-lime-%CE%BA%CE%BF%CF%85%CF%84%CE%B9-6%CF%874%CF%81-330ml.html</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/21_03_22/31769715-3125-491e-b90b-a4d72bd26f7e_EB.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1303,7 +1459,7 @@
 		<Quantity>0</Quantity>
 		</product>
 	<product><ID>14024</ID>
-		<Name>TUBORG PINK GRAPEFRUIT 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>TUBORG PINK GRAPEFRUIT 24τμχ x330ml ΚΟΥΤΙ </Name>
 		<Product_Link>https://www.bazaar-online.gr/tuborg-330mlx6-pink-grapefruit-soda-sleek</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201309707170_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1316,8 +1472,7 @@
 		<Manufacturer>TUBORG</Manufacturer>
 		<MPN>0204</MPN>
 		<Weight>8.3 kg</Weight>
-		<Description>Αναψυκτικό με χυμό Pink Grapefruit &amp; Σαγκουίνι.
-Απολαυστικό &amp; δροσιστικό ρόφημα για κάθε στιγμή της ημέρας.</Description>
+		<Description>Αναψυκτικό με χυμό Pink Grapefruit &amp; Σαγκουίνι. Απολαυστικό &amp; δροσιστικό ρόφημα για κάθε στιγμή της ημέρας.</Description>
 		<Barcode>25201309707174</Barcode>
 		<Quantity>0</Quantity>
 		</product>
@@ -1354,839 +1509,854 @@
 		<MPN>0367</MPN>
 		<Weight>12.5 kg</Weight>
 		<Description>H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Συνδυάζει την απαλή πικράδα που ισορροπεί τέλεια με την διακριτική γλυκύτητα, με την δροσιστική γεύση του κίτρου, προσφέροντας αναζωογονητική αίσθηση δροσιάς.Αποτελεί διαχρονικά, την εγγυημένη επιλογή για την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
-		<Barcode>15201309101234</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>25201302701097</Barcode>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>14121</ID>
-		<Name>ΣΟΥΡΩΤΗ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.362grocery.com/p/soyroti-anthrakoyxo-nero-koyti-330-ml-6pack_SK-005031</Product_Link>
 		<Image_Link>https://trofodosies.gr/wp-content/uploads/2022/06/20210607164446_souroti_0_33lt_6tmch.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>17.81</Price>
+		<Price>4.65</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0991</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία.
-Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες.
-Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
-		<Barcode>25201277250085</Barcode>
-		<Quantity>20</Quantity>
+		<Weight>2 kg</Weight>
+		<Description>Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία. Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
+		<Barcode>5201277250081</Barcode>
+		<Quantity>40</Quantity>
 		</product>
 	<product><ID>14222</ID>
-		<Name>ΣΟΥΡΩΤΗ 24τμχ x330ml ΚΟΥΤΙ ΛΕΜΟΝΙ</Name>
+		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ ΛΕΜΟΝΙ</Name>
 		<Product_Link>https://citydrinks.gr/product/souroti-lemon-can-330ml/</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/SOUROTI-LEMONI-KOUTI-ANTHRAKOUXO-6x330-1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>18.41</Price>
+		<Price>4.81</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0712</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>Η souroti με το απαλό φυσικό άρωμα του λεμονιού-λάιμ συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την φρεσκάδα και την ασύγκριτη δροσιά των εσπεριδοειδών. Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία.
-Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
-		<Barcode>25201277250528</Barcode>
-		<Quantity>20</Quantity>
+		<Weight>2 kg</Weight>
+		<Description>Η souroti με το απαλό φυσικό άρωμα του λεμονιού-λάιμ συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την φρεσκάδα και την ασύγκριτη δροσιά των εσπεριδοειδών. Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία. Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
+		<Barcode>5201277250524</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>14124</ID>
-		<Name>ΣΟΥΡΩΤΗ 24τμχ x330ml ΚΟΥΤΙ PINK GRAPEFRUIT</Name>
+		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ PINK GRAPEFRUIT</Name>
 		<Product_Link>https://www.paxamos.gr/soyroti-anthrakoucho-fysiko-metalliko-nero-roz-gkreipfroyt-koyti-330ml</Product_Link>
 		<Image_Link>https://souroti.gr/wp-content/uploads/2023/07/souroti-grapefruit-removebg-preview.png</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>18.87</Price>
+		<Price>4.93</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0264</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Ποτό από Ανθρακούχο φυσικό Μεταλλικό Νερό Σουρωτή με φυσικά αρώματα Pink Grapefruit. Χωρίς ζάχαρη και με λιγότερο από 1 θερμίδα ανά 100ml προϊόντος. Το νερό Σουρωτή συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού, με την αναζωογονητική γεύση των ροζ γκρεϊπφρουτ.</Description>
-		<Barcode>25201277251341</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201277251347</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>14125</ID>
-		<Name>ΣΟΥΡΩΤΗ 24τμχ x330ml ΚΟΥΤΙ ΜΑΣΤΙΧΑ</Name>
+		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ ΜΑΣΤΙΧΑ</Name>
 		<Product_Link>https://www.362grocery.com/p/soyroti-mastixa-330-ml-6pack_SK-010323</Product_Link>
 		<Image_Link>https://www.362grocery.com/api/Images/ProductImageList?ImageID=bf00751e-6778-40ec-bc1b-21e5b04a87e9</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>18.87</Price>
+		<Price>4.93</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0132</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Ποτό από Ανθρακούχο Φυσικό Μεταλλικό νερό Σουρωτή με φυσικά αρώματα Μαστίχα. Χωρίς ζάχαρη και με λιγότερο από 1 θερμίδα ανά 100ml προιόντος. Το νερό Σουρωτή συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την αναζωογονητική και ενυδατική γεύση της μαστίχας.</Description>
-		<Barcode>25201277250702</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201277250708</Barcode>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>15001</ID>
-		<Name>RED BULL 24τμχ x250ml ΚΟΥΤΙ</Name>
+		<Name>RED BULL 250ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23937534/Red-Bull-Kouti-Energy-Drink-me-Anthrakiko-250ml.html</Product_Link>
 		<Image_Link>https://politou.gr/wp-content/uploads/2022/01/red-bull-24.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>23.99</Price>
+		<Price>1.06</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>RED BULL</Manufacturer>
 		<MPN>0419</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
-		<Barcode>9002490250065</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>90415708</Barcode>
+		<Quantity>240</Quantity>
 		</product>
 	<product><ID>17051</ID>
-		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ 250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812168/Agros-CHymos-Portokali-250ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/023812/23812168/20220318111841_agros_chymos_portokali_250ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>13.55</Price>
+		<Price>0.51</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0977</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908000020</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17052</ID>
-		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΡΟΔΑΚΙΝΟ 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΡΟΔΑΚΙΝΟ 250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812172/Agros-CHymos-Rodakino-250ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/023812/23812172/20220216103524_agros_chymos_rodakino_250ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>8.47</Price>
+		<Price>0.35</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0750</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000044</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17053</ID>
-		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 250ml</Name>
 		<Product_Link>https://kavamaziotis.gr/index.php?route=product/product&amp;path=288&amp;product_id=857</Product_Link>
 		<Image_Link>https://www.362grocery.com/api/Images/ProductImageList?ImageID=d7596862-c7a2-424e-ba6d-a759de6db60a</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>8.47</Price>
+		<Price>0.35</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0440</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17055</ID>
-		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ 8 ΦΡΟΥΤΑ 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ 8 ΦΡΟΥΤΑ 250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812121/Agros-CHymos-8-Frouta-250ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/023812/23812121/20220216102732_agros_chymos_8_frouta_250ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.45</Price>
+		<Price>0.43</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0584</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000037</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17057</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 250ml</Name>
 		<Product_Link>https://lianiki.mrpanda.gr/%CF%87%CF%85%CE%BC%CE%BF%CE%AF/2800-agros-%CF%87%CF%85%CE%BC%CF%8C%CF%82-%CE%BC%CF%80%CE%B1%CE%BD%CE%AC%CE%BD%CE%B1-%CE%B2%CF%8D%CF%83%CF%83%CE%B9%CE%BD%CE%BF-1lt-5202908001072.html</Product_Link>
 		<Image_Link>https://balaskas.shop/wp-content/uploads/2022/02/5202908001072-800x800.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>9.32</Price>
+		<Price>0.38</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0803</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. </Description>
 		<Barcode>5202908004011</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17058</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ 250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812130/Agros-CHymos-Vyssino-250ml.html</Product_Link>
 		<Image_Link>https://panora.gr/pub/media/catalog/product/cache/e661dd810c922a0d4384fc34046b950e/1/0/10786.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>9.32</Price>
+		<Price>0.38</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0000</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17060</ID>
-		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ 250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812176/Agros-CHymos-Rodi-250ml.html</Product_Link>
 		<Image_Link>https://panora.gr/pub/media/catalog/product/cache/e661dd810c922a0d4384fc34046b950e/1/0/10789.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.45</Price>
+		<Price>0.43</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0626</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
 		<Barcode>5202908000150</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17062</ID>
-		<Name>ΑΓΡΟΣ Φ. ΧΥΜΟΣ 4 ΦΡ. (ΡΟΔ-ΒΕΡ-ΜΗΛ-ΠΟΡ) 27τμχ x250ml</Name>
+		<Name>ΑΓΡΟΣ Φ. ΧΥΜΟΣ 4 ΦΡ. (ΡΟΔ-ΒΕΡ-ΜΗΛ-ΠΟΡ) 250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812151/Agros-CHymos-Portokali-Milo-Verikoko-Rodakino-250ml.html</Product_Link>
 		<Image_Link>https://lianiki.mrpanda.gr/107712-large_default/agros-%CF%87%CF%85%CE%BC%CF%8C%CF%82-4-%CF%86%CF%81%CE%BF%CF%8D%CF%84%CE%B1-250ml.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>27</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>9.32</Price>
+		<Price>0.38</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0578</MPN>
-		<Weight>7 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000174</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17071</ID>
-		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/33065894/Agros-CHymos-Portokali-1000ml.html</Product_Link>
 		<Image_Link>https://www.362grocery.com/api/Images/ProductImageList?ImageID=b1b2b861-d830-4bcc-a3fb-bbca6ee434a7</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>18.07</Price>
+		<Price>1.67</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0310</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908110019</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17072</ID>
-		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΡΟΔΑΚΙΝΟ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΡΟΔΑΚΙΝΟ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812064/Agros-CHymos-Rodakino-1000ml.html</Product_Link>
 		<Image_Link>https://www.bioscoop.gr/wp-content/uploads//2020/08/5202908110002.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.29</Price>
+		<Price>1.05</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0341</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908110002</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17073</ID>
-		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 1 ΛΙΤ</Name>
 		<Product_Link>https://kalavrytinos.gr/gr/kaba/chumoi/agros-nektar-coctail-3-frouta-1lt</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320067_0_lo.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.29</Price>
+		<Price>1.05</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0812</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908001003</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17074</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812005/Agros-CHymos-Mpanana-1000ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/023812/23812005/20210608091900_agros_chymos_1000ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>11.29</Price>
+		<Price>1.05</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0198</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<Barcode>5202908000112</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17075</ID>
-		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ 8 ΦΡΟΥΤΑ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ 8 ΦΡΟΥΤΑ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23811972/Agros-CHymos-8-Frouta-1000ml.html</Product_Link>
 		<Image_Link>https://balaskas.shop/wp-content/uploads/2019/11/5202908000105.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>13.93</Price>
+		<Price>1.29</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0035</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000105</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17076</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΗΛΟ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΗΛΟ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/27224039/Agros-CHymos-Milo-Milo-1000ml.html</Product_Link>
 		<Image_Link>https://captain-hellas.gr/media/catalog/product/cache/7f8f0dadd9024ab92d0921af5c41888f/P/a/Page_1009_1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.42</Price>
+		<Price>1.15</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0788</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908101000</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17077</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812016/Agros-CHymos-Mpanana-Vyssino-1000ml.html</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320094_low.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.42</Price>
+		<Price>1.15</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0544</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. </Description>
 		<Barcode>5202908001072</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17078</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23811996/Agros-CHymos-Vyssino-1000ml.html</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/a/g/agros-froutopoto-cranberry-1lt_eryucfo752ylj8ok.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.42</Price>
+		<Price>1.15</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0510</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000167</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17080</ID>
-		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812072/Agros-CHymos-Rodi-1000ml.html</Product_Link>
 		<Image_Link>https://imageproxy.wolt.com/menu/menu-images/64253711538dc3031d335d2d/c97f3a06-e439-11ed-97ba-c21da986045d_4519edb0_cf94_11ed_bc66_be0762469d7c_sok_market_88_photoroom.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>13.93</Price>
+		<Price>1.29</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0424</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
 		<Barcode>5202908000143</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17081</ID>
-		<Name>ΑΓΡΟΣ  Φ. ΧΥΜΟΣ ΑΝΑΝΑΣ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ  Φ. ΧΥΜΟΣ ΑΝΑΝΑΣ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/29884041/Agros-CHymos-Anana-1000ml.html</Product_Link>
 		<Image_Link>https://grmarket.dk/wp-content/uploads/2023/07/Agros-juice-pineapple-ananas-greek-market-graesk-grmarket.dk_.webp</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>13.93</Price>
+		<Price>1.29</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0246</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Ένας φυσικός χυμός από την Agros με γεύση ανανά από συμπυκνωμένο χυμό.</Description>
 		<Barcode>5202908100003</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17083</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΛΕΜΟΝΙ 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΛΕΜΟΝΙ 1 ΛΙΤ</Name>
 		<Product_Link>https://www.bioscoop.gr/product/agros-%CE%BB%CE%B5%CE%BC%CE%BF%CE%BD%CE%B1%CE%B4%CE%B1-1lt/</Product_Link>
 		<Image_Link>https://www.bioscoop.gr/wp-content/uploads//2020/08/5202908000099.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.42</Price>
+		<Price>1.15</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0742</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Φρεσκάδα και αυθεντική γεύση λεμονιού σε κάθε γουλιά. Με φυσική γεύση και απαλό άρωμα, είναι ιδανικός για αναζωογόνηση και απόλαυση σε κάθε περίσταση.</Description>
 		<Barcode>5202908000099</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17084</ID>
-		<Name>ΑΓΡΟΣ  Φ. ΧΥΜΟΣ 4 ΦΡ. (ΡΟΔ-ΒΕΡ-ΜΗΛ-ΠΟΡ) 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ  Φ. ΧΥΜΟΣ 4 ΦΡ. (ΡΟΔ-ΒΕΡ-ΜΗΛ-ΠΟΡ) 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/29585006/Agros-CHymos-4-Frouta-Portokali-Milo-Verikoko-Rodakino-1000ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/029585/29585006/20210621111226_agros_chymos_4_frouta_1000ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.42</Price>
+		<Price>1.15</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0972</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000273</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17085</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ CRANBERRY 12τμχ x 1ΛΙΤ</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ CRANBERRY 1 ΛΙΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/29883966/Agros-Froutopoto-Cranberry-1000ml.html</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/a/g/agros-froutopoto-cranberry-1lt_eryucfo752ylj8ok.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>18.07</Price>
+		<Price>1.67</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
 		<MPN>0726</MPN>
-		<Weight>12.5 kg</Weight>
+		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός cranberry από συμπυκνωμένο φυσικό χυμό.</Description>
 		<Barcode>5202908000228</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17121</ID>
-		<Name>DEL MONTE ΧΥΜΟΣ ANANA 24τμχ x240ml</Name>
+		<Name>DEL MONTE ΧΥΜΟΣ ANANA 240ml</Name>
 		<Product_Link>https://www.thanopoulos.gr/el/ananas/25460-del-monte-quality-100-xumos-sumpuknomenos-gold-ananas-1lt-24000193852.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/7/170569_10_1.png</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>13.00</Price>
+		<Price>0.56</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>DEL MONTE</Manufacturer>
 		<MPN>0591</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Ο χυμός Del Monte Ανανάς προσφέρει φρουτώδη γεύση και απαλή υφή, αποτελώντας μια δροσιστική επιλογή για να απολαύσετε τη γεύση του ανανά σε κάθε γουλιά. Ιδανικός για να αναζωογονηθείτε και να απολαύσετε τη φυσική φρεσκάδα του φρούτου.</Description>
 		<Barcode>4800024562692</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>240</Quantity>
 		</product>
 	<product><ID>17122</ID>
-		<Name>DEL MONTE ΧΥΜΟΣ ANANA CRUSH 24τμχ x240ml</Name>
+		<Name>DEL MONTE ΧΥΜΟΣ ANANA CRUSH 240ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/44199386/CHYMOS-DEL-MONTE-ANANAS-CRUSH-me-kommatakia-anana-kouti-24CH240ml.html</Product_Link>
 		<Image_Link>https://d2f5fuie6vdmie.cloudfront.net/asset/imported/smhd/ac916/ebc51/5ff77/2036375471_img.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>13.00</Price>
+		<Price>0.52</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>DEL MONTE</Manufacturer>
 		<MPN>0078</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Ο χυμός Del Monte Ανανάς προσφέρει μια δροσιστική εμπειρία με τη φρουτώδη γεύση του ανανά και τα φρέσκα κομματάκια ανανά που περιέχει. Με φυσική γεύση και απαλή υφή, αποτελεί μια απολαυστική επιλογή για αναζωογόνηση και ευχάριστη απόλαυση κάθε στιγμή της ημέρας.</Description>
 		<Barcode>4800024550057</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>720</Quantity>
 		</product>
 	<product><ID>17123</ID>
-		<Name>DEL MONTE ΧΥΜΟΣ MANGO 24τμχ x240ml</Name>
+		<Name>DEL MONTE ΧΥΜΟΣ MANGO 240ml</Name>
 		<Product_Link>https://www.ebay.co.uk/itm/134414139509</Product_Link>
 		<Image_Link>https://www.kuyastindahan.co.uk/images/del-monte-mango-juice-drink-240ml-p1173-3044_image.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>16.00</Price>
+		<Price>0.8</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>DEL MONTE</Manufacturer>
 		<MPN>0852</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Ο χυμός Del Monte με μάνγκο είναι ιδανικός για πρωινό καθώς και σαν αναζωογονητικό ρόφημα οποιαδήποτε στιγμή της μέρας.</Description>
 		<Barcode>4800024550194</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17124</ID>
-		<Name>DEL MONTE ΧΥΜΟΣ TROPICAL 24τμχ x240ml</Name>
+		<Name>DEL MONTE ΧΥΜΟΣ TROPICAL 240ml</Name>
 		<Product_Link>https://christodoulides.gr/del-monte-tropical-fruits-1lt/</Product_Link>
 		<Image_Link>https://m.media-amazon.com/images/I/61W2Zprl5HL._AC_UF894,1000_QL80_.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>14.00</Price>
+		<Price>0.63</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>DEL MONTE</Manufacturer>
 		<MPN>0561</MPN>
-		<Weight>6 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Ο χυμός Del Monte Τροπικά φρούτα με πορτοκάλι, ανανά, μήλο, passion fruit και μάνγκο είναι ιδανικός για πρωινό καθώς και σαν αναζωογονητικό ρόφημα οποιαδήποτε στιγμή της μέρας.</Description>
 		<Barcode>4800024558305</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>18021</ID>
-		<Name>LIPTON ΛΕΜΟΝΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>LIPTON ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.thanopoulos.gr/el/lemoni/38648-lipton-etoimo-afepsima-maurou-tsagiou-ice-tea-lemoni-6x330ml-5201156030261.html</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1035730/lipton-etoimo-afepsima-maurou-tsagiou-ice-tea-lemoni-6x330ml.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.65</Price>
+		<Price>3.67</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIPTON</Manufacturer>
 		<MPN>0701</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>18022</ID>
-		<Name>LIPTON ΡΟΔΑΚΙΝΟ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>LIPTON ΡΟΔΑΚΙΝΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/44018117/Lipton-Ice-Tea-Rodakino-Kouti-6x330ml.html?product_id=163159280</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/044018/44018117/20230712104951_lipton_ice_tea_rodakino_kouti_6x330ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>10.65</Price>
+		<Price>3.67</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIPTON</Manufacturer>
 		<MPN>0654</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
+		</product>
+	<product><ID>18023</ID>
+		<Name>LIPTON ΠΡΑΣΙΝΟ 6τμχ x330ml ΚΟΥΤΙ </Name>
+		<Product_Link>https://www.skroutz.gr/s/51773112/Lipton-Ice-Tea-Lemon-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://www.kavakaralis.gr/wp-content/uploads/2021/12/lipton-balck-green-sleek-cans-multipack.jpg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>3.67</Price>
+		<Availability>1-3 μέρες</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>LIPTON</Manufacturer>
+		<MPN>0655</MPN>
+		<Weight>0.3 kg</Weight>
+		<Description>Το Lipton Ice Tea Green Lemon είναι η πιο αναζωογονητική επιλογή. Προσφέρει μία καθημερινή, απολαυστική πρόταση πράσινου τσαγιού αναδίδοντας μια υπέροχη αίσθηση δροσιάς και αναζωογόνησης, στοιχεία απαραίτητα για τους δύσκολους ρυθμούς της σύγχρονης καθημερινότητας. Είναι δροσιστικό χωρίς ζάχαρη και θερμίδες.</Description>
+		<Barcode>8001160005241</Barcode>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>18101</ID>
-		<Name>LIFE ΤΣΑΙ ΛΕΜΟΝΙ 12τμχ x500ml</Name>
+		<Name>LIFE ΤΣΑΙ ΛΕΜΟΝΙ 500ml</Name>
 		<Product_Link>https://www.e-fresh.gr/el/ice-tea-lemoni-life-tsai-500-ml</Product_Link>
 		<Image_Link>https://www.market-in.gr/Images/Products/89046754_1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.98</Price>
+		<Price>1.23</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIFE</Manufacturer>
 		<MPN>0236</MPN>
-		<Weight>6.3 kg</Weight>
+		<Weight>0.5 kg</Weight>
 		<Description>Ένα δροσιστικό και αρωματικό ρόφημα που συνδυάζει το φρέσκο άρωμα του τσαγιού με τη φρεσκάδα του λεμονιού. Ιδανικό για να αναζωογονήσει τις αισθήσεις σας και να σας προσφέρει ένα ευχάριστο δροσιστικό ποτό σε κάθε περίσταση. Χωρίς προσθήκη ζάχαρης.</Description>
 		<Barcode>5201037404945</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>24</Quantity>
 		</product>
 	<product><ID>18102</ID>
-		<Name>LIFE ΤΣΑΙ ΡΟΔΑΚΙΝΟ 12τμχ x500ml</Name>
+		<Name>LIFE ΤΣΑΙ ΡΟΔΑΚΙΝΟ 500ml</Name>
 		<Product_Link>https://www.mymarket.gr/life-tsai-rodakino-0-500m</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/21_06_21/9857c9cd-2956-4d5a-9679-28f05478ac27_E1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.98</Price>
+		<Price>1.23</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIFE</Manufacturer>
 		<MPN>0829</MPN>
-		<Weight>6.3 kg</Weight>
+		<Weight>0.5 kg</Weight>
 		<Description>Ένα δροσιστικό και γευστικό ρόφημα που συνδυάζει τη φρεσκάδα του τσαγιού με το γλυκό άρωμα του ροδακινιού. Με φυσική γεύση και αναζωογονητική παρουσία, αποτελεί ιδανική επιλογή για μια δροσιστική απόλαυση σε κάθε στιγμή της ημέρας. Χωρίς προσθήκη ζάχαρης.</Description>
 		<Barcode>5201037404938</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>24</Quantity>
 		</product>
 	<product><ID>18104</ID>
-		<Name>LIFE ΤΣΑΙ BALANCE MATCHA 12τμχ x500ml</Name>
+		<Name>LIFE ΤΣΑΙ BALANCE MATCHA 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43961066/Life-Tsai-Matcha-Dyosmos-0-500ml.html?product_id=163156596</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/043961/43961066/20230710155401_life_tsai_matcha_dyosmos_0_500ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>12</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.98</Price>
+		<Price>1.23</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIFE</Manufacturer>
 		<MPN>0809</MPN>
-		<Weight>6.3 kg</Weight>
+		<Weight>0.5 kg</Weight>
 		<Description>Ένα εκλεπτυσμένο ρόφημα με την προσθήκη matcha, μιας ιδιαίτερα δημοφιλούς μορφής πράσινου τσαγιού που προέρχεται από την Ιαπωνία. Το matcha περιέχει υψηλή περιεκτικότητα σε αντιοξειδωτικά και άλλες ευεργετικές ενώσεις. Η ισορροπημένη γεύση του συνδυάζεται με τη φυσική γλυκύτητα του τσαγιού, προσφέροντας μια εναλλακτική και υγιεινή επιλογή που ενισχύει την ενέργεια και την ευεξία. Χωρίς προσθήκη ζάχαρης.</Description>
-		<Barcode>5201037404938</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5201037405010</Barcode>
+		<Quantity>24</Quantity>
 		</product>
 	<product><ID>40071</ID>
-		<Name>ΑΝΕΜΕΛΟ ΛΕΥΚΟ 6φ x500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>ΑΝΕΜΕΛΟ ΛΕΥΚΟ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<Product_Link>https://edt-shop.gr/krasia-leyka/26438-agchialoy-anemelo-leyko-hmixhro-05lt.html</Product_Link>
 		<Image_Link>https://edt-shop.gr/18601-large_default_2x/agchialoy-anemelo-leyko-hmixhro-05lt.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>7.25</Price>
+		<Price>1.37</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
 		<MPN>0989</MPN>
-		<Weight>3.3 kg</Weight>
+		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000017</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>240</Quantity>
 		</product>
 	<product><ID>40072</ID>
-		<Name>ΑΝΕΜΕΛΟ ΡΟΖΕ 6φ x500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>ΑΝΕΜΕΛΟ ΡΟΖΕ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<Product_Link>https://noodles-volos.gr/el/catalog/wines/203-anemelo-roze-imiglyko-500</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/01-05-028.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>7.54</Price>
+		<Price>1.42</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
 		<MPN>0429</MPN>
-		<Weight>3.3 kg</Weight>
+		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000000</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>40073</ID>
-		<Name>ΑΝΕΜΕΛΟ ΕΡΥΘΡΟ 6φ x500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>ΑΝΕΜΕΛΟ ΕΡΥΘΡΟ 500ml ΗΜΙΞΗΡΟ pet (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<Product_Link>https://noodles-volos.gr/el/catalog/wines/204-anemelo-red-imiglyko-500</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/01-06-028.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>7.72</Price>
+		<Price>1.45</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
 		<MPN>0412</MPN>
-		<Weight>3.3 kg</Weight>
+		<Weight>0.5 kg</Weight>
 		<Description>Ένα ημιξηρό ερυθρό κρασί σε συσκευασία PET. Με πλούσια αρώματα και εκλεπτυσμένη γεύση, προσφέρει μια ευχάριστη εμπειρία απόλαυσης και αναψυχής.</Description>
 		<Barcode>5203413000024</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>40101</ID>
-		<Name>ΔΗΜΗΤΡΑ ΛΕΥΚΟΣ ΞΗΡΟΣ ΠΕΤ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>ΔΗΜΗΤΡΑ ΛΕΥΚΟΣ ΞΗΡΟΣ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<Product_Link>https://mpalantinas.gr/product/%CE%B4%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%B1-%CE%BA%CF%81%CE%B1%CF%83%CE%B9-%CE%BB%CE%B5%CF%85%CE%BA%CE%BF%CF%83-15l6%CF%84%CE%B5%CE%BC/</Product_Link>
 		<Image_Link>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMzi28KyKR-NyUJHEAWWEdroZJwWigjUSCY_E4wg5a7xHqe-_oAiuL25C_xJUjLaUP4ZBmWMF2QuWYowY80O0qDO3vcD6IsMr1nhIfNiNrrsGnk7ThI3c1WnH2tOZyErJajMqUXqx5uU0/s1600/20150331_193640.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>16.94</Price>
+		<Price>3.34</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
 		<MPN>0917</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>40103</ID>
-		<Name>ΔΗΜΗΤΡΑ ΡΟΖΕ ΗΜΙΞΗΡΟ ΠΕΤ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>ΔΗΜΗΤΡΑ ΡΟΖΕ ΗΜΙΞΗΡΟ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<Product_Link>https://edt-shop.gr/krasia-roze/10330-agchialoy-dhmhtra-roze-xhros-pet-6x1-5lt.html</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/01-64-27.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>17.78</Price>
+		<Price>3.5</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
 		<MPN>0126</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413040181</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>40104</ID>
-		<Name>ΔΗΜΗΤΡΑ ΕΡΥΘΡΟ ΠΕΤ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>ΔΗΜΗΤΡΑ ΕΡΥΘΡΟ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<Product_Link>https://edt-shop.gr/krasia-kokkina/10350-agchialoy-dhmhtra-erythros-xhros-pet-6x1-5lt.html</Product_Link>
 		<Image_Link>https://edt-shop.gr/22186-large_default_2x/agchialoy-dhmhtra-erythros-xhros-pet-6x1-5lt.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>19.18</Price>
+		<Price>3.78</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
 		<MPN>0436</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ερυθρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα πλούσιο και γεμάτο ερυθρό κρασί με εκλεπτυσμένη γεύση και αρώματα μούρων και μπαχαρικών. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413030182</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>40105</ID>
-		<Name>ΔΗΜΗΤΡΑ ΗΜΙΓΛΥΚΟ ΠΕΤ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
+		<Name>ΔΗΜΗΤΡΑ ΗΜΙΓΛΥΚΟ ΠΕΤ 1,5 ΛΙΤ (Α.Ο.Σ.ΝΕΑΣ ΑΓΧΙΑΛΟΥ)</Name>
 		<Product_Link>https://edt-shop.gr/krasia-kokkina/10351-agchialoy-dhmhtra-hmiglykos-erythros-pet-6x1-5lt.html</Product_Link>
 		<Image_Link>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1_UlT2iJLKXqCZVXpnYxAY8eipAAFg4s_7d-_qMpjg&amp;s</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>19.91</Price>
+		<Price>3.92</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
 		<MPN>0038</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ημίγλυκο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα γλυκό και αρωματικό κρασί με φρουτώδεις νότες και ελαφρώς γλυκιές αποχρώσεις. Με την απαλή του γεύση και το φωτεινό του χρώμα, αποτελεί μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης.</Description>
 		<Barcode>5203413010610</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>40221</ID>
-		<Name>ΤΥΡΝΑΒΟΥ ΑΡΕΤΟ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>ΤΥΡΝΑΒΟΥ ΑΡΕΤΟ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<Product_Link>https://www.market-in.gr/el-gr/kava-krasia-sampanies-krasia-leuka/areto-turnavou-oinos-leukos-kshros-1-5lt</Product_Link>
 		<Image_Link>https://supermarket.prosperitynetwork.gr/822-large_default/%CF%84%CF%85%CF%81%CE%BD%CE%B1%CE%B2%CE%BF%CF%85-pet-%CE%B1%CF%81%CE%B5%CF%84%CE%BF-15-lt.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>17.05</Price>
+		<Price>3.36</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0939</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>40222</ID>
-		<Name>ΤΥΡΝΑΒΟΥ ΡΕΤΣΙΝΑ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>ΤΥΡΝΑΒΟΥ ΡΕΤΣΙΝΑ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<Product_Link>https://www.skroutz.gr/s/6397131/Tyrnavou-Retsina-1-5lt.html</Product_Link>
 		<Image_Link>https://agnomarket-meat.gr/wp-content/uploads/2023/07/7260-1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>17.05</Price>
+		<Price>3.36</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0691</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ρετσίνα προσφέρει ένα δροσιστικό και αρωματικό λευκό κρασί με τις χαρακτηριστικές νότες της ρετσίνας. Με το φρέσκο άρωμά της και τη δροσερή γεύση της, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε μοναδικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5202037115022</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>40223</ID>
-		<Name>ΤΥΡΝΑΒΟΥ ΚΟΚΚΙΝΕΛΙ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>ΤΥΡΝΑΒΟΥ ΚΟΚΚΙΝΕΛΙ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<Product_Link>https://www.skroutz.gr/s/46934417/Tyrnavou-Kokkineli-1-5-lt.html</Product_Link>
 		<Image_Link>https://agnomarket-meat.gr/wp-content/uploads/2023/07/7259-1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>17.05</Price>
+		<Price>3.36</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0464</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Το Μοσχάτο κοκκινέλι είναι ερυθρός ξηρός οίνος που παράγεται από Μοσχάτο. Είναι κρασί με φωτεινό κόκκινο χρώμα που συνοδεύει απολαυστικά μεγάλη ποικιλία φαγητών. Πίνεται σε θερμοκρασία 12-14°C.</Description>
 		<Barcode>5202037115039</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>30</Quantity>
 		</product>
 	<product><ID>40224</ID>
-		<Name>ΤΥΡΝΑΒΟΥ ΗΜΙΓΛΥΚΟ 6τμχ x 1,5ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
+		<Name>ΤΥΡΝΑΒΟΥ ΗΜΙΓΛΥΚΟ 1,5 ΛΙΤ (Α.Ο.Σ.ΤΥΡΝΑΒΟΥ)</Name>
 		<Product_Link>https://www.skroutz.gr/s/6397134/Tyrnavou-Imiglyko-1-5lt.html</Product_Link>
 		<Image_Link>https://www.ekava.gr/wp-content/uploads/2023/07/04-082-027.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>6</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>17.05</Price>
+		<Price>3.36</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0387</MPN>
-		<Weight>9.3 kg</Weight>
+		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
-		<Barcode>5202037115039</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5202037115053</Barcode>
+		<Quantity>30</Quantity>
 		</product>
 	<product><ID>40411</ID>
 		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΛΕΥΚΟΣ 5 ΛΙΤ (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
@@ -2420,7 +2590,7 @@
 		<Weight>6 kg</Weight>
 		<Description>To λευκό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Sauvignon Blanc, Chardonnay και Ασύρτικο. Χαρακτηρίζεται από φρουτώδη αρώματα ροδάκινου, λεμονιού και μάνγκο και ανθικά αρώματα λεμονανθών. Στο στόμα έχει δροσερή οξύτητα, ισορροπημένο αλκοόλ, στρογγυλό στόμα, γεύση τροπικών φρούτων και ελαφριά επίγευση πράσινου τσαγιού.</Description>
 		<Barcode>15202548501021</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>57052</ID>
 		<Name>Bianco Nero Ηρεμο Ροζέ 24φ x187ml</Name>
@@ -2438,7 +2608,7 @@
 		<Weight>6 kg</Weight>
 		<Description>Το ροζέ (ή ροζ!) αφρώδες κρασί της γκάμας, από σταφύλια της ποικιλίας Μοσχάτο Αμβούργου, χαρακτηρίζεται από φρουτώδη αρώματα φράουλας, βατόμουρου και κερασιού που συνδυάζονται με νότες βιολέτας και βανίλιας.Ευχάριστο και παιχνιδιάρικο καταναλώνεται μόνο του ως απεριτίφ, με φρούτα και σοκολατένια γλυκά.</Description>
 		<Barcode>15202548501120</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>57053</ID>
 		<Name>Bianco Nero Ηρεμο Ερυθρό 24φ x187ml</Name>
@@ -2456,7 +2626,7 @@
 		<Weight>6 kg</Weight>
 		<Description>To ερυθρό, ξηρό κρασί της γκάμας παράγεται από σταφύλια των ποικιλιών Syrah και Merlot και παλαιώνεται σε γαλλικά και αμερικάνικα δρύινα βαρέλια για 10 μήνες. Χαρακτηρίζεται από αρώματα κόκκινων φρούτων όπως βατόμουρο, βύσσινο και κεράσι, πικάντικα γλυκά αρώματα βανίλιας, μαύρου πιπεριού και μοσχοκάρυδου και γλυκά αρώματα σοκολάτας. Στο στόμα έχει ισορροπημένη οξύτητα, πλούσιο αλκοόλ, γεμάτο σώμα και μακρά επίγευση.</Description>
 		<Barcode>15202548501229</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>58161</ID>
 		<Name>Bianco Nero Αφρώδες Λευκό 24φ x200ml</Name>
@@ -2474,7 +2644,7 @@
 		<Weight>6 kg</Weight>
 		<Description>H νέα άποψη στο κρασί είναι ασπρόμαυρη… BiancoNero. Mια νέα σειρά οίνων με απόλυτα νεανική διάθεση. Τίποτα στη ζωή δεν είναι ασπρόμαυρο! Είναι ο καμβάς για το χρώμα και τη γεύση του κρασιού που δραματοποιεί την απόλαυση. Είναι ο τρόπος να αποθεωθούν οι αισθήσεις και να νιώσουμε έντονες στιγμές. Πέντε διαφορετικές μορφές, κλεισμένες σε συσκευασίες που συναρπάζουν το βλέμμα. Εκφράζουν την αγάπη για την ποιότητα ζωής, σκέψης και κατανάλωσης και συντροφεύουν τις πολύτιμες στιγμές της ζωής μας, με το δικό τους ευφάνταστο τρόπο. BiancoNero και αφεθείτε στη σαγήνη της ευδαιμονίας!</Description>
 		<Barcode>152025485001038</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>58162</ID>
 		<Name>Bianco Nero Αφρώδες Ροζέ 24φ x200ml</Name>
@@ -2492,458 +2662,458 @@
 		<Weight>6 kg</Weight>
 		<Description>Το ροζέ (ή ροζ!) αφρώδες κρασί της γκάμας, από σταφύλια της ποικιλίας Μοσχάτο Αμβούργου, χαρακτηρίζεται από φρουτώδη αρώματα φράουλας, βατόμουρου και κερασιού που συνδυάζονται με νότες βιολέτας και βανίλιας.Ευχάριστο και παιχνιδιάρικο καταναλώνεται μόνο του ως απεριτίφ, με φρούτα και σοκολατένια γλυκά.</Description>
 		<Barcode>15202548501137</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>52101</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 24φ x50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265103/Apostolakis-Tsipouro-me-glykaniso-50ml.html</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%B1%CE%BA%CE%B7-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>27.16</Price>
+		<Price>1.17</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0898</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000424</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52102</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 24φ x100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/17910830/Apostolakis-Tsipouro-Me-Glykaniso-42-100ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000233_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>47.12</Price>
+		<Price>2.04</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0322</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Barcode>5201064000035</Barcode>
+		<Barcode>5201064000233</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52103</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 24φ x200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269196/Apostolakis-Tsipouro-me-glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://www.cavakalomenidis.gr/wp-content/uploads/2023/06/Tsipouro-Apostolakis-With-Anise-200ml.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>89.44</Price>
+		<Price>3.86</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0970</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Barcode>5201064000028</Barcode>
+		<Barcode>5201064011222</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52151</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 24φ x50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265102/Apostolakis-Tsipouro-choris-glykaniso-50ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-50.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>27.02</Price>
+		<Price>1.17</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0345</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Barcode>5201064011147</Barcode>
+		<Barcode>5201064000417</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52152</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 24φ x100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/17911194/Apostolakis-Tsipouro-CHoris-Glykaniso-42-100ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000219_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>46.05</Price>
+		<Price>1.99</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0638</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Barcode>52010640111236</Barcode>
+		<Barcode>5201064000219</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52153</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 24φ x200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269192/Apostolakis-Tsipouro-choris-glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/005269/5269192/20210210125058_apostolakis_tsipouro_choris_glykaniso_200ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>87.25</Price>
+		<Price>3.77</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
 		<MPN>0722</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Barcode>25201064011219</Barcode>
+		<Barcode>5201064011550</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52201</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 24φ x50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265109/Tsililis-me-Glykaniso-Tsipouro-42-50ml.html</Product_Link>
 		<Image_Link>https://greekdeligoods.com/wp-content/uploads/2023/10/tsipouro-tsili-me-glykaniso-50ml-1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>28.23</Price>
+		<Price>1.22</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0533</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα πικάντικα αρώματα γλυκάνισου, μάραθου και γλυκόριζας, φρουτώδη αρώματα περγαμόντου και σύκου και βοτανικές νότες μέντας. Στο στόμα είναι μαλακό και γλυκόπιοτο με μακρύ βοτανικό τελείωμα. Καταναλώνεται με προσθήκη δροσερού νερού και πάγου παίρνοντας γαλάζια μορφή και συνδυάζεται με παραδοσιακούς μεζέδες.</Description>
-		<Barcode>25201064011219</Barcode>
+		<Barcode>5202548155128</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52202</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 24φ x100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23808123/Tsililis-me-Glykaniso-Tsipouro-42-100ml.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/4/146246.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>45.29</Price>
+		<Price>1.96</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0659</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα πικάντικα αρώματα γλυκάνισου, μάραθου και γλυκόριζας, φρουτώδη αρώματα περγαμόντου και σύκου και βοτανικές νότες μέντας. Στο στόμα είναι μαλακό και γλυκόπιοτο με μακρύ βοτανικό τελείωμα. Καταναλώνεται με προσθήκη δροσερού νερού και πάγου παίρνοντας γαλάζια μορφή και συνδυάζεται με παραδοσιακούς μεζέδες.</Description>
-		<Barcode>25201064011219</Barcode>
+		<Barcode>5202548101125</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52203</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 24φ x200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269205/Tsililis-Tsipouro-Tsilili-me-glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://phiali.gr/wp-content/uploads/2020/11/1174.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>96.62</Price>
+		<Price>4.17</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0259</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα πικάντικα αρώματα γλυκάνισου, μάραθου και γλυκόριζας, φρουτώδη αρώματα περγαμόντου και σύκου και βοτανικές νότες μέντας. Στο στόμα είναι μαλακό και γλυκόπιοτο με μακρύ βοτανικό τελείωμα. Καταναλώνεται με προσθήκη δροσερού νερού και πάγου παίρνοντας γαλάζια μορφή και συνδυάζεται με παραδοσιακούς μεζέδες.</Description>
-		<Barcode>25201064011219</Barcode>
+		<Barcode>5202548102122</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52251</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 24φ x50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/22328201/Tsililis-CHoris-glykaniso-Tsipouro-50ml.html</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/t/s/tsilili-tsipouro-50ml_hvwmq5x6sh3sqsjn.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>27.78</Price>
+		<Price>1.2</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0874</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
-		<Barcode>15202548145027</Barcode>
+		<Barcode>5202548145020</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52252</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 24φ x100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23808154/Tsililis-CHoris-Glykaniso-Tsipouro-100ml.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/1/114118.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>44.84</Price>
+		<Price>1.94</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0302</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
-		<Barcode>15202548141029</Barcode>
+		<Barcode>5202548141022</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52253</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 24φ x200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269201/Tsililis-CHoris-Glykaniso-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://www.cavamoutafi.gr/wp-content/uploads/products/tsipouro/tsipouro-tsilili-xoris-glykaniso.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>94.88</Price>
+		<Price>4.1</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0189</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
-		<Barcode>15202548142026</Barcode>
+		<Barcode>5202548142029</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52263</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΓΙΟΝΕΡΙ 24φ x200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΑΓΙΟΝΕΡΙ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/13336430/Tsililis-Agioneri-Palaiomeno-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://cavagreco.gr/image/cache/catalog/products/spirits/tsipouro/palaiomeno/Agioneri%20Tsipouro%20200ml-1080x1080.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>120.37</Price>
+		<Price>5.15</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΓΙΟΝΕΡΙ</Manufacturer>
 		<MPN>0039</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Το Αγιονέρι είναι τσίπουρο μικρής παραγωγής που αποστάζεται στην αμπελουργική ζώνη των Μετεωρών. Η παλαίωση του σε δρύινα βαρέλια του χάρισε πολυπλοκότητα και βάθος με ενδιαφέρον αρώματα πικάντικων μπαχαρικών και αποξηραμένων φρούτων. Ένα βελούδινο και κομψό παλαιωμένο τσίπουρο με φρουτώδη χαρακτήρα, ιδανικό να συνοδεύσει αρμονικά ορεκτικά και ελληνικούς μεζέδες.</Description>
-		<Barcode>15202548102044</Barcode>
+		<Barcode>5202548102047</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52302</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 24φ x100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/20022697/Tyrnavou-Me-Glykaniso-Tsipouro-42-100ml.html</Product_Link>
 		<Image_Link>https://www.cavarokos.gr/image/cache/catalog/product/4120-1200x1200.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>43.92</Price>
+		<Price>1.95</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0125</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
-		<Barcode>15202037000417</Barcode>
+		<Barcode>520237120064</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52352</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 24φ x100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/20022660/Tyrnavou-CHoris-glykaniso-Tsipouro-100ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/020022/20022660/20210210124802_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>42.50</Price>
+		<Price>1.89</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
 		<MPN>0232</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
-		<Barcode>15202037000431</Barcode>
+		<Barcode>5202037130063</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52401</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 24φ x50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24698168/Neas-Agchialou-THessaliko-me-Glykaniso-Tsipouro-40-50ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>24.66</Price>
+		<Price>1.09</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0896</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα.</Description>
-		<Barcode>45203413040035</Barcode>
+		<Barcode>5203413090018</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52402</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 24φ x100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24698171/Neas-Agchialou-THessaliko-Me-Glykaniso-Tsipouro-100ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>42.68</Price>
+		<Price>1.89</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0454</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα.</Description>
-		<Barcode>75203413070026</Barcode>
+		<Barcode>5203413090025</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52451</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 24φ x50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24672677/Neas-Agchialou-THessaliko-CHoris-Glykaniso-Tsipouro-50ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>24.38</Price>
+		<Price>1.08</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0747</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα. Χωρίς γλυκάνισο.</Description>
-		<Barcode>45203413050034</Barcode>
+		<Barcode>5203413080019</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52452</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 24φ x100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΘΕΣΣΑΛΙΚΟ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.ab.gr/el/eshop/Kava-anapsyktika-nera-xiroi-karpoi/Pota/Tsipoyro/APERITIF-ChORIS-GLYKANISO-100ML/p/7103955</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>41.77</Price>
+		<Price>1.85</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
 		<MPN>0692</MPN>
-		<Weight>5 kg</Weight>
+		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα. Χωρίς γλυκάνισο.</Description>
-		<Barcode>75203413080025</Barcode>
+		<Barcode>5203413080026</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52801</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 24φ x50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/10626911/Ktima-Kosta-Lazaridi-Idoniko-me-Glykaniso-Tsipouro-43-50ml.html</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B7%CE%B4%CF%89%CE%BD%CE%B9%CE%BA%CE%BF-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>32.50</Price>
+		<Price>1.44</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0427</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
-		<Barcode>15202207620513</Barcode>
+		<Barcode>5202207620516</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52802</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 24φ x200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269419/Ktima-Kosta-Lazaridi-Tsipouro-Idoniko-me-glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0000494.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>113.23</Price>
+		<Price>4.89</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0668</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<Barcode>5202207622015</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52851</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 24φ x50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/10626908/Ktima-Kosta-Lazaridi-Idoniko-CHoris-Glykaniso-Tsipouro-50ml.html</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B7%CE%B4%CF%89%CE%BD%CE%B9%CE%BA%CE%BF-%CF%87%CF%89%CF%81%CE%B9%CF%83-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>31.84</Price>
+		<Price>1.41</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0483</MPN>
-		<Weight>3 kg</Weight>
+		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
-		<Barcode>15202207610514</Barcode>
+		<Barcode>5202207610517</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52852</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 24φ x200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΗΔΩΝΙΚΟ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269238/Ktima-Kosta-Lazaridi-Idoniko-CHoris-Glykaniso-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0000491.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>110.46</Price>
+		<Price>4.77</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
 		<MPN>0984</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207612016</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52903</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΜΠΑΜΠΑΤΖΙΜ 24φ x200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΜΠΑΜΠΑΤΖΙΜ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265223/Mpampatzim-Me-glykaniso-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%BC%CF%80%CE%B1%CE%BC%CF%80%CE%B1%CF%84%CE%B6%CE%B9%CE%BC-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-200-premium.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>105.43</Price>
+		<Price>4.56</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
 		<MPN>0981</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.02 kg</Weight>
 		<Description>Προϊόν Διπλής Απόσταξης Στεμφύλων (φλούδες) Σταφυλιών. Η πολυσυλλεκτικότητα των ποικιλιών, η τέχνη της απόσταξης και η συμμετοχή αρωματικών βοτάνων και φρούτων κατά τη δεύτερη απόσταξη έχουν σαν αποτέλεσμα τη δημιουργία ενός ποτού υψηλής ποιότητας. Παράγεται αποκλειστικά από σταφύλια που καλλιεργούνται στην ελληνική γη. Η προσθήκη άγριων βοτάνων κατά τη δεύτερη απόσταξή του προσδίδει έναν ιδιαίτερο αρωματικό πλούτο.</Description>
 		<Barcode>5201302200616</Barcode>
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>52953</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΜΠΑΜΠΑΤΖΙΜ 24φ x200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤΣΙΠΟΥΡΟ ΜΠΑΜΠΑΤΖΙΜ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/49410508/Mpampatzim-Mpampatzim-Tsipouro-CHoris-Glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://cavamikrohorio.com/wp-content/uploads/2021/10/babatzim-tsipouro-xg-200ml-1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>24</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>103.66</Price>
+		<Price>4.48</Price>
 		<Availability>1-3 μέρες</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
 		<MPN>0569</MPN>
-		<Weight>10 kg</Weight>
+		<Weight>0.02 kg</Weight>
 		<Description>Προϊόν Διπλής Απόσταξης Στεμφύλων (φλούδες) Σταφυλιών. Η πολυσυλλεκτικότητα των ποικιλιών, η τέχνη της απόσταξης και η συμμετοχή αρωματικών βοτάνων και φρούτων κατά τη δεύτερη απόσταξη έχουν σαν αποτέλεσμα τη δημιουργία ενός ποτού υψηλής ποιότητας. Παράγεται αποκλειστικά από σταφύλια που καλλιεργούνται στην ελληνική γη. Η προσθήκη άγριων βοτάνων κατά τη δεύτερη απόσταξή του προσδίδει έναν ιδιαίτερο αρωματικό πλούτο. Χωρίς γλυκάνισο.</Description>
-		<Barcode>35201302200617</Barcode>
+		<Barcode>5201302200487</Barcode>
 		<Quantity>20</Quantity>
-		</product>
+	</product>
 	<product><ID>60001</ID>
 		<Name>COLGATE 100ml TRIPLE ACTION  </Name>
 		<Product_Link>https://www.skroutz.gr/s/7427081/Colgate-Triple-Action-Odontokrema-kata-tis-Teridonas-100ml.html</Product_Link>
@@ -3820,10 +3990,7 @@
 		<Manufacturer>TEO</Manufacturer>
 		<MPN>0019</MPN>
 		<Weight>None</Weight>
-		<Description>Ένα αφρόλουτρο που σας προσφέρει μια απολαυστική εμπειρία κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αισθησιακό άρωμα του σύκου, προσφέροντας ένα αίσθημα φρεσκάδας και ευεξίας. Καθαρίζει απαλά την επιδερμίδα σας, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.
-
-
-</Description>
+		<Description>Ένα αφρόλουτρο που σας προσφέρει μια απολαυστική εμπειρία κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αισθησιακό άρωμα του σύκου, προσφέροντας ένα αίσθημα φρεσκάδας και ευεξίας. Καθαρίζει απαλά την επιδερμίδα σας, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<Barcode>3800024015878</Barcode>
 		<Quantity>20</Quantity>
 		</product>
@@ -3877,8 +4044,7 @@
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>0552</MPN>
 		<Weight>None</Weight>
-		<Description>
-Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
+		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
 		<Barcode>5200100251629</Barcode>
 		<Quantity>20</Quantity>
 		</product>
@@ -4076,8 +4242,7 @@
 		<Manufacturer>WET HANKIES</Manufacturer>
 		<MPN>0112</MPN>
 		<Weight>None</Weight>
-		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση με διακριτικό άρωμα φρεσκάδας. Η σύνθεση τους προσφέρει αποτελεσματική δράση κατά των μικροβίων, χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα.
-Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
+		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση με διακριτικό άρωμα φρεσκάδας. Η σύνθεση τους προσφέρει αποτελεσματική δράση κατά των μικροβίων, χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα. Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007033</Barcode>
 		<Quantity>20</Quantity>
 		</product>
@@ -4095,8 +4260,7 @@
 		<Manufacturer>WET HANKIES</Manufacturer>
 		<MPN>0583</MPN>
 		<Weight>None</Weight>
-		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα με διακριτικό άρωμα. 
-- Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
+		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα με διακριτικό άρωμα. - Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007026</Barcode>
 		<Quantity>20</Quantity>
 		</product>
@@ -5613,13 +5777,7 @@
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0546</MPN>
 		<Weight>None</Weight>
-		<Description>Η λοσιόν αντικουνουπικής προστασίας της OSKAR σε μέγεθος 100ml είναι εμπλουτισμένη με άρωμα καρύδας. Κατάλληλη για την αποφυγή των τσιμπημάτων κουνουπιών, προσφέρει αποτελεσματική προστασία σε μικρό μέγεθος συσκευασίας που την καθιστά βολική για την καθημερινή χρήση και τα ταξίδια.
-
-
-
-
-
-</Description>
+		<Description>Η λοσιόν αντικουνουπικής προστασίας της OSKAR σε μέγεθος 100ml είναι εμπλουτισμένη με άρωμα καρύδας. Κατάλληλη για την αποφυγή των τσιμπημάτων κουνουπιών, προσφέρει αποτελεσματική προστασία σε μικρό μέγεθος συσκευασίας που την καθιστά βολική για την καθημερινή χρήση και τα ταξίδια.</Description>
 		<Barcode>5200128640712</Barcode>
 		<Quantity>20</Quantity>
 		</product>
@@ -5637,13 +5795,7 @@
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0421</MPN>
 		<Weight>None</Weight>
-		<Description>Τα αντικουνουπικά spiral της OSKAR προσφέρουν αποτελεσματική προστασία από τα κουνούπια. Κάθε συσκευασία περιλαμβάνει 10 σπιράλ για επαναλαμβανόμενη προστασία. Ιδανικά για χρήση σε εξωτερικούς χώρους καθώς και σε διακοπές και εκδρομές.
-
-
-
-
-
-</Description>
+		<Description>Τα αντικουνουπικά spiral της OSKAR προσφέρουν αποτελεσματική προστασία από τα κουνούπια. Κάθε συσκευασία περιλαμβάνει 10 σπιράλ για επαναλαμβανόμενη προστασία. Ιδανικά για χρήση σε εξωτερικούς χώρους καθώς και σε διακοπές και εκδρομές.</Description>
 		<Barcode>5201062008767</Barcode>
 		<Quantity>20</Quantity>
 		</product>
