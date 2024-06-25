@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mywebstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<created_at>2010-05-29 15:30</created_at>
-<product><ID>31023</ID>
+	<product><ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43960896/Alfa-Mpyra-Lager-Kouti-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201261031030_1-1000x1000.jpg</Image_Link>
@@ -201,7 +201,7 @@
 	<product><ID>110110</ID>
 		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ 1500ml</Name>
 		<Product_Link>https://www.malikiosis.gr/shop/proionta-psygeiou/anapsyktika-chymoi-nero-pota/portokalada-kliafa-1500ml/</Product_Link>
-		<Image_Link>https://static.ab.gr/medias/sys_master/h0c/h6d/9785272598558.jpg?buildNumber=3b762742e6edd814396ddac8825d3a01eff350b7c2a6d770cb7da109f54b927f&imwidth=320</Image_Link>
+		<Image_Link>https://static.ab.gr/medias/sys_master/h0c/h6d/9785272598558.jpg?buildNumber=3b762742e6edd814396ddac8825d3a01eff350b7c2a6d770cb7da109f54b927f&amp;imwidth=320</Image_Link>
 		<Additional>None</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -212,7 +212,8 @@
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά. Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
+		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
+Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
 		<Quantity>456</Quantity>
 		</product>
@@ -230,7 +231,8 @@
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0133</MPN>
 		<Weight>1.5 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, χωρίς ανθρακικό και χωρίς συντηρητικά. Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
+		<Description>Αναψυκτικό με γεύση πορτοκάλι, χωρίς ανθρακικό και χωρίς συντηρητικά.
+Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001692</Barcode>
 		<Quantity>228</Quantity>
 		</product>
@@ -253,7 +255,8 @@
 		<Quantity>456</Quantity>
 		</product>
 	<product><ID>11031</ID>
-		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΠΟΡΤΟΚΑΛΙ 
+6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/44017020/Kliafa-Portokalada-me-Anthrakiko-Fiali-6x330ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/05/KLIAFA-ORANGE-6X330.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -266,7 +269,8 @@
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά. Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
+		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
+Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
 		<Quantity>200</Quantity>
 		</product>
@@ -284,7 +288,8 @@
 		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
 		<MPN>0144</MPN>
 		<Weight>2 kg</Weight>
-		<Description>Η κλιάφα πορτοκάλι χωρίς ζάχαρη είναι ένα φρουτώδες, αρωματικό σνακ που παράγεται από φρέσκα πορτοκάλια χωρίς την προσθήκη ζάχαρης. Είναι μια υγιεινή επιλογή για όσους αποφεύγουν την πρόσθεση ζάχαρης στη διατροφή τους, προσφέροντας τη φυσική γεύση και τα θρεπτικά οφέλη του φρούτου χωρίς τα επιπλέον σάκχαρα.</Description>
+		<Description>
+Η κλιάφα πορτοκάλι χωρίς ζάχαρη είναι ένα φρουτώδες, αρωματικό σνακ που παράγεται από φρέσκα πορτοκάλια χωρίς την προσθήκη ζάχαρης. Είναι μια υγιεινή επιλογή για όσους αποφεύγουν την πρόσθεση ζάχαρης στη διατροφή τους, προσφέροντας τη φυσική γεύση και τα θρεπτικά οφέλη του φρούτου χωρίς τα επιπλέον σάκχαρα.</Description>
 		<Barcode>5201275000756</Barcode>
 		<Quantity>20</Quantity>
 		</product>
@@ -307,7 +312,8 @@
 		<Quantity>200</Quantity>
 		</product>
 	<product><ID>11032</ID>
-		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ 6τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΛΕΜΟΝΙ
+6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://citydrinks.gr/product/kliafa-lemoni-6%CF%87330ml-pet-51/</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/05/KLIAFA-LEMON-6X330.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -361,7 +367,8 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11033</ID>
-		<Name>ΚΛΙΑΦΑ ΣΟΔΑ 6τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΣΟΔΑ
+6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/45373916/Soda-Kliafa-6x330-ml-5-1-doro.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/081691/81691916/20230831124314_d41e21a6.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -379,7 +386,8 @@
 		<Quantity>200</Quantity>
 		</product>
 	<product><ID>11035</ID>
-		<Name>ΚΛΙΑΦΑ ΒΥΣΣΙΝΟ 6τμχ x330ml ΠΕΤ</Name>
+		<Name>ΚΛΙΑΦΑ ΒΥΣΣΙΝΟ
+6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://www.skroutz.gr/s/44017128/Kliafa-Vyssinada-me-Anthrakiko-Fiali-6x330ml.html</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/320548-1_0_low.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -397,7 +405,8 @@
 		<Quantity>200</Quantity>
 		</product>
 	<product><ID>11038</ID>
-		<Name>BIBI COLA 6τμχ x330ml ΠΕΤ</Name>
+		<Name>BIBI COLA
+6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://kalavrytinos.gr/gr/cartquickpro/catalog_product/view/id/76016</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/321033-1_0_low.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -415,7 +424,8 @@
 		<Quantity>120</Quantity>
 		</product>
 	<product><ID>110388</ID>
-		<Name>BIBI COLA ZERO 6τμχ x330ml ΠΕΤ</Name>
+		<Name>BIBI COLA ZERO
+6τμχ x330ml ΠΕΤ</Name>
 		<Product_Link>https://kalavrytinos.gr/gr/cartquickpro/catalog_product/view/id/76017</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/321034-1_low.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -469,7 +479,8 @@
 		<Quantity>240</Quantity>
 		</product>
 	<product><ID>11521</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://eshop.goldenbrands.com.gr/el/%CE%B1%CE%BD%CE%B1%CF%88%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CE%BF/17281-%CE%B5%CF%88%CE%B1-%CF%80%CE%BF%CF%81%CF%84%CE%BF%CE%BA%CE%B1%CE%BB%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%85%CF%84%CE%B9-6x4x330ml-51.html</Product_Link>
 		<Image_Link>https://static.ab.gr/medias/sys_master/h15/h84/8832192839710.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -505,7 +516,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11522</ID>
-		<Name>ΕΨΑ ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΛΕΜΟΝΙ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://eshop.goldenbrands.com.gr/en/%CE%B1%CE%BD%CE%B1%CF%88%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CE%BF/17280-%CE%B5%CF%88%CE%B1-%CE%BB%CE%B5%CE%BC%CE%BF%CE%BD%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%85%CF%84%CE%B9-6x4x330ml-51.html</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/19-43-02.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -523,7 +535,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11523</ID>
-		<Name>ΕΨΑ ΣΟΔΑ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΣΟΔΑ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.paxoswines.com/soft-drinks/carbonated/epsa-soda-water-330x24met.htm</Product_Link>
 		<Image_Link>https://d3kdwhwrhuoqcv.cloudfront.net/uploads/products/202006/2020_06_pockee_EPSA_Soda_4x330ml_Can-.png</Image_Link>
 		<Additional>None</Additional>
@@ -541,7 +554,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11524</ID>
-		<Name>ΕΨΑ ΓΚΑΖΟΖΑ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΓΚΑΖΟΖΑ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.e-fresh.gr/el/gkazoza-koyti-epsa-4x330-ml</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/0/4200000850/epsa-gkazoza-4x330ml-can.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -559,7 +573,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11527</ID>
-		<Name>ΕΨΑ PINK GRAPEFRUIT 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ PINK GRAPEFRUIT
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.masoutis.gr/categories/item/epsa-pink-grapefruit---lemon-330ml-5-1dwro?4011078</Product_Link>
 		<Image_Link>https://edt-shop.gr/18063-home_default_2x/epsa-pink-grapefruit-lemon-koyti-330ml-4x6pack-51-dwro.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -577,7 +592,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115291</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΕ ΓΙΑΣΕΜΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΕ ΓΙΑΣΕΜΙ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.masoutis.gr/categories/item/epsa-portokalada-giasemi-330ml-5-1dwro</Product_Link>
 		<Image_Link>https://masoutisadm.masoutis.gr/main/ExportPromoOffers/PromoOffers_574_1949.webp</Image_Link>
 		<Additional>None</Additional>
@@ -595,7 +611,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115292</ID>
-		<Name>ΕΨΑ ΛΕΜΟΝΙ ΜΕ ΙΒΙΣΚΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΛΕΜΟΝΙ ΜΕ ΙΒΙΣΚΟ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.masoutis.gr/categories/item/epsa-lemonada-ibiskos-330ml-5-1dwro?4011037</Product_Link>
 		<Image_Link>https://imageproxy.wolt.com/menu/menu-images/63f8c000865b00c7cd5edd55/05b90106-1755-11ef-8abf-c2da0ae748c8_4010955.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -613,7 +630,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115296</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ COLA
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/portokalades/27172-epsa-portokali-cola-koyti-330ml-4x6pack-51-dwro.html</Product_Link>
 		<Image_Link>https://edt-shop.gr/18065-home_default_2x/epsa-portokali-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -631,7 +649,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>115297</ID>
-		<Name>ΕΨΑ YUZU COLA 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ YUZU COLA
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/koles/27171-epsa-yuzu-cola-koyti-330ml-4x6pack-51-dwro.html</Product_Link>
 		<Image_Link>https://edt-shop.gr/18064-home_default_2x/epsa-yuzu-cola-koyti-330ml-4x6pack-51-dwro.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -649,7 +668,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11531</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ 6τμχ x330ml</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/29350249/EPSA-Mpoukali-Portokalada-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1023592/epsa-anapsuktiko-portokalada-me-anthrakiko-330ml-51.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -667,7 +687,8 @@
 		<Quantity>120</Quantity>
 		</product>
 	<product><ID>115318</ID>
-		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΠΛΕ 6τμχ x330ml</Name>
+		<Name>ΕΨΑ ΠΟΡΤΟΚΑΛΙ ΜΠΛΕ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/44091807/EPSA-CHoris-Anthrakiko-Mpoukali-6x330ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/05/EPSA-PORTOK-MPLE-51-6X330ML.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -680,7 +701,8 @@
 		<Manufacturer>ΕΨΑ</Manufacturer>
 		<MPN>0620</MPN>
 		<Weight>2 kg</Weight>
-		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
+		<Description>
+Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<Barcode>5201171331220</Barcode>
 		<Quantity>120</Quantity>
 		</product>
@@ -721,7 +743,8 @@
 		<Quantity>120</Quantity>
 		</product>
 	<product><ID>11541</ID>
-		<Name>ΕΨΑ ΤΣΑΙ ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΤΣΑΙ ΛΕΜΟΝΙ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/tsai/27249-epsa-tsai-lemoni-330ml-4x6pack.html</Product_Link>
 		<Image_Link>https://epsa.gr/wp-content/uploads/2024/03/Category-GR-tea-lemon.png</Image_Link>
 		<Additional>None</Additional>
@@ -739,7 +762,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11542</ID>
-		<Name>ΕΨΑ ΤΣΑΙ ΡΟΔΑΚΙΝΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΕΨΑ ΤΣΑΙ ΡΟΔΑΚΙΝΟ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://edt-shop.gr/tsai/27248-epsa-tsai-rodakino-330ml-4x6pack.html</Product_Link>
 		<Image_Link>https://epsa.gr/wp-content/uploads/2024/03/Category-GR-tea-peach.png</Image_Link>
 		<Additional>None</Additional>
@@ -757,7 +781,8 @@
 		<Quantity>12</Quantity>
 		</product>
 	<product><ID>11821</ID>
-		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml</Name>
+		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.abconline.gr/VAP-ORANGADE-330ML-13874</Product_Link>
 		<Image_Link>https://www.abconline.gr/images/thumbs/0099001_02-22-15-0129_510.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -775,7 +800,8 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11822</ID>
-		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 6τμχ x330ml</Name>
+		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.abconline.gr/VAP-LEMONADE-330ML-13875</Product_Link>
 		<Image_Link>https://www.abconline.gr/images/thumbs/0096042_02-22-15-0130.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -793,7 +819,8 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11831</ID>
-		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml</Name>
+		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/32702478/VAP-Portokalada-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5202382511210_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -811,7 +838,8 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>11832</ID>
-		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ 6τμχ x330ml</Name>
+		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/32525504/VAP-Lemonada-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5202382522315_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1009,7 +1037,8 @@
 		<Quantity>100</Quantity>
 		</product>
 	<product><ID>120218</ID>
-		<Name>COCA COLA ZERO 24τμχ x330ml ΚΟΥΤΙ ΕΛΛΗΝΙΚΗ</Name>
+		<Name>COCA COLA ZERO
+24τμχ x330ml ΚΟΥΤΙ ΕΛΛΗΝΙΚΗ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24519804/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://lh5.googleusercontent.com/proxy/6AIYwsWOPYbtAZgWxDP7TV6czrPwWFy7i1oz0NX72rtU2-1wyOPn1o-ixJutWBIid46gM12e4-75mogzhnmEI3Y_qUO9HazW2QpUB4m1SBcaVuWB8S3zkqtp</Image_Link>
 		<Additional>None</Additional>
@@ -1027,7 +1056,8 @@
 		<Quantity>20</Quantity>
 		</product>
 	<product><ID>1202180</ID>
-		<Name>COCA COLA ZERO 12τμχ x330ml ΚΟΥΤΙ ΕΙΣΑΓΩΓΗΣ</Name>
+		<Name>COCA COLA ZERO
+12τμχ x330ml ΚΟΥΤΙ ΕΙΣΑΓΩΓΗΣ</Name>
 		<Product_Link>https://planetemporiki.gr/product/coca-cola-zero-330ml-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7%CF%83-ukr-24-%CF%84%CE%B5%CE%BC/</Product_Link>
 		<Image_Link>https://planetemporiki.gr/wp-content/uploads/2023/11/COCA-COLA-ZERO-330ML-%CE%95%CE%99%CE%A3%CE%91%CE%93%CE%A9%CE%93%CE%97%CE%A3-12%CE%A4%CE%B5%CE%BC.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1081,7 +1111,8 @@
 		<Quantity>5</Quantity>
 		</product>
 	<product><ID>1202353</ID>
-		<Name>SCHWEPPES ΡΟΔΙ ΣΟΔΑ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>SCHWEPPES ΡΟΔΙ ΣΟΔΑ
+24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/36060112/Schweppes-Kouti-Soda-Rodi-me-Anthrakiko-330ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0003593.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -1099,7 +1130,8 @@
 		<Quantity>5</Quantity>
 		</product>
 	<product><ID>12024</ID>
-		<Name>ΦΑΝΤΑ ΠΟΡΤΟΚΑΛΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΦΑΝΤΑ ΠΟΡΤΟΚΑΛΙ
+24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24519939/Fanta-Kouti-Portokalada-me-Anthrakiko-330ml.html</Product_Link>
 		<Image_Link>https://www.foodbrokers.com/docs/Images/Products/e4c01866-19ea-4637-8687-a9d557e005d8.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1117,7 +1149,8 @@
 		<Quantity>10</Quantity>
 		</product>
 	<product><ID>12025</ID>
-		<Name>ΦΑΝΤΑ ΛΕΜΟΝΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>ΦΑΝΤΑ ΛΕΜΟΝΙ
+24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24773232/Fanta-Kouti-Lemonada-me-Anthrakiko-330ml.html</Product_Link>
 		<Image_Link>https://www.foodbrokers.com/docs/Images/Products/ad515772-def4-48e6-a21f-69678863a14d.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1207,7 +1240,8 @@
 		<Quantity>180</Quantity>
 		</product>
 	<product><ID>130318</ID>
-		<Name>ΒΙΚΟΣ COLA ZERO 6τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ COLA ZERO
+6τμχ x330ml</Name>
 		<Product_Link>https://www.ab.gr/en/eshop/Veverages-soft-drinks-waters-nuts/Soft-drinks/Cola/Anapsyktiko-Cola-Zero-Fiali-6x330ml-5-1-Doro/p/7580259</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/10_11_21/d6cb4ba7-c695-4e99-9051-a9a507a5a77a_EB.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1225,7 +1259,8 @@
 		<Quantity>120</Quantity>
 		</product>
 	<product><ID>130319</ID>
-		<Name>ΒΙΚΟΣ COLA STEVIA 6τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ COLA STEVIA
+6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43961410/Vikos-Cola-Me-Stevia-330ml-5-1-Doro.html?product_id=163155455</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/BIKOS-COLA-STEVIA-51-6X330ML.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1279,7 +1314,8 @@
 		<Quantity>180</Quantity>
 		</product>
 	<product><ID>13034</ID>
-		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ
+6τμχ x330ml</Name>
 		<Product_Link>https://kritikos-sm.gr/products/kaba/anapsuktika/portokalada/bikos-portokalada-6330ml-51d-869126/</Product_Link>
 		<Image_Link>https://littlemarket.gr/wp-content/uploads/2020/11/%CE%92%CE%99%CE%9A%CE%9F%CE%A3-51%CE%94%CF%8E%CF%81%CE%BF-%CE%A0%CE%9F%CE%A1%CE%A4%CE%9F%CE%9A%CE%91%CE%9B%CE%91%CE%94%CE%91.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1297,7 +1333,8 @@
 		<Quantity>180</Quantity>
 		</product>
 	<product><ID>130341</ID>
-		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ 6τμχ x330ml Χ.ΑΝΘΡΑΚΙΚΟ</Name>
+		<Name>ΒΙΚΟΣ ΠΟΡΤΟΚΑΛΑΔΑ
+6τμχ x330ml Χ.ΑΝΘΡΑΚΙΚΟ</Name>
 		<Product_Link>https://www.ab.gr/el/eshop/Kava-anapsyktika-nera-xiroi-karpoi/Anapsyktika/Portokalada/Portokalada-Choris-Anthrakiko-330ml-5-1-Doro/p/7335840</Product_Link>
 		<Image_Link>https://e-vk.gr/images/photos/vikos-portokalada-xwris-anthrakiko-36330-ml-51-238-yiez.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1333,7 +1370,8 @@
 		<Quantity>60</Quantity>
 		</product>
 	<product><ID>13035</ID>
-		<Name>ΒΙΚΟΣ ΛΕΜΟΝΑΔΑ 6τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΛΕΜΟΝΑΔΑ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43960064/Vikos-Lemonada-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/043960/43960064/20230710155211_vikos_lemonada_330ml_5_1_doro.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -1369,7 +1407,8 @@
 		<Quantity>60</Quantity>
 		</product>
 	<product><ID>13036</ID>
-		<Name>ΒΙΚΟΣ ΒΥΣΣΙΝΑΔΑ 6τμχ x330ml</Name>
+		<Name>ΒΙΚΟΣ ΒΥΣΣΙΝΑΔΑ
+6τμχ x330ml</Name>
 		<Product_Link>https://www.e-fresh.gr/el/byssinada-bikos-6x330-ml-51-dwro</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/7/4200001807/bikos-byssinada-6x33051.jpg?id=1654007445</Image_Link>
 		<Additional>None</Additional>
@@ -1387,7 +1426,8 @@
 		<Quantity>120</Quantity>
 		</product>
 	<product><ID>13037</ID>
-		<Name>ΒΙΚΟΣ PINK GRAPEFRUIT 6τμχ x330ml </Name>
+		<Name>ΒΙΚΟΣ PINK GRAPEFRUIT
+6τμχ x330ml </Name>
 		<Product_Link>https://www.skroutz.gr/s/37902414/Vikos-Anapsyktiko-Pink-Grapefruit-me-Anthrakiko-Mpoukali-6x330ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0003586.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -1405,7 +1445,8 @@
 		<Quantity>120</Quantity>
 		</product>
 	<product><ID>14021</ID>
-		<Name>TUBORG ΣΟΔΑ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>TUBORG ΣΟΔΑ 
+24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/26848451/Tuborg-Kouti-Soda-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0003900.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -1423,7 +1464,8 @@
 		<Quantity>0</Quantity>
 		</product>
 	<product><ID>14022</ID>
-		<Name>TUBORG ΣΟΔΑ ΛΕΜΟΝΙ 24τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>TUBORG ΣΟΔΑ ΛΕΜΟΝΙ
+24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.mymarket.gr/tuborg-lemon-soda-330ml-5-1-doro</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/13_07_23/22a8ef8d-6c66-4101-ad9e-1cbfbb204575_E1.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1441,7 +1483,8 @@
 		<Quantity>0</Quantity>
 		</product>
 	<product><ID>14023</ID>
-		<Name>TUBORG PINEAPPLE 24τμχ x330ml ΚΟΥΤΙ </Name>
+		<Name>TUBORG PINEAPPLE
+24τμχ x330ml ΚΟΥΤΙ </Name>
 		<Product_Link>https://eshop.goldenbrands.com.gr/el/%CE%B1%CE%BD%CE%B1%CF%88%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CE%BF/15265-tuborg-pineapple-lime-%CE%BA%CE%BF%CF%85%CF%84%CE%B9-6%CF%874%CF%81-330ml.html</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/21_03_22/31769715-3125-491e-b90b-a4d72bd26f7e_EB.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1459,7 +1502,8 @@
 		<Quantity>0</Quantity>
 		</product>
 	<product><ID>14024</ID>
-		<Name>TUBORG PINK GRAPEFRUIT 24τμχ x330ml ΚΟΥΤΙ </Name>
+		<Name>TUBORG PINK GRAPEFRUIT
+24τμχ x330ml ΚΟΥΤΙ </Name>
 		<Product_Link>https://www.bazaar-online.gr/tuborg-330mlx6-pink-grapefruit-soda-sleek</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201309707170_1-1000x1000.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1472,7 +1516,8 @@
 		<Manufacturer>TUBORG</Manufacturer>
 		<MPN>0204</MPN>
 		<Weight>8.3 kg</Weight>
-		<Description>Αναψυκτικό με χυμό Pink Grapefruit &amp; Σαγκουίνι. Απολαυστικό &amp; δροσιστικό ρόφημα για κάθε στιγμή της ημέρας.</Description>
+		<Description>Αναψυκτικό με χυμό Pink Grapefruit &amp; Σαγκουίνι.
+Απολαυστικό &amp; δροσιστικό ρόφημα για κάθε στιγμή της ημέρας.</Description>
 		<Barcode>25201309707174</Barcode>
 		<Quantity>0</Quantity>
 		</product>
@@ -1526,7 +1571,9 @@
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0991</MPN>
 		<Weight>2 kg</Weight>
-		<Description>Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία. Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
+		<Description>Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία.
+Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες.
+Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
 		<Barcode>5201277250081</Barcode>
 		<Quantity>40</Quantity>
 		</product>
@@ -1544,7 +1591,8 @@
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
 		<MPN>0712</MPN>
 		<Weight>2 kg</Weight>
-		<Description>Η souroti με το απαλό φυσικό άρωμα του λεμονιού-λάιμ συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την φρεσκάδα και την ασύγκριτη δροσιά των εσπεριδοειδών. Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία. Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
+		<Description>Η souroti με το απαλό φυσικό άρωμα του λεμονιού-λάιμ συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την φρεσκάδα και την ασύγκριτη δροσιά των εσπεριδοειδών. Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία.
+Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
 		<Barcode>5201277250524</Barcode>
 		<Quantity>12</Quantity>
 		</product>
@@ -1693,7 +1741,8 @@
 		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17058</ID>
-		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ 250ml</Name>
+		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ
+250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812130/Agros-CHymos-Vyssino-250ml.html</Product_Link>
 		<Image_Link>https://panora.gr/pub/media/catalog/product/cache/e661dd810c922a0d4384fc34046b950e/1/0/10786.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -1711,7 +1760,8 @@
 		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17060</ID>
-		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ 250ml</Name>
+		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ
+250ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23812176/Agros-CHymos-Rodi-250ml.html</Product_Link>
 		<Image_Link>https://panora.gr/pub/media/catalog/product/cache/e661dd810c922a0d4384fc34046b950e/1/0/10789.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -2053,7 +2103,8 @@
 		<Quantity>60</Quantity>
 		</product>
 	<product><ID>18021</ID>
-		<Name>LIPTON ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>LIPTON ΛΕΜΟΝΙ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.thanopoulos.gr/el/lemoni/38648-lipton-etoimo-afepsima-maurou-tsagiou-ice-tea-lemoni-6x330ml-5201156030261.html</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1035730/lipton-etoimo-afepsima-maurou-tsagiou-ice-tea-lemoni-6x330ml.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -2071,7 +2122,8 @@
 		<Quantity>60</Quantity>
 		</product>
 	<product><ID>18022</ID>
-		<Name>LIPTON ΡΟΔΑΚΙΝΟ 6τμχ x330ml ΚΟΥΤΙ</Name>
+		<Name>LIPTON ΡΟΔΑΚΙΝΟ
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/44018117/Lipton-Ice-Tea-Rodakino-Kouti-6x330ml.html?product_id=163159280</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/044018/44018117/20230712104951_lipton_ice_tea_rodakino_kouti_6x330ml.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -2390,7 +2442,13 @@
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
 		<MPN>0070</MPN>
 		<Weight>5 kg</Weight>
-		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
+		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.
+
+
+
+
+
+</Description>
 		<Barcode>5201214100325</Barcode>
 		<Quantity>40</Quantity>
 		</product>
@@ -2498,7 +2556,13 @@
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
 		<MPN>0854</MPN>
 		<Weight>10 kg</Weight>
-		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
+		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.
+
+
+
+
+
+</Description>
 		<Barcode>5201214100196</Barcode>
 		<Quantity>20</Quantity>
 		</product>
@@ -2575,7 +2639,8 @@
 		<Quantity>10</Quantity>
 		</product>
 	<product><ID>57051</ID>
-		<Name>Bianco Nero Ηρεμο Λευκό 24φ x187ml</Name>
+		<Name>Bianco Nero Ηρεμο Λευκό
+24φ x187ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/33339380/Tsililis-Krasi-Bianco-Nero-Leyko-Xiro-187ml.html</Product_Link>
 		<Image_Link>https://wineoutlet.gr/wp-content/uploads/2023/03/%CE%A3%CF%87%CE%AD%CE%B4%CE%B9%CE%BF-%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%84%CE%AF%CF%84%CE%BB%CE%BF-80.webp</Image_Link>
 		<Additional>None</Additional>
@@ -2593,7 +2658,8 @@
 		<Quantity>0</Quantity>
 		</product>
 	<product><ID>57052</ID>
-		<Name>Bianco Nero Ηρεμο Ροζέ 24φ x187ml</Name>
+		<Name>Bianco Nero Ηρεμο Ροζέ
+24φ x187ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/24047791/Tsililis-Krasi-Bianconero-Roze-Xiro-Imiafrodes-187ml.html</Product_Link>
 		<Image_Link>https://cavamikrohorio.com/wp-content/uploads/2021/10/tsililis-bianconero-rosedry-1.jpg</Image_Link>
 		<Additional>None</Additional>
@@ -2647,7 +2713,8 @@
 		<Quantity>0</Quantity>
 		</product>
 	<product><ID>58162</ID>
-		<Name>Bianco Nero Αφρώδες Ροζέ 24φ x200ml</Name>
+		<Name>Bianco Nero Αφρώδες Ροζέ
+24φ x200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/52650429/Tsililis-Krasi-Moschato-Amvourgou-Erythro-Glyko-Afrodes-200ml-5202548501130.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/049450/49450007/20240125020937_bianconero_afrodis_oinos_roze_200ml.jpeg</Image_Link>
 		<Additional>None</Additional>
@@ -3113,7 +3180,7 @@
 		<Description>Προϊόν Διπλής Απόσταξης Στεμφύλων (φλούδες) Σταφυλιών. Η πολυσυλλεκτικότητα των ποικιλιών, η τέχνη της απόσταξης και η συμμετοχή αρωματικών βοτάνων και φρούτων κατά τη δεύτερη απόσταξη έχουν σαν αποτέλεσμα τη δημιουργία ενός ποτού υψηλής ποιότητας. Παράγεται αποκλειστικά από σταφύλια που καλλιεργούνται στην ελληνική γη. Η προσθήκη άγριων βοτάνων κατά τη δεύτερη απόσταξή του προσδίδει έναν ιδιαίτερο αρωματικό πλούτο. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5201302200487</Barcode>
 		<Quantity>72</Quantity>
-	</product>
+		</product>
 	<product><ID>60001</ID>
 		<Name>COLGATE 100ml TRIPLE ACTION  </Name>
 		<Product_Link>https://www.skroutz.gr/s/7427081/Colgate-Triple-Action-Odontokrema-kata-tis-Teridonas-100ml.html</Product_Link>
@@ -3990,7 +4057,10 @@
 		<Manufacturer>TEO</Manufacturer>
 		<MPN>0019</MPN>
 		<Weight>None</Weight>
-		<Description>Ένα αφρόλουτρο που σας προσφέρει μια απολαυστική εμπειρία κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αισθησιακό άρωμα του σύκου, προσφέροντας ένα αίσθημα φρεσκάδας και ευεξίας. Καθαρίζει απαλά την επιδερμίδα σας, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
+		<Description>Ένα αφρόλουτρο που σας προσφέρει μια απολαυστική εμπειρία κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αισθησιακό άρωμα του σύκου, προσφέροντας ένα αίσθημα φρεσκάδας και ευεξίας. Καθαρίζει απαλά την επιδερμίδα σας, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.
+
+
+</Description>
 		<Barcode>3800024015878</Barcode>
 		<Quantity>240</Quantity>
 		</product>
@@ -4044,7 +4114,8 @@
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>0552</MPN>
 		<Weight>None</Weight>
-		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
+		<Description>
+Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
 		<Barcode>5200100251629</Barcode>
 		<Quantity>240</Quantity>
 		</product>
@@ -4242,7 +4313,8 @@
 		<Manufacturer>WET HANKIES</Manufacturer>
 		<MPN>0112</MPN>
 		<Weight>None</Weight>
-		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση με διακριτικό άρωμα φρεσκάδας. Η σύνθεση τους προσφέρει αποτελεσματική δράση κατά των μικροβίων, χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα. Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
+		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση με διακριτικό άρωμα φρεσκάδας. Η σύνθεση τους προσφέρει αποτελεσματική δράση κατά των μικροβίων, χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα.
+Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007033</Barcode>
 		<Quantity>480</Quantity>
 		</product>
@@ -4260,7 +4332,8 @@
 		<Manufacturer>WET HANKIES</Manufacturer>
 		<MPN>0583</MPN>
 		<Weight>None</Weight>
-		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα με διακριτικό άρωμα. - Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
+		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα με διακριτικό άρωμα. 
+- Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007026</Barcode>
 		<Quantity>480</Quantity>
 		</product>
@@ -5777,7 +5850,13 @@
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0546</MPN>
 		<Weight>None</Weight>
-		<Description>Η λοσιόν αντικουνουπικής προστασίας της OSKAR σε μέγεθος 100ml είναι εμπλουτισμένη με άρωμα καρύδας. Κατάλληλη για την αποφυγή των τσιμπημάτων κουνουπιών, προσφέρει αποτελεσματική προστασία σε μικρό μέγεθος συσκευασίας που την καθιστά βολική για την καθημερινή χρήση και τα ταξίδια.</Description>
+		<Description>Η λοσιόν αντικουνουπικής προστασίας της OSKAR σε μέγεθος 100ml είναι εμπλουτισμένη με άρωμα καρύδας. Κατάλληλη για την αποφυγή των τσιμπημάτων κουνουπιών, προσφέρει αποτελεσματική προστασία σε μικρό μέγεθος συσκευασίας που την καθιστά βολική για την καθημερινή χρήση και τα ταξίδια.
+
+
+
+
+
+</Description>
 		<Barcode>5200128640712</Barcode>
 		<Quantity>60</Quantity>
 		</product>
@@ -5795,7 +5874,13 @@
 		<Manufacturer>OSKAR</Manufacturer>
 		<MPN>0421</MPN>
 		<Weight>None</Weight>
-		<Description>Τα αντικουνουπικά spiral της OSKAR προσφέρουν αποτελεσματική προστασία από τα κουνούπια. Κάθε συσκευασία περιλαμβάνει 10 σπιράλ για επαναλαμβανόμενη προστασία. Ιδανικά για χρήση σε εξωτερικούς χώρους καθώς και σε διακοπές και εκδρομές.</Description>
+		<Description>Τα αντικουνουπικά spiral της OSKAR προσφέρουν αποτελεσματική προστασία από τα κουνούπια. Κάθε συσκευασία περιλαμβάνει 10 σπιράλ για επαναλαμβανόμενη προστασία. Ιδανικά για χρήση σε εξωτερικούς χώρους καθώς και σε διακοπές και εκδρομές.
+
+
+
+
+
+</Description>
 		<Barcode>5201062008767</Barcode>
 		<Quantity>120</Quantity>
 		</product>
@@ -9245,7 +9330,7 @@
 		<MPN>0609</MPN>
 		<Weight>1kg</Weight>
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Cortese. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 1000gr.</Description>
-		<Barcode>771710171430456000</Barcode>
+		<Barcode>7.71710171430456e+17</Barcode>
 		<Quantity>10</Quantity>
 		</product>
 	<product><ID>87511</ID>
@@ -9265,5 +9350,5 @@
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Nestle. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 400gr.</Description>
 		<Barcode>5998710960620</Barcode>
 		<Quantity>20</Quantity>
-	</product>
+		</product>
 </mywebstore>
