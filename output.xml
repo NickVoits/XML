@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mywebstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<created_at>2010-05-29 15:30</created_at>
-	<product><ID>31023</ID>
+	<product>
+		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43960896/Alfa-Mpyra-Lager-Kouti-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201261031030_1-1000x1000.jpg</Image_Link>
@@ -160,7 +161,7 @@
 		<Weight>12.3 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<Barcode>25201309133119</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>20</Quantity>
 		</product>
 	<product><ID>32133</ID>
 		<Name>PILS HELLAS 24τμχ x500ml </Name>
@@ -1034,7 +1035,7 @@
 		<Weight>8.3 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση. Εισαγωγής.</Description>
 		<Barcode>5449000055200</Barcode>
-		<Quantity>100</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>120218</ID>
 		<Name>COCA COLA ZERO
@@ -1684,7 +1685,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000044</Barcode>
-		<Quantity>270</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17053</ID>
 		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 250ml</Name>
@@ -1702,7 +1703,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>270</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17055</ID>
 		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ 8 ΦΡΟΥΤΑ 250ml</Name>
@@ -1720,7 +1721,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000037</Barcode>
-		<Quantity>270</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17057</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 250ml</Name>
@@ -1738,7 +1739,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. </Description>
 		<Barcode>5202908004011</Barcode>
-		<Quantity>270</Quantity>
+		<Quantity>81</Quantity>
 		</product>
 	<product><ID>17058</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ
@@ -1757,7 +1758,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>270</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17060</ID>
 		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ
@@ -1776,7 +1777,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
 		<Barcode>5202908000150</Barcode>
-		<Quantity>270</Quantity>
+		<Quantity>81</Quantity>
 		</product>
 	<product><ID>17062</ID>
 		<Name>ΑΓΡΟΣ Φ. ΧΥΜΟΣ 4 ΦΡ. (ΡΟΔ-ΒΕΡ-ΜΗΛ-ΠΟΡ) 250ml</Name>
@@ -1830,7 +1831,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908110002</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17073</ID>
 		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 1 ΛΙΤ</Name>
@@ -1884,7 +1885,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000105</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17076</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΗΛΟ 1 ΛΙΤ</Name>
@@ -1902,7 +1903,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908101000</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17077</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 1 ΛΙΤ</Name>
@@ -2010,7 +2011,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000273</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>17085</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ CRANBERRY 1 ΛΙΤ</Name>
@@ -2100,7 +2101,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Ο χυμός Del Monte Τροπικά φρούτα με πορτοκάλι, ανανά, μήλο, passion fruit και μάνγκο είναι ιδανικός για πρωινό καθώς και σαν αναζωογονητικό ρόφημα οποιαδήποτε στιγμή της μέρας.</Description>
 		<Barcode>4800024558305</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>18021</ID>
 		<Name>LIPTON ΛΕΜΟΝΙ
@@ -2119,7 +2120,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>18022</ID>
 		<Name>LIPTON ΡΟΔΑΚΙΝΟ
@@ -2156,7 +2157,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea Green Lemon είναι η πιο αναζωογονητική επιλογή. Προσφέρει μία καθημερινή, απολαυστική πρόταση πράσινου τσαγιού αναδίδοντας μια υπέροχη αίσθηση δροσιάς και αναζωογόνησης, στοιχεία απαραίτητα για τους δύσκολους ρυθμούς της σύγχρονης καθημερινότητας. Είναι δροσιστικό χωρίς ζάχαρη και θερμίδες.</Description>
 		<Barcode>8001160005241</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>18101</ID>
 		<Name>LIFE ΤΣΑΙ ΛΕΜΟΝΙ 500ml</Name>
@@ -4604,7 +4605,7 @@
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>71023</ID>
 		<Name>TESORI HAMAM 760ml</Name>
@@ -4678,7 +4679,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα. </Description>
 		<Barcode>8008970055268</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>20</Quantity>
 		</product>
 	<product><ID>71101</ID>
 		<Name>ROL ΣΚΟΝΗ 380gr</Name>
@@ -8016,7 +8017,7 @@
 		<Description>• Διαστάσεις: 9x9cm
 • Αριθμός φύλλων: 550</Description>
 		<Barcode>5203358001681</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>79096</ID>
 		<Name>ΠΛΑΣΤΕΛΙΝΗ ΜΗ ΤΟΞΙΚΗ 11τεμ 550gr (ΔΙΑΦΟΡΑ ΧΡΩΜΑΤΑ)</Name>
@@ -9052,7 +9053,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Rio Mare τόνος σε ελαιόλαδο με το χαρακτηριστικό ροζ χρώμα του και τη συμπαγή υφή του. Ο τόνος κονσερβοποιείται με μοναδική προσθήκη το ελαιόλαδο και το θαλασσινό αλάτι. Ιδανικό για όλες τις συνταγές, από σαλάτες μέχρι κυρίως πιάτα.</Description>
 		<Barcode>8004030381681</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>85224</ID>
 		<Name>RIO MARE ΤΟΝΟΣ ΣΕ ΝΕΡΟ            2Χ160gr</Name>
@@ -9070,7 +9071,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Ο τόνος al Naturale της Rio Mare είναι ελαφρύς και γευστικός, προέρχεται από τη θάλασσα και από την επιλογή κιτρινόπτερου τόνου.</Description>
 		<Barcode>8004030357532</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>85225</ID>
 		<Name>RIO MARE ΠΟΛΥΣΑΛΑΤΑ ΚΑΛΑΜΠΟΚΙ 2Χ160gr</Name>
@@ -9394,7 +9395,7 @@
 		<Weight>1kg</Weight>
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Cortese. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 1000gr.</Description>
 		<Barcode>7.71710171430456e+17</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>12</Quantity>
 		</product>
 	<product><ID>87511</ID>
 		<Name>NESQUIK ΣΑΚΟΥΛΑ 400gr </Name>
