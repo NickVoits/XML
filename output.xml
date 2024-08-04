@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
-<mywebstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<created_at>2010-05-29 15:30</created_at>
+<?xml version="1.0" encoding="UTF-8"?>
+<mywebstore>
+	<created_at>2024-08-04 19:11</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -10,7 +10,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>5.24</Price>
+		<Price>5.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>Άλφα</Manufacturer>
@@ -19,7 +19,9 @@
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
 		<Quantity>80</Quantity>
-		</product><product><ID>320213</ID>
+	</product>
+	<product>
+		<ID>320213</ID>
 		<Name>FIX 24τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/45477005/Mpyra-Kouti-FIX-8x330-ml-6-2-Doro.html</Product_Link>
 		<Image_Link>https://www.dellys.com.gr/wp-content/uploads/fix-lager-beer-330ml.webp</Image_Link>
@@ -27,7 +29,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>19.28</Price>
+		<Price>19.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>FIX</Manufacturer>
@@ -36,8 +38,9 @@
 		<Description>Η μπύρα FIX είναι μια κλασική επιλογή για όσους αναζητούν μια παραδοσιακή ελληνική μπύρα. Με ένα χρυσαφένιο χρώμα και απαλή φούσκα, προσφέρει μια δροσιστική και ισορροπημένη γεύση. Έχει 5% αλκοόλ και μια ευχάριστη αίσθηση απόλαυσης.</Description>
 		<Barcode>55200334280127</Barcode>
 		<Quantity>20</Quantity>
-		</product>
-	<product><ID>320221</ID>
+	</product>
+	<product>
+		<ID>320221</ID>
 		<Name>Kaiser 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/51221007/Kaiser-Pilsner-Kaiser-Mpyra-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://eblokomarket.gr/8683-thickbox_default/bira-kaiser-330ml.jpg</Image_Link>
@@ -54,7 +57,7 @@
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<Barcode>5201309103910</Barcode>
 		<Quantity>40</Quantity>
-		</product>
+	</product>
 	<product><ID>320271</ID>
 		<Name>FIX ANEY 6τμχ x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43961062/Fix-Aney-Mpyra-Kouti-330ml-5-1Doro.html</Product_Link>
@@ -99,7 +102,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.65</Price>
+		<Price>3.71</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
@@ -125,7 +128,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900045</Barcode>
-		<Quantity>80</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>320311</ID>
 		<Name>FIX 24τμχ x500ml</Name>
@@ -135,7 +138,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>27.29</Price>
+		<Price>27.8</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>FIX</Manufacturer>
@@ -153,7 +156,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>35.62</Price>
+		<Price>36.28</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>KAISER</Manufacturer>
@@ -161,7 +164,7 @@
 		<Weight>12.3 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<Barcode>25201309133119</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>10</Quantity>
 		</product>
 	<product><ID>32133</ID>
 		<Name>PILS HELLAS 24τμχ x500ml </Name>
@@ -171,7 +174,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>22.27</Price>
+		<Price>22.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>PILS</Manufacturer>
@@ -865,7 +868,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.89</Price>
+		<Price>0.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
@@ -883,7 +886,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.89</Price>
+		<Price>0.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
@@ -901,7 +904,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.89</Price>
+		<Price>0.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
@@ -919,7 +922,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.89</Price>
+		<Price>0.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
@@ -937,7 +940,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.89</Price>
+		<Price>0.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΑΦΟΙ ΔΙΝΑΚΗ</Manufacturer>
@@ -1019,24 +1022,6 @@
 		<Barcode>5449000214928</Barcode>
 		<Quantity>50</Quantity>
 		</product>
-	<product><ID>1202101</ID>
-		<Name>COCA COLA 12τμχ x330ml ΚΟΥΤΙ ΕΙΣΑΓΩΓΗΣ</Name>
-		<Product_Link>https://www.e-fresh.gr/el/coca-cola-kibwtio-24x330-ml</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/024685/24685667/20220217092802_coca_cola_classic_330ml.jpeg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>7.50</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>0839</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση. Εισαγωγής.</Description>
-		<Barcode>5449000055200</Barcode>
-		<Quantity>0</Quantity>
-		</product>
 	<product><ID>120218</ID>
 		<Name>COCA COLA ZERO
 24τμχ x330ml ΚΟΥΤΙ ΕΛΛΗΝΙΚΗ</Name>
@@ -1056,25 +1041,6 @@
 		<Barcode>5449000214898</Barcode>
 		<Quantity>20</Quantity>
 		</product>
-	<product><ID>1202180</ID>
-		<Name>COCA COLA ZERO
-12τμχ x330ml ΚΟΥΤΙ ΕΙΣΑΓΩΓΗΣ</Name>
-		<Product_Link>https://planetemporiki.gr/product/coca-cola-zero-330ml-%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7%CF%83-ukr-24-%CF%84%CE%B5%CE%BC/</Product_Link>
-		<Image_Link>https://planetemporiki.gr/wp-content/uploads/2023/11/COCA-COLA-ZERO-330ML-%CE%95%CE%99%CE%A3%CE%91%CE%93%CE%A9%CE%93%CE%97%CE%A3-12%CE%A4%CE%B5%CE%BC.jpg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>8.00</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>0336</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση. Εισαγωγής.</Description>
-		<Barcode>5449000133342</Barcode>
-		<Quantity>0</Quantity>
-		</product>
 	<product><ID>12022</ID>
 		<Name>ΣΠΡΑΙΤ 24τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24519788/Sprite-Kouti-Gazoza-me-Anthrakiko-330ml.html</Product_Link>
@@ -1091,7 +1057,7 @@
 		<Weight>8.3 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214850</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>1202352</ID>
 		<Name>SCHWEPPES GRAPEFRUIT ΣΟΔΑ 24τμχ x330ml ΚΟΥΤΙ</Name>
@@ -1230,7 +1196,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.44</Price>
+		<Price>2.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1249,7 +1215,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.56</Price>
+		<Price>2.6</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1268,7 +1234,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.44</Price>
+		<Price>2.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1286,7 +1252,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.44</Price>
+		<Price>2.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1304,7 +1270,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.61</Price>
+		<Price>1.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1323,7 +1289,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.65</Price>
+		<Price>2.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1342,7 +1308,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.65</Price>
+		<Price>2.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1360,7 +1326,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.65</Price>
+		<Price>2.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1368,7 +1334,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικά με κύριο συστατικό το Φυσικό Μεταλλικό Νερό, από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ, αλλά και χυμούς από ελληνικά φρούτα, που δημιουργούν τα πιο ξεχωριστές γεύσεις του καλοκαιριού μας και υπόσχονται πραγματική απόλαυση χάρη στη μοναδική τους γεύση.</Description>
 		<Barcode>5201946911046</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>30</Quantity>
 		</product>
 	<product><ID>13035</ID>
 		<Name>ΒΙΚΟΣ ΛΕΜΟΝΑΔΑ
@@ -1379,7 +1345,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.44</Price>
+		<Price>2.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1397,7 +1363,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.44</Price>
+		<Price>2.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1405,7 +1371,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Τα μόνα αναψυκτικά με Φυσικό Μεταλλικό Νερό από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ.Με φυσικά γλυκαντικά από το φυτό στέβια.</Description>
 		<Barcode>5201946911053</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>30</Quantity>
 		</product>
 	<product><ID>13036</ID>
 		<Name>ΒΙΚΟΣ ΒΥΣΣΙΝΑΔΑ
@@ -1416,7 +1382,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>3.63</Price>
+		<Price>3.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1435,7 +1401,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>3.22</Price>
+		<Price>3.28</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1447,116 +1413,41 @@
 		</product>
 	<product><ID>14021</ID>
 		<Name>TUBORG ΣΟΔΑ 
-24τμχ x330ml ΚΟΥΤΙ</Name>
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/26848451/Tuborg-Kouti-Soda-me-Anthrakiko-6x330ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0003900.jpeg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>8.41</Price>
+		<Price>2.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>TUBORG</Manufacturer>
 		<MPN>0831</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703176</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>80</Quantity>
 		</product>
 	<product><ID>14022</ID>
 		<Name>TUBORG ΣΟΔΑ ΛΕΜΟΝΙ
-24τμχ x330ml ΚΟΥΤΙ</Name>
+6τμχ x330ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.mymarket.gr/tuborg-lemon-soda-330ml-5-1-doro</Product_Link>
 		<Image_Link>https://cdn.mymarket.gr/images/styles/original/13_07_23/22a8ef8d-6c66-4101-ad9e-1cbfbb204575_E1.jpg</Image_Link>
 		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>9.02</Price>
+		<Price>3.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>TUBORG</Manufacturer>
 		<MPN>0711</MPN>
-		<Weight>8.3 kg</Weight>
+		<Weight>2 kg</Weight>
 		<Description>Η Tuborg Lemon Soda, είναι ένα μοναδικό ανθρακούχο αναψυκτικό, που προσφέρει φυσική δροσιά, γιατί φτιάχνεται με φυσικό χυμό λεμονιού, χωρίς προσθήκη ζάχαρης.Οι ευχάριστες έντονες φυσαλίδες της Tuborg Soda, συναντούν τον αναζωογονητικό φυσικό χυμό λεμονιού, σε ένα μοναδικό συνδυασμό, που απευθύνεται σε όσους αναζητούν κάτι γευστικό, αλλά και πιο φυσικό για να τους ξεδιψάσει.</Description>
 		<Barcode>5201309705170</Barcode>
-		<Quantity>0</Quantity>
-		</product>
-	<product><ID>14023</ID>
-		<Name>TUBORG PINEAPPLE
-24τμχ x330ml ΚΟΥΤΙ </Name>
-		<Product_Link>https://eshop.goldenbrands.com.gr/el/%CE%B1%CE%BD%CE%B1%CF%88%CF%85%CE%BA%CF%84%CE%B9%CE%BA%CE%BF/15265-tuborg-pineapple-lime-%CE%BA%CE%BF%CF%85%CF%84%CE%B9-6%CF%874%CF%81-330ml.html</Product_Link>
-		<Image_Link>https://cdn.mymarket.gr/images/styles/original/21_03_22/31769715-3125-491e-b90b-a4d72bd26f7e_EB.jpg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>10.95</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>TUBORG</Manufacturer>
-		<MPN>0486</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>Υψηλής Ποιότητας αναψυκτικό με χυμό Ανανά, xυμό Λάιμ και άρωμα Δυόσμου. Πλούσιο σε εξωτικά και καλοκαιρινά αρώματα, με την χαρακτηριστική σπιρτάδα μιας Tuborg. Γλυκό και δροσιστικό, θυμίζει ένα virgin cocktail με τον αγαπημένο συνδυασμό φρούτου- εσπεριδοειδούς και βοτάνου.</Description>
-		<Barcode>25201309708195</Barcode>
-		<Quantity>0</Quantity>
-		</product>
-	<product><ID>14024</ID>
-		<Name>TUBORG PINK GRAPEFRUIT
-24τμχ x330ml ΚΟΥΤΙ </Name>
-		<Product_Link>https://www.bazaar-online.gr/tuborg-330mlx6-pink-grapefruit-soda-sleek</Product_Link>
-		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201309707170_1-1000x1000.jpg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>10.95</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>TUBORG</Manufacturer>
-		<MPN>0204</MPN>
-		<Weight>8.3 kg</Weight>
-		<Description>Αναψυκτικό με χυμό Pink Grapefruit &amp; Σαγκουίνι.
-Απολαυστικό &amp; δροσιστικό ρόφημα για κάθε στιγμή της ημέρας.</Description>
-		<Barcode>25201309707174</Barcode>
-		<Quantity>0</Quantity>
-		</product>
-	<product><ID>14031</ID>
-		<Name>TUBORG ΣΟΔΑ 24τμχ x500ml</Name>
-		<Product_Link>https://edt-shop.gr/sodes/16001-tuborg-soda-500ml-6x4pack-31-dwro.html</Product_Link>
-		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0003897.jpeg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>13.89</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>TUBORG</Manufacturer>
-		<MPN>0947</MPN>
-		<Weight>12.5 kg</Weight>
-		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
-		<Barcode>35201309701100</Barcode>
-		<Quantity>0</Quantity>
-		</product>
-	<product><ID>14036</ID>
-		<Name>TUBORG TONIC 24τμχ x500ml</Name>
-		<Product_Link>https://www.mymarket.gr/tuborg-tonic-fiali-500ml-4tem</Product_Link>
-		<Image_Link>https://d3hz4baxchepgp.cloudfront.net/medias/sys_master/h6c/h4e/9425927110686.jpg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>21.92</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>TUBORG</Manufacturer>
-		<MPN>0367</MPN>
-		<Weight>12.5 kg</Weight>
-		<Description>H κορυφαία μάρκα Tonic στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Συνδυάζει την απαλή πικράδα που ισορροπεί τέλεια με την διακριτική γλυκύτητα, με την δροσιστική γεύση του κίτρου, προσφέροντας αναζωογονητική αίσθηση δροσιάς.Αποτελεί διαχρονικά, την εγγυημένη επιλογή για την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
-		<Barcode>25201302701097</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 		</product>
 	<product><ID>14121</ID>
 		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ</Name>
@@ -1566,7 +1457,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>4.65</Price>
+		<Price>4.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1586,7 +1477,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>4.81</Price>
+		<Price>5.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1605,7 +1496,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>4.93</Price>
+		<Price>5.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1623,7 +1514,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>4.93</Price>
+		<Price>5.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1659,7 +1550,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.51</Price>
+		<Price>0.5</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1677,7 +1568,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.35</Price>
+		<Price>0.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1685,7 +1576,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000044</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17053</ID>
 		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 250ml</Name>
@@ -1695,7 +1586,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.35</Price>
+		<Price>0.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1703,7 +1594,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17055</ID>
 		<Name>ΑΓΡΟΣ ΦΥΣΙΚΟΣ ΧΥΜΟΣ 8 ΦΡΟΥΤΑ 250ml</Name>
@@ -1713,7 +1604,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.43</Price>
+		<Price>0.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1721,7 +1612,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000037</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17057</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 250ml</Name>
@@ -1739,7 +1630,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. </Description>
 		<Barcode>5202908004011</Barcode>
-		<Quantity>81</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17058</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΒΥΣΣΙΝΟ
@@ -1758,7 +1649,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17060</ID>
 		<Name>ΑΓΡΟΣ Ν. ΧΥΜΟΣ ΡΟΔΙ
@@ -1769,7 +1660,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.43</Price>
+		<Price>0.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1777,7 +1668,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από ρόδι το οποίο περιέχει αντιοξειδωτικά και κυρίως πολυφαινόλες σε υψηλότερα επίπεδα από όλους τους άλλους χυμούς φρούτων. Τα αντιοξειδωτικά αυτά παρέχουν καρδιοπροστατευτικά οφέλη, όπως η μείωση της LDL χοληστερόλης. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται</Description>
 		<Barcode>5202908000150</Barcode>
-		<Quantity>81</Quantity>
+		<Quantity>270</Quantity>
 		</product>
 	<product><ID>17062</ID>
 		<Name>ΑΓΡΟΣ Φ. ΧΥΜΟΣ 4 ΦΡ. (ΡΟΔ-ΒΕΡ-ΜΗΛ-ΠΟΡ) 250ml</Name>
@@ -1805,7 +1696,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.67</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1823,7 +1714,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.05</Price>
+		<Price>1.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1831,7 +1722,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908110002</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17073</ID>
 		<Name>ΑΓΡΟΣ ΝΕΚΤΑΡ ΧΥΜΟΣ ΤΡΙΠΛΟ 1 ΛΙΤ</Name>
@@ -1841,7 +1732,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.05</Price>
+		<Price>1.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1859,7 +1750,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.05</Price>
+		<Price>1.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1877,7 +1768,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.29</Price>
+		<Price>1.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1885,7 +1776,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000105</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17076</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΗΛΟ 1 ΛΙΤ</Name>
@@ -1895,7 +1786,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.15</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1903,7 +1794,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908101000</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17077</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ ΜΠΑΝΑΝΑ-ΒΥΣΣΙΝΟ 1 ΛΙΤ</Name>
@@ -1913,7 +1804,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.15</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1931,7 +1822,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.15</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1949,7 +1840,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.29</Price>
+		<Price>1.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1967,7 +1858,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.29</Price>
+		<Price>1.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1985,7 +1876,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.15</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2003,7 +1894,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.15</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2011,7 +1902,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000273</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>17085</ID>
 		<Name>ΑΓΡΟΣ ΧΥΜΟΣ CRANBERRY 1 ΛΙΤ</Name>
@@ -2021,7 +1912,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.67</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2085,24 +1976,6 @@
 		<Barcode>4800024550194</Barcode>
 		<Quantity>120</Quantity>
 		</product>
-	<product><ID>17124</ID>
-		<Name>DEL MONTE ΧΥΜΟΣ TROPICAL 240ml</Name>
-		<Product_Link>https://christodoulides.gr/del-monte-tropical-fruits-1lt/</Product_Link>
-		<Image_Link>https://www.delikateso.sk/sub/delikateso.sk/shop/product/del-monte-ovocny-napoj-z-tropickeho-ovocia-240ml-4768.jpg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>0.63</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
-		<Manufacturer>DEL MONTE</Manufacturer>
-		<MPN>0561</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Ο χυμός Del Monte Τροπικά φρούτα με πορτοκάλι, ανανά, μήλο, passion fruit και μάνγκο είναι ιδανικός για πρωινό καθώς και σαν αναζωογονητικό ρόφημα οποιαδήποτε στιγμή της μέρας.</Description>
-		<Barcode>4800024558305</Barcode>
-		<Quantity>0</Quantity>
-		</product>
 	<product><ID>18021</ID>
 		<Name>LIPTON ΛΕΜΟΝΙ
 6τμχ x330ml ΚΟΥΤΙ</Name>
@@ -2120,7 +1993,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>60</Quantity>
 		</product>
 	<product><ID>18022</ID>
 		<Name>LIPTON ΡΟΔΑΚΙΝΟ
@@ -2140,24 +2013,6 @@
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
 		<Quantity>60</Quantity>
-		</product>
-	<product><ID>18023</ID>
-		<Name>LIPTON GREEN ICE TEA ΛΕΜΟΝΙ 6τμχ x330ml ΚΟΥΤΙ </Name>
-		<Product_Link>https://www.skroutz.gr/s/51773112/Lipton-Ice-Tea-Lemon-Kouti-6x330ml.html</Product_Link>
-		<Image_Link>https://www.kavakaralis.gr/wp-content/uploads/2021/12/lipton-balck-green-sleek-cans-multipack.jpg</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
-		<VAT>13.00</VAT>
-		<Price>3.67</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>LIPTON</Manufacturer>
-		<MPN>0655</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Το Lipton Ice Tea Green Lemon είναι η πιο αναζωογονητική επιλογή. Προσφέρει μία καθημερινή, απολαυστική πρόταση πράσινου τσαγιού αναδίδοντας μια υπέροχη αίσθηση δροσιάς και αναζωογόνησης, στοιχεία απαραίτητα για τους δύσκολους ρυθμούς της σύγχρονης καθημερινότητας. Είναι δροσιστικό χωρίς ζάχαρη και θερμίδες.</Description>
-		<Barcode>8001160005241</Barcode>
-		<Quantity>0</Quantity>
 		</product>
 	<product><ID>18101</ID>
 		<Name>LIFE ΤΣΑΙ ΛΕΜΟΝΙ 500ml</Name>
@@ -2497,7 +2352,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>25.56</Price>
+		<Price>26.72</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2515,7 +2370,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>22.59</Price>
+		<Price>23.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2611,7 +2466,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>18.16</Price>
+		<Price>19.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
@@ -2629,7 +2484,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>18.16</Price>
+		<Price>19.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
@@ -2956,7 +2811,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>5.15</Price>
+		<Price>5.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΓΙΟΝΕΡΙ</Manufacturer>
@@ -3308,6 +3163,60 @@
 		<Barcode>6001067007289</Barcode>
 		<Quantity>240</Quantity>
 		</product>
+	<product><ID>61021</ID>
+		<Name>EVERYDAY HYPERDRY UL PL 18's NORMAL  </Name>
+		<Product_Link>https://www.skroutz.gr/s/40166037/Every-Day-Sensitive-Ultra-Plus-Normal-Servietes-me-Ftera-gia-Kanoniki-Roi-5-Stagones-18tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/040166/40166037/20230111102508_every_day_sensitive_ultra_plus_normal_servietes_me_ftera_gia_kanoniki_roi_5_stagones_18tmch.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>2.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
+		<Manufacturer>EVERYDAY</Manufacturer>
+		<MPN>1010</MPN>
+		<Weight>None</Weight>
+		<Description>Σερβιέτες με φτερά Sensitive with Cotton Normal από την εταιρεία Every Day, κατασκευασμένες από απορροφητικό υλικό ώστε να προσφέρουν ασφάλεια κατά τις δύσκολες μέρες της περιόδου. Χάρη στα φτερά που διαθέτουν, αποτρέπουν τη μετακίνηση της σερβιέτας και προστατεύουν από τυχόν διαρροές. Κατάλληλες για γυναικές με μέτρια ροή, για να προσφέρουν μεγαλύτερη άνεση και προστασία.</Description>
+		<Barcode>5201263006340</Barcode>
+		<Quantity>240</Quantity>
+		</product>
+	<product><ID>61022</ID>
+		<Name>EVERYDAY HYPERDRY UL PL 18's SUPER   </Name>
+		<Product_Link>https://www.skroutz.gr/s/9901074/Every-Day-Sensitive-with-Cotton-Super-Ultra-Plus-Servietes-me-Ftera-gia-Ayximeni-Roi-6-Stagones-18tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/009901/9901074/20200320090244_every_day_sensitive_ultra_plus_super_18tmch.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>2.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
+		<Manufacturer>EVERYDAY</Manufacturer>
+		<MPN>1011</MPN>
+		<Weight>None</Weight>
+		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
+		<Barcode>5201263006357</Barcode>
+		<Quantity>240</Quantity>
+		</product>
+	<product><ID>61023</ID>
+		<Name>EVERYDAY HYPERDRY UL PL 18's MAXI NIGHT  </Name>
+		<Product_Link>https://www.skroutz.gr/s/9901105/Every-Day-Sensitive-With-Cotton-Maxi-Night-Ultra-Plus-Servietes-me-Ftera-Nyktos-gia-Ayximeni-Roi-7-Stagones-18tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/009901/9901105/20200320090243_every_day_sensitive_ultra_plus_maxi_night_18tmch.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>2.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
+		<Manufacturer>EVERYDAY</Manufacturer>
+		<MPN>1012</MPN>
+		<Weight>None</Weight>
+		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
+		<Barcode>5201263006364</Barcode>
+		<Quantity>240</Quantity>
+		</product>
 	<product><ID>61112</ID>
 		<Name>PUFIES Trends Value τμχ  No2 Mini (3-6kg) 72pcs   </Name>
 		<Product_Link>https://www.ceneo.pl/70417117</Product_Link>
@@ -3406,7 +3315,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.83</Price>
+		<Price>1.87</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -3424,7 +3333,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.32</Price>
+		<Price>2.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -3442,7 +3351,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.62</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -3460,7 +3369,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.92</Price>
+		<Price>1.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -3478,7 +3387,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>9.14</Price>
+		<Price>9.31</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -3500,7 +3409,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>13.80</Price>
+		<Price>14.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -3522,7 +3431,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.93</Price>
+		<Price>0.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>BIC</Manufacturer>
@@ -3540,7 +3449,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.46</Price>
+		<Price>1.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>BIC</Manufacturer>
@@ -3558,7 +3467,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.47</Price>
+		<Price>1.5</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>BIC</Manufacturer>
@@ -3788,7 +3697,7 @@
 		<Barcode>8015700156478</Barcode>
 		<Quantity>20</Quantity>
 		</product>
-	<product><ID>64912</ID>
+	<product><ID>64922</ID>
 		<Name>AROMA Bio BODY MILK 300ML ΜΕΛΙ &amp; ΓΙΑΟΥΡΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/43962570/Aroma-Body-Milk-Meli-Giaourti-300ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/043962/43962570/20230710155630_aroma_body_milk_meli_giaourti_300ml.jpeg</Image_Link>
@@ -3806,7 +3715,7 @@
 		<Barcode>5208005110020</Barcode>
 		<Quantity>21</Quantity>
 		</product>
-	<product><ID>64913</ID>
+	<product><ID>64923</ID>
 		<Name>AROMA Bio BODY MILK 300ML ΕΛΑΙΟΛΑΔΟ &amp; ΒΑΛΣΑΜΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/43962573/Aroma-Body-Milk-Elaiolado-Valsamo-300ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/043962/43962573/20230710155631_aroma_body_milk_elaiolado_valsamo_300ml.jpeg</Image_Link>
@@ -3935,7 +3844,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.30</Price>
+		<Price>0.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -3953,7 +3862,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.30</Price>
+		<Price>0.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -3971,7 +3880,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.30</Price>
+		<Price>0.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -3989,7 +3898,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.30</Price>
+		<Price>0.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -3998,6 +3907,78 @@
 		<Description>Το TEO Soap Irresistible Fig είναι ένα σαπούνι με το αρωματικό άρωμα του φρούτου σύκου, δημιουργώντας μια εκλεπτυσμένη αίσθηση φρεσκάδας και ευεξίας. Η απαλή του σύνθεση καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<Barcode>3800024014376</Barcode>
 		<Quantity>480</Quantity>
+		</product>
+	<product><ID>65511</ID>
+		<Name>ΠΑΠΟΥΤΣΑΝΗΣ ΚΑΡΑΒΑΚΙ ΣΑΠΟΥΝΙ 100GR ΛΕΥΚΟ</Name>
+		<Product_Link>https://www.skroutz.gr/s/8404780/Papoutsanis-Karavaki-Sapouni-Leyko-100gr.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/008404/8404780/20160222133538_papoutsanis_karavaki_sapoyni_leyko_100gr.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6.00</VAT>
+		<Price>0.49</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
+		<Manufacturer>PAPOUTSANIS</Manufacturer>
+		<MPN>1013</MPN>
+		<Weight>None</Weight>
+		<Description>Σαπούνι  το οποίο χάρη στη βιοδιασπώμενη σύνθεσή του φροντίζει απαλά όλη την οικογένεια. Είναι δερματολογικά ελεγμένο για να νιώθετε ασφάλεια. Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>5201109601623</Barcode>
+		<Quantity>120</Quantity>
+		</product>
+	<product><ID>65512</ID>
+		<Name>ΠΑΠΟΥΤΣΑΝΗΣ ΣΑΠΟΥΝΙ ΜΕ ΕΛΑΙΟΛΑΔΟ 125GR ΠΡΑΣΙΝΟ</Name>
+		<Product_Link>https://www.skroutz.gr/s/4309344/Papoutsanis-Pure-Olive-Prasino-Sapouni-125gr.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/098071/98071283/20240613161524_a4c920f2.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6.00</VAT>
+		<Price>0.5</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
+		<Manufacturer>PAPOUTSANIS</Manufacturer>
+		<MPN>1014</MPN>
+		<Weight>None</Weight>
+		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.</Description>
+		<Barcode>5201109655107</Barcode>
+		<Quantity>120</Quantity>
+		</product>
+	<product><ID>65521</ID>
+		<Name>ΠΑΠΟΥΤΣΑΝΗΣ AROMATICS ΣΑΠΟΥΝΙ 4τμχ*100GR MUSK</Name>
+		<Product_Link>https://www.skroutz.gr/s/36068278/Papoutsanis-Soap-Bar-Aromatics-Vanilia-Madagaskaris-4x100gr.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/036068/36068278/20220518131748_papoutsanis_soap_bar_aromatics_vanilia_madagaskaris_4tmch.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6.00</VAT>
+		<Price>1.88</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
+		<Manufacturer>PAPOUTSANIS</Manufacturer>
+		<MPN>1015</MPN>
+		<Weight>None</Weight>
+		<Description>Σαπούνι της Papoutsanis με καθαριστική δράση που διασφαλίζει τη σωστή υγιεινή της επιδερμίδας.</Description>
+		<Barcode>5201109002666</Barcode>
+		<Quantity>40</Quantity>
+		</product>
+	<product><ID>65522</ID>
+		<Name>ΠΑΠΟΥΤΣΑΝΗΣ AROMATICS ΣΑΠΟΥΝΙ 4τμχ*100GR TABAC</Name>
+		<Product_Link>https://www.skroutz.gr/s/51055210/Papoutsanis-Sapouni-Tabac-Kedro-kai-Kechrimpari-Aromatics-100g-3-1-Doro.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/051055/51055210/20240304213124_papoutsanis_sapouni_tabac_kedro_kai_kechrimpari_aromatics_100g_3_1_doro.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6.00</VAT>
+		<Price>1.88</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
+		<Manufacturer>PAPOUTSANIS</Manufacturer>
+		<MPN>1016</MPN>
+		<Weight>None</Weight>
+		<Description>Σαπούνι της Papoutsanis με καθαριστική δράση που διασφαλίζει τη σωστή υγιεινή της επιδερμίδας.</Description>
+		<Barcode>5201109002673</Barcode>
+		<Quantity>40</Quantity>
 		</product>
 	<product><ID>66011</ID>
 		<Name>TEO Shampoo Sea Treasures 2in1 Minerals 400ml       </Name>
@@ -4061,7 +4042,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.94</Price>
+		<Price>4.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>SYOSS</Manufacturer>
@@ -4079,7 +4060,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.94</Price>
+		<Price>4.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>SYOSS</Manufacturer>
@@ -4097,7 +4078,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.94</Price>
+		<Price>4.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>SYOSS</Manufacturer>
@@ -4115,7 +4096,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.95</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -4133,7 +4114,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.95</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -4151,7 +4132,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.95</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -4172,7 +4153,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.50</Price>
+		<Price>2.84</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4190,7 +4171,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.22</Price>
+		<Price>2.52</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4208,7 +4189,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.46</Price>
+		<Price>2.79</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4227,7 +4208,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.77</Price>
+		<Price>2.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4245,7 +4226,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.69</Price>
+		<Price>1.92</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4263,7 +4244,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.14</Price>
+		<Price>1.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4281,7 +4262,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.86</Price>
+		<Price>2.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4299,7 +4280,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.66</Price>
+		<Price>3.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -4317,7 +4298,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.26</Price>
+		<Price>0.31</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Χαρτοπετσέτες &amp; Κουβέρ Εστίασης</Category_Path>
 		<Manufacturer>TOP FEEL</Manufacturer>
@@ -4335,7 +4316,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.50</Price>
+		<Price>0.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Χαρτοπετσέτες &amp; Κουβέρ Εστίασης</Category_Path>
 		<Manufacturer>TOP FEEL</Manufacturer>
@@ -4353,7 +4334,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.89</Price>
+		<Price>2.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Χαρτοπετσέτες &amp; Κουβέρ Εστίασης</Category_Path>
 		<Manufacturer>TOP FEEL</Manufacturer>
@@ -4371,7 +4352,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.39</Price>
+		<Price>1.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>SELPAK</Manufacturer>
@@ -4389,7 +4370,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.45</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>SELPAK</Manufacturer>
@@ -4407,7 +4388,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.30</Price>
+		<Price>0.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Προσωπική Υγιεινή &gt; Αντισηπτικά Χεριών</Category_Path>
 		<Manufacturer>WET HANKIES</Manufacturer>
@@ -4426,7 +4407,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.30</Price>
+		<Price>0.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Προσωπική Υγιεινή &gt; Αντισηπτικά Χεριών</Category_Path>
 		<Manufacturer>WET HANKIES</Manufacturer>
@@ -4445,7 +4426,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.52</Price>
+		<Price>2.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Προσώπου &gt; Καθαριστικά Προσώπου</Category_Path>
 		<Manufacturer>POM PON</Manufacturer>
@@ -4463,7 +4444,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>14.18</Price>
+		<Price>15.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Στρώσιμο Τραπεζιού μιας Χρήσης</Category_Path>
 		<Manufacturer>Endless</Manufacturer>
@@ -4476,7 +4457,7 @@
 Ποιότητα: χαρτί με νάυλον
 Τραπεζομάντιλα ανά συσκευασία: 150</Description>
 		<Barcode>5202995007889</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>10</Quantity>
 		</product>
 	<product><ID>70904</ID>
 		<Name>ΤΡΑΠΕΖΟΜΑΝΤΗΛΟ ΧΑΡΤΙΝΟ ΚΑΦΕ-ΕΛΙΑ 150τεμ 100Χ100</Name>
@@ -4486,7 +4467,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>14.96</Price>
+		<Price>16.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Στρώσιμο Τραπεζιού μιας Χρήσης</Category_Path>
 		<Manufacturer>Endless</Manufacturer>
@@ -4496,7 +4477,7 @@
 Τραπεζομάντιλα ανά συσκευασία: 150
 Κατασκευάζεται στην Ελλάδα.</Description>
 		<Barcode>15202995008593</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>10</Quantity>
 		</product>
 	<product><ID>70912</ID>
 		<Name>ΤΡΑΠΕΖΟΜΑΝΤΗΛΟ ΧΑΡΤΙΝΟ ΛΕΥΚΟ-ΕΛΙΑ 110τεμ 130Χ100</Name>
@@ -4506,7 +4487,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>14.18</Price>
+		<Price>15.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Στρώσιμο Τραπεζιού μιας Χρήσης</Category_Path>
 		<Manufacturer>Endless</Manufacturer>
@@ -4514,7 +4495,7 @@
 		<Weight>None</Weight>
 		<Description>Τραπεζομάντηλο μιας χρήσης, σε λευκό χρώμα, με σχέδιο ελιά και διάσταση 130 x 110 cm, σε συσκευασία 110τμχ</Description>
 		<Barcode>5202995007902</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>10</Quantity>
 		</product>
 	<product><ID>70914</ID>
 		<Name>ΤΡΑΠΕΖΟΜΑΝΤΗΛΟ ΧΑΡΤΙΝΟ ΚΑΦΕ-ΕΛΙΑ 110τεμ 130Χ100</Name>
@@ -4524,7 +4505,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>14.96</Price>
+		<Price>16.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Στρώσιμο Τραπεζιού μιας Χρήσης</Category_Path>
 		<Manufacturer>Endless</Manufacturer>
@@ -4532,7 +4513,7 @@
 		<Weight>None</Weight>
 		<Description>Τραπεζομάντιλο λαδόκολλα σε φύλλο 130x110 cm επαγγελματικής χρήσης. Διατίθεται σε κιβώτιο 110 τεμαχίων.</Description>
 		<Barcode>15202995008630</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>10</Quantity>
 		</product>
 	<product><ID>71001</ID>
 		<Name>SEMANA BLUE 800ml</Name>
@@ -4542,7 +4523,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.90</Price>
+		<Price>3.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Μαλακτικά Ρούχων</Category_Path>
 		<Manufacturer>SEMANA</Manufacturer>
@@ -4551,24 +4532,6 @@
 		<Description>Το SEMANA BLUE είναι ένα αποτελεσματικό προϊόν που προσδίδει φρεσκάδα στα ρούχα σας, καθώς και ευχάριστο άρωμα.</Description>
 		<Barcode>13800024046008</Barcode>
 		<Quantity>240</Quantity>
-		</product>
-	<product><ID>71003</ID>
-		<Name>SEMANA VIOLET 950ml / 38 MEZ     </Name>
-		<Product_Link>https://finemarket.gr/product/malaktiko-roukhon-semana-violet-kiss-950ml-38mez/</Product_Link>
-		<Image_Link>https://cdncloudcart.com/16398/products/images/53565/omekotitel-semana-violet-kiss-950-ml-65aa9d4ca1423_1280x1280.jpeg?1705680226</Image_Link>
-		<Additional>None</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24.00</VAT>
-		<Price>2.90</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Μαλακτικά Ρούχων</Category_Path>
-		<Manufacturer>SEMANA</Manufacturer>
-		<MPN>0319</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Το SEMANA VIOLET είναι ένα αποτελεσματικό προϊόν πλυσίματος με ευχάριστο άρωμα, προσφέροντας εξαιρετική καθαριότητα και φρεσκάδα στα ρούχα σας. Κατάλληλο για καθημερινή χρήση, εξασφαλίζει εντυπωσιακά αποτελέσματα στο πλύσιμο.</Description>
-		<Barcode>3800024046018</Barcode>
-		<Quantity>120</Quantity>
 		</product>
 	<product><ID>71021</ID>
 		<Name>TESORI WHITE MUSK 760ml</Name>
@@ -4605,7 +4568,7 @@
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>240</Quantity>
 		</product>
 	<product><ID>71023</ID>
 		<Name>TESORI HAMAM 760ml</Name>
@@ -4643,7 +4606,7 @@
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055244</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>240</Quantity>
 		</product>
 	<product><ID>71025</ID>
 		<Name>TESORI THALASSOTHERAPY 760ml</Name>
@@ -4679,7 +4642,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα. </Description>
 		<Barcode>8008970055268</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>40</Quantity>
 		</product>
 	<product><ID>71101</ID>
 		<Name>ROL ΣΚΟΝΗ 380gr</Name>
@@ -4707,7 +4670,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.62</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
 		<Manufacturer>TIDE</Manufacturer>
@@ -4725,7 +4688,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.87</Price>
+		<Price>2.93</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
 		<Manufacturer>TIDE</Manufacturer>
@@ -4743,7 +4706,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.63</Price>
+		<Price>3.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
 		<Manufacturer>SAVEX</Manufacturer>
@@ -4751,7 +4714,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Μαλακτικό ρούχων που παρέχει επιπλέον απαλότητα και φρεσκάδα στα ρούχα σας, ενώ ταυτόχρονα τα καθαρίζει.</Description>
 		<Barcode>3800024025372</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>71203</ID>
 		<Name>SAVEX Liquid Parfum Lock 2in1 Color 1,3lit  </Name>
@@ -4761,7 +4724,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.63</Price>
+		<Price>3.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
 		<Manufacturer>SAVEX</Manufacturer>
@@ -4769,7 +4732,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Προσφέρει απαλότητα στα ρούχα σας και ταυτόχρονα διατηρεί τα χρώματά τους φωτεινά και ζωηρά. Επιπλέον, παρέχει ευχάριστο άρωμα που διαρκεί.</Description>
 		<Barcode>3800024013577</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>120</Quantity>
 		</product>
 	<product><ID>71204</ID>
 		<Name>SAVEX Liquid Parfum Lock 2in1 Black 1,3lit       </Name>
@@ -4779,7 +4742,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.63</Price>
+		<Price>3.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
 		<Manufacturer>SAVEX</Manufacturer>
@@ -4817,7 +4780,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.77</Price>
+		<Price>4.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>REX HELLAS</Manufacturer>
@@ -4828,6 +4791,24 @@
 Προφυλάξεις: Μακριά από παιδιά.</Description>
 		<Barcode>5200250700308</Barcode>
 		<Quantity>20</Quantity>
+		</product>
+	<product><ID>71311</ID>
+		<Name>COLOUR CATCHER ΧΡΩΜΟΠΑΓΙΔΑ 15 TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/22510640/Colour-Catcher-Complete-Action-15-CHromopagides.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/022510/22510640/20220225112228_colour_catcher_complete_action_15_chromopagides.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24.01</VAT>
+		<Price>1.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
+		<Manufacturer>COLOUR CATCHER</Manufacturer>
+		<MPN>1017</MPN>
+		<Weight>None</Weight>
+		<Description>Το Colour Catcher είναι ο εφευρέτης των χρωμοπαγίδων, των φύλλων που απορροφούν τα χρώματα που ξεβάφουν σε κάθε πλύση. Πλέον δεν χρειάζεται ξεχώρισμα στα ρούχα! Τα 6 επίπεδα προστασίας της χρωμοπαγίδας Colour Catcher διασφαλίζουν την προστασία των ρούχων κατά το πλύσιμο. Προστατεύουν την ζωντάνια των χρωμάτων, αποτρέπουν το γάριασμα και τα κατάλοιπα βρωμιάς, ενώ είναι αποτελεσματικές σε όλες τις θερμοκρασίες.</Description>
+		<Barcode>5201395154735</Barcode>
+		<Quantity>40</Quantity>
 		</product>
 	<product><ID>71312</ID>
 		<Name>REX ΥΦΑΣΜΑΤΙΝΗ ΧΡΩΜΟΠΑΓΙΔΑ 10+2 ΔΩΡΟ</Name>
@@ -4897,7 +4878,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.27</Price>
+		<Price>1.5</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -4916,7 +4897,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.27</Price>
+		<Price>1.5</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -4935,7 +4916,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>5.98</Price>
+		<Price>6.8</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -4955,7 +4936,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.14</Price>
+		<Price>3.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
 		<Manufacturer>KLOREX</Manufacturer>
@@ -4974,7 +4955,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.99</Price>
+		<Price>3.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5029,7 +5010,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>4.38</Price>
+		<Price>4.98</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5048,7 +5029,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.32</Price>
+		<Price>3.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Επιφανειών</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -5066,7 +5047,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.30</Price>
+		<Price>2.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Barbeque &amp; Τζάκι &gt; Καθαριστικά Τζακιού</Category_Path>
 		<Manufacturer>RIVER FLAME</Manufacturer>
@@ -5084,7 +5065,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.39</Price>
+		<Price>0.44</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5110,7 +5091,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.52</Price>
+		<Price>0.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5136,7 +5117,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.07</Price>
+		<Price>1.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BLAZY</Manufacturer>
@@ -5154,7 +5135,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.17</Price>
+		<Price>1.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>BLAZY</Manufacturer>
@@ -5172,7 +5153,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.26</Price>
+		<Price>1.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -5190,7 +5171,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.62</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -5211,7 +5192,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.62</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -5229,7 +5210,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.62</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -5249,7 +5230,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.62</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -5267,7 +5248,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.62</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -5285,7 +5266,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.63</Price>
+		<Price>1.93</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5304,7 +5285,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>4.32</Price>
+		<Price>5.11</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5315,6 +5296,42 @@
 		<Barcode>5200250703323</Barcode>
 		<Quantity>60</Quantity>
 		</product>
+	<product><ID>73501</ID>
+		<Name>ΧΛΩΡΙΝΗ KLINEX ULTRA 750ml ΚΙΤΡΙΝΗ</Name>
+		<Product_Link>https://www.skroutz.gr/s/22366464/Klinex-Ultra-Protection-Pachyrreysti-CHlorini-me-Aroma-Lemon-750ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/022366/22366464/20200316114311_klinex_ultra_protection_lemon_pachyrreysto_ygro_750ml.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24.00</VAT>
+		<Price>1.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
+		<Manufacturer>KLINEX</Manufacturer>
+		<MPN>1018</MPN>
+		<Weight>None</Weight>
+		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
+		<Barcode>5201028094209</Barcode>
+		<Quantity>120</Quantity>
+		</product>
+	<product><ID>735111</ID>
+		<Name>ΧΛΩΡΙΝΗ KLINEX ULTRA 1250ml ΚΙΤΡΙΝΗ (2 TEM)</Name>
+		<Product_Link>https://www.skroutz.gr/s/22396440/Klinex-Ultra-Protection-Pachyrreysti-CHlorini-me-Aroma-Lemon-2x1-25lt.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/022396/22396440/20210303110733_klinex_ultra_protection_pachyrreysto_ygro_1250ml_2tmch_lemon.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24.00</VAT>
+		<Price>5.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
+		<Manufacturer>KLINEX</Manufacturer>
+		<MPN>1019</MPN>
+		<Weight>None</Weight>
+		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
+		<Barcode>8711600347083</Barcode>
+		<Quantity>240</Quantity>
+		</product>
 	<product><ID>73531</ID>
 		<Name>ΡΕΧ ΧΛΩΡΙΝΗ ΠΑΧΥΡΕΥΣΤΗ 750 ml  ΚΙΤΡΙΝΗ</Name>
 		<Product_Link>https://www.skroutz.gr/s/25729458/Rex-Hellas-Ultra-Pachyrreysti-CHlorini-me-Aroma-Lemoni-750ml.html</Product_Link>
@@ -5323,7 +5340,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.77</Price>
+		<Price>0.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>ΡΕΧ</Manufacturer>
@@ -5342,7 +5359,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>1.15</Price>
+		<Price>1.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5362,7 +5379,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>2.65</Price>
+		<Price>3.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5382,7 +5399,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.96</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5400,7 +5417,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>0.96</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5418,7 +5435,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>1.14</Price>
+		<Price>1.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>SERVIN</Manufacturer>
@@ -5436,7 +5453,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>1.64</Price>
+		<Price>1.93</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5454,7 +5471,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6.00</VAT>
-		<Price>1.64</Price>
+		<Price>1.93</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>REX</Manufacturer>
@@ -5472,7 +5489,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.72</Price>
+		<Price>1.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5490,7 +5507,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.22</Price>
+		<Price>1.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5508,7 +5525,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.92</Price>
+		<Price>1.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5526,7 +5543,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.49</Price>
+		<Price>2.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5544,7 +5561,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.09</Price>
+		<Price>2.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5562,7 +5579,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.98</Price>
+		<Price>1.11</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5580,7 +5597,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.47</Price>
+		<Price>1.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5598,7 +5615,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.47</Price>
+		<Price>1.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5616,7 +5633,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.81</Price>
+		<Price>2.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>FIVE STAR</Manufacturer>
@@ -5634,7 +5651,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.49</Price>
+		<Price>1.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5652,7 +5669,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.32</Price>
+		<Price>3.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5670,7 +5687,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.82</Price>
+		<Price>3.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5688,7 +5705,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.32</Price>
+		<Price>1.51</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5709,7 +5726,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.68</Price>
+		<Price>0.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5727,7 +5744,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.64</Price>
+		<Price>0.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>MADONA</Manufacturer>
@@ -5745,7 +5762,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.59</Price>
+		<Price>0.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>FIVE STARS</Manufacturer>
@@ -5763,7 +5780,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.36</Price>
+		<Price>0.41</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5782,7 +5799,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.61</Price>
+		<Price>0.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5800,7 +5817,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.46</Price>
+		<Price>0.52</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5818,7 +5835,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.30</Price>
+		<Price>0.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Σφουγγάρια Σώματος</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5836,7 +5853,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.91</Price>
+		<Price>1.04</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Σφουγγάρια Σώματος</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5854,7 +5871,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.76</Price>
+		<Price>0.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Αυτοκινήτου &gt; Σφουγγάρια/Πανιά Αυτοκινήτου</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -5872,7 +5889,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.37</Price>
+		<Price>1.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -5890,7 +5907,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.69</Price>
+		<Price>1.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -5908,7 +5925,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.89</Price>
+		<Price>2.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -5932,7 +5949,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.03</Price>
+		<Price>1.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -5956,7 +5973,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.04</Price>
+		<Price>2.22</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -5974,7 +5991,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.57</Price>
+		<Price>1.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -5992,7 +6009,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.46</Price>
+		<Price>3.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -6010,7 +6027,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.72</Price>
+		<Price>1.87</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
 		<Manufacturer>OSKAR</Manufacturer>
@@ -6031,7 +6048,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.22</Price>
+		<Price>0.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καπνιστού &gt; Αναπτήρες</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -6049,7 +6066,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.62</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6067,7 +6084,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.38</Price>
+		<Price>1.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6085,7 +6102,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.62</Price>
+		<Price>0.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6103,7 +6120,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.36</Price>
+		<Price>3.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6121,7 +6138,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.34</Price>
+		<Price>2.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Διάφορα Εκκλησιαστικά Είδη</Category_Path>
 		<Manufacturer>RIVER HELLAS</Manufacturer>
@@ -6139,7 +6156,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.95</Price>
+		<Price>1.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Εξοπλισμός Φαγητού Camping &gt; Καμινέτα</Category_Path>
 		<Manufacturer>ASTRON TRIA</Manufacturer>
@@ -6157,7 +6174,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.71</Price>
+		<Price>3.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Εξοπλισμός Φαγητού Camping &gt; Καμινέτα</Category_Path>
 		<Manufacturer>ASTRON TRIA</Manufacturer>
@@ -6175,7 +6192,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.04</Price>
+		<Price>3.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Εξοπλισμός Φαγητού Camping &gt; Καμινέτα</Category_Path>
 		<Manufacturer>ASTRON TRIA</Manufacturer>
@@ -6193,7 +6210,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.73</Price>
+		<Price>0.79</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>BISPOL</Manufacturer>
@@ -6211,7 +6228,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.44</Price>
+		<Price>1.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>BISPOL</Manufacturer>
@@ -6229,7 +6246,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.41</Price>
+		<Price>2.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>BISPOL</Manufacturer>
@@ -6247,7 +6264,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.14</Price>
+		<Price>3.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>BISPOL</Manufacturer>
@@ -6265,7 +6282,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.78</Price>
+		<Price>3.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αρωματικά Χώρου &amp; Αρωματοθεραπεία &gt; Αρωματικά Χώρου</Category_Path>
 		<Manufacturer>BISPOL</Manufacturer>
@@ -6283,7 +6300,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.78</Price>
+		<Price>3.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αρωματικά Χώρου &amp; Αρωματοθεραπεία &gt; Αρωματικά Χώρου</Category_Path>
 		<Manufacturer>BISPOL</Manufacturer>
@@ -6301,7 +6318,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>5.81</Price>
+		<Price>6.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αρωματικά Χώρου &amp; Αρωματοθεραπεία &gt; Αρωματικά Χώρου</Category_Path>
 		<Manufacturer>BISPOL</Manufacturer>
@@ -6319,7 +6336,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.53</Price>
+		<Price>3.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>ZUND MICH AN</Manufacturer>
@@ -6337,7 +6354,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>6.47</Price>
+		<Price>6.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>ΠΑΡΑΔΟΣΙΑΚΑ ΞΥΛΟΚΑΡΒΟΥΝΑ</Manufacturer>
@@ -6355,7 +6372,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>6.13</Price>
+		<Price>6.41</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>BLACK DIAMOND</Manufacturer>
@@ -6373,7 +6390,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>8.75</Price>
+		<Price>9.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>CARBONBOX</Manufacturer>
@@ -6391,7 +6408,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>21.01</Price>
+		<Price>22.6</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>CARBONBOX</Manufacturer>
@@ -6414,7 +6431,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.66</Price>
+		<Price>0.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Οργάνωση &amp; Αποθήκευση Κουζίνας &gt; Παγοθήκες</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6432,7 +6449,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.38</Price>
+		<Price>0.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ELEF</Manufacturer>
@@ -6450,7 +6467,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.52</Price>
+		<Price>0.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ELEF</Manufacturer>
@@ -6468,7 +6485,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.59</Price>
+		<Price>0.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ELEF</Manufacturer>
@@ -6486,7 +6503,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.35</Price>
+		<Price>0.41</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SERVIN</Manufacturer>
@@ -6504,7 +6521,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.38</Price>
+		<Price>0.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SERVIN</Manufacturer>
@@ -6522,7 +6539,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.38</Price>
+		<Price>0.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SERVIN</Manufacturer>
@@ -6540,7 +6557,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.35</Price>
+		<Price>0.41</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Διάφορα Οικιακά Είδη</Category_Path>
 		<Manufacturer>SERVIN</Manufacturer>
@@ -6558,7 +6575,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.77</Price>
+		<Price>0.87</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>SOFTLINE</Manufacturer>
@@ -6579,7 +6596,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.58</Price>
+		<Price>0.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6597,7 +6614,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.58</Price>
+		<Price>0.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6615,7 +6632,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.24</Price>
+		<Price>1.4</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>SOFTLINE</Manufacturer>
@@ -6633,7 +6650,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.05</Price>
+		<Price>1.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6651,7 +6668,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.05</Price>
+		<Price>1.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6669,7 +6686,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.05</Price>
+		<Price>1.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -6687,7 +6704,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.36</Price>
+		<Price>2.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>SOFTLINE</Manufacturer>
@@ -6705,7 +6722,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.53</Price>
+		<Price>0.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
 		<Manufacturer>SOFTLINE</Manufacturer>
@@ -6724,7 +6741,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.89</Price>
+		<Price>1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Μανταλάκια</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6742,7 +6759,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.74</Price>
+		<Price>1.97</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Μανταλάκια</Category_Path>
 		<Manufacturer>GOLD STAR</Manufacturer>
@@ -6760,7 +6777,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.25</Price>
+		<Price>0.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Διάφορα Οικιακά Είδη</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6780,7 +6797,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.66</Price>
+		<Price>1.88</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6800,7 +6817,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.84</Price>
+		<Price>0.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικός Εξοπλισμός Cafe - Bar &gt; Σέικερ</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6818,7 +6835,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.98</Price>
+		<Price>2.24</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εργαλεία Κουζίνας &gt; Αντλίες Λαδιού &amp; Νερού</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6836,7 +6853,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.02</Price>
+		<Price>2.28</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Σερβιρίσματος &gt; Λαδόξιδα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6856,7 +6873,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.60</Price>
+		<Price>0.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Μπάνιου &gt; Αξεσουάρ Οδοντόβουρτσας &amp; Οδοντόκρεμας</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6874,7 +6891,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.71</Price>
+		<Price>0.8</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη για το Μπάνιο &gt; Θήκες Μπάνιου</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6892,7 +6909,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.37</Price>
+		<Price>1.55</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εργαλεία Κουζίνας &gt; Στίφτες</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6910,7 +6927,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.58</Price>
+		<Price>0.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εργαλεία Κουζίνας &gt; Διάφορα Αξεσουάρ Μαγειρικής</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6928,7 +6945,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.70</Price>
+		<Price>0.79</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Σχοινιά Απλώματος</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6946,7 +6963,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.43</Price>
+		<Price>1.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Σχοινιά Απλώματος</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -6964,7 +6981,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.32</Price>
+		<Price>0.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Διάφορα Αναλώσιμα Εστίασης μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -6982,7 +6999,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.37</Price>
+		<Price>1.54</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Διάφορα Αναλώσιμα Εστίασης μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -7000,7 +7017,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.68</Price>
+		<Price>0.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7018,7 +7035,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.09</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7036,7 +7053,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.13</Price>
+		<Price>1.35</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7054,7 +7071,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.30</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7072,7 +7089,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.76</Price>
+		<Price>1.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7090,7 +7107,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.74</Price>
+		<Price>1.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7109,7 +7126,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.30</Price>
+		<Price>2.6</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7127,7 +7144,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.80</Price>
+		<Price>2.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7145,7 +7162,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.71</Price>
+		<Price>1.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7163,7 +7180,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.84</Price>
+		<Price>2.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7181,7 +7198,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.43</Price>
+		<Price>1.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7199,7 +7216,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.61</Price>
+		<Price>1.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7220,7 +7237,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.62</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7239,7 +7256,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>5.72</Price>
+		<Price>7.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7257,7 +7274,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>6.34</Price>
+		<Price>7.35</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7275,7 +7292,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.61</Price>
+		<Price>1.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7296,7 +7313,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>4.47</Price>
+		<Price>4.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7318,7 +7335,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>6.83</Price>
+		<Price>7.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7336,7 +7353,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>7.70</Price>
+		<Price>8.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7354,7 +7371,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>6.02</Price>
+		<Price>6.54</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7375,7 +7392,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>12.91</Price>
+		<Price>14.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7395,7 +7412,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>7.94</Price>
+		<Price>8.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7416,7 +7433,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>4.78</Price>
+		<Price>5.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7434,7 +7451,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>5.46</Price>
+		<Price>5.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7452,7 +7469,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.03</Price>
+		<Price>1.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7470,7 +7487,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.04</Price>
+		<Price>3.31</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7488,7 +7505,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.25</Price>
+		<Price>0.28</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Party &gt; Είδη Party για Σερβίρισμα</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -7507,7 +7524,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.45</Price>
+		<Price>0.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Party &gt; Είδη Party για Σερβίρισμα</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -7526,7 +7543,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.47</Price>
+		<Price>2.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7544,7 +7561,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.47</Price>
+		<Price>2.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7562,7 +7579,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.47</Price>
+		<Price>2.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7580,7 +7597,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.71</Price>
+		<Price>3.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7598,7 +7615,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.71</Price>
+		<Price>3.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7616,7 +7633,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.71</Price>
+		<Price>3.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7634,7 +7651,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.27</Price>
+		<Price>1.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7654,7 +7671,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.71</Price>
+		<Price>1.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>None</Manufacturer>
@@ -7674,7 +7691,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.53</Price>
+		<Price>0.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7695,7 +7712,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.82</Price>
+		<Price>0.98</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7716,7 +7733,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.92</Price>
+		<Price>1.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7737,7 +7754,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.97</Price>
+		<Price>1.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7758,7 +7775,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.92</Price>
+		<Price>1.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7779,7 +7796,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.95</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7801,7 +7818,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.95</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7823,7 +7840,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.95</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7845,7 +7862,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.96</Price>
+		<Price>1.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Είδη Ζωγραφικής &gt; Μπλοκ Ζωγραφικής</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7863,7 +7880,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.54</Price>
+		<Price>1.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7885,7 +7902,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.19</Price>
+		<Price>2.6</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7907,7 +7924,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.23</Price>
+		<Price>2.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7929,7 +7946,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.86</Price>
+		<Price>3.4</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Σχολικά Τετράδια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7951,7 +7968,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.47</Price>
+		<Price>0.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αναλώσιμα Γραφείου &gt; Σημειωματάρια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7972,7 +7989,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.00</Price>
+		<Price>1.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αναλώσιμα Γραφείου &gt; Σημειωματάρια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -7990,7 +8007,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.29</Price>
+		<Price>1.54</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αναλώσιμα Γραφείου &gt; Σημειωματάρια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8008,7 +8025,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.50</Price>
+		<Price>1.79</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αναλώσιμα Γραφείου &gt; Σημειωματάρια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8017,7 +8034,7 @@
 		<Description>• Διαστάσεις: 9x9cm
 • Αριθμός φύλλων: 550</Description>
 		<Barcode>5203358001681</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 		</product>
 	<product><ID>79096</ID>
 		<Name>ΠΛΑΣΤΕΛΙΝΗ ΜΗ ΤΟΞΙΚΗ 11τεμ 550gr (ΔΙΑΦΟΡΑ ΧΡΩΜΑΤΑ)</Name>
@@ -8027,7 +8044,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.12</Price>
+		<Price>2.52</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Παιδικά - Βρεφικά &gt; Παιχνίδια Κατασκευών &amp; Δημιουργίας &gt; Πλαστελίνες</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8047,7 +8064,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>3.61</Price>
+		<Price>4.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Στυλό</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8065,7 +8082,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.82</Price>
+		<Price>2.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Μολύβια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8083,7 +8100,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>2.08</Price>
+		<Price>2.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Μολύβια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8101,7 +8118,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>5.84</Price>
+		<Price>6.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Μαρκαδόροι</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8119,7 +8136,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.36</Price>
+		<Price>0.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Γραφική Ύλη &amp; Αναλώσιμα &gt; Κόλλες</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8142,7 +8159,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.52</Price>
+		<Price>0.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Γραφική Ύλη &amp; Αναλώσιμα &gt; Κόλλες</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8160,7 +8177,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.03</Price>
+		<Price>1.22</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Γραφική Ύλη &amp; Αναλώσιμα &gt; Κόλλες</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8178,7 +8195,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.54</Price>
+		<Price>0.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Γραφική Ύλη &amp; Αναλώσιμα &gt; Κόλλες</Category_Path>
 		<Manufacturer>JIP</Manufacturer>
@@ -8196,7 +8213,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.71</Price>
+		<Price>0.84</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Γραφική Ύλη &amp; Αναλώσιμα &gt; Κόλλες</Category_Path>
 		<Manufacturer>JIP</Manufacturer>
@@ -8214,7 +8231,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>0.43</Price>
+		<Price>1.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Γραφική Ύλη &amp; Αναλώσιμα &gt; Κόλλες</Category_Path>
 		<Manufacturer>JIP</Manufacturer>
@@ -8232,7 +8249,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24.00</VAT>
-		<Price>1.00</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Διορθωτικά</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -8250,7 +8267,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>12.80</Price>
+		<Price>13.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Τυποποιημένα Τρόφιμα &gt; Ελαιόλαδο</Category_Path>
 		<Manufacturer>ΘΕΩΝΗ</Manufacturer>
@@ -8268,7 +8285,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.82</Price>
+		<Price>1.98</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τρόφιμα &amp; Ροφήματα &gt; Ζάχαρη &amp; Υποκατάστατα</Category_Path>
 		<Manufacturer>ΛΑΪΦ</Manufacturer>
@@ -8286,7 +8303,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.74</Price>
+		<Price>0.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τρόφιμα &amp; Ροφήματα &gt; Ζάχαρη &amp; Υποκατάστατα</Category_Path>
 		<Manufacturer>ΛΑΪΦ</Manufacturer>
@@ -8304,7 +8321,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.87</Price>
+		<Price>2.04</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΑΞΙΟΣ</Manufacturer>
@@ -8322,7 +8339,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.62</Price>
+		<Price>1.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΑΞΙΟΣ</Manufacturer>
@@ -8340,7 +8357,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.92</Price>
+		<Price>1.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
@@ -8358,7 +8375,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.77</Price>
+		<Price>0.84</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
@@ -8376,7 +8393,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.06</Price>
+		<Price>1.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>CURTIRISO</Manufacturer>
@@ -8431,7 +8448,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8450,7 +8467,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8469,7 +8486,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8487,7 +8504,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8505,7 +8522,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8523,7 +8540,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8541,7 +8558,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8559,7 +8576,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8577,7 +8594,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8585,7 +8602,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια πέννες απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<Barcode>5201013005128</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>0</Quantity>
 		</product>
 	<product><ID>83124</ID>
 		<Name>FAMIGLIA ΦΙΔΕΣ 500 gr</Name>
@@ -8595,7 +8612,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.67</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8613,7 +8630,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>3.82</Price>
+		<Price>4.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
 		<Manufacturer>FAMIGLIA</Manufacturer>
@@ -8631,7 +8648,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.29</Price>
+		<Price>0.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ξίδι</Category_Path>
 		<Manufacturer>JOHN TOP</Manufacturer>
@@ -8649,7 +8666,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.22</Price>
+		<Price>0.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ξίδι</Category_Path>
 		<Manufacturer>JOHN TOP</Manufacturer>
@@ -8667,7 +8684,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.41</Price>
+		<Price>0.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Τυποποιημένα Τρόφιμα &gt; Σάλτσες &amp; Dressings</Category_Path>
 		<Manufacturer>JOHN TOP</Manufacturer>
@@ -8685,7 +8702,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.25</Price>
+		<Price>0.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Τυποποιημένα Τρόφιμα &gt; Σάλτσες &amp; Dressings</Category_Path>
 		<Manufacturer>JOHN TOP</Manufacturer>
@@ -8703,7 +8720,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.45</Price>
+		<Price>0.51</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8721,7 +8738,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.65</Price>
+		<Price>0.74</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8739,7 +8756,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.26</Price>
+		<Price>1.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8757,7 +8774,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.40</Price>
+		<Price>0.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΙΩΔΙΟΥΧΟ</Manufacturer>
@@ -8775,7 +8792,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.04</Price>
+		<Price>1.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8793,7 +8810,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.79</Price>
+		<Price>0.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8811,7 +8828,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.65</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8829,7 +8846,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.65</Price>
+		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8847,7 +8864,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.87</Price>
+		<Price>2.11</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8865,7 +8882,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>7.19</Price>
+		<Price>8.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8883,7 +8900,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.01</Price>
+		<Price>1.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8901,7 +8918,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.61</Price>
+		<Price>0.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8919,7 +8936,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.02</Price>
+		<Price>1.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8937,7 +8954,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.94</Price>
+		<Price>1.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -8955,7 +8972,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.61</Price>
+		<Price>0.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Σάλτσες &amp; Dressings</Category_Path>
 		<Manufacturer>REA</Manufacturer>
@@ -8965,22 +8982,22 @@
 		<Barcode>5202908500018</Barcode>
 		<Quantity>600</Quantity>
 		</product>
-	<product><ID>85201</ID>
-		<Name>ΚΑΛΑΜΠΟΚΙ ΓΛΥΚΟ ΚΟΝΣΕΡΒΑ 340gr         </Name>
+	<product><ID>852011</ID>
+		<Name>GUSTO ΚΑΛΑΜΠΟΚΙ ΓΛΥΚΟ ΚΟΝΣΕΡΒΑ 340gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/27824543/Frescon-Kalampoki-340gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/027824/27824543/xlarge_20230418094926_frescon_kalampoki_340gr.jpeg</Image_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/027824/27824543/20230418094926_frescon_kalampoki_340gr.jpeg</Image_Link>
 		<Additional>None</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.24</Price>
+		<Price>1.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
-		<Manufacturer>FRESCON</Manufacturer>
-		<MPN>0266</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Καλαμπόκι της εταιρίας Frescon, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Ιδανικό για σαλάτες και για πιάτα stir fry με νουντλς, λαχανικά, κρέας και θαλασσι</Description>
-		<Barcode>5200128642075</Barcode>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Σάλτσες &amp; Dressings</Category_Path>
+		<Manufacturer>GUSTO</Manufacturer>
+		<MPN>1020</MPN>
+		<Weight>0.4 kg</Weight>
+		<Description>Πρόκειται για ένα εύκολο στη χρήση τρόφιμο, έτοιμο προς κατανάλωση ή χρήση σε συνταγές. Είναι πλούσιο σε φυτικές ίνες και βιταμίνες, και μπορεί να χρησιμοποιηθεί σε σαλάτες, σούπες, σάλτσες ή ως συνοδευτικό πιάτο. Η συσκευασία του το καθιστά βολικό για αποθήκευση και μακροχρόνια χρήση.</Description>
+		<Barcode>5292869000115</Barcode>
 		<Quantity>60</Quantity>
 		</product>
 	<product><ID>85211</ID>
@@ -8991,7 +9008,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.22</Price>
+		<Price>1.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>FRESCON</Manufacturer>
@@ -9009,7 +9026,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.75</Price>
+		<Price>3.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>CAMPOS</Manufacturer>
@@ -9027,7 +9044,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.75</Price>
+		<Price>3.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>CAMPOS</Manufacturer>
@@ -9045,7 +9062,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>5.42</Price>
+		<Price>6.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>RIO MARE</Manufacturer>
@@ -9053,7 +9070,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Rio Mare τόνος σε ελαιόλαδο με το χαρακτηριστικό ροζ χρώμα του και τη συμπαγή υφή του. Ο τόνος κονσερβοποιείται με μοναδική προσθήκη το ελαιόλαδο και το θαλασσινό αλάτι. Ιδανικό για όλες τις συνταγές, από σαλάτες μέχρι κυρίως πιάτα.</Description>
 		<Barcode>8004030381681</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>40</Quantity>
 		</product>
 	<product><ID>85224</ID>
 		<Name>RIO MARE ΤΟΝΟΣ ΣΕ ΝΕΡΟ            2Χ160gr</Name>
@@ -9063,7 +9080,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>5.42</Price>
+		<Price>6.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>RIO MARE</Manufacturer>
@@ -9071,7 +9088,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Ο τόνος al Naturale της Rio Mare είναι ελαφρύς και γευστικός, προέρχεται από τη θάλασσα και από την επιλογή κιτρινόπτερου τόνου.</Description>
 		<Barcode>8004030357532</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>40</Quantity>
 		</product>
 	<product><ID>85225</ID>
 		<Name>RIO MARE ΠΟΛΥΣΑΛΑΤΑ ΚΑΛΑΜΠΟΚΙ 2Χ160gr</Name>
@@ -9081,7 +9098,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>5.11</Price>
+		<Price>5.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>RIO MARE</Manufacturer>
@@ -9099,7 +9116,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.82</Price>
+		<Price>0.93</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>JOSIANE</Manufacturer>
@@ -9117,7 +9134,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>0.82</Price>
+		<Price>0.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>VIA MARE</Manufacturer>
@@ -9135,7 +9152,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.49</Price>
+		<Price>1.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>JOLY</Manufacturer>
@@ -9153,7 +9170,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.07</Price>
+		<Price>1.22</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>CAVOS</Manufacturer>
@@ -9171,7 +9188,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.63</Price>
+		<Price>2.87</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>ZWAN</Manufacturer>
@@ -9189,7 +9206,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.78</Price>
+		<Price>2.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>MIDI</Manufacturer>
@@ -9207,7 +9224,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.44</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>DANY</Manufacturer>
@@ -9225,7 +9242,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>3.25</Price>
+		<Price>3.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>BELLO</Manufacturer>
@@ -9243,7 +9260,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>3.59</Price>
+		<Price>4.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>MIDI</Manufacturer>
@@ -9261,7 +9278,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>4.24</Price>
+		<Price>4.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>CAVOS</Manufacturer>
@@ -9279,7 +9296,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>3.02</Price>
+		<Price>3.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>MIDI</Manufacturer>
@@ -9297,7 +9314,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.47</Price>
+		<Price>1.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>ΖΑΝΑΕ</Manufacturer>
@@ -9315,7 +9332,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>1.83</Price>
+		<Price>2.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>MARGARET</Manufacturer>
@@ -9333,7 +9350,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>2.63</Price>
+		<Price>2.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>MIDI</Manufacturer>
@@ -9369,7 +9386,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>26.25</Price>
+		<Price>27.44</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Πρωινού, Snacks &amp; Ροφήματα &gt; Καφέδες</Category_Path>
 		<Manufacturer>CORTESE</Manufacturer>
@@ -9387,7 +9404,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>9.82</Price>
+		<Price>10.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφέδες &amp; Ροφήματα &gt; Ροφήματα</Category_Path>
 		<Manufacturer>CIOC ORIGINALE</Manufacturer>
@@ -9395,7 +9412,7 @@
 		<Weight>1kg</Weight>
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Cortese. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 1000gr.</Description>
 		<Barcode>7.71710171430456e+17</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>10</Quantity>
 		</product>
 	<product><ID>87511</ID>
 		<Name>NESQUIK ΣΑΚΟΥΛΑ 400gr </Name>
@@ -9405,7 +9422,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13.00</VAT>
-		<Price>3.15</Price>
+		<Price>3.44</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφέδες &amp; Ροφήματα &gt; Ροφήματα</Category_Path>
 		<Manufacturer>NESTLE</Manufacturer>
@@ -9414,5 +9431,170 @@
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Nestle. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 400gr.</Description>
 		<Barcode>5998710960620</Barcode>
 		<Quantity>20</Quantity>
+		</product>
+	<product><ID>99001</ID>
+		<Name>ΚΡΟΚΕΤΑ ΣΚΥΛΟΥ THREPSIS ΜΟΤΙΟΝ 20kg ΣΥΝΤΗΡΗΣΗΣ (21 pro/7 fat)</Name>
+		<Product_Link>https://www.bestprice.gr/item/2157238719/threpsis-motion-20kg.html</Product_Link>
+		<Image_Link>https://bbpcdn.pstatic.gr/bpimg59/8H6YP/1RUZzl_SX331/1712861683/threpsis-motion-20kg.webp</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>16</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός &gt; Σκυλοτροφές Ξηρά &gt; Τροφή Σκύλων</Category_Path>
+		<Manufacturer>THREPSIS MOTION</Manufacturer>
+		<MPN>1021</MPN>
+		<Weight>20 kg</Weight>
+		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
+		<Barcode>None</Barcode>
+		<Quantity>40</Quantity>
+		</product>
+	<product><ID>99002</ID>
+		<Name>ΚΡΟΚΕΤΑ ΣΚΥΛΟΥ MAESTRO HIGH ENERGY 15kg (30 pro/14 fat)</Name>
+		<Product_Link>https://www.skroutz.gr/s/31551934/Maestro-Dog-High-Energy-15kg-Xira-Trofi-gia-Enilikous-Skylous-me-Kotopoulo-kai-Ryzi.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/031551/31551934/20211007144839_maestro_maestro_dog_high_energy_xira_trofi_skylon_15kg.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>20.58</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός &gt; Σκυλοτροφές Ξηρά &gt; Τροφή Σκύλων</Category_Path>
+		<Manufacturer>NITSIAKOS</Manufacturer>
+		<MPN>1022</MPN>
+		<Weight>15 kg</Weight>
+		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.
+Αποτελεί ιδανική επιλογή για σκύλους με υψηλές ενεργειακές απαιτήσεις.
+• Κυρίως συστατικό: Κοτόπουλο, Ρύζι
+• Συσκευασία: 15kg</Description>
+		<Barcode>5202546009119</Barcode>
+		<Quantity>20</Quantity>
+		</product>
+	<product><ID>99003</ID>
+		<Name>ΚΡΟΚΕΤΕΣ ΣΚΥΛΟΥ BUCK BASIC 10kg</Name>
+		<Product_Link>https://nestinaribg.com/index.php?route=product/product&amp;product_id=1765</Product_Link>
+		<Image_Link>https://nestinaribg.com/image/cache/catalog/Produkti/Animaliq/buck-600x315w.jpg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>8.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός &gt; Σκυλοτροφές Ξηρά &gt; Τροφή Σκύλων</Category_Path>
+		<Manufacturer>BUCK</Manufacturer>
+		<MPN>1023</MPN>
+		<Weight>10 kg</Weight>
+		<Description>Ξηρά τροφή κατάλληλη για ενήλικους σκύλους. Η σύνθεσή τους περιλαμβάνει βασικά θρεπτικά συστατικά που εξασφαλίζουν την υγεία και την ευεξία του σκύλου. Είναι μια οικονομική επιλογή που καλύπτει τις καθημερινές διατροφικές ανάγκες του σκύλου, προσφέροντας ενέργεια και υποστήριξη για ένα δραστήριο τρόπο ζωής.
+
+
+
+
+
+</Description>
+		<Barcode>3800500814179</Barcode>
+		<Quantity>40</Quantity>
+		</product>
+	<product><ID>99011</ID>
+		<Name>ΚΡΟΚΕΤΑ ΣΚΥΛΟΥ MAESTRO 4kg (23 pro/9 fat)</Name>
+		<Product_Link>https://www.skroutz.gr/s/24627882/Nitsiakos-Vital-Formula-Maestro-Adult-4kg-Xira-Trofi-gia-Enilikous-Skylous-me-Kreas.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/024627/24627882/20211123114036_nitsiakos_vital_formula_maestro_adult_4kg.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>5.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός &gt; Σκυλοτροφές Ξηρά &gt; Τροφή Σκύλων</Category_Path>
+		<Manufacturer>NITSIAKOS</Manufacturer>
+		<MPN>1024</MPN>
+		<Weight>4 kg</Weight>
+		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.
+
+• Κυρίως συστατικό: Κρέας
+• Συσκευασία: 4kg</Description>
+		<Barcode>5202546009195</Barcode>
+		<Quantity>20</Quantity>
+		</product>
+	<product><ID>99022</ID>
+		<Name>MIGLIOR ΚΟΝΣΕΡΒΑ ΣΚΥΛΟΥ 405gr ΚΟΤΟΠΟΥΛΟ</Name>
+		<Product_Link>https://www.skroutz.gr/s/51172951/Morando-Miglior-Ygri-Trofi-Skylou-se-Konserva-405gr.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/051172/51172951/20240308124658_morando_miglior_ygri_trofi_skylou_se_konserva_405gr.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>0.68</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη για Σκύλους &gt; Υγρή Τροφή Σκύλων</Category_Path>
+		<Manufacturer>MORANDO</Manufacturer>
+		<MPN>1025</MPN>
+		<Weight>0.4 kg</Weight>
+		<Description>Υγρή τροφή από την Morando
+•Συσκευασία: Κονσέρβα
+•Ποσότητα: 1τμχ
+•Βάρος: 405gr</Description>
+		<Barcode>8007520011105</Barcode>
+		<Quantity>240</Quantity>
+		</product>
+	<product><ID>99101</ID>
+		<Name>ΚΡΟΚΕΤΑ ΓΑΤΑΣ MAESTRO 15kg (30 pro/11 fat)</Name>
+		<Product_Link>https://www.skroutz.gr/s/40512615/Nitsiakos-Maestro-Adult-Xira-Trofi-gia-Enilikes-Gates-me-Kreas-PSaria-15kg.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/040512/40512615/20230130110331_nitsiakos_maestro_adult_xira_trofi_gia_enilikes_gates_me_kreas_psaria_15kg.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>21.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός &gt; Γατοτροφές &gt; Ξηρά Τροφή Γάτας</Category_Path>
+		<Manufacturer>NITSIAKOS</Manufacturer>
+		<MPN>1026</MPN>
+		<Weight>15 kg</Weight>
+		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.
+
+• Κυρίως συστατικό: Κρέας, Ψάρια
+• Συσκευασία: 15kg</Description>
+		<Barcode>5202546009133</Barcode>
+		<Quantity>20</Quantity>
+		</product>
+	<product><ID>99111</ID>
+		<Name>ΚΡΟΚΕΤΑ ΓΑΤΑΣ MAESTRO 2kg (30 pro/11 fat)</Name>
+		<Product_Link>https://www.skroutz.gr/s/24674536/Nitsiakos-Maestro-Adult-2kg.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/024674/24674536/20211123124619_nitsiakos_maestro_adult_2kg.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>3.36</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός &gt; Γατοτροφές &gt; Ξηρά Τροφή Γάτας</Category_Path>
+		<Manufacturer>NITSIAKOS</Manufacturer>
+		<MPN>1027</MPN>
+		<Weight>2 kg</Weight>
+		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.
+
+• Κυρίως συστατικό: Κρέας, Ψάρια
+• Συσκευασία: 2kg</Description>
+		<Barcode>5202546009140</Barcode>
+		<Quantity>40</Quantity>
+		</product>
+	<product><ID>99122</ID>
+		<Name>MIGLIOR ΚΟΝΣΕΡΒΑ ΓΑΤΑΣ 405gr ΚΟΤΟΠΟΥΛΟ</Name>
+		<Product_Link>https://www.skroutz.gr/s/24845753/Morando-Miglior-Gatto-Wellness-Galopoula-Kotopoulo-405gr.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/024845/24845753/20200921120352_morando_miglior_gatto_wellness_galopoula_kotopoulo_405gr.jpeg</Image_Link>
+		<Additional>None</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13.00</VAT>
+		<Price>0.68</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός &gt; Γατοτροφές &gt; Υγρή Τροφή Γάτας</Category_Path>
+		<Manufacturer>MORANDO</Manufacturer>
+		<MPN>1028</MPN>
+		<Weight>0.4 kg</Weight>
+		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
+		<Barcode>8007520012188</Barcode>
+		<Quantity>240</Quantity>
 		</product>
 </mywebstore>
