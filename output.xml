@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-08-13 23:42</created_at>
+	<created_at>2024-08-14 16:38</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -3083,7 +3083,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Λευκό, ξηρό κρασί με δροσερό αρωματικό χαρακτήρα και τραγανή οξύτητα, σε ένα αρμονικό πάντρεμα των γνωρισμάτων των τριών λευκών ποικιλιών: Chardonnay, Viognier και Ασύρτικο. Στη μύτη αναδύονται ώριμα αρώματα ροδάκινου, βερίκοκου και αχλαδιού. Το στόμα ακολουθεί τον παραπάνω χαρακτήρα, με μια διακριτική πινελιά ορυκτότητας.</Description>
 		<Barcode>5203888135191</Barcode>
-		<Quantity>27</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>47501</ID>
@@ -4369,9 +4369,9 @@
 	</product>
 	<product>
 		<ID>61106</ID>
-		<Name>Babylino Sensitive Value Pack No6 (15+kg) 40pcs  </Name>
+		<Name>Babylino Sensitive Value Pack No6 (15+kg) 40pcs</Name>
 		<Product_Link>https://www.skroutz.gr/s/29917332/Babylino-Sensitive-Panes-me-Aytokollito-No-6-gia-13-18kg-40tmch.html?product_id=190897767&amp;sponsored=listing</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/029917/29917332/20220401095540_babylino_panes_me_aytokollito_sensitive_no_6_gia_13_18kg_40tmch.jpeg</Image_Link>
+		<Image_Link>https://www.easy-pharmacy.gr/files/products/eec14198959f2ad68d2930207427d459.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5129,7 +5129,7 @@
 		<Weight></Weight>
 		<Description>Η Πούδρα Johnson's Baby απορροφά την υπερβολική υγρασία και αφήνει την επιδερμίδα του μωρού στεγνή, χαρίζοντας μια αίσθηση απαλότητας όλη μέρα. Με απλό, κλασικό άρωμα, η βρεφική αυτή πούδρα απλώνεται εύκολα στην επιδερμίδα του μωρού και την αφήνει απαλή.</Description>
 		<Barcode>8850007011149</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>64041</ID>
@@ -5346,9 +5346,28 @@
 	</product>
 	<product>
 		<ID>64303</ID>
-		<Name>ΜΑΣΚΑ ΒΑΜΒΑΚΕΡΗ ΠΑΙΔΙΚΗ ΜΕ ΛΑΣΤΙΧΟ ΔΙΑΦΟΡΑ ΧΡΩΜΑΤΑ</Name>
+		<Name>ΜΑΣΚΑ ΒΑΜΒΑΚΕΡΗ ΠΑΙΔΙΚΗ ΜΕ ΛΑΣΤΙΧΟ ΓΑΛΑΖΙΑ</Name>
 		<Product_Link>https://www.viosarp.gr/el/product/maska-yfasmatini-paidiki-bambaki-me-lastiho-0</Product_Link>
-		<Image_Link>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcWk030S8Uuc0zE2KzbNORmZ-VXUcQe7iDn8WIe5nVw&amp;s</Image_Link>
+		<Image_Link>https://assets.vita4you.gr/pub/media/catalog/product/m/m/mm.png</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.63</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Μάσκες Προστασίας</Category_Path>
+		<Manufacturer>VIOSARP</Manufacturer>
+		<MPN>0085</MPN>
+		<Weight></Weight>
+		<Description>Η μάσκα έχει μαλακή κατασκευή που διευκολύνει την αναπνοή. Επιπλέον, μπορεί να πλυθεί και να επαναχρησιμοποιηθεί. Διατίθεται σε γαλάζιο χρώμα.</Description>
+		<Barcode>5206753030538</Barcode>
+		<Quantity>40</Quantity>
+	</product>
+	<product>
+		<ID>64304</ID>
+		<Name>ΜΑΣΚΑ ΒΑΜΒΑΚΕΡΗ ΠΑΙΔΙΚΗ ΜΕ ΛΑΣΤΙΧΟ ΚΟΚΚΙΝΗ</Name>
+		<Product_Link>https://www.viosarp.gr/el/product/maska-yfasmatini-paidiki-bambaki-me-lastiho-0</Product_Link>
+		<Image_Link>https://roimedicals.gr/wp-content/uploads/2021/03/0431-maska-ifasmatini-paidiki-kokkini.gif</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5359,7 +5378,7 @@
 		<Manufacturer>VIOSARP</Manufacturer>
 		<MPN>0086</MPN>
 		<Weight></Weight>
-		<Description>Η μάσκα έχει μαλακή κατασκευή που διευκολύνει την αναπνοή. Επιπλέον, μπορεί να πλυθεί και να επαναχρησιμοποιηθεί.</Description>
+		<Description>Η μάσκα έχει μαλακή κατασκευή που διευκολύνει την αναπνοή. Επιπλέον, μπορεί να πλυθεί και να επαναχρησιμοποιηθεί. Διατίθεται σε κόκκινο χρώμα.</Description>
 		<Barcode>5206753030539</Barcode>
 		<Quantity>40</Quantity>
 	</product>
@@ -5877,7 +5896,7 @@
 		<ID>68001</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ EX.LARGE  100 ΤΕΜ  </Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/023654/23654605/20200616172759_thalassinos_latex_xl_leyko_100tmch.jpeg</Image_Link>
+		<Image_Link>https://brolias.com/wp-content/uploads/2023/04/768b7044ec2818823b769234cd869d6b-PhotoRoom.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5896,7 +5915,7 @@
 		<ID>68002</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ LARGE  100 ΤΕΜ       </Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/023654/23654605/20200616172759_thalassinos_latex_xl_leyko_100tmch.jpeg</Image_Link>
+		<Image_Link>https://www.geapharmacy.gr/mediastream/w800/files/products/5e26a5d46ba5cb629729114dabbcf8cd.jpg.webp</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5915,7 +5934,7 @@
 		<ID>68003</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ MEDIUM 100 ΤΕΜ  </Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/023654/23654605/20200616172759_thalassinos_latex_xl_leyko_100tmch.jpeg</Image_Link>
+		<Image_Link>https://www.geapharmacy.gr/mediastream/w800/files/products/945ceb16e82d6da30ddaf8650d3c4ab0.jpg.webp</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5934,7 +5953,7 @@
 		<ID>68004</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ SMALL 100 ΤΕΜ      </Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/023654/23654605/20200616172759_thalassinos_latex_xl_leyko_100tmch.jpeg</Image_Link>
+		<Image_Link>https://www.geapharmacy.gr/mediastream/w800/files/products/a138e54a49562e5ce03ed397b73d8906.jpg.webp</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5952,8 +5971,8 @@
 	<product>
 		<ID>68041</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ EXTRA LARGE 100 ΤΕΜ       </Name>
-		<Product_Link>https://www.thanopoulos.gr/el/mias-xrisis/34358-thalassinos-gantia-nitriliou-extra-strong-maura-extra-large-100tem-5202054468897.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/023654/23654631/20200727130012_thalassinos_nitriliou_powder_free_mayro_100tmch.jpeg</Image_Link>
+		<Product_Link>https://www.themart.gr/katharistika-chartika/axesouar-katharismou/sfouggaria-spoggopetsetes-gantia/gantia-thalassinos-nitriliou-mayra-xlarge-100tem-2118422200019-184222.html</Product_Link>
+		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/8/184222_1.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5972,7 +5991,7 @@
 		<ID>68042</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ LARGE 100 ΤΕΜ       </Name>
 		<Product_Link>https://xalkiadakis.gr/product/thalassinos-gantia-mias-xrisis-nitrilioy-maura-large-100-temakhia</Product_Link>
-		<Image_Link>https://www.koukastrade.gr/image/data/products/blacknit-(1)-1100x1100.jpg</Image_Link>
+		<Image_Link>https://xalkiadakis.gr/products/172915.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -5991,7 +6010,7 @@
 		<ID>68043</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ MEDIUM 100 ΤΕΜ       </Name>
 		<Product_Link>https://xalkiadakis.gr/product/thalassinos-gantia-mias-xrisis-nitrilioy-maura-medium-100-temakhia</Product_Link>
-		<Image_Link>https://xalkiadakis.gr/products/172914.jpg?v=1675435054</Image_Link>
+		<Image_Link>https://xalkiadakis.gr/products/172914.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6009,8 +6028,8 @@
 	<product>
 		<ID>68051</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ EXTRA STRONG ΜΑΥΡΑ EX.LARGE 100 ΤΕΜ       </Name>
-		<Product_Link>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image_Link>
+		<Product_Link>https://www.thanopoulos.gr/el/mias-xrisis/34358-thalassinos-gantia-nitriliou-extra-strong-maura-extra-large-100tem-5202054468897.html</Product_Link>
+		<Image_Link>https://www.thanopoulos.gr/1032538/thalassinos-gantia-nitriliou-extra-strong-maura-extra-large-100tem.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6028,8 +6047,8 @@
 	<product>
 		<ID>68052</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ EXTRA STRONG ΜΑΥΡΑ LARGE 100 ΤΕΜ       </Name>
-		<Product_Link>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image_Link>
+		<Product_Link>https://www.skroutz.gr/s/23922415/THalassinos-Extra-Strong-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</Product_Link>
+		<Image_Link>https://maskes.gr/wp-content/uploads/2020/09/gantia-nitriliou-mias-xrisis-maura-aurelia-bold.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6067,7 +6086,7 @@
 		<ID>68081</ID>
 		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ΔΙΑΦΑΝΑ 100 ΤΕΜ       </Name>
 		<Product_Link>https://www.skroutz.gr/s/40979661/Gantia-Polyaithyleniou-se-Diafano-CHroma-100tmch.html?product_id=185605669&amp;sponsored=listing</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/024166/24166041/20210415121024_bournas_medicals_soft_touch_polyaithyleniou_diafano_100tmch.jpeg</Image_Link>
+		<Image_Link>https://maskes.gr/wp-content/uploads/2020/05/%CE%93%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%A0%CE%BF%CE%BB%CF%85%CE%B1%CE%B9%CE%B8%CF%85%CE%BB%CE%B5%CE%BD%CE%AF%CE%BF%CF%85-%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1-One-Size-Large-%CE%A3%CE%B5%CF%84-100-%CE%A4%CE%B5%CE%BC%CE%B1%CF%87%CE%AF%CF%89%CE%BD.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6143,7 +6162,7 @@
 		<ID>68201</ID>
 		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ EXTRA LARGE</Name>
 		<Product_Link>https://www.viosarp.gr/el/product/gantia-ergasias-nitrilioy-vc1179-xl-no105-0</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/031657/31657208/20211013114009_sidi_home_gantia_ergasias_e_1494.jpeg</Image_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/033393/33393416/20220112102613_viosarp_gantia_ergasias_vc1178_xl.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6162,7 +6181,7 @@
 		<ID>68202</ID>
 		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ LARGE</Name>
 		<Product_Link>https://www.viosarp.gr/el/product/gantia-ergasias-nitrilioy-vc1179-l-no10-0</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/031657/31657208/20211013114009_sidi_home_gantia_ergasias_e_1494.jpeg</Image_Link>
+		<Image_Link>https://www.topoikilopoleio.gr/wp-content/uploads/2023/03/gantia-ergasias-nitriliou-gkri-viosarp-1zeygari-no10-large.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6181,7 +6200,7 @@
 		<ID>68203</ID>
 		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ MEDIUM</Name>
 		<Product_Link>https://www.viosarp.gr/el/product/gantia-ergasias-nitrilioy-vc1179-m-no9-0</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/031657/31657208/20211013114009_sidi_home_gantia_ergasias_e_1494.jpeg</Image_Link>
+		<Image_Link>https://ioannidisdianomes.gr/wp-content/uploads/2023/06/8825-scaled.jpg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6641,7 +6660,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>235</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -6701,7 +6720,7 @@
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055244</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>236</Quantity>
 	</product>
 	<product>
 		<ID>71025</ID>
@@ -7526,7 +7545,7 @@
 		<ID>72221</ID>
 		<Name>BLAZY ΚΑΘΑΡΙΣΤΙΚΟ ΑΛΑΤΩΝ ΜΠΑΝΙΟΥ 500ml  </Name>
 		<Product_Link>https://www.zap.md/ru/gigiena-kosmetika/uhod-za-domom/chistyashchie-sredstva/blazy-bathroom-crystal/cs07-0105</Product_Link>
-		<Image_Link>https://imgur.com/fmuKahm</Image_Link>
+		<Image_Link>https://i.imgur.com/fmuKahm.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -7648,7 +7667,7 @@
 		<ID>73002</ID>
 		<Name>BLAZY ΔΑΠΕΔΟΥ Lavender 1lit   </Name>
 		<Product_Link>https://www.zap.md/ru/gigiena-kosmetika/uhod-za-domom/sredstva-dlya-mytya-polov/blazy-universal-lavender/cs31-0028</Product_Link>
-		<Image_Link>https://imgur.com/IhYZiKW</Image_Link>
+		<Image_Link>https://i.imgur.com/IhYZiKW.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
