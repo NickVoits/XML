@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-08-14 16:38</created_at>
+	<created_at>2024-08-16 20:26</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -406,7 +406,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>200</Quantity>
+		<Quantity>196</Quantity>
 	</product>
 	<product>
 		<ID>11038</ID>
@@ -1535,7 +1535,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>180</Quantity>
+		<Quantity>175</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1555,7 +1555,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>130349</ID>
@@ -2329,7 +2329,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>18022</ID>
@@ -2368,7 +2368,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα δροσιστικό και αρωματικό ρόφημα που συνδυάζει το φρέσκο άρωμα του τσαγιού με τη φρεσκάδα του λεμονιού. Ιδανικό για να αναζωογονήσει τις αισθήσεις σας και να σας προσφέρει ένα ευχάριστο δροσιστικό ποτό σε κάθε περίσταση. Χωρίς προσθήκη ζάχαρης.</Description>
 		<Barcode>5201037404945</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>22</Quantity>
 	</product>
 	<product>
 		<ID>18102</ID>
@@ -2387,7 +2387,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα δροσιστικό και γευστικό ρόφημα που συνδυάζει τη φρεσκάδα του τσαγιού με το γλυκό άρωμα του ροδακινιού. Με φυσική γεύση και αναζωογονητική παρουσία, αποτελεί ιδανική επιλογή για μια δροσιστική απόλαυση σε κάθε στιγμή της ημέρας. Χωρίς προσθήκη ζάχαρης.</Description>
 		<Barcode>5201037404938</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>22</Quantity>
 	</product>
 	<product>
 		<ID>18104</ID>
@@ -2406,7 +2406,26 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα εκλεπτυσμένο ρόφημα με την προσθήκη matcha, μιας ιδιαίτερα δημοφιλούς μορφής πράσινου τσαγιού που προέρχεται από την Ιαπωνία. Το matcha περιέχει υψηλή περιεκτικότητα σε αντιοξειδωτικά και άλλες ευεργετικές ενώσεις. Η ισορροπημένη γεύση του συνδυάζεται με τη φυσική γλυκύτητα του τσαγιού, προσφέροντας μια εναλλακτική και υγιεινή επιλογή που ενισχύει την ενέργεια και την ευεξία. Χωρίς προσθήκη ζάχαρης.</Description>
 		<Barcode>5201037405010</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>22</Quantity>
+	</product>
+	<product>
+		<ID>18203</ID>
+		<Name>FUZE TEA GREEN PASSION FRUIT ΧΩΡΙΣ ΖΑΧΑΡΗ 500ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/45234803/Fuze-Tea-Green-Passion-Fruit-CHoris-Zachari-500ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/045234/45234803/xlarge_20230823160511_fuze_tea_green_passion_fruit_choris_zachari_500ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.41</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>FUZE</Manufacturer>
+		<MPN>1167</MPN>
+		<Weight>0.5 kg</Weight>
+		<Description>Το FUZETEA Green Tea Passionfruit χωρίς ζάχαρη είναι ένα μοναδικό, δροσιστικό ρόφημα με μηδέν θερμίδες που συνδυάζει πράσινο τσάι και χυμό από φρούτο του πάθους.</Description>
+		<Barcode>5449000236739</Barcode>
+		<Quantity>36</Quantity>
 	</product>
 	<product>
 		<ID>21601</ID>
@@ -3083,7 +3102,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Λευκό, ξηρό κρασί με δροσερό αρωματικό χαρακτήρα και τραγανή οξύτητα, σε ένα αρμονικό πάντρεμα των γνωρισμάτων των τριών λευκών ποικιλιών: Chardonnay, Viognier και Ασύρτικο. Στη μύτη αναδύονται ώριμα αρώματα ροδάκινου, βερίκοκου και αχλαδιού. Το στόμα ακολουθεί τον παραπάνω χαρακτήρα, με μια διακριτική πινελιά ορυκτότητας.</Description>
 		<Barcode>5203888135191</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>47501</ID>
@@ -3140,7 +3159,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Κρασί με ανοιχτό κερασί χρώμα και ροδαλές ανταύγειες. Η μύτη έχει αρώματα ώριμων κερασιών και φραμπουάζ με νύξεις ανθέων και νότες ροδοπέταλου. Το στόμα είναι μεσαίου σώματος με μεσαία προς υψηλή οξύτητα και μια ελαφρά αίσθηση ώριμων τανινών. Τα αρώματα στόματος ακολουθούν αυτά της μύτης μαζί με νύξεις γλυκού γρασιδιού και τσιχλόφουσκας.</Description>
 		<Barcode>5203773000191</Barcode>
-		<Quantity>9</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>47952</ID>
@@ -3771,6 +3790,444 @@
 		<Description>Προϊόν Διπλής Απόσταξης Στεμφύλων (φλούδες) Σταφυλιών. Η πολυσυλλεκτικότητα των ποικιλιών, η τέχνη της απόσταξης και η συμμετοχή αρωματικών βοτάνων και φρούτων κατά τη δεύτερη απόσταξη έχουν σαν αποτέλεσμα τη δημιουργία ενός ποτού υψηλής ποιότητας. Παράγεται αποκλειστικά από σταφύλια που καλλιεργούνται στην ελληνική γη. Η προσθήκη άγριων βοτάνων κατά τη δεύτερη απόσταξή του προσδίδει έναν ιδιαίτερο αρωματικό πλούτο. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5201302200487</Barcode>
 		<Quantity>72</Quantity>
+	</product>
+	<product>
+		<ID>550531</ID>
+		<Name>FAMOUS GROUSE ΤΗΕ BLACK GROUSE 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4902159/Famous-Grouse-The-Black-Grouse-Oyiski-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/004902/4902159/the-black-grouse.jpg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>26.31</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>FAMOUS GROUSE</Manufacturer>
+		<MPN>1168</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το διάσημο Grouse Smoky Black μετονομάστηκε από το Black Grouse στα τέλη του 2015, ένα νέο όνομα και μια υπέροχη συσκευασία το καθιστούν ένα εξαιρετικό ουίσκι.</Description>
+		<Barcode>5010314070304</Barcode>
+		<Quantity>13</Quantity>
+	</product>
+	<product>
+		<ID>55108</ID>
+		<Name>FILANDIA VODKA 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5438655/Finlandia-Votka-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005438/5438655/20211102201527_finlandia_votka_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>16.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>FILANDIA</Manufacturer>
+		<MPN>1169</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Μια πολύ καλή βότκα από τη Φινλανδία, η Finlandia είναι μια εξαιρετική βότκα υψηλής ποιότητας, κατασκευασμένη με παγωμένο νερό.</Description>
+		<Barcode>6412709021776</Barcode>
+		<Quantity>21</Quantity>
+	</product>
+	<product>
+		<ID>551091</ID>
+		<Name>LITHUANIAN AMBER CARAMEL VODKA 700ml</Name>
+		<Product_Link>https://www.hellowcost.fr/en/vodka/685-lithuanian-amber-caramel-vodka-21-1-litre-4770033224310.html</Product_Link>
+		<Image_Link>https://www.hellowcost.fr/7366-large_default/lithuanian-amber-caramel-vodka-21-1-litre.jpg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>LITHUANIAN AMBER</Manufacturer>
+		<MPN>1170</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Η Lithuanian Amber Caramel Vodka 700ml είναι μια μοναδική βότκα από τη Λιθουανία, που συνδυάζει την απαλή γεύση της καραμέλας με τη φυσική χρυσαφένια απόχρωση του κεχριμπαριού. Αυτή η βότκα είναι ιδανική για όσους αναζητούν μια γλυκιά και εκλεπτυσμένη επιλογή, είτε καταναλώνεται σκέτη είτε ως βάση για κοκτέιλ. Η εκλεπτυσμένη της γεύση και το πλούσιο άρωμά της προσφέρουν μια ιδιαίτερη εμπειρία απόλαυσης.</Description>
+		<Barcode>4770033224822</Barcode>
+		<Quantity>11</Quantity>
+	</product>
+	<product>
+		<ID>552041</ID>
+		<Name>JOSE CUERVO BLACK MEDALLION 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/14282689/Jose-Cuervo-Black-Medallion-Tekila-38-700ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/014282/14282689/20220214114509_jose_cuervo_black_medallion_tekila_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>23.61</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>JOSE CUERVO</Manufacturer>
+		<MPN>1171</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Ωριμάζει για 12 μήνες σε ψημένα αμερικάνικα δρύινα βαρέλια και στη συνέχεια το μείγμα ωριμάζει για άλλα 3 χρόνια σε δρύινα βαρέλια. Αυτή η διαδικασία μετατρέπει το χρώμα της Jose Cuervo Black σε κεχριμπαρένιο μειώνει το παραδοσιακό άρωμα αγαύης προσδίδοντας ένα απαλότερο πιο έντονο καπνιστό χρώμα.</Description>
+		<Barcode>7501035010512</Barcode>
+		<Quantity>8</Quantity>
+	</product>
+	<product>
+		<ID>552061</ID>
+		<Name>EL JIMADOR REPOSADO 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5438842/el-Jimador-Reposado-Tekila-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005438/5438842/20211026165943_el_jimador_reposado_tekila_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>24.13</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>EL JIMADOR</Manufacturer>
+		<MPN>1172</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Η El Jimador Reposado είναι μια τεκίλα 100% αγαύης που παραμένει 3 μήνες στο βαρέλι πριν την εμφιάλωση. Ένας πλούσιος συνδυασμός μπαχαρικών, φρούτων, ξύλου, βανίλιας και ψημένων φουντουκιών. Απαλή επίγευση βανίλιας με λεπτές και πικάντικες νότες.</Description>
+		<Barcode>7501145269107</Barcode>
+		<Quantity>38</Quantity>
+	</product>
+	<product>
+		<ID>553012</ID>
+		<Name>GORDON'S PREMIUM PINK GIN 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/14814131/Gordon-s-Premium-Pink-Tzin-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/014814/14814131/20230407162802_gordon_s_premium_pink_tzin_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.61</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>GORDONS</Manufacturer>
+		<MPN>1173</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Gordons Pink Gin είναι εμπνευσμένο από μια αυθεντική συνταγή από τον Alexander Gordon το 1880 για το ροζ τζιν (pink gin). Δημιουργήθηκε με την ισορροπία της αναζωογονητικής γεύσης του Gordons και την γλυκύτητα από βατόμουρα και φράουλες καθώς και την αψάδα από κόκκινα μούρα. Είναι φτιαγμένο μόνο με υψηλής ποιότητας συστατικά και χρησιμοποιεί μόνο φυσικά αρώματα και χρώματα για να προσφέρει την αυθεντική γεύση των μούρων. Έχει δημιουργηθεί για να προσφέρει έναν πιο γλυκό και προσιτό τρόπο για να απολαμβάνετε ένα Gin &amp; Tonic. Για να φτιάξετε την σωστή περίσταση, σερβίρετε σε μεγάλο ποτήρι κρασιού, γεμισμένο με πάγο και γαρνίρετε με φρέσκιες φράουλες. Για κάτι λίγο διαφορετικό, δοκιμάστε το Gordons Pink Spritz - προσθέστε 2 μέρη Gordons Pink με 2 μέρη λεμονίτας και 1 μέρος prosecco. Σερβίρετε σε μεγάλο ποτήρι κρασιού, γεμισμένο με πάγο και γαρνίρετε με φρέσκιες φράουλες και βατόμουρα. Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>5000289929417</Barcode>
+		<Quantity>6</Quantity>
+	</product>
+	<product>
+		<ID>553021</ID>
+		<Name>TANQUERAY TEN GIN 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/23243745/Tanqueray-Ten-Tzin-47-700ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/023243/23243745/20200914160924_tanqueray_ten_tzin_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>35.7</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>TANQUERAY</Manufacturer>
+		<MPN>1174</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Tanqueray N.10, πολυβραβευμένο gin στον διαγωνισμό World Spirits και το μοναδικό gin που έχει συμπεριληφθεί στο Πάνθεον των Αποσταγμάτων "The Hall of the Fame". Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>5000281020761</Barcode>
+		<Quantity>7</Quantity>
+	</product>
+	<product>
+		<ID>553022</ID>
+		<Name>TANQUERAY RANGPUR GIN 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/48478904/Tanqueray-Tanqueray-Rangpur-Gin-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/048478/48478904/20231129180809_tanqueray_tanqueray_rangpur_gin_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>23.83</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>TANQUERAY</Manufacturer>
+		<MPN>1175</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Tanqueray Rangpur Gin είναι αρωματισμένο με limes Rangpur, γνωστό και ως πορτοκαλί μανταρίνι. Η απόσταξη του lime Rangpur με άλλα βότανα συμπεριλαμβανομένων της δάφνης, του τζίντζερ και του κέδρου δίνειμια λεπτή και πικάντικη πινελιά εσπεριδοειδών. Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>5000291021628</Barcode>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>553052</ID>
+		<Name>ΒΟΜΒΑΥ PREMIER CRU LEMON GIN 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/44484720/Bombay-Sapphire-Distillery-Tzin-Lemon-47-700ml.html</Product_Link>
+		<Image_Link>https://www.oakcava.gr/wp-content/uploads/2023/05/BOMBAY-PREMIER-CRU.png</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>37.89</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>BOMBAY</Manufacturer>
+		<MPN>1176</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Χειροποίητο τζιν μικρής παραγωγής, φόρος τιμής στα παγκοσμίου φήμης εσπεριδοειδή της Μούρθια, είναι αρωματισμένο με λεμόνια Murcian Fino βιώσιμης καλλιέργειας, μανταρίνια και γλυκά πορτοκάλια, που διαλέγονται όψιμα, αποφλοιώνονται με το χέρι και στη συνέχεια αφήνονται να στεγνώσουν φυσικά κάτω από τον ήλιο της Μεσογείου για να προσφέρουν τα πιο ποιοτικά αρωματικά έλαιά τους.</Description>
+		<Barcode>7640175743642</Barcode>
+		<Quantity>2</Quantity>
+	</product>
+	<product>
+		<ID>55306</ID>
+		<Name>BROKER'S LONDON DRY GIN 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/6931580/Broker-s-London-Dry-Tzin-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/006931/6931580/20211014133302_broker_s_london_dry_tzin_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.37</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>BROKERS</Manufacturer>
+		<MPN>1177</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Broker’s Gin παράγεται σε ένα παλιό αποστακτήριο έξω από το Λονδίνο που κατασκευάστηκε στις αρχές του 19ου αιώνα με μία συνταγή 200 ετών. Οι πρώτες ύλες που χρησιμοποιούνται για την παραγωγή του είναι οινόπνευμα τριπλής απόσταξης από αγγλικό σιτάρι και δέκα ειδών φυτικές ίνες (βότανα, μπαχαρικά και φρούτα) που προέρχονται από την Ευρώπη την Ασία και την Αφρική. Αυτές μουλιάζουν για 24 ώρες στο καθατό οινόπνευμα και έπειτα ακολουθεί τέταρτη απόσταξή του.</Description>
+		<Barcode>5060017740011</Barcode>
+		<Quantity>3</Quantity>
+	</product>
+	<product>
+		<ID>55312</ID>
+		<Name>THE BLUE BEETLE LONDON DRY GIN 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/10858831/The-Blue-Beetle-London-Dry-Tzin-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/010858/10858831/20211014133302_the_blue_beetle_london_dry_tzin_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.72</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>THE BLUE BEETLE</Manufacturer>
+		<MPN>1178</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το όνομά του είναι εμπνευσμένο από το σπάνιο μπλε σκαθάρι, θεωρούμενο ως ο βασιλιάς των σκαθαριών, το οποίο όταν ζευγαρώνει αλλάζει το χρώμα του σε έντονο κόκκινο. Eίναι ένα κομψό τζιν βασισμένο σε μία ιδιαίτερη συνταγή από 18 ευρέως γνωστά επιλεγμένα βοτανικά και 1 επιπλέον το οποίο παραμένει μυστικό! Πλούσιο σε αρώματα περγαμόντου, κίτρου, λεβάντας και grapefruit.</Description>
+		<Barcode>5060479940028</Barcode>
+		<Quantity>42</Quantity>
+	</product>
+	<product>
+		<ID>55314</ID>
+		<Name>BICKENS DRY GIN 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/51355440/Langley-Distillery-Tzin-Bickens-700-ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/051355/51355440/20240314181030_langley_distillery_tzin_bickens_700_ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.11</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>BICKENS</Manufacturer>
+		<MPN>1179</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Ένα μοναδικό και αγνό τζιν από δέκα βότανα από όλο τον κόσμο. Ισορροπημένη και αρκετά ξεχωριστή γεύση θα λέγαμε. Ιδανικό για κοκτέιλ.</Description>
+		<Barcode>8000040520072</Barcode>
+		<Quantity>11</Quantity>
+	</product>
+	<product>
+		<ID>55405</ID>
+		<Name>RON VARADERO SILVER DRY RUM 1 Lit</Name>
+		<Product_Link>https://www.go-drink.gr/ron-varadero-silver-dry-1000ml8071340</Product_Link>
+		<Image_Link>https://www.go-drink.gr/image/cache/catalog/ron%20varadero/varadero_siver_dry_1_litro-500x500.jpg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>29.82</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>RON VARADERO</Manufacturer>
+		<MPN>1180</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Η Κούβα στο ποτήρι σας, καθώς παλαιωμένα αποστάγματα μετά από μία αρκετά σύνθετη διαδικασία διαδοχικών φιλτραρισμάτων δημιουργούν ένα μοναδικής καθαρότητας κρυστάλλινο ρούμι. Xρώμα: Κρυστάλλινα διάφανο. Άρωμα: Μαλακό, γλυκό με διακριτή την αίσθηση των παλιωμένων αποσταγμάτων. Γεύση: Απόλυτα ισορροπημένη γεύση με γλυκές νότες παλαίωσης. Ιδανικό για την δημιουργία μοναδικών κοκτέιλ όπως Mojito, Daquiri, CubaLibre κτλ</Description>
+		<Barcode>8414771860626</Barcode>
+		<Quantity>6</Quantity>
+	</product>
+	<product>
+		<ID>55406</ID>
+		<Name>MATUSALEM ANEJO 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7988084/Matusalem-Anejo-Roumi-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/007988/7988084/xlarge_20151203145553_matusalem_anejo_roymi_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>22.36</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>MATUSALEM</Manufacturer>
+		<MPN>1181</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Αυτό το παλαιωμένο ρούμι είναι ένα χρυσό blend από τα πιο νόστιμα στον κόσμο. Με υπέροχο χαρακτήρα και ιδανικό για νέους, κλασικούς και χειροποίητους συνδυασμούς κοκτέιλ. Είναι ευχάριστο, αναζωογονητικό και με πολλή προσωπικότητα. Το Añejo είναι γνωστό για τη βανίλια, τα αποξηραμένα φρούτα και τις νότες μελιού του που συμπληρώνονται με το λεπτό άρωμα της καραμελωμένης μελάσας. Το Matusalem Añejo Rum αποτυπώνει τέλεια το στυλ και την κληρονομιά των ρουμιών της Κούβας.</Description>
+		<Barcode>766094080051</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>55410</ID>
+		<Name>BRUGAL BLANCO RUM 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/19888427/Brugal-Blanco-Roumi-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/019888/19888427/xlarge_20190829095925_brugal_blanco_roumi_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.09</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>BRUGAL</Manufacturer>
+		<MPN>1182</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Ένα ρούμι ξηρό και καθόλου γλυκό. Στη μύτη έχει αρώματα βανίλιας, εσπεριδοειδών και καρύδας ενώ στο στόμα κυριαρχούν γεύσεις καφέ, κακάο, βουτύρου και βανίλιας.</Description>
+		<Barcode>7460855204450</Barcode>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>554101</ID>
+		<Name>BRUGAL ANEJO RUM 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5807585/Brugal-Anejo-Roumi-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005807/5807585/xlarge_20210210144025_brugal_anejo_roumi_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.32</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>BRUGAL</Manufacturer>
+		<MPN>1183</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Ένα μοναδικό παλαιωμένο ρούμι που δημιουργεί τέλεια ισορροπημένα cocktails.</Description>
+		<Barcode>7460855200353</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>555105</ID>
+		<Name>ΠΟΛΥΚΑΛΑ ΠΙΚΡΟΜΑΝΤΟΛΑ ΛΙΚΕΡ ΣΕ ΚΑΡΑΦΑ 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/12274604/Potopoiia-Polykala-Pikromantola-Liker-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/012274/12274604/20170622115108_potopoiia_polykala_pikromantola_liker_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>28.99</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>ΠΟΛΥΚΑΛΑΣ</Manufacturer>
+		<MPN>1184</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Η ονομασία του προέρχεται από την Ιταλική λέξη Μάντορλα, την οποία χρησιμοποιούσαν οι Κεφαλλονίτες αντί της λέξης αμύγδαλο, αφού εκείνη την περίοδο το νησί διοικούνταν από Βενετσιάνους, όμως για λόγους προφοράς επικράτησε η Μάντολα.</Description>
+		<Barcode>5200349610822</Barcode>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>555181</ID>
+		<Name>MANGAROCA BATIDA DE COCO BLACK 700ml</Name>
+		<Product_Link>https://siganos-sa.gr/product/liqueur-batida-de-coco-black-700ml/</Product_Link>
+		<Image_Link>https://siganos-sa.gr/wp-content/uploads/products/04311/04311.jpg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.38</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>MANGAROCA</Manufacturer>
+		<MPN>1185</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το λικέρ καρύδας Batida de Coco, μαζί με κρέμα κακάο και φουντούκι, έντονα απολαυστικά αρώματα.</Description>
+		<Barcode>7640109121034</Barcode>
+		<Quantity>2</Quantity>
+	</product>
+	<product>
+		<ID>55523</ID>
+		<Name>PISANG ΑΜΒΟΝ ΛΙΚΕΡ 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5388436/Lucas-Bois-Pisang-Ambon-Liker-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/005388/5388436/xlarge_20210210132003_lucas_bois_pisang_ambon_liker_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.52</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>LUCAS BOIS</Manufacturer>
+		<MPN>1186</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Είναι ένα λικέρ κατασκευασμένο από τους διάσημους ειδικούς λικέρ Bols, αυτό είναι ένα δημοφιλές πράσινο λικέρ μπανάνας αρωματισμένο με μια ποικιλία από βότανα.</Description>
+		<Barcode>8716000968869</Barcode>
+		<Quantity>14</Quantity>
+	</product>
+	<product>
+		<ID>55528</ID>
+		<Name>DUBONΝET ΑΠΕΡΙΤΙΦ 750ml</Name>
+		<Product_Link>https://www.bottleshop.gr/en/dubonnetkokkino750ml-809.html</Product_Link>
+		<Image_Link>https://www.bottleshop.gr/pub/media/catalog/product/cache/5e7f174fe79d282c3efe019410ae612f/0/0/0012.jpg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.1</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>DUBONNET</Manufacturer>
+		<MPN>1187</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Ένα μοναδικό απεριτίφ που συνδυάζει πλούσιο, γλυκό ενισχυμένο κρασί, βότανα, μπαχαρικά και κινίνη. Ένας μεθυστικός συνδυασμός που μπορεί να κρυώσει και να σερβιριστεί πριν από το γεύμα ή να αφεθεί σε θερμοκρασία δωματίου για ένα κέρασμα μετά το δείπνο.</Description>
+		<Barcode>3163933575001</Barcode>
+		<Quantity>17</Quantity>
+	</product>
+	<product>
+		<ID>55532</ID>
+		<Name>GREEN FAIRY ABSINTH 500ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7439944/Green-Fairy-Absinth-500ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/007439/7439944/20150914134617_green_fairy_absinth_500ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>GREEN FAIRY</Manufacturer>
+		<MPN>1188</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>To αψέντι Green Fairy με περιεκτικότητα 70% σε αλκοόλ, αποτελείται από ένα μείγμα γεύσεων, με κυρίαρχη αυτή του γλυκάνισου.
+</Description>
+		<Barcode>8594001441723</Barcode>
+		<Quantity>8</Quantity>
+	</product>
+	<product>
+		<ID>55533</ID>
+		<Name>FRANGELICO ΛΙΚΕΡ 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5438907/C-C-International-Frangelico-Liker-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005438/5438907/20200316163544_c_c_international_frangelico_liker_700ml.jpeg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.14</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>FRANGELICO</Manufacturer>
+		<MPN>1189</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Frangelico είναι ένα ισορροπημένο λικέρ, με γεύσεις ψημένων φουντουκιών, σοκολάτας και βανίλιας. Προέρχεται απο την απόσταξη μείγματος αλκοόλης και νερού όπου έχουν εκχυλιστεί καβουρδισμένα φουντούκια. Κατόπιν αρωματίζεται με καβουρδισμένο καφέ, κακάο, βανίλια και ρίζα ραβεντιού.</Description>
+		<Barcode>8004160660304</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>55536</ID>
+		<Name>MARIE BRIZARD CHARLESTON FOLLIES 700ml</Name>
+		<Product_Link>https://www.gkirikos.gr/product/charleston-follies-700cc/</Product_Link>
+		<Image_Link>https://www.gkirikos.gr/wp-content/uploads/2024/02/0803100.jpg</Image_Link>
+		<Additional></Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.47</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>MARIE BRIZARD</Manufacturer>
+		<MPN>1190</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>CHARLESTON FOLLIES (Marie Brizard) Ασημί βαμμένο γυάλινο μπουκάλι με γαλλικό λικέρ εξωτικών φρούτων , 700 ml.</Description>
+		<Barcode>3041313740709</Barcode>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>559511</ID>
@@ -4759,7 +5216,7 @@
 		<Weight></Weight>
 		<Description>Αφρός ξυρίσματος για τον άνδρα για ευαίσθητες επιδερμίδες. Βοηθάει στην προστασία της επιδερμίδας κατα τη διάρκεια του ξυρίσματος.</Description>
 		<Barcode>7702018980932</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>38</Quantity>
 	</product>
 	<product>
 		<ID>62121</ID>
@@ -4897,7 +5354,7 @@
 		<Weight></Weight>
 		<Description>Αποσμητικό με διακριτικό άρωμα ειδικά σχεδιασμένο για να προσφέρει 48ωρη προστασία από την κακοσμία και τον ιδρώτα, ακόμα και σε περιπτώσεις έντονης εφίδρωσης.</Description>
 		<Barcode>4005900388711</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>63031</ID>
@@ -5129,7 +5586,7 @@
 		<Weight></Weight>
 		<Description>Η Πούδρα Johnson's Baby απορροφά την υπερβολική υγρασία και αφήνει την επιδερμίδα του μωρού στεγνή, χαρίζοντας μια αίσθηση απαλότητας όλη μέρα. Με απλό, κλασικό άρωμα, η βρεφική αυτή πούδρα απλώνεται εύκολα στην επιδερμίδα του μωρού και την αφήνει απαλή.</Description>
 		<Barcode>8850007011149</Barcode>
-		<Quantity>30</Quantity>
+		<Quantity>26</Quantity>
 	</product>
 	<product>
 		<ID>64041</ID>
@@ -5186,7 +5643,7 @@
 		<Weight></Weight>
 		<Description>Εξαιρετικής ποιότητας βαμβάκι, με καθαρό βάρος 100 γραμμαρίων και την υπογραφή Septona.</Description>
 		<Barcode>5201410970395</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>239</Quantity>
 	</product>
 	<product>
 		<ID>64111</ID>
@@ -5205,7 +5662,7 @@
 		<Weight></Weight>
 		<Description>Το οινόπνευμα είναι ένα πολύ χρήσιμο εργαλείο μέσα στο σπίτι και οι χρήσεις του είναι αμέτρητες.</Description>
 		<Barcode>5202737801010</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>239</Quantity>
 	</product>
 	<product>
 		<ID>64161</ID>
@@ -5247,7 +5704,7 @@
 • Κατάλληλη για μασάζ και καθαρισμό χεριών
 • Περιέχει γλυκερίνη που επιδιώκει την προστασία από την ξήρανση του δέρματος</Description>
 		<Barcode>5206991031312</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>64163</ID>
@@ -5266,7 +5723,7 @@
 		<Weight></Weight>
 		<Description>Μια δυνατή αντισηπτική λύση που χρησιμοποιείται για τον καθαρισμό και την απολύμανση των χεριών και των επιφανειών. Η υψηλή περιεκτικότητα αλκοόλης την καθιστά αποτελεσματική στην εξάλειψη μικροβίων και ιών. Είναι ιδανική για χρήση σε κλινικές, νοσοκομεία, εργαστήρια, καθώς και σε οποιοδήποτε περιβάλλον όπου απαιτείται υψηλό επίπεδο υγιεινής και απολύμανσης. Πριν από τη χρήση, βεβαιωθείτε ότι η λοσιόν απλώνεται ομοιόμορφα και αφήνετε να στεγνώσει εντελώς.</Description>
 		<Barcode>5200341702662</Barcode>
-		<Quantity>117</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>64164</ID>
@@ -5602,7 +6059,7 @@
 		<Weight></Weight>
 		<Description>Το TEO Soap Ylang Ylang είναι ένα σαπούνι που περιέχει το αρωματικό έλαιο Ylang Ylang. Με την απαλή του σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Το Ylang Ylang είναι γνωστό για τις αναζωογονητικές και ηρεμιστικές του ιδιότητες, προσφέροντας μια αίσθηση χαλάρωσης και ευεξίας κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<Barcode>3800024014390</Barcode>
-		<Quantity>480</Quantity>
+		<Quantity>479</Quantity>
 	</product>
 	<product>
 		<ID>65503</ID>
@@ -5678,7 +6135,7 @@
 		<Weight></Weight>
 		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.</Description>
 		<Barcode>5201109655107</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>118</Quantity>
 	</product>
 	<product>
 		<ID>65521</ID>
@@ -5716,7 +6173,7 @@
 		<Weight></Weight>
 		<Description>Σαπούνι της Papoutsanis με καθαριστική δράση που διασφαλίζει τη σωστή υγιεινή της επιδερμίδας.</Description>
 		<Barcode>5201109002673</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>39</Quantity>
 	</product>
 	<product>
 		<ID>66011</ID>
@@ -5868,7 +6325,7 @@
 		<Weight></Weight>
 		<Description>Ένα αφρόλουτρο που προσφέρει μια αίσθηση αναζωογόνησης και άνεσης κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αρωματικό άρωμα από γιασεμί, δημιουργώντας ένα ευχάριστο αισθησιακό άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<Barcode>3800024015885</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>239</Quantity>
 	</product>
 	<product>
 		<ID>67004</ID>
@@ -6217,10 +6674,10 @@
 	</product>
 	<product>
 		<ID>70003</ID>
-		<Name>PRO SOFT ΧΑΡΤΙ ΥΓΕΙΑΣ  3φυλλο 90gr 10τεμ  απαλό</Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipOCl-6Gz9UX9GQiOGMZsr1RYENwA9NTYnFCNtyA</Image_Link>
-		<Additional>https://imgur.com/QWy106x</Additional>
+		<Name>PRO SOFT ΧΑΡΤΙ ΥΓΕΙΑΣ  3φυλλο 90gr 10τεμ απαλό</Name>
+		<Product_Link>https://www.skroutz.gr/s/37023694/Bournas-Medicals-CHarti-Ygeias-Super-Soft-10-Rola-3-Fyllon-90gr.html</Product_Link>
+		<Image_Link>https://i.imgur.com/bJczC5M.png</Image_Link>
+		<Additional>https://i.imgur.com/QWy106x.png</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -6237,9 +6694,9 @@
 	<product>
 		<ID>70011</ID>
 		<Name>PRO SOFT ΧΑΡΤΙ ΥΓΕΙΑΣ  3φυλλο 90gr 10τεμ </Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipMIXBN8y6ilDFZOPy-30NsPEAYsrBw8GmcxD022</Image_Link>
-		<Additional>https://photos.google.com/photo/AF1QipNKCo2xfyWZZM0C65MOv4qs3btSJjecPjsiF2VT</Additional>
+		<Product_Link>https://www.skroutz.gr/s/42042270/OPEN-CARE-CHARTI-YGEIAS-DELUXE-3F-90gr-7x10tem.html</Product_Link>
+		<Image_Link>https://i.imgur.com/akyhg7L.jpeg</Image_Link>
+		<Additional>https://i.imgur.com/h6hF4Av.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -6256,9 +6713,9 @@
 	<product>
 		<ID>70012</ID>
 		<Name>PRO SOFT ΧΑΡΤΙ ΥΓΕΙΑΣ  4φυλλο 100 gr 10τεμ</Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipNQqZVOfFgycPPuRc98lyC8xZ2r7MQKTZxhHERx</Image_Link>
-		<Additional>https://photos.google.com/photo/AF1QipO9e1JX4eU_omL1PktN7QICkgzTbbDecEFIB_Qr</Additional>
+		<Product_Link>https://www.skroutz.gr/s/22509097/CHarti-Ygeias-Regina-Lux-Extra-Soft-10-Rola-4-Fyllon-120gr-120gr.html</Product_Link>
+		<Image_Link>https://i.imgur.com/tq5RF6d.png</Image_Link>
+		<Additional>https://i.imgur.com/otyg6PK.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -6275,9 +6732,9 @@
 	</product>
 	<product>
 		<ID>701011</ID>
-		<Name>ΡΟΛΟ ΚΟΥΖΙΝΑΣ  2φυλλο 2Χ330gr  Point to Point (ΜΙΚΡΟ ΠΕΡΦΟΡΕ)  </Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipOxQu5Wx2c1gVRZNzbpQ4ntLPpa31PLbyIeKNYL</Image_Link>
+		<Name>ΡΟΛΟ ΚΟΥΖΙΝΑΣ 2φυλλο 2Χ330gr Point to Point (ΜΙΚΡΟ ΠΕΡΦΟΡΕ)  </Name>
+		<Product_Link>https://www.skroutz.gr/s/39330434/Foxy-CHarti-Kouzinas-2-Rola-2-Fyllon-210gr.html</Product_Link>
+		<Image_Link>https://i.imgur.com/oHGU460.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6295,8 +6752,8 @@
 	<product>
 		<ID>70102</ID>
 		<Name>PRO SOFT ΡΟΛΟ ΚΟΥΖΙΝΑΣ  2φυλλο 600gr  Point to Point   </Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipNb68o9bb8wuTPDPurxFfPzjiBGkdRHfF9B9fLf</Image_Link>
+		<Product_Link>https://www.mymarket.gr/my-soft-jumbo-rolo-kouzinas-lefko-500gr-2-tem</Product_Link>
+		<Image_Link>https://i.imgur.com/RaSNmc1.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6314,8 +6771,8 @@
 	<product>
 		<ID>70103</ID>
 		<Name>PRO SOFT ΡΟΛΟ ΚΟΥΖΙΝΑΣ  3φυλλο 450gr     </Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipPCDAz6HaJwA95M8h5UcmJPT-B_SFxmFIdfh-MU</Image_Link>
+		<Product_Link>https://www.skroutz.gr/s/48382813/Onlybox-CHarti-Kouzinas-12-Rola-450gr-0208FN01X450-5200371200091.html</Product_Link>
+		<Image_Link>https://i.imgur.com/gXrEMv7.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6332,9 +6789,9 @@
 	</product>
 	<product>
 		<ID>70104</ID>
-		<Name>PRO SOFT ΡΟΛΟ ΚΟΥΖΙΝΑΣ  3φυλλο 750gr     </Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipOftJ69-0N1Tsp2iNbmhxcax4iq2NRJTSoGzTVV</Image_Link>
+		<Name>PRO SOFT ΡΟΛΟ ΚΟΥΖΙΝΑΣ  3φυλλο 750gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/23835531/Maxi-CHarti-Kouzinas-Rolo-3-Fyllon-600gr.html</Product_Link>
+		<Image_Link>https://i.imgur.com/oH0YkOO.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6351,9 +6808,9 @@
 	</product>
 	<product>
 		<ID>70105</ID>
-		<Name>PRO SOFT ΡΟΛΟ ΚΟΥΖΙΝΑΣ  2φυλλο 1000gr  Point to Point   </Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipNBE9QPCS-YsSs0F6Eh7ucmDpaiBdtaN5XLHTd7</Image_Link>
+		<Name>PRO SOFT ΡΟΛΟ ΚΟΥΖΙΝΑΣ  2φυλλο 1000gr Point to Point</Name>
+		<Product_Link>https://www.skroutz.gr/s/24528510/Viochartel-CHarti-Kouzinas-Daily-Rolo-2-Fyllon-1000gr.html</Product_Link>
+		<Image_Link>https://i.imgur.com/M5G4yeO.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6385,13 +6842,13 @@
 		<Weight></Weight>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί. </Description>
 		<Barcode>5203650101409</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>238</Quantity>
 	</product>
 	<product>
 		<ID>70204</ID>
 		<Name>ΧΑΡΤΟΠΕΤΣΕΤΑ ΜΟΝΗ 33Χ33 60φ.</Name>
-		<Product_Link></Product_Link>
-		<Image_Link>https://photos.google.com/photo/AF1QipMYFnDd-sHFi6b6JaWQ-mTTQJDu0AldbCrL0H-d</Image_Link>
+		<Product_Link>https://www.skroutz.gr/s/23887173/Zebra-Easy-Open-CHartopetseta-1F-Polychromi-33x33ek-60tmch.html</Product_Link>
+		<Image_Link>https://i.imgur.com/lrVHeat.jpeg</Image_Link>
 		<Additional></Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -6660,7 +7117,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>235</Quantity>
+		<Quantity>224</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -6680,7 +7137,7 @@
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>235</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -6720,7 +7177,7 @@
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055244</Barcode>
-		<Quantity>236</Quantity>
+		<Quantity>225</Quantity>
 	</product>
 	<product>
 		<ID>71025</ID>
@@ -6758,7 +7215,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα. </Description>
 		<Barcode>8008970055268</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>38</Quantity>
 	</product>
 	<product>
 		<ID>71101</ID>
@@ -6796,7 +7253,7 @@
 		<Weight>0.5kg</Weight>
 		<Description>Το απορρυπαντικό ρούχων σε σκόνη της Tide με άρωμα lenor scent touch, διαλύεται σε ζεστό νερό και χρησιμοποιείται για λεκέδες, όπως βρωμιά, λάσπη ή γρασίδι. Η εφαρμογή του απευθείας πάνω στους λεκέδες πριν από την πλύση δεν συνιστάται. Για πλύσιμο στο χέρι διαλύστε σε καθαρό νερό και στη συνέχεια προσθέστε τα ρούχα, διότι η σκόνη δεν διαλύεται επαρκώς σε θερμοκρασίες κάτω των 30°C.</Description>
 		<Barcode>5413149983069</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>239</Quantity>
 	</product>
 	<product>
 		<ID>71103</ID>
@@ -7105,7 +7562,7 @@
 		<Weight></Weight>
 		<Description>Πανάκια που απορροφούν τα χρώματα που βγάζουν τα χρωματιστά ρούχα.</Description>
 		<Barcode>5200250700384</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>71331</ID>
@@ -7245,7 +7702,7 @@
 		<Description>Η σειρά υγρού πιάτων REX είναι σίγουρα η πιο οικονομική λύση για το πλύσιμο των πιάτων!
 Τα υγρά πιάτων REX είναι ειδικά μελετημένα για να καθαρίζουν γρήγορα και αποτελεσματικά όλα τα πιατικά και τα σκεύη της κουζίνας και να διαλύουν τα λίπη, χαρίζοντας με τον πλούσιο και πυκνό αφρό τους μοναδική λάμψη και καθαριότητα. Με 11% ενεργά. Με άρωμα Μοσχολέμονου.</Description>
 		<Barcode>5200250702043</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>72042</ID>
@@ -7406,7 +7863,7 @@
 		<Weight></Weight>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
 		<Barcode>55201314051676</Barcode>
-		<Quantity>1200</Quantity>
+		<Quantity>1199</Quantity>
 	</product>
 	<product>
 		<ID>72111</ID>
@@ -7444,7 +7901,7 @@
 		<Weight></Weight>
 		<Description>Το Roli με την παραδοσιακή μορφή σκόνης καθαρισμού καθαρίζει, γυαλίζει αλλά και απολυμαίνει μπάνια, σκεύη, κουζίνες και μάρμαρα με αποτελεσματικό τρόπο. Εγγυημένα αποτελέσματα με εμπειρία χρόνων.</Description>
 		<Barcode>5201321035633</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>72121</ID>
@@ -7482,7 +7939,7 @@
 		<Weight></Weight>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<Barcode>5000186735012</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>72171</ID>
@@ -8243,7 +8700,7 @@
 		<Weight></Weight>
 		<Description>Κουβάς με αποσπώμενο στίφτη, χωρητικότητας 16 λίτρων με χερούλι, κατασκευασμένος από ανθεκτικό πλαστικό.</Description>
 		<Barcode>5202707994902</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>74042</ID>
@@ -8322,7 +8779,7 @@
 		<Weight></Weight>
 		<Description>Απορροφητική σπογγοπετσέτα Wettex. Απορροφάει έως και 15 φορές το βάρος του Σε 4 διαφορετικά σχέδια και χρώματα.</Description>
 		<Barcode>8001940004846</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>39</Quantity>
 	</product>
 	<product>
 		<ID>74204</ID>
@@ -8398,7 +8855,7 @@
 		<Weight></Weight>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
 		<Barcode>5204170300570</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>74242</ID>
@@ -9265,7 +9722,7 @@
 		<Weight></Weight>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 28x33cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500127</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>75813</ID>
@@ -9382,7 +9839,7 @@
 •Σε Μαύρο Χρώμα
 •Αντοχής</Description>
 		<Barcode>5200128643089</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>76003</ID>
@@ -9401,7 +9858,7 @@
 		<Weight></Weight>
 		<Description>Με αρωματική λεβάντα προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Η αρωματική λεβάντα προσθέτει ένα ευχάριστο άρωμα και βοηθά στην εξουδετέρωση οσμών από τα απορρίμματα. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001369</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>76004</ID>
@@ -9420,7 +9877,7 @@
 		<Weight></Weight>
 		<Description>Με αρωματικό Lime προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Το αρωματικό Lime προσθέτει ένα δροσερό και φρουτώδες άρωμα, δημιουργώντας ένα ευχάριστο περιβάλλον. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001536</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>76011</ID>
@@ -9807,7 +10264,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Οι οδοντογλυφίδες σε βάζο 200 τεμαχίων είναι μια πρακτική και υγιεινή λύση για την προσωπική σας φροντίδα. Κατασκευασμένες από υλικό υψηλής ποιότητας, αυτές οι οδοντογλυφίδες προσφέρουν αποτελεσματική και ασφαλή καθαριότητα μεταξύ των δοντιών. Το βάζο με 200 τεμάχια εξασφαλίζει μακρά διάρκεια χρήσης και εύκολη πρόσβαση στις οδοντογλυφίδες σας.</Description>
 		<Barcode>5202054212889</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>76807</ID>
@@ -10352,7 +10809,7 @@
 		<Weight></Weight>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 1000ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία κρύων φαγητών. Η συσκευασία περιλαμβάνει 100 τεμάχια.</Description>
 		<Barcode>15202054466463</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>78525</ID>
@@ -10417,7 +10874,7 @@
 • Ενσωματωμένο καπάκι
 • Μιας χρήσεως</Description>
 		<Barcode>5200425301057</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>78528</ID>
@@ -10689,7 +11146,7 @@
 • Μέγεθος: 42 cm
 • Συσκευασία: 200 τεμάχια</Description>
 		<Barcode>5202054468651</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>79001</ID>
@@ -11084,79 +11541,79 @@
 	</product>
 	<product>
 		<ID>79101</ID>
-		<Name>ΣΤΥΛΟ CLASSIC ΜΠΛΕ 1.0mm 50τεμ</Name>
+		<Name>ΣΤΥΛΟ CLASSIC ΜΠΛΕ 1.0mm</Name>
 		<Product_Link>https://www.skroutz.gr/s/24015355/Typotrust-Stylo-Ballpoint-1-0mm-me-Mple-Melani-50tmch-Special-Classic-SP1001003.html</Product_Link>
 		<Image_Link>https://typotrust.gr/wp-content/uploads/2018/10/5207146010893.jpg</Image_Link>
 		<Additional></Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.29</Price>
+		<Price>0.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Στυλό</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>SP10010-03</MPN>
-		<Weight>0.25 kg</Weight>
+		<Weight></Weight>
 		<Description>Σετ στυλό Typotrust τύπου ballpoint, με μπλε μελάνι και μύτη πάχους 1.0mm. Τα ballpoint στεγνώνουν γρήγορα και δεν αφήνουν μουτζούρες. Το μελάνι διαρκεί περισσότερο σε σχέση με τους άλλους τύπους, αλλά η γραφή είναι λιγότερο ομαλή και μπορεί να αφήσει κενά. Κατάλληλοι για όλες τις ποιότητες χαρτιού και για καθημερινή χρήση. Συσκευασία 50 τεμαχίων.</Description>
 		<Barcode>5207146010893</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>500</Quantity>
 	</product>
 	<product>
 		<ID>79181</ID>
-		<Name>ΜΟΛΥΒΙ ΚΙΤΡ/ΜΑΥΡΟ 12τεμ</Name>
+		<Name>TYPOTRUST ΜΟΛΥΒΙ ΚΙΤΡ/ΜΑΥΡΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/36595523/MOLYVI-SPECIAL-IV-KITRINO-KOUTI-12-TEMACHION-1082-05.html</Product_Link>
 		<Image_Link>https://typotrust.gr/wp-content/uploads/2022/03/SP01082-05-%CE%9A%CE%99%CE%A4%CE%A1%CE%99%CE%9D%CE%9F-%CE%97%CE%92-%CE%9A%CE%9F%CE%A5%CE%A4%CE%99.png</Image_Link>
 		<Additional></Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.16</Price>
+		<Price>0.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Μολύβια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>SP01082-05</MPN>
-		<Weight>0.12 kg</Weight>
+		<Weight></Weight>
 		<Description>Μολύβι γραφίτη της εταιρείας Typotrust. Διαθέτει τον πιο συνηθισμένο τύπο μύτης, με μέση σκληρότητα HB, ιδανικό για γράψιμο και γραμμικό σχέδιο. Διατίθεται σε σετ 12 τεμαχίων.</Description>
 		<Barcode>5207146015027</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>200</Quantity>
 	</product>
 	<product>
 		<ID>79182</ID>
-		<Name>ΜΟΛΥΒΙ ΜΕ ΓΟΜΑ ΚΙΤΡ/ΜΑΥΡΟ 12τεμ</Name>
+		<Name>TYPOTRUST ΜΟΛΥΒΙ ΜΕ ΓΟΜΑ ΚΙΤΡ/ΜΑΥΡΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/37549178/Typotrust-Set-12-Molyvia-HB-me-Goma-Kitrina-203907.html</Product_Link>
 		<Image_Link>https://typotrust.gr/wp-content/uploads/2022/03/SP01182-05-%CE%9A%CE%99%CE%A4%CE%A1%CE%99%CE%9D%CE%9F-%CE%97%CE%92-%CE%93%CE%9F%CE%9C%CE%91-%CE%9A%CE%9F%CE%A5%CE%A4%CE%99.png</Image_Link>
 		<Additional></Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.47</Price>
+		<Price>0.22</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Μολύβια</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>SP01182-05</MPN>
-		<Weight>0.12 kg</Weight>
+		<Weight></Weight>
 		<Description>Μολύβι γραφίτη με ενσωματωμένη γόμα, της εταιρείας Typotrust. Διαθέτει τον πιο συνηθισμένο τύπο μύτης, με μέση σκληρότητα HB, ιδανικό για γράψιμο και γραμμικό σχέδιο.</Description>
 		<Barcode>5207146015089</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>300</Quantity>
 	</product>
 	<product>
 		<ID>79191</ID>
-		<Name>ΜΑΡΚΑΔΟΡΟΣ ΑΝΕΞΙΤΗΛΟΣ ΜΑΥΡΟ 12τεμ</Name>
+		<Name>TYPOTRUST SPECIAL ΜΑΡΚΑΔΟΡΟΣ ΑΝΕΞΙΤΗΛΟΣ ΜΑΥΡΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/43827296/Special-Markadoros-Pinaka-Mayros-SP30010-01.html</Product_Link>
 		<Image_Link>https://typotrust.gr/wp-content/uploads/2018/08/5207146010473.jpg</Image_Link>
 		<Additional></Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.96</Price>
+		<Price>0.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Μαρκαδόροι</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>SP30010-01</MPN>
-		<Weight>0.25 kg</Weight>
+		<Weight></Weight>
 		<Description>Μαύρος μαρκαδόρος Ασπροπίνακα Special Σβήνει πολύ εύκολα χωρίς να αφήνει ίχνη. Το κουτί περιλαμβάνει 12 τεμάχια.</Description>
-		<Barcode>5207146010541</Barcode>
-		<Quantity>20</Quantity>
+		<Barcode>5207146010534</Barcode>
+		<Quantity>300</Quantity>
 	</product>
 	<product>
 		<ID>79201</ID>
@@ -11485,7 +11942,7 @@
 		<Description>Το Σπαγγέτινι Νο10 Melissa είναι ένα λεπτό ζυμαρικό που είναι ευέλικτο ως βάση για το μαγείρεμα, αλλά μπορεί να χρησιμοποιήθεί και σε πιο gourmet συνταγές.
 </Description>
 		<Barcode>5201193101061</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>235</Quantity>
 	</product>
 	<product>
 		<ID>83101</ID>
@@ -11905,7 +12362,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό ημίχονδρο αλάτι της εταιρείας Γλάρος σε συσκευασία 1000 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270011058</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>84122</ID>
@@ -12342,7 +12799,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Κατασκευασμένο από υψηλής ποιότητας βοδινό κρέας που έχει υποστεί επεξεργασία για να δημιουργηθεί ένας νόστιμος και θρεπτικός μπαλωμένος κιμάς. Είναι ιδανικός για δημιουργία σάντουιτς, σαλάτες ή γεύματα που απαιτούν γρήγορη προετοιμασία. Με τη χαρακτηριστική γεύση του, μπορεί να χρησιμοποιηθεί και σε πολλές κουζίνες ως βασικό συστατικό για πιάτα που απαιτούν κρέας.</Description>
 		<Barcode>7790360000477</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>54</Quantity>
 	</product>
 	<product>
 		<ID>85241</ID>
@@ -12705,6 +13162,6 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
 		<Barcode>8007520012188</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>200</Quantity>
 	</product>
 </mywebstore>
