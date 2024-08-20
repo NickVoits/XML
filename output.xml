@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-08-20 15:37</created_at>
+	<created_at>2024-08-20 17:34</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -4552,9 +4552,9 @@
 	</product>
 	<product>
 		<ID>61106</ID>
-		<Name>Babylino Sensitive Value Pack No6 (15+kg) 40pcs</Name>
+		<Name>Babylino Sensitive Value Pack No6 (13-18kg) 40pcs</Name>
 		<Product_Link>https://www.skroutz.gr/s/29917332/Babylino-Sensitive-Panes-me-Aytokollito-No-6-gia-13-18kg-40tmch.html?product_id=190897767&amp;sponsored=listing</Product_Link>
-		<Image_Link>https://www.easy-pharmacy.gr/files/products/eec14198959f2ad68d2930207427d459.jpeg</Image_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029917/29917332/xlarge_20220401095540_babylino_panes_me_aytokollito_sensitive_no_6_gia_13_18kg_40tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
@@ -4690,6 +4690,7 @@
 		<Description>Εσώρουχα ακράτειας μίας χρήσης με άνετη εφαρμογή και τριπλή προστασία. Extra large</Description>
 		<Barcode>7322540587555</Barcode>
 		<Quantity>36</Quantity>
+		<Size>XL</Size>
 	</product>
 	<product>
 		<ID>61204</ID>
@@ -4713,6 +4714,7 @@
 -Όλα τα υλικά είναι δερματολογικά ελεγμένα και φιλικά προς το δέρμα</Description>
 		<Barcode>7322540587531</Barcode>
 		<Quantity>150</Quantity>
+		<Size>S</Size>
 	</product>
 	<product>
 		<ID>62001</ID>
@@ -5978,7 +5980,7 @@
 	</product>
 	<product>
 		<ID>68081</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ΔΙΑΦΑΝΑ 100 ΤΕΜ       </Name>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ONE SIZE ΔΙΑΦΑΝΑ 100 ΤΕΜ</Name>
 		<Product_Link>https://www.skroutz.gr/s/40979661/Gantia-Polyaithyleniou-se-Diafano-CHroma-100tmch.html?product_id=185605669&amp;sponsored=listing</Product_Link>
 		<Image_Link>https://maskes.gr/wp-content/uploads/2020/05/%CE%93%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%A0%CE%BF%CE%BB%CF%85%CE%B1%CE%B9%CE%B8%CF%85%CE%BB%CE%B5%CE%BD%CE%AF%CE%BF%CF%85-%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1-One-Size-Large-%CE%A3%CE%B5%CF%84-100-%CE%A4%CE%B5%CE%BC%CE%B1%CF%87%CE%AF%CF%89%CE%BD.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -11531,20 +11533,20 @@
 	</product>
 	<product>
 		<ID>85227</ID>
-		<Name>ΣΑΡΔΕΛΕΣ ΠΙΚΑΝΤΙΚΕΣ 100gr</Name>
-		<Product_Link>https://pockee.com/products/26365</Product_Link>
-		<Image_Link>https://d3kdwhwrhuoqcv.cloudfront.net/uploads/products/201805/via-mare-piquant.jpg</Image_Link>
+		<Name>ΣΑΡΔΕΛΕΣ ΠΙΚΑΝΤΙΚΕΣ 125gr</Name>
+		<Product_Link>https://trshouse.gr/product/sardeles-ladiu-me-kauterh-piperia-125ghr-el/</Product_Link>
+		<Image_Link>https://ionionmarket.gr/wp-content/uploads/2022/12/5200127781331.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
 		<Price>0.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
-		<Manufacturer>VIA MARE</Manufacturer>
+		<Manufacturer>ARPA</Manufacturer>
 		<MPN>0565</MPN>
 		<Weight>0.1 kg</Weight>
-		<Description>Οι σαρδέλες πικάντικες σε αυτήν την κονσέρβα 100gr προσφέρουν μια πικάντικη και γευστική εμπειρία. Αποτελούνται από ποιοτικές σαρδέλες που είναι εμποτισμένες σε μια προσεκτικά επιλεγμένη μείγμα μπαχαρικών και αρωμάτων, προσδίδοντας ένταση και ζωντάνια στη γεύση τους.</Description>
-		<Barcode>5301000232619</Barcode>
+		<Description>Οι σαρδέλες πικάντικες σε αυτήν την κονσέρβα 125gr προσφέρουν μια πικάντικη και γευστική εμπειρία. Αποτελούνται από ποιοτικές σαρδέλες που είναι εμποτισμένες σε μια προσεκτικά επιλεγμένη μείγμα μπαχαρικών και αρωμάτων, προσδίδοντας ένταση και ζωντάνια στη γεύση τους.</Description>
+		<Barcode>5200127781331</Barcode>
 		<Quantity>60</Quantity>
 	</product>
 	<product>
