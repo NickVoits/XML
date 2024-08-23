@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-08-22 21:12</created_at>
+	<created_at>2024-08-23 15:09</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -925,7 +925,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Το καλοκαιρινό Αναψυκτικό που απαγορεύεται να μην δοκιμάσεις. Το άκρως δελεαστικό Τσάι Ροδάκινο της ΕΨΑ είναι φτιαγμένο από τα πιο ζουμερά &amp; λαχταριστά ροδάκινα. Είτε μετά από μία πολύ ζεστή ημέρα είτε μετά από την γυμναστική σου είναι το αναψυκτικό που θα σου προσφέρει την δροσιά που αναζητάς.</Description>
 		<Barcode>5201171880247</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>11821</ID>
@@ -1639,7 +1639,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>59</Quantity>
+		<Quantity>55</Quantity>
 	</product>
 	<product>
 		<ID>130349</ID>
@@ -2373,7 +2373,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>59</Quantity>
+		<Quantity>55</Quantity>
 	</product>
 	<product>
 		<ID>18022</ID>
@@ -2410,7 +2410,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα δροσιστικό και αρωματικό ρόφημα που συνδυάζει το φρέσκο άρωμα του τσαγιού με τη φρεσκάδα του λεμονιού. Ιδανικό για να αναζωογονήσει τις αισθήσεις σας και να σας προσφέρει ένα ευχάριστο δροσιστικό ποτό σε κάθε περίσταση. Χωρίς προσθήκη ζάχαρης.</Description>
 		<Barcode>5201037404945</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>18102</ID>
@@ -2446,7 +2446,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα εκλεπτυσμένο ρόφημα με την προσθήκη matcha, μιας ιδιαίτερα δημοφιλούς μορφής πράσινου τσαγιού που προέρχεται από την Ιαπωνία. Το matcha περιέχει υψηλή περιεκτικότητα σε αντιοξειδωτικά και άλλες ευεργετικές ενώσεις. Η ισορροπημένη γεύση του συνδυάζεται με τη φυσική γλυκύτητα του τσαγιού, προσφέροντας μια εναλλακτική και υγιεινή επιλογή που ενισχύει την ενέργεια και την ευεξία. Χωρίς προσθήκη ζάχαρης.</Description>
 		<Barcode>5201037405010</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>18203</ID>
@@ -3160,7 +3160,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Κρασί με ανοιχτό κερασί χρώμα και ροδαλές ανταύγειες. Η μύτη έχει αρώματα ώριμων κερασιών και φραμπουάζ με νύξεις ανθέων και νότες ροδοπέταλου. Το στόμα είναι μεσαίου σώματος με μεσαία προς υψηλή οξύτητα και μια ελαφρά αίσθηση ώριμων τανινών. Τα αρώματα στόματος ακολουθούν αυτά της μύτης μαζί με νύξεις γλυκού γρασιδιού και τσιχλόφουσκας.</Description>
 		<Barcode>5203773000191</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>47952</ID>
@@ -3814,6 +3814,24 @@
 		<Quantity>11</Quantity>
 	</product>
 	<product>
+		<ID>552021</ID>
+		<Name>ΤΕΚΙΛΑ Olmeca Tezon Reposado 100% Agave 38% 700ml </Name>
+		<Product_Link>https://www.skroutz.gr/s/5389584/Olmeca-Tezon-Reposado-Tekila-700ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/005389/5389584/20210210145818_olmeca_tezon_reposado_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>69</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>OLMECA</Manufacturer>
+		<MPN>1221</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Από τη σειρά Tezon, που ξεκίνησε από την Olmeca τον Αύγουστο του 2005, και δημιουργήθηκε από τον Don Jesus Hernandez, αυτό είναι ένα εκπληκτικό Reposado, ηλικίας μεταξύ 8 και 10 μηνών. Πολύ κρεμώδες, γλυκό και γεμάτο γεύση με μια απλή αλατότητα.</Description>
+		<Barcode>80432103432</Barcode>
+		<Quantity>3</Quantity>
+	</product>
+	<product>
 		<ID>552041</ID>
 		<Name>JOSE CUERVO BLACK MEDALLION 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/14282689/Jose-Cuervo-Black-Medallion-Tekila-38-700ml.html</Product_Link>
@@ -4267,6 +4285,120 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>CHARLESTON FOLLIES (Marie Brizard) Ασημί βαμμένο γυάλινο μπουκάλι με γαλλικό λικέρ εξωτικών φρούτων , 700 ml.</Description>
 		<Barcode>3041313740709</Barcode>
 		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>555511</ID>
+		<Name>EOLIKI MENTA ΠΡΑΣΙΝΗ 25%Vol 700ML</Name>
+		<Product_Link>https://www.skroutz.gr/s/54216473/Eoliki-Liker-700ml.html</Product_Link>
+		<Image_Link>https://www.skroutz.gr/s/54216473/Eoliki-Liker-700ml.html</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>EOLIKI</Manufacturer>
+		<MPN>1222</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Eoliki Menta Πράσινη 25% Vol 700ml είναι ένα λικέρ με έντονη γεύση δροσερής μέντας και ζωηρό πράσινο χρώμα. Ιδανικό για να απολαύσετε σκέτο με πάγο, ως συστατικό σε κοκτέιλ, ή ως γαρνιτούρα σε γλυκά και επιδόρπια, προσφέρει μια αναζωογονητική και αρωματική εμπειρία.</Description>
+		<Barcode>5201304300338</Barcode>
+		<Quantity>12</Quantity>
+	</product>
+	<product>
+		<ID>555514</ID>
+		<Name>EOLIKI CHERRY BRANDY 25%Vol 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5390133/Eoliki-Cherry-Liker-700ml.html</Product_Link>
+		<Image_Link>https://www.plus4u.gr/images/142/BIG/142001851.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>EOLIKI</Manufacturer>
+		<MPN>1223</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Eoliki Cherry Brandy 25% Vol 700ml είναι ένα λικέρ με πλούσια γεύση κερασιού, συνδυασμένο με την απαλή αίσθηση του μπράντι. Με ισορροπημένη γλυκύτητα και αρωματικές νότες, είναι ιδανικό για κατανάλωση σκέτο, με πάγο, ή ως βάση για διάφορα κοκτέιλ. Το βαθύ κόκκινο χρώμα και η φρουτώδης γεύση του προσδίδουν μια ιδιαίτερη πινελιά σε κάθε ποτό.</Description>
+		<Barcode>5201304300291</Barcode>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>555515</ID>
+		<Name>EOLIKI BLUE CURACAO 33%Vol 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5391129/Eoliki-Blue-Curacao-Liker-700ml.html</Product_Link>
+		<Image_Link>https://www.plus4u.gr/images/142/BIG/142001850.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>EOLIKI</Manufacturer>
+		<MPN>1224</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Eoliki Blue Curacao 33% Vol 700ml είναι ένα λικέρ με έντονη γεύση εσπεριδοειδών και χαρακτηριστικό έντονο μπλε χρώμα. Ιδανικό για τη δημιουργία εντυπωσιακών κοκτέιλ, όπως το Blue Lagoon, προσθέτει φρουτώδη γεύση και ζωντάνια στα ποτά σας. Το υψηλότερο αλκοολικό περιεχόμενο του, στο 33%, του δίνει επιπλέον ένταση και βάθος γεύσης.</Description>
+		<Barcode>521304300277</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>555516</ID>
+		<Name>EOLIKI Cherry Vieille Marie 25%Vol (ΛΙΚΕΡ ΒΥΣΣΙΝΟ) 700ml</Name>
+		<Product_Link>https://siganos-sa.gr/product/299162/</Product_Link>
+		<Image_Link>https://i.imgur.com/rNhi3rK.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>EOLIKI</Manufacturer>
+		<MPN>1225</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Eoliki Cherry Vieille Marie 25% Vol (Λικέρ Βύσσινο) 700ml είναι ένα εκλεκτό λικέρ με πλούσια γεύση από ώριμα βύσσινα και νότες μπαχαρικών. Με την ισορροπημένη γλυκόξινη γεύση του, είναι ιδανικό για απόλαυση σκέτο, με πάγο, ή ως βάση για κοκτέιλ. Το λικέρ αυτό προσφέρει μια απολαυστική εμπειρία με έντονο φρουτώδες άρωμα και βελούδινη υφή.
+
+
+
+
+
+</Description>
+		<Barcode>521304300321</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>555518</ID>
+		<Name>EOLIKI Fine Banana 25%Vol 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5390205/Eoliki-Banana-Liker-700ml.html</Product_Link>
+		<Image_Link>https://i.imgur.com/ZQ4C209.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>EOLIKI</Manufacturer>
+		<MPN>1226</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Eoliki Fine Banana 25% Vol 700ml είναι ένα λικέρ με πλούσια, γλυκιά γεύση ώριμης μπανάνας. Ιδανικό για χρήση σε κοκτέιλ, γλυκά, ή για απόλαυση σκέτο με πάγο, προσθέτει μια εξωτική και κρεμώδη νότα σε κάθε ποτό ή επιδόρπιο. Με την ισορροπημένη γεύση του, αποτελεί εξαιρετική επιλογή για όσους αγαπούν τα φρουτώδη λικέρ.</Description>
+		<Barcode>5201304300345</Barcode>
+		<Quantity>13</Quantity>
+	</product>
+	<product>
+		<ID>555516</ID>
+		<Name>EOLIKI Parfait D’ Amour 25%Vol 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5841509/Eoliki-Parfait-D-Amour.html</Product_Link>
+		<Image_Link>https://cavamaniatis.gr/wp-content/uploads/2021/12/Eoliki-Parfait-D-Amour-700ml.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>EOLIKI</Manufacturer>
+		<MPN>1227</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Eoliki Parfait D’Amour 25% Vol 700ml είναι ένα ιδιαίτερο λικέρ με αρωματικές νότες από βιολέτες, τριαντάφυλλα, και εσπεριδοειδή. Το εκλεπτυσμένο του άρωμα και η ρομαντική γεύση το καθιστούν ιδανικό για κοκτέιλ ή για κατανάλωση σκέτο, με πάγο. Το εντυπωσιακό του χρώμα και η λουλουδάτη γεύση του προσφέρουν μια ξεχωριστή εμπειρία απόλαυσης.</Description>
+		<Barcode>5201304300282</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>55561</ID>
@@ -5714,7 +5846,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1067</MPN>
 		<Description>Τα Hansaplast Universal είναι αυτοκόλλητα επιθέματα ανθεκτικά στο νερό.</Description>
 		<Barcode>4005900787002</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>64032</ID>
@@ -5752,7 +5884,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1069</MPN>
 		<Description>Η Πούδρα Johnson's Baby απορροφά την υπερβολική υγρασία και αφήνει την επιδερμίδα του μωρού στεγνή, χαρίζοντας μια αίσθηση απαλότητας όλη μέρα. Με απλό, κλασικό άρωμα, η βρεφική αυτή πούδρα απλώνεται εύκολα στην επιδερμίδα του μωρού και την αφήνει απαλή.</Description>
 		<Barcode>8850007011149</Barcode>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 	</product>
 	<product>
 		<ID>64041</ID>
@@ -5803,7 +5935,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0635</MPN>
 		<Description>Εξαιρετικής ποιότητας βαμβάκι, με καθαρό βάρος 100 γραμμαρίων και την υπογραφή Septona.</Description>
 		<Barcode>5201410970395</Barcode>
-		<Quantity>239</Quantity>
+		<Quantity>233</Quantity>
 	</product>
 	<product>
 		<ID>64111</ID>
@@ -5874,7 +6006,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0942</MPN>
 		<Description>Μια δυνατή αντισηπτική λύση που χρησιμοποιείται για τον καθαρισμό και την απολύμανση των χεριών και των επιφανειών. Η υψηλή περιεκτικότητα αλκοόλης την καθιστά αποτελεσματική στην εξάλειψη μικροβίων και ιών. Είναι ιδανική για χρήση σε κλινικές, νοσοκομεία, εργαστήρια, καθώς και σε οποιοδήποτε περιβάλλον όπου απαιτείται υψηλό επίπεδο υγιεινής και απολύμανσης. Πριν από τη χρήση, βεβαιωθείτε ότι η λοσιόν απλώνεται ομοιόμορφα και αφήνετε να στεγνώσει εντελώς.</Description>
 		<Barcode>5200341702662</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>108</Quantity>
 	</product>
 	<product>
 		<ID>64164</ID>
@@ -5924,7 +6056,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1073</MPN>
 		<Description>Αντισηπτικό τζελ χεριών της εταιρείας EGBrands με αντλία, το οποίο περιέχει αλκοόλη σε ποσοστό 70% που εξουδετερώνει αποτελεσματικά πολλά είδη παθογόνων μικροοργανισμών, συμπεριλαμβανομένων ιών και βακτηρίων.</Description>
 		<Barcode>5202399414030</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>64302</ID>
@@ -5992,7 +6124,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0152</MPN>
 		<Description>Gel μαλλιών της εταιρίας Schwarzkopf για να δώσετε μορφή και να δημιουργήσετε το χτένισμα που επιθυμείτε.</Description>
 		<Barcode>8015700153903</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>64511</ID>
@@ -6911,7 +7043,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα με διακριτικό άρωμα. 
 - Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007026</Barcode>
-		<Quantity>477</Quantity>
+		<Quantity>476</Quantity>
 	</product>
 	<product>
 		<ID>70431</ID>
@@ -7039,7 +7171,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>467</Quantity>
+		<Quantity>464</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -7058,7 +7190,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>231</Quantity>
+		<Quantity>229</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -7096,7 +7228,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055244</Barcode>
-		<Quantity>206</Quantity>
+		<Quantity>204</Quantity>
 	</product>
 	<product>
 		<ID>71025</ID>
@@ -7132,7 +7264,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα. </Description>
 		<Barcode>8008970055268</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>118</Quantity>
 	</product>
 	<product>
 		<ID>71101</ID>
@@ -10425,7 +10557,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 • Ενσωματωμένο καπάκι
 • Μιας χρήσεως</Description>
 		<Barcode>5200425301057</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>78528</ID>
