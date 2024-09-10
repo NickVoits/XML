@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-09 18:35</created_at>
+	<created_at>2024-09-10 12:22</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -107,7 +107,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Mc Farland είναι μια Ιρλανδική red ale με υπέροχο κόκκινο χρώμα. Αρώματα και γεύσεις κόκκινων φρούτων, καραμέλας, βύνης και γαρίφαλου εναλλάσσονται και ξεσηκώνουν. Το στόμα είναι γεμάτο και συγχρόνως ελαφρύ με ένα γλυκόπικρο τελείωμα πλούσιο σε toffee.</Description>
 		<Barcode>8006890623246</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>320215-ΤΕΜ</ID>
@@ -2719,7 +2719,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το San Pellegrino πρόκειται για ένα φυσικό μεταλλικό ανθρακούχο νερό με προέλευση από τις Άλπεις. Έχει κρυστάλλινη, δροσιστική, ντελικάτη γεύση και μικροσκοπικές φυσαλίδες. Αναδεικνύει κάθε εκλεκτό κρασί και κάθε εξαιρετικό γεύμα.</Description>
 		<Barcode>8002270000300</Barcode>
-		<Quantity>4</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
 		<ID>22006</ID>
@@ -4894,7 +4894,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.2 kg</Weight>
 		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
 		<Barcode>5202037000083</Barcode>
-		<Quantity>48</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>57044</ID>
@@ -5926,7 +5926,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Manufacturer>AXE</Manufacturer>
 		<MPN>1061</MPN>
 		<Description>Άρωμα με νότες μαύρης σοκολάτας και βανίλιας. Δερματολογικά ελεγμένο.</Description>
-		<Barcode>8720181114496</Barcode>
+		<Barcode>6001087363815</Barcode>
 		<Quantity>10</Quantity>
 	</product>
 	<product>
@@ -6067,7 +6067,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1069</MPN>
 		<Description>Η Πούδρα Johnson's Baby απορροφά την υπερβολική υγρασία και αφήνει την επιδερμίδα του μωρού στεγνή, χαρίζοντας μια αίσθηση απαλότητας όλη μέρα. Με απλό, κλασικό άρωμα, η βρεφική αυτή πούδρα απλώνεται εύκολα στην επιδερμίδα του μωρού και την αφήνει απαλή.</Description>
 		<Barcode>8850007011149</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>64041</ID>
@@ -6101,7 +6101,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1071</MPN>
 		<Description>Ασετόν με λάδι. Συσκευασία 125ml</Description>
 		<Barcode>8008833380902</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>64051</ID>
@@ -6342,7 +6342,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1219</MPN>
 		<Description>Γαλάκτωμα σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά του εμπεριέχει αλόη βέρα και ρόδι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Το γαλάκτωμα σώματος είναι δερματολογικά ελεγμένο και κατάλληλο για όλες τις ηλικίες και τους τύπους δέρματος.</Description>
 		<Barcode>5208005100434</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 	</product>
 	<product>
 		<ID>64913</ID>
@@ -10288,7 +10288,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>77023</ID>
-		<Name>FLAMINGO ΤΡΑΠΕΖΟΜΑΝΤΗΛΟ 150Χ180 ΑΛΕΚΙΑΣΤΟ SUN GREY </Name>
+		<Name>FLAMINGO ΤΡΑΠΕΖΟΜΑΝΤΗΛΟ 150Χ180 ΑΛΕΚΙΑΣΤΟ STRIPE GREY </Name>
 		<Product_Link>https://www.skroutz.gr/s/32583642/Flamingo-Trapezomantilo-Alekiasto-Light-Grey-150x180ek.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/032583/32583642/fixedratio_20211124125905_flamingo_trapezomantilo_alekiasto_150by180_light_grey.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10311,7 +10311,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>77045</ID>
-		<Name>FLAMINGO ΤΡΑΠΕΖΟΜΑΝΤΗΛΟ 150Χ220 ΑΛΕΚΙΑΣΤΟ SUN GREY </Name>
+		<Name>FLAMINGO ΤΡΑΠΕΖΟΜΑΝΤΗΛΟ 150Χ220 ΑΛΕΚΙΑΣΤΟ STRIPE GREY </Name>
 		<Product_Link>https://www.skroutz.gr/s/39066894/Flamingo-Trapezomantilo-Alekiasto-Jungle-Grey-150x220ek.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/032583/32583642/fixedratio_20211124125905_flamingo_trapezomantilo_alekiasto_150by180_light_grey.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10330,7 +10330,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 Πλάτος: 150εκ.
 Μήκος: 220εκ.</Description>
 		<Barcode>5206952007905</Barcode>
-		<Quantity>7</Quantity>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>77351</ID>
@@ -12182,7 +12182,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>12 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 12 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270030080</Barcode>
-		<Quantity>9</Quantity>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>84151</ID>
