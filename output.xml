@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-12 10:36</created_at>
+	<created_at>2024-09-12 11:00</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -550,44 +550,6 @@
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
 		<Quantity>199</Quantity>
-	</product>
-	<product>
-		<ID>11038</ID>
-		<Name>BIBI COLA
-6τμχ x330ml ΠΕΤ</Name>
-		<Product_Link>https://kalavrytinos.gr/gr/cartquickpro/catalog_product/view/id/76016</Product_Link>
-		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/321033-1_0_low.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.21</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>0240</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Η Βίβι Cola είναι μια δροσιστική αναψυκτική με γεύση κόλας που αναδεικνύεται από την ευχάριστη αίσθηση δροσιάς που προσφέρει. Με την κλασική της γεύση και αναζωογονητικό αφρώδες χαρακτήρα, αποτελεί δημοφιλή επιλογή για αναψυκτικό διάλειμμα κατά τη διάρκεια της ημέρας.</Description>
-		<Barcode>5201275001760</Barcode>
-		<Quantity>120</Quantity>
-	</product>
-	<product>
-		<ID>110388</ID>
-		<Name>BIBI COLA ZERO
-6τμχ x330ml ΠΕΤ</Name>
-		<Product_Link>https://kalavrytinos.gr/gr/cartquickpro/catalog_product/view/id/76017</Product_Link>
-		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/3/2/321034-1_low.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.43</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>0242</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Η Βίβι Cola Zero είναι μια αναψυκτική με αποδραστική γεύση από cola, χωρίς προσθήκη ζάχαρης. Είναι μια δροσιστική επιλογή με χαμηλή περιεκτικότητα σε θερμίδες και κατάλληλη για όσους αναζητούν μια light εναλλακτική χωρίς να χάνουν την αυθεντική γεύση της cola.</Description>
-		<Barcode>5201275001814</Barcode>
-		<Quantity>120</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
