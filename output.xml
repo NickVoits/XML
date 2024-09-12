@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-12 11:00</created_at>
+	<created_at>2024-09-12 12:07</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -20,7 +20,7 @@
 		<Quantity>80</Quantity>
 	</product>
 	<product>
-		<ID>31023-ΤΕΜ</ID>
+		<ID>31023-Τ</ID>
 		<Name>Άλφα Lager Κουτί 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6790727/Alfa-Lager-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/006790/6790727/20230911150150_alfa_lager_kouti_330ml.jpeg</Image_Link>
@@ -110,7 +110,7 @@
 		<Quantity>24</Quantity>
 	</product>
 	<product>
-		<ID>320215-ΤΕΜ</ID>
+		<ID>320215-Τ</ID>
 		<Name>Fix Lager Κουτί 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4870950/Fix-Lager-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/004870/4870950/20150519123829_fix_330ml_koutaki.jpeg</Image_Link>
@@ -146,7 +146,7 @@
 		<Quantity>20</Quantity>
 	</product>
 	<product>
-		<ID>320225-ΤΕΜ</ID>
+		<ID>320225-Τ</ID>
 		<Name>Kaiser Pilsner Κουτί 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6246305/Kaiser-Pilsner-Lager-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/006246/6246305/20210304174331_kaiser_pilsner_lager_kouti_330ml.jpeg</Image_Link>
@@ -164,7 +164,7 @@
 		<Quantity>108</Quantity>
 	</product>
 	<product>
-		<ID>320255-ΤΕΜ</ID>
+		<ID>320255-Τ</ID>
 		<Name>Carlsberg Lager Κουτί 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/19187564/Carlsberg-Lager-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/019187/19187564/20220909100532_carlsberg_lager_kouti_330ml.jpeg</Image_Link>
@@ -182,7 +182,7 @@
 		<Quantity>48</Quantity>
 	</product>
 	<product>
-		<ID>322265-ΤΕΜ</ID>
+		<ID>322265-Τ</ID>
 		<Name>ΒΕΡΓΙΝΑ RADLER κουτί 330ml</Name>
 		<Product_Link>https://kritikos-sm.gr/products/kaba/mpures/alcohol-free/bergina-mpura-radler-kouti-330ml-763942/</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1053885/vergina-mpira-radler-330ml.jpg</Image_Link>
@@ -220,7 +220,7 @@
 		<Quantity>8</Quantity>
 	</product>
 	<product>
-		<ID>322275-ΤΕΜ</ID>
+		<ID>322275-Τ</ID>
 		<Name>ΒΕΡΓΙΝΑ ALCOHOL FREE ΚΟΥΤΙ 330ml</Name>
 		<Product_Link>https://www.bazaar-online.gr/vergina-330ml-alcohol-free-mpyra-koyti</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1057832/vergina-mpira-xoris-alkool-330ml.jpg</Image_Link>
@@ -256,7 +256,7 @@
 		<Quantity>40</Quantity>
 	</product>
 	<product>
-		<ID>320315-ΤΕΜ</ID>
+		<ID>320315-Τ</ID>
 		<Name>Fix Lager Κουτί 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6246653/Fix-Lager-Kouti-500ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/006246/6246653/20210304174331_fix_fix_500ml_koutaki.jpeg</Image_Link>
@@ -274,7 +274,7 @@
 		<Quantity>120</Quantity>
 	</product>
 	<product>
-		<ID>320325-ΤΕΜ</ID>
+		<ID>320325-Τ</ID>
 		<Name>Kaiser Pilsner Κουτί 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6246224/Kaiser-Pilsner-Lager-Kouti-500ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/006246/6246224/20150226092254_kaiser_500ml_koutaki.jpeg</Image_Link>
@@ -292,7 +292,7 @@
 		<Quantity>72</Quantity>
 	</product>
 	<product>
-		<ID>321335-ΤΕΜ</ID>
+		<ID>321335-Τ</ID>
 		<Name>ΕΖΑ Pils Hellas 500ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/6867969/EZA-Pils-Hellas-500ml-koutaki.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/006867/6867969/20231109122043_eza_pils_hellas_500ml_koutaki.jpeg</Image_Link>
@@ -887,44 +887,6 @@
 		<Weight>2 kg</Weight>
 		<Description>Το καλοκαιρινό Αναψυκτικό που απαγορεύεται να μην δοκιμάσεις. Το άκρως δελεαστικό Τσάι Ροδάκινο της ΕΨΑ είναι φτιαγμένο από τα πιο ζουμερά &amp; λαχταριστά ροδάκινα. Είτε μετά από μία πολύ ζεστή ημέρα είτε μετά από την γυμναστική σου είναι το αναψυκτικό που θα σου προσφέρει την δροσιά που αναζητάς.</Description>
 		<Barcode>5201171880247</Barcode>
-		<Quantity>20</Quantity>
-	</product>
-	<product>
-		<ID>11821</ID>
-		<Name>ΒΑΠ ΠΟΡΤΟΚΑΛΑΔΑ
-6τμχ x330ml</Name>
-		<Product_Link>https://www.abconline.gr/VAP-ORANGADE-330ML-13874</Product_Link>
-		<Image_Link>https://www.abconline.gr/images/thumbs/0099001_02-22-15-0129_510.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.7</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΒΑΠ</Manufacturer>
-		<MPN>0059</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Η ΒΑΠ Πορτοκαλάδα είναι ένα αναψυκτικό από την ελληνική εταιρεία ΒΑΠ. Αυτή η προσφορά περιλαμβάνει συνολικά 24 κουτιά, με ένα επιπλέον κουτί δωρεάν σε κάθε εξαπλή συσκευασία (5+1 δώρο). Η πορτοκαλάδα χαρακτηρίζεται από τη δροσιστική γεύση του φρέσκου πορτοκαλιού, ιδανική για να συνοδεύει το γεύμα ή να καταναλώνεται οποιαδήποτε στιγμή της ημέρας για μια δροσερή ανάπαυλα.</Description>
-		<Barcode>5202382211127</Barcode>
-		<Quantity>20</Quantity>
-	</product>
-	<product>
-		<ID>11822</ID>
-		<Name>ΒΑΠ ΛΕΜΟΝΑΔΑ
-6τμχ x330ml</Name>
-		<Product_Link>https://www.abconline.gr/VAP-LEMONADE-330ML-13875</Product_Link>
-		<Image_Link>https://www.abconline.gr/images/thumbs/0096042_02-22-15-0130.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.7</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΒΑΠ</Manufacturer>
-		<MPN>0060</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Η ΒΑΠ Λεμονάδα είναι ένα αναψυκτικό από την ελληνική εταιρεία ΒΑΠ. Αυτή η προσφορά περιλαμβάνει συνολικά 24 κουτιά, με ένα επιπλέον κουτί δωρεάν σε κάθε εξαπλή συσκευασία (5+1 δώρο). Είναι ιδανική για να συνοδεύει τα γεύματά σας ή για να την απολαμβάνετε μόνη της, προσφέροντας αναζωογόνηση και απόλαυση σε κάθε γουλιά.</Description>
-		<Barcode>5202382222239</Barcode>
 		<Quantity>20</Quantity>
 	</product>
 	<product>
@@ -1540,42 +1502,6 @@
 		<Description>Φρουτοποτό Amita με γεύση βύσσινο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<Barcode>5201005011465</Barcode>
 		<Quantity>24</Quantity>
-	</product>
-	<product>
-		<ID>12031</ID>
-		<Name>COCA COLA 24τμχ x500ml </Name>
-		<Product_Link>https://e-vk.gr/coca-cola-24500-ml/p/2790/6,48/</Product_Link>
-		<Image_Link>https://m.media-amazon.com/images/I/81Kv3XB26yL.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>23.36</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>0779</MPN>
-		<Weight>12.5 kg</Weight>
-		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000017673</Barcode>
-		<Quantity>119</Quantity>
-	</product>
-	<product>
-		<ID>120318</ID>
-		<Name>COCA COLA ZERO 24τμχ x500ml</Name>
-		<Product_Link>https://kavamaziotis.gr/coca-cola-zero-500ml?sort=p.model&amp;order=DESC</Product_Link>
-		<Image_Link>https://www.cavaleone.gr/wp-content/uploads/2022/10/MPOY-ZERO.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>24.25</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>0382</MPN>
-		<Weight>12.5 kg</Weight>
-		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000134332</Barcode>
-		<Quantity>120</Quantity>
 	</product>
 	<product>
 		<ID>130115-Τ</ID>
@@ -4554,7 +4480,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1224</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Eoliki Blue Curacao 33% Vol 700ml είναι ένα λικέρ με έντονη γεύση εσπεριδοειδών και χαρακτηριστικό έντονο μπλε χρώμα. Ιδανικό για τη δημιουργία εντυπωσιακών κοκτέιλ, όπως το Blue Lagoon, προσθέτει φρουτώδη γεύση και ζωντάνια στα ποτά σας. Το υψηλότερο αλκοολικό περιεχόμενο του, στο 33%, του δίνει επιπλέον ένταση και βάθος γεύσης.</Description>
-		<Barcode>520304300277</Barcode>
+		<Barcode>5201304300277</Barcode>
 		<Quantity>1</Quantity>
 	</product>
 	<product>
@@ -4578,7 +4504,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 
 
 </Description>
-		<Barcode>520304300321</Barcode>
+		<Barcode>5201304300321</Barcode>
 		<Quantity>1</Quantity>
 	</product>
 	<product>
