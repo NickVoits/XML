@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-12 17:32</created_at>
+	<created_at>2024-09-13 09:37</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2599,7 +2599,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το Perrier, το Φυσικό Μεταλλικό νερό με προσθήκη διοξειδίου του άνθρακα, έχει καθιερωθεί ως την απόλυτα υγιεινή εναλλακτική επιλογή! Με τις 50 εκατομμύρια φυσαλίδες ανά λίτρο, σε δροσίζει όλη την διάρκεια της ημέρας!</Description>
 		<Barcode>3179730011369</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>22005</ID>
@@ -3596,7 +3596,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.2176819123550002</Price>
+		<Price>2.217681912355</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -3632,7 +3632,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3088257925558402</Price>
+		<Price>1.30882579255584</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -8438,7 +8438,6 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Name>KLOREX  ΥΓΡΟ ΠΙΑΤΩΝ 4 Lit ΛΕΜΟΝΙ </Name>
 		<Product_Link>https://thessclean.gr/shop/%cf%85%ce%b3%cf%81%cf%8c-%cf%80%ce%af%ce%b1%cf%84%cf%89%ce%bd-rex-eco/</Product_Link>
 		<Image_Link>https://thessclean.gr/wp-content/uploads/2018/11/DSC06842-s.jpg</Image_Link>
-		<Additional>https://thessclean.gr/wp-content/uploads/2018/11/DSC06842-s.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -10254,7 +10253,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>75823</ID>
-		<Name>Πλαστική Κρεμαστή Σακούλα Αποθήκευσης Παλτών 70x135cm 4τμχ</Name>
+		<Name>Πλαστική Κρεμαστή Σακούλα Αποθήκευσης Παλτών 70x130cm 4τμχ</Name>
 		<Product_Link>https://mpalantinas.gr/product/servin-%CF%83%CE%B1%CE%BA%CE%BF%CF%85%CE%BB%CE%B5%CF%83-%CF%80%CE%B1%CE%BB%CF%84%CF%89%CE%BD-4%CF%84%CF%8770%CF%87130cm50%CF%84-%CE%BA%CE%B9%CE%B2/</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/01-07-60.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
