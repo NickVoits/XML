@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-13 15:04</created_at>
+	<created_at>2024-09-13 16:56</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -4401,7 +4401,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>To αψέντι Green Fairy με περιεκτικότητα 70% σε αλκοόλ, αποτελείται από ένα μείγμα γεύσεων, με κυρίαρχη αυτή του γλυκάνισου.
 </Description>
 		<Barcode>8594001441723</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>2</Quantity>
 	</product>
 	<product>
 		<ID>55533</ID>
@@ -4928,7 +4928,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.12</Price>
+		<Price>8.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>MARTINI</Manufacturer>
@@ -5543,7 +5543,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0282</MPN>
 		<Description>Ξυραφάκια Gillette Blue II, που είναι μιας χρήσης και έχουν διπλή λεπίδα για να σας προσφέρουν άνετο ξύρισμα και να γλιστρούν εύκολα πάνω στην επιδερμίδα.</Description>
-		<Barcode>7702018474745</Barcode>
+		<Barcode>7702018474738</Barcode>
 		<Quantity>480</Quantity>
 	</product>
 	<product>
@@ -5560,7 +5560,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0813</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως με 2 λεπίδες και λιπαντική ταινία από αλόη βέρα, για την προστασία του δέρματος από ερεθισμούς. Διαθέτει κινούμενη κεφαλή που προσαρμόζεται στις καμπύλες του προσώπου για ευκολία κινήσεων.</Description>
-		<Barcode>7702018474776</Barcode>
+		<Barcode>7702018474769</Barcode>
 		<Quantity>480</Quantity>
 	</product>
 	<product>
@@ -5577,7 +5577,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0979</MPN>
 		<Description>Ανδρικά ξυραφάκια μίας χρήσης Gillette Blue II Slalom Sensitive Skin. Διαθέτουν κινούμενη κεφαλή και μια καταπραϋντική λιπαντική ταινία για να σας παρέχει ένα απαλό και ακριβές ξύρισμα.</Description>
-		<Barcode>7702018466733</Barcode>
+		<Barcode>7702018466726</Barcode>
 		<Quantity>473</Quantity>
 	</product>
 	<product>
@@ -5594,7 +5594,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0374</MPN>
 		<Description>Τα ξυραφάκια μίας χρήσης Gillette Simply Venus 3 για γυναίκες διαθέτουν 3 λεπίδες για βαθύτερο ξύρισμα με λιγότερα κοψίματα και σημάδια (σε σχέση με τη Simply Venus 2). Διαθέτουν, επίσης, ταινία MoistureRich για εύκολο ξύρισμα και μικροραβδώσεις προστασίας της επιδερμίδας για τη μείωση των κοψιμάτων και των σημαδιών.</Description>
-		<Barcode>3014260411572</Barcode>
+		<Barcode>3014260246693</Barcode>
 		<Quantity>119</Quantity>
 	</product>
 	<product>
@@ -6652,7 +6652,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>67211</ID>
-		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml</Name>
+		<Name>Aroma Bio Hand &amp; Nail Αναπλαστική και Ενυδατική Κρέμα Χεριών και Νυχιών με Μέλι, Πανθενόλη, Κερατίνη &amp; Βιοτίνη 75ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/28673737/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-me-Meli-Panthenoli-Keratini-Viotini-75ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/028673/28673737/20220525121521_aroma_bio_honey_panthenol_hand_nail_therapy_75ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
