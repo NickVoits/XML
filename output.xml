@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-16 12:49</created_at>
+	<created_at>2024-09-16 16:52</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -366,7 +366,7 @@
 	</product>
 	<product>
 		<ID>110118</ID>
-		<Name>Κλιάφα Χωρίς Ανθρακικό 1500ml</Name>
+		<Name>Κλιάφα Πορτοκαλάδα Χωρίς Ανθρακικό 1500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/50268767/Portokalada-choris-anthrakiko-Kliafa-1-5-lt-0-20euro.html</Product_Link>
 		<Image_Link>https://www.kmkike.gr/wp-content/uploads/2022/12/KLIAFAS-MPLE-1.5-1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -422,7 +422,7 @@
 	</product>
 	<product>
 		<ID>110311</ID>
-		<Name>Κλιάφα Πορτοκαλάδα χωρίς ζάχαρη Κλιάφα 6x330 ml</Name>
+		<Name>Κλιάφα Πορτοκαλάδα χωρίς ζάχαρη 6x330 ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/45374020/Portokalada-choris-zachari-Kliafa-6x330-ml-5-1-doro.html</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/2/4200015422/portokali-xwris-zaxarh-6x330ml-pet-51-dwro.jpg?id=1653993200</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -441,7 +441,7 @@
 	</product>
 	<product>
 		<ID>110318</ID>
-		<Name>Κλιάφα Χωρίς Ανθρακικό Μπουκάλι 6x330ml</Name>
+		<Name>Κλιάφα Πορτοκαλάδα Χωρίς Ανθρακικό Μπουκάλι 6x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/45373201/Portokalada-choris-anthrakiko-Kliafa-330-ml.html</Product_Link>
 		<Image_Link>https://s1.sklavenitis.gr/images/1600x1600/files/ProductMedia/Products/1544064/1.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -549,7 +549,7 @@
 	</product>
 	<product>
 		<ID>110351</ID>
-		<Name>Κλιάφα Βυσσινάδα χωρίς ζάχαρη Κλιάφα 6x330ml</Name>
+		<Name>Κλιάφα Βυσσινάδα χωρίς ζάχαρη 6x330ml</Name>
 		<Product_Link>https://pockee.com/products/86059</Product_Link>
 		<Image_Link>https://d3kdwhwrhuoqcv.cloudfront.net/uploads/products/202207/83943.PNG</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -810,7 +810,7 @@
 	</product>
 	<product>
 		<ID>115318</ID>
-		<Name>ΕΨΑ Χωρίς Ανθρακικό Μπουκάλι 6x330ml</Name>
+		<Name>ΕΨΑ Χωρίς Ανθρακικό Μπουκάλι Πορτοκαλάδα 6x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/44091807/EPSA-CHoris-Anthrakiko-Mpoukali-6x330ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/05/EPSA-PORTOK-MPLE-51-6X330ML.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -1745,7 +1745,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>113</Quantity>
 	</product>
 	<product>
 		<ID>13038</ID>
@@ -1969,7 +1969,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Ροζ, γλυκές, νότες βατόμουρου, ελαφριές νότες ραβέντι, νότες βοτάνου. Αναμειγνύοντας φυσικές γεύσεις γλυκού βρετανικού ραβέντι με ζουμερά σκωτσέζικα σμέουρα, δημιουργήσαμε ένα δροσιστικό φρουτώδες τονωτικό νερό, που θυμίζει αγγλικό καλοκαίρι.</Description>
 		<Barcode>5060108453530</Barcode>
-		<Quantity>234</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>17051</ID>
@@ -2563,7 +2563,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
 		<Barcode>5200128720049</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>28</Quantity>
 	</product>
 	<product>
 		<ID>18302</ID>
@@ -2581,7 +2581,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
 		<Barcode>5200128720070</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>21601</ID>
@@ -3586,7 +3586,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064011550</Barcode>
-		<Quantity>208</Quantity>
+		<Quantity>184</Quantity>
 	</product>
 	<product>
 		<ID>52154</ID>
@@ -8306,7 +8306,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>2.5 kg</Weight>
 		<Description>Το ΟΜΟ υγρό απορρυπαντικό για το πλυντήριο ρούχων με λεβάντα και γιασεμί χαρίζει ένα άρωμα μοναδικό με μεγάλη διάρκεια.</Description>
 		<Barcode>8720181427398</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>39</Quantity>
 	</product>
 	<product>
 		<ID>71282</ID>
