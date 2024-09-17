@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-17 11:58</created_at>
+	<created_at>2024-09-17 15:02</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1295,10 +1295,10 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<Barcode>40822938</Barcode>
-		<Quantity>72</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
-		<ID>12034-Τ</ID>
+		<ID>12035-Τ</ID>
 		<Name>Fanta Μπουκάλι Λεμονάδα με Ανθρακικό 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24773263/Fanta-Lemonada-me-Anthrakiko-Lemonada-500ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/024773/24773263/20200915141944_fanta_lemonada_500ml.jpeg</Image_Link>
@@ -1313,7 +1313,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Λεμονάδα περιέχει 7% χυμό λεμονιού, αρώματα φυσικού λεμονιού και ανθρακικό.</Description>
 		<Barcode>54492493</Barcode>
-		<Quantity>72</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>12051</ID>
@@ -4572,7 +4572,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>12</Quantity>
 	</product>
 	<product>
-		<ID>555516</ID>
+		<ID>555519</ID>
 		<Name>EOLIKI Parfait D’ Amour 25%Vol 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5841509/Eoliki-Parfait-D-Amour.html</Product_Link>
 		<Image_Link>https://cavamaniatis.gr/wp-content/uploads/2021/12/Eoliki-Parfait-D-Amour-700ml.jpg</Image_Link>
@@ -5108,7 +5108,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1280</MPN>
 		<Description>Οι ανταλλακτικές κεφαλές ηλεκτρικής οδοντόβουρτσας Oral-B Kids, είναι ειδικά σχεδιασμένες για παιδάκια ηλικίας 3+ ετών και είναι συμβατές με όλες τις ηλεκτρικές οδοντόβουρτσες Oral-B Kids.</Description>
 		<Barcode>4210201384731</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>60202</ID>
@@ -5130,7 +5130,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
     •Με χαρακτήρες από την ταινία Star Wars της Disney
     •Συμβατές με όλες τις ηλεκτρικές οδοντόβουρτσες Oral-B Kids 3+</Description>
 		<Barcode>4210201388074</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>60206</ID>
@@ -5147,7 +5147,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1282</MPN>
 		<Description>Βελτιωμένες κεφαλές της σειράς Cross Action με τεχνολογία CleanMaximiser που προσφέρει έως και 100% περισσότερη αφαίρεση πλάκας και πιο υγιή ούλα σε σύγκριση με μια κανονική χειροκίνητη οδοντόβουρτσα. </Description>
 		<Barcode>4210201353409</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>60251</ID>
@@ -5385,7 +5385,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1244</MPN>
 		<Description>Ταμπόν με σπειροειδή αυλάκια είναι σχεδιασμένα ώστε να οδηγούν το υγρό αποτελεσματικά και με ασφάλεια στο εσωτερικό του ταμπόν για αξιόπιστη προστασία. </Description>
 		<Barcode>3574660240009</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>61103</ID>
@@ -6516,7 +6516,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1249</MPN>
 		<Description>Το κρεμοσάπουνο Natura Vanilla Caramel με φυτικό εκχύλισμα καλέντουλας, λειτουργεί σαν ένα φυσικό μαλακτικό για τα χέρια, ενώ παράλληλα τα προστατεύει από ερεθισμούς.</Description>
 		<Barcode>5201109001638</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>65052</ID>
@@ -6534,7 +6534,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5201109001621</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>65053</ID>
@@ -6551,7 +6551,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1251</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.</Description>
 		<Barcode>5201109001614</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>67112</ID>
@@ -7209,7 +7209,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1287</MPN>
 		<Description>Ultrex Men Legend by CR7 με την υπογραφή του Ronaldo. Κατά της πιτυρίδας και της λιπαρότητας, είναι ειδικά σχεδιασμένο για το ανδρικό τριχωτό της κεφαλής που είναι πιο αδύναμο και πιο επιρρεπές στην απώλεια πρωτεϊνών.</Description>
 		<Barcode>8710847997471</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>120</Quantity>
 	</product>
 	<product>
 		<ID>67001</ID>
@@ -8360,7 +8360,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>• Υπερλευκαντικό σε Σκόνη
 • Εξαφανίζει του Λεκέδες
 • Κατάλληλο για Λευκά Ρούχα</Description>
-		<Barcode>5201137011517</Barcode>
+		<Barcode>5201137010459</Barcode>
 		<Quantity>240</Quantity>
 	</product>
 	<product>
@@ -9975,7 +9975,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Μήκος: 6cm
 •Mε παιδική ασφάλεια
 •Χώρα παραγωγής: Γαλλία</Description>
-		<Barcode>3086125002805</Barcode>
+		<Barcode>70330600072</Barcode>
 		<Quantity>200</Quantity>
 	</product>
 	<product>
@@ -9996,7 +9996,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Διαστάσεις : 8.5cm x 2.5cm (maxi)
 •Με πέτρα και λάμα ασφαλείας
 •Κατασκευάζονται στη Γαλλία</Description>
-		<Barcode>3086125002843</Barcode>
+		<Barcode>70330600065</Barcode>
 		<Quantity>200</Quantity>
 	</product>
 	<product>
