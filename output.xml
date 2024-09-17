@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-16 16:52</created_at>
+	<created_at>2024-09-17 09:48</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -3550,7 +3550,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000417</Barcode>
-		<Quantity>240</Quantity>
+		<Quantity>192</Quantity>
 	</product>
 	<product>
 		<ID>52152</ID>
@@ -7713,7 +7713,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0343</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί. </Description>
 		<Barcode>5203650101409</Barcode>
-		<Quantity>227</Quantity>
+		<Quantity>226</Quantity>
 	</product>
 	<product>
 		<ID>70204</ID>
@@ -10107,7 +10107,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ID>75221</ID>
 		<Name>ΚΕΡΙ ΑΦΙΕΡΩΣΗΣ BISPOL 105gr ΚΑΥΣΗ ~ 2 ΗΜΕΡΕΣ</Name>
 		<Product_Link>https://petsalis.gr/product/%ce%ba%ce%b5%cf%81%ce%b9-%ce%b1%cf%86%ce%b9%ce%b5%cf%81%cf%89%cf%83%ce%b7%cf%83-memoria-wo2-kokkino/</Product_Link>
-		<Image_Link>https://www.helenscare.gr/wp-content/uploads/2023/03/BISPOL-%CE%9A%CE%95%CE%A1%CE%99-%CE%94%CE%99%CE%91%CE%A1%CE%9A%CE%95%CE%99%CE%91%CE%A3-%CE%9B%CE%95%CE%A5%CE%9A%CE%9F-45-%CE%A9%CE%A1%CE%A9%CE%9D.jpg</Image_Link>
+		<Image_Link>https://www.drogeria-vmd.com/imagegen.php?autoimage=2207385</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -10404,7 +10404,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>75821</ID>
-		<Name>SERVIN ΣΑΚ. ΕΝΔΥΜ./ ΜΑΛΛΙΝΑ (35Χ50cm) 10 TEM </Name>
+		<Name>Servin Πλαστική Σακούλα Αποθήκευσης Ρούχων 50x35cm 10τμχ </Name>
 		<Product_Link>https://mpalantinas.gr/product/servin-%CF%83%CE%B1%CE%BA%CE%BF%CF%85%CE%BB%CE%B5%CF%83-%CE%BC%CE%B1%CE%BB%CE%BB%CE%B9%CE%BD%CF%89%CE%BD-%CF%81%CE%BF%CF%85%CF%87%CF%89%CE%BD-10%CF%84%CF%8735%CF%8750cm50%CF%84-%CE%BA%CE%B9%CE%B2/</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/01-07-58.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10421,7 +10421,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>75822</ID>
-		<Name>SERVIN ΣΑΚ. ΕΝΔΥΜ./ ΚΟΣΤΟΥΜΙΑ(70Χ100cm) 5 TEM </Name>
+		<Name>Servin Πλαστική Κρεμαστή Σακούλα Αποθήκευσης Κουστουμιών 100x70cm 5τμχ</Name>
 		<Product_Link>https://mpalantinas.gr/product/servin-%CF%83%CE%B1%CE%BA%CE%BF%CF%85%CE%BB%CE%B5%CF%83-%CE%BA%CE%BF%CF%85%CF%83%CF%84%CE%BF%CF%85%CE%BC-5%CF%84%CF%8770%CF%87100cm50%CF%84-%CE%BA%CE%B9%CE%B2/</Product_Link>
 		<Image_Link>https://mpalantinas.gr/wp-content/uploads/2021/09/01-07-59.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10455,7 +10455,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>75831</ID>
-		<Name>SERVIN ΣΑΚ.ΦΥΛΑΞΗΣ ΧΑΛΙΩΝ (0,45 Χ 4,5m) 1 TEM </Name>
+		<Name>Servin Πλαστική Σακούλα Αποθήκευσης Χαλιών (0,45 Χ 4,5m) 1τμχ</Name>
 		<Product_Link>https://www.kalestimes.gr/SERVIN-SAKOYLA-FYLAKSHS-XALIVN-045X45M-1TMX-188688</Product_Link>
 		<Image_Link>https://www.kalestimes.gr/images/thumbs/0803089_SERVIN-SAK-FYLAKSHS-XALIVN-0-45-X-4-5M-1-TEM-1.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10492,7 +10492,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76003</ID>
-		<Name>ΣΑΚΟΥΛΕΣ ΑΠΟΡ/ΤΩΝ 52x75 10τεμ ΜΕ ΑΡΩΜΑ ΛΕΒΑΝΤΑ</Name>
+		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ </Name>
 		<Product_Link>https://viosarp.gr/el/product/sakoyla-aporrimmaton-me-kordoni-me-aroma-lebanta-10-tmh-52x75cm-viosarp</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B11-600x338.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10509,7 +10509,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76004</ID>
-		<Name>ΣΑΚΟΥΛΕΣ ΑΠΟΡ/ΤΩΝ 52x75 10τεμ ΜΕ ΑΡΩΜΑ LIME</Name>
+		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ </Name>
 		<Product_Link>https://petsalis.gr/product/%cf%83%ce%b1%ce%ba%ce%bf%cf%85%ce%bb%ce%b1-%ce%b1%cf%80%ce%bf%cf%81%cf%81%ce%b9%ce%bc%ce%b1%cf%84%cf%89%ce%bd-%ce%b1%cf%81%cf%89%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7-52%cf%8775cm-%ce%bc%ce%b5-%ce%ba/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B12-600x338.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10543,7 +10543,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76012</ID>
-		<Name>ΣΑΚΟΥΛΕΣ ΑΠΟΡ/ΤΩΝ 70x90 10τεμ ΜΕ ΑΡΩΜΑ ΒΑΝΙΛΙΑ</Name>
+		<Name>Βανίλια Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ </Name>
 		<Product_Link>https://petsalis.gr/product/sakoula-aporrimaton-rolo/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2023/12/VANILLA-600x600.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10560,7 +10560,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76013</ID>
-		<Name>ΣΑΚΟΥΛΕΣ ΑΠΟΡ/ΤΩΝ 70x90 10τεμ ΜΕ ΑΡΩΜΑ ΛΕΒΑΝΤΑ</Name>
+		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ </Name>
 		<Product_Link>https://petsalis.gr/product/%cf%83%ce%b1%ce%ba%ce%bf%cf%85%ce%bb%ce%b1-%ce%b1%cf%80%ce%bf%cf%81%cf%81%ce%b9%ce%bc%ce%b1%cf%84%cf%89%ce%bd-%ce%b1%cf%81%cf%89%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7-70%cf%8790cm/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B13-600x338.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10577,7 +10577,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76014</ID>
-		<Name>ΣΑΚΟΥΛΕΣ ΑΠΟΡ/ΤΩΝ 70x90 10τεμ ΜΕ ΑΡΩΜΑ LIME</Name>
+		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ </Name>
 		<Product_Link>https://exoplismosltd.gr/shop-2/kathariotita/gantia-sakoules-aporrimaton/sakoules-rola/%CF%83%CE%B1%CE%BA%CE%BF%CF%8D%CE%BB%CE%B5%CF%82-%CE%B1%CF%80%CE%BF%CF%81%CF%81%CE%B9%CE%BC%CE%AC%CF%84%CF%89%CE%BD-70x90cm-%CE%B2%CE%B1%CF%81%CE%AD%CF%89%CF%82-%CF%84%CF%8D%CF%80%CE%BF%CF%85-%CF%83/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B14-600x338.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10611,7 +10611,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76031</ID>
-		<Name>SOFTLINE ΣΑΚ. ΑΠΟΡ/ΤΩΝ 50x50 30s (ΑΣΠΡΗ)   </Name>
+		<Name>Softline Fresher Αρωματικές Σακούλες Απορριμάτων 50x50cm 30τμχ Λευκές</Name>
 		<Product_Link>https://beautyfree.gr/el/diafora-gia-to-spiti/3048-softline-50x50-30-5200128640378.html</Product_Link>
 		<Image_Link>https://beautyfree.gr/32902-large_default/softline-50x50-30.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10856,7 +10856,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76805</ID>
-		<Name>ΟΔΟΝΤΟΓΛΥΦΙΔΕΣ ΒΑΖΟ 200 ΤΕΜ</Name>
+		<Name>Θαλασσινός Οδοντογλυφίδα 200τμχ </Name>
 		<Product_Link>https://www.skroutz.gr/s/39817281/THalassinos-Odontoglyfida-200tmch-163766.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/039817/39817281/xlarge_20221202110631_thalassinos_odontoglyfida_200tmch_163766.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10874,7 +10874,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>76807</ID>
-		<Name>ΟΔΟΝΤΟΓΛΥΦΙΔΕΣ ΜΕ ΣΕΛΟΦΑΝ 1000 ΤΕΜ</Name>
+		<Name>Θαλασσινός Οδοντογλυφίδα 1000τμχ </Name>
 		<Product_Link>https://www.skroutz.gr/s/42928078/THalassinos-Odontoglyfida-1000tmch.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/042928/42928078/20230614155817_thalassinos_odontoglyfida_1000tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10891,7 +10891,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>77002</ID>
-		<Name>ΠΕΤΣΕΤΑΚΙΑ ΚΟΥΖΙΝΑΣ 45Χ65 ΣΕΤ 2 ΤΕΜ </Name>
+		<Name>Flamingo Πετσέτα Κουζίνας 65x45cm 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/41951652/Flamingo-Petseta-Kouzinas-65x45cm-5206952011223-1-2tmch.html</Product_Link>
 		<Image_Link>https://choliastos.gr/images/stories/virtuemart/product/1671087188349.png</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10910,7 +10910,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>77011</ID>
-		<Name>ΣΕΤ ΓΑΝΤΙ &amp; ΠΙΑΣΤΡΑ ΓΚΡΙ (Ανθεκτικό στην θερμότητα)</Name>
+		<Name>Spitishop Harold Σετ Γάντι &amp; Πιάστρα Κουζίνας Υφασμάτινο σε Γκρι Χρώμα 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/52217749/Flamingo-Ganti-Kouzinas-Yfasmatino-Gri.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/052217/52217749/20240723160839_flamingo_ganti_kouzinas_yfasmatino_gri.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10925,11 +10925,11 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 Φροντίδα: Συνιστάται πλύσιμο στο πλυντήριο ρούχων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού. Αποφύγετε το στεγνό καθάρισμα.
 Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
 		<Barcode>3574387566031</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 	</product>
 	<product>
 		<ID>77012</ID>
-		<Name>ΣΕΤ ΓΑΝΤΙ &amp; ΠΙΑΣΤΡΑ ΚΟΚΚΙΝΟ (Ανθεκτικό στην θερμότητα)</Name>
+		<Name>Kipper Harold Σετ Γάντι &amp; Πιάστρα Κουζίνας Υφασμάτινο σε Κόκκινο Χρώμα 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/52217750/Flamingo-Ganti-Kouzinas-Yfasmatino-Kokkino.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/052217/52217750/20240723160840_flamingo_ganti_kouzinas_yfasmatino_kokkino.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10948,7 +10948,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 	</product>
 	<product>
 		<ID>77013</ID>
-		<Name>ΣΕΤ ΓΑΝΤΙ &amp; ΠΙΑΣΤΡΑ ΜΠΛΕ (Ανθεκτικό στην θερμότητα)</Name>
+		<Name>Flamingo Harold Σετ Γάντι &amp; Πιάστρα Κουζίνας Υφασμάτινο σε Μπλε Χρώμα 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/30699324/Flamingo-Harold-Set-Ganti-Piastra-Kouzinas-Yfasmatino-se-Mple-CHroma-2tmch.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/030699/30699324/20210906170615_flamingo_set_gantia_piastres_harold_blue_yfasmatino_2tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -11043,7 +11043,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0247</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 120ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 100 τεμαχίων.</Description>
 		<Barcode>5202054359553</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>78102</ID>
@@ -11128,7 +11128,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0773</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.
 </Description>
-		<Barcode>5200425303099</Barcode>
+		<Barcode>5202054467555</Barcode>
 		<Quantity>57</Quantity>
 	</product>
 	<product>
@@ -11173,7 +11173,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.94</Price>
+		<Price>1.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11183,20 +11183,37 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>60</Quantity>
 	</product>
 	<product>
-		<ID>78109</ID>
-		<Name>ΚΑΠΑΚΙ ΠΙΠΙΛΑ ΜΑΥΡΗ 90mm για 14-16oz 100 ΤΕΜ</Name>
-		<Product_Link>https://domanipack.gr/-koutiapitsa/1478--14-16oz-100-5203157094300.html</Product_Link>
-		<Image_Link>https://domanipack.gr/2025-large_default/-14-16oz-100.jpg</Image_Link>
+		<ID>781081</ID>
+		<Name>ΚΑΠΑΚΙ ΠΙΠΙΛΑ Λευκό 80mm για 8-12oz 100 ΤΕΜ</Name>
+		<Product_Link>https://www.skroutz.gr/s/37484497/Kapakia-Pipila-Q0295WT-Leyko-100tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/037484/37484497/20220804162931_kapakia_pipila_q0295wt_leyko_100tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.08</Price>
+		<Price>1.76</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1290</MPN>
+		<Description>Καπάκι πιπίλα λευκό "Tube" για ποτήρι χάρτινο 8oz. </Description>
+		<Barcode>5206970014954</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>78109</ID>
+		<Name>ΚΑΠΑΚΙ ΠΙΠΙΛΑ ΜΑΥΡΗ 90mm για 14-16oz 100 ΤΕΜ</Name>
+		<Product_Link>https://www.skroutz.gr/s/38572944/Kapakia-Pipila-14-16oz-Mayro-100tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/038572/38572944/20221007114552_kapakia_pipila_14_16oz_mayro_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
-		<Barcode>5206970014954</Barcode>
+		<Barcode>15202054457515</Barcode>
 		<Quantity>60</Quantity>
 	</product>
 	<product>
@@ -11523,7 +11540,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>• 10 τεμάχια
 • Διάμετρος: 18cm</Description>
 		<Barcode>5202054472962</Barcode>
-		<Quantity>68</Quantity>
+		<Quantity>64</Quantity>
 	</product>
 	<product>
 		<ID>78622</ID>
