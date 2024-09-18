@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-17 16:26</created_at>
+	<created_at>2024-09-18 15:32</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1894,7 +1894,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<Barcode>90415708</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>270</Quantity>
 	</product>
 	<product>
 		<ID>15101</ID>
@@ -2476,7 +2476,7 @@
 		<Quantity>20</Quantity>
 	</product>
 	<product>
-		<ID>18104</ID>
+		<ID>18103</ID>
 		<Name>Life Μπουκάλι Ice Tea Matcha με Πράσινο Μήλο &amp; Δυόσμος Χωρίς Ανθρακικό Χωρίς Ζάχαρη 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43961066/Life-Tsai-Matcha-Dyosmos-0-500ml.html?product_id=163156596</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/043961/43961066/20230710155401_life_tsai_matcha_dyosmos_0_500ml.jpeg</Image_Link>
@@ -2512,8 +2512,8 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>18201</ID>
-		<Name>Fuzetea Black Ice Tea Ροδάκινο με εκχύλισμα Ιβίσκου</Name>
+		<ID>18202</ID>
+		<Name>Fuzetea Black Ice Tea Ροδάκινο με εκχύλισμα Ιβίσκου 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/55267221/Fuzetea-Black-Ice-Tea-Rodakino-me-ekchylisma-Iviskou-Fuze-500-ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/055267/55267221/20240731132331_fuzetea_black_ice_tea_rodakino_me_ekchylisma_iviskou_fuze_500_ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2617,7 +2617,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Είναι  ένα ανθρακούχο ποτό με με χυμό λεμονιού και αρώματα μαστίχας, λεμονιού και ginger, που περικλείει όλα τα αρώματα των χαρακτηριστικών αυτών  προϊόντων της Χίου. Με τn νέα γεύση λεμόνι και τζίντζερ, η απόλαυση γίνεται ακόμη πιο δελεαστική.  Το απολαυστικό μαστιχόνερο MastiH2O λεμόνι και τζίντζερ Στουπάκης μπορεί να σε  συνοδεύσει οποιαδήποτε στιγμή της ημέρας. Χρησιμοποιήστε την φαντασία  σας και δημιουργήστε τους ξεχωριστούς &amp; υγιεινούς συνδυασμούς που  σας αρέσουν.</Description>
 		<Barcode>5200101983447</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>22001</ID>
@@ -2635,7 +2635,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το Perrier, το Φυσικό Μεταλλικό νερό με προσθήκη διοξειδίου του άνθρακα, έχει καθιερωθεί ως την απόλυτα υγιεινή εναλλακτική επιλογή! Με τις 50 εκατομμύρια φυσαλίδες ανά λίτρο, σε δροσίζει όλη την διάρκεια της ημέρας!</Description>
 		<Barcode>3179730011369</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
 		<ID>22005</ID>
@@ -3312,7 +3312,7 @@
 		<MPN>1157</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Η Σαντορίνη του κτήματος Σιγάλας έχει χρώμα αχυρόξανθο με ελαφρές πρασινωπές ανταύγειες και λεπτά αρώματα κυρίως εσπεριδοειδών. Η γευστική πυκνότητα και οξύτητα που αναδεικνύουν τα αρώματα, προσδίδουν φρεσκάδα και μακρά επίγευση στο κρασί. </Description>
-		<Barcode>5203133121214</Barcode>
+		<Barcode>5203133111116</Barcode>
 		<Quantity>48</Quantity>
 	</product>
 	<product>
@@ -3331,7 +3331,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Λευκό κρασί με απαλές πράσινες ανταύγειες και σύνθετη μύτη με φρέσκους ανθικούς χαρακτήρες να υπερισχύουν. Ακολουθούν νότες φλούδας λεμονιού και αρώματα τροπικών φρούτων όπως αβοκάντο.</Description>
 		<Barcode>5203773000184</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>47752</ID>
@@ -8433,7 +8433,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Το Vanish Oxi Advance αφαιρεί ακόμα και τους δύσκολους λεκέδες που έχουν στεγνώσει για τα καλά.
 Με την ειδικά εξελιγμένη του σύνθεση αφαιρεί όλα τα είδη των λεκέδων, από αυτούς που εύκολα μπορείτε να δείτε έως και τους πιο δύσκολους λεκέδες που μπορεί να κρύβονται σε διάφορα σημεία.</Description>
 		<Barcode>5011417570401</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>71331</ID>
@@ -9630,7 +9630,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
 		<Barcode>5204170300570</Barcode>
-		<Quantity>119</Quantity>
+		<Quantity>200</Quantity>
 	</product>
 	<product>
 		<ID>74242</ID>
@@ -13501,6 +13501,233 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Nestle. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 400gr.</Description>
 		<Barcode>5998710960620</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>86101</ID>
+		<Name>Χειροποίητα Μπισκότα Μπαράτ Αμυγδάλου 175gr</Name>
+		<Product_Link>https://www.barat.gr/product/mparat-amygdaloy/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%91%CE%9C%CE%A5%CE%93%CE%94%CE%91%CE%9B%CE%9F%CE%A5-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F-.jpg</Image_Link>
+		<Additional>https://i.imgur.com/elGo39g.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.28</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1291</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Είναι ένα χειροποίητο προϊόν, το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλούσια προσθήκη αμυγδάλου.</Description>
+		<Barcode>5200430910060</Barcode>
+		<Quantity>289</Quantity>
+	</product>
+	<product>
+		<ID>86102</ID>
+		<Name>Χειροποίητα Μπισκότα Μπαράτ Δημητριακών 140gr</Name>
+		<Product_Link>https://www.barat.gr/product/%ce%bc%cf%80%ce%b1%cf%81%ce%b1%cf%84-%ce%b2%cf%81%cf%89%ce%bc%ce%b7%cf%83-%ce%b4%ce%b7%ce%bc%ce%b7%cf%84%cf%81%ce%b9%ce%b1%ce%ba%cf%89%ce%bd/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2024/02/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%94%CE%97%CE%9C%CE%97%CE%A4%CE%A1%CE%99%CE%91%CE%9A%CE%A9%CE%9D-CEREAL-%CE%A7%CE%95%CE%99-1.jpg</Image_Link>
+		<Additional>https://i.imgur.com/S7LenKZ.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.66</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1292</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Αποτελεί έναν μοναδικό συνδυασμό από αγνά υλικά και παραδοσιακή παραγωγική διαδικασία. Φτιαγμένα με μεράκι, προσφέρουν πλούσια γεύση δημητριακών, ενώ η χειροποίητη παρασκευή τους εξασφαλίζει την ιδιαίτερη ποιότητα και φρεσκάδα σε κάθε μπουκιά.</Description>
+		<Barcode>5200430910114</Barcode>
+		<Quantity>38</Quantity>
+	</product>
+	<product>
+		<ID>86103</ID>
+		<Name>Χειροποίητα Μπισκότα Μπαράτ Κάσιους-Κράνμπερι 150gr</Name>
+		<Product_Link>https://www.barat.gr/product/mparat-kasioys-kranmperi/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%9A%CE%91%CE%A3%CE%99%CE%9F%CE%A5%CE%A3-%CE%9A%CE%A1%CE%91%CE%9D%CE%9C%CE%A0%CE%95%CE%A1%CE%99-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image_Link>
+		<Additional>https://i.imgur.com/92k9tKl.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1293</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το μπισκότο μπαράτ έχει κατι το μοναδικό! Είναι ένα χειροποίητο προϊόν το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλούσια προσθήκη κάσιους και κράνμπερι.</Description>
+		<Barcode>5200430910077</Barcode>
+		<Quantity>208</Quantity>
+	</product>
+	<product>
+		<ID>86104</ID>
+		<Name>Χειροποίητα Μπισκότα Μπαράτ Σόκο-Πορτοκάλι 160gr</Name>
+		<Product_Link>https://www.barat.gr/product/mparat-soko-portokali/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%A3%CE%9F%CE%9A%CE%9F-%CE%A0%CE%9F%CE%A1%CE%A4%CE%9F%CE%9A%CE%91%CE%9B%CE%99-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image_Link>
+		<Additional>https://i.imgur.com/oErcC6a.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.84</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1294</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το μπισκότο μπαράτ έχει κατι το μοναδικό! Είναι ένα χειροποίητο προϊόν, το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλούσια προσθήκη ξύσματος πορτοκαλιού και τη γραμμική επικάλυψη του μπισκότου με μαύρη σοκολάτα.</Description>
+		<Barcode>5200430910237</Barcode>
+		<Quantity>95</Quantity>
+	</product>
+	<product>
+		<ID>86105</ID>
+		<Name>Χειροποίητα Μπισκότα Μπαράτ Σουσάμι-Ταχίνι 150gr</Name>
+		<Product_Link>https://www.barat.gr/product/mparat-soysami/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9C%CE%A0%CE%91%CE%A1%CE%91%CE%A4-%CE%A3%CE%9F%CE%A5%CE%A3%CE%91%CE%9C%CE%99-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image_Link>
+		<Additional>https://i.imgur.com/obcaCf9.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.72</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1295</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το μπισκότο μπαράτ έχει κατι το μοναδικο! Είναι ένα χειροποίητο προϊόν, το οποίο έχει μια ιδιαίτερη παραγωγική διαδικασία. Η ξεχωριστή γεύση του προέρχεται από τη συγκεκριμένη αυτή διαδικασία σε σύνθεση με την πλόυσια προσθήκη σπόρων σουσαμιού και σταφίδας!</Description>
+		<Barcode>5200430905615</Barcode>
+		<Quantity>45</Quantity>
+	</product>
+	<product>
+		<ID>86121</ID>
+		<Name>Χειροποίητα Κουλουράκια Μπαράτ Γαρίδα Αμυγδάλου 130gr</Name>
+		<Product_Link>https://www.barat.gr/product/garida-amygdaloy/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%93%CE%91%CE%A1%CE%99%CE%94%CE%91-%CE%91%CE%9C%CE%A5%CE%93%CE%94%CE%91%CE%9B%CE%9F%CE%A5_ALMOND-PETAL.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.66</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1296</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το κουλούρι μπαράτ έχει κάτι το μοναδικό! Συνδυάζει την ιδιαίτερη γεύση της γαρίδας με την πλούσια υφή του αμυγδάλου. Χειροποίητα με φροντίδα, αποτελούν μια πρωτότυπη και γευστική επιλογή, φτιαγμένα από αγνά υλικά για μια μοναδική γαστρονομική εμπειρία.</Description>
+		<Barcode>5200430906476</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>86122</ID>
+		<Name>Χειροποίητα Κουλουράκια Μπαράτ Γαρίδα Ταχινιού 120gr</Name>
+		<Product_Link>https://www.barat.gr/product/%ce%b3%ce%b1%cf%81%ce%b9%ce%b4%ce%b1-%cf%84%ce%b1%cf%87%ce%b9%ce%bd%ce%b9/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2023/12/%CE%93%CE%91%CE%A1%CE%99%CE%94%CE%91-%CE%A4%CE%91%CE%A7%CE%99%CE%9D%CE%99_TAHINI-PETAL.jpg</Image_Link>
+		<Additional>https://i.imgur.com/Ie8J6q0.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.41</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1297</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το κουλούρι μπαράτ έχει κάτι το μοναδικό! Συνδυάζει την ξεχωριστή γεύση της γαρίδας με την πλούσια υφή και θρεπτικότητα του ταχινιού. Φτιαγμένα με προσοχή και αγνά υλικά, προσφέρουν έναν πρωτότυπο συνδυασμό γεύσεων για τους λάτρεις του ξεχωριστού και ποιοτικού σνακ.</Description>
+		<Barcode>5200430910350</Barcode>
+		<Quantity>37</Quantity>
+	</product>
+	<product>
+		<ID>86131</ID>
+		<Name>Χειροποίητα Μπισκότα Μπαράτ Αμύγδαλο-Σταφίδα Χωρίς Ζάχαρη 160gr</Name>
+		<Product_Link>https://www.barat.gr/product/amygdalo-stafida/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2023/11/NO-ADDED-SUGAR-AMY%CE%93%CE%94%CE%91%CE%9B%CE%9F-%CE%A3%CE%A4%CE%91%CE%A6%CE%99%CE%94%CE%91.jpg</Image_Link>
+		<Additional>https://i.imgur.com/TE1btEH.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.84</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1298</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Προσφέρει έναν υγιεινό και γευστικό συνδυασμό αμυγδάλου και σταφίδας, χωρίς προσθήκη ζάχαρης. Χειροποίητα με φυσικά συστατικά, είναι η ιδανική επιλογή για όσους αναζητούν μια απολαυστική και θρεπτική λύση χωρίς συμβιβασμούς στη γεύση.</Description>
+		<Barcode>5200430910336</Barcode>
+		<Quantity>114</Quantity>
+	</product>
+	<product>
+		<ID>86132</ID>
+		<Name>Χειροποίητα Μπισκότα Μπαράτ Κάσιους-Κράνμπερι Χωρίς Ζάχαρη 160gr</Name>
+		<Product_Link>https://www.barat.gr/product/kasioys-kranmperi/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2023/11/NO-ADDED-SUGAR-%CE%9A%CE%91%CE%A3%CE%99%CE%9F%CE%A5%CE%A3-%CE%9A%CE%A1%CE%91%CE%9D%CE%9C%CE%A0%CE%95%CE%A1%CE%99.jpg</Image_Link>
+		<Additional>https://i.imgur.com/jBiAGzS.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.84</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1299</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το μπισκότο μπαράτ έχει κάτι το μοναδικό! Συνδυάζει την πλούσια γεύση των κάσιους με τη φυσική γλύκα των κράνμπερι, χωρίς προσθήκη ζάχαρης. Χειροποίητα και φτιαγμένα με προσεγμένα υλικά, αποτελούν μια θρεπτική και απολαυστική επιλογή για όσους επιθυμούν έναν υγιεινό και γευστικό σνακ.</Description>
+		<Barcode>5200430910343</Barcode>
+		<Quantity>114</Quantity>
+	</product>
+	<product>
+		<ID>86141</ID>
+		<Name>Χειροποίητα Κριτσίνια Μπαράτ Ηλιόσπορου Mini 150gr</Name>
+		<Product_Link>https://www.barat.gr/product/kritsini-iliosporo/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9A%CE%A1%CE%99%CE%A4%CE%A3%CE%99%CE%9D%CE%99-%CE%97%CE%9B%CE%99%CE%9F%CE%A3%CE%A0%CE%9F%CE%A1%CE%9F%CE%A3_SUNFLOWER-SEED-BREADSTICK.jpg</Image_Link>
+		<Additional>https://i.imgur.com/uTw3P0M.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.91</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1301</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το κριτσίνι μπαράτ έχει κάτι το μοναδικό! Είναι ένα τραγανό και γευστικό σνακ, φτιαγμένο από αγνά υλικά και πλούσια σε ηλιόσπορο. Η χειροποίητη παρασκευή τους εξασφαλίζει την ιδιαίτερη ποιότητα και φρεσκάδα, κάνοντάς τα ιδανική επιλογή για ένα υγιεινό και χορταστικό κολατσιό.</Description>
+		<Barcode>5200430902720</Barcode>
+		<Quantity>156</Quantity>
+	</product>
+	<product>
+		<ID>86142</ID>
+		<Name>Χειροποίητα Κριτσίνια Μπαράτ Τυρί Mini 150gr</Name>
+		<Product_Link>https://www.barat.gr/product/kritsini-tyri/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9A%CE%A1%CE%99%CE%A4%CE%A3%CE%99%CE%9D%CE%99-%CE%A4%CE%A5%CE%A1%CE%99-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image_Link>
+		<Additional>https://i.imgur.com/zQ0OvlW.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.16</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1302</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το κριτσίνι μπαράτ έχει κάτι το μοναδικό! Με πλούσια γεύση τυριού, φτιαγμένα με μεράκι και αγνά υλικά. Η χειροποίητη παρασκευή τους εγγυάται φρεσκάδα και ποιότητα, προσφέροντας μια νόστιμη και απολαυστική επιλογή για κάθε στιγμή της ημέρας.</Description>
+		<Barcode>5200430905950</Barcode>
+		<Quantity>136</Quantity>
+	</product>
+	<product>
+		<ID>86151</ID>
+		<Name>Χειροποίητα Κουλουράκια Μπαράτ Κρίκος Ελιάς 140gr</Name>
+		<Product_Link>https://www.barat.gr/product/krikos-elias/</Product_Link>
+		<Image_Link>https://www.barat.gr/el/wp-content/uploads/2022/03/%CE%9A%CE%A1%CE%99%CE%9A%CE%9F%CE%A3-%CE%95%CE%9B%CE%99%CE%91%CE%A3-%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A4%CE%9F.jpg</Image_Link>
+		<Additional>https://i.imgur.com/KhGrAUA.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.59</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Κέικ, Τσουρέκια &amp; Κρουασάν</Category_Path>
+		<Manufacturer>BARAT</Manufacturer>
+		<MPN>1303</MPN>
+		<Weight>0.2 kg</Weight>
+		<Description>Το κουλούρι μπαράτ έχει κάτι το μοναδικό! Είναι μια γευστική πρόταση με έντονη την παρουσία της ελιάς, φτιαγμένα με αγνά υλικά και παραδοσιακή χειροποίητη διαδικασία. Κάθε κρίκος προσφέρει τραγανή υφή και πλούσια γεύση, ιδανικό σνακ για τους λάτρεις της ελιάς και των ποιοτικών προϊόντων.</Description>
+		<Barcode>5200430906957</Barcode>
+		<Quantity>62</Quantity>
 	</product>
 	<product>
 		<ID>99001</ID>
