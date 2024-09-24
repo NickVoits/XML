@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-23 16:44</created_at>
+	<created_at>2024-09-24 13:28</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1727,7 +1727,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<Barcode>5201946910445</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>114</Quantity>
 	</product>
 	<product>
 		<ID>13037</ID>
@@ -1745,7 +1745,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>113</Quantity>
+		<Quantity>112</Quantity>
 	</product>
 	<product>
 		<ID>13038</ID>
@@ -2585,7 +2585,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
 		<Barcode>5200128720049</Barcode>
-		<Quantity>28</Quantity>
+		<Quantity>8</Quantity>
 	</product>
 	<product>
 		<ID>18302</ID>
@@ -4107,6 +4107,36 @@
 		<Quantity>12</Quantity>
 	</product>
 	<product>
+		<ID>51301</ID>
+		<Name>Ισίδωρου Αρβανίτη Ούζο Πλωμαρίου 200ml</Name>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.83</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+	</product>
+	<product>
+		<ID>51303</ID>
+		<Name>Ισίδωρου Αρβανίτη Ούζο Πλωμαρίου 700ml</Name>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>11.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+	</product>
+	<product>
+		<ID>51801</ID>
+		<Name>Πιτσιλαδή Ούζο 200ml</Name>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.05</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+	</product>
+	<product>
 		<ID>52101</ID>
 		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265103/Apostolakis-Tsipouro-me-glykaniso-50ml.html</Product_Link>
@@ -4114,7 +4144,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.23</Price>
+		<Price>1.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -4150,7 +4180,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.05</Price>
+		<Price>3.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -4168,7 +4198,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.9</Price>
+		<Price>13.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -4186,7 +4216,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.22</Price>
+		<Price>1.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -4222,7 +4252,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.95</Price>
+		<Price>3.87</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -4240,7 +4270,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.54</Price>
+		<Price>13.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -4276,7 +4306,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.22</Price>
+		<Price>2.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -4420,7 +4450,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.19</Price>
+		<Price>1.28</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -4438,7 +4468,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.06</Price>
+		<Price>2.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -4456,7 +4486,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.18</Price>
+		<Price>1.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -4474,7 +4504,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.01</Price>
+		<Price>2.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -4665,24 +4695,6 @@
 		<Quantity>3</Quantity>
 	</product>
 	<product>
-		<ID>552041</ID>
-		<Name>JOSE CUERVO BLACK MEDALLION 700ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/14282689/Jose-Cuervo-Black-Medallion-Tekila-38-700ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/014282/14282689/20220214114509_jose_cuervo_black_medallion_tekila_700ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>23.61</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>JOSE CUERVO</Manufacturer>
-		<MPN>1171</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Ωριμάζει για 12 μήνες σε ψημένα αμερικάνικα δρύινα βαρέλια και στη συνέχεια το μείγμα ωριμάζει για άλλα 3 χρόνια σε δρύινα βαρέλια. Αυτή η διαδικασία μετατρέπει το χρώμα της Jose Cuervo Black σε κεχριμπαρένιο μειώνει το παραδοσιακό άρωμα αγαύης προσδίδοντας ένα απαλότερο πιο έντονο καπνιστό χρώμα.</Description>
-		<Barcode>7501035010512</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>552061</ID>
 		<Name>EL JIMADOR REPOSADO 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5438842/el-Jimador-Reposado-Tekila-700ml.html</Product_Link>
@@ -4827,6 +4839,43 @@
 		<Quantity>11</Quantity>
 	</product>
 	<product>
+		<ID>554014</ID>
+		<Name>Bacardi Anejo 4 Years Old Ρούμι 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/20022842/Bacardi-Anejo-4-Years-Old-Roumi-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/020022/20022842/20200713135417_bacardi_anejo_4_years_old_roumi_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>25.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>BACARDI</Manufacturer>
+		<MPN>1360</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>To Bacardi Anejo Cuatro είναι ένα ρούμι παλαιωμένο σε Αμερικάνικα δρύινα βαρέλια για πάνω από 4 χρόνια στο ζεστό κλίμα της Καραϊβικής που έρχεται να προσφέρει μια μοναδική γευστική εμπειρία. Ο ισορροπημένος χαρακτήρας του και η σύνθετη γεύση με νότες από φρούτα το καθιστούν ιδανικό για την παρασκευή cocktail και για ανάμειξη με εντονότερα συνοδευτικά όπως ginger ale ή grapefruit soda.
+</Description>
+		<Barcode>7610113001431</Barcode>
+		<Quantity>12</Quantity>
+	</product>
+	<product>
+		<ID>55404</ID>
+		<Name>Mount Gay Eclipse Ρούμι 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5625280/Mount-Gay-Eclipse-Roumi-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/005625/5625280/20200629130800_mount_gay_eclipse_roumi_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>25.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>MOUNT GAY</Manufacturer>
+		<MPN>1361</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Tο Eclipse θεωρείται το σημείο αναφοράς για το Mount Gay Rum. Είναι ένα απαλό μείγμα από ρούμι μονής και διπλής απόσταξης, παλαιωμένο από 2-7 χρόνια. Για πολλούς λάτρεις του ρούμι, το Eclipse αποτελεί μέτρο σύγκρισης για όλα τα brands της κατηγορίας. Έχει ζωντανό, χρυσό-κεχριμπαρένιο χρώμα, καθώς και ένα ιδιαίτερα πλούσιο και σύνθετο άρωμα.</Description>
+		<Barcode>9501007100508</Barcode>
+		<Quantity>30</Quantity>
+	</product>
+	<product>
 		<ID>55405</ID>
 		<Name>RON VARADERO SILVER DRY RUM 1 Lit</Name>
 		<Product_Link>https://www.go-drink.gr/ron-varadero-silver-dry-1000ml8071340</Product_Link>
@@ -4897,6 +4946,25 @@
 		<Description>Ένα μοναδικό παλαιωμένο ρούμι που δημιουργεί τέλεια ισορροπημένα cocktails.</Description>
 		<Barcode>7460855200353</Barcode>
 		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>55412</ID>
+		<Name>Diplomatico Ρούμι Reserva Exclusiva 12 Ετών 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5693708/Diplomatico-Roumi-Reserva-Exclusiva-12-Eton-40-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/005693/5693708/20211118125814_diplomatico_reserva_exclusiva_roumi_40_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>37.85</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>DIPLOMATICO</Manufacturer>
+		<MPN>1362</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Diplomatico Reserva Exclusiva είναι ένα κομψό και σύνθετο ρούμι που κατασκευάζεται προσεκτικά από τα καθαρότερα ζαχαροκάλαμα της Βενεζουέλας.
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>7594003620059</Barcode>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>55503</ID>
@@ -5360,22 +5428,22 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>12</Quantity>
 	</product>
 	<product>
-		<ID>557033</ID>
-		<Name>Metaxa 7* Brandy 40% 50ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/5265139/Metaxa-7-Brandy-50ml.html</Product_Link>
-		<Image_Link>https://apostagma.eu/image/cache/catalog/5202795130015-550x550h.jpg</Image_Link>
+		<ID>55615</ID>
+		<Name>Underberg Digestive Λικέρ 20ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5269197/Underberg-Liker-20ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/005269/5269197/20200316164245_underberg_liker_20ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.41</Price>
+		<Price>1.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>METAXA</Manufacturer>
-		<MPN>1211</MPN>
+		<Manufacturer>UNDERBERG</Manufacturer>
+		<MPN>1363</MPN>
 		<Weight>0.05 kg</Weight>
-		<Description>Πρόκειται για ένα εκλεπτυσμένο ελληνικό μπράντι με 7 χρόνια παλαίωσης. Χαρακτηρίζεται από τη βελούδινη γεύση του, με νότες αποξηραμένων φρούτων, μπαχαρικών, και ώριμων αμπελόφυλλων. Το μικρό μέγεθος των 50ml το καθιστά ιδανικό για μια ξεχωριστή απόλαυση ή ως συνοδευτικό σε ένα ιδιαίτερο γεύμα.</Description>
-		<Barcode>5202795130015</Barcode>
-		<Quantity>0</Quantity>
+		<Description>To Underberg συνδυάζει, εδώ και παραπάνω από 150 χρόνια, αρωματικά βότανα από 43 διαφορετικές χώρες και εξάγεται σε 200 χώρες. Αναγνωρίζεται διεθνώς ως το πιο αποτελεσματικό χωνευτικό. Η ατομική του συσκευασία εξασφαλίζει τη φρεσκάδα του και την αποτελεσματικότητά του. Πικρό απόσταγμα που παρασκευάζεται με τη μυστική συνταγή της οικογένειας Underberg.</Description>
+		<Barcode>40341002</Barcode>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>55805</ID>
@@ -6131,7 +6199,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1047</MPN>
 		<Description>Οι Babylino Sensitive, διαθέτουν έναν υπερ-απορροφητικό πυρήνα που φυλακίζει αποτελεσματικά την υγρασία στο εσωτερικό, extra κυψέλες απαλότητας στο κάλυμμα και είναι εμπλουτισμένες με εκχύλισμα χαμομηλιού. </Description>
 		<Barcode>5201263826108</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>39</Quantity>
 	</product>
 	<product>
 		<ID>61107</ID>
@@ -6166,7 +6234,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>1.4 kg</Weight>
 		<Description>Περιλαμβάνει 72 τεμάχια μικρών πάνες σχεδιασμένες για μωρά με βάρος από 3 έως 6 κιλά. Αυτές οι πάνες ανήκουν στη σειρά PUFIES Trends, προσφέροντας άνεση και προστασία για το μωρό σας ενώ το κρατούν ξηρό και άνετο.</Description>
 		<Barcode>3800024027833</Barcode>
-		<Quantity>26</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>61113</ID>
@@ -6184,7 +6252,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>1.5 kg</Weight>
 		<Description>Οι Trusted Trends Pufies είναι πάνες για υγιή και χαρούμενα μωρά. Είναι κατασκευασμένες με καινοτόμες τεχνολογίες που εξουδετερώνουν τη μυρωδιά των ούρων, αφήνοντας μόνο το λεπτό άρωμα του μαλακού δέρματος του μωρού που είναι πάντα ευχάριστο. Οι πάνες έρχονται με πιστοποίηση Oeko-Tex, η οποία εγγυάται ότι είναι κατασκευασμένες από υλικά που έχουν περάσει αυστηρές δοκιμές με υψηλά πρότυπα ασφάλειας του μωρού. Σχεδιασμένο με την αγάπη και τη φροντίδα που διασφαλίζει την άνεση του μωρού, οι πάνες Pufies παρέχουν ξηρότητα χωρίς υπερχείλιση. Χρησιμοποιείται τεχνολογία υγρού σε γέλη.</Description>
 		<Barcode>3800024027840</Barcode>
-		<Quantity>55</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>61114</ID>
@@ -6458,7 +6526,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0581</MPN>
 		<Description>Ο αφρός ξυρίσματος Gillette βοηθά στην προστασία της επιδερμίδας σας για ένα βαθύ και άνετο ξύρισμα που αφήνει την επιδερμίδα λεία και απαλή.</Description>
 		<Barcode>7702018980925</Barcode>
-		<Quantity>38</Quantity>
+		<Quantity>34</Quantity>
 	</product>
 	<product>
 		<ID>62102</ID>
@@ -6493,6 +6561,24 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Αφρός ξυρίσματος που προστατεύει την ευαίσθητη επιδερμίδα από τους ερεθισμούς, τις κοκκινίλες και την αίσθηση καψίματος που προκαλεί το ξύρισμα.</Description>
 		<Barcode>4005900470713</Barcode>
 		<Quantity>19</Quantity>
+	</product>
+	<product>
+		<ID>62201</ID>
+		<Name>AXE AFTER SHAVE 100ml AFRICA</Name>
+		<Product_Link>https://www.skroutz.gr/s/46987692/Axe-After-Shave-Africa-100ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/046987/46987692/20231024111531_axe_after_shave_africa_100ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Είδη Ξυρίσματος &gt; After Shave</Category_Path>
+		<Manufacturer>AXE</Manufacturer>
+		<MPN>1364</MPN>
+		<Description>Το ΑΧΕ Africa After shave με κλασικό άρωμα από ένα εξωτικό μείγμα από ζεστά Αφρικανικά μπαχαρικά και αρώματα, είναι σχεδιασμένο να προστατεύει μετά το ξύρισμα. 
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και κάνει ό,τι υπόσχεται.</Description>
+		<Barcode>8720181343445</Barcode>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>63001</ID>
@@ -7061,6 +7147,23 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>24</Quantity>
 	</product>
 	<product>
+		<ID>64411</ID>
+		<Name>Durex Προφυλακτικά Classic 3τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/54131202/Durex-Profylaktika-Classic-3tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/054131/54131202/20240604094202_durex_profylaktika_classic_3tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.49</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Προφυλακτικά</Category_Path>
+		<Manufacturer>DUREX</Manufacturer>
+		<MPN>1365</MPN>
+		<Description>Ανθεκτικότητα, αξιοπιστία, υπεροχή από το 1929, τα κλασικά προφυλακτικά Durex είναι σχεδιασμένα με λιπαντικό σιλικόνης, εύκολη εφαρμογή Easy-on και άνετη διάμετρο με ονομαστικό πλάτος 56mm.</Description>
+		<Barcode>5038483194669</Barcode>
+		<Quantity>40</Quantity>
+	</product>
+	<product>
 		<ID>64302</ID>
 		<Name>Viosarp Μάσκα Προστασίας Υφασμάτινη 2τμχ σε διάφορα χρώματα</Name>
 		<Product_Link>https://www.skroutz.gr/s/32918795/Viosarp-Maska-Prostasias-Yfasmatini-se-Leyko-chroma-30294-2tmch.html</Product_Link>
@@ -7160,7 +7263,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1249</MPN>
 		<Description>Το κρεμοσάπουνο Natura Vanilla Caramel με φυτικό εκχύλισμα καλέντουλας, λειτουργεί σαν ένα φυσικό μαλακτικό για τα χέρια, ενώ παράλληλα τα προστατεύει από ερεθισμούς.</Description>
 		<Barcode>5201109001638</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>45</Quantity>
 	</product>
 	<product>
 		<ID>65052</ID>
@@ -7249,7 +7352,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1005</MPN>
 		<Description>Ενυδατική βουτυρώδης κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει μέλι και γιαούρτι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας.</Description>
 		<Barcode>5208005110020</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>67102</ID>
@@ -7283,7 +7386,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1260</MPN>
 		<Description>Ενυδατική βουτυρώδης κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει αλόη βέρα και ρόδι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Δυναμώνει, αναζωογονεί και αποκαθιστά την ενυδάτωση του δέρματος. Εμπεριέχει αλόη βέρα, χαμομήλι, αμυγδαλέλαιο, βούτυρο καριτέ και κερί μέλισσας.</Description>
 		<Barcode>5208005100441</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>67111</ID>
@@ -7300,7 +7403,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1261</MPN>
 		<Description>Γαλάκτωμα Σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής.Θρέφει, ενεργοποιεί, καταπραΰνει τους ερεθισμούς, επιταχύνει την επούλωση των πληγών. Έχει ευεργετική επίδραση διατηρώντας το κατάλληλο επίπεδο ενυδάτωσης του δέρματος και ενισχύει την ελαστικότητά του. . Η φόρμουλά του εμπεριέχει μέλι βέρα και γιαούρτι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας.</Description>
 		<Barcode>5208005110051</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>67151</ID>
@@ -7319,7 +7422,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Τύπος: Κρέμα
 •Περιοχή Χρήσης: Για όλο το Σώμα, Πρόσωπο</Description>
 		<Barcode>5208005110136</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>67161</ID>
@@ -7381,7 +7484,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Δράση: Ενυδάτωση
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και απορροφάται εύκολα.</Description>
 		<Barcode>5208005110082</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>67203</ID>
@@ -7402,7 +7505,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Συστατικό: Aloe Vera
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και απορροφάται εύκολα.</Description>
 		<Barcode>5208005100427</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>67211</ID>
@@ -7422,7 +7525,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Δράση: Ανάπλαση, Ενυδάτωση
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5208005110174</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>67212</ID>
@@ -7443,7 +7546,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Συστατικό: Ουρία
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5208005110181</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>67213</ID>
@@ -7503,7 +7606,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 •Είδη: Κρέμα
 •Χρήση: Κυτταρίτιδα, Σύσφιξη</Description>
 		<Barcode>5208005100496</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>65121</ID>
@@ -7731,6 +7834,155 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>83</Quantity>
 	</product>
 	<product>
+		<ID>66021</ID>
+		<Name>L'Oreal Paris Elvive Color Vive Σαμπουάν για Διατήρηση Χρώματος για Βαμμένα Μαλλιά 400ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/11715739/L-Oreal-Paris-Elvive-Color-Vive-Sampouan-gia-Diatirisi-CHromatos-gia-Vammena-Mallia-400ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/011715/11715739/20170420132210_l_oreal_elvive_color_vive_400ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
+		<Manufacturer>LOREAL PARIS</Manufacturer>
+		<MPN>1366</MPN>
+		<Description>Σαμπουάν περιποίησης Elvive Color Vive για βαμμένα μαλλιά ή μαλλιά με ανταύγειες. Προσφέρει ολοκληρωμένη φροντίδα για χρώμα με μεγάλη διάρκεια.</Description>
+		<Barcode>3600520288710</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>66022</ID>
+		<Name>L'Oreal Paris Elvive Ολική Αναδόμηση 5 Σαμπουάν Αναδόμησης 400ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/54912414/L-Oreal-Paris-Elvive-Oliki-Anadomisi-5-Sampouan-Anadomisis-400ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/054912/54912414/20240712140750_l_oreal_paris_elvive_oliki_anadomisi_5_sampouan_anadomisis_400ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
+		<Manufacturer>LOREAL PARIS</Manufacturer>
+		<MPN>1367</MPN>
+		<Description>Σαμπουάν αναδόμησης και επανόρθωσης των μαλλιών για καθημερινή χρήση.
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>3600521705971</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>66023</ID>
+		<Name>L'Oreal Paris Elvive Dream Long Σαμπουάν Λείανσης για Ταλαιπωρημένα Μαλλιά 400ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/15822574/L-Oreal-Paris-Elvive-Dream-Long-Sampouan-Leiansis-gia-Talaiporimena-Mallia-400ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/015822/15822574/20180914104045_l_oreal_elvive_dream_long_shampoo_400ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
+		<Manufacturer>LOREAL PARIS</Manufacturer>
+		<MPN>1368</MPN>
+		<Description>Σαμπουάν για αδύναμα και ταλαιπωρημένα μαλλιά.
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>3600523586400</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>66026</ID>
+		<Name>L'Oreal Paris Elvive Color Vive Conditioner Προστασίας Χρώματος για Βαμμένα Μαλλιά 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/55033959/L-Oreal-Paris-Elvive-Color-Vive-Conditioner-Prostasias-CHromatos-gia-Vammena-Mallia-300ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/055033/55033959/20240722165107_l_oreal_paris_elvive_color_vive_conditioner_prostasias_chromatos_gia_vammena_mallia_300ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Φροντίδα Μαλλιών &gt; Conditioner Μαλλιών</Category_Path>
+		<Manufacturer>LOREAL PARIS</Manufacturer>
+		<MPN>1369</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+    Δράση : Προστασία Χρώματος
+    Τύπος Μαλλιών: Βαμμένα
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και προσφέρει ικανοποιητική ενυδάτωση.</Description>
+		<Barcode>3600524016265</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>66027</ID>
+		<Name>L'Oreal Paris Elvive Total Repair 5 Conditioner Αναδόμησης/θρέψης για Όλους τους Τύπους Μαλλιών 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/55033998/L-Oreal-Paris-Elvive-Total-Repair-5-Conditioner-Anadomisis-threpsis-gia-Olous-tous-Typous-Mallion-300ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/055033/55033998/20240722165147_l_oreal_paris_elvive_total_repair_5_conditioner_anadomisis_threpsis_gia_olous_tous_typous_mallion_300ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Φροντίδα Μαλλιών &gt; Conditioner Μαλλιών</Category_Path>
+		<Manufacturer>LOREAL PARIS</Manufacturer>
+		<MPN>1370</MPN>
+		<Description>Conditioner για αναδόμηση/θρέψη της L'Oreal Paris, κατάλληλο για όλους τους τύπους μαλλιών, σε μορφή κρέμας. Βοηθάει στην επανόρθωση των μαλλιών χωρίς να τα βαραίνει και μεταμορφώνει τα ταλαιπωρημένα μαλλιά σε πιο υγιή, πιο λαμπερά και πιο δυνατά. Στοχεύει στις περιοχές των μαλλιών με τη μεγαλύτερη φθορά και προσφέρει ενισχυμένη ενυδάτωση, μειώνοντας έτσι την ξηρότητα και τη θαμπάδα τους.
+
+    Δράση : Αναδόμηση/Θρέψη
+    Τύπος Μαλλιών: Όλοι οι τύποι
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>3600524016272</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>66028</ID>
+		<Name>L'Oreal Paris Elvive Dream Long Conditioner Ενυδάτωσης για Όλους τους Τύπους Μαλλιών 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/21344190/L-Oreal-Paris-Elvive-Dream-Long-Conditioner-Enydatosis-gia-Olous-tous-Typous-Mallion-300ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/021344/21344190/20191213111023_l_oreal_elvive_dream_lengths_long_conditioner_500ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Φροντίδα Μαλλιών &gt; Conditioner Μαλλιών</Category_Path>
+		<Manufacturer>LOREAL PARIS</Manufacturer>
+		<MPN>1371</MPN>
+		<Description>Μαλακτική κρέμα που ξεμπερδεύει τα μακριά μαλλιά. Η φυτική κερατίνη, οι βιταμίνες και το καστορέλαιο, που περιέχει, θρέφουν εντατικά τα μαλλιά, θωρακίζουν και ενδυναμώνουν τα μήκη.</Description>
+		<Barcode>3600524016227</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>66031</ID>
+		<Name>Head &amp; Shoulders Classic Clean Σαμπουάν κατά της Πιτυρίδας για Όλους τους Τύπους Μαλλιών 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/39871665/Head-Shoulders-Classic-Clean-Sampouan-kata-tis-Pityridas-gia-Olous-tous-Typous-Mallion-300ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/039871/39871665/20231030102103_head_shoulders_classic_clean_sampouan_kata_tis_pityridas_gia_olous_tous_typous_mallion_300ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.86</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
+		<Manufacturer>HEAD &amp; SHOULDERS</Manufacturer>
+		<MPN>1372</MPN>
+		<Description>Το σαμπουάν Head &amp; Shoulders με τη σύνθεση τριπλής δράσης περιποιείται, προστατεύει και ενυδατώνει (με συχνή χρήση) το τριχωτό της κεφαλής και τα μαλλιά προσφέροντας έως και 100% μαλλιά χωρίς πιτυρίδα, για να έχετε όμορφα, υγιή μαλλιά.</Description>
+		<Barcode>8001090047014</Barcode>
+		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>66032</ID>
+		<Name>Head &amp; Shoulders Men Σαμπουάν κατά της Πιτυρίδας για Όλους τους Τύπους Μαλλιών 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/39871624/Head-Shoulders-Men-Sampouan-kata-tis-Pityridas-gia-Olous-tous-Typous-Mallion-300ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/039871/39871624/20230707131341_head_shoulders_men_sampouan_kata_tis_pityridas_gia_olous_tous_typous_mallion_300ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.86</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
+		<Manufacturer>HEAD &amp; SHOULDERS</Manufacturer>
+		<MPN>1373</MPN>
+		<Description>Σαμπουάν κατά της πιτυρίδας της Head &amp; Shoulders, κατάλληλο για όλους τους τύπους μαλλιών.
+    Τύπος Μαλλιών: Όλοι οι Τύποι
+    Δράση: Πιτυρίδα</Description>
+		<Barcode>8001090047861</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>66051</ID>
 		<Name>Syoss Color Protect Shampoo 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4973417/Syoss-Color-Protect-Shampoo-750ml.html</Product_Link>
@@ -7854,6 +8106,414 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Ultrex Men Legend by CR7 με την υπογραφή του Ronaldo. Κατά της πιτυρίδας και της λιπαρότητας, είναι ειδικά σχεδιασμένο για το ανδρικό τριχωτό της κεφαλής που είναι πιο αδύναμο και πιο επιρρεπές στην απώλεια πρωτεϊνών.</Description>
 		<Barcode>8710847997471</Barcode>
 		<Quantity>120</Quantity>
+	</product>
+	<product>
+		<ID>66501</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 1 Μαύρο Μπλε 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/9345251/Schwarzkopf-Palette-Intensive-Color-Creme-1-Mayro-Mple-50ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/009345/9345251/20211122104948_schwarzkopf_palette_intensive_color_creme_1_mayro_mple_50ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1374</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη.</Description>
+		<Barcode>5201395645110</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66502</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 10.1 Κατάξανθο Σαντρέ 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/16456056/Schwarzkopf-Palette-Intensive-Color-Creme-10-1-Kataxantho-Santre-50ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/016456/16456056/20181112150109_schwarzkopf_intensive_color_creme_10_1_kataxantho_santre.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1375</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια</Description>
+		<Barcode>5201395646018</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66503</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 10.2 Υπέρξανθο Φυμέ 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/17818525/Schwarzkopf-Palette-Intensive-Color-Creme-10-2-Yperxantho-Fyme-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/017818/17818525/20190320145803_schwarzkopf_palette_intensive_color_cream_10_2_yperxantho_fyme.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1376</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143734653</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66504</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 12.21 Κατάξανθο Φυμέ Σαντρέ 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/41638609/Schwarzkopf-Palette-Intensive-Color-Creme-12-21-Kataxantho-Fyme-Santre-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/041638/41638609/20230418154404_schwarzkopf_palette_intensive_color_creme_12_21_kataxantho_fyme_santre_50ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1377</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143756365</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66505</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 2 Μαύρο 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7532673/Schwarzkopf-Palette-Intensive-Color-Creme-2-Mayro-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/007532/7532673/20160922103000_schwarzkopf_palette_2_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1378</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143154185</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66506</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 3 Καστανό Σκούρο 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7532549/Schwarzkopf-Palette-Intensive-Color-Creme-3-Kastano-Skouro-50ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/007532/7532549/20160922103107_schwarzkopf_palette_3_kastano_skoyro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1379</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395647510</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66507</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 3.76 Καστανό Σκούρο Σοκολατί 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/10530922/Schwarzkopf-Palette-Intensive-Color-Creme-3-76-Kastano-Skouro-Sokolati-50ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/010530/10530922/20200528145627_schwarzkopf_palette_intensive_color_3_76_kastano_skouro_sokolati.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1380</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143732031</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66508</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 4 Καστανό 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7450967/Schwarzkopf-Palette-Intensive-Color-Creme-4-Kastano-50ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/007450/7450967/20200317154521_schwarzkopf_palette_4_kastano.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1381</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395647619</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66509</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 4.26 Δαμασκηνί 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/9345782/Schwarzkopf-Palette-Intensive-Color-Creme-4-26-Damaskini-50ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/009345/9345782/20200310150846_schwarzkopf_palette_intensive_color_4_26_damaskini.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1382</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395646919</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66510</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 4.66 Καστανό Έντονο Κόκκινο 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/9345463/Schwarzkopf-Palette-Intensive-Color-Creme-4-66-Kastano-Entono-Kokkino-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/009345/9345463/20200317155328_schwarzkopf_palette_intensive_color_4_66_kastano_entono_kokkino.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1383</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395646612</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66511</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 5 Καστανό Ανοιχτό 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7450934/Schwarzkopf-Palette-Intensive-Color-Creme-5-Kastano-Anoichto-50ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/007450/7450934/20160922103254_schwarzkopf_palette_5_kastano_anoichto.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1384</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395647718</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66512</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 5.76 καστανό Ανοιχτό Σοκολατί 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7532213/Schwarzkopf-Palette-Intensive-Color-Creme-5-76-kastano-Anoichto-Sokolati-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/007532/7532213/20200317154654_schwarzkopf_palette_5_76_kastano_anoichto_sokolati.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1385</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395645318</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66513</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 6 Ξανθό Σκούρο 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7532229/Schwarzkopf-Palette-Intensive-Color-Creme-6-Xantho-Skouro-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/007532/7532229/20160922103522_schwarzkopf_palette_6_xantho_skoyro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1386</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395647817</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66514</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 6.60 Ξανθό Σκούρο Χρυσό Σοκολατί 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/10530989/Schwarzkopf-Palette-Intensive-Color-Creme-6-60-Xantho-Skouro-CHryso-Sokolati-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/010530/10530989/20200310155118_schwarzkopf_palette_intensive_color_6_60_xantho_skouro_chryso_sokolati.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1387</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143732079</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66515</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 6.65 Έντονο Κόκκινο 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/9344654/Schwarzkopf-Palette-Intensive-Color-Creme-6-65-Entono-Kokkino-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/009344/9344654/20200310145020_schwarzkopf_palette_intensive_color_6_65_entono_kokkino.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1388</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395646414</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66516</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 6.68 Εντυπωσιακό Σοκολατί 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/10521425/Schwarzkopf-Palette-Intensive-Color-Creme-6-68-Entyposiako-Sokolati-50ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/010521/10521425/20200317154815_schwarzkopf_palette_intensive_color_6_68_entyposiako_sokolati.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1389</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143728454</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66517</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 7 Ξανθό 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7450984/Schwarzkopf-Palette-Intensive-Color-Creme-7-Xantho-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/007450/7450984/20160922104752_schwarzkopf_palette_7_xantho.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1390</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395647916</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66518</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 7.1 Ξανθό Σάντρε 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/9345388/Schwarzkopf-Palette-Intensive-Color-Creme-7-1-Xantho-Santre-50ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/009345/9345388/20200317154654_schwarzkopf_palette_intensive_color_7_1_xantho_santre.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1391</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395647213</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66519</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 7.65 Λαμπερή Μόκα 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/17818493/Schwarzkopf-Palette-Intensive-Color-Creme-7-65-Lamperi-Moka-50ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/017818/17818493/20200626175814_schwarzkopf_palette_intensive_color_creme_7_65_lamperi_moka_50ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1392</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143728430</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66520</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 7.87 Έντονο Κόκκινο Χάλκινο 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/10521431/Schwarzkopf-Palette-Intensive-Color-Creme-7-87-Entono-Kokkino-CHalkino-50ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/010521/10521431/20200701192730_schwarzkopf_palette_intensive_color_creme_7_87_entono_kokkino_chalkino_50ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1393</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143732017</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66521</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 8 Ξανθό Ανοιχτό 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/12455363/Schwarzkopf-Palette-Intensive-Color-Creme-8-Xantho-Anoichto-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/012455/12455363/20200515182156_schwarzkopf_palette_intensive_color_creme_8_xantho_anoichto.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1394</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395648012</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66522</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 8.1 Ξανθό Ανοιχτό Σαντρέ 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7450947/Schwarzkopf-Palette-Intensive-Color-Creme-8-1-Xantho-Anoichto-Santre-50ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/007450/7450947/20200626172224_schwarzkopf_palette_intensive_color_creme_8_1_xantho_anoichto_santre_50ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1395</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143731997</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66523</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 9 Ξανθό Πολύ Ανοιχτό 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7450943/Schwarzkopf-Palette-Intensive-Color-Creme-9-Xantho-Poly-Anoichto-50ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/007450/7450943/20160922103546_schwarzkopf_palette_9_xantho_poly_anoichto.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1396</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201395648111</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>66524</ID>
+		<Name>Schwarzkopf Palette Intensive Color Creme 9.40 Ξανθό Πολύ Ανοιχτό Έντονο Μπεζ 50ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/27828538/Schwarzkopf-Palette-Intensive-Color-Creme-9-40-Xantho-Poly-Anoichto-Entono-Mpez-50ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/027828/27828538/20210323122010_schwarzkopf_palette_intensive_color_creme_9_40_xantho_poly_anoichto_entono_mpez_50ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
+		<Manufacturer>Schwarzkopf</Manufacturer>
+		<MPN>1397</MPN>
+		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια. </Description>
+		<Barcode>5201143749909</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>67001</ID>
@@ -8036,7 +8696,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1258</MPN>
 		<Description>Αφρόλουτρο με αντιοξειδωτική δράση για λάμψη στο δέρμα. Προσφέρει απαλότητα, βαθιά ενυδάτωση και εξαιρετικής ποιότητας φροντίδα του δέρματος.</Description>
 		<Barcode>5208005110112</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>67092</ID>
@@ -8059,7 +8719,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 • Αποφύγετε την επαφή με τα μάτια
 • Μόνο για εξωτερική χρήση</Description>
 		<Barcode>5208005145039</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>68001</ID>
@@ -8408,7 +9068,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1340</MPN>
 		<Description>Ιδανικές για επαγγελματική και οικιακή χρήση, προσφέροντας απορροφητικότητα και ανθεκτικότητα. Κατασκευασμένες από 1 φύλλο λευκού χαρτιού υψηλής ποιότητας, σε διαστάσεις 21x25cm, είναι κατάλληλες για καθημερινή υγιεινή και καθαριότητα. Η συσκευασία των 200 τεμαχίων προσφέρει μεγάλη διάρκεια και πρακτική χρήση, ιδανική για χώρους με αυξημένες ανάγκες καθαριότητας.</Description>
 		<Barcode>5202995010544</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>70231</ID>
@@ -8425,7 +9085,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<Barcode>5202995010537</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>70302</ID>
@@ -8494,7 +9154,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση με διακριτικό άρωμα φρεσκάδας. Η σύνθεση τους προσφέρει αποτελεσματική δράση κατά των μικροβίων, χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα.
 Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007033</Barcode>
-		<Quantity>480</Quantity>
+		<Quantity>476</Quantity>
 	</product>
 	<product>
 		<ID>70422</ID>
@@ -8587,7 +9247,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0785</MPN>
 		<Description>Τραπεζομάντηλο μιας χρήσης, σε λευκό χρώμα, με σχέδιο ελιά και διάσταση 130 x 110 cm, σε συσκευασία 110τμχ</Description>
 		<Barcode>5202995007902</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>70914</ID>
@@ -8640,7 +9300,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>66</Quantity>
+		<Quantity>61</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -8697,7 +9357,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055244</Barcode>
-		<Quantity>166</Quantity>
+		<Quantity>161</Quantity>
 	</product>
 	<product>
 		<ID>71025</ID>
@@ -9001,7 +9661,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1098</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
 		<Barcode>8006540734889</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>38</Quantity>
 	</product>
 	<product>
 		<ID>71291</ID>
@@ -9170,7 +9830,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.
 Προφυλάξεις: Μακριά από παιδιά.</Description>
 		<Barcode>80225843</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>113</Quantity>
 	</product>
 	<product>
 		<ID>72001</ID>
@@ -9452,7 +10112,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1108</MPN>
 		<Description>Η κρέμα καθαρισμού επιφανειών Cif Original με φυσικά σωματίδια που βοηθούν στον καθαρισμό δρα βαθιά στους λεκέδες και την βρωμιά. Η σύνθεσή της βοηθά στην απομάκρυνση των πιο δύσκολων λεκέδων χωρίς να βλάπτει τις επιφάνειες.</Description>
 		<Barcode>5000186735036</Barcode>
-		<Quantity>19</Quantity>
+		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>72122</ID>
@@ -9469,7 +10129,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<Barcode>5000186735012</Barcode>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>72171</ID>
@@ -10209,6 +10869,23 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>10</Quantity>
 	</product>
 	<product>
+		<ID>74052</ID>
+		<Name>Vileda Περιστρεφόμενη Ανταλλακτικό Σφουγγαρίστρα με Μικροίνες Easy Wring &amp; Clean Turbo</Name>
+		<Product_Link>https://www.skroutz.gr/s/24230922/Vileda-Peristrefomeni-Antallaktiko-Sfougaristra-me-Mikroines-Easy-Wring-Clean-Turbo.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/024230/24230922/20200731121801_vileda_sfougaristra_easy_wring_clean_turbo.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
+		<Manufacturer>VILEDA</Manufacturer>
+		<MPN>1398</MPN>
+		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
+		<Barcode>4023103156487</Barcode>
+		<Quantity>3</Quantity>
+	</product>
+	<product>
 		<ID>74111</ID>
 		<Name>ΚΥΚΛΩΨ ΦΑΡΑΣΙ ΚΟΥΜΠΩΤΟ ΜΕ ΛΑΣΤΙΧΟ  </Name>
 		<Product_Link>https://www.skroutz.gr/s/22794505/Cyclops-Clip-Farasi-Plastiko-me-Lasticho-Prasino-33-2x23x7-2ek-003301627.html</Product_Link>
@@ -10782,6 +11459,114 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>120</Quantity>
 	</product>
 	<product>
+		<ID>75191</ID>
+		<Name>Panasonic Alkaline Power Μπαταρίες AAA 1.5V 4τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9004651/Panasonic-Alkaline-Power-Mpataries-AAA-1-5V-4tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/009004/9004651/20211122150155_panasonic_alkaline_power_mpataries_aaa_1_5v_4tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>PANASONIC</Manufacturer>
+		<MPN>1399</MPN>
+		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή. </Description>
+		<Barcode>5410853039334</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>75192</ID>
+		<Name>Panasonic Alkaline Power Μπαταρίες AA 1.5V 4τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9004639/Panasonic-Alkaline-Power-Mpataries-AA-1-5V-4tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/009004/9004639/20211122150154_panasonic_alkaline_power_mpataries_aa_1_5v_4tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>PANASONIC</Manufacturer>
+		<MPN>1400</MPN>
+		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
+		<Barcode>5410853039273</Barcode>
+		<Quantity>120</Quantity>
+	</product>
+	<product>
+		<ID>75193</ID>
+		<Name>Panasonic Alkaline Power Μπαταρία 9V 1τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9004704/Panasonic-Alkaline-Power-Mpataria-9V-1tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/009004/9004704/20200304150311_panasonic_alkaline_power_9v_1tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.62</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>PANASONIC</Manufacturer>
+		<MPN>1401</MPN>
+		<Description>Αλκαλικές μπαταρίες της Panasonic μεγέθους 9V, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχουν ικανοποιητική διάρκεια και αξίζουν τα χρήματά τους.</Description>
+		<Barcode>5410853039303</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>75194</ID>
+		<Name>Panasonic Alkaline Power Μπαταρίες C 1.5V 2τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9004750/Panasonic-Alkaline-Power-Mpataries-C-1-5V-2tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/009004/9004750/20190422102100_panasonic_alkaline_power_c_2tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.63</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>PANASONIC</Manufacturer>
+		<MPN>1402</MPN>
+		<Description>Αλκαλικές μπαταρίες C οι οποίες προσφέρουν υψηλό βαθμό απόδοσης. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.
+
+Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχουν ικανοποιητική διάρκεια και αξίζουν τα χρήματά τους.</Description>
+		<Barcode>5410853039242</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>75195</ID>
+		<Name>Panasonic Alkaline Power Bronze Μπαταρίες D 1.5V 2τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9004755/Panasonic-Alkaline-Power-Bronze-Mpataries-D-1-5V-2tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/009004/9004755/20211122150148_panasonic_alkaline_power_mpataries_d_1_5v_2tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.44</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>PANASONIC</Manufacturer>
+		<MPN>1403</MPN>
+		<Description>Αλκαλικές μπαταρίες D ιδανικές για χρήση σε ραδιορολόγια, παιχνίδια και φακούς. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή. </Description>
+		<Barcode>5410853039211</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
+		<ID>75201</ID>
+		<Name>Ρεσώ Goldfire σε Λευκό Xρώμα (έως 4 Ώρες Καύσης ) 50τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/27664940/Reso-Goldfire-se-Leyko-Xroma-eos-4-Ores-Kaysis-50tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/027664/27664940/20210316132107_reso_goldfire_50tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.92</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Κεριά &amp; Κηροπήγια &gt; Ρεσώ</Category_Path>
+		<Manufacturer>GOLDFIRE</Manufacturer>
+		<MPN>1404</MPN>
+		<Description>Κεριά ρεσώ σε λευκό χρώμα, με τα οποία μπορείτε να δημιουργήσετε ρομαντική ατμόσφαιρα με χαμηλό φωτισμό, στο σαλόνι, τη βεράντα ή τον κήπο σας. Συνδυάστε πολλά μαζί σε μία όμορφη βάση και αναδείξτε τη διακόσμηση του χώρου σας, εύκολα και οικονομικά. 'Εχουν μέγιστη διάρκεια καύσης έως 4 ώρες και είναι ιδανικά σε περίπτωση διακοπής ρεύματος, αφού θα σας βγάλουν από το απόλυτο σκοτάδι!
+
+Τεμάχια : 50</Description>
+		<Barcode>5201062008514</Barcode>
+		<Quantity>60</Quantity>
+	</product>
+	<product>
 		<ID>75221</ID>
 		<Name>ΚΕΡΙ ΑΦΙΕΡΩΣΗΣ BISPOL 105gr ΚΑΥΣΗ ~ 2 ΗΜΕΡΕΣ</Name>
 		<Product_Link>https://petsalis.gr/product/%ce%ba%ce%b5%cf%81%ce%b9-%ce%b1%cf%86%ce%b9%ce%b5%cf%81%cf%89%cf%83%ce%b7%cf%83-memoria-wo2-kokkino/</Product_Link>
@@ -10899,6 +11684,60 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Ο διαχυτής αρώματος 80ml της Bispol με άρωμα μάνγκο και καρύδα προσφέρει μια ευχάριστη ατμόσφαιρα με το φρουτώδες και εξωτικό άρωμά του. Ιδανικός για τον χώρο του σπιτιού ή του γραφείου, δημιουργεί μια ευχάριστη αίσθηση φρεσκάδας και αναζωογόνησης.</Description>
 		<Barcode>5906927035956</Barcode>
 		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>75244</ID>
+		<Name>Aura Glass Αρωματικό Κερί σε Βάζο 500gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/43418627/Aura-Glass-Aromatiko-Keri-se-Vazo-500gr.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/043418/43418627/fixedratio_20230626150232_aura_glass_aromatiko_keri_se_vazo_500gr.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.86</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Κεριά &amp; Κηροπήγια &gt; Κεριά</Category_Path>
+		<Manufacturer>AURA GLASS</Manufacturer>
+		<MPN>1405</MPN>
+		<Description>Το αρωματικό κερί σε βάζο της εταιρείας Aura Glass περιέχει αιθέρια έλαια και το άρωμά του σας προσφέρει ένα αίσθημα χαλάρωσης και ηρεμίας. Είναι αρκετά ασφαλές, αφού δεν στάζει ούτε χύνεται, και όταν το κερί τελειώσει μπορείτε να επαναχρησιμοποιήσετε το βάζο.
+    Βάρος: 500gr</Description>
+		<Barcode>5906927027272</Barcode>
+		<Quantity>18</Quantity>
+	</product>
+	<product>
+		<ID>75274</ID>
+		<Name>Viosarp Σετ Αρωματικών Ντουλάπας Blister με Άρωμα Λεβάντα 12τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/29454576/Viosarp-Aromatiko-Ntoulapas-Blister-Levanta.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029454/29454576/20210614135908_viosarp_aromatiko_ntoulapas_blister_levanta.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αρωματικά Χώρου &amp; Αρωματοθεραπεία &gt; Αρωματικά Χώρου</Category_Path>
+		<Manufacturer>VIOSARP</Manufacturer>
+		<MPN>1406</MPN>
+		<Description>Αρωματικό Ντουλάπας της εταιρείας Viosarp, το οποίο θα δώσει όμορφο άρωμα στα ρούχα σας και θα αφαιρέσει κάθε ανεπιθύμητη μυρωδιά, όπως αυτή της υγρασίας. Για καλύτερο και ομοιόμορφο αποτέλεσμα για όλα σας τα ρούχα, αποφεύγετε να το στριμώχνετε ανάμεσα τους.
+    Άρωμα: Λεβάντα</Description>
+		<Barcode>5206753030850</Barcode>
+		<Quantity>12</Quantity>
+	</product>
+	<product>
+		<ID>75275</ID>
+		<Name>Viosarp Αρωματικό Ντουλάπας Blister Καμφόρα 12τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/28895837/Viosarp-Aromatiko-Ntoulapas-Blister-Kamfora-12tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/028895/28895837/20210514135055_viosarp_aromatiko_ntoulapas_blister_kamfora_12tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αρωματικά Χώρου &amp; Αρωματοθεραπεία &gt; Αρωματικά Χώρου</Category_Path>
+		<Manufacturer>VIOSARP</Manufacturer>
+		<MPN>1407</MPN>
+		<Description>Σετ Αρωματικών Ντουλάπας της εταιρείας Viosarp, το οποίο θα δώσει όμορφο άρωμα στα ρούχα σας και θα αφαιρέσει κάθε ανεπιθύμητη μυρωδιά, όπως αυτή της υγρασίας. Για καλύτερο και ομοιόμορφο αποτέλεσμα για όλα σας τα ρούχα, αποφεύγετε να το στριμώχνετε ανάμεσα τους.
+    Άρωμα: Καμφορά</Description>
+		<Barcode>5206753033387</Barcode>
+		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>75300</ID>
@@ -11603,7 +12442,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 Φροντίδα: Συνιστάται πλύσιμο στο πλυντήριο ρούχων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού. Αποφύγετε το στεγνό καθάρισμα.
 Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
 		<Barcode>3574387566031</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>77012</ID>
@@ -12960,7 +13799,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Image_Link>https://typotrust.gr/wp-content/uploads/2015/10/TC6210.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
+		<VAT>24</VAT>
 		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Γραφική Ύλη &gt; Διορθωτικά</Category_Path>
@@ -12970,6 +13809,266 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Description>Έχει μήκος 10m και πάχος 5mm για διόρθωση μίας μονής γραμμής τυπωμένου κειμένου. Δεν αφήνει ίχνη ή σκιάσεις στις φωτοτυπίες, είναι κατάλληλο για τους περισσότερους τύπους χαρτιού. Πραγματοποιεί στεγνή διόρθωση δινοντάς σας τη δυνατότητα άμεσου γραψίματος ή δακτυλογράφησης επάνω στο έγγραφο που διορθώσατε.</Description>
 		<Barcode>4716493650016</Barcode>
 		<Quantity>103</Quantity>
+	</product>
+	<product>
+		<ID>79401</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 Μαύρο</Name>
+		<Product_Link>https://www.skroutz.gr/s/45150655/Typotrust-Klaser-8-32-gia-CHarti-A4-Mayro-1083201.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/045150/45150655/20230811104145_typotrust_klaser_8_32_gia_charti_a4_mayro_1083201.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1408</MPN>
+		<Description>Κρατήστε όλα τα σημαντικά εγγραφα, σημειώσεις και αρχεία οργανωμένα σε αυτό το ανθεκτικό Κλασέρ. Ιδανικό για χρήση στο σπίτι, στο γραφείο, στο σχολείο.</Description>
+		<Barcode>5203358035013</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79402</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 με 2 Κρίκους Κόκκινο</Name>
+		<Product_Link>https://www.skroutz.gr/s/23959092/Typotrust-Klaser-8-32-gia-CHarti-A4-me-2-Krikous-Kokkino-KP83202.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/023959/23959092/20200709105014_typotrust_klaser_8_32_kokkino_kp83202.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1409</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Μέγεθος φύλλων: Α4
+    •Ετικέτα: Διπλής όψης
+    •Χαρτόνι &amp; PP 2mm
+    •Ράχη: 8cm
+    •Μεταλλικές γωνίες
+    •Διαστάσεις: 32x29.5cm</Description>
+		<Barcode>5203358035020</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79403</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 με 2 Κρίκους Μπλε</Name>
+		<Product_Link>https://www.skroutz.gr/s/23959060/Typotrust-Klaser-8-32-gia-CHarti-A4-me-2-Krikous-Mple-KP83203.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/023959/23959060/20200709112112_typotrust_klaser_8_32_mple_kp83203.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1410</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Μέγεθος φύλλων: Α4
+    •Ετικέτα: Διπλής όψης
+    •Χαρτόνι &amp; PP 2mm
+    •Ράχη: 8cm
+    •Μεταλλικές γωνίες
+    •Διαστάσεις: 32x29.5cm</Description>
+		<Barcode>5203358035037</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79404</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 με 2 Κρίκους Πράσινο</Name>
+		<Product_Link>https://www.skroutz.gr/s/23957059/Typotrust-Klaser-8-32-gia-CHarti-A4-me-2-Krikous-Prasino-KP83204.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/023957/23957059/20200709101558_typotrust_klaser_prasino_8_32_me_michanismo_2200883.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1411</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Μέγεθος: A4 8/32
+    •Υλικό: Πλαστικό PP
+    •Μηχανισμός 2 κρίκων</Description>
+		<Barcode>5203358035044</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79405</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 με 2 Κρίκους Κίτρινο</Name>
+		<Product_Link>https://www.skroutz.gr/s/23959406/Typotrust-Klaser-8-32-gia-CHarti-A4-me-2-Krikous-Kitrino-KP83205.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/023959/23959406/20200709111112_typotrust_klaser_typotrust_8_32_kitrino_kp83205.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1412</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Μέγεθος: Α4 8/32
+    •Μηχανισμός 2 κρίκων
+    •Υλικό: Πλαστικό PP</Description>
+		<Barcode>5203358035051</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79412</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 με 2 Κρίκους Γκρι 1τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/53907741/Typotrust-Klaser-8-32-gia-CHarti-A4-me-2-Krikous-Gri-1tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/053907/53907741/20240528152312_typotrust_klaser_8_32_gia_charti_a4_me_2_krikous_gri_1tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1413</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Μέγεθος: Α4 8/32
+    •Μηχανισμός 2 κρίκων
+    •Υλικό: Πλαστικό PP</Description>
+		<Barcode>5203358035112</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79419</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 με 2 Κρίκους Μπορντό 1τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/23959189/Typotrust-Klaser-8-32-gia-CHarti-A4-me-2-Krikous-Mpornto-Synnefo-KP83219.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/023959/23959189/20200709105514_typotrust_klaser_8_32_synnefo_mpornto_kp83219.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1414</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Μέγεθος φύλλων: Α4
+    •Ετικέτα: Διπλής όψης
+    •Χαρτόνι &amp; PP 2mm
+    •Ράχη: 8cm
+    •Μεταλλικές γωνίες
+    •Διαστάσεις: 32x29.5cm</Description>
+		<Barcode>5203358035150</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79420</ID>
+		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 με 2 Κρίκους Λευκό</Name>
+		<Product_Link>https://www.skroutz.gr/s/29193220/Typotrust-Klaser-8-32-gia-CHarti-A4-me-2-Krikous-Leyko-267002.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029193/29193220/20210531144734_typotrust_klaser_pp_8_32_leyko_267002.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1415</MPN>
+		<Description>    •Προεκτυπωμένη ετικέτα διπλής όψης
+    •Μηχανισμός με λαβή
+    •Φτιαγμένο από σκληρό χαρτόνι πάχους 2mm
+    •Μεταλλικές γωνίες για μεγαλύτερη ανθεκτικότητα
+    •Χωρητικότητα: 500-600 φύλλα
+    •Ράχη: 80mm</Description>
+		<Barcode>5203358035167</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79431</ID>
+		<Name>Typotrust Κλασέρ 4/32 για Χαρτί A4 με 2 Κρίκους Μαύρο</Name>
+		<Product_Link>https://www.skroutz.gr/s/23962416/Typotrust-Klaser-4-32-gia-CHarti-A4-me-2-Krikous-Mayro-KP43201.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/023962/23962416/20200709133415_typotrust_klaser_4_32_mayro_kp43201.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1416</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Ετικέτα: Διπλής όψης
+    Χαρτόνι &amp; PP 2mm
+    Ράχη: 4cm
+    Μεταλλικές γωνίες
+    Διαστάσεις: 32x29.5cm</Description>
+		<Barcode>5203358035174</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79432</ID>
+		<Name>Typotrust Κλασέρ 4/32 για Χαρτί A4 με 2 Κρίκους Κόκκινο</Name>
+		<Product_Link>https://www.skroutz.gr/s/23957853/Typotrust-Klaser-4-32-gia-CHarti-A4-me-2-Krikous-Kokkino-KP43202.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/023957/23957853/20220811133324_typotrust_klaser_4_32_gia_charti_a4_me_2_krikous_kokkino_kp43202.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1417</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Χαρτόνι με επένδυση PP
+    •Μηχανισμός 2 κρίκων
+    •Mέγεθος: 4/32</Description>
+		<Barcode>5203358035181</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79433</ID>
+		<Name>Typotrust Κλασέρ 4/32 για Χαρτί A4 με 2 Κρίκους Μπλε</Name>
+		<Product_Link>https://www.skroutz.gr/s/41000803/Typotrust-Klaser-4-32-gia-CHarti-A4-me-2-Krikous-Mple-KP432-03.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/041000/41000803/20230328141135_typotrust_klaser_4_32_gia_charti_a4_me_2_krikous_mple_12tmch_kp432_03.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1418</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Χαρτόνι με επένδυση PP
+    •Μηχανισμός 2 κρίκων
+    •Mέγεθος: 4/33</Description>
+		<Barcode>5203358035198</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>79449</ID>
+		<Name>Typotrust Κλασέρ 4/32 για Χαρτί A4 με 2 Κρίκους Μπορντό</Name>
+		<Product_Link>https://www.skroutz.gr/s/25736981/Typotrust-Klaser-4-32-gia-CHarti-A4-me-2-Krikous-Mpornto-KP43219.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/025736/25736981/20211022122800_typotrust_klaser_4_32_gia_charti_a4_me_2_krikous_mpornto_kp43219.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
+		<Manufacturer>TYPOTRUST</Manufacturer>
+		<MPN>1419</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    •Χαρτόνι με επένδυση PP
+    •Μηχανισμός 2 κρίκων
+    •Mέγεθος: 4/34</Description>
+		<Barcode>5203358035327</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>80001</ID>
@@ -13695,6 +14794,330 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>60</Quantity>
 	</product>
 	<product>
+		<ID>84201</ID>
+		<Name>Πιπέρι Μαύρο Βιετνάμ Τριμμένο σε συσκευασία Doypack 1000gr</Name>
+		<Product_Link>https://votana-shop.gr/proion/mpaxarika/piperi-mayro-skoni-1kg/</Product_Link>
+		<Image_Link>https://i.imgur.com/CZSFj5W.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>12.49</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1342</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Το μαύρο πιπέρι προέρχεται από τις χώρες τις Ασίας και το φυτό του ξεπερνά τα 8 μέτρα σε ύψος. Έχει θερμαντική δράση στον οργανισμό και είναι καλύτερο να χρησιμοποιείται φρεσκοτριμμένο. Το πιπέρι είναι το μπαχαρικό αυτό που, όταν ήρθε στην Ευρώπη, άλλαξε εντελώς την κουζίνα του Δυτικού κόσμου τόσο πολύ όσο κανένα άλλο. Χρησιμοποιείται ως πρώτη ύλη αλλαντοποιίας, και στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μαύρο πιπέρι με δυνατή και πλούσια γεύση.</Description>
+		<Barcode>5213006251146</Barcode>
+		<Quantity>13</Quantity>
+	</product>
+	<product>
+		<ID>84211</ID>
+		<Name>Σκόρδο Σκόνη Κίνας σε συσκευασία Doypack 1000gr</Name>
+		<Product_Link>https://www.ola-bio.gr/skordo-skoni-vio-chyma-1-kg</Product_Link>
+		<Image_Link>https://i.imgur.com/8QW4Yhu.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>6.49</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1343</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Σκόνη σκόρδου - ιδανική για μαγειρική χρήση, προσφέρει έντονη γεύση και άρωμα σε κάθε πιάτο. Χρησιμοποιήστε το σε σούπες, σάλτσες, μαρινάδες, κρέατα και λαχανικά για να απογειώσετε τη γεύση τους. Κατάλληλο για οικιακή και επαγγελματική χρήση.</Description>
+		<Barcode>5213006250828</Barcode>
+		<Quantity>2</Quantity>
+	</product>
+	<product>
+		<ID>84231</ID>
+		<Name>Μπαχάρι Μεξικού Τριμμένο σε συσκευασία Doypack 1000gr</Name>
+		<Product_Link>https://thrakiotis.gr/proion/mpachari-se-skoni/</Product_Link>
+		<Image_Link>https://i.imgur.com/WhcK2NW.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>18.5</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1344</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Το μπαχάρι καλλιεργείται στην Κεντρική Αμερική. Είναι ένα μπαχαρικό με ιδιαίτερο και έντονο άρωμα και καυτερή γεύση. Συνδυάζεται με πιπέρι, κανέλα, γαρίφαλο και μοσχοκάρυδο και χρησιμοποιείται στην αλλαντοποιία, την ποτοποιία και στα φαγητά, δίνοντας μια ξεχωριστή γεύση σε σάλτσες, κρεατικά και ψάρια. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπαχάρι με ξεχωριστό άρωμα.</Description>
+		<Barcode>5213006250767</Barcode>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>84242</ID>
+		<Name>Μπούκοβο Γλυκό σε συσκευασία Doypack 1000gr</Name>
+		<Product_Link>https://elmika-eshop.gr/%CE%BC%CF%80%CE%BF%CF%85%CE%BA%CE%BF%CE%B2%CE%BF-%CE%B3%CE%BB%CF%85%CE%BA%CE%BF</Product_Link>
+		<Image_Link>https://i.imgur.com/Zd61Mde.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>11.89</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1345</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Το μπούκοβο είναι ένα μπαχαρικό που προέρχεται από την Μεσόγειο, και αποτελείται από αποξηραμένες νιφάδες πιπεριάς οι οποίες αναδεικνύουν τα φαγητά, κυρίως κρεατικά, σούπες και σαλάτες, όταν θέλουμε να τους δώσουμε μια ξεχωριστή, δυνατή γεύση. Επίσης χρησιμοποιείται ως πρώτη ύλη στην αλλαντοποιία. Το δεύτερο όνομά του είναι «μεσογειακό τσίλι», αλλά μπορείτε να το βρείτε και επεξεργασμένο στην γλυκιά παραλλαγή του. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπούκοβο καυτερό και γλυκό, και τα δύο, με έντονη και γεμάτη γεύση.</Description>
+		<Barcode>5213006251115</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>84271</ID>
+		<Name>Κιτρινόριζα (Κουρκουμάς) Σκόνη Ινδίας σε συσκευασία Doypack 1000gr</Name>
+		<Product_Link>https://healthymarket.gr/product/koyrkoymas-kitrinoriza-skoni/</Product_Link>
+		<Image_Link>https://i.imgur.com/GSgMzkx.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>4.89</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1346</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Η τριμμένη κιτρινόριζα χρησιμοποιείται στις κουζίνες της Νοτίου Ασίας και της Μέσης Ανατολής, ως συστατικό σε μείγματα κάρι. Η πιο διαδεδομένη χρήση της είναι ως ένα από τα βασικά συστατικά της μουστάρδας.</Description>
+		<Barcode>5213006252075</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>84272</ID>
+		<Name>Μουστάρδα Σκόνη Ινδίας σε συσκευασία Doypack 1000gr</Name>
+		<Product_Link>https://mpaxaraki.gr/moustarda-skoni</Product_Link>
+		<Image_Link>https://i.imgur.com/AcXZDdG.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>8.49</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1347</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Σκόνη μουστάρδας - ιδανική για μαγειρική και επαγγελματική χρήση. Προσθέστε την σε σάλτσες, μαρινάδες, κρέατα και ντρέσινγκ για έντονη γεύση και αρωματική ένταση. Χρησιμοποιείται ευρέως στην παρασκευή μουστάρδας και άλλων καρυκευμάτων.</Description>
+		<Barcode>5213006250873</Barcode>
+		<Quantity>6</Quantity>
+	</product>
+	<product>
+		<ID>84276</ID>
+		<Name>Macao Κουκουνάρι 15gr</Name>
+		<Product_Link>https://e-xpressdelivery.com/product/india-koukounari-15gr-fakelos/</Product_Link>
+		<Image_Link>https://i.imgur.com/6QkajvY.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.52</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1348</MPN>
+		<Weight>0.02 kg</Weight>
+		<Description>Κουκουνάρι - πλούσιο σε θρεπτικά συστατικά και ιδανικό για χρήση σε σαλάτες, ζυμαρικά, σάλτσες και αρτοσκευάσματα. Προσθέτει τραγανή υφή και μοναδική γεύση σε κάθε πιάτο.</Description>
+		<Barcode>5203209010497</Barcode>
+		<Quantity>39</Quantity>
+	</product>
+	<product>
+		<ID>84303</ID>
+		<Name>Πάπρικα Καπνιστή σε συσκευασία Doypack 40gr</Name>
+		<Product_Link>https://www.sklavenitis.gr/trofima-pantopoleioy/mpacharika-alatia-xidia-zomoi/mpacharika/mccormick-paprika-kapnisti-40gr-1465832/</Product_Link>
+		<Image_Link>https://i.imgur.com/AX2k8B7.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>0.94</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1349</MPN>
+		<Weight>0.04 kg</Weight>
+		<Description>Η καπνιστή πάπρικα προέρχεται από πιπεριές που έχουν περάσει από διαδικασία καπνίσματος πριν κονιορτοποιηθούν.</Description>
+		<Barcode>5213006252327</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>84331</ID>
+		<Name>Μπαχάρι Σκόνη σε συσκευασία Doypack 30gr</Name>
+		<Product_Link>https://amichailidis.com.gr/product/kagia-mpachari-trimmeno-fakelo-30gr-s24/</Product_Link>
+		<Image_Link>https://i.imgur.com/u4L7wCe.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>0.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1350</MPN>
+		<Weight>0.03 kg</Weight>
+		<Description>Το μπαχάρι καλλιεργείται στην Κεντρική Αμερική. Είναι ένα μπαχαρικό με ιδιαίτερο και έντονο άρωμα και καυτερή γεύση. Συνδυάζεται με πιπέρι, κανέλα, γαρίφαλο και μοσχοκάρυδο και χρησιμοποιείται στην αλλαντοποιία, την ποτοποιία και στα φαγητά, δίνοντας μια ξεχωριστή γεύση σε σάλτσες, κρεατικά και ψάρια. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπαχάρι με ξεχωριστό άρωμα.</Description>
+		<Barcode>5213006252266</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>84332</ID>
+		<Name>Μπαχάρι Ολόκληρο σε συσκευασία Doypack 30gr</Name>
+		<Product_Link>https://www.metisesoula.gr/product/%CE%BC%CF%80%CE%B1%CF%87%CE%AC%CF%81%CE%B9-%CE%AC%CE%BA%CE%BF%CF%80%CE%BF/</Product_Link>
+		<Image_Link>https://i.imgur.com/DltzJ6Y.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>0.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1351</MPN>
+		<Weight>0.03 kg</Weight>
+		<Description>Το μπαχάρι καλλιεργείται στην Κεντρική Αμερική. Είναι ένα μπαχαρικό με ιδιαίτερο και έντονο άρωμα και καυτερή γεύση. Συνδυάζεται με πιπέρι, κανέλα, γαρίφαλο και μοσχοκάρυδο και χρησιμοποιείται στην αλλαντοποιία, την ποτοποιία και στα φαγητά, δίνοντας μια ξεχωριστή γεύση σε σάλτσες, κρεατικά και ψάρια. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπαχάρι με ξεχωριστό άρωμα.</Description>
+		<Barcode>5213006252273</Barcode>
+		<Quantity>11</Quantity>
+	</product>
+	<product>
+		<ID>84391</ID>
+		<Name>Μείγμα Καρυκευμάτων για BBQ σε συσκευασία Doypack 40gr</Name>
+		<Product_Link>https://www.thanopoulos.gr/el/meigmata/4608-anatoli-meigma-gia-psistaria-meigma-mpaxarikon-40g-5201589012278.html</Product_Link>
+		<Image_Link>https://i.imgur.com/FKqRFQ1.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.06</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1352</MPN>
+		<Weight>0.04 kg</Weight>
+		<Description>Μείγμα για BBQ - ένας συνδυασμός μπαχαρικών και αρωματικών για τέλεια μαρινάδα κρεάτων και ψητών. Ιδανικό για να προσθέσετε έντονη, καπνιστή γεύση σε μπριζόλες, κοτόπουλο, ψάρια και λαχανικά.</Description>
+		<Barcode>5213006253102</Barcode>
+		<Quantity>38</Quantity>
+	</product>
+	<product>
+		<ID>84392</ID>
+		<Name>Μείγμα Καρυκευμάτων για Κοτόπουλο σε συσκευασία Doypack 40gr</Name>
+		<Product_Link>https://www.abconline.gr/CHICKEN-SPICE-MIX-40G-33619</Product_Link>
+		<Image_Link>https://i.imgur.com/01KFzsH.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.06</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1353</MPN>
+		<Weight>0.04 kg</Weight>
+		<Description>Μείγμα για κοτόπουλο - ειδικά σχεδιασμένο για να ενισχύσει τη γεύση του κοτόπουλου. Περιέχει αρωματικά βότανα και μπαχαρικά που χαρίζουν πλούσιο άρωμα και νοστιμιά σε ψητά, τηγανητά ή μαγειρευτά πιάτα.</Description>
+		<Barcode>5213006252006</Barcode>
+		<Quantity>37</Quantity>
+	</product>
+	<product>
+		<ID>84404</ID>
+		<Name>Πιπέρι Κόκκινο Τσίλι σε βαζάκι 35gr</Name>
+		<Product_Link>https://panora.gr/piperi-kokkino-tsili-indion.html</Product_Link>
+		<Image_Link>https://i.imgur.com/GwGmtPa.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1354</MPN>
+		<Weight>0.04 kg</Weight>
+		<Description>Το κόκκινο πιπέρι προέρχεται από τριμμένες ξερές καυτερές πιπεριές chilli. Το φυτό αυτό ευδοκιμεί κυρίως στην Ινδία και την κεντρική Ασία. Χρησιμοποιείται στις πρώτες ύλες αλλαντοποιίας, αλλά και σε πολλές πικάντικες συνταγές. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε κόκκινο πιπέρι με πλούσια γεύση και άρωμα.</Description>
+		<Barcode>5213006251542</Barcode>
+		<Quantity>2</Quantity>
+	</product>
+	<product>
+		<ID>84409</ID>
+		<Name>Μείγμα 4 Πιπεριών σε Μύλο 35gr</Name>
+		<Product_Link>https://xalkiadakis.gr/product/mc-cormick-mighma-4-piperiwn-mylos-35-gr</Product_Link>
+		<Image_Link>https://i.imgur.com/RqHNeUV.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.11</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1355</MPN>
+		<Weight>0.04 kg</Weight>
+		<Description>Ένα μείγμα τεσσάρων πιπεριών κόκκινο, μαύρο, πράσινο και λευκό που δεν πρέπει να λείπει από καμία κουζίνα.</Description>
+		<Barcode>5213006251573</Barcode>
+		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>84432</ID>
+		<Name>Μπαχάρι Ολόκληρο σε βαζάκι 25gr</Name>
+		<Product_Link>https://www.oisynteknoi.gr/product/baxari-akopo/</Product_Link>
+		<Image_Link>https://i.imgur.com/UXMGZon.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1356</MPN>
+		<Weight>0.03 kg</Weight>
+		<Description>Μπαχάρι άκοπο σε βαζάκι – αρωματικό μπαχαρικό ιδανικό για σούπες, μαρινάδες, σάλτσες και κοκκινιστά. Προσθέτει ζεστή, πικάντικη γεύση και έντονο άρωμα σε κάθε πιάτο.</Description>
+		<Barcode>5213006253164</Barcode>
+		<Quantity>7</Quantity>
+	</product>
+	<product>
+		<ID>84451</ID>
+		<Name>Κάρυ Σκόνη σε βαζάκι 35gr</Name>
+		<Product_Link>https://allostropos.gr/product/00499/</Product_Link>
+		<Image_Link>https://i.imgur.com/RyijPjs.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.06</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1357</MPN>
+		<Weight>0.04 kg</Weight>
+		<Description>Κάρυ σκόνη σε βαζάκι – αρωματικό μείγμα μπαχαρικών που προσθέτει εξωτική γεύση και χρώμα σε διάφορα πιάτα. Ιδανικό για χρήση σε σάλτσες, ρύζι, κοτόπουλο, λαχανικά και άλλες ασιατικές και διεθνείς συνταγές.</Description>
+		<Barcode>5213006251559</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>84461</ID>
+		<Name>Κύμινο Σκόνη σε βαζάκι 35gr</Name>
+		<Product_Link>https://www.e-fresh.gr/el/kymino-trimmeno-se-bazo-hlios-35-g</Product_Link>
+		<Image_Link>https://i.imgur.com/XiImJ1b.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1358</MPN>
+		<Weight>0.04 kg</Weight>
+		<Description>Το κύμινο αποτελεί σημαντικό συστατικό σε μείγματα καρυκευμάτων και προσδίδει δυνατό και βαρύ άρωμα σε κάθε χρήση του.</Description>
+		<Barcode>5213006251597</Barcode>
+		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>84471</ID>
+		<Name>Κιτρινόριζα (Κουρκουμάς) Σκόνη σε βαζάκι 30gr</Name>
+		<Product_Link>https://baharat.gr/shop/kitrinoriza-indion/</Product_Link>
+		<Image_Link>https://i.imgur.com/wVLOLIA.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.06</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
+		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
+		<MPN>1359</MPN>
+		<Weight>0.03 kg</Weight>
+		<Description>Η τριμμένη κιτρινόριζα χρησιμοποιείται στις κουζίνες της Νοτίου Ασίας και της Μέσης Ανατολής, ως συστατικό σε μείγματα κάρι. Η πιο διαδεδομένη χρήση της είναι ως ένα από τα βασικά συστατικά της μουστάρδας.</Description>
+		<Barcode>5213006251405</Barcode>
+		<Quantity>10</Quantity>
+	</product>
+	<product>
 		<ID>85001</ID>
 		<Name>REA ΣΥΜΠΥΚΝΩΜΕΝΟΣ ΧΥΜΟΣ ΝΤΟΜΑΤΑΣ 500gr      </Name>
 		<Product_Link>https://www.skroutz.gr/s/31864178/Rea-Saltsa-Mageirikis-Ntomata-500gr.html</Product_Link>
@@ -14152,7 +15575,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>10.27</Price>
+		<Price>13.51</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφέδες &amp; Ροφήματα &gt; Ροφήματα</Category_Path>
 		<Manufacturer>CIOC ORIGINALE</Manufacturer>
@@ -14178,7 +15601,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.4 kg</Weight>
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Nestle. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 400gr.</Description>
 		<Barcode>5998710960620</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>86101</ID>
@@ -14531,7 +15954,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 • Κυρίως συστατικό: Κρέας, Ψάρια
 • Συσκευασία: 15kg</Description>
 		<Barcode>5202546009133</Barcode>
-		<Quantity>14</Quantity>
+		<Quantity>13</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
