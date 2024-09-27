@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-27 14:04</created_at>
+	<created_at>2024-09-27 14:49</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -4071,7 +4071,7 @@
 		<Quantity>12</Quantity>
 	</product>
 	<product>
-		<ID>58161</ID>
+		<ID>581611</ID>
 		<Name>Τσιλιλής Κρασί Bianconero Μοσχάτο Αμβούργου Λευκό Ημίξηρο Αφρώδες 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</Product_Link>
 		<Image_Link>https://www.cavarokos.gr/image/cache/catalog/product/4355-1200x1200.jpg</Image_Link>
@@ -4989,7 +4989,7 @@
 		<Description>Το Diplomatico Reserva Exclusiva είναι ένα κομψό και σύνθετο ρούμι που κατασκευάζεται προσεκτικά από τα καθαρότερα ζαχαροκάλαμα της Βενεζουέλας.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>7594003620059</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>55503</ID>
@@ -17144,7 +17144,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 • Κυρίως συστατικό: Κρέας, Ψάρια
 • Συσκευασία: 15kg</Description>
 		<Barcode>5202546009133</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
