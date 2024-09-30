@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-09-30 13:04</created_at>
+	<created_at>2024-09-30 16:35</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -110,7 +110,7 @@
 		<Quantity>24</Quantity>
 	</product>
 	<product>
-		<ID>320215-Τ</ID>
+		<ID>32021-Τ</ID>
 		<Name>Fix Lager Κουτί 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4870950/Fix-Lager-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/004870/4870950/20150519123829_fix_330ml_koutaki.jpeg</Image_Link>
@@ -146,7 +146,7 @@
 		<Quantity>20</Quantity>
 	</product>
 	<product>
-		<ID>320225-Τ</ID>
+		<ID>32022-Τ</ID>
 		<Name>Kaiser Pilsner Κουτί 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6246305/Kaiser-Pilsner-Lager-Kouti-330ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/006246/6246305/20210304174331_kaiser_pilsner_lager_kouti_330ml.jpeg</Image_Link>
@@ -182,7 +182,7 @@
 		<Quantity>48</Quantity>
 	</product>
 	<product>
-		<ID>322265-Τ</ID>
+		<ID>32226-Τ</ID>
 		<Name>ΒΕΡΓΙΝΑ RADLER κουτί 330ml</Name>
 		<Product_Link>https://kritikos-sm.gr/products/kaba/mpures/alcohol-free/bergina-mpura-radler-kouti-330ml-763942/</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1053885/vergina-mpira-radler-330ml.jpg</Image_Link>
@@ -220,7 +220,7 @@
 		<Quantity>8</Quantity>
 	</product>
 	<product>
-		<ID>322275-Τ</ID>
+		<ID>32227-Τ</ID>
 		<Name>ΒΕΡΓΙΝΑ ALCOHOL FREE ΚΟΥΤΙ 330ml</Name>
 		<Product_Link>https://www.bazaar-online.gr/vergina-330ml-alcohol-free-mpyra-koyti</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1057832/vergina-mpira-xoris-alkool-330ml.jpg</Image_Link>
@@ -256,7 +256,7 @@
 		<Quantity>36</Quantity>
 	</product>
 	<product>
-		<ID>320315-Τ</ID>
+		<ID>32031-Τ</ID>
 		<Name>Fix Lager Κουτί 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6246653/Fix-Lager-Kouti-500ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/006246/6246653/20210304174331_fix_fix_500ml_koutaki.jpeg</Image_Link>
@@ -274,7 +274,7 @@
 		<Quantity>120</Quantity>
 	</product>
 	<product>
-		<ID>320325-Τ</ID>
+		<ID>32032-Τ</ID>
 		<Name>Kaiser Pilsner Κουτί 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6246224/Kaiser-Pilsner-Lager-Kouti-500ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/006246/6246224/20150226092254_kaiser_500ml_koutaki.jpeg</Image_Link>
@@ -292,7 +292,7 @@
 		<Quantity>72</Quantity>
 	</product>
 	<product>
-		<ID>321335-Τ</ID>
+		<ID>32133-Τ</ID>
 		<Name>ΕΖΑ Pils Hellas 500ml ΚΟΥΤΙ</Name>
 		<Product_Link>https://www.skroutz.gr/s/6867969/EZA-Pils-Hellas-500ml-koutaki.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/006867/6867969/20231109122043_eza_pils_hellas_500ml_koutaki.jpeg</Image_Link>
