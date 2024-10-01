@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-01 11:56</created_at>
+	<created_at>2024-10-01 15:59</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1331,7 +1331,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Χυμός της εταιρείας Amita από πορτοκάλι το οποίο είναι ο κυριότερος εκπρόσωπος των εσπεριδοειδών και είναι από τα πιο αγαπητά φρούτα στις μεσογειακές χώρες. Είναι πλούσιο σε βιταμίνη C, ενώ χάρη στο φολικό οξύ που περιέχει, βοηθά στο να ξεκινάμε τη μέρα μας με καλή διάθεση. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5201005079380</Barcode>
-		<Quantity>48</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>12052</ID>
@@ -1824,7 +1824,7 @@
 		<Quantity>38</Quantity>
 	</product>
 	<product>
-		<ID>14222</ID>
+		<ID>14122</ID>
 		<Name>ΣΟΥΡΩΤΗ 6τμχ x330ml ΚΟΥΤΙ ΛΕΜΟΝΙ</Name>
 		<Product_Link>https://citydrinks.gr/product/souroti-lemon-can-330ml/</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/SOUROTI-LEMONI-KOUTI-ANTHRAKOUXO-6x330-1.jpg</Image_Link>
@@ -2736,7 +2736,7 @@
 		<Quantity>50</Quantity>
 	</product>
 	<product>
-		<ID>21424-Τ</ID>
+		<ID>21415-Τ</ID>
 		<Name>Ιόλη Ανθρακούχο Φυσικό Μεταλλικό Νερό Φρούτα Δάσους 330ml</Name>
 		<Product_Link>https://www.sklavenitis.gr/anapsyktika-nera-chymoi/nera/anthrakoycha-nera/ioli-anthrakouho-nero-330ml-230278/</Product_Link>
 		<Image_Link>https://i.imgur.com/Xjvh8P5.png</Image_Link>
@@ -3210,7 +3210,7 @@
 		<Quantity>40</Quantity>
 	</product>
 	<product>
-		<ID>404211</ID>
+		<ID>40425</ID>
 		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΡΟΖΕ ΗΜΙΓΛΥΚΟ 5 ΛΙΤ (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
 		<Product_Link>https://cava365.gr/product/%CE%B2%CE%BF%CF%81%CE%BF%CE%B9%CE%BD%CE%BF%CF%83-%CE%B5%CF%81%CF%85%CE%B8%CF%81%CE%BF%CF%83-5-lt/</Product_Link>
 		<Image_Link>https://cava365.gr/photos/0092782.jpg</Image_Link>
@@ -3324,7 +3324,7 @@
 		<Quantity>19</Quantity>
 	</product>
 	<product>
-		<ID>404221</ID>
+		<ID>40426</ID>
 		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΡΟΖΕ ΗΜΙΓΛΥΚΟ 10000ml (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
 		<Product_Link>https://www.wineshop.gr/product/zitsa-roze-imigliko-askos-10lt/</Product_Link>
 		<Image_Link>https://www.wineshop.gr/wp-content/uploads/2019/11/zitsaleykosaskos10lt_2_1.gif</Image_Link>
@@ -3342,7 +3342,7 @@
 		<Quantity>20</Quantity>
 	</product>
 	<product>
-		<ID>40423</ID>
+		<ID>40432</ID>
 		<Name>ΑΣΚΟΣ ΖΙΤΣΑ ΒΟΡΟΙΝΟΣ ΕΡΥΘΡΟ 10000ml (ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΟΙΝΟΠΟΙΙΑ ΗΠΕΙΡΟΥ)</Name>
 		<Product_Link>https://www.wineshop.gr/product/zitsa-ery8ros-askos-10lt/</Product_Link>
 		<Image_Link>https://cava365.gr/photos/zitsa10.jpg</Image_Link>
@@ -4071,7 +4071,7 @@
 		<Quantity>12</Quantity>
 	</product>
 	<product>
-		<ID>581611</ID>
+		<ID>58161</ID>
 		<Name>Τσιλιλής Κρασί Bianconero Μοσχάτο Αμβούργου Λευκό Ημίξηρο Αφρώδες 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</Product_Link>
 		<Image_Link>https://www.cavarokos.gr/image/cache/catalog/product/4355-1200x1200.jpg</Image_Link>
@@ -4306,7 +4306,7 @@
 		<Quantity>30</Quantity>
 	</product>
 	<product>
-		<ID>52201</ID>
+		<ID>522011</ID>
 		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265109/Tsililis-me-Glykaniso-Tsipouro-42-50ml.html</Product_Link>
 		<Image_Link>https://greekdeligoods.com/wp-content/uploads/2023/10/tsipouro-tsili-me-glykaniso-50ml-1.jpg</Image_Link>
@@ -5119,7 +5119,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.8 kg</Weight>
 		<Description>Το λικέρ καρύδας Batida de Coco, μαζί με κρέμα κακάο και φουντούκι, έντονα απολαυστικά αρώματα.</Description>
 		<Barcode>7640109121034</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>55523</ID>
@@ -5637,7 +5637,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.2 kg</Weight>
 		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
 		<Barcode>5202037000083</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>57044</ID>
@@ -5952,7 +5952,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1035</MPN>
 		<Description>Ήπιο αντισηπτικό στοματικό διάλυμα που καθαρίζει και προστατεύει για ολοκληρωμένη στοματική υγιεινή.</Description>
 		<Barcode>3574660649802</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>61001</ID>
@@ -7172,7 +7172,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>24</Quantity>
 	</product>
 	<product>
-		<ID>64411</ID>
+		<ID>64405</ID>
 		<Name>Durex Προφυλακτικά Classic 3τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/54131202/Durex-Profylaktika-Classic-3tmch.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/054131/54131202/20240604094202_durex_profylaktika_classic_3tmch.jpeg</Image_Link>
@@ -8150,7 +8150,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>66502</ID>
+		<ID>66501.01</ID>
 		<Name>Schwarzkopf Palette Intensive Color Creme 10.1 Κατάξανθο Σαντρέ 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/16456056/Schwarzkopf-Palette-Intensive-Color-Creme-10-1-Kataxantho-Santre-50ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/016456/16456056/20181112150109_schwarzkopf_intensive_color_creme_10_1_kataxantho_santre.jpeg</Image_Link>
@@ -8167,7 +8167,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>66503</ID>
+		<ID>66501.02</ID>
 		<Name>Schwarzkopf Palette Intensive Color Creme 10.2 Υπέρξανθο Φυμέ 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17818525/Schwarzkopf-Palette-Intensive-Color-Creme-10-2-Yperxantho-Fyme-50ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/017818/17818525/20190320145803_schwarzkopf_palette_intensive_color_cream_10_2_yperxantho_fyme.jpeg</Image_Link>
