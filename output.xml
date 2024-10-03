@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-03 14:21</created_at>
+	<created_at>2024-10-03 16:34</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1925,7 +1925,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.2</Price>
+		<Price>1.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>MONSTER</Manufacturer>
@@ -4023,7 +4023,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.05</Price>
+		<Price>3.98</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -4600,7 +4600,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.47</Price>
+		<Price>1.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -4618,7 +4618,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.11</Price>
+		<Price>4.9</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -6421,7 +6421,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.12</Price>
+		<Price>1.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -6438,7 +6438,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.69</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -7111,7 +7111,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>0.89</Price>
+		<Price>0.92</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
 		<Manufacturer>OPEN CARE</Manufacturer>
@@ -7130,7 +7130,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.06</Price>
+		<Price>1.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
 		<Manufacturer>OPEN CARE</Manufacturer>
@@ -7149,7 +7149,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.19</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
 		<Manufacturer>Alfa</Manufacturer>
@@ -7166,7 +7166,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.37</Price>
+		<Price>1.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
 		<Manufacturer>IASIN</Manufacturer>
@@ -7319,7 +7319,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.88</Price>
+		<Price>1.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
@@ -7336,7 +7336,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.88</Price>
+		<Price>1.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
@@ -7354,7 +7354,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.88</Price>
+		<Price>1.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
@@ -8769,7 +8769,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.65</Price>
+		<Price>3.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>NIVEA</Manufacturer>
@@ -8787,7 +8787,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.41</Price>
+		<Price>3.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>DOVE</Manufacturer>
@@ -9270,7 +9270,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.58</Price>
+		<Price>1.51</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>ENDLESS</Manufacturer>
@@ -11057,7 +11057,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<Barcode>4023103156487</Barcode>
-		<Quantity>8</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>74111</ID>
@@ -13662,7 +13662,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.76</Price>
+		<Price>1.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -13679,7 +13679,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.76</Price>
+		<Price>1.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -13696,7 +13696,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.94</Price>
+		<Price>1.87</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -13713,7 +13713,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.61</Price>
+		<Price>1.55</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -13730,7 +13730,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.82</Price>
+		<Price>1.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -15057,7 +15057,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1464</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια σειρά μήκους 5m, με 50 λαμπάκια led, πάχους 5mm. Εκπέμπουν θερμό λευκό φως, το οποίο αποδίδεται στην κλίμακα Kelvin με τιμές από 2400Κ έως 3800Κ. Οι τόνοι του θερμού λευκού είναι πιο κίτρινοι σε σχέση με το φυσικό φως. Λειτουργούν με ρεύμα.</Description>
 		<Barcode>5200300503439</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>79607</ID>
@@ -15108,7 +15108,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1467</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια σειρά της Aria Trade μήκους 8m, με 100 λαμπάκια led. Έχουν πράσινο καλώδιο και εκπέμπουν θερμό λευκό φως, το οποίο αποδίδεται στην κλίμακα Kelvin με τιμές από 2400Κ έως 3800Κ. Οι τόνοι του θερμού λευκού είναι πιο κίτρινοι σε σχέση με το φυσικό φως. Διαθέτουν βαθμό προστασίας IP44, που δηλώνει ότι δεν μπορούν να εισχωρήσουν στερεά αντικείμενα άνω του ενός χιλιοστού αλλά ούτε και νερό με μεγάλη ένταση. Σας επιτρέπουν να επιλέξετε ανάμεσα σε διάφορα προγράμματα εναλλαγής φωτισμού, ανάλογα με τη διάθεση σας. Λειτουργούν με ρεύμα.</Description>
 		<Barcode>5200300503170</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>79613</ID>
@@ -15125,7 +15125,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1468</MPN>
 		<Description>Χριστουγεννιάτικα φωτάκια led 100L IP44 με μετασχηματιστή 31V σε ψυχρό λευκό (cool white) χρώμα με 8 προγράμματα. Είναι επεκτεινόμενα και έχουν μήκος 5m με επιπλέον 3m τροφοδοσίας.</Description>
 		<Barcode>5200300503194</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>79614</ID>
@@ -15159,7 +15159,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1470</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια σειρά της Thirea μήκους 13m, με 200 λαμπάκια led. Έχουν πράσινο καλώδιο και εκπέμπουν θερμό λευκό φως, το οποίο αποδίδεται στην κλίμακα Kelvin με τιμές από 2400Κ έως 3800Κ. Οι τόνοι του θερμού λευκού είναι πιο κίτρινοι σε σχέση με το φυσικό φως. Διαθέτουν βαθμό προστασίας IP44, που δηλώνει ότι δεν μπορούν να εισχωρήσουν στερεά αντικείμενα άνω του ενός χιλιοστού αλλά ούτε και νερό με μεγάλη ένταση. Σας επιτρέπουν να επιλέξετε ανάμεσα σε διάφορα προγράμματα εναλλαγής φωτισμού, ανάλογα με τη διάθεση σας, αλλά και να επεκτείνετε το μήκος τους συνδέοντας τα με άλλα λαμπάκια. Λειτουργούν με ρεύμα.</Description>
 		<Barcode>5200300503163</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>79623</ID>
@@ -15176,7 +15176,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1471</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια σειρά μήκους 13m, με 200 λαμπάκια led, πάχους 10mm. Εκπέμπουν ψυχρό λευκό φως, το οποίο αποδίδεται στην κλίμακα Kelvin με τιμές από 5000Κ έως 6800Κ. Οι τόνοι του ψυχρού λευκού είναι πιο μπλε σε σχέση με το φυσικό φως. Σας επιτρέπουν να επιλέξετε ανάμεσα σε διάφορα προγράμματα εναλλαγής φωτισμού, ανάλογα με τη διάθεση σας, αλλά και να επεκτείνετε το μήκος τους συνδέοντας τα με άλλα λαμπάκια. Λειτουργούν με ρεύμα.</Description>
 		<Barcode>5200300503156</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>79624</ID>
@@ -15193,7 +15193,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1472</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια σειρά μήκους 13m, με 200 λαμπάκια led. Εκπέμπουν φως σε διάφορα χρώματα χρώμα. Διαθέτουν βαθμό προστασίας IP44, που δηλώνει ότι δεν μπορούν να εισχωρήσουν στερεά αντικείμενα άνω του ενός χιλιοστού αλλά ούτε και νερό με μεγάλη ένταση. Σας επιτρέπουν να επιλέξετε ανάμεσα σε διάφορα προγράμματα εναλλαγής φωτισμού, ανάλογα με τη διάθεση σας, αλλά και να επεκτείνετε το μήκος τους συνδέοντας τα με άλλα λαμπάκια. Λειτουργούν με ρεύμα.</Description>
 		<Barcode>5200300503149</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>79645</ID>
@@ -15211,7 +15211,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1473</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια βροχή της Aria Trade μήκους 3m και ύψους 70cm, με 140 λαμπάκια led. Έχουν διαφανές καλώδιο και εκπέμπουν θερμό λευκό φως, το οποίο αποδίδεται στην κλίμακα Kelvin με τιμές από 2400Κ έως 3800Κ. Οι τόνοι του θερμού λευκού είναι πιο κίτρινοι σε σχέση με το φυσικό φως. Διαθέτουν βαθμό προστασίας IP44, που δηλώνει ότι δεν μπορούν να εισχωρήσουν στερεά αντικείμενα άνω του ενός χιλιοστού αλλά ούτε και νερό με μεγάλη ένταση. Μπορείτε να επεκτείνετε το μήκος τους συνδέοντας τα με άλλα λαμπάκια. Λειτουργούν με ρεύμα.</Description>
 		<Barcode>5200300505419</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>79646</ID>
@@ -15285,7 +15285,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 
     Ύψος: 150εκ.</Description>
 		<Barcode>3615004657197</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>79654</ID>
@@ -15304,7 +15304,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 
     Ύψος: 180εκ.</Description>
 		<Barcode>3616474442320</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>796541</ID>
@@ -15327,7 +15327,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία και αξίζει τα χρήματά του.</Description>
 		<Barcode>5200300500506</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>79655</ID>
@@ -15346,7 +15346,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 
     Ύψος: 210εκ.</Description>
 		<Barcode>3615004660234</Barcode>
-		<Quantity>4</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>796551</ID>
@@ -15367,7 +15367,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Τοποθέτηση Kλαδιών: Autobranch (Ενσωματωμένα)
     Βάση: Μεταλλική</Description>
 		<Barcode>5200300500513</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>796552</ID>
@@ -15388,7 +15388,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Τοποθέτηση Κλαδιών: Autobranch
     Βάση: Μεταλλική</Description>
 		<Barcode>5200300502357</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>79656</ID>
@@ -15407,7 +15407,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 
     Ύψος: 240εκ.</Description>
 		<Barcode>5200300504771</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>2</Quantity>
 	</product>
 	<product>
 		<ID>80001</ID>
@@ -15435,7 +15435,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.19</Price>
+		<Price>1.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τρόφιμα &amp; Ροφήματα &gt; Ζάχαρη &amp; Υποκατάστατα</Category_Path>
 		<Manufacturer>ROYAL SUGAR</Manufacturer>
@@ -16616,7 +16616,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<Barcode>6111260550359</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>79</Quantity>
 	</product>
 	<product>
 		<ID>852261</ID>
