@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-04 16:02</created_at>
+	<created_at>2024-10-04 16:38</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -3279,7 +3279,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
 		<Barcode>5202037114162</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>40412</ID>
@@ -4088,7 +4088,7 @@
 		<Quantity>12</Quantity>
 	</product>
 	<product>
-		<ID>58161</ID>
+		<ID>581611</ID>
 		<Name>Τσιλιλής Κρασί Bianconero Μοσχάτο Αμβούργου Λευκό Ημίξηρο Αφρώδες 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</Product_Link>
 		<Image_Link>https://www.cavarokos.gr/image/cache/catalog/product/4355-1200x1200.jpg</Image_Link>
@@ -7864,7 +7864,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>66551</ID>
+		<ID>65551</ID>
 		<Name>Lux Aqua Sparkle Soap 80gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/8430242/Lux-Aqua-Sparkle-Soap-80gr.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/008430/8430242/20220728132738_lux_aqua_sparkle_soap_80gr.jpeg</Image_Link>
@@ -7883,7 +7883,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>66552</ID>
+		<ID>65552</ID>
 		<Name>Lux Velvet Touch Σαπούνι 80gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/24275677/Lux-Velvet-Touch-Sapouni-80gr.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024275/24275677/20220405094033_lux_velvet_touch_sapouni_80gr.jpeg</Image_Link>
@@ -8835,7 +8835,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Αφρόλουτρο που μετατρέπει την καθημερινή ρουτίνα σε μία πολύτιμη εμπειρία ενώ με το δελεαστικό του άρωμα ταξιδεύει στην Ανατολή. Με έλαιο Argan ενυδατώνει και αφήνει το δέρμα απαλό και βελούδινο.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>8008970005621</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>67023</ID>
@@ -8871,7 +8871,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>8008970011127</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>67091</ID>
@@ -9636,7 +9636,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>186</Quantity>
+		<Quantity>185</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -9655,7 +9655,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>182</Quantity>
+		<Quantity>178</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -9674,7 +9674,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055213</Barcode>
-		<Quantity>208</Quantity>
+		<Quantity>207</Quantity>
 	</product>
 	<product>
 		<ID>71024</ID>
@@ -14069,7 +14069,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Quantity>10</Quantity>
 	</product>
 	<product>
-		<ID>78526</ID>
+		<ID>785261</ID>
 		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml Διάφανο 100τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/30287129/Skeyos-PET-1500ml-Diafano-100tmch-420.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/030287/30287129/20220426114547_skeyos_pet_1500ml_diafano_100tmch_420.jpeg</Image_Link>
@@ -14085,7 +14085,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 • Κατάλληλο για take away, σερβίρισμα κ.α.
 • Μιας χρήσεως</Description>
 		<Barcode>15202054472204</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>8</Quantity>
 	</product>
 	<product>
 		<ID>78527</ID>
