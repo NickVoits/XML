@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-04 14:38</created_at>
+	<created_at>2024-10-04 16:02</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -8680,7 +8680,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί προσφέρει ικανοποιητική κάλυψη και έχει διάρκεια το αποτέλεσμα.</Description>
 		<Barcode>4056800778287</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>665290</ID>
@@ -8915,7 +8915,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>68001</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ 100 ΤΕΜ  </Name>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ EXTRA LARGE 100 ΤΕΜ  </Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
 		<Image_Link>https://brolias.com/wp-content/uploads/2023/04/768b7044ec2818823b769234cd869d6b-PhotoRoom.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -8928,12 +8928,66 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1074</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<Barcode>5202054455248</Barcode>
-		<Quantity>10</Quantity>
-		<Size>S, M, L, XL</Size>
+		<Quantity>35</Quantity>
+		<Size>XL</Size>
+	</product>
+	<product>
+		<ID>68002</ID>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ LARGE 100 ΤΕΜ  </Name>
+		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
+		<Image_Link>https://www.geapharmacy.gr/mediastream/w800/files/products/5e26a5d46ba5cb629729114dabbcf8cd.jpg.webp</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6</VAT>
+		<Price>2.96</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1075</MPN>
+		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
+		<Barcode>5202054454852</Barcode>
+		<Quantity>150</Quantity>
+		<Size>L</Size>
+	</product>
+	<product>
+		<ID>68003</ID>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ MEDIUM 100 ΤΕΜ  </Name>
+		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
+		<Image_Link>https://www.geapharmacy.gr/mediastream/w800/files/products/945ceb16e82d6da30ddaf8650d3c4ab0.jpg.webp</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6</VAT>
+		<Price>2.96</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1076</MPN>
+		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
+		<Barcode>5202054454821</Barcode>
+		<Quantity>150</Quantity>
+		<Size>M</Size>
+	</product>
+	<product>
+		<ID>68004</ID>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ SMALL 100 ΤΕΜ  </Name>
+		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
+		<Image_Link>https://s1.sklavenitis.gr/images/1600x1600/40/files/ProductMedia/Products/6483473/1.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6</VAT>
+		<Price>2.96</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1077</MPN>
+		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
+		<Barcode>4250016484332</Barcode>
+		<Quantity>60</Quantity>
+		<Size>S</Size>
 	</product>
 	<product>
 		<ID>68041</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ 100 ΤΕΜ       </Name>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ EXTRA LARGE 100 ΤΕΜ       </Name>
 		<Product_Link>https://www.themart.gr/katharistika-chartika/axesouar-katharismou/sfouggaria-spoggopetsetes-gantia/gantia-thalassinos-nitriliou-mayra-xlarge-100tem-2118422200019-184222.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/8/184222_1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -8946,14 +9000,50 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1078</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>4250016482796</Barcode>
-		<Quantity>20</Quantity>
-		<Size>M, L, XL</Size>
+		<Quantity>150</Quantity>
+		<Size>XL</Size>
+	</product>
+	<product>
+		<ID>68042</ID>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ LARGE 100 ΤΕΜ       </Name>
+		<Product_Link>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</Product_Link>
+		<Image_Link>https://brolias.com/wp-content/uploads/2023/04/PhotoRoom-20240115_141545.png</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6</VAT>
+		<Price>3.07</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1079</MPN>
+		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
+		<Barcode>4250016482772</Barcode>
+		<Quantity>120</Quantity>
+		<Size>L</Size>
+	</product>
+	<product>
+		<ID>68043</ID>
+		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ MEDIUM 100 ΤΕΜ</Name>
+		<Product_Link>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</Product_Link>
+		<Image_Link>https://xalkiadakis.gr/products/172914.jpg?v=1675435054</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6</VAT>
+		<Price>3.07</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1080</MPN>
+		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
+		<Barcode>4250016482758</Barcode>
+		<Quantity>140</Quantity>
+		<Size>M</Size>
 	</product>
 	<product>
 		<ID>68051</ID>
-		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Μαύρο 100τμχ</Name>
+		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Extra Large Μαύρο 100τμχ</Name>
 		<Product_Link>https://www.thanopoulos.gr/el/mias-xrisis/34358-thalassinos-gantia-nitriliou-extra-strong-maura-extra-large-100tem-5202054468897.html</Product_Link>
-		<Image_Link>https://www.thanopoulos.gr/1032538/thalassinos-gantia-nitriliou-extra-strong-maura-extra-large-100tem.jpg</Image_Link>
+		<Image_Link>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468897_1_1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
@@ -8964,8 +9054,44 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1081</MPN>
 		<Description>Γάντια μιάς χρήσης νιτριλίου μαύρου χρώματος. Ενδείκνυνται για εργασίες που απαιτείται άριστη αφή, για εργασίες που επιβάλεται η χρήση χημικών ουσιών, για εργασίες όπου δεν φαίνεται ο χρωματισμός του γαντιού από διάφορες ουσίες. Κατάλληλο για εργαστήρια τατουάζ, συνεργεία αυτοκινήτων, κομμωτήρια, εργαστήρια χημικών αναλύσεων.</Description>
 		<Barcode>5202054468897</Barcode>
-		<Quantity>20</Quantity>
-		<Size>M, L, XL</Size>
+		<Quantity>50</Quantity>
+		<Size>XL</Size>
+	</product>
+	<product>
+		<ID>68052</ID>
+		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Large Μαύρο 100τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html</Product_Link>
+		<Image_Link>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468880_1_1.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6</VAT>
+		<Price>4.69</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1082</MPN>
+		<Description>Γάντια μιάς χρήσης νιτριλίου μαύρου χρώματος. Ενδείκνυνται για εργασίες που απαιτείται άριστη αφή, για εργασίες που επιβάλεται η χρήση χημικών ουσιών, για εργασίες όπου δεν φαίνεται ο χρωματισμός του γαντιού από διάφορες ουσίες. Κατάλληλο για εργαστήρια τατουάζ, συνεργεία αυτοκινήτων, κομμωτήρια, εργαστήρια χημικών αναλύσεων.</Description>
+		<Barcode>5202054468880</Barcode>
+		<Quantity>80</Quantity>
+		<Size>L</Size>
+	</product>
+	<product>
+		<ID>68053</ID>
+		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Medium Μαύρο 100τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>6</VAT>
+		<Price>4.69</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1083</MPN>
+		<Description>Γάντια μιάς χρήσης νιτριλίου μαύρου χρώματος. Ενδείκνυνται για εργασίες που απαιτείται άριστη αφή, για εργασίες που επιβάλεται η χρήση χημικών ουσιών, για εργασίες όπου δεν φαίνεται ο χρωματισμός του γαντιού από διάφορες ουσίες. Κατάλληλο για εργαστήρια τατουάζ, συνεργεία αυτοκινήτων, κομμωτήρια, εργαστήρια χημικών αναλύσεων.</Description>
+		<Barcode>5202054468873</Barcode>
+		<Quantity>40</Quantity>
+		<Size>M</Size>
 	</product>
 	<product>
 		<ID>68081</ID>
@@ -9038,7 +9164,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>68201</ID>
-		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ</Name>
+		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ EXTRA LARGE</Name>
 		<Product_Link>https://www.viosarp.gr/el/product/gantia-ergasias-nitrilioy-vc1179-xl-no105-0</Product_Link>
 		<Image_Link>https://antzoulatosmarket.gr/wp-content/uploads/2023/01/image-1ea1c377-8b00-ea11-9f9e-342387f0a054-l.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9051,8 +9177,44 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1088</MPN>
 		<Description>Γάντια εργασίας γενικής χρήσης για την προστασία και την ασφάλεια των χεριών σας, από την Viosarp. Είναι κατασκευασμένα από νιτρίλιο, ένα υλικό που προσφέρει στα γάντια αντοχή στην τριβή και τα κοψίματα.</Description>
 		<Barcode>5206753012214</Barcode>
-		<Quantity>38</Quantity>
-		<Size>M, L, XL</Size>
+		<Quantity>150</Quantity>
+		<Size>XL</Size>
+	</product>
+	<product>
+		<ID>68202</ID>
+		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ LARGE</Name>
+		<Product_Link>https://www.skroutz.gr/s/27459203/Viosarp-Gantia-Ergasias-Nitriliou-Gri-VC1179.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/027459/27459203/20220804122636_viosarp_gantia_ergasias_vc1179_gri.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.77</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
+		<Manufacturer>VIOSARP</Manufacturer>
+		<MPN>1089</MPN>
+		<Description>Γάντια εργασίας γενικής χρήσης για την προστασία και την ασφάλεια των χεριών σας, από την Viosarp. Είναι κατασκευασμένα από νιτρίλιο, ένα υλικό που προσφέρει στα γάντια αντοχή στην τριβή και τα κοψίματα.</Description>
+		<Barcode>5206753012207</Barcode>
+		<Quantity>120</Quantity>
+		<Size>L</Size>
+	</product>
+	<product>
+		<ID>68203</ID>
+		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ MEDIUM</Name>
+		<Product_Link>https://www.skroutz.gr/s/27459203/Viosarp-Gantia-Ergasias-Nitriliou-Gri-VC1179.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/027459/27459203/20220804122636_viosarp_gantia_ergasias_vc1179_gri.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.77</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
+		<Manufacturer>VIOSARP</Manufacturer>
+		<MPN>1090</MPN>
+		<Description>Γάντια εργασίας γενικής χρήσης για την προστασία και την ασφάλεια των χεριών σας, από την Viosarp. Είναι κατασκευασμένα από νιτρίλιο, ένα υλικό που προσφέρει στα γάντια αντοχή στην τριβή και τα κοψίματα.</Description>
+		<Barcode>5206753012191</Barcode>
+		<Quantity>20</Quantity>
+		<Size>M</Size>
 	</product>
 	<product>
 		<ID>70003</ID>
