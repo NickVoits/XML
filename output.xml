@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-07 15:09</created_at>
+	<created_at>2024-10-07 15:25</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2045,7 +2045,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>3552</Quantity>
+		<Quantity>3606</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -2207,7 +2207,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<Barcode>5202908000112</Barcode>
-		<Quantity>409</Quantity>
+		<Quantity>410</Quantity>
 	</product>
 	<product>
 		<ID>17075</ID>
@@ -9439,7 +9439,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<Barcode>5202995010537</Barcode>
-		<Quantity>59</Quantity>
+		<Quantity>29</Quantity>
 	</product>
 	<product>
 		<ID>70302</ID>
@@ -9636,7 +9636,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>1731</Quantity>
+		<Quantity>1727</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -9655,7 +9655,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>942</Quantity>
+		<Quantity>938</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -9711,7 +9711,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>529</Quantity>
+		<Quantity>525</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -15787,7 +15787,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Από 100% ελληνικά σκληρά στάρια
 Χρόνος βρασμού 7-8 λεπτά</Description>
 		<Barcode>5201013005029</Barcode>
-		<Quantity>2757</Quantity>
+		<Quantity>2747</Quantity>
 	</product>
 	<product>
 		<ID>83102</ID>
@@ -15878,7 +15878,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.5 kg</Weight>
 		<Description>Χοντρό κριθαράκι της εταιρίας Famiglia, για να φτιάξετε ένα γρήγορο γεύμα ή ένα έδεσμα γαστρονομίας!</Description>
 		<Barcode>5201013005036</Barcode>
-		<Quantity>1587</Quantity>
+		<Quantity>1577</Quantity>
 	</product>
 	<product>
 		<ID>83121</ID>
@@ -15896,7 +15896,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια κοφτά ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<Barcode>5201013005050</Barcode>
-		<Quantity>523</Quantity>
+		<Quantity>513</Quantity>
 	</product>
 	<product>
 		<ID>83122</ID>
@@ -15932,7 +15932,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια πέννες απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<Barcode>5201013005128</Barcode>
-		<Quantity>862</Quantity>
+		<Quantity>852</Quantity>
 	</product>
 	<product>
 		<ID>83124</ID>
@@ -17494,6 +17494,6 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
 		<Barcode>8007520012188</Barcode>
-		<Quantity>1048</Quantity>
+		<Quantity>1024</Quantity>
 	</product>
 </mywebstore>
