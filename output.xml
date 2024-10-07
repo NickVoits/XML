@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-07 12:20</created_at>
+	<created_at>2024-10-07 12:22</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2036,7 +2036,7 @@
 		<Image_Link>https://www.362grocery.com/api/Images/ProductImageList?ImageID=d7596862-c7a2-424e-ba6d-a759de6db60a</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
+		<VAT>φρο</VAT>
 		<Price>0.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
