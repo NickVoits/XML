@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-14 16:09</created_at>
+	<created_at>2024-10-14 16:45</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -455,7 +455,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>515</Quantity>
+		<Quantity>511</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -971,7 +971,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλασική συνταγή της ελληνικής γκαζόζας φτιαγμένη μοναδικά και με μεράκι από φυσικό ξινό νερό Φλώρινας!</Description>
 		<Barcode>5205241000252</Barcode>
-		<Quantity>192</Quantity>
+		<Quantity>186</Quantity>
 	</product>
 	<product>
 		<ID>11914</ID>
@@ -989,7 +989,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό της εταιρείας Αφοί Δινάκη με φυσικό χυμό πορτοκαλιών.</Description>
 		<Barcode>5205241000054</Barcode>
-		<Quantity>1213</Quantity>
+		<Quantity>1195</Quantity>
 	</product>
 	<product>
 		<ID>11915</ID>
@@ -1007,7 +1007,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ποτέ άλλοτε η λεμονάδα δε συνδύαζε τόσο μοναδικά τους χυμούς και τα αρώματα από φρέσκα, ζουμερά ελληνικά λεμόνια και το εξαιρετικό φυσικό ξινό νερό Φλώρινας.  Όλη η γεύση και η δροσιά της ελληνικής γης σε ένα ποτήρι.</Description>
 		<Barcode>5205241000153</Barcode>
-		<Quantity>422</Quantity>
+		<Quantity>416</Quantity>
 	</product>
 	<product>
 		<ID>11916</ID>
@@ -1025,7 +1025,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό της εταιρείας Αφοί Δινάκη με φυσικό χυμό βύσσινων.</Description>
 		<Barcode>5205241000450</Barcode>
-		<Quantity>404</Quantity>
+		<Quantity>398</Quantity>
 	</product>
 	<product>
 		<ID>12011</ID>
@@ -2623,7 +2623,7 @@
    Όγκος Τεμαχίου: 0.5lt
     Τεμάχια: 1</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>10684</Quantity>
+		<Quantity>10404</Quantity>
 	</product>
 	<product>
 		<ID>20203-Τ</ID>
@@ -2643,7 +2643,7 @@
    Όγκος Τεμαχίου: 1.5lt
     Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>5084</Quantity>
+		<Quantity>4412</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -3225,7 +3225,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
 		<Barcode>5201214100349</Barcode>
-		<Quantity>90</Quantity>
+		<Quantity>91</Quantity>
 	</product>
 	<product>
 		<ID>40431</ID>
@@ -6653,7 +6653,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 • Προστατεύουν Από Κοκκινίλες
 • Με 3 Λεπίδες η Καθεμία</Description>
 		<Barcode>3014260409807</Barcode>
-		<Quantity>206</Quantity>
+		<Quantity>204</Quantity>
 	</product>
 	<product>
 		<ID>62024</ID>
@@ -9119,7 +9119,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<Barcode>5202054454852</Barcode>
-		<Quantity>354</Quantity>
+		<Quantity>350</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -9137,7 +9137,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1076</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<Barcode>5202054454821</Barcode>
-		<Quantity>299</Quantity>
+		<Quantity>295</Quantity>
 		<Size>M</Size>
 	</product>
 	<product>
@@ -9191,7 +9191,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>4250016482772</Barcode>
-		<Quantity>220</Quantity>
+		<Quantity>210</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -10373,7 +10373,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
 		<Barcode>4084500183087</Barcode>
-		<Quantity>1008</Quantity>
+		<Quantity>1007</Quantity>
 	</product>
 	<product>
 		<ID>72021</ID>
