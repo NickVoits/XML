@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-22 10:09</created_at>
+	<created_at>2024-10-22 10:22</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -545,7 +545,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>657</Quantity>
+		<Quantity>656</Quantity>
 	</product>
 	<product>
 		<ID>110351</ID>
@@ -7718,27 +7718,6 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Quantity>8</Quantity>
 	</product>
 	<product>
-		<ID>67162</ID>
-		<Name>Aroma Multi Action Κρέμα Προσώπου Νυκτός για Ενυδάτωση με Υαλουρονικό Οξύ &amp; Aloe Vera 50ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/28671958/Aroma-Multi-Action-Krema-Prosopou-Nyktos-gia-Enydatosi-me-Yalouroniko-Oxy-Aloe-Vera-50ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/028671/28671958/20230111091305_aroma_multi_action_night_cream_50ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>6.13</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Προσώπου &gt; Κρέμες Προσώπου</Category_Path>
-		<Manufacturer>AROMA</Manufacturer>
-		<MPN>1218</MPN>
-		<Description>Κρέμα προσώπου νυκτός της εταιρείας Aroma. Εμπλουτισμένη με υαλουρονικό οξύ και aloe vera προσφέρει άμεση ενυδάτωση του δέρματος.
-Βασικά Χαρακτηριστικά:
-• Τύπος επιδερμίδας: Όλοι οι τύποι
-• Κατάλληλη για ηλικίες: 40+
-• Όγκος: 50 ml</Description>
-		<Barcode>5208005100472</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>67201</ID>
 		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17339634/Aroma-Bio-Enydatiki-Krema-CHerion-Honey-Yogurt-200ml.html</Product_Link>
@@ -11153,7 +11132,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0795</MPN>
 		<Description>Το χλώριο REX είναι γνωστό σε όλους. Αυτό εμπιστεύονται οι καταναλωτές σε νοικοκυριά, σχολεία, νοσοκομεία, παντού! Tο χλώριο REX σας χαρίζει την δύναμη της απόλυτης καθαριότητας, λεύκανσης και απολύμανσης. Καταπολεμά με τον πιο αποτελεσματικό τρόπο μικρόβια, μύκητες και ιούς, αφήνοντας τον χώρο σας και τα ρούχα σας απόλυτα καθαρά και λευκά. Χαρείτε την σίγουρη απολύμανση! Χαρείτε την σίγουρη καθαριότητα και υγιεινή!</Description>
 		<Barcode>5200250701022</Barcode>
-		<Quantity>155</Quantity>
+		<Quantity>153</Quantity>
 	</product>
 	<product>
 		<ID>73602</ID>
@@ -14060,7 +14039,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.
 </Description>
 		<Barcode>5202054467555</Barcode>
-		<Quantity>527</Quantity>
+		<Quantity>524</Quantity>
 	</product>
 	<product>
 		<ID>78105</ID>
@@ -14162,7 +14141,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>3800206611195</Barcode>
-		<Quantity>529</Quantity>
+		<Quantity>526</Quantity>
 	</product>
 	<product>
 		<ID>78119</ID>
