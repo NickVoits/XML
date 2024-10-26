@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-26 14:02</created_at>
+	<created_at>2024-10-26 14:15</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -325,7 +325,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>691</Quantity>
+		<Quantity>659</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -1079,7 +1079,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>2182</Quantity>
+		<Quantity>2178</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -2643,7 +2643,7 @@
    Όγκος Τεμαχίου: 1.5lt
     Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>5988</Quantity>
+		<Quantity>5948</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
