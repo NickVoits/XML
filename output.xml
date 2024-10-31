@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-10-31 14:50</created_at>
+	<created_at>2024-10-31 15:11</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -455,7 +455,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>304</Quantity>
+		<Quantity>296</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -473,7 +473,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>615</Quantity>
+		<Quantity>607</Quantity>
 	</product>
 	<product>
 		<ID>110321</ID>
@@ -3851,7 +3851,7 @@
 		<MPN>1527</MPN>
 		<Description>Το "Idylle D' Achinos"  αποτελεί μία από τις καινούργιες δημιουργίες του οινοποιείου La Tour Melas.</Description>
 		<Barcode>5214000516651</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>47251</ID>
@@ -10759,7 +10759,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1108</MPN>
 		<Description>Η κρέμα καθαρισμού επιφανειών Cif Original με φυσικά σωματίδια που βοηθούν στον καθαρισμό δρα βαθιά στους λεκέδες και την βρωμιά. Η σύνθεσή της βοηθά στην απομάκρυνση των πιο δύσκολων λεκέδων χωρίς να βλάπτει τις επιφάνειες.</Description>
 		<Barcode>5000186735036</Barcode>
-		<Quantity>83</Quantity>
+		<Quantity>82</Quantity>
 	</product>
 	<product>
 		<ID>72122</ID>
@@ -11165,7 +11165,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<Barcode>8711600347083</Barcode>
-		<Quantity>1870</Quantity>
+		<Quantity>1869</Quantity>
 	</product>
 	<product>
 		<ID>73531</ID>
