@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-04 13:04</created_at>
+	<created_at>2024-11-04 14:19</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -53,7 +53,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας Άλφα είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
 		<Barcode>5201261801152</Barcode>
-		<Quantity>344</Quantity>
+		<Quantity>340</Quantity>
 	</product>
 	<product>
 		<ID>31075</ID>
@@ -362,7 +362,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>1334</Quantity>
+		<Quantity>1322</Quantity>
 	</product>
 	<product>
 		<ID>110118</ID>
@@ -418,7 +418,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>278</Quantity>
+		<Quantity>274</Quantity>
 	</product>
 	<product>
 		<ID>110311</ID>
@@ -473,7 +473,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>472</Quantity>
+		<Quantity>468</Quantity>
 	</product>
 	<product>
 		<ID>110321</ID>
@@ -545,7 +545,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>210</Quantity>
+		<Quantity>206</Quantity>
 	</product>
 	<product>
 		<ID>110351</ID>
@@ -1043,7 +1043,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>2361</Quantity>
+		<Quantity>1899</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -1079,7 +1079,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>1493</Quantity>
+		<Quantity>1273</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -1097,7 +1097,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>605</Quantity>
+		<Quantity>383</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -1259,7 +1259,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>54491472</Barcode>
-		<Quantity>314</Quantity>
+		<Quantity>98</Quantity>
 	</product>
 	<product>
 		<ID>120318-Τ</ID>
@@ -1619,7 +1619,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>583</Quantity>
+		<Quantity>574</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -1637,7 +1637,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>485</Quantity>
+		<Quantity>483</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1691,7 +1691,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<Barcode>5201946910292</Barcode>
-		<Quantity>415</Quantity>
+		<Quantity>413</Quantity>
 	</product>
 	<product>
 		<ID>130359</ID>
@@ -1727,7 +1727,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<Barcode>5201946910445</Barcode>
-		<Quantity>247</Quantity>
+		<Quantity>238</Quantity>
 	</product>
 	<product>
 		<ID>13037</ID>
@@ -2243,7 +2243,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908101000</Barcode>
-		<Quantity>125</Quantity>
+		<Quantity>113</Quantity>
 	</product>
 	<product>
 		<ID>17077</ID>
@@ -2643,7 +2643,7 @@
    Όγκος Τεμαχίου: 1.5lt
     Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>8448</Quantity>
+		<Quantity>8372</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2661,7 +2661,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>3492</Quantity>
+		<Quantity>3436</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2679,7 +2679,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>2008</Quantity>
+		<Quantity>1948</Quantity>
 	</product>
 	<product>
 		<ID>21412-Τ</ID>
@@ -2805,7 +2805,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το Perrier, το Φυσικό Μεταλλικό νερό με προσθήκη διοξειδίου του άνθρακα, έχει καθιερωθεί ως την απόλυτα υγιεινή εναλλακτική επιλογή! Με τις 50 εκατομμύρια φυσαλίδες ανά λίτρο, σε δροσίζει όλη την διάρκεια της ημέρας!</Description>
 		<Barcode>3179730011369</Barcode>
-		<Quantity>504</Quantity>
+		<Quantity>480</Quantity>
 	</product>
 	<product>
 		<ID>22005</ID>
@@ -3111,7 +3111,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>226</Quantity>
+		<Quantity>682</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -3147,7 +3147,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Μοσχάτο κοκκινέλι είναι ερυθρός ξηρός οίνος που παράγεται από Μοσχάτο. Είναι κρασί με φωτεινό κόκκινο χρώμα που συνοδεύει απολαυστικά μεγάλη ποικιλία φαγητών. Πίνεται σε θερμοκρασία 12-14°C.</Description>
 		<Barcode>5202037115039</Barcode>
-		<Quantity>23</Quantity>
+		<Quantity>137</Quantity>
 	</product>
 	<product>
 		<ID>40224</ID>
@@ -3261,7 +3261,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Στον Ημίγλυκο αυτό ποικιλιακό οίνο του Μοσχάτου Μαύρου Τυρνάβου τα αζύμωτα σάκχαρα του σταφυλιού που περιέχονται αναδεικνύουν τα πληθωρικά αρώματα τριαντάφυλλου και τη φρουτώδη επίγευση.</Description>
 		<Barcode>5202037114117</Barcode>
-		<Quantity>16</Quantity>
+		<Quantity>36</Quantity>
 	</product>
 	<product>
 		<ID>40204</ID>
@@ -3279,7 +3279,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
 		<Barcode>5202037114162</Barcode>
-		<Quantity>34</Quantity>
+		<Quantity>54</Quantity>
 	</product>
 	<product>
 		<ID>40412</ID>
@@ -3467,7 +3467,7 @@
 Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.
 Σερβίρεται στους 8-10°C.</Description>
 		<Barcode>5204222575017</Barcode>
-		<Quantity>80</Quantity>
+		<Quantity>68</Quantity>
 	</product>
 	<product>
 		<ID>46302</ID>
@@ -3714,7 +3714,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888160100</Barcode>
-		<Quantity>91</Quantity>
+		<Quantity>79</Quantity>
 	</product>
 	<product>
 		<ID>47093</ID>
@@ -3731,7 +3731,7 @@
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888070027</Barcode>
-		<Quantity>78</Quantity>
+		<Quantity>66</Quantity>
 	</product>
 	<product>
 		<ID>470935</ID>
@@ -3748,7 +3748,7 @@
 		<MPN>1330</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888273152</Barcode>
-		<Quantity>26</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>47094</ID>
@@ -3873,7 +3873,7 @@
     •Αλκοόλ: 11,5% v/v
     •Σερβίρεται στους 8-10°C</Description>
 		<Barcode>5200111580735</Barcode>
-		<Quantity>95</Quantity>
+		<Quantity>71</Quantity>
 	</product>
 	<product>
 		<ID>47502</ID>
@@ -3996,7 +3996,7 @@
 		<MPN>1337</MPN>
 		<Description>Το Τσιλιλής Κρασί Ασκητικός Ερυθρό Ξηρό 750ml είναι ένα εξαιρετικό ελληνικό ερυθρό κρασί με πλούσιο άρωμα και βαθύ χρώμα. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και προσφέρει σύνθετες γεύσεις με νότες κόκκινων φρούτων, μπαχαρικών και βελούδινης υφής. Ιδανικό για συνοδεία κόκκινων κρεάτων, ζυμαρικών με πλούσιες σάλτσες και τυριών, προσφέροντας μια ιδιαίτερη και απολαυστική οινική εμπειρία.</Description>
 		<Barcode>5202548507231</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>14</Quantity>
 	</product>
 	<product>
 		<ID>47886</ID>
@@ -4500,7 +4500,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<Barcode>520237120064</Barcode>
-		<Quantity>123</Quantity>
+		<Quantity>603</Quantity>
 	</product>
 	<product>
 		<ID>52352</ID>
@@ -4518,7 +4518,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5202037130063</Barcode>
-		<Quantity>357</Quantity>
+		<Quantity>837</Quantity>
 	</product>
 	<product>
 		<ID>52401</ID>
@@ -4769,7 +4769,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>324</Quantity>
+		<Quantity>322</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -5454,7 +5454,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.8 kg</Weight>
 		<Description>Το Frangelico είναι ένα ισορροπημένο λικέρ, με γεύσεις ψημένων φουντουκιών, σοκολάτας και βανίλιας. Προέρχεται απο την απόσταξη μείγματος αλκοόλης και νερού όπου έχουν εκχυλιστεί καβουρδισμένα φουντούκια. Κατόπιν αρωματίζεται με καβουρδισμένο καφέ, κακάο, βανίλια και ρίζα ραβεντιού.</Description>
 		<Barcode>8004160660304</Barcode>
-		<Quantity>118</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>55536</ID>
@@ -5766,7 +5766,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.8 kg</Weight>
 		<Description>Το MONIN Σιρόπι Blood Orange 700ml είναι ένα υψηλής ποιότητας σιρόπι με έντονη γεύση κόκκινου πορτοκαλιού, γνωστό για την πικάντικη και γλυκόξινη νότα του. Ιδανικό για την παρασκευή δροσιστικών κοκτέιλ, αναψυκτικών, και γλυκών δημιουργιών, προσδίδει ένα ζωντανό χρώμα και μια ιδιαίτερη φρουτώδη γεύση σε κάθε συνταγή.</Description>
 		<Barcode>3052910041076</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 	</product>
 	<product>
 		<ID>55808</ID>
@@ -5988,7 +5988,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0241</MPN>
 		<Description>Η οδοντόκρεμα Colgate Triple Action ενδείκνυται για καθημερινή χρήση με τριπλή δράση και μέντα.</Description>
 		<Barcode>6920354812521</Barcode>
-		<Quantity>2010</Quantity>
+		<Quantity>2004</Quantity>
 	</product>
 	<product>
 		<ID>60002</ID>
@@ -6039,7 +6039,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>0806</MPN>
 		<Description>Οδοντόκρεμα καθημερινής χρήσης με προηγμένη φόρμουλα με μικροκρυστάλλους. Σχεδιασμένη για να αποκαθιστά τη φυσική λευκότητα των δοντιών δύο φορές καλύτερα από ότι μια συνηθισμένη οδοντόκρεμα.</Description>
 		<Barcode>7891024137895</Barcode>
-		<Quantity>711</Quantity>
+		<Quantity>705</Quantity>
 	</product>
 	<product>
 		<ID>60011</ID>
@@ -6631,7 +6631,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>1.5 kg</Weight>
 		<Description>Πάνες Trusted Trends Junior 5, Moroccan baby Value Pack 44 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
 		<Barcode>3800024027871</Barcode>
-		<Quantity>717</Quantity>
+		<Quantity>714</Quantity>
 	</product>
 	<product>
 		<ID>61201</ID>
@@ -9134,7 +9134,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>8008970011127</Barcode>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 	</product>
 	<product>
 		<ID>67091</ID>
@@ -9299,7 +9299,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>4250016482758</Barcode>
-		<Quantity>260</Quantity>
+		<Quantity>250</Quantity>
 		<Size>M</Size>
 	</product>
 	<product>
@@ -9495,7 +9495,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100251629</Barcode>
-		<Quantity>6757</Quantity>
+		<Quantity>6756</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -9566,7 +9566,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100251629</Barcode>
-		<Quantity>5024</Quantity>
+		<Quantity>5023</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -9973,7 +9973,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>1334</Quantity>
+		<Quantity>1328</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -9992,7 +9992,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>782</Quantity>
+		<Quantity>778</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -10011,7 +10011,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055213</Barcode>
-		<Quantity>981</Quantity>
+		<Quantity>978</Quantity>
 	</product>
 	<product>
 		<ID>71024</ID>
@@ -10048,7 +10048,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>456</Quantity>
+		<Quantity>452</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -10245,7 +10245,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1268</MPN>
 		<Description>Το ARIEL LOROR 2x75μεζ. (2x3,75 lit) είναι ένα υγρό απορρυπαντικό πλυντηρίου, ιδανικό για την αφαίρεση δύσκολων λεκέδων, προσφέροντας αποτελεσματικό καθαρισμό σε βάθος. Κατάλληλο για χρήση σε χαμηλές θερμοκρασίες, διατηρεί τα ρούχα φρέσκα και προστατεύει τα υφάσματα. Συσκευασία 2 τεμαχίων, συνολικής ποσότητας 7.5 λίτρων, που αρκεί για περίπου 150 πλύσεις.</Description>
 		<Barcode>8700216211451</Barcode>
-		<Quantity>204</Quantity>
+		<Quantity>200</Quantity>
 	</product>
 	<product>
 		<ID>71232</ID>
@@ -10372,7 +10372,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 • Εξαφανίζει του Λεκέδες
 • Κατάλληλο για Λευκά Ρούχα</Description>
 		<Barcode>5201137010459</Barcode>
-		<Quantity>824</Quantity>
+		<Quantity>819</Quantity>
 	</product>
 	<product>
 		<ID>71305</ID>
@@ -10955,7 +10955,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1272</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
 		<Barcode>8015100563050</Barcode>
-		<Quantity>593</Quantity>
+		<Quantity>588</Quantity>
 	</product>
 	<product>
 		<ID>72254</ID>
@@ -14672,13 +14672,13 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>78801</ID>
-		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 35εκ. Μπλε 1kg</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 37εκ. Μπλε 1kg</Name>
 		<Product_Link>https://www.skroutz.gr/s/26895827/Tsantes-Fanelaki-Plastikes-Sakoules-V-Mple-35cm-1kg-CHYMA.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/026895/26895827/xlarge_20210202095108_tsantes_fanelaki_plastikes_sakoules_v_mple_35cm_1kg.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.88</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -14690,13 +14690,13 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>78802</ID>
-		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 45εκ. Μπλε 1kg</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 43εκ. Μπλε 1kg</Name>
 		<Product_Link>https://makarigakispack.gr/sakoyla-fanelaki-no-45-mple-237-tem-kilo-a-poiotita</Product_Link>
 		<Image_Link>https://makarigakispack.gr/image/cache/catalog/%20%CE%A3%CE%91%CE%9A%CE%9F%CE%A5%CE%9B%CE%95%CE%A3/sakoyla-fanelaki-makarigakis-500x500w.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.88</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -14714,7 +14714,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.88</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -14735,7 +14735,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.88</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -14747,13 +14747,13 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>78811</ID>
-		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 35εκ. 1kg</Name>
+		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 37εκ. 1kg</Name>
 		<Product_Link>https://www.skroutz.gr/s/41872666/Sakoules-Plastikes-Fanelaki-Leykes-35cm-1Kg.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/041872/41872666/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_35cm_1kg.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.16</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -14765,13 +14765,13 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>78812</ID>
-		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 45εκ. 1kg</Name>
+		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 43εκ. 1kg</Name>
 		<Product_Link>https://www.skroutz.gr/s/30506332/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-45ek-1kg-3800232530231.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/030506/30506332/xlarge_20210818123736_plastikes_sakoules_45cm_1kg_3800232530231.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.16</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -14782,6 +14782,24 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Quantity>1097</Quantity>
 	</product>
 	<product>
+		<ID>78815</ID>
+		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 50εκ. 1kg</Name>
+		<Product_Link>https://www.skroutz.gr/s/32185992/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-50ek-1kg.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/032185/32185992/20211108090959_plastikes_sakoules_50cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.66</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1564</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
+		<Barcode>5202054473648</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>78816</ID>
 		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 60εκ. 1kg</Name>
 		<Product_Link>https://www.skroutz.gr/s/41872667/Sakoules-Plastikes-Fanelaki-Leykes-60cm-1Kg.html</Product_Link>
@@ -14789,7 +14807,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.16</Price>
+		<Price>2.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -14836,6 +14854,171 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 • Συσκευασία: 200 τεμάχια</Description>
 		<Barcode>5202054468651</Barcode>
 		<Quantity>342</Quantity>
+	</product>
+	<product>
+		<ID>78901</ID>
+		<Name>Θαλασσινός Αλουμινόχαρτο Economy 10m x 29cm   </Name>
+		<Product_Link>https://www.skroutz.gr/s/55319782/Alouminocharto-48437.html</Product_Link>
+		<Image_Link>https://ioannidisdianomes.gr/wp-content/uploads/2023/02/0684.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.93</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1565</MPN>
+		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
+		<Barcode>5202054036188</Barcode>
+		<Quantity>861</Quantity>
+	</product>
+	<product>
+		<ID>78902</ID>
+		<Name>Θαλασσινός Αλουμινόχαρτο Economy 30m x 29cm  </Name>
+		<Product_Link>https://www.skroutz.gr/s/56528386/Alouminocharto-cmxcmxm-50332.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/056528/56528386/20240930105815_alouminocharto_cmxcmxm_50332.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1566</MPN>
+		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
+		<Barcode>5202054036201</Barcode>
+		<Quantity>371</Quantity>
+	</product>
+	<product>
+		<ID>78911</ID>
+		<Name>Θαλασσινός Αλουμινόχαρτο Economy 100m x 29cm</Name>
+		<Product_Link>https://www.skroutz.gr/s/26022983/THalassinos-Alouminocharto-100m-x-29cm.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/026022/26022983/20210203140658_thalassinos_alouminocharto_100m_x29_cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.63</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1567</MPN>
+		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων. 
+
+    Για επαγγελματική ή οικιακή χρήση. 
+    Μήκος: 100m
+    Πλάτος: 30cm</Description>
+		<Barcode>5202054032272</Barcode>
+		<Quantity>202</Quantity>
+	</product>
+	<product>
+		<ID>78921</ID>
+		<Name>Softline Fresher Αντικολλητικό Χαρτί 8m x 38cm</Name>
+		<Product_Link>https://www.skroutz.gr/s/26446350/Softline-Fresher-Antikollitiko-CHarti-8m-x-38cm.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/026446/26446350/20201231141036_softline_fresher_antikollitiko_charti_8mx38cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.03</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>SOFTLINE</Manufacturer>
+		<MPN>1568</MPN>
+		<Description>Αντικολλητικό χαρτί της εταιρίας Softline Fresher, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.
+
+Χαρακτηριστικά
+
+    Μήκος(μέτρα): 8μ.
+    Πλάτος: 38εκ.</Description>
+		<Barcode>5201062008965</Barcode>
+		<Quantity>358</Quantity>
+	</product>
+	<product>
+		<ID>78922</ID>
+		<Name>Αντικολλητικό Χαρτί Veler 42x38cm 18τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/24337570/HOMie-Antikollitiko-CHarti-Veler-42x38cm-18tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/024337/24337570/20210114145358_antikollitiko_fyllo_38x42cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.99</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>VELER</Manufacturer>
+		<MPN>1569</MPN>
+		<Description>Αντικολλητικό χαρτί της εταιρίας HOMie, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.
+
+Χαρακτηριστικά
+
+    Πλάτος: 38εκ.
+    Μήκος(εκατοστά): 42εκ.
+    Τεμάχια: 18τμχ</Description>
+		<Barcode>5202887031831</Barcode>
+		<Quantity>61</Quantity>
+	</product>
+	<product>
+		<ID>78927</ID>
+		<Name>Αντικολλητικό Χαρτί για Airfryer 20x20cm 25τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/48559010/N-Antikollitiko-CHarti-20x20cm-25tmch-RP-33737.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/048559/48559010/20231213172242_n_antikollitiko_charti_20x20cm_25tmch_rp_33737.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.09</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1570</MPN>
+		<Description>Αντικολλητικό χαρτί κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.
+
+Χαρακτηριστικά
+
+    Πλάτος: 20εκ.
+    Μήκος(εκατοστά): 20εκ.
+    Τεμάχια: 25τμχ</Description>
+		<Barcode>5202054473563</Barcode>
+		<Quantity>49</Quantity>
+	</product>
+	<product>
+		<ID>78931</ID>
+		<Name>Θαλασσινός Μεμβράνη Τροφίμων 30m x 30cm</Name>
+		<Product_Link>https://www.skroutz.gr/s/34853619/THalassinos-Memvrani-30m-x-30cm.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/034853/34853619/20220321142137_thalassinos_memvrani_30m.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1571</MPN>
+		<Description>Μεμβράνη της εταιρίας Θαλασσινός, για να προστατεύει τη φρεσκάδα και τη γεύση των τροφίμων χάρη στην ικανότητα να κλείνει αεροστεγώς πάνω σε στεγνές επιφάνειες και να εμποδίζει τη μεταφορά των οσμών μεταξύ των τροφίμων στο ψυγείο.
+
+Χαρακτηριστικά
+
+    Μήκος(μέτρα): 30μ.
+    Πλάτος: 30εκ.
+    Τεμάχια: 1τμχ</Description>
+		<Barcode>5202054031855</Barcode>
+		<Quantity>1769</Quantity>
+	</product>
+	<product>
+		<ID>78932</ID>
+		<Name>Handy Επαγγελματική Μεμβράνη Τροφίμων 29cm x 200m</Name>
+		<Product_Link>https://www.skroutz.gr/s/31852236/Epagelmatiki-Memvrani-8681146051174-29cm-x-200m.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/031852/31852236/20211021114350_epagelmatiki_memvrani_8681146051174_29cm_x_200m.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.09</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Είδη Τυλίγματος Τροφίμων (Χονδρική)</Category_Path>
+		<Manufacturer>HANDY</Manufacturer>
+		<MPN>1572</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Διαστάσεις: 29cm x 200m</Description>
+		<Barcode>8681146051174</Barcode>
+		<Quantity>91</Quantity>
 	</product>
 	<product>
 		<ID>78952</ID>
@@ -18683,7 +18866,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 • Κυρίως συστατικό: Κοτόπουλο, Ρύζι
 • Συσκευασία: 15kg</Description>
 		<Barcode>5202546009119</Barcode>
-		<Quantity>167</Quantity>
+		<Quantity>166</Quantity>
 	</product>
 	<product>
 		<ID>99003</ID>
