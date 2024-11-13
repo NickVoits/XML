@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-13 13:03</created_at>
+	<created_at>2024-11-13 13:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -16568,7 +16568,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>7971162</ID>
+		<ID>7971062</ID>
 		<Name>Eurolamp Κοινή  Λάμπα LED 8W για Ντουί Β22 4000K 220-240V Φυσικό Λευκό 650lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27132137/Eurolamp-Lampa-LED-gia-Ntoui-B22-Fysiko-Leyko-650lm-147-77051.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/027132/27132137/20220208143137_eurolamp_lampa_led_gia_ntoui_b22_fysiko_leyko_650lm_147_77051.jpeg</Image_Link>
@@ -16590,7 +16590,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>7971164</ID>
+		<ID>7971064</ID>
 		<Name>Eurolamp Κοινή  Λάμπα LED 12W για Ντουί Β22 4000K 220-240V Φυσικό Λευκό 1055lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27364727/Eurolamp-Lampa-LED-gia-Ntoui-B22-kai-Schima-A60-THermo-Leyko-1055lm-147-77073.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027364/27364727/20210920170301_eurolamp_lampa_led_gia_ntoui_b22_kai_schima_a60_thermo_leyko_1055lm_147_77073.jpeg</Image_Link>
@@ -16611,6 +16611,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Εφαρμογή: B22
     Σχήμα: A60</Description>
 		<Barcode> 5207227113284</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7971072</ID>
