@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-18 16:05</created_at>
+	<created_at>2024-11-18 16:10</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2135,7 +2135,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000174</Barcode>
-		<Quantity>1615</Quantity>
+		<Quantity>1588</Quantity>
 	</product>
 	<product>
 		<ID>17071</ID>
@@ -11726,7 +11726,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
 		<Barcode>5204170300570</Barcode>
-		<Quantity>583</Quantity>
+		<Quantity>582</Quantity>
 	</product>
 	<product>
 		<ID>74242</ID>
@@ -14933,7 +14933,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036188</Barcode>
-		<Quantity>847</Quantity>
+		<Quantity>846</Quantity>
 	</product>
 	<product>
 		<ID>78902</ID>
@@ -17694,7 +17694,7 @@ FM Radio (Δεν απαιτείται η χρήση του hands-free για τ�
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.64</Price>
+		<Price>16.85</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Storage &gt; USB Stick</Category_Path>
 		<Manufacturer>SP</Manufacturer>
