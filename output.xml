@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-26 14:01</created_at>
+	<created_at>2024-11-26 14:03</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -362,7 +362,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>2834</Quantity>
+		<Quantity>2828</Quantity>
 	</product>
 	<product>
 		<ID>110118</ID>
@@ -1043,7 +1043,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>2995</Quantity>
+		<Quantity>2989</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -2153,7 +2153,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908110019</Barcode>
-		<Quantity>2829</Quantity>
+		<Quantity>2817</Quantity>
 	</product>
 	<product>
 		<ID>17072</ID>
@@ -2679,7 +2679,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>5732</Quantity>
+		<Quantity>5728</Quantity>
 	</product>
 	<product>
 		<ID>21412-Τ</ID>
@@ -4160,7 +4160,7 @@
 		<Quantity>119</Quantity>
 	</product>
 	<product>
-		<ID>46304</ID>
+		<ID>46004</ID>
 		<Name>Κτήμα Αβαντίς Κρασί Syrah Ερυθρό Ξηρό 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4746618/Ktima-Avantis-Krasi-Syrah-Erythro-Xiro-750ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/004746/4746618/avantissyrah.gif</Image_Link>
@@ -4174,9 +4174,10 @@
 		<MPN>1615</MPN>
 		<Description>Το Syrah του Κτήματος Αβαντίς, είναι το κρασί που καθιέρωσε τον δημιουργό του Απόστολο Μούντριχα στον οινόφιλο κόσμο. Πλούσιο και στιβαρό υποδηλώνει έντονα την παρουσία του.</Description>
 		<Barcode>5200101770030</Barcode>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
-		<ID>46305</ID>
+		<ID>46005</ID>
 		<Name>Κτήμα Αβαντίς Άγιος Χρόνος Viognier Λευκό Ξηρό 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23160444/Ktima-Avantis-Krasi-Agios-CHronos-Viognier-Leyko-Xiro-750ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/023160/23160444/20211019161128_ktima_avantis_krasi_leyko_xiro_agios_chronos_750ml.jpeg</Image_Link>
@@ -4190,10 +4191,10 @@
 		<MPN>1616</MPN>
 		<Description>Λευκός οίνος ποικιλίας Viognier με απαλό λεμονί χρώμα και χρυσές ανταύγειες. Στην μύτη έχει αρώματα ώριμου βερίκοκου και λευκόσαρκου ροδάκινου, πλαισιωμένο από κομψά αρώματα δρυός. Το στόμα είναι ξηρό και πλούσιο από φρέσκα εσπεριδοειδή φρούτα, όπως λεμόνι και μοσχολέμονο. </Description>
 		<Barcode>5200101770559</Barcode>
-		<Quantity>16</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>46308</ID>
+		<ID>46008</ID>
 		<Name>Κτήμα Αβαντίς Lenga Gewürztraminer Ροζέ Ξηρό 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17546193/Ktima-Avantis-Krasi-Lenga-Gewuerztraminer-Roze-Xiro-750ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/017546/17546193/20200314140850_ktima_avantis_lenga_roze_750ml.jpeg</Image_Link>
@@ -4207,6 +4208,7 @@
 		<MPN>1617</MPN>
 		<Description>Lenga Pink, ποικιλίας Μαυροκουντούρα - Gewürztraminer, παλαίωσης δύο ετών. </Description>
 		<Barcode>5200101770498</Barcode>
+		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>51301</ID>
@@ -7116,7 +7118,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<MPN>1060</MPN>
 		<Description>Αποσμητικό σε μορφή σπρέι που αρωματίζει διακριτικά με το κλασικό άρωμα για μέχρι και 48 ώρες προστασίας.</Description>
 		<Barcode>8720181114441</Barcode>
-		<Quantity>278</Quantity>
+		<Quantity>275</Quantity>
 	</product>
 	<product>
 		<ID>63052</ID>
@@ -20021,7 +20023,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 •Ποσότητα: 1τμχ
 •Βάρος: 405gr</Description>
 		<Barcode>8007520011105</Barcode>
-		<Quantity>976</Quantity>
+		<Quantity>964</Quantity>
 	</product>
 	<product>
 		<ID>99031</ID>
@@ -20087,7 +20089,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 • Κυρίως συστατικό: Κρέας, Ψάρια
 • Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>98</Quantity>
+		<Quantity>97</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
@@ -20106,5 +20108,8 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
 		<Barcode>8007520012188</Barcode>
 		<Quantity>508</Quantity>
+	</product>
+	<product>
+		<Quantity>=COUNTBLANK(Q2:Q1088)</Quantity>
 	</product>
 </mywebstore>
