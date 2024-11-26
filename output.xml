@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-26 12:05</created_at>
+	<created_at>2024-11-26 14:01</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -89,7 +89,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ξανθιά, θολή μπίρα από την καρδιά της Βαυαρίας, η οποία αποτελεί σήμερα συνώνυμο της Weiss μπίρας. Παράγεται σύμφωνα με τον αυστηρό γερμανικό νόμο περί αγνότητας των υλικών του 1516 και περιέχει μόνο νερό, βύνη, λυκίσκο και μαγιά. Δεν παστεριώνεται, γι’ αυτό και δεν περιέχει πρόσθετα και συντηρητικά. Η παραδοσιακή επαναζύμωση που υφίσταται στη φιάλη την κάνει ιδιαίτερα αναζωογονητική. Έχει φρουτώδη, ξηρή καθαρή γεύση, πικάντικη επίγευση και άρωμα φρούτων και μαγιάς.</Description>
 		<Barcode>4002103248248</Barcode>
-		<Quantity>168</Quantity>
+		<Quantity>156</Quantity>
 	</product>
 	<product>
 		<ID>31085</ID>
@@ -325,7 +325,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>1609</Quantity>
+		<Quantity>1593</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -343,7 +343,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<Barcode>75041670</Barcode>
-		<Quantity>1400</Quantity>
+		<Quantity>1388</Quantity>
 	</product>
 	<product>
 		<ID>110110</ID>
@@ -362,7 +362,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>2912</Quantity>
+		<Quantity>2834</Quantity>
 	</product>
 	<product>
 		<ID>110118</ID>
@@ -399,7 +399,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275001708</Barcode>
-		<Quantity>1871</Quantity>
+		<Quantity>1835</Quantity>
 	</product>
 	<product>
 		<ID>11031</ID>
@@ -418,7 +418,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>1046</Quantity>
+		<Quantity>1038</Quantity>
 	</product>
 	<product>
 		<ID>110311</ID>
@@ -455,7 +455,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>389</Quantity>
+		<Quantity>385</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -473,7 +473,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>794</Quantity>
+		<Quantity>786</Quantity>
 	</product>
 	<product>
 		<ID>110321</ID>
@@ -545,7 +545,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>696</Quantity>
+		<Quantity>692</Quantity>
 	</product>
 	<product>
 		<ID>110351</ID>
@@ -655,7 +655,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171310010</Barcode>
-		<Quantity>50</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
 		<ID>11523</ID>
@@ -989,7 +989,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό της εταιρείας Αφοί Δινάκη με φυσικό χυμό πορτοκαλιών.</Description>
 		<Barcode>5205241000054</Barcode>
-		<Quantity>763</Quantity>
+		<Quantity>751</Quantity>
 	</product>
 	<product>
 		<ID>11915</ID>
@@ -1007,7 +1007,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ποτέ άλλοτε η λεμονάδα δε συνδύαζε τόσο μοναδικά τους χυμούς και τα αρώματα από φρέσκα, ζουμερά ελληνικά λεμόνια και το εξαιρετικό φυσικό ξινό νερό Φλώρινας.  Όλη η γεύση και η δροσιά της ελληνικής γης σε ένα ποτήρι.</Description>
 		<Barcode>5205241000153</Barcode>
-		<Quantity>106</Quantity>
+		<Quantity>100</Quantity>
 	</product>
 	<product>
 		<ID>11916</ID>
@@ -1043,7 +1043,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>3001</Quantity>
+		<Quantity>2995</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -1079,7 +1079,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>1838</Quantity>
+		<Quantity>1834</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -1097,7 +1097,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>1172</Quantity>
+		<Quantity>1168</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -1259,7 +1259,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>54491472</Barcode>
-		<Quantity>295</Quantity>
+		<Quantity>293</Quantity>
 	</product>
 	<product>
 		<ID>120318-Τ</ID>
@@ -1385,7 +1385,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Φρουτοποτό Amita με 9 φρούτα και 7 βιταμίνες με γεύση μήλου, πορτοκαλιού, ροδάκινου, σταφυλιού, ανανά, γκρέιπφρουτ, ακτινίδιου, πάσιον και μάγκο από συμπυκνωμένους χυμούς.</Description>
 		<Barcode>5201005179370</Barcode>
-		<Quantity>602</Quantity>
+		<Quantity>458</Quantity>
 	</product>
 	<product>
 		<ID>12058</ID>
@@ -1547,7 +1547,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>508</Quantity>
+		<Quantity>496</Quantity>
 	</product>
 	<product>
 		<ID>130318</ID>
@@ -1655,7 +1655,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>414</Quantity>
+		<Quantity>412</Quantity>
 	</product>
 	<product>
 		<ID>130349</ID>
@@ -1782,7 +1782,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703172</Barcode>
-		<Quantity>744</Quantity>
+		<Quantity>740</Quantity>
 	</product>
 	<product>
 		<ID>14022</ID>
@@ -1894,7 +1894,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<Barcode>90415708</Barcode>
-		<Quantity>3865</Quantity>
+		<Quantity>3847</Quantity>
 	</product>
 	<product>
 		<ID>15101</ID>
@@ -1915,7 +1915,7 @@
 •Δεν περιέχει συντηρητικά
 •Φιλική για το περιβάλλον συσκευασία</Description>
 		<Barcode>5999884034469</Barcode>
-		<Quantity>10684</Quantity>
+		<Quantity>10588</Quantity>
 	</product>
 	<product>
 		<ID>15201</ID>
@@ -2045,7 +2045,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>6437</Quantity>
+		<Quantity>6428</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -2063,7 +2063,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000037</Barcode>
-		<Quantity>2375</Quantity>
+		<Quantity>2348</Quantity>
 	</product>
 	<product>
 		<ID>17057</ID>
@@ -2153,7 +2153,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908110019</Barcode>
-		<Quantity>2832</Quantity>
+		<Quantity>2829</Quantity>
 	</product>
 	<product>
 		<ID>17072</ID>
@@ -2171,7 +2171,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908110002</Barcode>
-		<Quantity>1206</Quantity>
+		<Quantity>1204</Quantity>
 	</product>
 	<product>
 		<ID>17073</ID>
@@ -2189,7 +2189,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908001003</Barcode>
-		<Quantity>1584</Quantity>
+		<Quantity>1568</Quantity>
 	</product>
 	<product>
 		<ID>17074</ID>
@@ -2207,7 +2207,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<Barcode>5202908000112</Barcode>
-		<Quantity>704</Quantity>
+		<Quantity>700</Quantity>
 	</product>
 	<product>
 		<ID>17075</ID>
@@ -2225,7 +2225,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000105</Barcode>
-		<Quantity>818</Quantity>
+		<Quantity>815</Quantity>
 	</product>
 	<product>
 		<ID>17076</ID>
@@ -2279,7 +2279,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000167</Barcode>
-		<Quantity>1238</Quantity>
+		<Quantity>1234</Quantity>
 	</product>
 	<product>
 		<ID>17080</ID>
@@ -2351,7 +2351,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000273</Barcode>
-		<Quantity>767</Quantity>
+		<Quantity>764</Quantity>
 	</product>
 	<product>
 		<ID>17085</ID>
@@ -2643,7 +2643,7 @@
    Όγκος Τεμαχίου: 1.5lt
     Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>25856</Quantity>
+		<Quantity>24828</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2661,7 +2661,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>4144</Quantity>
+		<Quantity>3600</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2679,7 +2679,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>5776</Quantity>
+		<Quantity>5732</Quantity>
 	</product>
 	<product>
 		<ID>21412-Τ</ID>
@@ -2895,7 +2895,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<Barcode>15202548505012</Barcode>
-		<Quantity>310</Quantity>
+		<Quantity>286</Quantity>
 	</product>
 	<product>
 		<ID>40052</ID>
@@ -2931,7 +2931,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ερυθρό κρασί που ξεχωρίζει για τον πλούσιο χαρακτήρα του. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας αρώματα κόκκινων φρούτων, όπως κεράσι και δαμάσκηνο, με νότες μπαχαρικών. Η γεύση του είναι γεμάτη και ισορροπημένη, με ευχάριστη οξύτητα και απαλές τανίνες. Ιδανικό για να συνοδεύσει κόκκινα κρέατα, ζυμαρικά με πλούσιες σάλτσες και τυριά, το κρασί αυτό σερβίρεται καλύτερα σε θερμοκρασία δωματίου.</Description>
 		<Barcode>15202548505210</Barcode>
-		<Quantity>72</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
 		<ID>40054</ID>
@@ -3003,7 +3003,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000000</Barcode>
-		<Quantity>314</Quantity>
+		<Quantity>308</Quantity>
 	</product>
 	<product>
 		<ID>40073</ID>
@@ -3039,7 +3039,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>1341</Quantity>
+		<Quantity>1317</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -3057,7 +3057,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413040181</Barcode>
-		<Quantity>269</Quantity>
+		<Quantity>263</Quantity>
 	</product>
 	<product>
 		<ID>40104</ID>
@@ -3111,7 +3111,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>412</Quantity>
+		<Quantity>406</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -3183,7 +3183,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100318</Barcode>
-		<Quantity>776</Quantity>
+		<Quantity>757</Quantity>
 	</product>
 	<product>
 		<ID>40421</ID>
@@ -3207,7 +3207,7 @@
 
 </Description>
 		<Barcode>5201214100325</Barcode>
-		<Quantity>292</Quantity>
+		<Quantity>278</Quantity>
 	</product>
 	<product>
 		<ID>40425</ID>
@@ -3279,7 +3279,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
 		<Barcode>5202037114162</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>40412</ID>
@@ -3357,7 +3357,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ερυθρό είναι ένα εκλεπτυσμένο κρασί με πλούσια αρώματα ερυθρών φρούτων και μπαχαρικών. Το βαθύ κόκκινο χρώμα του αντικατοπτρίζει την πλούσια και γεμάτη γεύση του, με απαλές τανίνες και μακρά επίγευση. Ιδανικό για να συνοδεύσει γεύσεις κρεατικών και τυριών, προσφέροντας μια απολαυστική εμπειρία γευστικής απόλαυσης.</Description>
 		<Barcode>5201214100202</Barcode>
-		<Quantity>55</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>40522</ID>
@@ -3714,7 +3714,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888160100</Barcode>
-		<Quantity>77</Quantity>
+		<Quantity>71</Quantity>
 	</product>
 	<product>
 		<ID>47093</ID>
@@ -3731,7 +3731,7 @@
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888070027</Barcode>
-		<Quantity>48</Quantity>
+		<Quantity>46</Quantity>
 	</product>
 	<product>
 		<ID>470935</ID>
@@ -3873,7 +3873,7 @@
     •Αλκοόλ: 11,5% v/v
     •Σερβίρεται στους 8-10°C</Description>
 		<Barcode>5200111580735</Barcode>
-		<Quantity>153</Quantity>
+		<Quantity>150</Quantity>
 	</product>
 	<product>
 		<ID>47502</ID>
@@ -3936,7 +3936,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.99</Price>
+		<Price>7.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
@@ -3954,7 +3954,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.21</Price>
+		<Price>7.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΣΚΟΥΡΑΣ</Manufacturer>
@@ -4034,7 +4034,7 @@
 	</product>
 	<product>
 		<ID>47952</ID>
-		<Name>ΤΥΡΝΑΒΟΥ ΡΟΔΟΙΝΟΣ ΗΜΙΓΛΥΚΟ 750ml</Name>
+		<Name>Τυρνάβου Κρασί Ροδοινος Μοσχάτο Τυρνάβου Ροζέ Ημίγλυκο 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/15607237/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Roze-Imiglyko-750ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/015607/15607237/20200204124530_tyrnavou_rodoinos_roze_750ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -4160,6 +4160,55 @@
 		<Quantity>119</Quantity>
 	</product>
 	<product>
+		<ID>46304</ID>
+		<Name>Κτήμα Αβαντίς Κρασί Syrah Ερυθρό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4746618/Ktima-Avantis-Krasi-Syrah-Erythro-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/004746/4746618/avantissyrah.gif</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>13.2</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
+		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
+		<MPN>1615</MPN>
+		<Description>Το Syrah του Κτήματος Αβαντίς, είναι το κρασί που καθιέρωσε τον δημιουργό του Απόστολο Μούντριχα στον οινόφιλο κόσμο. Πλούσιο και στιβαρό υποδηλώνει έντονα την παρουσία του.</Description>
+		<Barcode>5200101770030</Barcode>
+	</product>
+	<product>
+		<ID>46305</ID>
+		<Name>Κτήμα Αβαντίς Άγιος Χρόνος Viognier Λευκό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/23160444/Ktima-Avantis-Krasi-Agios-CHronos-Viognier-Leyko-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/023160/23160444/20211019161128_ktima_avantis_krasi_leyko_xiro_agios_chronos_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.7517181998176</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
+		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
+		<MPN>1616</MPN>
+		<Description>Λευκός οίνος ποικιλίας Viognier με απαλό λεμονί χρώμα και χρυσές ανταύγειες. Στην μύτη έχει αρώματα ώριμου βερίκοκου και λευκόσαρκου ροδάκινου, πλαισιωμένο από κομψά αρώματα δρυός. Το στόμα είναι ξηρό και πλούσιο από φρέσκα εσπεριδοειδή φρούτα, όπως λεμόνι και μοσχολέμονο. </Description>
+		<Barcode>5200101770559</Barcode>
+		<Quantity>16</Quantity>
+	</product>
+	<product>
+		<ID>46308</ID>
+		<Name>Κτήμα Αβαντίς Lenga Gewürztraminer Ροζέ Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/17546193/Ktima-Avantis-Krasi-Lenga-Gewuerztraminer-Roze-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/017546/17546193/20200314140850_ktima_avantis_lenga_roze_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.9720032233792</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
+		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
+		<MPN>1617</MPN>
+		<Description>Lenga Pink, ποικιλίας Μαυροκουντούρα - Gewürztraminer, παλαίωσης δύο ετών. </Description>
+		<Barcode>5200101770498</Barcode>
+	</product>
+	<product>
 		<ID>51301</ID>
 		<Name>Ισίδωρου Αρβανίτη Ούζο Πλωμαρίου 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4912589/Isidorou-Arvaniti-Ouzo-Plomariou-200ml.html</Product_Link>
@@ -4178,7 +4227,7 @@
     Χώρα Προέλευσης: Ελλάδα
     Παραγωγός: Ισίδωρος Αρβανίτης</Description>
 		<Barcode>5202413002014</Barcode>
-		<Quantity>887</Quantity>
+		<Quantity>881</Quantity>
 	</product>
 	<product>
 		<ID>51303</ID>
@@ -4248,7 +4297,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>2274</Quantity>
+		<Quantity>2154</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -4320,7 +4369,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>2455</Quantity>
+		<Quantity>2167</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -4356,7 +4405,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000301</Barcode>
-		<Quantity>179</Quantity>
+		<Quantity>177</Quantity>
 	</product>
 	<product>
 		<ID>522011</ID>
@@ -4500,7 +4549,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<Barcode>520237120064</Barcode>
-		<Quantity>274</Quantity>
+		<Quantity>270</Quantity>
 	</product>
 	<product>
 		<ID>52352</ID>
@@ -4610,7 +4659,7 @@
 
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5202924122423</Barcode>
-		<Quantity>1154</Quantity>
+		<Quantity>1144</Quantity>
 	</product>
 	<product>
 		<ID>52801</ID>
@@ -4682,7 +4731,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207612016</Barcode>
-		<Quantity>499</Quantity>
+		<Quantity>471</Quantity>
 	</product>
 	<product>
 		<ID>52903</ID>
@@ -4822,6 +4871,24 @@
 		<Description>Το διάσημο Grouse Smoky Black μετονομάστηκε από το Black Grouse στα τέλη του 2015, ένα νέο όνομα και μια υπέροχη συσκευασία το καθιστούν ένα εξαιρετικό ουίσκι.</Description>
 		<Barcode>5010314070304</Barcode>
 		<Quantity>12</Quantity>
+	</product>
+	<product>
+		<ID>55081</ID>
+		<Name>Jack Daniel's Tennessee Old No7 6 Ετών 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/32801984/Jack-Daniel-s-Oyiski-apo-I-P-A-Tennessee-Old-No7-6-Eton-40-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/032801/32801984/20220419092344_jack_daniel_s_old_no7_oyiski_tennessee_40_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>26.81</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Ποτά</Category_Path>
+		<Manufacturer>JACK DANIELS</Manufacturer>
+		<MPN>1618</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Jack Daniel's παράγεται με τον ίδιο παραδοσιακό τρόπο εδώ και 140 χρόνια. Έχει πλούσιο κεχριμπαρένιο χρώμα και ισορροπημένη γεύση με στοιχεία καπνισμένου ξύλου, καραμέλας και βανίλιας. </Description>
+		<Barcode>5099873045961</Barcode>
+		<Quantity>93</Quantity>
 	</product>
 	<product>
 		<ID>55108</ID>
@@ -5730,7 +5797,7 @@ H ΤΕΝΤΟΥΡΑ VANTANA 1950 ESPECIAL, αφού ομογενοποιηθεί 
 		<Weight>0.8 kg</Weight>
 		<Description>Στη βόρεια Αμερική, η λέξη gingerbread είναι άμεσα συνδεδεμένη με τα μπισκότα, και φυσικά τον μπισκοτάνθρωπο. Όλα αυτά είναι προιόντα που θυμίζουν ζεστασιά και χειμερινές διακοπές. Επαναδημιουργείστε αυτό το ζεστό συναίσθημα γύρω από το τζάκι με Monin Gingerbread στα ροφήματα σας. Το Monin Gingerbread έχει μία ισορροπία σε πιπερόριζα, κανέλα, μέλι που δίνουν την πραγματική γεύση του Gingerbread.</Description>
 		<Barcode>3052910018917</Barcode>
-		<Quantity>15</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>55807</ID>
@@ -9229,7 +9296,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>5202054467746</Barcode>
-		<Quantity>164</Quantity>
+		<Quantity>162</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -9247,7 +9314,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>5202054467739</Barcode>
-		<Quantity>232</Quantity>
+		<Quantity>228</Quantity>
 		<Size>M</Size>
 	</product>
 	<product>
@@ -9337,7 +9404,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1085</MPN>
 		<Description>Γάντια καθαριότητας της εταιρίας Θαλασσινός, σε μέγεθος large, χρήσιμα για την προστασία των χεριών σας, καθώς τα προστατεύουν κατά τη διάρκεια των καθαριστικών εργασιών. Είναι κατασκευασμένα από πλαστικό, ιδανικό για τις καθημερινές δουλειές του σπιτιού και της κουζίνας.</Description>
 		<Barcode>5202054469542</Barcode>
-		<Quantity>402</Quantity>
+		<Quantity>392</Quantity>
 	</product>
 	<product>
 		<ID>68102</ID>
@@ -9424,7 +9491,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1090</MPN>
 		<Description>Γάντια εργασίας γενικής χρήσης για την προστασία και την ασφάλεια των χεριών σας, από την Viosarp. Είναι κατασκευασμένα από νιτρίλιο, ένα υλικό που προσφέρει στα γάντια αντοχή στην τριβή και τα κοψίματα.</Description>
 		<Barcode>5206753012191</Barcode>
-		<Quantity>33</Quantity>
+		<Quantity>27</Quantity>
 		<Size>M</Size>
 	</product>
 	<product>
@@ -9443,7 +9510,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>6132</Quantity>
+		<Quantity>6126</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -9497,7 +9564,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>RK.T2.2X330G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point διαθέτει δύο φύλλα και μικρό περφορέ. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού και στον καθημερινό σας βίο.</Description>
 		<Barcode>5200100280394</Barcode>
-		<Quantity>2376</Quantity>
+		<Quantity>2374</Quantity>
 	</product>
 	<product>
 		<ID>70102</ID>
@@ -9548,7 +9615,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>2761</Quantity>
+		<Quantity>2755</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -9565,7 +9632,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<Barcode>5200100281667</Barcode>
-		<Quantity>997</Quantity>
+		<Quantity>994</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -9996,7 +10063,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>431</Quantity>
+		<Quantity>428</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -10228,7 +10295,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181204050</Barcode>
-		<Quantity>1183</Quantity>
+		<Quantity>1179</Quantity>
 	</product>
 	<product>
 		<ID>71261</ID>
@@ -10301,6 +10368,27 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Το Vanish Hand Shampoo μπορεί να χρησιμοποιηθεί στα χαλιά και τις ταπετσαρίες, για να αφαιρέσει τη βαθιά βρωμιά και τη σκόνη. Tο Vanish Hand Shampoo είναι κατάλληλο για χρήση σε μεγάλες περιοχές του χαλιού, με σκοπό να διαλύσει και να αφαιρέσει ακόμα και τους πιο επίμονους στεγνούς λεκέδες και σκόνη. Το πλούσιο, αφρώδες σαμπουάν εξουδετερώνει επίσης τις δυσάρεστες οσμές, κάνοντας το χαλί και την ταπετσαρία σας να μυρίζουν καθαριότητα &amp; φρεσκάδα έναντι μόνο σκουπίσματος με ηλεκτρική σκούπα.</Description>
 		<Barcode>5011417536322</Barcode>
 		<Quantity>260</Quantity>
+	</product>
+	<product>
+		<ID>71301</ID>
+		<Name>Rex Hellas Σόδα Πλύσεως Σκόνη 500gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/22521656/Rex-Hellas-Leykantiko-Soda-Plyseos-Skoni-500gr.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/022521/22521656/20210303114132_rex_hellas_leykantiko_soda_plyseos_skoni_500gr.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.19</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
+		<Manufacturer>REX HELLAS</Manufacturer>
+		<MPN>1619</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+    Ενισχυτικό Πλύσης
+    Κατάλληλο για Πλυντήριο Ρούχων
+    Κατάλληλο για Πλύσιμο στο Χέρι
+    Σε Σκόνη</Description>
+		<Barcode>5200250700001</Barcode>
+		<Quantity>144</Quantity>
 	</product>
 	<product>
 		<ID>71302</ID>
@@ -10962,7 +11050,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 •Απομακρύνει Βρομιές &amp; Σκόνη
 •Υγρό Σπρέι</Description>
 		<Barcode>8718951048553</Barcode>
-		<Quantity>463</Quantity>
+		<Quantity>459</Quantity>
 	</product>
 	<product>
 		<ID>73002</ID>
@@ -12063,19 +12151,37 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	<product>
 		<ID>75131</ID>
 		<Name>ΠΡΟΣΑΝΑΜΜΑ 48 ΤΕΜ</Name>
-		<Product_Link>https://www.skroutz.gr/s/31544017/Kyvoi-Prosanammatos-Irma-Fire-48tmch.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_images/058676/58676873/20220407164707_5b2c83f6.jpeg</Image_Link>
+		<Product_Link>https://www.skroutz.gr/s/24147331/Kyvoi-Prosanammatos-Goldfire-48tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/024147/24147331/20200724120852_prosanamma_goldfire_48tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
 		<Price>0.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
-		<Manufacturer>IRMA</Manufacturer>
+		<Manufacturer>GOLDFIRE</Manufacturer>
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<Barcode>4012425171216</Barcode>
-		<Quantity>4554</Quantity>
+		<Quantity>4528</Quantity>
+	</product>
+	<product>
+		<ID>751311</ID>
+		<Name>Κύβοι Προσανάμματος Irma 48τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/40029572/Kyvoi-Prosanammatos-15-24-90164-48tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/040029/40029572/20221216111414_15_24_90164_prosanamma.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.74</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
+		<Manufacturer>IRMA</Manufacturer>
+		<MPN>1620</MPN>
+		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλουν στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστοι. Σημαντικό πλεονέκτημα τους είναι το γεγονός πως δεν αφήνουν οσμή, ενώ διακρίνονται για την ασφαλή τους χρήση.
+    Τεμάχια: 48τμχ</Description>
+		<Barcode>5207043000614</Barcode>
+		<Quantity>4680</Quantity>
 	</product>
 	<product>
 		<ID>75132</ID>
@@ -12371,6 +12477,27 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 Τεμάχια : 50</Description>
 		<Barcode>5201062008514</Barcode>
 		<Quantity>224</Quantity>
+	</product>
+	<product>
+		<ID>752011</ID>
+		<Name>Ρεσώ σε Λευκό Xρώμα (έως 4 Ώρες Καύσης ) 50τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/48881704/HOMie-Reso-Aromatiko-se-Leyko-Xroma-eos-4-Ores-Kaysis-50tmch-37-53.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/048881/48881704/20231219104813_homie_reso_aromatiko_se_leyko_xroma_eos_4_ores_kaysis_50tmch_37_53.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.35</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Κεριά &amp; Κηροπήγια &gt; Ρεσώ</Category_Path>
+		<Manufacturer>HOMIE</Manufacturer>
+		<MPN>1621</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Η συσκευασία περιλαμβάνει 50 τμχ
+    Λευκό
+    Διάρκεια καύσης 4 ωρών.</Description>
+		<Barcode>5207043000416</Barcode>
+		<Quantity>1152</Quantity>
 	</product>
 	<product>
 		<ID>75221</ID>
@@ -12930,7 +13057,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<Barcode>5200128643140</Barcode>
-		<Quantity>127</Quantity>
+		<Quantity>102</Quantity>
 	</product>
 	<product>
 		<ID>76031</ID>
@@ -14164,7 +14291,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0247</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 120ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>5202054359553</Barcode>
-		<Quantity>220</Quantity>
+		<Quantity>210</Quantity>
 	</product>
 	<product>
 		<ID>78102</ID>
@@ -14390,7 +14517,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίων
 Χωρητικότητα 250ml.</Description>
 		<Barcode>5203124503005</Barcode>
-		<Quantity>2389</Quantity>
+		<Quantity>2379</Quantity>
 	</product>
 	<product>
 		<ID>78131</ID>
@@ -14643,7 +14770,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>0936</MPN>
 		<Description>Πλαστικό σωσάκι μιας χρήσης χωρητικότητας 180ml με ενσωματωμένο καπάκι,. Η συσκευασία περιλαμβάνει 50 τεμάχια. Κατάλληλο και για μνημόσυνα.</Description>
 		<Barcode>5200425302566</Barcode>
-		<Quantity>449</Quantity>
+		<Quantity>446</Quantity>
 	</product>
 	<product>
 		<ID>78621</ID>
@@ -14697,7 +14824,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<Barcode>5202054473662</Barcode>
-		<Quantity>329</Quantity>
+		<Quantity>327</Quantity>
 	</product>
 	<product>
 		<ID>78802</ID>
@@ -14715,7 +14842,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<Barcode>5219711976220</Barcode>
-		<Quantity>901</Quantity>
+		<Quantity>899</Quantity>
 	</product>
 	<product>
 		<ID>78805</ID>
@@ -15030,6 +15157,23 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Διαστάσεις: 29cm x 200m</Description>
 		<Barcode>8681146051174</Barcode>
 		<Quantity>88</Quantity>
+	</product>
+	<product>
+		<ID>78951</ID>
+		<Name>Σαγρέ Σακούλες για Συσκευές Vacuum 250x160mm 100τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/35431753/Sagre-Sakoules-gia-Syskeyes-Vacuum-250x160mm-100tmch-EMBOSSED-90-16X25.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/035431/35431753/20220414112932_sagre_sakoules_gia_syskeyes_vacuum_250x160mm_100tmch_embossed_90_16x25.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.86</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
+		<Manufacturer>OEM</Manufacturer>
+		<MPN>1622</MPN>
+		<Description>Σακούλες vacuum για συσκευή σφραγίσματος τροφίμων σε συσκευασία 100 τεμαχίων.Αυτές οι σακούλες με ένα απλό σφράγισμα βοηθούν στη διατήρηση των θρεπτικών συστατικών των τροφίμων, του αρώματος, του χρώματος και της γεύσης τους</Description>
+		<Barcode>5202054474454 </Barcode>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>78952</ID>
@@ -16009,7 +16153,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1469</MPN>
 		<Description>Χριστουγεννιάτικα φωτάκια led 100L IP44 με μετασχηματιστή 31V πολύχρωμα (multicolour) με 8 προγράμματα. Είναι επεκτεινόμενα και έχουν μήκος 5m με επιπλέον 3m τροφοδοσίας.</Description>
 		<Barcode>5200300503187</Barcode>
-		<Quantity>52</Quantity>
+		<Quantity>49</Quantity>
 	</product>
 	<product>
 		<ID>79622</ID>
@@ -16278,7 +16422,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971001</ID>
-		<Name>Eurolamp Κοινή Λάμπα LED 6W για Ντουί E27 6500K 220-240V Ψυχρό Λευκό 480lm</Name>
+		<Name>Eurolamp Κοινή Λάμπα LED 4,9W για Ντουί E27 6500K Α60 240V Ψυχρό Λευκό 480lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/26550965/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-PSychro-Leyko-480lm-147-77000.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/026550/26550965/20210721150352_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_a60_psychro_leyko_480lm_147_77000.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16295,7 +16439,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971002</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 7W για Ντουί Ε27 6500K 220-240V Ψυχρό Λευκό 650lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 7W για Ντουί Ε27 6500K Α60 240V Ψυχρό Λευκό 650lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/26551252/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-PSychro-Leyko-650lm-147-77001.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/026551/26551252/20220208142718_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_a60_psychro_leyko_650lm_147_77001.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16312,7 +16456,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971003</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 10W για Ντουί E27 6500K 220-240V Ψυχρό Λευκό 810lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 8,8W για Ντουί E27 6500K Α60 240V Ψυχρό Λευκό 810lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/26547385/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-PSychro-Leyko-810lm-147-77002.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/026547/26547385/20210324125454_eurolamp_e27_a60_10w_psychro_leyko_147_77002.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16329,7 +16473,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971004</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 12W για Ντουί E27 6500K 220-240V Ψυχρό Λευκό 1055lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί E27 6500K Α60 240V Ψυχρό Λευκό 1055lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/53407272/Eurolamp-Lampa-Led-12W-E27-Eurolamp-1-tem.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/053407/53407272/20240513113535_eurolamp_lampa_led_12w_e27_eurolamp_1_tem.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16353,7 +16497,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971011</ID>
-		<Name>Eurolamp Κοινή Λάμπα LED 6W για Ντουί E27 4000K 220-240V Φυσικό Λευκό 480lm</Name>
+		<Name>Eurolamp Κοινή Λάμπα LED 6W για Ντουί E27 4000K Α60 240V Φυσικό Λευκό 480lm</Name>
 		<Product_Link>https://revoltsa.gr/index.php?route=product/product&amp;search=5207227112867&amp;product_id=15827&amp;search=5207227112867</Product_Link>
 		<Image_Link>https://revoltsa.gr/image/cache/catalog/eurolamp/product-15827-1100x1100.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16370,7 +16514,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971013</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 10W για Ντουί E27 4000K 220-240V Φυσικό Λευκό 810lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 8,8W για Ντουί E27 4000K Α60 240V Φυσικό Λευκό 810lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27390876/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-Fysiko-Leyko-810lm-147-77012.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027390/27390876/20210324125454_eurolamp_e27_a60_10w_fysiko_leyko_147_77012.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16394,7 +16538,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971014</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 12W για Ντουί E27 4000K 220-240V Φυσικό Λευκό 1055lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί E27 4000K Α60 240V Φυσικό Λευκό 1055lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27137657/Eurolamp-Lampa-LED-12W-gia-Ntoui-E27-kai-Schima-A60-Fysiko-Leyko-1055lm-147-77013.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/027137/27137657/20211203114905_eurolamp_lampa_led_gia_ntoui_e27_fysiko_leyko_1055lm_147_77013.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16411,7 +16555,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971021</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 6W για Ντουί E27 2700K 220-240V Θερμό Λευκό 480lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 4,9W για Ντουί E27 2700K Α60 240V Θερμό Λευκό 480lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27364480/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-THermo-Leyko-480lm-147-77030.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027364/27364480/20210721150352_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_a60_thermo_leyko_480lm_147_77030.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16435,7 +16579,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971023</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 10W για Ντουί E27 2700K 220-240V Θερμό Λευκό 810lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 10W για Ντουί E27 2700K Α60 240V Θερμό Λευκό 810lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27155510/Eurolamp-Lampa-LED-gia-Ntoui-E27-THermo-Leyko-810lm-147-77032.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027155/27155510/20220201124119_eurolamp_lampa_led_gia_ntoui_e27_thermo_leyko_810lm_147_77032.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16459,7 +16603,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971024</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 12W για Ντουί E27 2700K 220-240V Θερμό Λευκό 1055lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί E27 2700K Α60 240V Θερμό Λευκό 1055lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27132370/Eurolamp-Lampa-LED-12W-gia-Ntoui-E27-kai-Schima-A60-THermo-Leyko-1055lm-147-77033.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027132/27132370/20220201124116_eurolamp_lampa_led_gia_ntoui_e27_thermo_leyko_1055lm_147_77033.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16483,7 +16627,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971062</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 8W για Ντουί Β22 4000K 220-240V Φυσικό Λευκό 650lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 8W για Ντουί Β22 4000K Α60 240V Φυσικό Λευκό 650lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27132137/Eurolamp-Lampa-LED-gia-Ntoui-B22-Fysiko-Leyko-650lm-147-77051.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/027132/27132137/20220208143137_eurolamp_lampa_led_gia_ntoui_b22_fysiko_leyko_650lm_147_77051.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16505,7 +16649,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971064</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 12W για Ντουί Β22 4000K 220-240V Φυσικό Λευκό 1055lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί Β22 4000K Α60 240V Φυσικό Λευκό 1055lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27364727/Eurolamp-Lampa-LED-gia-Ntoui-B22-kai-Schima-A60-THermo-Leyko-1055lm-147-77073.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027364/27364727/20210920170301_eurolamp_lampa_led_gia_ntoui_b22_kai_schima_a60_thermo_leyko_1055lm_147_77073.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16529,7 +16673,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971074</ID>
-		<Name>Eurolamp Κοινή  Λάμπα LED 12W για Ντουί Β22 2700K 220-240V Θερμό Λευκό 1055lm</Name>
+		<Name>Eurolamp Κοινή  Λάμπα LED 11,1W για Ντουί Β22 2700K Α60 240V Θερμό Λευκό 1055lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27364727/Eurolamp-Lampa-LED-gia-Ntoui-B22-kai-Schima-A60-THermo-Leyko-1055lm-147-77073.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027364/27364727/20210920170301_eurolamp_lampa_led_gia_ntoui_b22_kai_schima_a60_thermo_leyko_1055lm_147_77073.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16553,7 +16697,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971101</ID>
-		<Name>Eurolamp Μινιόν Λάμπα LED 5W για Ντουί Ε14 6500K 220-240V Ψυχρό Λευκό 400lm</Name>
+		<Name>Eurolamp Μινιόν Λάμπα LED 5W για Ντουί Ε14 6500K C37 240V Ψυχρό Λευκό 400lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27003340/Eurolamp-Lampa-LED-5W-gia-Ntoui-E14-kai-Schima-C37-PSychro-Leyko-400lm-147-77203.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/027003/27003340/20210721150352_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_psychro_leyko_400lm_147_77203.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16575,7 +16719,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971102</ID>
-		<Name>Eurolamp Μινιόν Λάμπα LED 7W για Ντουί Ε14 6500K 220-240V Ψυχρό Λευκό 630lm</Name>
+		<Name>Eurolamp Μινιόν Λάμπα LED 7W για Ντουί Ε14 6500K C37 240V Ψυχρό Λευκό 630lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27003495/Eurolamp-Lampa-LED-7W-gia-Ntoui-E14-kai-Schima-C37-PSychro-Leyko-630lm-147-77211.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/027003/27003495/20211221095817_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_psychro_leyko_630lm_147_77211.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16592,7 +16736,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971111</ID>
-		<Name>Eurolamp Μινιόν  Λάμπα LED 5W για Ντουί Ε14 4000K 220-240V Φυσικό Λευκό 400lm</Name>
+		<Name>Eurolamp Μινιόν  Λάμπα LED 5W για Ντουί Ε14 4000K C37 240V Φυσικό Λευκό 400lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27003382/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-C37-Fysiko-Leyko-400lm-147-77204.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/027003/27003382/20210721150352_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_fysiko_leyko_400lm_147_77204.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16614,7 +16758,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971112</ID>
-		<Name>Eurolamp Μινιόν  Λάμπα LED 7W για Ντουί Ε14 4000K 220-240V Φυσικό Λευκό 630lm</Name>
+		<Name>Eurolamp Μινιόν  Λάμπα LED 7W για Ντουί Ε14 4000K C37 240V Φυσικό Λευκό 630lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27003538/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-C37-Fysiko-Leyko-630lm-147-77212.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/027003/27003538/20211228125925_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_fysiko_leyko_630lm_147_77212.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16636,7 +16780,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971121</ID>
-		<Name>Eurolamp Μινιόν  Λάμπα LED 5W για Ντουί Ε14 2700K 220-240V Θερμό Λευκό 400lm</Name>
+		<Name>Eurolamp Μινιόν  Λάμπα LED 5W για Ντουί Ε14 2700K C37 240V Θερμό Λευκό 400lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27003444/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-C37-THermo-Leyko-400lm-147-77206.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/027003/27003444/20210721150352_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_thermo_leyko_400lm_147_77206.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16660,7 +16804,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971122</ID>
-		<Name>Eurolamp Μινιόν  Λάμπα LED 7W για Ντουί Ε14 2700K 220-240V Θερμό Λευκό 630lm</Name>
+		<Name>Eurolamp Μινιόν  Λάμπα LED 7W για Ντουί Ε14 2700K C37 240V Θερμό Λευκό 630lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27003644/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-C37-THermo-Leyko-630lm-147-77214.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027003/27003644/20211228125924_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_c37_thermo_leyko_630lm_147_77214.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16684,7 +16828,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971151</ID>
-		<Name>Eurolamp Σφαιρική Λάμπα LED 5W για Ντουί Ε14 6500K 220-240V Ψυχρό Λευκό 400lm</Name>
+		<Name>Eurolamp Σφαιρική Λάμπα LED 4,9W για Ντουί Ε14 6500K G45 240V Ψυχρό Λευκό 400lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27169255/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-G45-PSychro-Leyko-400lm-147-77310.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/027169/27169255/20230102150747_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_g45_psychro_leyko_400lm_147_77310.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16706,7 +16850,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971152</ID>
-		<Name>Eurolamp Σφαιρική  Λάμπα LED 7W για Ντουί Ε14 6500K 220-240V Ψυχρό Λευκό 630lm</Name>
+		<Name>Eurolamp Σφαιρική  Λάμπα LED 7W για Ντουί Ε14 6500K G45 240V Ψυχρό Λευκό 630lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27169350/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-G45-PSychro-Leyko-630lm-147-77330.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027169/27169350/20220302140959_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_g45_psychro_leyko_630lm_147_77330.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16728,7 +16872,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971161</ID>
-		<Name>Eurolamp Σφαιρική Λάμπα LED 5W για Ντουί Ε14 4000K 220-240V Φυσικό Λευκό 400lm</Name>
+		<Name>Eurolamp Σφαιρική Λάμπα LED 4,9W για Ντουί Ε14 4000K G45 240V Φυσικό Λευκό 400lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27391028/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-G45-Fysiko-Leyko-400lm-147-77311.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027391/27391028/20210927211954_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_g45_fysiko_leyko_400lm_147_77311.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16750,7 +16894,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971162</ID>
-		<Name>Eurolamp Σφαιρική Λάμπα LED 7W για Ντουί Ε14 4000K 220-240V Φυσικό Λευκό 630lm</Name>
+		<Name>Eurolamp Σφαιρική Λάμπα LED 7W για Ντουί Ε14 4000K G45 240V Φυσικό Λευκό 630lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27169411/Eurolamp-Lampa-LED-gia-Ntoui-E14-kai-Schima-G45-Fysiko-Leyko-630lm-147-77331.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/027169/27169411/20220208142908_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_g45_fysiko_leyko_630lm_147_77331.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16772,7 +16916,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971171</ID>
-		<Name>Eurolamp Σφαιρική  Λάμπα LED 5W για Ντουί Ε14 2700K 220-240V Θερμό Λευκό 400lm</Name>
+		<Name>Eurolamp Σφαιρική  Λάμπα LED 4,9W για Ντουί Ε14 2700K G45 240V Θερμό Λευκό 400lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27391104/Eurolamp-Lampa-LED-5W-gia-Ntoui-E14-kai-Schima-G45-THermo-Leyko-400lm-147-77313.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/027391/27391104/20210927211954_eurolamp_lampa_led_gia_ntoui_e14_kai_schima_g45_thermo_leyko_400lm_147_77313.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16796,7 +16940,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 	</product>
 	<product>
 		<ID>7971172</ID>
-		<Name>Eurolamp Σφαιρική  Λάμπα LED 7W για Ντουί Ε14 2700K 220-240V Θερμό Λευκό 630lm</Name>
+		<Name>Eurolamp Σφαιρική  Λάμπα LED 7W για Ντουί Ε14 2700K G45 240V Θερμό Λευκό 630lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27169148/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-G45-THermo-Leyko-630lm-147-77337.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/027169/27169148/20210927211954_eurolamp_lampa_led_gia_ntoui_e27_kai_schima_g45_thermo_leyko_630lm_147_77337.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16859,7 +17003,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Εφαρμογή Λαμπτήρα: E14
     Είδος: Νυκτός</Description>
 		<Barcode> 5206139000064</Barcode>
-		<Quantity>44</Quantity>
+		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>7972003</ID>
@@ -16880,7 +17024,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Εφαρμογή Λαμπτήρα: E14
     Είδος: Νυκτός</Description>
 		<Barcode> 5206139000736</Barcode>
-		<Quantity>44</Quantity>
+		<Quantity>36</Quantity>
 	</product>
 	<product>
 		<ID>7972004</ID>
@@ -16901,7 +17045,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Εφαρμογή Λαμπτήρα: E14
     Είδος: Νυκτός</Description>
 		<Barcode> 5206139000743</Barcode>
-		<Quantity>50</Quantity>
+		<Quantity>42</Quantity>
 	</product>
 	<product>
 		<ID>7972005</ID>
@@ -16976,7 +17120,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Ισχύς: 15W
     Τάση: 230V</Description>
 		<Barcode>5206139000293</Barcode>
-		<Quantity>35</Quantity>
+		<Quantity>29</Quantity>
 	</product>
 	<product>
 		<ID>7991001</ID>
@@ -17182,6 +17326,126 @@ VAX
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>7992001</ID>
+		<Name>Eurolamp Θερμάστρα χαλαζία 1200W με διακόπτη ασφαλείας έως 19m² Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/12953758/Eurolamp-147-29163-Sompa-CHalazia-1200W.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/012953/12953758/20240718133941_eurolamp_147_29163_sompa_chalazia_1200w.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>13.64</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1625</MPN>
+		<Description>    Τάση Τροφοδοσίας (V): 220-240V
+    Ονομαστική Ισχύς (W): 1200W
+    Συχνότητα Λειτουργίας (Hz): 50/60Hz
+    Βαθμός Στεγανότητας (IP): IP20
+    Καθαρό Βάρος Προϊόντος (kg): 0,900kg
+    Τηλεχειριστήριο: Όχι
+    Χρονοδιακόπτης: Όχι
+    Ταχύτητες: 3
+    Ύψος: 24,5cm
+    Πλάτος: 12,2cm
+    Μήκος: 49,5cm
+    Χρώμα Προϊόντος: Μαύρο
+    Υλικό Κατασκευής Προϊόντος: Πλαστικό &amp; PP
+    Λυχνία Ένδειξης Λειτουργίας: Ναι</Description>
+		<Barcode>5207227003189</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>7992002</ID>
+		<Name>Eurolamp Θερμάστρα Χαλαζία Λευκή 1600W έως 25m² Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/53651646/Eurolamp-920-29165-Lampa.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/053651/53651646/20240521103347_eurolamp_920_29165_lampa.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>19.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1626</MPN>
+		<Description>Θερμάστρα χαλαζία Eurolamp, με ισχύ 1600W. Κατάλληλη για ομοιόμορφη θέρμανση χώρων 25 τ.μ. Δυνατότητα επιλογής μεταξύ 2 λειτουργιών 800W / 1600W αντίστοιχα. Διαθέτει ανακλαστήρες με ευρεία γωνία θερμότητας, διακόπτη ασφαλείας σε περίπτωση πτώσης και στεγανοποίηση IP20. Η λαβή μεταφοράς σε συνδυασμό με το χαμήλο του βάρος στα 1.58kg, κάνουν τη μεταφορά πιο εύκολη από ποτέ.</Description>
+		<Barcode>5207227261459</Barcode>
+		<Quantity>15</Quantity>
+	</product>
+	<product>
+		<ID>7992003</ID>
+		<Name>Eurolamp Θερμάστρα Χαλαζία με Θερμοστάτη 2800W έως 30m² Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/25019051/Eurolamp-300-41402-Sompa-CHalazia-me-THermostati-2800W.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/025019/25019051/20240212162838_eurolamp_300_41402_sompa_chalazia_me_thermostati_2800w.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>42.18</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1627</MPN>
+		<Description>    Τάση Τροφοδοσίας (V): 220-240V
+    Ονομαστική Ισχύς (W): 2800W
+    Συχνότητα Λειτουργίας (Hz): 50-60Hz
+    Βαθμός Στεγανότητας (IP): IP20
+    Καθαρό Βάρος Προϊόντος (kg): 2.9kg
+    Ύψος: 52cm
+    Πλάτος: 19.5cm
+    Μήκος: 48.5cm
+    Χρώμα Προϊόντος: Μαυρο 
+    Υλικό Κατασκευής Προϊόντος: Πλαστικο &amp; Αλουμινιο
+    Διακόπτης Ασφαλείας: Ναι 
+    Θερμοστάτης: Ναι
+    Θερμαντικό Στοιχείο: Λάμπα Χαλαζία
+    Κάλυψη Χώρου: 30m²
+    Λαβές Μεταφοράς: Ναι </Description>
+		<Barcode>5207227106866</Barcode>
+		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>7992025</ID>
+		<Name>Eurolamp Σόμπα Μανιτάρι Υγραερίου με Απόδοση 13kW  έως 20m² Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/13028307/Eurolamp-Sompa-Manitari-Ygraeriou-me-Apodosi-13-5kW-147-29600.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/013028/13028307/20231006084725_eurolamp_sompa_manitari_ygraeriou_me_apodosi_13_5kw_147_29600.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>124.03</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Θέρμανση Επαγγελματικών Χώρων &gt; Σόμπες / Θερμάστρες Εξωτερικού Χώρου</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1628</MPN>
+		<Description>Θερμάστρα υγραερίου μανιτάρι 14kW με κάλυψη χώρου έως 20m².</Description>
+		<Barcode>5207227003257</Barcode>
+		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>7992101</ID>
+		<Name>Eurolamp Αφυγραντήρας με Συμπιεστή και Ιονιστή 20lt/ημέρα έως 110m² Μαύρος</Name>
+		<Product_Link>https://www.skroutz.gr/s/25006848/Eurolamp-300-95009-Afygrantiras-me-Sympiesti-kai-Ionisti-20lt-Mayros.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/025006/25006848/20211228153235_eurolamp_300_95009_afygrantiras_20lt.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>172.14</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Ποιότητας Αέρα &gt; Αφυγραντήρες</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1629</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Ικανότητα Αφύγρανσης: 20 lt/ημέρα
+    Χωρητικότητα Δοχείου Νερού: 5,5 lt
+    Ισχύς: 320 W
+
+Ο αφυγραντήρας της Eurolamp είναι κατάλληλος για ενιαίους χώρους έως και 110m², ώστε να διατηρεί την υγρασία του χώρου σε φυσιολογικά επίπεδα.
+
+Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί κατεβάζει την υγρασία στα επιθυμητά επίπεδα και είναι οικονομικός στην κατανάλωση ρεύματος.</Description>
+		<Barcode>5207227105746</Barcode>
+		<Quantity>3</Quantity>
+	</product>
+	<product>
 		<ID>7973142</ID>
 		<Name>Lime LS-4W Πολύπριζο 4 Θέσεων 3Χ1mm με Καλώδιο 1m</Name>
 		<Product_Link>https://www.skroutz.gr/s/30384794/Lime-LS-4W-Polyprizo-4-THeseon-me-Kalodio-1m-8280078.html</Product_Link>
@@ -17293,6 +17557,47 @@ VAX
     Μήκος: 10m</Description>
 		<Barcode>5205308280146</Barcode>
 		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>7973515</ID>
+		<Name>Lime Μπαλαντέζα Καρούλι 4 Θέσεων με Καλώδιο 15m Διατομής 3x1.5mm² Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/30265851/Lime-Mpalanteza-Karouli-4-THeseon-me-Kalodio-15m-Diatomis-3x1-5mm2-Mayri-LS-RE15M.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/030265/30265851/20210728162715_lime_15_0m_3x1_5mm_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>24.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Ηλεκτρολογικά Είδη &gt; Μπαλαντέζες</Category_Path>
+		<Manufacturer>LIME</Manufacturer>
+		<MPN>1623</MPN>
+		<Description>Μπαλαντέζα σε καρούλι με θέσεις για 4 πρίζες και καλώδιο μήκους 15 μέτρων, σε μαύρο χρώμα. Το καλώδιο έχει διατομή 1.5mm² που σημαίνει πως η μέγιστη κατανάλωση των συνδεδεμένων συσκευών δεν θα πρέπει να υπερβαίνει τα 3600W που ισοδυναμούν, για παράδειγμα, με την ισχύ που απαιτεί ένα στεγνωτήριο ρούχων για να λειτουργήσει.
+    Διατομή Καλωδίου: 3 x 1.5mm²
+    Μήκος: 15m</Description>
+		<Barcode>5205308280153</Barcode>
+		<Quantity>6</Quantity>
+	</product>
+	<product>
+		<ID>7973525</ID>
+		<Name>Μπαλαντέζα Καρούλι 4 Θέσεων με Καλώδιο 25m Διατομής 3x1.5mm² Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/30265860/Mpalanteza-Karouli-4-THeseon-me-Kalodio-25m-Diatomis-3x1-5mm2-Mayri-LS-RE25M.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/030265/30265860/20210728162733_lime_25_0m_3x1_5mm_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>37.81</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Ηλεκτρολογικά Είδη &gt; Μπαλαντέζες</Category_Path>
+		<Manufacturer>LIME</Manufacturer>
+		<MPN>1624</MPN>
+		<Description>Βασικά χαρακτηριστικά:
+
+    Διατομή Καλωδίου: 3x1.5mm²
+    Μήκος: 25m
+    Τάση: 250V
+    Βαθμός στεγανότητας: IP20</Description>
+		<Barcode>5205308280160</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>7995101</ID>
@@ -17798,7 +18103,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>1 kg</Weight>
 		<Description>Η καστανή ζάχαρη της εταιρείας Λάιφ σε κρυσταλλική μορφή, αποτελείται από κρυστάλλους ζάχαρης και έχει χαμηλή περιεκτικότητα σε μελάσα. Eίναι πιο αρωματική και έχει ελαφρώς μεγαλύτερο κόκκο από τη λευκή, για αυτό χρειαζεται περισσοτερο χρονο για να διαλυθει σε ροφήματα και γλυκά. Έχει μεγαλύτερη περιεκτικότητα σε κάποια θρεπτικά συστατικά όπως ασβέστιο και φυλλικό οξύ, ενώ Θερμιδικά αποδίδει τις ίδιες θερμίδες με τη λευκή.</Description>
 		<Barcode>5200108100359</Barcode>
-		<Quantity>55</Quantity>
+		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>80311</ID>
@@ -18199,7 +18504,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.4 kg</Weight>
 		<Description>Το αναπλήρωμα ξύδιου John Top σε συσκευασία 400ml είναι ιδανικό για χρήση στη μαγειρική και στην παρασκευή σάλτσων, μαριναδών, σαλατών και dressings. Με το χαρακτηριστικό άρωμα και την έντονη γεύση του, προσδίδει ξεχωριστή γεύση στα φαγητά σας. Είναι ιδανικό για να δώσει μια ευχάριστη οξύτητα και αναδεικνύει τα αρώματα των υλικών που χρησιμοποιείτε.</Description>
 		<Barcode>5202737200547</Barcode>
-		<Quantity>1108</Quantity>
+		<Quantity>1084</Quantity>
 	</product>
 	<product>
 		<ID>84011</ID>
@@ -18344,7 +18649,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>0.4 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 400 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270000021</Barcode>
-		<Quantity>71</Quantity>
+		<Quantity>61</Quantity>
 	</product>
 	<product>
 		<ID>84103</ID>
@@ -19301,6 +19606,57 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Quantity>121</Quantity>
 	</product>
 	<product>
+		<ID>87001</ID>
+		<Name>NESCAFE CLASSIC 50gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/15492294/Nescafe-Stigmiaios-Kafes-Classic-se-Kouti-50gr.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/015492/15492294/20211111091730_nescafe_stigmiaios_kafes_classic_se_metalliko_koutaki_50gr.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.48</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Πρωινού, Snacks &amp; Ροφήματα &gt; Καφέδες</Category_Path>
+		<Manufacturer>NESCAFE</Manufacturer>
+		<MPN>1630</MPN>
+		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι. </Description>
+		<Barcode>5201219046055</Barcode>
+		<Quantity>551</Quantity>
+	</product>
+	<product>
+		<ID>87002</ID>
+		<Name>NESCAFE CLASSIC 100gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/15492324/Nescafe-Stigmiaios-Kafes-Classic-kavourdizontai-metria-pros-dynata-100gr.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/015492/15492324/20210423111240_nescafe_stigmiaios_classic_100gr.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>4.7</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Πρωινού, Snacks &amp; Ροφήματα &gt; Καφέδες</Category_Path>
+		<Manufacturer>NESCAFE</Manufacturer>
+		<MPN>1631</MPN>
+		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι. </Description>
+		<Barcode>5201219046109</Barcode>
+		<Quantity>335</Quantity>
+	</product>
+	<product>
+		<ID>87003</ID>
+		<Name>NESCAFE CLASSIC 200gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/15492325/Nescafe-Stigmiaios-Kafes-Classic-kavourdizontai-metria-pros-dynata-200gr.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/015492/15492325/20211111093444_nescafe_stigmiaios_kafes_classic_200gr.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>6.74</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Πρωινού, Snacks &amp; Ροφήματα &gt; Καφέδες</Category_Path>
+		<Manufacturer>NESCAFE</Manufacturer>
+		<MPN>1632</MPN>
+		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι. </Description>
+		<Barcode>5201219046154</Barcode>
+		<Quantity>18</Quantity>
+	</product>
+	<product>
 		<ID>87501</ID>
 		<Name>ΣΟΚΟΛΑΤΑ CIOC ORIGINALE 1Kg</Name>
 		<Product_Link>https://www.skroutz.gr/s/35071297/Cortese-Sokolata-Cioc-Originale-se-Skoni-1000gr.html</Product_Link>
@@ -19578,7 +19934,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<Barcode>5202546009379</Barcode>
-		<Quantity>466</Quantity>
+		<Quantity>422</Quantity>
 	</product>
 	<product>
 		<ID>99002</ID>
@@ -19627,7 +19983,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 	</product>
 	<product>
 		<ID>99011</ID>
-		<Name>ΚΡΟΚΕΤΑ ΣΚΥΛΟΥ MAESTRO 4kg (23 pro/9 fat)</Name>
+		<Name>ΚΡΟΚΕΤΑ ΣΚΥΛΟΥ ΝΙΤΣΙΑΚΟΣ MAESTRO 4kg (23 pro/9 fat)</Name>
 		<Product_Link>https://www.skroutz.gr/s/24627882/Nitsiakos-Vital-Formula-Maestro-Adult-4kg-Xira-Trofi-gia-Enilikous-Skylous-me-Kreas.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024627/24627882/20211123114036_nitsiakos_vital_formula_maestro_adult_4kg.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19644,7 +20000,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 • Κυρίως συστατικό: Κρέας
 • Συσκευασία: 4kg</Description>
 		<Barcode>5202546009195</Barcode>
-		<Quantity>122</Quantity>
+		<Quantity>118</Quantity>
 	</product>
 	<product>
 		<ID>99022</ID>
@@ -19693,7 +20049,7 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 	</product>
 	<product>
 		<ID>99101</ID>
-		<Name>ΚΡΟΚΕΤΑ ΓΑΤΑΣ MAESTRO 15kg (30 pro/11 fat)</Name>
+		<Name>ΚΡΟΚΕΤΑ ΓΑΤΑΣ ΝΙΤΣΙΑΚΟΣ MAESTRO 15kg (30 pro/11 fat)</Name>
 		<Product_Link>https://www.skroutz.gr/s/40512615/Nitsiakos-Maestro-Adult-Xira-Trofi-gia-Enilikes-Gates-me-Kreas-PSaria-15kg.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/040512/40512615/20230130110331_nitsiakos_maestro_adult_xira_trofi_gia_enilikes_gates_me_kreas_psaria_15kg.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19710,11 +20066,11 @@ To interface του είναι USB 3.2. Πρόκειται για πιο γρή�
 • Κυρίως συστατικό: Κρέας, Ψάρια
 • Συσκευασία: 15kg</Description>
 		<Barcode>5202546009133</Barcode>
-		<Quantity>19</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
-		<Name>ΚΡΟΚΕΤΑ ΓΑΤΑΣ MAESTRO 2kg (30 pro/11 fat)</Name>
+		<Name>ΚΡΟΚΕΤΑ ΓΑΤΑΣ ΝΙΤΣΙΑΚΟΣ MAESTRO 2kg (30 pro/11 fat)</Name>
 		<Product_Link>https://www.skroutz.gr/s/24674536/Nitsiakos-Maestro-Adult-2kg.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/024674/24674536/20211123124619_nitsiakos_maestro_adult_2kg.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
