@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-26 15:52</created_at>
+	<created_at>2024-11-26 16:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1821,7 +1821,7 @@
 Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες.
 Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
 		<Barcode>5201277250081</Barcode>
-		<Quantity>274</Quantity>
+		<Quantity>262</Quantity>
 	</product>
 	<product>
 		<ID>14122</ID>
@@ -1840,7 +1840,7 @@
 		<Description>Η souroti με το απαλό φυσικό άρωμα του λεμονιού-λάιμ συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού με την φρεσκάδα και την ασύγκριτη δροσιά των εσπεριδοειδών. Με μια Souroti βοηθάς τον οργανισμό σου για να βρίσκεται σε καλύτερη ισορροπία.
 Χωρίς κανένα πρόσθετο συντηρητικό και με 0 θερμίδες. Με υψηλή περιεκτικότητα ασβεστίου, μαγνησίου, λιθίου και πυριτίου.</Description>
 		<Barcode>5201277250524</Barcode>
-		<Quantity>76</Quantity>
+		<Quantity>68</Quantity>
 	</product>
 	<product>
 		<ID>14124</ID>
@@ -1858,7 +1858,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ποτό από Ανθρακούχο φυσικό Μεταλλικό Νερό Σουρωτή με φυσικά αρώματα Pink Grapefruit. Χωρίς ζάχαρη και με λιγότερο από 1 θερμίδα ανά 100ml προϊόντος. Το νερό Σουρωτή συνδυάζει όλες τις πολύτιμες ιδιότητες του φυσικού μεταλλικού νερού, με την αναζωογονητική γεύση των ροζ γκρεϊπφρουτ.</Description>
 		<Barcode>5201277251347</Barcode>
-		<Quantity>27</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>14125</ID>
@@ -4996,7 +4996,7 @@
 		<MPN>1498</MPN>
 		<Description>Το Tanqueray δημιουργήθηκε το 1830 από τον Charles Tanqueray στο Tingrith του Bedfordshire.</Description>
 		<Barcode>5000281015248</Barcode>
-		<Quantity>245</Quantity>
+		<Quantity>244</Quantity>
 	</product>
 	<product>
 		<ID>553012</ID>
