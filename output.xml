@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-11-27 13:05</created_at>
+	<created_at>2024-11-27 13:31</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -362,7 +362,7 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.
 Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>2792</Quantity>
+		<Quantity>2780</Quantity>
 	</product>
 	<product>
 		<ID>110118</ID>
@@ -399,7 +399,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275001708</Barcode>
-		<Quantity>1829</Quantity>
+		<Quantity>1817</Quantity>
 	</product>
 	<product>
 		<ID>11031</ID>
@@ -3207,7 +3207,7 @@
 
 </Description>
 		<Barcode>5201214100325</Barcode>
-		<Quantity>254</Quantity>
+		<Quantity>252</Quantity>
 	</product>
 	<product>
 		<ID>40425</ID>
@@ -3297,7 +3297,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100189</Barcode>
-		<Quantity>34</Quantity>
+		<Quantity>31</Quantity>
 	</product>
 	<product>
 		<ID>40422</ID>
@@ -4768,7 +4768,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207610517</Barcode>
-		<Quantity>538</Quantity>
+		<Quantity>490</Quantity>
 	</product>
 	<product>
 		<ID>52852</ID>
@@ -10350,7 +10350,7 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181204050</Barcode>
-		<Quantity>974</Quantity>
+		<Quantity>972</Quantity>
 	</product>
 	<product>
 		<ID>71261</ID>
@@ -16568,6 +16568,23 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
 		<Quantity>200</Quantity>
 	</product>
 	<product>
+		<ID>7971012</ID>
+		<Name>Eurolamp Κοινή  Λάμπα LED 7W για Ντουί Ε27 4000K Α60 240V Φυσικό Λευκό 650lm</Name>
+		<Product_Link>https://revoltsa.gr/index.php?route=product/product&amp;product_id=15828&amp;search=5207227112898&amp;description=true</Product_Link>
+		<Image_Link>https://revoltsa.gr/image/cache/catalog/eurolamp/product-15828-1000x1000.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1578</MPN>
+		<Description>Αποδοτική λάμπα LED με ισχύ 7W, τύπου ντουί E27. Προσφέρει φωτισμό φυσικού λευκού (4000K) και φωτεινότητα 650lm. Ιδανική για οικονομικό και φιλικό προς το περιβάλλον φωτισμό σε οικιακούς και επαγγελματικούς χώρους. Λειτουργεί στα 240V.</Description>
+		<Barcode>5207227112898</Barcode>
+		<Quantity>187</Quantity>
+	</product>
+	<product>
 		<ID>7971013</ID>
 		<Name>Eurolamp Κοινή  Λάμπα LED 8,8W για Ντουί E27 4000K Α60 240V Φυσικό Λευκό 810lm</Name>
 		<Product_Link>https://www.skroutz.gr/s/27390876/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-Fysiko-Leyko-810lm-147-77012.html</Product_Link>
@@ -16630,6 +16647,23 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Εφαρμογή: E27
     Σχήμα: A60</Description>
 		<Barcode>5207227112713</Barcode>
+		<Quantity>200</Quantity>
+	</product>
+	<product>
+		<ID>7971022</ID>
+		<Name>Eurolamp Κοινή  Λάμπα LED 7W για Ντουί E27 2700K Α60 240V Θερμό Λευκό 650lm</Name>
+		<Product_Link>https://revoltsa.gr/index.php?route=product/product&amp;search=5207227112744&amp;product_id=15834&amp;search=5207227112744</Product_Link>
+		<Image_Link>https://revoltsa.gr/image/cache/catalog/eurolamp/product-15834-1000x1000.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1582</MPN>
+		<Description>Αποδοτική λάμπα LED 7W με ντουί E27, που αποδίδει ζεστό λευκό φωτισμό (2700K) και φωτεινότητα 650lm. Κατάλληλη για οικιακούς και επαγγελματικούς χώρους, προσφέροντας οικονομική και μακροχρόνια απόδοση. Λειτουργεί στα 240V.</Description>
+		<Barcode>5207227112744</Barcode>
 		<Quantity>200</Quantity>
 	</product>
 	<product>
@@ -16725,6 +16759,23 @@ Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικ�
     Σχήμα: A60</Description>
 		<Barcode> 5207227113284</Barcode>
 		<Quantity>99</Quantity>
+	</product>
+	<product>
+		<ID>7971072</ID>
+		<Name>Eurolamp Κοινή  Λάμπα LED 8W για Ντουί Β22  2700K Α60 240V Θερμό Λευκό 650lm</Name>
+		<Product_Link>https://revoltsa.gr/index.php?route=product/product&amp;search=5207227113048&amp;product_id=15849&amp;search=5207227113048</Product_Link>
+		<Image_Link>https://revoltsa.gr/image/cache/catalog/eurolamp/product-15849-1000x1000.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1587</MPN>
+		<Description>Αποδοτική λάμπα LED 8W με βάση B22, που παρέχει ζεστό λευκό φωτισμό (2700K) και φωτεινότητα 650lm. Ιδανική για οικονομικό και αξιόπιστο φωτισμό σε οικιακούς και επαγγελματικούς χώρους. Λειτουργεί στα 240V.</Description>
+		<Barcode> 5207227113048</Barcode>
+		<Quantity>90</Quantity>
 	</product>
 	<product>
 		<ID>7971074</ID>
