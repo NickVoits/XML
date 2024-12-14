@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-14 15:05</created_at>
+	<created_at>2024-12-14 16:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -325,7 +325,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>1041</Quantity>
+		<Quantity>1033</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -581,7 +581,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171151163</Barcode>
-		<Quantity>443</Quantity>
+		<Quantity>419</Quantity>
 	</product>
 	<product>
 		<ID>11512</ID>
@@ -599,7 +599,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171150265</Barcode>
-		<Quantity>580</Quantity>
+		<Quantity>556</Quantity>
 	</product>
 	<product>
 		<ID>11521</ID>
@@ -1547,7 +1547,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>463</Quantity>
+		<Quantity>457</Quantity>
 	</product>
 	<product>
 		<ID>130318</ID>
@@ -1619,7 +1619,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>612</Quantity>
+		<Quantity>603</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -3039,7 +3039,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>3682</Quantity>
+		<Quantity>3676</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -4637,7 +4637,7 @@ _x000D_
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>2337</Quantity>
+		<Quantity>2313</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -4999,7 +4999,7 @@ _x000D_
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207612016</Barcode>
-		<Quantity>660</Quantity>
+		<Quantity>654</Quantity>
 	</product>
 	<product>
 		<ID>52903</ID>
@@ -5086,7 +5086,7 @@ _x000D_
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>627</Quantity>
+		<Quantity>624</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -5103,7 +5103,7 @@ _x000D_
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<Barcode>080432402931</Barcode>
-		<Quantity>604</Quantity>
+		<Quantity>601</Quantity>
 	</product>
 	<product>
 		<ID>55051</ID>
@@ -7062,7 +7062,7 @@ _x000D_
 • Προστατεύουν Από Κοκκινίλες_x000D_
 • Με 3 Λεπίδες η Καθεμία</Description>
 		<Barcode>3014260409807</Barcode>
-		<Quantity>179</Quantity>
+		<Quantity>175</Quantity>
 	</product>
 	<product>
 		<ID>620241</ID>
@@ -7367,7 +7367,7 @@ _x000D_
 		<MPN>1059</MPN>
 		<Description>Αποσμητικό σε μορφή στικ που αρωματίζει διακριτικά με την κλασική μυρωδιά Old Spice.</Description>
 		<Barcode>5000174003451</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>63051</ID>
@@ -7685,7 +7685,7 @@ _x000D_
 		<MPN>0283</MPN>
 		<Description>Το οινόπνευμα είναι ένα πολύ χρήσιμο εργαλείο μέσα στο σπίτι και οι χρήσεις του είναι αμέτρητες.</Description>
 		<Barcode>5202737801010</Barcode>
-		<Quantity>2084</Quantity>
+		<Quantity>1994</Quantity>
 	</product>
 	<product>
 		<ID>64161</ID>
@@ -8355,7 +8355,7 @@ _x000D_
 		<MPN>1014</MPN>
 		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.</Description>
 		<Barcode>5201109655022</Barcode>
-		<Quantity>778</Quantity>
+		<Quantity>766</Quantity>
 	</product>
 	<product>
 		<ID>65521</ID>
@@ -8372,7 +8372,7 @@ _x000D_
 		<MPN>1015</MPN>
 		<Description>Σαπούνι της Papoutsanis με καθαριστική δράση που διασφαλίζει τη σωστή υγιεινή της επιδερμίδας.</Description>
 		<Barcode>5201109002666</Barcode>
-		<Quantity>124</Quantity>
+		<Quantity>121</Quantity>
 	</product>
 	<product>
 		<ID>65522</ID>
@@ -10275,7 +10275,7 @@ _x000D_
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων._x000D_
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>1709</Quantity>
+		<Quantity>1706</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -10581,7 +10581,7 @@ _x000D_
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181204050</Barcode>
-		<Quantity>849</Quantity>
+		<Quantity>846</Quantity>
 	</product>
 	<product>
 		<ID>71261</ID>
@@ -16422,7 +16422,7 @@ _x000D_
 		<MPN>1467</MPN>
 		<Description>Χριστουγεννιάτικα λαμπάκια σειρά της Aria Trade μήκους 8m, με 100 λαμπάκια led. Έχουν πράσινο καλώδιο και εκπέμπουν θερμό λευκό φως, το οποίο αποδίδεται στην κλίμακα Kelvin με τιμές από 2400Κ έως 3800Κ. Οι τόνοι του θερμού λευκού είναι πιο κίτρινοι σε σχέση με το φυσικό φως. Διαθέτουν βαθμό προστασίας IP44, που δηλώνει ότι δεν μπορούν να εισχωρήσουν στερεά αντικείμενα άνω του ενός χιλιοστού αλλά ούτε και νερό με μεγάλη ένταση. Σας επιτρέπουν να επιλέξετε ανάμεσα σε διάφορα προγράμματα εναλλαγής φωτισμού, ανάλογα με τη διάθεση σας. Λειτουργούν με ρεύμα.</Description>
 		<Barcode>5200300503170</Barcode>
-		<Quantity>84</Quantity>
+		<Quantity>82</Quantity>
 	</product>
 	<product>
 		<ID>79613</ID>
@@ -17336,7 +17336,7 @@ _x000D_
     Τάση: 220-240V_x000D_
     Είδος: Νυκτός</Description>
 		<Barcode>5206139000590</Barcode>
-		<Quantity>114</Quantity>
+		<Quantity>102</Quantity>
 	</product>
 	<product>
 		<ID>7972002</ID>
@@ -17357,7 +17357,7 @@ _x000D_
     Εφαρμογή Λαμπτήρα: E14_x000D_
     Είδος: Νυκτός</Description>
 		<Barcode>5206139000064</Barcode>
-		<Quantity>35</Quantity>
+		<Quantity>27</Quantity>
 	</product>
 	<product>
 		<ID>7972003</ID>
@@ -17378,7 +17378,7 @@ _x000D_
     Εφαρμογή Λαμπτήρα: E14_x000D_
     Είδος: Νυκτός</Description>
 		<Barcode>5206139000736</Barcode>
-		<Quantity>107</Quantity>
+		<Quantity>94</Quantity>
 	</product>
 	<product>
 		<ID>7972004</ID>
@@ -17399,7 +17399,7 @@ _x000D_
     Εφαρμογή Λαμπτήρα: E14_x000D_
     Είδος: Νυκτός</Description>
 		<Barcode>5206139000743</Barcode>
-		<Quantity>42</Quantity>
+		<Quantity>34</Quantity>
 	</product>
 	<product>
 		<ID>7972005</ID>
@@ -17431,7 +17431,7 @@ _x000D_
     Πιστοποιητικά: Ναι_x000D_
     Ένδειξη CE: Ναι</Description>
 		<Barcode>5206139000750</Barcode>
-		<Quantity>42</Quantity>
+		<Quantity>33</Quantity>
 	</product>
 	<product>
 		<ID>7972041</ID>
@@ -18737,7 +18737,7 @@ _x000D_
 		<Description>Το Σπαγγέτινι Νο10 Melissa είναι ένα λεπτό ζυμαρικό που είναι ευέλικτο ως βάση για το μαγείρεμα, αλλά μπορεί να χρησιμοποιήθεί και σε πιο gourmet συνταγές._x000D_
 </Description>
 		<Barcode>5201193101061</Barcode>
-		<Quantity>1553</Quantity>
+		<Quantity>1551</Quantity>
 	</product>
 	<product>
 		<ID>83101</ID>
@@ -19712,7 +19712,7 @@ _x000D_
 		<Weight>0.4 kg</Weight>
 		<Description>Τα μανιτάρια Frescon είναι συντηρημένα με τις πιο προηγμένες μεθόδους κονσερβοποίησης, ώστε να διατηρηθεί η ποιότητα και η γεύση της πρώτης ύλης, όσο πιο φρέσκια γίνεται και για όσο περισσότερο καιρό γίνεται.</Description>
 		<Barcode>5200128642068</Barcode>
-		<Quantity>609</Quantity>
+		<Quantity>597</Quantity>
 	</product>
 	<product>
 		<ID>85221</ID>
@@ -19730,7 +19730,7 @@ _x000D_
 		<Weight>0.3 kg</Weight>
 		<Description>Τόνος της εταιρίας Campos, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Σημαντική πηγή πρωτεΐνης και ωμέγα 3 λιπαρών, ο τόνος ενισχύει τέλεια τις σαλάτες, φαγητά όπως τα ζυμαρικά ή και σάντουιτς.</Description>
 		<Barcode>8410673001204</Barcode>
-		<Quantity>338</Quantity>
+		<Quantity>328</Quantity>
 	</product>
 	<product>
 		<ID>85222</ID>
@@ -20490,7 +20490,7 @@ _x000D_
 •Ποσότητα: 1τμχ_x000D_
 •Βάρος: 405gr</Description>
 		<Barcode>8007520011105</Barcode>
-		<Quantity>684</Quantity>
+		<Quantity>660</Quantity>
 	</product>
 	<product>
 		<ID>99031</ID>
@@ -20574,6 +20574,6 @@ _x000D_
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
 		<Barcode>8007520012188</Barcode>
-		<Quantity>364</Quantity>
+		<Quantity>340</Quantity>
 	</product>
 </mywebstore>
