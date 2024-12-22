@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-22 14:05</created_at>
+	<created_at>2024-12-22 15:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -399,7 +399,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275001708</Barcode>
-		<Quantity>2003</Quantity>
+		<Quantity>1991</Quantity>
 	</product>
 	<product>
 		<ID>11031</ID>
@@ -3039,7 +3039,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>3158</Quantity>
+		<Quantity>3157</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -3183,7 +3183,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100318</Barcode>
-		<Quantity>789</Quantity>
+		<Quantity>788</Quantity>
 	</product>
 	<product>
 		<ID>40421</ID>
@@ -3484,7 +3484,7 @@ _x000D_
 Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του._x000D_
 Σερβίρεται στους 8-10°C.</Description>
 		<Barcode>5204222575017</Barcode>
-		<Quantity>63</Quantity>
+		<Quantity>62</Quantity>
 	</product>
 	<product>
 		<ID>46302</ID>
@@ -3781,7 +3781,7 @@ _x000D_
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888070027</Barcode>
-		<Quantity>349</Quantity>
+		<Quantity>345</Quantity>
 	</product>
 	<product>
 		<ID>470935</ID>
@@ -4435,7 +4435,7 @@ _x000D_
 		<MPN>1640</MPN>
 		<Description>Σύνθετο διαυγές κόκκινο χρώμα, με πλούσιες και ελκυστικές ανταύγειες. Στη μύτη συνδυάζει αρώματα κόκκινων φρούτων με νότες μπαχαρικών και δέρματος. Κρασί με ιδιαίτερη ισορροπία και απαλή, γεμάτη αίσθηση στο στόμα, που αφήνει μία μακριά απολαυστική επίγευση.</Description>
 		<Barcode>5202123000027</Barcode>
-		<Quantity>66</Quantity>
+		<Quantity>64</Quantity>
 	</product>
 	<product>
 		<ID>46105</ID>
@@ -5102,7 +5102,7 @@ _x000D_
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<Barcode>080432402931</Barcode>
-		<Quantity>493</Quantity>
+		<Quantity>492</Quantity>
 	</product>
 	<product>
 		<ID>55051</ID>
@@ -5824,7 +5824,7 @@ _x000D_
 		<Weight>0.8 kg</Weight>
 		<Description>Το Eoliki Cherry Brandy 25% Vol 700ml είναι ένα λικέρ με πλούσια γεύση κερασιού, συνδυασμένο με την απαλή αίσθηση του μπράντι. Με ισορροπημένη γλυκύτητα και αρωματικές νότες, είναι ιδανικό για κατανάλωση σκέτο, με πάγο, ή ως βάση για διάφορα κοκτέιλ. Το βαθύ κόκκινο χρώμα και η φρουτώδης γεύση του προσδίδουν μια ιδιαίτερη πινελιά σε κάθε ποτό.</Description>
 		<Barcode>5201304300291</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>555515</ID>
@@ -7221,7 +7221,7 @@ _x000D_
 		<MPN>1052</MPN>
 		<Description>Αποσμητικό Nivea Men Dry Impact Plus, το οποίο προσφέρει 48ωρη προστασία από τον ιδρώτα και την κακοσμία.</Description>
 		<Barcode>42299783</Barcode>
-		<Quantity>53</Quantity>
+		<Quantity>52</Quantity>
 	</product>
 	<product>
 		<ID>63003</ID>
@@ -7332,7 +7332,7 @@ _x000D_
 •Περιοχή Χρήσης: Σώμα_x000D_
 •Τύπος: Roll-On</Description>
 		<Barcode>5201314125860</Barcode>
-		<Quantity>177</Quantity>
+		<Quantity>176</Quantity>
 	</product>
 	<product>
 		<ID>63031</ID>
@@ -7684,7 +7684,7 @@ _x000D_
 		<MPN>0283</MPN>
 		<Description>Το οινόπνευμα είναι ένα πολύ χρήσιμο εργαλείο μέσα στο σπίτι και οι χρήσεις του είναι αμέτρητες.</Description>
 		<Barcode>5202737801010</Barcode>
-		<Quantity>1820</Quantity>
+		<Quantity>1790</Quantity>
 	</product>
 	<product>
 		<ID>64161</ID>
@@ -9777,7 +9777,7 @@ _x000D_
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>5049</Quantity>
+		<Quantity>5029</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -9848,7 +9848,7 @@ _x000D_
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>4390</Quantity>
+		<Quantity>4378</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -9899,7 +9899,7 @@ _x000D_
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<Barcode>5200100281667</Barcode>
-		<Quantity>955</Quantity>
+		<Quantity>953</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -9933,7 +9933,7 @@ _x000D_
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650102703</Barcode>
-		<Quantity>1316</Quantity>
+		<Quantity>1314</Quantity>
 	</product>
 	<product>
 		<ID>702071</ID>
@@ -9952,7 +9952,7 @@ _x000D_
 _x000D_
     Συνολικός Αριθμός Χαρτοπετσετών: 100</Description>
 		<Barcode>5202995003942</Barcode>
-		<Quantity>118</Quantity>
+		<Quantity>115</Quantity>
 	</product>
 	<product>
 		<ID>70209</ID>
@@ -11529,7 +11529,7 @@ _x000D_
 		<MPN>1018</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<Barcode>5201028094209</Barcode>
-		<Quantity>924</Quantity>
+		<Quantity>923</Quantity>
 	</product>
 	<product>
 		<ID>735111</ID>
@@ -13393,7 +13393,7 @@ _x000D_
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<Barcode>5200128643140</Barcode>
-		<Quantity>1262</Quantity>
+		<Quantity>1261</Quantity>
 	</product>
 	<product>
 		<ID>76031</ID>
@@ -14627,7 +14627,7 @@ _x000D_
 		<MPN>0247</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 120ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>5202054359553</Barcode>
-		<Quantity>155</Quantity>
+		<Quantity>135</Quantity>
 	</product>
 	<product>
 		<ID>78102</ID>
@@ -15344,7 +15344,7 @@ _x000D_
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036188</Barcode>
-		<Quantity>808</Quantity>
+		<Quantity>807</Quantity>
 	</product>
 	<product>
 		<ID>78902</ID>
@@ -16472,7 +16472,7 @@ _x000D_
 		<MPN>1468</MPN>
 		<Description>Χριστουγεννιάτικα φωτάκια led 100L IP44 με μετασχηματιστή 31V σε ψυχρό λευκό (cool white) χρώμα με 8 προγράμματα. Είναι επεκτεινόμενα και έχουν μήκος 5m με επιπλέον 3m τροφοδοσίας.</Description>
 		<Barcode>5200300503194</Barcode>
-		<Quantity>52</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>79614</ID>
@@ -17841,7 +17841,7 @@ _x000D_
     Υλικό Κατασκευής Προϊόντος: Πλαστικό &amp; PP_x000D_
     Λυχνία Ένδειξης Λειτουργίας: Ναι</Description>
 		<Barcode>5207227003189</Barcode>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>7992002</ID>
@@ -18830,7 +18830,7 @@ _x000D_
 		<Weight>0.5 kg</Weight>
 		<Description>Μακρύσπερμο ρύζι που παίρνει το χρυσαφένιο χρώμα από τα συστατικά του εξωτερικού φλοιού του, κατά την υγροθερμική επεξεργασία, ο οποίος απομακρύνεται στη συνέχεια. Θεωρείται ιδανικό για πιλάφι λόγω του ότι παραμένει σπυρωτό.</Description>
 		<Barcode>5212006201304</Barcode>
-		<Quantity>675</Quantity>
+		<Quantity>665</Quantity>
 	</product>
 	<product>
 		<ID>81013</ID>
@@ -20589,7 +20589,7 @@ _x000D_
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<Barcode>5202546009379</Barcode>
-		<Quantity>201</Quantity>
+		<Quantity>197</Quantity>
 	</product>
 	<product>
 		<ID>99002</ID>
@@ -20610,7 +20610,7 @@ _x000D_
 • Κυρίως συστατικό: Κοτόπουλο, Ρύζι_x000D_
 • Συσκευασία: 15kg</Description>
 		<Barcode>5202546009119</Barcode>
-		<Quantity>134</Quantity>
+		<Quantity>133</Quantity>
 	</product>
 	<product>
 		<ID>99003</ID>
