@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-28 16:05</created_at>
+	<created_at>2024-12-28 16:45</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1619,7 +1619,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>298</Quantity>
+		<Quantity>297</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -8337,7 +8337,7 @@ _x000D_
 		<MPN>1013</MPN>
 		<Description>Σαπούνι  το οποίο χάρη στη βιοδιασπώμενη σύνθεσή του φροντίζει απαλά όλη την οικογένεια. Είναι δερματολογικά ελεγμένο για να νιώθετε ασφάλεια. Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5201109601623</Barcode>
-		<Quantity>1297</Quantity>
+		<Quantity>1294</Quantity>
 	</product>
 	<product>
 		<ID>65512</ID>
@@ -8371,7 +8371,7 @@ _x000D_
 		<MPN>1015</MPN>
 		<Description>Σαπούνι της Papoutsanis με καθαριστική δράση που διασφαλίζει τη σωστή υγιεινή της επιδερμίδας.</Description>
 		<Barcode>5201109002666</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>65522</ID>
@@ -8425,7 +8425,7 @@ _x000D_
 _x000D_
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>8999999527709</Barcode>
-		<Quantity>215</Quantity>
+		<Quantity>214</Quantity>
 	</product>
 	<product>
 		<ID>65552</ID>
@@ -8442,7 +8442,7 @@ _x000D_
 		<MPN>1488</MPN>
 		<Description>Σαπούνι χεριών velvet touch της Lux με νότες από γιασεμί και αιθέριο έλαιο αμυγδάλου, με άρωμα που διαρκεί για ώρες.</Description>
 		<Barcode>8999999527679</Barcode>
-		<Quantity>306</Quantity>
+		<Quantity>305</Quantity>
 	</product>
 	<product>
 		<ID>66011</ID>
@@ -10003,7 +10003,7 @@ _x000D_
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<Barcode>5202995010537</Barcode>
-		<Quantity>420</Quantity>
+		<Quantity>415</Quantity>
 	</product>
 	<product>
 		<ID>70302</ID>
@@ -10274,7 +10274,7 @@ _x000D_
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων._x000D_
 Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>1646</Quantity>
+		<Quantity>1644</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -11072,7 +11072,7 @@ _x000D_
 		<MPN>0628</MPN>
 		<Description>Το Tuboflo ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις μόνο με την προσθήκη κρύου νερού.</Description>
 		<Barcode>55201314051652</Barcode>
-		<Quantity>3746</Quantity>
+		<Quantity>3745</Quantity>
 	</product>
 	<product>
 		<ID>72102</ID>
@@ -11928,7 +11928,7 @@ _x000D_
 _x000D_
 *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>88</Quantity>
+		<Quantity>87</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -11945,7 +11945,7 @@ _x000D_
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<Barcode>4023103156487</Barcode>
-		<Quantity>927</Quantity>
+		<Quantity>925</Quantity>
 	</product>
 	<product>
 		<ID>74111</ID>
@@ -15948,7 +15948,7 @@ _x000D_
 		<MPN>SP10010-03</MPN>
 		<Description>Σετ στυλό Typotrust τύπου ballpoint, με μπλε μελάνι και μύτη πάχους 1.0mm. Τα ballpoint στεγνώνουν γρήγορα και δεν αφήνουν μουτζούρες. Το μελάνι διαρκεί περισσότερο σε σχέση με τους άλλους τύπους, αλλά η γραφή είναι λιγότερο ομαλή και μπορεί να αφήσει κενά. Κατάλληλοι για όλες τις ποιότητες χαρτιού και για καθημερινή χρήση. Συσκευασία 50 τεμαχίων.</Description>
 		<Barcode>5207146010893</Barcode>
-		<Quantity>915</Quantity>
+		<Quantity>914</Quantity>
 	</product>
 	<product>
 		<ID>79181</ID>
@@ -15965,7 +15965,7 @@ _x000D_
 		<MPN>SP01082-05</MPN>
 		<Description>Μολύβι γραφίτη της εταιρείας Typotrust. Διαθέτει τον πιο συνηθισμένο τύπο μύτης, με μέση σκληρότητα HB, ιδανικό για γράψιμο και γραμμικό σχέδιο. Διατίθεται σε σετ 12 τεμαχίων.</Description>
 		<Barcode>5207146015027</Barcode>
-		<Quantity>228</Quantity>
+		<Quantity>227</Quantity>
 	</product>
 	<product>
 		<ID>79182</ID>
@@ -19232,7 +19232,7 @@ _x000D_
 		<Weight>0.2 kg</Weight>
 		<Description>Ο Knorr Κύβος Κότας είναι φτιαγμένος από ζωμό κότας, μπαχαρικά και μυρωδικά, χωρίς συντηρητικά και τεχνητές χρωστικές και δίνει στις συνταγές σας πλούσια γεύση.</Description>
 		<Barcode>8711200400393</Barcode>
-		<Quantity>227</Quantity>
+		<Quantity>226</Quantity>
 	</product>
 	<product>
 		<ID>84023</ID>
