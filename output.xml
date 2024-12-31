@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-31 16:05</created_at>
+	<created_at>2024-12-31 16:47</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1894,7 +1894,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<Barcode>90415708</Barcode>
-		<Quantity>11298</Quantity>
+		<Quantity>11250</Quantity>
 	</product>
 	<product>
 		<ID>15101</ID>
@@ -3410,7 +3410,7 @@ _x000D_
 		<MPN>1315</MPN>
 		<Description>Λαμπερό αχυρένιο χρώμα με πρασινωπές ανταύγειες . Μύτη κομψή με αρώματα εσπεριδοειδών και λευκού ροδάκινου. Στο στόμα πλούσιο και γεμάτο με τραγανή οξύτητα. Μεγάλη αρωματική διάρκεια.</Description>
 		<Barcode>5201214100127</Barcode>
-		<Quantity>298</Quantity>
+		<Quantity>268</Quantity>
 	</product>
 	<product>
 		<ID>57032</ID>
@@ -9777,7 +9777,7 @@ _x000D_
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>4857</Quantity>
+		<Quantity>4856</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -9882,7 +9882,7 @@ _x000D_
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>2456</Quantity>
+		<Quantity>2455</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -10474,7 +10474,7 @@ _x000D_
 		<Weight>2.5 kg</Weight>
 		<Description>Απορρυπαντικό πλυντηρίου ρούχων Omo σε σκόνη, με άρωμα λεβάντας. Προσφέρει καθαριότητα σε κάθε πλύση εισχωρώντας σε βάθος στις ίνες των ρούχων. Τα εμπλουτισμένα με αιθέρια έλαια αρώματα που περιέχει έχουν επιλεχτεί ειδικά για φρεσκάδα που διαρκεί όλη μέρα.</Description>
 		<Barcode>8710847886874</Barcode>
-		<Quantity>257</Quantity>
+		<Quantity>256</Quantity>
 	</product>
 	<product>
 		<ID>71201</ID>
