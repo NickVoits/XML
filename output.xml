@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2024-12-31 15:05</created_at>
+	<created_at>2024-12-31 16:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1079,7 +1079,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>2589</Quantity>
+		<Quantity>2573</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -1097,7 +1097,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>1051</Quantity>
+		<Quantity>1039</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -2661,7 +2661,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>8676</Quantity>
+		<Quantity>8632</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -5068,7 +5068,7 @@ _x000D_
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<Barcode>5000281002538</Barcode>
-		<Quantity>610</Quantity>
+		<Quantity>606</Quantity>
 	</product>
 	<product>
 		<ID>55008</ID>
@@ -5085,7 +5085,7 @@ _x000D_
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>759</Quantity>
+		<Quantity>758</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -5332,7 +5332,7 @@ _x000D_
 		<MPN>1499</MPN>
 		<Description>To Beefeater London είναι ένα premium dry τζιν με κρυστάλλινη όψη που παρασκευάζεται στο Λονδίνο, στο αποστακτήριο του Kennington. Οι νότες αρκεύθου, μπαχαρικών και φρούτων είναι ένας συνδυασμός που έχει ως αποτέλεσμα ένα απόσταγμα αρωματικό και με καθαρή γεύση.</Description>
 		<Barcode>5000329002209</Barcode>
-		<Quantity>189</Quantity>
+		<Quantity>188</Quantity>
 	</product>
 	<product>
 		<ID>55305</ID>
@@ -7927,7 +7927,7 @@ _x000D_
 		<MPN>1251</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.</Description>
 		<Barcode>5201109001614</Barcode>
-		<Quantity>207</Quantity>
+		<Quantity>206</Quantity>
 	</product>
 	<product>
 		<ID>67112</ID>
@@ -9777,7 +9777,7 @@ _x000D_
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>4858</Quantity>
+		<Quantity>4857</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -9882,7 +9882,7 @@ _x000D_
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>2457</Quantity>
+		<Quantity>2456</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -11928,7 +11928,7 @@ _x000D_
 _x000D_
 *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>83</Quantity>
+		<Quantity>82</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -11945,7 +11945,7 @@ _x000D_
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<Barcode>4023103156487</Barcode>
-		<Quantity>919</Quantity>
+		<Quantity>918</Quantity>
 	</product>
 	<product>
 		<ID>74111</ID>
@@ -20363,7 +20363,7 @@ _x000D_
 		<Weight>0.5 kg</Weight>
 		<Description>Κρακεράκια μίνι της εταιρείας Gullon σε στρογγυλό σχήμα με αλάτι.</Description>
 		<Barcode>8410376014051</Barcode>
-		<Quantity>235</Quantity>
+		<Quantity>234</Quantity>
 	</product>
 	<product>
 		<ID>86101</ID>
@@ -20760,6 +20760,6 @@ _x000D_
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
 		<Barcode>8007520012188</Barcode>
-		<Quantity>260</Quantity>
+		<Quantity>259</Quantity>
 	</product>
 </mywebstore>
