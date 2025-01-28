@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-01-28 15:05</created_at>
+	<created_at>2025-01-28 16:31</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -162,24 +162,6 @@
 		<Description>Η μπύρα lager της εταιρείας Kaiser Pilsner είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 5%</Description>
 		<Barcode>5201309103040</Barcode>
 		<Quantity>120</Quantity>
-	</product>
-	<product>
-		<ID>320255-Τ</ID>
-		<Name>Carlsberg Lager Κουτί 330ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/19187564/Carlsberg-Lager-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/019187/19187564/20220909100532_carlsberg_lager_kouti_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.95</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
-		<Manufacturer>CARLSBERG</Manufacturer>
-		<MPN>1197</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η μπύρα lager της εταιρείας Carlsberg είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 5%</Description>
-		<Barcode>5201309137663</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>32226-Τ</ID>
@@ -413,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>1252</Quantity>
+		<Quantity>1276</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -1583,7 +1565,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικά με κύριο συστατικό το Φυσικό Μεταλλικό Νερό, από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ, αλλά και χυμούς από ελληνικά φρούτα, που δημιουργούν τα πιο ξεχωριστές γεύσεις του καλοκαιριού μας και υπόσχονται πραγματική απόλαυση χάρη στη μοναδική τους γεύση.</Description>
 		<Barcode>5201946911046</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>13035</ID>
@@ -2537,7 +2519,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>6672</Quantity>
+		<Quantity>12144</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2555,7 +2537,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>6244</Quantity>
+		<Quantity>8484</Quantity>
 	</product>
 	<product>
 		<ID>21412-Τ</ID>
@@ -3394,6 +3376,23 @@
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με λεμονοπράσινο χρώμα, γευστικές νότες βερίκοκου, ροδάκινου, αχλαδιού, τροπικών φρούτων αλλά και δυόσμου συνδιάζονται με ανθικά αρώματα με κυρίαρχο το τριαντάφυλλο. Στο στόμα είναι ξηρό, με ικανοποιητική οξύτητα, μέτριο σώμα και μακρά επίγευση.</Description>
 		<Barcode>5204222239209</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>46307</ID>
+		<Name>Κτήμα Γεροβασιλείου Κρασί Viognier Λευκό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4705378/Ktima-Gerovasileiou-Krasi-Viognier-Leyko-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/004705/4705378/20211019160013_ktima_gerovasileiou_krasi_leyko_xiro_viognier_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>23.07</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
+		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
+		<MPN>1684</MPN>
+		<Description>Γεννήθηκε από την εκλεκτή ποικιλία Viognier του ιδιόκτητου αμπελώνα, η οποία φυτεύτηκε στο Κτήμα το 1993 με τη συνεργασία του Γεωπονικού Τμήματος του Α.Π.Θ.  Μετά την προζυμωτική κρυοεκχύλιση και τη ζύμωση σε δρύινα γαλλικά βαρέλια, το κρασί παλαιώνει για μερικούς μήνες μαζί με τις οινολάσπες του, αποκτώντας έτσι πλούσια γεύση.  Το χρώμα του είναι έντονο χρυσοκίτρινο και παρουσιάζει πλούσιο ποικιλιακό χαρακτήρα με αρώματα από βερίκοκο, ροδάκινο και νότες καπνού στη μακρά επίγευση.  Επιδέχεται παλαίωση και σερβίρεται δροσερό στους 10–12°C.</Description>
+		<Barcode>5204222575055</Barcode>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>46353</ID>
@@ -4467,7 +4466,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>999</Quantity>
+		<Quantity>2199</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -4521,7 +4520,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000417</Barcode>
-		<Quantity>685</Quantity>
+		<Quantity>1933</Quantity>
 	</product>
 	<product>
 		<ID>52152</ID>
@@ -4539,7 +4538,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>502</Quantity>
+		<Quantity>2902</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -4557,7 +4556,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064011550</Barcode>
-		<Quantity>743</Quantity>
+		<Quantity>1031</Quantity>
 	</product>
 	<product>
 		<ID>52154</ID>
@@ -4575,7 +4574,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000301</Barcode>
-		<Quantity>81</Quantity>
+		<Quantity>111</Quantity>
 	</product>
 	<product>
 		<ID>522011</ID>
@@ -6971,7 +6970,7 @@
 		<MPN>1535</MPN>
 		<Description>Βασικά χαρακτηριστικά:   • Ανταλλακτικές Κεφαλές   • Με 5 Λεπίδες   • Συμβατές με τις Μηχανές Fusion   • Με Λεπίδα Ακριβείας Στο Πίσω Μέρος   • Με Τζελ Για Άνετο Ξύρισμα</Description>
 		<Barcode>7702018866984</Barcode>
-		<Quantity>69</Quantity>
+		<Quantity>269</Quantity>
 	</product>
 	<product>
 		<ID>62051</ID>
@@ -7106,8 +7105,8 @@
 		<Manufacturer>AXE</Manufacturer>
 		<MPN>1364</MPN>
 		<Description>Το ΑΧΕ Africa After shave με κλασικό άρωμα από ένα εξωτικό μείγμα από ζεστά Αφρικανικά μπαχαρικά και αρώματα, είναι σχεδιασμένο να προστατεύει μετά το ξύρισμα. Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και κάνει ό,τι υπόσχεται.</Description>
-		<Barcode>8720181343445</Barcode>
-		<Quantity>0</Quantity>
+		<Barcode>8710847936999</Barcode>
+		<Quantity>120</Quantity>
 	</product>
 	<product>
 		<ID>63001</ID>
@@ -8620,7 +8619,7 @@
 		<MPN>1374</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη.</Description>
 		<Barcode>5201395645110</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>66501.01</ID>
@@ -8637,7 +8636,7 @@
 		<MPN>1375</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια</Description>
 		<Barcode>5201395646018</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>50</Quantity>
 	</product>
 	<product>
 		<ID>66501.02</ID>
@@ -8671,7 +8670,7 @@
 		<MPN>1377</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201143756365</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>66502</ID>
@@ -8739,7 +8738,7 @@
 		<MPN>1381</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395647619</Barcode>
-		<Quantity>21</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>66504.26</ID>
@@ -8756,7 +8755,7 @@
 		<MPN>1382</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395646919</Barcode>
-		<Quantity>29</Quantity>
+		<Quantity>69</Quantity>
 	</product>
 	<product>
 		<ID>66504.66</ID>
@@ -8773,7 +8772,7 @@
 		<MPN>1383</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395646612</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>56</Quantity>
 	</product>
 	<product>
 		<ID>66505</ID>
@@ -8807,7 +8806,7 @@
 		<MPN>1385</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395645318</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>66506</ID>
@@ -8841,7 +8840,7 @@
 		<MPN>1387</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201143732079</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>50</Quantity>
 	</product>
 	<product>
 		<ID>66506.65</ID>
@@ -8858,7 +8857,7 @@
 		<MPN>1388</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395646414</Barcode>
-		<Quantity>32</Quantity>
+		<Quantity>72</Quantity>
 	</product>
 	<product>
 		<ID>66506.68</ID>
@@ -8875,7 +8874,7 @@
 		<MPN>1389</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201143728454</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>66507</ID>
@@ -8892,7 +8891,7 @@
 		<MPN>1390</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395647916</Barcode>
-		<Quantity>79</Quantity>
+		<Quantity>129</Quantity>
 	</product>
 	<product>
 		<ID>66507.1</ID>
@@ -8909,7 +8908,7 @@
 		<MPN>1391</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395647213</Barcode>
-		<Quantity>30</Quantity>
+		<Quantity>80</Quantity>
 	</product>
 	<product>
 		<ID>66507.65</ID>
@@ -8926,7 +8925,7 @@
 		<MPN>1392</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201143728430</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>66507.87</ID>
@@ -8943,7 +8942,7 @@
 		<MPN>1393</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201143732017</Barcode>
-		<Quantity>25</Quantity>
+		<Quantity>75</Quantity>
 	</product>
 	<product>
 		<ID>66508</ID>
@@ -9861,7 +9860,7 @@
 		<MPN>1532</MPN>
 		<Description>Απαλά Χαρτομάντηλα σε κραφτ χάρτινο κουτί. 2 φύλλων απαλά απορροφητικά σε πρακτική συσκευασία ιδανικά για χρήση στο σπίτι, το γραφείο, το αυτοκίνητο, κ.α.</Description>
 		<Barcode>5202995008299</Barcode>
-		<Quantity>1353</Quantity>
+		<Quantity>1351</Quantity>
 	</product>
 	<product>
 		<ID>70401</ID>
@@ -10353,7 +10352,7 @@
 		<MPN>1268</MPN>
 		<Description>Το ARIEL LOROR 2x75μεζ. (2x3,75 lit) είναι ένα υγρό απορρυπαντικό πλυντηρίου, ιδανικό για την αφαίρεση δύσκολων λεκέδων, προσφέροντας αποτελεσματικό καθαρισμό σε βάθος. Κατάλληλο για χρήση σε χαμηλές θερμοκρασίες, διατηρεί τα ρούχα φρέσκα και προστατεύει τα υφάσματα. Συσκευασία 2 τεμαχίων, συνολικής ποσότητας 7.5 λίτρων, που αρκεί για περίπου 150 πλύσεις.</Description>
 		<Barcode>8700216211451</Barcode>
-		<Quantity>372</Quantity>
+		<Quantity>368</Quantity>
 	</product>
 	<product>
 		<ID>71232</ID>
@@ -12436,7 +12435,7 @@
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<Barcode>5410853039334</Barcode>
-		<Quantity>274</Quantity>
+		<Quantity>273</Quantity>
 	</product>
 	<product>
 		<ID>7975022</ID>
@@ -12453,7 +12452,7 @@
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<Barcode>5410853039273</Barcode>
-		<Quantity>158</Quantity>
+		<Quantity>157</Quantity>
 	</product>
 	<product>
 		<ID>7975023</ID>
@@ -14517,6 +14516,176 @@
 		<Description>Ποτήρι πισίνας διάφανο, ιδανικό για χώρους όπου η χρήση γυάλινων ποτηριών απαγορεύεται, είναι κατάλληλο για νερό. Κατασκευάζεται από την εταιρεία Θαλασσινός και διατίθεται σε συσκευασία 25 τεμαχίων. Χωρητικότητα: 220ml</Description>
 		<Barcode>5202054461768</Barcode>
 		<Quantity>238</Quantity>
+	</product>
+	<product>
+		<ID>78501</ID>
+		<Name>ΣΚΕΥΟΣ ΑΛΟΥΜΙΝΙΟΥ R28 470ml (14,5x12x4CM) 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/27829012/THalassinos-Skeyos-Alouminiou-Parallilogrammo-R28L-100tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/027829/27829012/20240705101757_thalassinos_skeyos_alouminiou_parallilogrammo_r28l_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.46</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1685</MPN>
+		<Description>Ιδανικά για μεταφορά τροφίμων, αλλά και για ψήσιμο σε φούρνους έως 220 βαθμούς     Τα σκεύη αλουμινίου - ταψάκια - παράγονται στην Ιταλία     Με υψηλές προδιαγραφές ποιότητας και υγιεινής     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
+		<Barcode>8007626231285</Barcode>
+		<Quantity>81</Quantity>
+	</product>
+	<product>
+		<ID>785011</ID>
+		<Name>ΚΑΠΑΚΙ No 128 R28 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/38571101/THalassinos-Kapaki-Skeyon-KR-28L-100tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/038571/38571101/20221007112543_thalassinos_kapaki_skeyon_kr_28l_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.5</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1686</MPN>
+		<Description>Το καπάκι από το σκεύος αλουμινίου (σαλάτας) R-28 έχει διάσταση 14 x 11,5 εκατοστά ύψος. Το καπάκι έχει κατασκευαστεί έτσι ώστε από την μια πλευρά να είναι χαρτόνι λευκό δίνοντας την δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει και από την άλλη μεριά να είναι επενδυμένο με αλουμίνιο σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
+		<Barcode>5202054212322</Barcode>
+		<Quantity>69</Quantity>
+	</product>
+	<product>
+		<ID>78502</ID>
+		<Name>ΣΚΕΥΟΣ ΑΛΟΥΜΙΝΙΟΥ R29 1425ml (22,5x17,5x3,5CM) 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/27833397/THalassinos-Skeyos-Alouminiou-Parallilogrammo-R-29L-100tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/027833/27833397/20210323133000_thalassinos_skeyos_alouminiou_parallilogrammo_r_29l_1200tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>11.05</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1687</MPN>
+		<Description>Σετ 100 σκεύη αλουμινίου μεσαία μίας χρήσης 22 5x17 5x3 5cm     Ιδανικά για μεταφορά τροφίμων, αλλά και για ψήσιμο σε φούρνους έως 220 βαθμούς.     Με υψηλές προδιαγραφές ποιότητας και υγιεινής.     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
+		<Barcode>8011851202118</Barcode>
+		<Quantity>59</Quantity>
+	</product>
+	<product>
+		<ID>785021</ID>
+		<Name>ΚΑΠΑΚΙ No 129  R29 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/27516634/THalassinos-Kapaki-Skeyon-KR-29L-100tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/027516/27516634/20220224145720_thalassinos_kapaki_skeyon_kr_29l_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1688</MPN>
+		<Description>Το καπάκι από το σκεύος αλουμινίου R-29 έχει διάσταση 22 x 17 εκατοστά ύψος. Το καπάκι έχει κατασκευαστεί έτσι ώστε από την μια πλευρά να είναι χαρτόνι λευκό δίνοντας την δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει και από την άλλη μεριά να είναι επενδυμένο με αλουμίνιο σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
+		<Barcode>5202054212421</Barcode>
+		<Quantity>70</Quantity>
+	</product>
+	<product>
+		<ID>78503</ID>
+		<Name>ΣΚΕΥΟΣ ΑΛΟΥΜΙΝΙΟΥ R43 690ml (20,5x12,4x4,5CM) 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/40406600/Skeyos-Alouminiou-Parallilogrammo-No220-100tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/040406/40406600/20230622154504_skeyos_alouminiou_parallilogrammo_no220_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.12</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1689</MPN>
+		<Description>Σκεύος αλουμινίου μικρού μεγέθους.      Μέγεθος: U220(R43L)     Διαστάσεις (Μ x B x Y): 205 x 124 x 45mm     Συσκευασία: 100 τεμάχια</Description>
+		<Barcode>5201261211043</Barcode>
+		<Quantity>15</Quantity>
+	</product>
+	<product>
+		<ID>785031</ID>
+		<Name>ΚΑΠΑΚΙ No 220 R43 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/33132557/THalassinos-Kapaki-Skeyon-EM-5211-100tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/033132/33132557/20211221151925_thalassinos_kapaki_skeyon_em_5211_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1690</MPN>
+		<Description>Το καπάκι από το σκεύος αλουμινίου (μερίδας φαγητού) R-43 έχει διάσταση 19 x 11,5 εκατοστά ύψος.  Το καπάκι έχει κατασκευαστεί έτσι ώστε:      Από την μια πλευρά να είναι χαρτόνι λευκό, δίνοντας τη δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει.     Από την άλλη πλευρά να είναι επενδυμένο με αλουμίνιο, σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
+		<Barcode>5202054212124</Barcode>
+		<Quantity>15</Quantity>
+	</product>
+	<product>
+		<ID>78504</ID>
+		<Name>ΣΚΕΥΟΣ ΑΛΟΥΜΙΝΙΟΥ R45 940ml (20,2x13,7x5CM) 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/40406603/Skeyos-Alouminiou-Parallilogrammo-No162-100tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/040406/40406603/20230622154503_skeyos_alouminiou_parallilogrammo_no162_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.21</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1691</MPN>
+		<Description>Ιδανική επιλογή για την μεταφορά ζεστού φαγητού.      Μέγεθος : U162 (R45L)     Διαστάσεις (Μ x B x Y): 202 x 137 x 50mm     Χωρητικότητα: 940ml  Η τιμή αφορά τα 100 τεμάχια.</Description>
+		<Barcode>8682887981249</Barcode>
+		<Quantity>42</Quantity>
+	</product>
+	<product>
+		<ID>785041</ID>
+		<Name>ΚΑΠΑΚΙ No 162 R45 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/30503986/Kapaki-Skeyon-R45L-100tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/030503/30503986/20210818114047_kapaki_skeyon_r45l_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.59</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1692</MPN>
+		<Description>Το καπάκι έχει κατασκευαστεί έτσι ώστε από την μια πλευρά να είναι χαρτόνι λευκό δίνοντας την δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει και από την άλλη μεριά να είναι επενδυμένο με αλουμίνιο σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
+		<Barcode>5213006893483</Barcode>
+		<Quantity>38</Quantity>
+	</product>
+	<product>
+		<ID>78505</ID>
+		<Name>ΣΚΕΥΟΣ ΑΛΟΥΜΙΝΙΟΥ R64 2000ml (26x19x5,6CM) 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/27826655/THalassinos-Skeyos-Alouminiou-Parallilogrammo-R64L-100tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/027826/27826655/20210323114419_skeyos_alouminiou_parallilogrammo_r64l_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.73</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1693</MPN>
+		<Description>Ιδανικά για μεταφορά τροφίμων, αλλά και για ψήσιμο σε φούρνους έως 220 βαθμούς.     Τα σκεύη αλουμινίου - ταψάκια - παράγονται στην Ιταλία.     Με υψηλές προδιαγραφές ποιότητας και υγιεινής.     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
+		<Barcode>5202054213510</Barcode>
+		<Quantity>31</Quantity>
+	</product>
+	<product>
+		<ID>785051</ID>
+		<Name>ΚΑΠΑΚΙ No 204 R64 100TEM</Name>
+		<Product_Link>https://www.skroutz.gr/s/44889414/Intertan-Kapaki-Skeyon-Q181161.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/044889/44889414/20230801185627_intertan_kapaki_skeyon_q181161_100tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.91</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1694</MPN>
+		<Description>ΚΑΠΑΚΙΑ ΧΑΡΤΙΝΑ ΜΕ ΑΛΟΥΜΙΝΙΟ R64L-204 100τεμ.  Το καπάκι από το σκεύος αλουμινίου R-64L έχει διάσταση 255x190mm.  Χαρακτηριστικά:      Μία πλευρά από λευκό χαρτόνι για σημειώσεις.     Επένδυση αλουμινίου για αεροστεγή σφράγιση.     Διατήρηση σωστής θερμοκρασίας του φαγητού.</Description>
+		<Barcode>5202054212520</Barcode>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>78511</ID>
@@ -17014,6 +17183,23 @@
 		<Quantity>25</Quantity>
 	</product>
 	<product>
+		<ID>7991111</ID>
+		<Name>Gruppe PDH 330 Φραπεδιέρα Επιτραπέζια 100W Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/15449985/Gruppe-PDH-330-Frapediera-Epitrapezia-100W-Mayri.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/015449/15449985/20210608122400_gruppe_pdh_330_black.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.28</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
+		<Manufacturer>GRUPPE</Manufacturer>
+		<MPN>1695</MPN>
+		<Description>Το μίξερ ροφημάτων Gruppe Designed in Greece PDH330 ξεχωρίζει για την ομορφιά και την κομψότητά του, έχει απλό και αφαιρετικό και παράλληλα λεπτό και κομψό.</Description>
+		<Barcode>5206684005989</Barcode>
+		<Quantity>8</Quantity>
+	</product>
+	<product>
 		<ID>7991301</ID>
 		<Name>Eurolamp Τοστιέρα για 2 Τοστ 800W Μαύρη</Name>
 		<Product_Link>https://www.skroutz.gr/s/31416404/Eurolamp-300-70022-Tostiera-gia-2-Tost-800W-Mayri.html</Product_Link>
@@ -17029,6 +17215,23 @@
 		<Description>Μαύρη τοστιέρα 2 θέσεων από ανοξείδωτο ατσάλι και πλαστικό. Διαθέτει αντικολλητικές πλάκες, ένδειξη λειτουργίας - ετοιμότητας του τοστ, λαβή κλειδώματος. Οι αντικολλητικές πλάκες γκριλ, προσφέρουν γρήγορο και ομοιόμορφο ψησιμό σε έως 2 λεπτά.</Description>
 		<Barcode>5207227142536</Barcode>
 		<Quantity>29</Quantity>
+	</product>
+	<product>
+		<ID>7991711</ID>
+		<Name>Gruppe HHB8702D Inox Βραστήρας 1.7lt 2200W Ασημί</Name>
+		<Product_Link>https://www.skroutz.gr/s/26987482/Gruppe-HHB8702D-Inox-Vrastiras-1-7lt-2200W-Asimi.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/026987/26987482/20220715164440_gruppe_hhb8702d_inox_vrastiras_1_7lt_2200w_inox.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>32.9</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
+		<Manufacturer>GRUPPE</Manufacturer>
+		<MPN>1696</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Χωρητικότητα : 1,7 λίτρα     Περιστρεφόμενη βάση 360 μοίρες     Λειτουργία boil dry protection  Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί έχει καλή ποιότητα υλικών και βράζει γρήγορα το νερό.</Description>
+		<Barcode>5206684007778</Barcode>
+		<Quantity>8</Quantity>
 	</product>
 	<product>
 		<ID>7991811</ID>
@@ -17063,6 +17266,23 @@
 		<Description>Βασικά χαρακτηριστικά:    Παροχή Καφέ: Αλεσμένος    Χωρητικότητα Δοχείου Νερού: 1,25 lt    Τύπος: ΗμιαυτόματηΗμιαυτόματη μηχανή espresso της Gruppe, κατάλληλη για άτομα που ενδιαφέρονται να πειραματιστούν ώστε να πετύχουν τη γεύση και την υφή που επιθυμούν.Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη στη χρήση και ζεσταίνεται γρήγορα πριν τη χρήση.</Description>
 		<Barcode>5206684005774</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7991852</ID>
+		<Name>Gruppe CM4677E-GS Italiana Plus Μηχανή Espresso 1050W Πίεσης 20bar Κόκκινη</Name>
+		<Product_Link>https://www.skroutz.gr/s/58110801/Gruppe-Italiana-Plus-Michani-Espresso-1050W-Piesis-20bar-Kokkini.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/058110/58110801/20241224112551_gruppe_italiana_plus_michani_espresso_1050w_piesis_20bar_kokkini.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>104.77</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Μηχανές Espresso</Category_Path>
+		<Manufacturer>GRUPPE</Manufacturer>
+		<MPN>1697</MPN>
+		<Description>Πίεση 20 bar     Ημιαυτόματη παρασκευή καφέ     2 φίλτρα για μονή και διπλή δόση αλεσμένου καφέ     Αποσπώμενο δοχείο νερού χωρητικότητας 1,25 lt     Προστασία κατά της υπερθέρμανσης     Ακροφύσιο ατμού με ρυθμιζόμενο σύστημα παρασκευής cappuccino ή ζεστού γάλακτος     Ισχύς AC220-230V 50Hz 1050W</Description>
+		<Barcode>5206684083154</Barcode>
+		<Quantity>4</Quantity>
 	</product>
 	<product>
 		<ID>7992001</ID>
@@ -17165,6 +17385,74 @@
 		<Description>Βασικά χαρακτηριστικά:    Ικανότητα Αφύγρανσης: 20 lt/ημέρα    Χωρητικότητα Δοχείου Νερού: 5,5 lt    Ισχύς: 320 WΟ αφυγραντήρας της Eurolamp είναι κατάλληλος για ενιαίους χώρους έως και 110m², ώστε να διατηρεί την υγρασία του χώρου σε φυσιολογικά επίπεδα.Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί κατεβάζει την υγρασία στα επιθυμητά επίπεδα και είναι οικονομικός στην κατανάλωση ρεύματος.</Description>
 		<Barcode>5207227105746</Barcode>
 		<Quantity>2</Quantity>
+	</product>
+	<product>
+		<ID>799500101</ID>
+		<Name>Ugreen GaN Φορτιστής Χωρίς Καλώδιο 65W 1xUSB-A 3xUSB-C PDx3+QC3.0 Black CD224 (70774)</Name>
+		<Product_Link>https://www.skroutz.gr/s/30168038/Ugreen-Fortistis-CHoris-Kalodio-me-THyra-USB-A-kai-3-THyres-USB-C-65W-Power-Delivery-Quick-Charge-2-0-Quick-Charge-3-0-Quick-Charge-4-Quick-Charge-4-0-Mayros-CD224.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/030168/30168038/20220520162706_ugreen_fortistis_choris_kalodio_me_thyra_usb_a_kai_3_thyres_usb_c_65w_power_delivery_quick_charge_2_0_quick_charge_3_0_quick_charge_4_quick_charge_4_0.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>44.43</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1698</MPN>
+		<Description>1 USB-A     3 x USB-C     Ισχύς: 65 W      Μέγεθος: 3 x 6,5 x 7 εκ      Βάρος: 300 g     Δυνατότητα φόρτισης 4 συσκευών ταυτόχρονα     Υποστήριξη προτύπων γρήγορης φόρτισης: Power Delivery 3.0, Quick Charge 4.0/ 3.0, SCP, AFC, PPS  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικός και φορτίζει το κινητό σου στον προβλεπόμενο χρόνο.</Description>
+		<Barcode>6957303877744</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799500102</ID>
+		<Name>Ugreen GaN Φορτιστής Χωρίς Καλώδιο 65W 1xUSB-A 2xUSB-C PDx2+QC4.0 Grey/Black CD361 (25685Β)</Name>
+		<Product_Link>https://www.skroutz.gr/s/56688617/Ugreen-Fortistis-CHoris-Kalodio-GaN-me-THyra-USB-A-kai-2-THyres-USB-C-65W-Power-Delivery-Quick-Charge-4-0-Gri-Robot.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/056688/56688617/20241007141342_ugreen_fortistis_choris_kalodio_gan_me_thyra_usb_a_kai_2_thyres_usb_c_65w_power_delivery_quick_charge_4_0_gri_robot.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>39.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1699</MPN>
+		<Description>Μικρός και χαριτωμένος, ο φορτιστής Ugreen CD361 Robot GaN σε γκρι χρώμα διαθέτει:      Ικανότητα φόρτισης 65W     Τρεις θύρες φόρτισης (2x USB-C και 1x USB-A)  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικός.</Description>
+		<Barcode>6941876236688</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799500201</ID>
+		<Name>Ugreen GaN II Φορτιστής Με Καλώδιο 65W 2xUSB-A 2xUSB-C PDx2 &amp; QC4.0x2 Grey/Black CD327 (90747)</Name>
+		<Product_Link>https://www.skroutz.gr/s/40044344/Ugreen-Fortistis-CHoris-Kalodio-me-2-THyres-USB-A-kai-2-THyres-USB-C-65W-Power-Delivery-Quick-Charge-4-0-Mayros-Nexode-GaN-CD327.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/040044/40044344/20221219093728_ugreen_fortistis_choris_kalodio_me_2_thyres_usb_a_kai_2_thyres_usb_c_65w_power_delivery_quick_charge_4_0_mayros_cd237.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>50.06</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1700</MPN>
+		<Description>Μεταβείτε σε μια λύση που θα σας επιτρέπει να φορτίζετε 4 συσκευές ταυτόχρονα! Ο γρήγορος φορτιστής γενικής χρήσης θα μπορεί να φορτίζει τις συσκευές σας σε πολύ σύντομο χρονικό διάστημα, γεγονός που τον καθιστά ιδανική επιλογή όταν εργάζεστε στο γραφείο ή στο σπίτι.   Η συνολική ισχύς του φορτιστή είναι έως 65W. Χάρη στην τεχνολογία GaN που χρησιμοποιείται, ο φορτιστής έχει σχετικά μικρό μέγεθος και αυξημένη απόδοση σε σύγκριση με τους κλασικούς φορτιστές.   Το μοντέλο CD327 έχει υποστήριξη για πρωτόκολλα γρήγορης φόρτισης, όπως: Power Delivery, Quick Charge, γεγονός που το καθιστά ταυτόχρονα ασφαλές στη χρήση. Ο κατασκευαστής έχει εξοπλίσει τον φορτιστή με καλώδιο τροφοδοσίας.</Description>
+		<Barcode>6957303897476</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799500202</ID>
+		<Name>Ugreen GaN II Φορτιστής Με Καλώδιο 200W 2xUSB-A 4xUSB-C PDx4 &amp; QC4.0x2 Grey/Black CD271 (40914)</Name>
+		<Product_Link>https://www.skroutz.gr/s/38305046/Ugreen-Vasi-Fortisis-me-2-THyres-USB-A-kai-4-THyres-USB-C-200W-Power-Delivery-Quick-Charge-2-0-se-Mayro-chroma-Nexode-GaN-CD271.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/038305/38305046/20220922144007_ugreen_vasi_fortisis_me_2_thyres_usb_a_kai_4_thyres_usb_c_power_delivery_quick_charge_2_0_se_mayro_chroma_cd271.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>131.19</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1701</MPN>
+		<Description>Η βάση φόρτισης της εταιρείας Ugreen επιτρέπει την ταυτόχρονη φόρτιση συσκευών χάρη στις θύρες που διαθέτει. Αφού η βάση συνδεθεί στο ρεύμα, μπορούμε να συνδέσουμε το καλώδιο φόρτισης του κινητού μας στη βάση για να φορτίσουμε το κινητό. Υποστηρίζει γρήγορη φόρτιση Power Delivery, Quick Charge 2.0, η οποία θα πρέπει να είναι συμβατή με το κινητό σας. Σε αντίθετη περίπτωση, το κινητό σας θα φορτίσει αργά, όπως με ένα συμβατικό φορτιστή.</Description>
+		<Barcode>6957303849147</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7973142</ID>
@@ -18931,7 +19219,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Τα μανιτάρια Frescon είναι συντηρημένα με τις πιο προηγμένες μεθόδους κονσερβοποίησης, ώστε να διατηρηθεί η ποιότητα και η γεύση της πρώτης ύλης, όσο πιο φρέσκια γίνεται και για όσο περισσότερο καιρό γίνεται.</Description>
 		<Barcode>5200128642068</Barcode>
-		<Quantity>518</Quantity>
+		<Quantity>2246</Quantity>
 	</product>
 	<product>
 		<ID>85221</ID>
@@ -19308,7 +19596,7 @@
 		<MPN>1683</MPN>
 		<Description>Merenda, πραλίνα φουντουκιού με κακάο και αποβουτυρωμένο γάλα.</Description>
 		<Barcode>7622201126131</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>36</Quantity>
 	</product>
 	<product>
 		<ID>87001</ID>
