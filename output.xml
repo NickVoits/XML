@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-01-29 13:05</created_at>
+	<created_at>2025-01-29 14:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -647,7 +647,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Το Νέο Αναψυκτικό «Λεμόνι με Ιβίσκο» έρχεται να ανατρέψει τη γευστική σου εμπειρία. Μια τολμηρή παραλλαγή της διαχρονικής Λεμονάδας της ΕΨΑ, συνδυασμένη με την εξωτική γοητεία του Ιβίσκου.</Description>
 		<Barcode>5201171801136</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>115296</ID>
@@ -665,7 +665,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Το νέο αναψυκτικό το οποίο επαναπροσδιορίζει τα όρια της γεύσης, προσθέτοντας στη γνώριμη σε όλους μας «cola» την έντονη έκρηξη του Πορτοκαλιού.</Description>
 		<Barcode>5201171310089</Barcode>
-		<Quantity>37</Quantity>
+		<Quantity>33</Quantity>
 	</product>
 	<product>
 		<ID>115297</ID>
@@ -683,7 +683,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Το νέο αναψυκτικό το οποίο επαναπροσδιορίζει τα όρια της γεύσης, προσθέτοντας στη γνώριμη σε όλους μας «cola» το εξωτικό εσπεριδοειδές Yuzu.</Description>
 		<Barcode>5201171310096</Barcode>
-		<Quantity>27</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>11531</ID>
@@ -737,7 +737,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>598</Quantity>
+		<Quantity>594</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -935,7 +935,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>2008</Quantity>
+		<Quantity>2002</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -953,7 +953,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000133335</Barcode>
-		<Quantity>1342</Quantity>
+		<Quantity>1336</Quantity>
 	</product>
 	<product>
 		<ID>12021-Τ</ID>
@@ -1439,7 +1439,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>5665</Quantity>
+		<Quantity>5635</Quantity>
 	</product>
 	<product>
 		<ID>130318</ID>
@@ -1493,7 +1493,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<Barcode>5201946910315</Barcode>
-		<Quantity>343</Quantity>
+		<Quantity>337</Quantity>
 	</product>
 	<product>
 		<ID>13033</ID>
@@ -1511,7 +1511,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>105</Quantity>
+		<Quantity>96</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -1529,7 +1529,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>28</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1547,7 +1547,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>227</Quantity>
+		<Quantity>221</Quantity>
 	</product>
 	<product>
 		<ID>130349</ID>
@@ -1583,7 +1583,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<Barcode>5201946910292</Barcode>
-		<Quantity>181</Quantity>
+		<Quantity>169</Quantity>
 	</product>
 	<product>
 		<ID>130359</ID>
@@ -1619,7 +1619,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<Barcode>5201946910445</Barcode>
-		<Quantity>142</Quantity>
+		<Quantity>136</Quantity>
 	</product>
 	<product>
 		<ID>13037</ID>
@@ -1637,7 +1637,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>98</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>13038</ID>
@@ -2033,7 +2033,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908110002</Barcode>
-		<Quantity>729</Quantity>
+		<Quantity>717</Quantity>
 	</product>
 	<product>
 		<ID>17073</ID>
@@ -2213,7 +2213,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000273</Barcode>
-		<Quantity>279</Quantity>
+		<Quantity>267</Quantity>
 	</product>
 	<product>
 		<ID>17085</ID>
@@ -2501,7 +2501,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>300</Quantity>
+		<Quantity>168</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2717,7 +2717,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα μοναδικό κρασί με απόλυτα Ελληνική ταυτότητα, με απαλό άρωμα και γεύση ρητίνης που αφήνουν να αναδυθούν και τα αρώματα των ποικιλιών.</Description>
 		<Barcode>5201625000016</Barcode>
-		<Quantity>1154</Quantity>
+		<Quantity>1730</Quantity>
 	</product>
 	<product>
 		<ID>400011</ID>
@@ -3059,7 +3059,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100325</Barcode>
-		<Quantity>198</Quantity>
+		<Quantity>197</Quantity>
 	</product>
 	<product>
 		<ID>40425</ID>
@@ -3787,7 +3787,7 @@
 		<MPN>1527</MPN>
 		<Description>Το "Idylle D' Achinos"  αποτελεί μία από τις καινούργιες δημιουργίες του οινοποιείου La Tour Melas.</Description>
 		<Barcode>5214000516651</Barcode>
-		<Quantity>69</Quantity>
+		<Quantity>66</Quantity>
 	</product>
 	<product>
 		<ID>47111</ID>
@@ -4466,7 +4466,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>2079</Quantity>
+		<Quantity>1935</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -6402,7 +6402,7 @@
 		<MPN>1283</MPN>
 		<Description>Επαναφορτιζόμενη Ηλεκτρική Οδοντόβουρτσα Spiderman 3+ της Oral-B από την Braun, ειδικά σχεδιασμένη για να είναι απαλή με τα παιδικά δόντια!</Description>
 		<Barcode>8006540772973</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>60301</ID>
@@ -9163,7 +9163,7 @@
 		<MPN>1254</MPN>
 		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>8008970011158</Barcode>
-		<Quantity>103</Quantity>
+		<Quantity>102</Quantity>
 	</product>
 	<product>
 		<ID>67022</ID>
@@ -9673,7 +9673,7 @@
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>2173</Quantity>
+		<Quantity>2167</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -9792,7 +9792,7 @@
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<Barcode>5202995010537</Barcode>
-		<Quantity>299</Quantity>
+		<Quantity>279</Quantity>
 	</product>
 	<product>
 		<ID>70302</ID>
@@ -9860,7 +9860,7 @@
 		<MPN>1532</MPN>
 		<Description>Απαλά Χαρτομάντηλα σε κραφτ χάρτινο κουτί. 2 φύλλων απαλά απορροφητικά σε πρακτική συσκευασία ιδανικά για χρήση στο σπίτι, το γραφείο, το αυτοκίνητο, κ.α.</Description>
 		<Barcode>5202995008299</Barcode>
-		<Quantity>1351</Quantity>
+		<Quantity>1360</Quantity>
 	</product>
 	<product>
 		<ID>70401</ID>
@@ -10065,7 +10065,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>3991</Quantity>
+		<Quantity>3948</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -10119,7 +10119,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055244</Barcode>
-		<Quantity>1555</Quantity>
+		<Quantity>1551</Quantity>
 	</product>
 	<product>
 		<ID>71025</ID>
@@ -10387,7 +10387,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>605</Quantity>
+		<Quantity>604</Quantity>
 	</product>
 	<product>
 		<ID>712322</ID>
@@ -11701,7 +11701,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>98</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -11718,7 +11718,7 @@
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<Barcode>4023103156487</Barcode>
-		<Quantity>813</Quantity>
+		<Quantity>811</Quantity>
 	</product>
 	<product>
 		<ID>74111</ID>
@@ -12299,7 +12299,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
 		<Barcode>5205376018993</Barcode>
-		<Quantity>1572</Quantity>
+		<Quantity>1562</Quantity>
 	</product>
 	<product>
 		<ID>7975001</ID>
@@ -12554,7 +12554,7 @@
 		<MPN>1621</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Η συσκευασία περιλαμβάνει 50 τμχ    Λευκό    Διάρκεια καύσης 4 ωρών.</Description>
 		<Barcode>5207043000416</Barcode>
-		<Quantity>1138</Quantity>
+		<Quantity>1135</Quantity>
 	</product>
 	<product>
 		<ID>75221</ID>
@@ -12742,7 +12742,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Κάρβουνα κατάλληλα για χρήση σε συσκευές ψησίματος. Είναι κομμένα σε κομμάτια και για την καλύτερη χρήση τους αλλά και το γρηγορότερο αναμμά τους, θα πρέπει να χρησιμοποιήσετε κάποιου είδους προσάναμμα είτε στέρεο, είτε υγρό ώστε να πιάσουν την ιδανική θερμοκρασία που χρειάζεστε για το ψήσιμο.</Description>
 		<Barcode>4270001094902</Barcode>
-		<Quantity>318</Quantity>
+		<Quantity>317</Quantity>
 	</product>
 	<product>
 		<ID>75302</ID>
@@ -14226,7 +14226,7 @@
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<Barcode>7449138607</Barcode>
-		<Quantity>182</Quantity>
+		<Quantity>183</Quantity>
 	</product>
 	<product>
 		<ID>78011</ID>
@@ -14362,7 +14362,7 @@
 		<MPN>0773</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<Barcode>5202054467555</Barcode>
-		<Quantity>316</Quantity>
+		<Quantity>306</Quantity>
 	</product>
 	<product>
 		<ID>78105</ID>
@@ -14447,7 +14447,7 @@
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
 		<Barcode>15202054457515</Barcode>
-		<Quantity>142</Quantity>
+		<Quantity>140</Quantity>
 	</product>
 	<product>
 		<ID>78111</ID>
@@ -15101,7 +15101,7 @@
 		<MPN>0099</MPN>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.• Μέγεθος: 35 cm• Συσκευασία: 200 τεμάχια</Description>
 		<Barcode>8681206032259</Barcode>
-		<Quantity>90</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>78842</ID>
@@ -15118,7 +15118,7 @@
 		<MPN>0321</MPN>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.• Μέγεθος: 43 cm• Συσκευασία: 200 τεμάχια</Description>
 		<Barcode>5202054468651</Barcode>
-		<Quantity>267</Quantity>
+		<Quantity>277</Quantity>
 	</product>
 	<product>
 		<ID>78901</ID>
@@ -15625,7 +15625,7 @@
 		<Weight>0.37 kg</Weight>
 		<Description>• Διαστάσεις: 9x9cm• Αριθμός φύλλων: 550</Description>
 		<Barcode>5203358001681</Barcode>
-		<Quantity>196</Quantity>
+		<Quantity>197</Quantity>
 	</product>
 	<product>
 		<ID>79096</ID>
@@ -16038,7 +16038,7 @@
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<Barcode>5203358500344</Barcode>
-		<Quantity>882</Quantity>
+		<Quantity>810</Quantity>
 	</product>
 	<product>
 		<ID>7949903</ID>
@@ -20518,7 +20518,7 @@
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<Barcode>5202546009379</Barcode>
-		<Quantity>645</Quantity>
+		<Quantity>635</Quantity>
 	</product>
 	<product>
 		<ID>99002</ID>
