@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-06 13:54</created_at>
+	<created_at>2025-02-06 14:54</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2339,7 +2339,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>8084</Quantity>
+		<Quantity>8040</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2357,7 +2357,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>6440</Quantity>
+		<Quantity>6392</Quantity>
 	</product>
 	<product>
 		<ID>21601</ID>
@@ -2897,7 +2897,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100189</Barcode>
-		<Quantity>773</Quantity>
+		<Quantity>771</Quantity>
 	</product>
 	<product>
 		<ID>40422</ID>
@@ -11767,6 +11767,40 @@
 		<Quantity>12</Quantity>
 	</product>
 	<product>
+		<ID>74943</ID>
+		<Name>Glue &amp; Trade Petrorat Παγίδα Κόλλας από Πλαστικό Μεσαία 2τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/25900549/Glue-Trade-Petrorat-Pagida-Kollas-apo-Plastiko-Mesaia-2tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/025900/25900549/20210305161646_pro_race_pagides_kollas_mesaio_megethos_2temachia.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.61</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Εντομοκτόνα &amp; Απωθητικά Χώρου &gt; Παγίδες Ζώων</Category_Path>
+		<Manufacturer>PETRORAT</Manufacturer>
+		<MPN>1757</MPN>
+		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
+		<Barcode>5200138990050</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>74944</ID>
+		<Name>Glue &amp; Trade Petrorat Παγίδα Κόλλας από Πλαστικό 0067 Μεγάλη 2τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/47342061/Glue-Trade-Petrorat-Pagida-Kollas-apo-Plastiko-0067-Megali-2tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/047342/47342061/20231109172855_glue_trade_petrorat_pagida_kollas_apo_plastiko_0067_megali_2tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.64</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Εντομοκτόνα &amp; Απωθητικά Χώρου &gt; Παγίδες Ζώων</Category_Path>
+		<Manufacturer>PETRORAT</Manufacturer>
+		<MPN>1758</MPN>
+		<Description>Παγίδες κόλλας για ποντίκια με νέο, υψηλής ποιότητας σχεδιασμό. Δεν περιέχουν δηλητήριο. Είναι εύκολο στη χρήση αφού χρειάζεται να τοποθετήσετε μόνο δόλωμα. Έχει ασφαλή αποτελέσματα και είναι κατάλληλες για εσωτερικούς και εξωτερικούς χώρους. ΠΡΟΣΟΧΗ!  Κρατήστε το μακριά από παιδιά και κατοικίδια.</Description>
+		<Barcode>5200138990067</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>74951</ID>
 		<Name>ΠΟΝΤΙΚΟΚΤΟΝΟ ΔΟΛΩΜΑ ΣΙΤΑΡΙ 100gr</Name>
 		<Product_Link>https://www.xtools.gr/%CE%B1%CF%80%CF%89%CE%B8%CE%B7%CF%84%CE%B9%CE%BA%CE%AC-%CF%80%CE%B1%CE%B3%CE%AF%CE%B4%CE%B5%CF%82/3467-%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%BF%CF%86%CE%AC%CF%81%CE%BC%CE%B1%CE%BA%CE%BF-%CF%83%CE%B9%CF%84%CE%AC%CF%81%CE%B9-100gr-petrorat-wheat-glue-trade-5200138990197.html</Product_Link>
@@ -12022,6 +12056,57 @@
 		<Description>Αλκαλικές μπαταρίες μεγέθους ΑΑ, ιδανικές για τηλεχειριστήρια, φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
 		<Barcode>5207227115523</Barcode>
 		<Quantity>398</Quantity>
+	</product>
+	<product>
+		<ID>7975003</ID>
+		<Name>Eurolamp Extreme Αλκαλική Μπαταρία 9V</Name>
+		<Product_Link>https://www.skroutz.gr/s/50413499/Alkalikes-Mpataries-9V-12tmch-147-24124.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/050413/50413499/20240809134139_alkalikes_mpataries_9v_12tmch_147_24124.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.49</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1759</MPN>
+		<Description>Αλκαλική μπαταρία μεγέθους 9V, ιδανική για φακούς, ποτιστικά κι άλλες οικιακές συσκευές.</Description>
+		<Barcode>5207227115462</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7975004</ID>
+		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες C 1.5V 2τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/50216870/Alkalikes-Mpataries-C-1-5V-2tmch-147-24122.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/050216/50216870/20240809134141_alkalikes_mpataries_c_1_5v_2tmch_147_24122.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.91</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1760</MPN>
+		<Description>Αλκαλικές μπαταρίες μεγέθους C, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
+		<Barcode>5207227115400</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7975005</ID>
+		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες D 1.5V 2τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/54567742/Eurolamp-Mpataries-Alkalikes-Extreme-D-Eurolamp-2-tem.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/054567/54567742/20240809134139_eurolamp_mpataries_alkalikes_extreme_d_eurolamp_2_tem.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.7</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>EUROLAMP</Manufacturer>
+		<MPN>1761</MPN>
+		<Description>Αλκαλικές μπαταρίες μεγέθους D, ιδανικές για φακούς κι άλλες οικιακές συσκευές.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
+		<Barcode>5207227115431</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7975011</ID>
@@ -12795,7 +12880,7 @@
 	</product>
 	<product>
 		<ID>76203</ID>
-		<Name>ΚΡΕΜΑΣΤΡΑ ΠΛΑΣΤΙΚΗ ΕΝΙΣΧΥΜΕΝΗ ΠΕΡΙΣΤΡΕΦΟΜΕΝΗ 3 Τεμ</Name>
+		<Name>Cyclops Κρεμάστρα Ρούχων Πλαστική Ενισχυμένη Περιστρεφόμενη Μπεζ  3τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24418669/Cyclops-Kremastra-Rouchon-se-Kokkino-CHroma-3tmch.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024418/24418669/20220906122816_cyclops_kremastra_rouchon_se_kokkino_chroma_3tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -17687,6 +17772,23 @@
 		<Quantity>3</Quantity>
 	</product>
 	<product>
+		<ID>799515103</ID>
+		<Name>Ugreen Car Audio Receiver Bluetooth 5,0 MIC/AUX/USB-A CM309 (70601)</Name>
+		<Product_Link>https://www.skroutz.gr/s/26547271/Ugreen-Bluetooth-Aytokinitou-5-0-gia-to-Tamplo-AUX-Audio-Receiver-me-USB-thyra-Fortisis-70601.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/026547/26547271/20210112145141_ugreen_bluetooth_5_0_70601.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.62</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Auto - Moto &gt; Car Audio &gt; Bluetooth Car Kit</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1762</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Αντάπτορας Bluetooth από AUX σε USB     Σύνδεση έως 2 συσκευών ταυτόχρονα     Εμβέλεια Bluetooth έως 10 μέτρα     Λυχνία LED ένδειξης λειτουργίας</Description>
+		<Barcode>6957303876013</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799515201</ID>
 		<Name>Ugreen USB Bluetooth 5.0 Adapter με Εμβέλεια 20m CM390 (80889)</Name>
 		<Product_Link>https://www.skroutz.gr/s/31198539/Ugreen-CM390-USB-Bluetooth-5-0-Adapter-me-Emveleia-20m.html</Product_Link>
@@ -17849,7 +17951,7 @@
 		<VAT>24</VAT>
 		<Price>13.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Αξεσουάρ &gt; Κινητών Βάσεις Στήριξης Κινητών</Category_Path>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
 		<MPN>1731</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Συμβατό με συσκευές 4.7"-7.9"     Κατασκευή απο κράμα αλουμινίου     Αναδιπλούμενο για εύκολη μεταφορά     Διαστάσεις: 4.72"x 3.94"x 3"</Description>
@@ -17866,7 +17968,7 @@
 		<VAT>24</VAT>
 		<Price>16.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Αξεσουάρ &gt; Κινητών Βάσεις Στήριξης Κινητών</Category_Path>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
 		<MPN>1732</MPN>
 		<Description>Ρυθμιζόμενη βάση με βραχίονα 360 μοιρών     Με ανθεκτική δαγκάνα, περιστρεφόμενη κεφαλή και σκελετό από αλουμίνιο.     Κατάλληλη για κάθε συσκευή από 4 έως 12.9 ίντσες.</Description>
@@ -17883,12 +17985,29 @@
 		<VAT>24</VAT>
 		<Price>5.5</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Αξεσουάρ &gt; Κινητών Βάσεις Στήριξης Κινητών</Category_Path>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
 		<MPN>1733</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Για συσκευές πάχους έως 12mm     Με δύο επιλογές ύψους τοποθέτησης     Με μαλακή υποδοχή που δεν γδέρνει     Διπλώνει για εύκολη μεταφορά  Για κινητά και tablet ως 7.9'. Ο ρυθμιζόμενος βραχίονας δίνει την επιθυμητή γωνία για άνετη θέαση και η επένδυση από σιλικόνη προστατεύει από πτώσεις και γρατζουνιές. Με άνοιγμα στη θύρα φόρτισης.</Description>
 		<Barcode>6957303889037</Barcode>
 		<Quantity>3</Quantity>
+	</product>
+	<product>
+		<ID>799551104</ID>
+		<Name>Ugreen Βάση Γραφείου για Κινητό Μαύρη LP106 (50747)</Name>
+		<Product_Link>https://www.skroutz.gr/s/22413638/Ugreen-Multi-Angle-LP106-Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/022413/22413638/20230215154209_ugreen_multi_angle_vasi_grafeiou_gia_kinito_se_mayro_chroma.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.27</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1763</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Ιδανικό για κινητά από 4" έως 10''     Αναδιπλούμενος σχεδιασμός     Ρυθμιζόμενη γωνία θέασης     Μέγεθος: 95 x 85 χιλ.</Description>
+		<Barcode>6957303857470</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799551121</ID>
@@ -18110,6 +18229,23 @@
 		<Description>Βασικά χαρακτηριστικά:    Διαστάσεις 139,2 x 96 x 16mm    Βάρος 206gr    Ανθεκτικότητα IPX4</Description>
 		<Barcode>4713436145455</Barcode>
 		<Quantity>3</Quantity>
+	</product>
+	<product>
+		<ID>799631101</ID>
+		<Name>Ugreen Θήκη για Σκληρό Δίσκο 2.5" SATA III με σύνδεση USB 3.1 Type-C Μαύρη US221 (50743)</Name>
+		<Product_Link>https://www.skroutz.gr/s/21799407/Ugreen-THiki-gia-Skliro-Disko-2-5-SATA-III-me-syndesi-USB-3-1-Type-C-50743.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/021799/21799407/20200129163513_ugreen_usb_c_hard_drive_enclosure.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>16.85</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Σκληροί Δίσκοι &gt; Θήκες Σκληρών Δίσκων</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>1764</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Συνδεση με USB-C 3.1 Gen.2     10TB μέγιστη χωρητικότητα     Ένδειξη led     Plug &amp; play  Θήκη σκληρού δίσκου 2,5 ιντσών με θύρα Type-C.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτηση του δίσκου στη θήκη και είναι σταθερή στη λειτουργία της.</Description>
+		<Barcode>6957303857432</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799631501</ID>
