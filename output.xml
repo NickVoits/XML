@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-07 16:47</created_at>
+	<created_at>2025-02-08 10:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>369</Quantity>
+		<Quantity>368</Quantity>
 	</product>
 	<product>
 		<ID>31023-Τ</ID>
@@ -305,7 +305,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>220</Quantity>
+		<Quantity>216</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -341,7 +341,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>784</Quantity>
+		<Quantity>778</Quantity>
 	</product>
 	<product>
 		<ID>110118</ID>
@@ -431,7 +431,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>645</Quantity>
+		<Quantity>643</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -737,7 +737,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>514</Quantity>
+		<Quantity>510</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -755,7 +755,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<Barcode>5201171331244</Barcode>
-		<Quantity>192</Quantity>
+		<Quantity>184</Quantity>
 	</product>
 	<product>
 		<ID>11541</ID>
@@ -809,7 +809,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>1528</Quantity>
+		<Quantity>1492</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -827,7 +827,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000133335</Barcode>
-		<Quantity>1054</Quantity>
+		<Quantity>1042</Quantity>
 	</product>
 	<product>
 		<ID>12021-Τ</ID>
@@ -845,7 +845,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>1144</Quantity>
+		<Quantity>1131</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -863,7 +863,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>735</Quantity>
+		<Quantity>729</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -917,7 +917,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214775</Barcode>
-		<Quantity>96</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>12023-Τ</ID>
@@ -935,7 +935,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Ένα από τα παλαιότερα αναψυκτικά στον κόσμο, βρίσκεται στην διάθεσή σας! Απολαύστε ένα κουτάκι από δροσιστικό ανθρακούχο νερό Schweppes και αλλάξτε παραστάσεις! Με την ίδια, παραδοσιακή συνταγή από το 1783!</Description>
 		<Barcode>5449000233417</Barcode>
-		<Quantity>49</Quantity>
+		<Quantity>47</Quantity>
 	</product>
 	<product>
 		<ID>120232-Τ</ID>
@@ -989,7 +989,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<Barcode>5449000214805</Barcode>
-		<Quantity>133</Quantity>
+		<Quantity>131</Quantity>
 	</product>
 	<product>
 		<ID>12025-Τ</ID>
@@ -1025,7 +1025,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>54491472</Barcode>
-		<Quantity>429</Quantity>
+		<Quantity>428</Quantity>
 	</product>
 	<product>
 		<ID>120318-Τ</ID>
@@ -1043,7 +1043,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000131836</Barcode>
-		<Quantity>182</Quantity>
+		<Quantity>178</Quantity>
 	</product>
 	<product>
 		<ID>12034-Τ</ID>
@@ -1223,7 +1223,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση πορτοκάλι, βερίκοκο και μήλο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<Barcode>5201005174153</Barcode>
-		<Quantity>30</Quantity>
+		<Quantity>26</Quantity>
 	</product>
 	<product>
 		<ID>12074</ID>
@@ -1241,7 +1241,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση μπανάνα σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<Barcode>5201005001480</Barcode>
-		<Quantity>67</Quantity>
+		<Quantity>64</Quantity>
 	</product>
 	<product>
 		<ID>12075</ID>
@@ -1403,7 +1403,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>491</Quantity>
+		<Quantity>488</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1493,7 +1493,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<Barcode>5201946910445</Barcode>
-		<Quantity>209</Quantity>
+		<Quantity>208</Quantity>
 	</product>
 	<product>
 		<ID>13037</ID>
@@ -1547,7 +1547,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703172</Barcode>
-		<Quantity>2600</Quantity>
+		<Quantity>2596</Quantity>
 	</product>
 	<product>
 		<ID>14022</ID>
@@ -1647,7 +1647,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.11</Price>
+		<Price>1.04</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>RED BULL</Manufacturer>
@@ -1665,7 +1665,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.57</Price>
+		<Price>0.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>HELL</Manufacturer>
@@ -1683,7 +1683,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.17</Price>
+		<Price>1.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>MONSTER</Manufacturer>
@@ -1781,7 +1781,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>504</Quantity>
+		<Quantity>499</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -2123,7 +2123,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>2071</Quantity>
+		<Quantity>2070</Quantity>
 	</product>
 	<product>
 		<ID>18022</ID>
@@ -2141,7 +2141,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
-		<Quantity>1760</Quantity>
+		<Quantity>1758</Quantity>
 	</product>
 	<product>
 		<ID>18101</ID>
@@ -2295,7 +2295,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.29</Price>
+		<Price>0.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -2313,7 +2313,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.46</Price>
+		<Price>0.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -2321,7 +2321,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>9940</Quantity>
+		<Quantity>9896</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2331,7 +2331,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.78</Price>
+		<Price>0.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
@@ -2339,7 +2339,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>7484</Quantity>
+		<Quantity>7112</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2349,7 +2349,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.91</Price>
+		<Price>0.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
@@ -2357,7 +2357,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>6180</Quantity>
+		<Quantity>6164</Quantity>
 	</product>
 	<product>
 		<ID>21601</ID>
@@ -2465,7 +2465,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα μοναδικό κρασί με απόλυτα Ελληνική ταυτότητα, με απαλό άρωμα και γεύση ρητίνης που αφήνουν να αναδυθούν και τα αρώματα των ποικιλιών.</Description>
 		<Barcode>5201625000016</Barcode>
-		<Quantity>1665</Quantity>
+		<Quantity>1649</Quantity>
 	</product>
 	<product>
 		<ID>400011</ID>
@@ -2501,7 +2501,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<Barcode>15202548505012</Barcode>
-		<Quantity>228</Quantity>
+		<Quantity>222</Quantity>
 	</product>
 	<product>
 		<ID>40052</ID>
@@ -2519,7 +2519,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ξηρή γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<Barcode>15202548505111</Barcode>
-		<Quantity>158</Quantity>
+		<Quantity>146</Quantity>
 	</product>
 	<product>
 		<ID>40053</ID>
@@ -2645,7 +2645,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>1573</Quantity>
+		<Quantity>1539</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2717,7 +2717,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>163</Quantity>
+		<Quantity>145</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -2753,7 +2753,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Μοσχάτο κοκκινέλι είναι ερυθρός ξηρός οίνος που παράγεται από Μοσχάτο. Είναι κρασί με φωτεινό κόκκινο χρώμα που συνοδεύει απολαυστικά μεγάλη ποικιλία φαγητών. Πίνεται σε θερμοκρασία 12-14°C.</Description>
 		<Barcode>5202037115039</Barcode>
-		<Quantity>137</Quantity>
+		<Quantity>135</Quantity>
 	</product>
 	<product>
 		<ID>40224</ID>
@@ -2771,7 +2771,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<Barcode>5202037115053</Barcode>
-		<Quantity>269</Quantity>
+		<Quantity>259</Quantity>
 	</product>
 	<product>
 		<ID>40411</ID>
@@ -2879,7 +2879,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
 		<Barcode>5202037114162</Barcode>
-		<Quantity>84</Quantity>
+		<Quantity>79</Quantity>
 	</product>
 	<product>
 		<ID>40412</ID>
@@ -2897,7 +2897,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100189</Barcode>
-		<Quantity>756</Quantity>
+		<Quantity>755</Quantity>
 	</product>
 	<product>
 		<ID>40422</ID>
@@ -2915,7 +2915,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100196</Barcode>
-		<Quantity>365</Quantity>
+		<Quantity>364</Quantity>
 	</product>
 	<product>
 		<ID>40426</ID>
@@ -4178,7 +4178,7 @@
 		<MPN>1422</MPN>
 		<Description>Το Ουζο Πιτσιλαδή είναι αυθεντικό ούζο Πλωμαρίου το οποίο παρασκευάζεται με πατροπαράδοτο τρόπο.</Description>
 		<Barcode>5200110880041</Barcode>
-		<Quantity>168</Quantity>
+		<Quantity>162</Quantity>
 	</product>
 	<product>
 		<ID>52101</ID>
@@ -4214,7 +4214,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1901</Quantity>
+		<Quantity>1877</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -4286,7 +4286,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>1821</Quantity>
+		<Quantity>1797</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -4358,7 +4358,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα πικάντικα αρώματα γλυκάνισου, μάραθου και γλυκόριζας, φρουτώδη αρώματα περγαμόντου και σύκου και βοτανικές νότες μέντας. Στο στόμα είναι μαλακό και γλυκόπιοτο με μακρύ βοτανικό τελείωμα. Καταναλώνεται με προσθήκη δροσερού νερού και πάγου παίρνοντας γαλάζια μορφή και συνδυάζεται με παραδοσιακούς μεζέδες.</Description>
 		<Barcode>5202548101125</Barcode>
-		<Quantity>223</Quantity>
+		<Quantity>199</Quantity>
 	</product>
 	<product>
 		<ID>52203</ID>
@@ -4412,7 +4412,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5202548141022</Barcode>
-		<Quantity>207</Quantity>
+		<Quantity>183</Quantity>
 	</product>
 	<product>
 		<ID>52253</ID>
@@ -4466,7 +4466,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<Barcode>520237120064</Barcode>
-		<Quantity>560</Quantity>
+		<Quantity>530</Quantity>
 	</product>
 	<product>
 		<ID>52352</ID>
@@ -4484,7 +4484,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5202037130063</Barcode>
-		<Quantity>500</Quantity>
+		<Quantity>476</Quantity>
 	</product>
 	<product>
 		<ID>52401</ID>
@@ -4592,7 +4592,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<Barcode>5202207620516</Barcode>
-		<Quantity>184</Quantity>
+		<Quantity>160</Quantity>
 	</product>
 	<product>
 		<ID>52802</ID>
@@ -4646,7 +4646,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207612016</Barcode>
-		<Quantity>329</Quantity>
+		<Quantity>314</Quantity>
 	</product>
 	<product>
 		<ID>52903</ID>
@@ -4750,7 +4750,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<Barcode>5010314700003</Barcode>
-		<Quantity>278</Quantity>
+		<Quantity>277</Quantity>
 	</product>
 	<product>
 		<ID>55007</ID>
@@ -4767,7 +4767,7 @@
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<Barcode>5000281002538</Barcode>
-		<Quantity>463</Quantity>
+		<Quantity>462</Quantity>
 	</product>
 	<product>
 		<ID>55008</ID>
@@ -4784,7 +4784,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>470</Quantity>
+		<Quantity>469</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -4818,7 +4818,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<Barcode>5000267024202</Barcode>
-		<Quantity>482</Quantity>
+		<Quantity>479</Quantity>
 	</product>
 	<product>
 		<ID>550531</ID>
@@ -5586,7 +5586,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>To Underberg συνδυάζει, εδώ και παραπάνω από 150 χρόνια, αρωματικά βότανα από 43 διαφορετικές χώρες και εξάγεται σε 200 χώρες. Αναγνωρίζεται διεθνώς ως το πιο αποτελεσματικό χωνευτικό. Η ατομική του συσκευασία εξασφαλίζει τη φρεσκάδα του και την αποτελεσματικότητά του. Πικρό απόσταγμα που παρασκευάζεται με τη μυστική συνταγή της οικογένειας Underberg.</Description>
 		<Barcode>40341002</Barcode>
-		<Quantity>39</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>55805</ID>
@@ -6136,7 +6136,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.27</Price>
+		<Price>2.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -6153,7 +6153,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.27</Price>
+		<Price>2.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -6170,7 +6170,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.27</Price>
+		<Price>2.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -6641,7 +6641,7 @@
 		<MPN>0328</MPN>
 		<Description>Αφρός ξυρίσματος για τον άνδρα για ευαίσθητες επιδερμίδες. Βοηθάει στην προστασία της επιδερμίδας κατα τη διάρκεια του ξυρίσματος.</Description>
 		<Barcode>7702018980932</Barcode>
-		<Quantity>121</Quantity>
+		<Quantity>115</Quantity>
 	</product>
 	<product>
 		<ID>62111</ID>
@@ -6658,7 +6658,7 @@
 		<MPN>1678</MPN>
 		<Description>Ένας αφρός ξυρίσματος για βαθύ και εξαιρετικά ευχάριστο ξύρισμα που προστατεύει από εκδορές, μικρο-κοψίματα και ερεθισμούς</Description>
 		<Barcode>4005808222490</Barcode>
-		<Quantity>174</Quantity>
+		<Quantity>168</Quantity>
 	</product>
 	<product>
 		<ID>62121</ID>
@@ -7032,7 +7032,7 @@
 		<MPN>1067</MPN>
 		<Description>Τα Hansaplast Universal είναι αυτοκόλλητα επιθέματα ανθεκτικά στο νερό.</Description>
 		<Barcode>4005800110658</Barcode>
-		<Quantity>199</Quantity>
+		<Quantity>198</Quantity>
 	</product>
 	<product>
 		<ID>64030</ID>
@@ -7160,7 +7160,7 @@
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/024146/24146764/20200724114021_tzon_top_john_top_fotistiko_oinopneyma_93.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
+		<VAT>24</VAT>
 		<Price>0.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
@@ -7168,7 +7168,7 @@
 		<MPN>0283</MPN>
 		<Description>Το οινόπνευμα είναι ένα πολύ χρήσιμο εργαλείο μέσα στο σπίτι και οι χρήσεις του είναι αμέτρητες.</Description>
 		<Barcode>5202737801010</Barcode>
-		<Quantity>792</Quantity>
+		<Quantity>762</Quantity>
 	</product>
 	<product>
 		<ID>64161</ID>
@@ -7177,7 +7177,7 @@
 		<Image_Link>https://medhouse.gr/wp-content/uploads/2021/03/OPEN-ALK-LOTION-70-250ML.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
+		<VAT>24</VAT>
 		<Price>0.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
@@ -7194,7 +7194,7 @@
 		<Image_Link>https://beautyfree.gr/44714-large_default/5208054000525-open-care-alkoolouxos-losion-95-me-xamomili-250ml.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
+		<VAT>24</VAT>
 		<Price>1.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
@@ -7211,7 +7211,7 @@
 		<Image_Link>https://www.kalochem.gr/datafiles/3042.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
+		<VAT>24</VAT>
 		<Price>1.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
@@ -7228,7 +7228,7 @@
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/017992/17992237/xlarge_20190402165855_practic_alkoolouchos_losion_95_410ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
+		<VAT>24</VAT>
 		<Price>1.4</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Φαρμακείου &gt; Αντισηπτικά Τραύματος</Category_Path>
@@ -8852,7 +8852,7 @@
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<Barcode>5202054454852</Barcode>
-		<Quantity>198</Quantity>
+		<Quantity>196</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -9293,7 +9293,7 @@
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650102703</Barcode>
-		<Quantity>1082</Quantity>
+		<Quantity>1081</Quantity>
 	</product>
 	<product>
 		<ID>702071</ID>
@@ -9361,7 +9361,7 @@
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<Barcode>5202995010537</Barcode>
-		<Quantity>217</Quantity>
+		<Quantity>197</Quantity>
 	</product>
 	<product>
 		<ID>70302</ID>
@@ -9412,7 +9412,7 @@
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<Barcode>5202995004628</Barcode>
-		<Quantity>810</Quantity>
+		<Quantity>809</Quantity>
 	</product>
 	<product>
 		<ID>70322</ID>
@@ -9652,7 +9652,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>1413</Quantity>
+		<Quantity>1412</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -9904,7 +9904,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Σχεδιασμένο ειδικά για σκούρα ρούχα, βοηθά στη διατήρηση του χρώματος τους και παρέχει απαλή υφή. Επιπλέον, προσφέρει ευχάριστο άρωμα που διαρκεί.</Description>
 		<Barcode>3800024013775</Barcode>
-		<Quantity>73</Quantity>
+		<Quantity>72</Quantity>
 	</product>
 	<product>
 		<ID>71221</ID>
@@ -9956,7 +9956,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>563</Quantity>
+		<Quantity>562</Quantity>
 	</product>
 	<product>
 		<ID>712322</ID>
@@ -10043,7 +10043,7 @@
 		<MPN>1098</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
 		<Barcode>8006540734889</Barcode>
-		<Quantity>209</Quantity>
+		<Quantity>206</Quantity>
 	</product>
 	<product>
 		<ID>71291</ID>
@@ -10165,7 +10165,7 @@
 		<MPN>1270</MPN>
 		<Description>Το Vanish Oxi Advance αφαιρεί ακόμα και τους δύσκολους λεκέδες που έχουν στεγνώσει για τα καλά.Με την ειδικά εξελιγμένη του σύνθεση αφαιρεί όλα τα είδη των λεκέδων, από αυτούς που εύκολα μπορείτε να δείτε έως και τους πιο δύσκολους λεκέδες που μπορεί να κρύβονται σε διάφορα σημεία.</Description>
 		<Barcode>5011417570401</Barcode>
-		<Quantity>99</Quantity>
+		<Quantity>98</Quantity>
 	</product>
 	<product>
 		<ID>71331</ID>
@@ -10505,7 +10505,7 @@
 		<MPN>1108</MPN>
 		<Description>Η κρέμα καθαρισμού επιφανειών Cif Original με φυσικά σωματίδια που βοηθούν στον καθαρισμό δρα βαθιά στους λεκέδες και την βρωμιά. Η σύνθεσή της βοηθά στην απομάκρυνση των πιο δύσκολων λεκέδων χωρίς να βλάπτει τις επιφάνειες.</Description>
 		<Barcode>5000186735036</Barcode>
-		<Quantity>26</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>72122</ID>
@@ -10522,7 +10522,7 @@
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<Barcode>5000186735012</Barcode>
-		<Quantity>658</Quantity>
+		<Quantity>656</Quantity>
 	</product>
 	<product>
 		<ID>72172</ID>
@@ -10845,7 +10845,7 @@
 		<MPN>0725</MPN>
 		<Description>• Καθαριστικό Πατώματος &amp; Επιφανειών• Σε Υγρή Μορφή• Εξαφανίζει τη Βρομιά• Άρωμα Ανοιξιάτικων Λουλουδιών</Description>
 		<Barcode>8718951337008</Barcode>
-		<Quantity>633</Quantity>
+		<Quantity>630</Quantity>
 	</product>
 	<product>
 		<ID>73032</ID>
@@ -10862,7 +10862,7 @@
 		<MPN>0448</MPN>
 		<Description>Το AJAX Λουλούδια Λίμνης χάρη στη μοναδική του σύνθεση που ενεργοποιείται με τον αέρα, απελευθερώνει σταδιακά ένα άρωμα φρεσκάδας για πάνω από 24 ώρες, όπως θα έκανε ένα λουλούδι. Επιπλέον, καθαρίζει σε βάθος, αφήνοντας τις επιφάνειες αστραφτερά καθαρές, χωρίς ξέβγαλμα.</Description>
 		<Barcode>8718951333451</Barcode>
-		<Quantity>703</Quantity>
+		<Quantity>700</Quantity>
 	</product>
 	<product>
 		<ID>73033</ID>
@@ -10879,7 +10879,7 @@
 		<MPN>0214</MPN>
 		<Description>Άρωμα: Αιθέρια Έλαια Άνθη ΠασχαλιάςΠοσότητα: 1ltΤεμάχια: 1</Description>
 		<Barcode>8718951337718</Barcode>
-		<Quantity>633</Quantity>
+		<Quantity>630</Quantity>
 	</product>
 	<product>
 		<ID>73034</ID>
@@ -10896,7 +10896,7 @@
 		<MPN>0937</MPN>
 		<Description>Το Ajax ανανεώνεται με καινούργια σύνθεση, αποτελεσματικότερη και φιλικότερη προς τον πλανήτη μας με 24ωρο Άρωμα Φρεσκάδας! Το Ajax εξελίσσεται όπως και εσείς. Ανώτερη αποτελεσματικότητα σε σύγκριση με την προηγούμενη σύνθεση. 96% βιοδιασπώμενη σύνθεση. Ανακυκλώσιμο μπουκάλι και καπάκι. Μπουκάλι από 100% ανακυκλωμένο πλαστικό. Παρασκευάζεται σε πιστοποιημένο εργοστάσιο μηδενικών αποβλήτων. Παράγεται υπεύθυνα με άρωμα από φυσικά εκχυλίσματα. Με 99% συστατικά φυσικής προέλευσης και 100% καθαριστική δύναμη.</Description>
 		<Barcode>8718951333512</Barcode>
-		<Quantity>324</Quantity>
+		<Quantity>321</Quantity>
 	</product>
 	<product>
 		<ID>73035</ID>
@@ -10964,7 +10964,7 @@
 		<MPN>1018</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<Barcode>5201028094209</Barcode>
-		<Quantity>843</Quantity>
+		<Quantity>838</Quantity>
 	</product>
 	<product>
 		<ID>735111</ID>
@@ -11900,7 +11900,7 @@
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<Barcode>4012425171216</Barcode>
-		<Quantity>1751</Quantity>
+		<Quantity>1741</Quantity>
 	</product>
 	<product>
 		<ID>751311</ID>
@@ -12174,7 +12174,7 @@
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<Barcode>5410853039334</Barcode>
-		<Quantity>257</Quantity>
+		<Quantity>256</Quantity>
 	</product>
 	<product>
 		<ID>7975022</ID>
@@ -12191,7 +12191,7 @@
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<Barcode>5410853039273</Barcode>
-		<Quantity>130</Quantity>
+		<Quantity>129</Quantity>
 	</product>
 	<product>
 		<ID>7975023</ID>
@@ -12259,7 +12259,7 @@
 		<MPN>1621</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Η συσκευασία περιλαμβάνει 50 τμχ    Λευκό    Διάρκεια καύσης 4 ωρών.</Description>
 		<Barcode>5207043000416</Barcode>
-		<Quantity>1135</Quantity>
+		<Quantity>1134</Quantity>
 	</product>
 	<product>
 		<ID>75221</ID>
@@ -12825,7 +12825,7 @@
 		<MPN>0891</MPN>
 		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
 		<Barcode>5200128640378</Barcode>
-		<Quantity>873</Quantity>
+		<Quantity>867</Quantity>
 	</product>
 	<product>
 		<ID>76201</ID>
@@ -13761,7 +13761,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Οι οδοντογλυφίδες σε βάζο 200 τεμαχίων είναι μια πρακτική και υγιεινή λύση για την προσωπική σας φροντίδα. Κατασκευασμένες από υλικό υψηλής ποιότητας, αυτές οι οδοντογλυφίδες προσφέρουν αποτελεσματική και ασφαλή καθαριότητα μεταξύ των δοντιών. Το βάζο με 200 τεμάχια εξασφαλίζει μακρά διάρκεια χρήσης και εύκολη πρόσβαση στις οδοντογλυφίδες σας.</Description>
 		<Barcode>5202054212889</Barcode>
-		<Quantity>1083</Quantity>
+		<Quantity>1082</Quantity>
 	</product>
 	<product>
 		<ID>76807</ID>
@@ -13778,7 +13778,7 @@
 		<MPN>0400</MPN>
 		<Description>Οι οδοντογλυφίδες με σελοφάν προσφέρουν αποτελεσματικό και βολικό τρόπο για τον καθαρισμό των δοντιών σας. Με το σελοφάν που καλύπτει κάθε οδοντογλυφίδα, μπορείτε να διατηρείτε την υγιεινή στο στόμα σας ακόμα και όταν βρίσκεστε καθοδόν. Το πακέτο με 1000 τεμάχια εξασφαλίζει μακράς διαρκείας προμήθεια για τις καθημερινές σας ανάγκες υγιεινής του στόματος.</Description>
 		<Barcode>5202054212858</Barcode>
-		<Quantity>163</Quantity>
+		<Quantity>161</Quantity>
 	</product>
 	<product>
 		<ID>77002</ID>
@@ -14169,7 +14169,7 @@
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 250ml.</Description>
 		<Barcode>5203124503005</Barcode>
-		<Quantity>1906</Quantity>
+		<Quantity>1905</Quantity>
 	</product>
 	<product>
 		<ID>78131</ID>
@@ -14935,7 +14935,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.64</Price>
+		<Price>5.4</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
@@ -14952,14 +14952,14 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.96</Price>
+		<Price>8.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
 		<MPN>1524</MPN>
 		<Description>Σακούλες vacuum για συσκευή σφραγίσματος τροφίμων σε συσκευασία 100 τεμαχίων. Αυτές οι σακούλες με ένα απλό σφράγισμα βοηθούν στη διατήρηση των θρεπτικών συστατικών των τροφίμων, του αρώματος, του χρώματος και της γεύσης τους, ενώ αν σφραγιστούν αεροστεγώς παρατείνετε η διάρκεια ζωής τους, διατηρώντας έτσι τη φρεσκάδα και τα θρεπτικά συστατικά με φυσικό τρόπο. Ο σχεδιασμός με σαγρέ ανάγλυφη επιφάνεια εμποδίζει το οξυγόνο και την υγρασία για αύξηση της αναρρόφησης, έτσι είναι ιδανική επιλογή εάν επιθυμείτε να αφαιρέσετε τον αέρα από τη σακούλα καθώς είναι συμβατές είτε με vacuum εξωτερικής σφράγισης είτε με εσωτερικής σφράγισης (με θάλαμο).</Description>
 		<Barcode>5202054474461</Barcode>
-		<Quantity>112</Quantity>
+		<Quantity>111</Quantity>
 	</product>
 	<product>
 		<ID>78953</ID>
@@ -14969,7 +14969,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.88</Price>
+		<Price>12.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
@@ -14986,14 +14986,14 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.18</Price>
+		<Price>16.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
 		<MPN>1526</MPN>
 		<Description>Σακούλες vacuum για συσκευή σφραγίσματος τροφίμων σε συσκευασία 100 τεμαχίων.</Description>
 		<Barcode>5202054474485</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>79001</ID>
@@ -15709,7 +15709,7 @@
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<Barcode>5203358500344</Barcode>
-		<Quantity>408</Quantity>
+		<Quantity>336</Quantity>
 	</product>
 	<product>
 		<ID>7949903</ID>
@@ -16987,7 +16987,7 @@
 		<MPN>1627</MPN>
 		<Description>Τάση Τροφοδοσίας (V): 220-240V    Ονομαστική Ισχύς (W): 2800W    Συχνότητα Λειτουργίας (Hz): 50-60Hz    Βαθμός Στεγανότητας (IP): IP20    Καθαρό Βάρος Προϊόντος (kg): 2.9kg    Ύψος: 52cm    Πλάτος: 19.5cm    Μήκος: 48.5cm    Χρώμα Προϊόντος: Μαυρο     Υλικό Κατασκευής Προϊόντος: Πλαστικο &amp; Αλουμινιο    Διακόπτης Ασφαλείας: Ναι     Θερμοστάτης: Ναι    Θερμαντικό Στοιχείο: Λάμπα Χαλαζία    Κάλυψη Χώρου: 30m²    Λαβές Μεταφοράς: Ναι</Description>
 		<Barcode>5207227106866</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>7992021</ID>
@@ -17667,7 +17667,7 @@
 		<MPN>1718</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Χρόνος Λειτουργίας 10 ώρες     Χρόνος φόρτισης 2 ώρες     Bluetooth 5.3     Εμβέλεια: 10m</Description>
 		<Barcode>6970312531506</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>799514102</ID>
@@ -17779,7 +17779,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.62</Price>
+		<Price>8.6</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Car Audio &gt; Bluetooth Car Kit</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -17830,7 +17830,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.04</Price>
+		<Price>5.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Ηλεκτρονικά &gt; Μετατροπείς</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -17949,7 +17949,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.39</Price>
+		<Price>13.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -17966,7 +17966,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.36</Price>
+		<Price>16.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18000,7 +18000,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.27</Price>
+		<Price>3.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18612,7 +18612,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το ρύζι Basmati σε συσκευασία 500 γραμμαρίων είναι ιδανικό για δημιουργία απολαυστικών ασιατικών φαγητών. Με το μακρύ, λεπτό κόκκο του και το ιδιαίτερο άρωμά του, προσφέρει μια γεύση και μια αίσθηση που δεν συγκρίνεται εύκολα με άλλους τύπους ρυζιού. Ιδανικό για πιλάφι, σερβίρεται ως πλευρικό ή βασικό πιάτο, και συνοδεύει τέλεια ποικίλα κρέατα, ψάρια και λαχανικά.</Description>
 		<Barcode>8212006200567</Barcode>
-		<Quantity>257</Quantity>
+		<Quantity>250</Quantity>
 	</product>
 	<product>
 		<ID>810171</ID>
@@ -18630,7 +18630,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Ένα υψηλής ποιότητας λευκό ρύζι με φίνο άρωμα γιασεμιού, ιδανικό για ασιατικές συνταγές. Χαρακτηρίζεται από ελαφριά, αφράτη υφή και μοναδική γεύση που συνοδεύει τέλεια κρέατα, λαχανικά και θαλασσινά. Προέρχεται από την Ταϋλάνδη, όπου το ρύζι Jasmine καλλιεργείται παραδοσιακά.</Description>
 		<Barcode>5212006200659</Barcode>
-		<Quantity>186</Quantity>
+		<Quantity>184</Quantity>
 	</product>
 	<product>
 		<ID>83002</ID>
@@ -18900,7 +18900,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<Barcode>5202737989855</Barcode>
-		<Quantity>295</Quantity>
+		<Quantity>285</Quantity>
 	</product>
 	<product>
 		<ID>84012</ID>
@@ -19098,7 +19098,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 1 κιλού. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270010051</Barcode>
-		<Quantity>255</Quantity>
+		<Quantity>245</Quantity>
 	</product>
 	<product>
 		<ID>84121</ID>
@@ -19134,7 +19134,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Θαλασσινό χονδρό αλάτι Νο2 της εταιρείας Γλάρος σε συσκευασία 1000 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270011065</Barcode>
-		<Quantity>125</Quantity>
+		<Quantity>115</Quantity>
 	</product>
 	<product>
 		<ID>84131</ID>
@@ -19152,7 +19152,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 5 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270000052</Barcode>
-		<Quantity>33</Quantity>
+		<Quantity>32</Quantity>
 	</product>
 	<product>
 		<ID>84132</ID>
@@ -19332,7 +19332,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Η τριμμένη κιτρινόριζα χρησιμοποιείται στις κουζίνες της Νοτίου Ασίας και της Μέσης Ανατολής, ως συστατικό σε μείγματα κάρι. Η πιο διαδεδομένη χρήση της είναι ως ένα από τα βασικά συστατικά της μουστάρδας.</Description>
 		<Barcode>5213006252075</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>84272</ID>
@@ -19494,7 +19494,7 @@
 		<Weight>0.04 kg</Weight>
 		<Description>Ένα μείγμα τεσσάρων πιπεριών κόκκινο, μαύρο, πράσινο και λευκό που δεν πρέπει να λείπει από καμία κουζίνα.</Description>
 		<Barcode>5213006251573</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>84432</ID>
@@ -19584,7 +19584,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ο τοματοχυμός πασσάτα απο την εταιρία Ρέα ελαφριάς συμπύκνωσης . Δεν περιέχει γλουτένη και άλλα αλλεργιογόνα ,έχει πολύ χαμηλή περιεκτικότητα σε αλάτι και είναι ιδανική για όλες τις γαστρονομικές δημιουργίες σας.</Description>
 		<Barcode>5202908500018</Barcode>
-		<Quantity>3474</Quantity>
+		<Quantity>3473</Quantity>
 	</product>
 	<product>
 		<ID>852011</ID>
@@ -20242,7 +20242,7 @@
 		<Weight>4 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.• Κυρίως συστατικό: Κρέας• Συσκευασία: 4kg</Description>
 		<Barcode>5202546009195</Barcode>
-		<Quantity>414</Quantity>
+		<Quantity>413</Quantity>
 	</product>
 	<product>
 		<ID>99022</ID>
@@ -20332,7 +20332,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>482</Quantity>
+		<Quantity>480</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
