@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-14 08:05</created_at>
+	<created_at>2025-02-14 08:45</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -10134,6 +10134,23 @@
 		<Quantity>271</Quantity>
 	</product>
 	<product>
+		<ID>71311001</ID>
+		<Name>Sidirela Χρωμοπαγίδα με Μαλακτικό 12 Φύλλα E-2683</Name>
+		<Product_Link>https://www.skroutz.gr/s/32631223/Sidirela-12-CHromopagides-kai-Malaktiko-2-Se-1.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/032631/32631223/xlarge_20211125124915_sidi_home_12_chromopagides_kai_malaktiko_2_se_1.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.73</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-2683</MPN>
+		<Description>Χρωμοπροστασία η οποία προσφέρει εξαιρετική βοήθεια σε κάθε σας πλύση. Το πακέτο περιέχει 12 φύλλα.</Description>
+		<Barcode>5203642126830</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>71312</ID>
 		<Name>Rex Hellas 12 Χρωμοπαγίδες</Name>
 		<Product_Link>https://www.skroutz.gr/s/22515016/Rex-Hellas-12-CHromopagides.html</Product_Link>
@@ -10446,7 +10463,7 @@
 		<Image_Link>https://ionionmarket.gr/wp-content/uploads/2022/05/5201314051671.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
+		<VAT>24</VAT>
 		<Price>0.5976906548148149</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
@@ -10455,6 +10472,23 @@
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
 		<Barcode>55201314051676</Barcode>
 		<Quantity>7009</Quantity>
+	</product>
+	<product>
+		<ID>72110101</ID>
+		<Name>Bionol Professional Κρέμα Καθαρισμού Γενικής Χρήσης 800gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/45138482/Bionol-Professional-Krema-Katharismou-Genikis-CHrisis-800gr.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/045138/45138482/xlarge_20230915110129_bionol_professional_krema_katharismou_genikis_chrisis_800gr.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Επιφανειών</Category_Path>
+		<Manufacturer>ROLO</Manufacturer>
+		<MPN>1765</MPN>
+		<Description>Απορρυπαντικό γενικής χρήσης, πολυκαθαριστική δράση με μέγιστη αποτελεσματικότητα.  Ιδανικό για:  - Δύσκολους Λεκέδες  - Σκληρή βρωμιά  - Καθαριότητα  - Οικονομία</Description>
+		<Barcode>5201321941927</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>72111</ID>
@@ -11494,14 +11528,81 @@
 		<Quantity>110</Quantity>
 	</product>
 	<product>
+		<ID>74250101</ID>
+		<Name>Sidirela  Συρμάτινα Σφουγγάρια Γενικής Χρήσης Ασημί Σετ 6τμχ 30gr E-1656</Name>
+		<Product_Link>https://www.skroutz.gr/s/28579602/Sidirela-E-1656-E-1656-Set-Syrmatina-Sfougaria-Genikis-CHrisis-Asimi-24tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/028579/28579602/xlarge_20210427094043_sidi_home_syrmatino_sfougaraki_kouzinas_e_1656_24tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1656</MPN>
+		<Description>Σύρμα μαλλί ιδανικό για την καθαριότητα όλων των σκευών της κουζίνας.  Η συσκευασία περιέχει 6 τεμάχια.</Description>
+		<Barcode>5203642116565</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>74250114</ID>
+		<Name>Συρμάτινο Σφουγγάρι Γενικής Χρήσης 17gr Ασημί</Name>
+		<Product_Link>https://www.skroutz.gr/s/54743327/Viosarp-Syrmatino-Sfougari-Genikis-CHrisis-17gr-Asimi.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/054743/54743327/xlarge_20240704144423_viosarp_syrmatino_sfougari_genikis_chrisis_17gr_asimi.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.18</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>VC910-50</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Συρμάτινο     Κατάλληλο για Όλα τα Σκεύη     Καθαρίζει τους Δύσκολους Λεκέδες     Βάρος 17gr</Description>
+		<Barcode>5206753000372</Barcode>
+	</product>
+	<product>
+		<ID>74250120</ID>
+		<Name>HousePlast Συρμάτινο Σφουγγάρι Γενικής Χρήσης 20gr Ασημί Συσκευασμένο</Name>
+		<Product_Link>https://houseplast.gr/surma-siro-20gramm-asimi.html</Product_Link>
+		<Image_Link>https://houseplast.gr/pub/media/catalog/product/cache/87581e59e98304fdf9b8eccbae4c6961/2/0/20_.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>HousePlast</Manufacturer>
+		<MPN>2796</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Συρμάτινο     Κατάλληλο για Όλα τα Σκεύη     Καθαρίζει τους Δύσκολους Λεκέδες     Βάρος 20gr</Description>
+		<Barcode>5213014890337</Barcode>
+		<Quantity>400</Quantity>
+	</product>
+	<product>
+		<ID>74250150</ID>
+		<Name>HousePlast Συρμάτινο Σφουγγάρι Γενικής Χρήσης 50gr Ασημί Συσκευασμένο</Name>
+		<Product_Link>https://houseplast.gr/surma-siro-50gramm-asimi.html</Product_Link>
+		<Image_Link>https://houseplast.gr/pub/media/catalog/product/cache/87581e59e98304fdf9b8eccbae4c6961/f/i/file_92_1.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.45</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>HousePlast</Manufacturer>
+		<MPN>6024</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Συρμάτινο     Κατάλληλο για Όλα τα Σκεύη     Καθαρίζει τους Δύσκολους Λεκέδες     Βάρος 50gr</Description>
+		<Barcode>5213014890344</Barcode>
+		<Quantity>320</Quantity>
+	</product>
+	<product>
 		<ID>74251</ID>
-		<Name>ΣΠΟΓΓΟΣ ΜΕΤΑΛΛΙΚΟΣ ΣΥΣΚΕΥΑΣΜΕΝΟΣ</Name>
+		<Name>Συρμάτινο Σφουγγάρι Γενικής Χρήσης 17gr Ασημί Συσκευασμένο</Name>
 		<Product_Link>https://www.skroutz.gr/s/30629259/Cyclops-004301167-Syrmatino-Sfougari-Genikis-CHrisis-Asimi.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/030629/30629259/xlarge_20210826121624_cyclops_syrmatino_sfougaraki_kouzinas_004301167.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.38</Price>
+		<Price>0.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -11512,30 +11613,47 @@
 	</product>
 	<product>
 		<ID>74252</ID>
-		<Name>ΣΠΟΓΓΟΣ ΧΡΥΣΑΦΙ</Name>
+		<Name>Sidirela Συρμάτινο Σφουγγάρι Γενικής Χρήσης Χρυσό 15gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/46965871/1KAT63-Syrmatino-Sfougari-Piaton.html</Product_Link>
 		<Image_Link>https://www.bazar100.gr/images/uploads//sidiropoylos/0001055497.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.65</Price>
+		<Price>0.4</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>00431013</MPN>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN>E-1655</MPN>
 		<Description>Συρματάκι ιδανικό για την κουζίνα αλλά και για λείανση επιφανειών.</Description>
 		<Barcode>5203642116558</Barcode>
 		<Quantity>106</Quantity>
 	</product>
 	<product>
+		<ID>74252113</ID>
+		<Name>HousePlast Συρμάτινο Σφουγγάρι Γενικής Χρήσης Χρυσό 13gr</Name>
+		<Product_Link>https://houseplast.gr/surma-chalkino-20tmch.html</Product_Link>
+		<Image_Link>https://houseplast.gr/pub/media/catalog/product/cache/87581e59e98304fdf9b8eccbae4c6961/0/f/0f874646-ee6e-4a14-8041-5f87803b0ef9.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>HousePlast</Manufacturer>
+		<MPN>17011</MPN>
+		<Description>Συρματάκι ιδανικό για την κουζίνα αλλά και για λείανση επιφανειών.</Description>
+		<Barcode>5213014890320</Barcode>
+		<Quantity>480</Quantity>
+	</product>
+	<product>
 		<ID>74253</ID>
-		<Name>ΣΥΡΜΑ ΨΙΛΟ ΡΟΛΑΚΙ 6τεμ Νο6</Name>
+		<Name>Labico Συρμάτινα Σφουγγάρια Γενικής Χρήσης Ασημί Σετ 6τμχ 30gr</Name>
 		<Product_Link>https://cafedes.gr/shop/ergaleia-katharismou/surmata/atsalomallo-surma-psilo-6temrolakia/</Product_Link>
 		<Image_Link>https://www.takataka.gr/Cache/Photos/a095cc2528942259192aaa7faebce821.png</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.48</Price>
+		<Price>0.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -11733,8 +11851,24 @@
 		<Quantity>344</Quantity>
 	</product>
 	<product>
+		<ID>74931101</ID>
+		<Name>Fly Παγίδα για Μύγες / Σφήκες Καρούλι 4τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/54430581/Fly-Digital-Pagida-gia-Myges-Sfikes-4tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/054430/54430581/xlarge_20240617132800_fly_digital_pagida_gia_myges_sfikes_4tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Εντομοκτόνα &amp; Απωθητικά Χώρου &gt; Παγίδες Ζώων</Category_Path>
+		<Manufacturer>Fly Digital</Manufacturer>
+		<MPN>100544</MPN>
+		<Description>Παγίδα για μύγες σε χάρτινη κορδέλα με επικάλυψη κόλλας. Διατηρεί την κολλητική της ικανότητα για αρκετό διάστημα, χωρίς να ξεραίνεται και δεν επηρεάζεται από την υγρασία.</Description>
+		<Barcode>6957809410117</Barcode>
+	</product>
+	<product>
 		<ID>74941</ID>
-		<Name>ΠΟΝΤΙΚΟΚΟΛΛΑ DEBELLO 135 gr</Name>
+		<Name>DEBELLO κόλλα για ποντίκια και έντομα σε σωληνάριο 135gr</Name>
 		<Product_Link>https://www.bazar100.gr/index.php?act=viewProd&amp;productId=1313</Product_Link>
 		<Image_Link>https://www.sdstore.gr/wp-content/uploads/2023/10/%CE%9A%CE%9F%CE%9B%CE%9B%CE%91-%CE%A0%CE%9F%CE%9D%CE%A4%CE%99%CE%9A%CE%99%CE%A9%CE%9D-DEBELLO.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -11748,6 +11882,23 @@
 		<Description>Ένα αποτελεσματικό προϊόν για την αντιμετώπιση των τρωκτικών. Περιέχει ισχυρή κόλλα που εφαρμόζεται σε επιφάνειες όπως χαρτόνι ή ξύλο, δημιουργώντας παγίδες για ποντίκια και άλλα ανεπιθύμητα παράσιτα. Η κόλλα είναι άοσμη και μη τοξική, καθιστώντας την ασφαλή για χρήση σε εσωτερικούς χώρους. Είναι κατάλληλη για οικιακή, επαγγελματική ή γεωργική χρήση, εξασφαλίζοντας ότι τα τρωκτικά παραμένουν κολλημένα στην επιφάνεια μέχρι την απομάκρυνσή τους.</Description>
 		<Barcode>8005831003512</Barcode>
 		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>74941101</ID>
+		<Name>Tibrats Μη δηλητηριώδης κόλλα για ποντίκια και έντομα σε σωληνάριο 135gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/18009740/Tibrats-Kolla.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/018009/18009740/xlarge_20211014170031_kolla_tibrats.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.28</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Εντομοκτόνα &amp; Απωθητικά Χώρου &gt; Παγίδες Ζώων</Category_Path>
+		<Manufacturer>Tibrats</Manufacturer>
+		<MPN>VC026</MPN>
+		<Description>Η κόλλα παγιδεύει τρωκτικά και έρποντα ζώα, μέσω της ακινητοποίησης.  Εφαρμόζεται εύκολα σε διάφορες επιφάνειες, όπως:      χαρτόνι     ξύλο     μέταλλο  Μπορεί να χρησιμοποιηθεί με ασφάλεια σε χώρους που δεν επιτρέπεται η χρήση τρωκτικοκτόνων ή άλλων φαρμάκων, όπως σπίτια και χώρους τροφίμων.  Είναι άχρωμη, μη τοξική, δεν περιέχει δηλητήριο και διατηρεί την κολλητική της ιδιότητα για αρκετό διάστημα χωρίς να ξεραίνεται, ενώ δεν επηρεάζεται από την υγρασία, το νερό και τη θερμότητα.</Description>
+		<Barcode>5206753004974</Barcode>
+		<Quantity>200</Quantity>
 	</product>
 	<product>
 		<ID>74943</ID>
@@ -12007,6 +12158,74 @@
 		<Quantity>1129</Quantity>
 	</product>
 	<product>
+		<ID>75202030</ID>
+		<Name>Κερί Αφιέρωσης - Μνήμης Καύσης 3 Ημερών Τ30 Ε-3448</Name>
+		<Product_Link>https://www.skroutz.gr/s/45794791/Axesouar-Mnimeiou-E-3448.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/045794/45794791/xlarge_20230913165543_axesouar_mnimeiou_e_3448.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.81</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3448</MPN>
+		<Description>Κερί μνήμης διάρκειας 3 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
+		<Barcode>5203642134484</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>75202040</ID>
+		<Name>Κερί Αφιέρωσης - Μνήμης Καύσης 4 Ημερών Τ40 Ε-1734</Name>
+		<Product_Link>https://www.skroutz.gr/s/43038713/Sidirela-Keri-Afierosis-apo-Plastiko-7x7x16ek-E-1734.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/043038/43038713/xlarge_20230620164101_sidirela_keri_afierosis_apo_plastiko_7x7x16ek_e_1734.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.1</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1734</MPN>
+		<Description>Κερί μνήμης διάρκειας 4 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
+		<Barcode>5203642117340</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>75202050</ID>
+		<Name>Κερί Αφιέρωσης - Μνήμης Καύσης 5 Ημερών Τ50 Ε-3487</Name>
+		<Product_Link>https://www.skroutz.gr/s/45795069/Sidirela-Axesouar-Mnimeiou-6x6x6ek-E-3487.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/045795/45795069/xlarge_20230913165628_sidirela_axesouar_mnimeiou_6x6x6ek_e_3487.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.34</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3487</MPN>
+		<Description>Κερί μνήμης διάρκειας 5 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
+		<Barcode>5203642134873</Barcode>
+		<Quantity>50</Quantity>
+	</product>
+	<product>
+		<ID>75202060</ID>
+		<Name>Κερί Αφιέρωσης - Μνήμης Καύσης 6 Ημερών Τ60 Ε-1735</Name>
+		<Product_Link>https://www.sidirela.gr/eidi-spitiou/keria/keria-mnimis/?attribute_pa_kivotologio=24tmch-kiv</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2023/08/e-1733-keri-mnimis-web.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.72</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1735</MPN>
+		<Description>Κερί μνήμης διάρκειας 6 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
+		<Barcode>5203642117357</Barcode>
+		<Quantity>29</Quantity>
+	</product>
+	<product>
 		<ID>75221</ID>
 		<Name>ΚΕΡΙ ΑΦΙΕΡΩΣΗΣ BISPOL 105gr ΚΑΥΣΗ ~ 2 ΗΜΕΡΕΣ</Name>
 		<Product_Link>https://petsalis.gr/product/%ce%ba%ce%b5%cf%81%ce%b9-%ce%b1%cf%86%ce%b9%ce%b5%cf%81%cf%89%cf%83%ce%b7%cf%83-memoria-wo2-kokkino/</Product_Link>
@@ -12073,6 +12292,22 @@
 		<Description>Το κερί αφιέρωσης από πλαστικό της εταιρείας Bispol είναι βραδύκαυστο και μεγάλης διάρκειας. Η παραφίνη δίνει σταθερή διάρκεια καύσης και έτσι παραμένει αναμμένο για μεγάλο χρονικό διάστημα. Η διάρκεια ζωής του φτάνει περίπου τις 8 ημέρες.</Description>
 		<Barcode>5906927023960</Barcode>
 		<Quantity>199</Quantity>
+	</product>
+	<product>
+		<ID>75225101</ID>
+		<Name>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών 6x9x15 Ε-0922</Name>
+		<Product_Link>https://www.sidirela.gr/eidi-spitiou/keria/keria-mnimis-stayros/?attribute_pa_kivotologio=24tmch-kiv</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2023/04/e-0887-keri-stayros-120-imeron-led-20-cm-web.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.62</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-0922</MPN>
+		<Description>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών με Μπαταρία και Διάσταση 6x9x15 εκ.</Description>
+		<Barcode>5203642109222</Barcode>
 	</product>
 	<product>
 		<ID>75231</ID>
@@ -12590,6 +12825,23 @@
 		<Quantity>35</Quantity>
 	</product>
 	<product>
+		<ID>76201001</ID>
+		<Name>Sidirela Μανταλάκια πλαστικά 24τμχ E-0759</Name>
+		<Product_Link>https://www.skroutz.gr/s/29344174/Sidirela-Mantalakia-apo-Plastiko-E-0759-24tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/029344/29344174/xlarge_20210607165744_sidi_home_mantalakia_e_0759_24tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.59</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Μανταλάκια</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0759</MPN>
+		<Description>Πλαστικά μανταλάκια για ρούχα σε σετ 24τμχ με 4 διαφορετικά χρώματα.</Description>
+		<Barcode>5203642107594</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>762011</ID>
 		<Name>ΜΑΝΤΑΛΑΚΙΑ GOLD STAR ΠΛΑΣΤΙΚΑ ΧΡΩΜΑΤΙΣΤΑ 24 ΤΕΜ</Name>
 		<Product_Link>https://www.skroutz.gr/s/34645185/Mantalakia-apo-Plastiko-24tmch.html</Product_Link>
@@ -12605,6 +12857,40 @@
 		<Description>Πλαστικά μανταλάκια μεγάλης αντοχής για να απλώσετε τα φρεσκοπλυμένα σας ρούχα.</Description>
 		<Barcode>5201540306002</Barcode>
 		<Quantity>502</Quantity>
+	</product>
+	<product>
+		<ID>76201101</ID>
+		<Name>Sidirela Μανταλάκια σιλικόνης 10τμχ E-2496</Name>
+		<Product_Link>https://www.skroutz.gr/s/30467792/Sidirela-Mantalakia-E-2496-10tmch.html</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2019/12/e-2496-02-mantalakia-silikonis-10tmch-web.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Μανταλάκια</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-2496</MPN>
+		<Description>Μανταλάκια ρούχων με σιλικόνη για να μην αφήνει σημάδι στα ρούχα. Διαθέτουν ανοξείδωτο ελατήριο, σετ 10 τμχ σε διάφορα Χρώματα.</Description>
+		<Barcode>5203642124966</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76201151</ID>
+		<Name>Sidirela Μανταλάκια "Τεράστιο" Σετ 4τμχ. E-2495</Name>
+		<Product_Link>https://www.skroutz.gr/s/24806229/Sidirela-Mantalakia-gia-Petseta-Paralias-4tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/024806/24806229/xlarge_20200917121522_sidi_home_mantalakia_gigas_4tem.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Hobby - Αθλητισμός Camping</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-2495</MPN>
+		<Description>Τεράστιο και ανθεκτικό μανταλάκι πολλαπλών χρήσεων. Για άπλωμα ογκωδών αντικειμένων, για την παραλία, κτλπ.</Description>
+		<Barcode>5203642124959</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>76202</ID>
@@ -12757,6 +13043,91 @@
 		<MPN>00330441</MPN>
 		<Description>Κατασκευασμένα από πλαστικό με διάμετρο 13cm. Ιδανικό για κάθε κουζίνα.</Description>
 		<Barcode>5202707990256</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76220101</ID>
+		<Name>Sidirela Ανοιχτήρι Σερβιτόρου Επαγγελματικό  Ε-2602</Name>
+		<Product_Link>https://www.skroutz.gr/s/24175326/Sidirela-Anoichtiri-Servitorou-E-2602.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/024175/24175326/xlarge_20200907150134_sidi_home_anoichtiri_e_2602.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.67</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Αξεσουάρ Ποτών</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-2602</MPN>
+		<Description>Το ανοιχτήρι Sidi Home διαθέτει δύο σκάλες για την αφαίρεση του φελλού, κοφτερό μαχαιράκι για την απομάκρυνση του καψιλίου και έλικα με αντικολλητική επίστρωση.</Description>
+		<Barcode>5203642126021</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76220201</ID>
+		<Name>Sidirela Μαχαίρια ξεφλουδίσματος σετ 6τμχ BLADE Ε-3799</Name>
+		<Product_Link>https://www.skroutz.gr/s/33721804/Sidirela-Machairia-Xefloudismatos-apo-Anoxeidoto-Atsali-9cm-E-3799-6tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/033721/33721804/fixedratio_20220510174348_sidi_home_machairia_xefloudismatos_apo_anoxeidoto_atsali_9cm_e_3799_6tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3799</MPN>
+		<Description>Το μαχαίρι ξεφλουδίσματος της εταιρείας Sidirela με μήκος λεπίδας 9cm, είναι εύχρηστο και είναι ιδανικό για καθημερινή χρήση και σας βοηθάει να καθαρίσετε πατάτες, φρούτα και λαχανικά εύκολα, γρήγορα και με μεγάλη ακρίβεια. Μπορεί να χρησιμοποιηθεί για το κόψιμο και το ξεφλούδισμα φρούτων και λαχανικών, καθώς και για το κόψιμο του λίπους με μεγάλη ακρίβεια. Είναι κατασκευασμένο από ανοξείδωτο ατσάλι, ένα δημοφιλές υλικό για μαχαίρια, είναι ιδιαίτερα ανθεκτικό και δεν διαβρώνεται. Αποτελεί ένα συνδυασμό από άνθρακα και σίδηρο ως βάση και προστίθεται χρώμιο για να απωθεί τους λεκέδες και να δώσει στη λεπίδα ένα γυαλιστερό φινίρισμα.</Description>
+		<Barcode>5203642137997</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76220202</ID>
+		<Name>Sidirela Μαχαίρια ΠΡΙΟΝΙ 6τμχ  Ε-3803</Name>
+		<Product_Link>https://www.skroutz.gr/s/40128133/Sidirela-Machairia-Fagitou-apo-Anoxeidoto-Atsali-9cm-E-3803-6tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/040128/40128133/fixedratio_20221223132810_sidirela_machairia_fagitou_apo_plastiko_9cm_e_3803_6tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.92</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3803</MPN>
+		<Description>Το μαχαίρι φαγητού της εταιρείας Sidirela με μήκος λεπίδας 9cm, είναι εύχρηστο και μπορεί να χρησιμοποιηθεί καθημερινά μέσα σε μία κουζίνα. Είναι σχεδιασμένο για να κόβει έτοιμα και μαγειρεμένα τρόφιμα, όπως λαχανικά, κρέας και ψάρια. Είναι κατασκευασμένο από ανοξείδωτο ατσάλι, ένα δημοφιλές υλικό για μαχαίρια, είναι ιδιαίτερα ανθεκτικό και δεν διαβρώνεται. Αποτελεί ένα συνδυασμό από άνθρακα και σίδηρο ως βάση και προστίθεται χρώμιο για να απωθεί τους λεκέδες και να δώσει στη λεπίδα ένα γυαλιστερό φινίρισμα.</Description>
+		<Barcode>5203642138031</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76220203</ID>
+		<Name>Sidirela Μαχαίρια σετ 6τμχ BONE Ε-3805</Name>
+		<Product_Link>https://www.skroutz.gr/s/33720792/Sidirela-Set-Machairia-apo-Anoxeidoto-Atsali-13cm-E-3805-6tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/033720/33720792/fixedratio_20220510174159_sidi_home_set_machairia_apo_anoxeidoto_atsali_13cm_e_3805_6tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.92</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3805</MPN>
+		<Description>Μαχαίρι με πλαστική λαβή σε σετ των 6 τεμαχίων.  Λάμα μήκους 12 εκατοστών.  Συσκευασία blister.</Description>
+		<Barcode>5203642138055</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76220204</ID>
+		<Name>Sidirela Μαχαίρια σετ 6τμχ STEAK Ε-3806</Name>
+		<Product_Link>https://www.skroutz.gr/s/35164514/Sidirela-Machairia-Steak-apo-Anoxeidoto-Atsali-12cm-E-3806-6tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/035164/35164514/fixedratio_20220510174205_sidi_home_machairia_steak_apo_anoxeidoto_atsali_12cm_e_3806_6tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3806</MPN>
+		<Description>ο μαχαίρι steak της εταιρείας Sidirela με μήκος λεπίδας 12cm, χρησιμοποιείται για μαγειρεμένο φαγητό και σας εξασφαλίζει ευκολότερο κόψιμο σε αντίθεση με τα μαχαίρια φαγητού. Διαθέτει λεπίδα με μυτερή άκρη. Είναι ιδανικό για μπριζόλες, κοτόπουλο, παϊδάκια και ψάρι. Είναι κατασκευασμένο από ανοξείδωτο ατσάλι, ένα δημοφιλές υλικό για μαχαίρια, είναι ιδιαίτερα ανθεκτικό και δεν διαβρώνεται. Αποτελεί ένα συνδυασμό από άνθρακα και σίδηρο ως βάση και προστίθεται χρώμιο για να απωθεί τους λεκέδες και να δώσει στη λεπίδα ένα γυαλιστερό φινίρισμα.</Description>
+		<Barcode>5203642138062</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -13491,6 +13862,91 @@
 		<Quantity>99</Quantity>
 	</product>
 	<product>
+		<ID>76722101</ID>
+		<Name>Sidirela Συλλέκτης υγρασίας 230gr E-0925</Name>
+		<Product_Link>https://www.skroutz.gr/s/33350605/Sidirela-Syllektis-Ygrasias-E-0925-230gr.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/033350/33350605/xlarge_20220110115804_sidi_home_syllektis_ygrasias_p06909253_230gr.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.8</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Προϊόντα Οικιακής Χρήσης</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0925</MPN>
+		<Description>Συλλέκτης υγρασίας σε κουτί, για κλειστούς χώρους έως 35 τ.μ., μίας χρήσης. Διαρκεί 1-3 μήνες, ανάλογα με το μέγεθος του χώρου (το μπάνιο, λόγω της πολύ υψηλής υγρασίας, ενδέχεται να μειώσει δραστικά τη διάρκεια).</Description>
+		<Barcode>5203642109253</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76730101</ID>
+		<Name>Sidirela Πλαστική Θήκη Αποθήκευσης για Παπούτσια Μαύρη 27x10.5x18.5cm Ε-3401</Name>
+		<Product_Link>https://www.skroutz.gr/s/26146421/Sidirela-Plastiki-THiki-Apothikeysis-gia-Papoutsia-se-Mayro-CHroma-27x10-5x18-5cm-E-3401.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/026146/26146421/xlarge_20211111141521_sidi_home_thiki_apothikeysis_gia_papoutsia_plastiki_e_3401_27by10_5x18_5cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.65</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Αποθήκευση Ρούχων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3401</MPN>
+		<Description>Πλαστική βάση οργάνωσης και αποθήκευσης παπουτσιών ώστε να εξοικονομείτε χώρο στην ντουλάπα σας. Στο κάτω μέρος διαθέτει στοπ ώστε να αποφεύγεται η ολίσθηση των παπουτσιών.</Description>
+		<Barcode>5203642134019</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76730201</ID>
+		<Name>Sidirela Θήκη αποθήκευσης ρούχων πλαστική αεροστεγής 80x55cm κενού αέρος E-0053</Name>
+		<Product_Link>https://www.skroutz.gr/s/23193974/Sidirela-Plastiki-Sakoula-Apothikeysis-Rouchon-Aerostegis-kai-me-Keno-Aeros-80x50cm-E-0053.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/023193/23193974/xlarge_20211111140951_sidi_home_sakoula_apothikeysis_rouchon_plastiki_aerostegis_kai_me_keno_aeros_e_0053_80x50cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.72</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Αποθήκευση Ρούχων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0053</MPN>
+		<Description>Πλαστική αεροστεγής σακούλα κενού αέρος για την αποθήκευση ρούχων και ογκώδη λευκών ειδών όπως κλινοσκεπάσματα. Είναι αδιάβροχη και επαναχρησιμοποιούμενη, ενώ διαθέτει ειδική βαλβίδα αφαίρεσης αέρα για την καλύτερη οργάνωση της ντουλάπας σας.</Description>
+		<Barcode>5203642100533</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76730202</ID>
+		<Name>Sidirela Θήκη αποθήκευσης ρούχων πλαστική αεροστεγής 60x100cm κενού αέρος E-0054</Name>
+		<Product_Link>https://www.skroutz.gr/s/23193993/Sidirela-Plastiki-Sakoula-Apothikeysis-Rouchon-Aerostegis-kai-me-Keno-Aeros-60x100cm-E-0054.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/023193/23193993/xlarge_20211111141521_sidi_home_sakoula_apothikeysis_rouchon_plastiki_aerostegis_kai_me_keno_aeros_e_0054_60x100cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.86</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Αποθήκευση Ρούχων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0054</MPN>
+		<Description>Θήκη αποθήκευσης ρούχων κενού αέρος     Κατάλληλη για ρούχα, κλινοσκεπάσματα, ογκώδη είδη     Αφαιρέστε  τον αέρα από το ειδικό στόμιο με την ηλεκτρική σκούπα και εξοικονομείτε χώρο     Αεροστεγής &amp; αδιάβροχη     Νέα βαλβίδα συμπίεσης 35% πιο γρήγορη     Διαστάσεις: 100x60cm</Description>
+		<Barcode>5203642100540</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>76730203</ID>
+		<Name>Sidirela Θήκη αποθήκευσης ρούχων πλαστική αεροστεγής 70x120cm κενού αέρος E-0055</Name>
+		<Product_Link>https://www.skroutz.gr/s/23194125/Sidirela-Plastiki-Sakoula-Apothikeysis-Rouchon-Aerostegis-kai-me-Keno-Aeros-70x120cm-E-0055.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/023194/23194125/xlarge_20211111142026_sidi_home_sakoula_apothikeysis_rouchon_plastiki_aerostegis_kai_me_keno_aeros_e_0055_70x120cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.05</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Αποθήκευση Ρούχων</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0055</MPN>
+		<Description>Θήκη αποθήκευσης κενού αέρος, ιδανική για ρούχα, κλινοσκεπάματα και διάφορα ογκώδη είδη. Διαθέτει ειδικό στόμιο αποσυμπίεσης του αέρα, είναι αεροστεγής, αδιάβροχη και επαναχρησιμοποιούμενη. Διαστάσεις: 120x70cm</Description>
+		<Barcode>5203642100557</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>76805</ID>
 		<Name>Θαλασσινός Οδοντογλυφίδα 200τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/39817281/THalassinos-Odontoglyfida-200tmch-163766.html</Product_Link>
@@ -13526,6 +13982,57 @@
 		<Quantity>161</Quantity>
 	</product>
 	<product>
+		<ID>77001101</ID>
+		<Name>Ορθογώνιο Βοηθητικό Τραπεζάκι Ξύλινο Μπεζ Μ40xΠ30xΥ60cm E-4354</Name>
+		<Product_Link>https://www.skroutz.gr/s/48787449/Orthogonio-Voithitiko-Trapezaki-Xylino-Mpez-E-4354-M40xP30xY60ek.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/048787/48787449/fixedratio_20231214100513_orthogonio_voithitiko_trapezaki_xylino_xylino_e_4354_m40xp30xy60ek.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.82</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Έπιπλα Σαλονιού</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-4354</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Υλικό επιφάνειας: Μοριοσανίδα     Υλικό σκελετού: Μέταλλο     Διαστάσεις: 40x30x60εκ.</Description>
+		<Barcode>5203642143547</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77001111</ID>
+		<Name>Γραφείο Ξύλινο με Μεταλλικά Πόδια Sonama - Λευκό 60x40x89cm E-3977</Name>
+		<Product_Link>https://www.skroutz.gr/s/33676073/Grafeio-Xylino-me-Metallika-Podia-Sonama-Leyko-60x40x89ek-E-3977.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/055592/55592288/fixedratio_20220427185802_0a4f793c.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.32</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Έπιπλα Γραφείου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3977</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Διαστάσεις: 60 x 40 x 89 εκ.     Επιφάνεια από ξύλο     Σκελετός μεταλλικός     Ρυθμιζόμενο ύψος (65-89 εκ.)  Γραφείο laptop με λευκό μεταλλικό σκελετό, επιφάνει από ξύλο και ρόδες για εύκολη μεταφορά, πτυσσόμενο με ρυθμιζόμενο ύψος από την εταιρεία Sidirela.</Description>
+		<Barcode>5203642139779</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77001151</ID>
+		<Name>Sidirela Μεταλλικό Φαρμακείο Πρώτων Βοηθειών Τοίχου με Κλειδαριά Ασημί 30x30cm Ε-1355</Name>
+		<Product_Link>https://www.skroutz.gr/s/19381336/Sidirela-Metalliko-Farmakeio-Proton-Voitheion-Toichou-me-Kleidaria-Asimi-30x30cm.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/019381/19381336/xlarge_20200821092434_afoi_sidiropouloi_farmakeio_inox_30_x_30_x_13cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.24</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά Πρώτες Βοήθειες&gt;Κουτιά Πρώτων Βοηθειών</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1355</MPN>
+		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.      Διαστάσεις: 30cm x 30cm</Description>
+		<Barcode>5203642113557</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>77002</ID>
 		<Name>Flamingo Πετσέτα Κουζίνας 65x45cm 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/41951652/Flamingo-Petseta-Kouzinas-65x45cm-5206952011223-1-2tmch.html</Product_Link>
@@ -13541,6 +14048,192 @@
 		<Description>Η πετσέτα κουζίνας της εταιρείας Flamingo είναι κατάλληλη για να σκουπίζετε τα πιάτα, απορροφά την υγρασία, καθαρίζει επιφάνειες, στεγνώνει βότανα και λαχανικά και σας βοηθάει να κρατάτε με ασφάλεια ζεστά πιάτα και μαγειρικά σκεύη.Φροντίδα: Συνιστάται πλύσιμο με ζεστό νερό για την εξάλειψη των βακτηρίων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Αποφύγετε τη χρήση μαλακτικού, καθώς το μαλακτικό δημιουργεί ένα στρώμα στις ίνες του υφάσματος, καθιστώντας έτσι πιο δύσκολη την απορρόφηση της υγρασίας. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
 		<Barcode>5206952011223</Barcode>
 		<Quantity>376</Quantity>
+	</product>
+	<product>
+		<ID>77002101</ID>
+		<Name>SIDIRELA Προστατευτικό επίστρωμα μονό αδιάβροχο με φάσα 100Χ200+30cm E-3441</Name>
+		<Product_Link>https://www.skroutz.gr/s/28417782/Sidirela-Prostateytiko-Epistroma-Mono-Adiavrocho-me-Fasa-Prasino-E-3441-100x200-30ek.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/028417/28417782/xlarge_20210809125531_sidi_home_epistroma_mono_adiavrocho_100x200cm_e_3441.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.9</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3441</MPN>
+		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
+		<Barcode>5203642134415</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77002102</ID>
+		<Name>SIDIRELA Προστατευτικό επίστρωμα ημίδιπλο αδιάβροχο με φάσα 120Χ200+30cm E-3442</Name>
+		<Product_Link>https://www.skroutz.gr/s/28417838/Sidirela-Prostateytiko-Epistroma-Imidiplo-Adiavrocho-me-Fasa-Prasino-E-3442-120x200-30ek.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/028417/28417838/xlarge_20210809125531_sidi_home_epistroma_imidiplo_adiavrocho_120x200cm_e_3442.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>11.64</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3442</MPN>
+		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
+		<Barcode>5203642134422</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77002103</ID>
+		<Name>SIDIRELA Προστατευτικό επίστρωμα υπέρδιπλο αδιάβροχο με φάσα 160Χ200+30cm E-3443</Name>
+		<Product_Link>https://www.skroutz.gr/s/28417802/Sidirela-Prostateytiko-Epistroma-Yperdiplo-Adiavrocho-me-Fasa-Prasino-E-3443-160x200-30ek.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/028417/28417802/xlarge_20210420131649_sidi_home_epistroma_diplo_adiavrocho_160x200cm_e_3443.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.07</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3443</MPN>
+		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
+		<Barcode>5203642134439</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77002104</ID>
+		<Name>SIDIRELA Προστατευτικό επίστρωμα KING SIZE αδιάβροχο με φάσα 180Χ200+30cm E-3444</Name>
+		<Product_Link>https://www.skroutz.gr/s/28417745/Sidirela-Prostateytiko-Epistroma-King-Size-Adiavrocho-me-Fasa-Prasino-E-3444-180x200-30ek.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/028417/28417745/xlarge_20210420131600_sidi_home_epistroma_yperdiplo_adiavrocho_180x200cm_e_3444.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>16.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3444</MPN>
+		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
+		<Barcode>5203642134446</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77300101</ID>
+		<Name>Sidirela πατάκι εισόδου καουτσούκ δαχτυλίδι 40x60cm E-0513</Name>
+		<Product_Link>https://www.skroutz.gr/s/21131407/Sidirela-Antiolisthitiko-Pataki-Eisodou-apo-Kaoutsouk-Dachtylidi-Mayro-40x60ek-E-0513.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/021131/21131407/fixedratio_20220510153416_pataki_eisodou_apo_kaoutsouk_dachtylidi_mayro_40x60cm_e_0513.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.26</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0513</MPN>
+		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους.</Description>
+		<Barcode>5203642105132</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77300102</ID>
+		<Name>Sidirela πατάκι εισόδου καουτσούκ δαχτυλίδι 50x80cm E-0529</Name>
+		<Product_Link>https://www.skroutz.gr/s/21131399/Sidirela-Pataki-Eisodou-apo-Kaoutsouk-Dachtylidi-Mayro-50x80ek-E-0529.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/021131/21131399/fixedratio_20220510153416_pataki_eisodou_apo_kaoutsouk_dachtylidi_mayro_50x80cm_e_0529.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0529</MPN>
+		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους.</Description>
+		<Barcode>5203642105293</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>773001101</ID>
+		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Meka Welcome 40x60εκ. Ε-0897</Name>
+		<Product_Link>https://www.skroutz.gr/s/32953156/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Meka-I-Love-Home-40x60ek-E-0897.html</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2024/12/e-0897-01-podomaktro-meka-web.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.74</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-0897</MPN>
+		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home είναι κατασκευασμένο από ίνες κοκοφοίνικα, υψηλής αντοχής σε νερό και υγρασία, με λαστιχένιο υπόστρωμα για καλύτερη σταθερότητα.</Description>
+		<Barcode>5203642108973</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>773001102</ID>
+		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Meka Dog 40x60εκ. Ε-0897</Name>
+		<Product_Link>https://www.skroutz.gr/s/32953156/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Meka-I-Love-Home-40x60ek-E-0897.html</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2024/12/e-0897-02-podomaktro-meka-web.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.74</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-08971</MPN>
+		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home είναι κατασκευασμένο από ίνες κοκοφοίνικα, υψηλής αντοχής σε νερό και υγρασία, με λαστιχένιο υπόστρωμα για καλύτερη σταθερότητα.</Description>
+		<Barcode>5203642108973</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>773001103</ID>
+		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Meka Home 40x60εκ. Ε-0897</Name>
+		<Product_Link>https://www.skroutz.gr/s/32953156/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Meka-I-Love-Home-40x60ek-E-0897.html</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2024/12/e-0897-03-podomaktro-meka-web.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.74</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-08972</MPN>
+		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home είναι κατασκευασμένο από ίνες κοκοφοίνικα, υψηλής αντοχής σε νερό και υγρασία, με λαστιχένιο υπόστρωμα για καλύτερη σταθερότητα.</Description>
+		<Barcode>5203642108973</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77300111</ID>
+		<Name>Sidirela Οβάλ Πατάκι Εισόδου από Κοκοφοίνικα με Αντιολισθητικό Υπόστρωμα Cosmos Μπεζ 45x75εκ. E-3516</Name>
+		<Product_Link>https://www.skroutz.gr/s/26394129/Sidirela-Oval-Pataki-Eisodou-apo-Kokofoinika-me-Antiolisthitiko-Ypostroma-Cosmos-Mpez-45x75ek-E-3516.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/026394/26394129/fixedratio_20220510153415_sidi_home_pataki_eisodou_apo_kokofoinika_cosmos_mpez_45x75cm_e3516.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.52</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3516</MPN>
+		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home έχει επιφάνεια από κοκοφοίνικα και περίμετρο από αντιολισθητικό υλικό με εμφάνιση οξυδωμένου σιδήρου.</Description>
+		<Barcode>5203642135160</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77300121</ID>
+		<Name>Αντιολισθητικό Πατάκι Εισόδου Douceur d'Intérieurs Γκρι 45x75εκ.</Name>
+		<Product_Link>https://www.skroutz.gr/s/21079440/Douceur-d-Interieur-Pataki-Eisodou-Gri-45x75ek-1740253.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/021079/21079440/fixedratio_20220510152951_douceur_d_int_rieur_pataki_eisodou_1740253_45x75cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.88</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>Douceur d'Intérieur</Manufacturer>
+		<MPN>1676</MPN>
+		<Description>Το πατάκι εισόδου της εταιρείας Douceur d'Intérieur, είναι ιδανικό για να διακοσμήσετε την πόρτα σας και να υποδεχτείτε τους καλεσμένους σας, περιορίζοντας την εισχώρηση βρωμιάς από το εξωτερικό περιβάλλον στο εσωτερικό του σπιτιού σας. Είναι κατασκευασμένο με αντιολισθητικό υλικό για μεγάλη σταθερότητα.  Διαστάσεις: - Πλάτος: 45εκ. - Μήκος: 75εκ.</Description>
+		<Barcode>3574387402537</Barcode>
 	</product>
 	<product>
 		<ID>77011</ID>
@@ -13628,20 +14321,88 @@
 		<Quantity>3</Quantity>
 	</product>
 	<product>
-		<ID>77351</ID>
-		<Name>ΟΜΠΡΕΛΑ ΒΡΟΧΗΣ ΣΠΑΣΤΗ ΜΑΥΡΗ 52cm</Name>
-		<Product_Link>https://www.viosarp.gr/el/product/omprela-brohis-spasti-mayri-52cm-vc755</Product_Link>
-		<Image_Link>https://www.viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753015987.jpg?itok=etgW2FQM</Image_Link>
+		<ID>77351011</ID>
+		<Name>Sidirela Ομπρέλα Βροχής Σπαστή Ε-2109</Name>
+		<Product_Link>https://www.skroutz.gr/s/50779048/Omprela-Vrochis-Spasti-Mayri-37252.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/050779/50779048/fixedratio_20240226125448_omprela_vrochis_spasti_mayri_37252.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.56</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Ένδυσης &gt; Ομπρέλες Βροχής</Category_Path>
-		<Manufacturer>VIOSARP</Manufacturer>
-		<MPN>1131</MPN>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-2109</MPN>
 		<Description>Είναι κατάλληλη για τις βροχερές ημέρες και είναι εύκολη στη μεταφορά της καθώς χωράει σε οποιαδήποτε τσάντα. Για την ορθή συντήρηση τις ομπρέλα σας θα πρέπει πάντα να την αφήνετε ανοιχτή για να στεγνώσει και μετα την κλείνετε.</Description>
-		<Barcode>5206753015987</Barcode>
+		<Barcode>5203642121095</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77352101</ID>
+		<Name>Sidirela Αφρώδη Προστατευτικά Αυτοκόλλητα γωνιών επίπλων σετ 4 τμχ 5X5X2.5cm Γκρι Ε-3761</Name>
+		<Product_Link>https://www.skroutz.gr/s/33950161/Sidirela-E-3761-Prostateytika-gia-Gonies-me-Aytokollito-apo-Plastiko-se-Gri-CHroma-4tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/033950/33950161/xlarge_20220211125637_sidirela_prostateytiko_gonion_e_3761_gri_4tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Παιδικά - Βρεφικά Βρεφικό Δωμάτιο&gt;Προστατευτικά για Μωρά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3761</MPN>
+		<Description>Προστατευτικό γωνιών γκρι σετ 4 τεμ. Ε-3761 SIDIRELA  Χρησιμοποιείται στις αιχμηρές γωνίες των τραπεζιών, κομοδίνων και σκαλοπατιών για την αποφυγή ατυχημάτων.  Από διάφανο ελαστομερές υλικό, ασφαλές και μη τοξικό.  Μεγάλη ελαστικότητα και απαλό.  Δεν επηρεάζει την όψη των επίπλων.  Το σετ περιλαμβάνει 4 τεμάχια.  Χρώμα: γκρι</Description>
+		<Barcode>5203642137614</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77352102</ID>
+		<Name>Sidirela Αφρώδη Προστατευτικά Αυτοκόλλητα γωνιών επίπλων σετ 4 τμχ 5X5X2.5cm Καφέ Ε-3761</Name>
+		<Product_Link>https://www.skroutz.gr/s/42442884/Sidirela-Prostateytika-gia-Gonies-apo-Plastiko-se-Kafe-CHroma-4tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/042442/42442884/xlarge_20230516135427_prostateytika_gia_gonies_apo_plastiko_se_kafe_chroma_4tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Παιδικά - Βρεφικά Βρεφικό Δωμάτιο&gt;Προστατευτικά για Μωρά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-37611</MPN>
+		<Description>Προστατευτικό γωνιών καφέ σετ 4 τεμ. Ε-3761 SIDIRELA  Χρησιμοποιείται στις αιχμηρές γωνίες των τραπεζιών, κομοδίνων και σκαλοπατιών για την αποφυγή ατυχημάτων.  Από διάφανο ελαστομερές υλικό, ασφαλές και μη τοξικό.  Μεγάλη ελαστικότητα και απαλό.  Δεν επηρεάζει την όψη των επίπλων.      Το σετ περιλαμβάνει 4 τεμάχια.     Χρώμα: καφέ</Description>
+		<Barcode>5203642137614</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77352103</ID>
+		<Name>Sidirela Αφρώδης Προστατευτική Αυτοκόλλητη ταινία επίπλων 200cm Γκρι Ε-3762</Name>
+		<Product_Link>https://www.skroutz.gr/s/30461628/Sidirela-Prostateytiki-Epifaneia-me-Aytokollito-apo-Plastiko-se-Gri-CHroma-E-3762.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/030461/30461628/xlarge_20210920161325_sidirela_prostateytiko_afrodes_aichmon_e_3762.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.83</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Παιδικά - Βρεφικά Βρεφικό Δωμάτιο&gt;Προστατευτικά για Μωρά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3762</MPN>
+		<Description>Προστατευτικό γωνίας για την αποτροπή ατυχημάτων από ελαστομερές υλικό σε γκρι ανοιχτό. Η τοποθέτηση γίνεται με αυτοκόλλητη ταινία, εύκολα και γρήγορα. Μη τοξικό.</Description>
+		<Barcode>5203642137621</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77352104</ID>
+		<Name>Sidirela Αφρώδης Προστατευτική Αυτοκόλλητη ταινία επίπλων 200cm Καφέ Ε-3762</Name>
+		<Product_Link>https://www.skroutz.gr/s/51846430/Prostateytika-gia-Gonies-me-Aytokollito-apo-Plastiko-se-Gri-CHroma-2tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/051846/51846430/xlarge_20240329104919_prostateytika_gia_gonies_me_aytokollito_apo_plastiko_se_gri_chroma_2tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.83</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Παιδικά - Βρεφικά Βρεφικό Δωμάτιο&gt;Προστατευτικά για Μωρά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-37621</MPN>
+		<Description>Αυτά τα προστατευτικά κατασκευασμένα από πλαστικό, τοποθετούνται πολύ εύκολα στις γωνίες των επίπλων όπως το τραπεζάκι του σαλονιού,στον πάγκο κλπ, για να προστατέψετε το μωρό που μπουσουλάει ή το παιδάκι που αρχίζει να περπατάει και να τρέχει, από τραυματισμούς. Η τοποθέτηση γίνεται με αυτοκόλλητη ταινία, εύκολα και γρήγορα. Η κόλλα είναι πολύ ισχυρή, παρέχοντάς σας μέγιστη σταθερότητα.</Description>
+		<Barcode>5203642137621</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
