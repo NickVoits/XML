@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-15 10:01</created_at>
+	<created_at>2025-02-15 10:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -845,7 +845,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>690</Quantity>
+		<Quantity>686</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -953,7 +953,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Σόδα Schweppes γκρέιπφρουτ με μέντα.</Description>
 		<Barcode>5449000271174</Barcode>
-		<Quantity>21</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>120233-Τ</ID>
@@ -19131,57 +19131,6 @@
 		<Description>Ελαφρύ και φορητό ηχείο Bluetooth Akai ABTS-806, με ενσωματωμένη μπαταρία 1500mAh για αυτονομία. Ο δυνατός και καθαρός του ήχος με ισχύ 10W το καθιστά κατάλληλο για εσωτερικούς και εξωτερικούς χώρους.</Description>
 		<Barcode>4905192532062</Barcode>
 		<Quantity>11</Quantity>
-	</product>
-	<product>
-		<ID>7996632</ID>
-		<Name>TopTech Smart Τηλεόραση 32" Full HD/HDR/Android TV/DVB-T2/HDMI/2x USB/8GB/WIFI (2024)</Name>
-		<Product_Link>https://www.germanos.gr/product/televisions/televisions/up-to-32/hisense-32a4n-32%E2%80%9D-hd-smart-tv-tileorasi/?productId=20435465&amp;fname=&amp;fvalue=</Product_Link>
-		<Image_Link>https://i.imgur.com/zTwX4n3.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>111.33</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Τηλεοράσεις &amp; Αξεσουάρ &gt; Τηλεοράσεις</Category_Path>
-		<Manufacturer>TOP TECH</Manufacturer>
-		<MPN>1637</MPN>
-		<Description>Απολαύστε εκπληκτική εικόνα 4K Ultra HD με HDR για ζωντανά χρώματα και εξαιρετική αντίθεση. Λειτουργεί με Android TV, προσφέροντας πρόσβαση σε εφαρμογές όπως Netflix και YouTube. Διαθέτει DVB-T2 για επίγεια ψηφιακά κανάλια, 2 θύρες HDMI και 2 USB για συνδέσεις, 8GB αποθηκευτικού χώρου και WiFi για εύκολη σύνδεση στο διαδίκτυο. Ιδανική για μικρούς χώρους με μεγάλες δυνατότητες.</Description>
-		<Barcode>320122024HL040897</Barcode>
-		<Quantity>2</Quantity>
-	</product>
-	<product>
-		<ID>7996643</ID>
-		<Name>TopTech Smart Τηλεόραση 43" Full HD/HDR/Android TV/DVB-T2/HDMI/2x USB/8GB/WIFI (2024)</Name>
-		<Product_Link>https://more4u.gr/shop/tileoraseis/horizonvision-android-tv-43-full-hd/</Product_Link>
-		<Image_Link>https://i.imgur.com/zTwX4n3.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>190.85</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Τηλεοράσεις &amp; Αξεσουάρ &gt; Τηλεοράσεις</Category_Path>
-		<Manufacturer>TOP TECH</Manufacturer>
-		<MPN>1638</MPN>
-		<Description>Ανακαλύψτε καθηλωτική εμπειρία θέασης με ανάλυση 4K Ultra HD και HDR για ζωντανά χρώματα και εκπληκτική ευκρίνεια. Εξοπλισμένη με Android TV για πρόσβαση σε δημοφιλείς εφαρμογές, διαθέτει DVB-T2 για ψηφιακά κανάλια, 2 θύρες HDMI και 2 USB για εύκολη συνδεσιμότητα, 8GB αποθηκευτικού χώρου και WiFi για απρόσκοπτη σύνδεση στο διαδίκτυο. Ιδανική για μοντέρνους χώρους με υψηλές απαιτήσεις.</Description>
-		<Barcode>430122024HL040559</Barcode>
-		<Quantity>2</Quantity>
-	</product>
-	<product>
-		<ID>7996655</ID>
-		<Name>TopTech Smart Τηλεόραση 55" 4K Ultra HD/HDR/Android TV/DVB-T2/HDMI/2x USB/8GB/WIFI (2024)</Name>
-		<Product_Link>https://www.skroutz.gr/s/54741821/TopTech-Smart-Tileorasi-55-4K-UHD-5515HFL-V-HDR.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/054741/54741821/20240704134538_toptech_smart_tileorasi_55_4k_uhd_hdr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>299.28888</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Τηλεοράσεις &amp; Αξεσουάρ &gt; Τηλεοράσεις</Category_Path>
-		<Manufacturer>TOP TECH</Manufacturer>
-		<MPN>1639</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Ρυθμός Ανανέωσης: 50/60Hz    HDR Type: HDR    Λογισμικό: AndroidΟι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί έχει ωραία εικόνα και βλέπεις καλά και από πλαϊνή θέση.</Description>
-		<Barcode>550122024HL040191</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7997001</ID>
