@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-15 14:04</created_at>
+	<created_at>2025-02-15 14:34</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -53,7 +53,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας Άλφα είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
 		<Barcode>5201261801152</Barcode>
-		<Quantity>287</Quantity>
+		<Quantity>285</Quantity>
 	</product>
 	<product>
 		<ID>31075</ID>
@@ -305,7 +305,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>1692</Quantity>
+		<Quantity>1684</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -845,7 +845,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>676</Quantity>
+		<Quantity>672</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -863,7 +863,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>443</Quantity>
+		<Quantity>439</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -2123,7 +2123,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>2043</Quantity>
+		<Quantity>2035</Quantity>
 	</product>
 	<product>
 		<ID>18022</ID>
@@ -2141,7 +2141,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
-		<Quantity>1734</Quantity>
+		<Quantity>1722</Quantity>
 	</product>
 	<product>
 		<ID>18101</ID>
@@ -2339,7 +2339,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>4168</Quantity>
+		<Quantity>4136</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -4660,7 +4660,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>435</Quantity>
+		<Quantity>433</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -4694,7 +4694,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<Barcode>5000267024202</Barcode>
-		<Quantity>455</Quantity>
+		<Quantity>452</Quantity>
 	</product>
 	<product>
 		<ID>550531</ID>
@@ -7406,7 +7406,7 @@
 		<MPN>0042</MPN>
 		<Description>Το υγρό καθαρισμού χερίων REX HAND προσφέρει απόλαυση στο πλύσιμο των χεριών.Η εμπλουτισμένη σύνθεσή του με ενυδατικά συστατικά φροντίζει το δέρμα σας και δημιουργεί ένα πλούσιο κρεμώδη αφρό που καθαρίζει απαλά και σε βάθος τα χέρια σας.Το ph του REX HAND είναι ουδέτερο και γι’ αυτό το λόγο διατηρείται η φυσική υγρασία του δέρματος. Τα μοναδικά του αρώματα του REX HAND αφήνουν στα χέρια σας μια μοναδική μυρωδιά και μια αίσθηση εκλεπτυσμένης πολυτέλειας.</Description>
 		<Barcode>5200250704108</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>65122</ID>
@@ -7423,7 +7423,7 @@
 		<MPN>0030</MPN>
 		<Description>Το υγρό καθαρισμού χερίων REX HAND προσφέρει απόλαυση στο πλύσιμο των χεριών.Η εμπλουτισμένη σύνθεσή του με ενυδατικά συστατικά φροντίζει το δέρμα σας και δημιουργεί ένα πλούσιο κρεμώδη αφρό που καθαρίζει απαλά και σε βάθος τα χέρια σας.Το ph του REX HAND είναι ουδέτερο και γι’ αυτό το λόγο διατηρείται η φυσική υγρασία του δέρματος. Τα μοναδικά του αρώματα του REX HAND αφήνουν στα χέρια σας μια μοναδική μυρωδιά και μια αίσθηση εκλεπτυσμένης πολυτέλειας.</Description>
 		<Barcode>5200250704108</Barcode>
-		<Quantity>14</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>65501</ID>
@@ -8684,23 +8684,6 @@
 		<Quantity>25</Quantity>
 	</product>
 	<product>
-		<ID>67161</ID>
-		<Name>Aroma Λεπτόρρευστη Κρέμα Προσώπου Ημέρας για Ενυδάτωση, Αντιγήρανση &amp; Ατέλειες με Υαλουρονικό Οξύ &amp; Κολλαγόνο 50ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/28671925/Aroma-Leptorreysti-Krema-Prosopou-Imeras-gia-Enydatosi-Antigiransi-Ateleies-me-Yalouroniko-Oxy-Kollagono-50ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/028671/28671925/20230111091305_aroma_anti_wrinkle_nourishing_day_cream_50ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.740023999999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Προσώπου &gt; Κρέμες Προσώπου</Category_Path>
-		<Manufacturer>AROMA</Manufacturer>
-		<MPN>1007</MPN>
-		<Description>Κρέμα προσώπου ημέρας της εταιρείας Aroma. Εμπλουτισμένη με υαλουρονικό οξύ και κολλαγόνο προσφέρει άμεση ενυδάτωση του δέρματος και λειαίνει τις ρυτίδες και τις λεπτές γραμμές ενώ παράλληλα δρα καταπολεμώντας τις ατέλειες.Βασικά Χαρακτηριστικά:• Τύπος επιδερμίδας: Όλοι οι τύποι• Κατάλληλη για ηλικίες: 40+• Όγκος: 50 ml</Description>
-		<Barcode>5208005100465</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>67201</ID>
 		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17339634/Aroma-Bio-Enydatiki-Krema-CHerion-Honey-Yogurt-200ml.html</Product_Link>
@@ -8784,6 +8767,23 @@
 		<Description>Η κρέμα χεριών και νυχιών Bio Hand &amp; Nail, της εταιρείας Aroma, χάρη στην ενυδατική και αναπλαστική της δράση, επανορθώνει και προστατεύει τα ξηρά, σκασμένα και ταλαιπωρημένα χέρια.Τα χέρια επανορθώνονται και ανακτούν την απαλότητά τους ενώ ταυτόχρονα η επιδερμίδα προστατεύεται καλύτερα από τις μελλοντικές εξωτερικές επιθέσεις.Δράση: Ανάπλαση, ΕνυδάτωσηΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5208005110198</Barcode>
 		<Quantity>16</Quantity>
+	</product>
+	<product>
+		<ID>67214</ID>
+		<Name>Aroma Bio Arnica leg therapy κρέμα με Arnica, ανακουφίζει κουρασμένα πόδια, επουλώνει μελανιές και μώλωπες 75ml</Name>
+		<Product_Link>https://www.sklavenitis.gr/kallyntika-eidi-prosopikis-ygieinis/frontida-somatos/kremes-cherion-vazelini/aroma-arnica-leg-therapy-krema-gia-podia-gabes-75ml/</Product_Link>
+		<Image_Link>https://s1.sklavenitis.gr/images/1600x1600/files/ProductMedia/Products/1568217/2.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.74</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Χεριών</Category_Path>
+		<Manufacturer>AROMA</Manufacturer>
+		<MPN>1767</MPN>
+		<Description>Η κρέμα Arnica leg therapy, με Arnica &amp; Tea Tree oil είναι ιδανική για μώλωπες, και μυϊκούς πόνους. Ανακουφίζει και δροσίζει τα κουρασμένα και πρησμένα πόδια από την έντονη άσκηση και ορθοστασία, έχει πολύ ωραίο άρωμα.</Description>
+		<Barcode>5201008110202</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>67231</ID>
@@ -9014,7 +9014,7 @@
 		<MPN>1084</MPN>
 		<Description>Γάντια πολυαιθυλενίου μιας χρήσης σε διάφανο χρώμα, τα οποία έχουν χαλαρή φόρμα για εύκολη εφαρμογή, είναι φιλικά προς το δέρμα και είναι ιδανικά κυρίως για χρήση σε εργασίες που απαιτούν συχνές αλλαγές γαντιών όπως η επαφή με μπογιές, χρώματα ή τρόφιμα.</Description>
 		<Barcode>5202054454876</Barcode>
-		<Quantity>418</Quantity>
+		<Quantity>398</Quantity>
 		<Size>One Size</Size>
 	</product>
 	<product>
@@ -18195,7 +18195,7 @@
 		<MPN>1706</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Φόρτιση έως 5V 3A     QuickCharge 3.0/2.0     Μεταφορά δεδομένων έως 480Mbps  Καλώδιο για μεταφορά δεδομένων και φόρτιση συσκευών με θύρα Type-C.</Description>
 		<Barcode>6957303861262</Barcode>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>799511402</ID>
