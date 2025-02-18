@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-18 13:05</created_at>
+	<created_at>2025-02-18 14:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -395,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>1648</Quantity>
+		<Quantity>1640</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -701,7 +701,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171331237</Barcode>
-		<Quantity>462</Quantity>
+		<Quantity>458</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -809,7 +809,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>724</Quantity>
+		<Quantity>718</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -1043,7 +1043,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000131836</Barcode>
-		<Quantity>109</Quantity>
+		<Quantity>105</Quantity>
 	</product>
 	<product>
 		<ID>12034-Τ</ID>
@@ -2645,7 +2645,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>1287</Quantity>
+		<Quantity>1281</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2717,7 +2717,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>255</Quantity>
+		<Quantity>249</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -6658,7 +6658,7 @@
 		<MPN>1678</MPN>
 		<Description>Ένας αφρός ξυρίσματος για βαθύ και εξαιρετικά ευχάριστο ξύρισμα που προστατεύει από εκδορές, μικρο-κοψίματα και ερεθισμούς</Description>
 		<Barcode>4005808222490</Barcode>
-		<Quantity>152</Quantity>
+		<Quantity>150</Quantity>
 	</product>
 	<product>
 		<ID>62121</ID>
@@ -7185,7 +7185,7 @@
 		<MPN>0479</MPN>
 		<Description>• Αλκοολούχος λοσιόν Open Care• Ιδανική για μασάζ.• Με άρωμα χαμομηλιού.</Description>
 		<Barcode>5208054000150</Barcode>
-		<Quantity>190</Quantity>
+		<Quantity>189</Quantity>
 	</product>
 	<product>
 		<ID>64162</ID>
@@ -8443,7 +8443,7 @@
 		<MPN>1252</MPN>
 		<Description>Περιποιητικό κρεμώδες αφρόλουτρο που προσφέρει στην επιδερμίδα φρεσκάδα και απαλότητα.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και διαρκεί ικανοποιητικά το άρωμά του.</Description>
 		<Barcode>4005808917204</Barcode>
-		<Quantity>388</Quantity>
+		<Quantity>386</Quantity>
 	</product>
 	<product>
 		<ID>67015</ID>
@@ -8852,7 +8852,7 @@
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<Barcode>5202054454852</Barcode>
-		<Quantity>179</Quantity>
+		<Quantity>178</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -9138,7 +9138,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>10038</Quantity>
+		<Quantity>10037</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -9670,7 +9670,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>1336</Quantity>
+		<Quantity>1335</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -9688,7 +9688,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055213</Barcode>
-		<Quantity>1263</Quantity>
+		<Quantity>1262</Quantity>
 	</product>
 	<product>
 		<ID>71024</ID>
@@ -9706,7 +9706,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055244</Barcode>
-		<Quantity>1506</Quantity>
+		<Quantity>1505</Quantity>
 	</product>
 	<product>
 		<ID>71025</ID>
@@ -9724,7 +9724,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>843</Quantity>
+		<Quantity>842</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -9742,7 +9742,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα.</Description>
 		<Barcode>8008970055268</Barcode>
-		<Quantity>728</Quantity>
+		<Quantity>727</Quantity>
 	</product>
 	<product>
 		<ID>71027</ID>
@@ -9974,7 +9974,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>421</Quantity>
+		<Quantity>417</Quantity>
 	</product>
 	<product>
 		<ID>712322</ID>
@@ -17617,7 +17617,7 @@
 		<MPN>1403</MPN>
 		<Description>Αλκαλικές μπαταρίες D ιδανικές για χρήση σε ραδιορολόγια, παιχνίδια και φακούς. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<Barcode>5410853039211</Barcode>
-		<Quantity>81</Quantity>
+		<Quantity>79</Quantity>
 	</product>
 	<product>
 		<ID>7990901</ID>
@@ -18586,7 +18586,7 @@
 		<MPN>1762</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Αντάπτορας Bluetooth από AUX σε USB     Σύνδεση έως 2 συσκευών ταυτόχρονα     Εμβέλεια Bluetooth έως 10 μέτρα     Λυχνία LED ένδειξης λειτουργίας</Description>
 		<Barcode>6957303876013</Barcode>
-		<Quantity>18</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>799515201</ID>
