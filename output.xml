@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-22 11:05</created_at>
+	<created_at>2025-02-22 11:08</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2717,7 +2717,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>132</Quantity>
+		<Quantity>126</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -3021,7 +3021,7 @@
 		<MPN>1665</MPN>
 		<Description>Ένα ισορροπημένο λευκό κρασί, με γεμάτη γεύση φίνο άρωμα και διαυγές χρώμα. Προέρχεται από τοπικούς αμπελώνες της ποικιλίας Ροδίτης.</Description>
 		<Barcode>5202924031473</Barcode>
-		<Quantity>1573</Quantity>
+		<Quantity>1561</Quantity>
 	</product>
 	<product>
 		<ID>43003</ID>
