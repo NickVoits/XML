@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-22 12:05</created_at>
+	<created_at>2025-02-22 12:08</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1673,7 +1673,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>•32 mg/100 ml καφεΐνη•Βιταμίνες Β2, Β3, Β5, Β6, Β12•Δεν περιέχει συντηρητικά•Φιλική για το περιβάλλον συσκευασία</Description>
 		<Barcode>5999884034469</Barcode>
-		<Quantity>8753</Quantity>
+		<Quantity>8729</Quantity>
 	</product>
 	<product>
 		<ID>15201</ID>
@@ -1691,7 +1691,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:•Ενεργειακό Ποτό•Υψηλή Περιεκτικότητα σε Καφεΐνη•Περιέχει Ταυρίνη &amp; L-Καρνιτίνη•Πλούσιο σε Βιταμίνες B</Description>
 		<Barcode>5060166692384</Barcode>
-		<Quantity>1482</Quantity>
+		<Quantity>1476</Quantity>
 	</product>
 	<product>
 		<ID>16201</ID>
@@ -2717,7 +2717,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>126</Quantity>
+		<Quantity>108</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
