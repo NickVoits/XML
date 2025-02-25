@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-24 16:54</created_at>
+	<created_at>2025-02-25 08:41</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -19470,6 +19470,7 @@
 		<MPN>MRLXT310MS</MPN>
 		<Description>Τα τόνερ MediaRange αναπαράγουν τα έγγραφά σας σε φωτεινά πλούσια χρώματα.  Είναι κατασκευασμένα ειδικά για κάθε μοντέλο εκτυπωτή, διευκολύνοντας την αντικατάστασή τους.  Κατάλληλα για χρήση σε:      Εκτυπωτές laser     Φωτοαντιγραφικά μηχανήματα     Πολυμηχανήματα</Description>
 		<Barcode>4260459612018</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79999101</ID>
@@ -19486,6 +19487,7 @@
 		<MPN>FNK72145</MPN>
 		<Description>Φιγούρα 1st Appearance της σειράς Pop! της Funko. • Υλικό: Βινύλιο • Ύψος: περίπου 10 εκ. • Κατάλληλο για ηλικίες 3</Description>
 		<Barcode>889698372145</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79999102</ID>
@@ -19502,6 +19504,7 @@
 		<MPN>FNK76076</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Spider-Man No Way Home     Συλλεκτική έκδοση Special Edition     Υλικό: Βινύλιο     Εικονογραφημένο κουτί με παράθυρο     Ύψος: περίπου 10 εκ.     Κατάλληλο για ηλικίες 3+</Description>
 		<Barcode>889698676076</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79999121</ID>
@@ -19518,6 +19521,7 @@
 		<MPN>FNK50434</MPN>
 		<Description>Φιγούρα Pikachu της σειράς Pop! της Funko.      Υλικό: Βινύλιο     Ύψος: περίπου 10 εκ.     Κατάλληλο για ηλικίες 3+</Description>
 		<Barcode>889698650434</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79999122</ID>
@@ -19534,6 +19538,7 @@
 		<MPN>FNK42191</MPN>
 		<Description>Ηλικία: Από 3 ετών.  Χρώμα: Πολύχρωμα.  Τύπος: Χαρακτήρες.  Για ποιον: Universal.</Description>
 		<Barcode>889698742191</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>80302</ID>
@@ -21097,7 +21102,7 @@
 		<MPN>1630</MPN>
 		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι.</Description>
 		<Barcode>5201219046055</Barcode>
-		<Quantity>432</Quantity>
+		<Quantity>240</Quantity>
 	</product>
 	<product>
 		<ID>87002</ID>
