@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-26 16:05</created_at>
+	<created_at>2025-02-26 16:29</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2362,7 +2362,7 @@
 	<product>
 		<ID>21501011</ID>
 		<Name>ΔΟΥΜΠΙΑ Ανθρακούχο Φυσικό Μεταλλικό Νερό 250ml</Name>
-		<Product_Link>https://www.doubia.gr/</Product_Link>
+		<Product_Link>https://www.skroutz.gr/s/24774189/Doumpia-Anthrakoucho-Nero-se-Gyalino-Mpoukali-0-25lt.html</Product_Link>
 		<Image_Link>https://www.doubia.gr/wp-content/uploads/2023/03/250mL.png</Image_Link>
 		<Additional>https://www.doubia.gr/wp-content/uploads/2024/06/Gr-home-table.png, https://www.doubia.gr/wp-content/uploads/2025/02/Doubia-main-image.png</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2380,7 +2380,7 @@
 	<product>
 		<ID>21501031</ID>
 		<Name>ΔΟΥΜΠΙΑ Ανθρακούχο Φυσικό Μεταλλικό Νερό 750ml</Name>
-		<Product_Link>https://www.doubia.gr/</Product_Link>
+		<Product_Link>https://www.skroutz.gr/s/44038801/Doumpia-Anthrakoucho-Nero-Fysiko-Metalliko-se-Gyalino-Mpoukali-0-75lt.html</Product_Link>
 		<Image_Link>https://www.doubia.gr/wp-content/uploads/2023/03/750mL.png</Image_Link>
 		<Additional>https://www.doubia.gr/wp-content/uploads/2024/06/Gr-home-table.png, https://www.doubia.gr/wp-content/uploads/2025/02/Doubia-main-image.png</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -7357,7 +7357,7 @@
 		<MPN>0086</MPN>
 		<Description>Η μάσκα έχει μαλακή κατασκευή που διευκολύνει την αναπνοή. Επιπλέον, μπορεί να πλυθεί και να επαναχρησιμοποιηθεί. Διατίθεται σε κόκκινο χρώμα.</Description>
 		<Barcode>5206753030539</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>64501</ID>
@@ -9191,7 +9191,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>8384</Quantity>
+		<Quantity>8378</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -9209,7 +9209,7 @@
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<Barcode>5203650102833</Barcode>
-		<Quantity>386</Quantity>
+		<Quantity>350</Quantity>
 	</product>
 	<product>
 		<ID>70012</ID>
@@ -9295,7 +9295,7 @@
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>1829</Quantity>
+		<Quantity>1793</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -10321,7 +10321,7 @@
 		<MPN>1100</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
 		<Barcode>4084500719200</Barcode>
-		<Quantity>947</Quantity>
+		<Quantity>943</Quantity>
 	</product>
 	<product>
 		<ID>72003</ID>
@@ -11436,7 +11436,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>26.05</Price>
+		<Price>24.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -12777,7 +12777,7 @@
 		<MPN>0966</MPN>
 		<Description>Με αρωματική λεβάντα προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Η αρωματική λεβάντα προσθέτει ένα ευχάριστο άρωμα και βοηθά στην εξουδετέρωση οσμών από τα απορρίμματα. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001369</Barcode>
-		<Quantity>542</Quantity>
+		<Quantity>538</Quantity>
 	</product>
 	<product>
 		<ID>76004</ID>
@@ -12811,7 +12811,7 @@
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<Barcode>5200128643119</Barcode>
-		<Quantity>1554</Quantity>
+		<Quantity>1547</Quantity>
 	</product>
 	<product>
 		<ID>76012</ID>
@@ -14801,7 +14801,7 @@
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 250ml.</Description>
 		<Barcode>5203124503005</Barcode>
-		<Quantity>1795</Quantity>
+		<Quantity>1790</Quantity>
 	</product>
 	<product>
 		<ID>78131</ID>
@@ -15506,7 +15506,7 @@
 		<MPN>1569</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας HOMie, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 38εκ.    Μήκος(εκατοστά): 42εκ.    Τεμάχια: 18τμχ</Description>
 		<Barcode>5202887031831</Barcode>
-		<Quantity>1317</Quantity>
+		<Quantity>1314</Quantity>
 	</product>
 	<product>
 		<ID>78927</ID>
@@ -21067,7 +21067,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Τα χταποδάκια MIDI σε πικάντικη σάλτσα, σε συσκευασία των 185 γραμμαρίων, προσφέρουν μια νόστιμη και γευστική εμπειρία. Είναι τεμαχισμένα, βρασμένα και τυλιγμένα σε μια πικάντικη σάλτσα που προσδίδει πλούσια γεύση και αρωματικότητα. Είναι ιδανικά για σερβίρισμα ως ορεκτικό ή συνοδευτικό πιάτο σε μεσογειακά γεύματα. Το συγκεκριμένο προϊόν προσφέρει ευκολία στη χρήση και μπορεί να απολαυστεί ως γευστική επιλογή για διάφορες περιστάσεις.</Description>
 		<Barcode>3859888140219</Barcode>
-		<Quantity>54</Quantity>
+		<Quantity>50</Quantity>
 	</product>
 	<product>
 		<ID>85260</ID>
@@ -21103,7 +21103,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Μια γευστική εμπειρία με πλούσια αρώματα και γεύσεις. Τα φασόλια γίγαντες είναι επιλεγμένα και τυλιγμένα σε μια εύκολα απολαυστική σάλτσα, προσφέροντας μια νόστιμη και θρεπτική επιλογή. Μπορούν να χρησιμοποιηθούν ως συνοδευτικό πιάτο σε μεσογειακές διατροφικές επιλογές ή να προστεθούν σε σούπες και σαλάτες για περισσότερη γεύση και θρεπτική αξία.</Description>
 		<Barcode>5201051093378</Barcode>
-		<Quantity>39</Quantity>
+		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>85271</ID>
@@ -21401,7 +21401,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή από την Morando•Συσκευασία: Κονσέρβα•Ποσότητα: 1τμχ•Βάρος: 405gr</Description>
 		<Barcode>8007520011105</Barcode>
-		<Quantity>1928</Quantity>
+		<Quantity>1918</Quantity>
 	</product>
 	<product>
 		<ID>9902201</ID>
@@ -21509,6 +21509,6 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
-		<Quantity>1322</Quantity>
+		<Quantity>1312</Quantity>
 	</product>
 </mywebstore>
