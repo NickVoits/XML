@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-26 09:05</created_at>
+	<created_at>2025-02-26 09:17</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -863,7 +863,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>1307</Quantity>
+		<Quantity>1306</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -1655,7 +1655,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<Barcode>90415708</Barcode>
-		<Quantity>9820</Quantity>
+		<Quantity>9814</Quantity>
 	</product>
 	<product>
 		<ID>15101</ID>
@@ -3055,7 +3055,7 @@
 		<MPN>1615</MPN>
 		<Description>Το Syrah του Κτήματος Αβαντίς, είναι το κρασί που καθιέρωσε τον δημιουργό του Απόστολο Μούντριχα στον οινόφιλο κόσμο. Πλούσιο και στιβαρό υποδηλώνει έντονα την παρουσία του.</Description>
 		<Barcode>5200101770030</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>36</Quantity>
 	</product>
 	<product>
 		<ID>46005</ID>
@@ -4090,7 +4090,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>2267</Quantity>
+		<Quantity>2243</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -4162,7 +4162,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>3355</Quantity>
+		<Quantity>3331</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -4522,7 +4522,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207612016</Barcode>
-		<Quantity>1093</Quantity>
+		<Quantity>1069</Quantity>
 	</product>
 	<product>
 		<ID>52903</ID>
@@ -4660,7 +4660,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>398</Quantity>
+		<Quantity>397</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -9566,7 +9566,7 @@
 		<MPN>0444</MPN>
 		<Description>Τραπεζομάντιλο επαγγελματικής χρήσης.Χαρακτηριστικά:Διαστάσεις: 100x100 cmΧρώμα: λευκόΠοιότητα: χαρτί με νάυλονΤραπεζομάντιλα ανά συσκευασία: 150</Description>
 		<Barcode>5202995007889</Barcode>
-		<Quantity>91</Quantity>
+		<Quantity>90</Quantity>
 	</product>
 	<product>
 		<ID>70904</ID>
@@ -11390,7 +11390,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>318</Quantity>
+		<Quantity>317</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -11407,7 +11407,7 @@
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<Barcode>4023103156487</Barcode>
-		<Quantity>689</Quantity>
+		<Quantity>688</Quantity>
 	</product>
 	<product>
 		<ID>74111</ID>
@@ -14034,7 +14034,7 @@
 		<MPN>E-4354</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Υλικό επιφάνειας: Μοριοσανίδα     Υλικό σκελετού: Μέταλλο     Διαστάσεις: 40x30x60εκ.</Description>
 		<Barcode>5203642143547</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>77001111</ID>
@@ -19011,7 +19011,7 @@
 		<MPN>1736</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Κατασκευασμένη από κράμα αλουμινίου     Δυνατότητα κλίσης έως 180 μοίρες     Συμβατή με tablets 7"-11"     Διαθέτει προστατευτικά σιλικόνης</Description>
 		<Barcode>6957303843930</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7996101</ID>
@@ -21402,7 +21402,7 @@
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<Barcode>5202546009133</Barcode>
-		<Quantity>183</Quantity>
+		<Quantity>181</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
