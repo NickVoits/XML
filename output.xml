@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-02-26 09:36</created_at>
+	<created_at>2025-02-26 09:47</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -4038,6 +4038,7 @@
 		<MPN>101122003</MPN>
 		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
 		<Barcode>5202037000052</Barcode>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>47952</ID>
@@ -4412,7 +4413,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5202037130063</Barcode>
-		<Quantity>745</Quantity>
+		<Quantity>721</Quantity>
 	</product>
 	<product>
 		<ID>52401</ID>
@@ -5690,7 +5691,7 @@
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
 		<MPN>1656</MPN>
-		<Description>#N/A</Description>
+		<Description>Το κόκκινο κρασί της ετικέτας Ζίτσα είναι ημίγλυκο με διακριτικές γεύσεις μοσχοκάρυδου και κανέλας, μέτριας οξύτητας και μαλακές τανίνες. Η αγιωργίτικη ποικιλία συνδυάζεται υπέροχα με ψητά κρέατα, σάλτσες τομάτας και καρυκευμένες κουζίνες από τη Μέση Ανατολή μέχρι την Ινδία. Σερβίρεται στους 15-20°C.</Description>
 		<Barcode>5201214100431</Barcode>
 		<Quantity>15</Quantity>
 	</product>
@@ -17433,7 +17434,7 @@
 		<Quantity>17</Quantity>
 	</product>
 	<product>
-		<ID>7973511</ID>
+		<ID>7973510</ID>
 		<Name>Lime Mini Μπαλαντέζα Καρούλι Κλειστού Τύπου 4 Θέσεων με Καλώδιο 10m Διατομής 3x1.5mm² Μαύρη</Name>
 		<Product_Link>https://www.skroutz.gr/s/30265650/Lime-Mini-Mpalanteza-Karouli-Kleistou-Typou-4-THeseon-me-Kalodio-10m-Diatomis-3x1-5mm2-Mayri-LS-RE10M.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/030265/30265650/20210728162245_lime_mini_10_0m_3x1_5mm_mayro.jpeg</Image_Link>
@@ -17447,6 +17448,7 @@
 		<MPN>1541</MPN>
 		<Description>Μπαλαντέζα σε καρούλι, κλειστού τύπου, με θέσεις για 4 πρίζες και καλώδιο μήκους 10 μέτρων, σε μαύρο χρώμα. Το καλώδιο έχει διατομή 1.5mm² που σημαίνει πως η μέγιστη κατανάλωση των συνδεδεμένων συσκευών δεν θα πρέπει να υπερβαίνει τα 3600W που ισοδυναμούν, για παράδειγμα, με την ισχύ που απαιτεί ένα στεγνωτήριο ρούχων για να λειτουργήσει.    Διατομή Καλωδίου: 3 x 1.5mm²    Μήκος: 10m</Description>
 		<Barcode>5205308280146</Barcode>
+		<Quantity>8</Quantity>
 	</product>
 	<product>
 		<ID>7973515</ID>
@@ -21507,5 +21509,25 @@
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
 		<Quantity>1322</Quantity>
+	</product>
+	<product>
+		<ID>=COUNTBLANK(A2:A1240)</ID>
+		<Name>=COUNTBLANK(B2:B1240)</Name>
+		<Product_Link>=COUNTBLANK(C2:C1240)</Product_Link>
+		<Image_Link>=COUNTBLANK(D2:D1240)</Image_Link>
+		<Additional>=COUNTBLANK(E2:E1240)</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>=COUNTBLANK(F2:F1240)</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>=COUNTBLANK(G2:G1240)</ΤΕΜΑΧΙΑ>
+		<VAT>=COUNTBLANK(H2:H1240)</VAT>
+		<Price>=COUNTBLANK(I2:I1240)</Price>
+		<Availability>=COUNTBLANK(J2:J1240)</Availability>
+		<Category_Path>=COUNTBLANK(K2:K1240)</Category_Path>
+		<Manufacturer>=COUNTBLANK(L2:L1240)</Manufacturer>
+		<MPN>=COUNTBLANK(M2:M1240)</MPN>
+		<Weight>=COUNTBLANK(N2:N1240)</Weight>
+		<Description>=COUNTBLANK(O2:O1240)</Description>
+		<Barcode>=COUNTBLANK(P2:P1240)</Barcode>
+		<Quantity>=COUNTBLANK(Q2:Q1240)</Quantity>
+		<Size>=COUNTBLANK(R2:R1240)</Size>
 	</product>
 </mywebstore>
