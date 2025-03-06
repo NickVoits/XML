@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-03-05 16:43</created_at>
+	<created_at>2025-03-06 08:34</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -63,7 +63,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.18</Price>
+		<Price>1.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΜΗΛΟΚΛΕΦΤΗΣ</Manufacturer>
@@ -99,7 +99,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.13</Price>
+		<Price>2.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>MCFARLAND</Manufacturer>
@@ -171,7 +171,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.75</Price>
+		<Price>0.84</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
@@ -189,7 +189,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.36</Price>
+		<Price>3.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
@@ -207,7 +207,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.56</Price>
+		<Price>0.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
@@ -395,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>816</Quantity>
+		<Quantity>815</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -467,7 +467,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>644</Quantity>
+		<Quantity>643</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -809,7 +809,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>704</Quantity>
+		<Quantity>692</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -827,7 +827,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000133335</Barcode>
-		<Quantity>125</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>12021-Τ</ID>
@@ -917,7 +917,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214775</Barcode>
-		<Quantity>246</Quantity>
+		<Quantity>240</Quantity>
 	</product>
 	<product>
 		<ID>12023-Τ</ID>
@@ -1367,7 +1367,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<Barcode>5201946910315</Barcode>
-		<Quantity>159</Quantity>
+		<Quantity>157</Quantity>
 	</product>
 	<product>
 		<ID>13033</ID>
@@ -1511,7 +1511,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>422</Quantity>
+		<Quantity>420</Quantity>
 	</product>
 	<product>
 		<ID>13038</ID>
@@ -1889,7 +1889,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908110019</Barcode>
-		<Quantity>1376</Quantity>
+		<Quantity>1374</Quantity>
 	</product>
 	<product>
 		<ID>17072</ID>
@@ -1907,7 +1907,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908110002</Barcode>
-		<Quantity>554</Quantity>
+		<Quantity>552</Quantity>
 	</product>
 	<product>
 		<ID>17073</ID>
@@ -1943,7 +1943,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<Barcode>5202908000112</Barcode>
-		<Quantity>679</Quantity>
+		<Quantity>677</Quantity>
 	</product>
 	<product>
 		<ID>17075</ID>
@@ -2529,7 +2529,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.87</Price>
+		<Price>1.966637015414652</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2547,7 +2547,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.91</Price>
+		<Price>2.011333311219531</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2565,7 +2565,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.91</Price>
+		<Price>2.011333311219531</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2583,7 +2583,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.91</Price>
+		<Price>2.011333311219531</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2699,7 +2699,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413040181</Barcode>
-		<Quantity>353</Quantity>
+		<Quantity>347</Quantity>
 	</product>
 	<product>
 		<ID>40104</ID>
@@ -2735,7 +2735,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ημίγλυκο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα γλυκό και αρωματικό κρασί με φρουτώδεις νότες και ελαφρώς γλυκιές αποχρώσεις. Με την απαλή του γεύση και το φωτεινό του χρώμα, αποτελεί μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης.</Description>
 		<Barcode>5203413010610</Barcode>
-		<Quantity>136</Quantity>
+		<Quantity>134</Quantity>
 	</product>
 	<product>
 		<ID>40221</ID>
@@ -2753,7 +2753,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>153</Quantity>
+		<Quantity>147</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -2817,7 +2817,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.2</Price>
+		<Price>12.14657399808</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -2835,7 +2835,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.19</Price>
+		<Price>13.057567047936</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -2853,7 +2853,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.06</Price>
+		<Price>14.778331697664</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -2871,7 +2871,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.85</Price>
+		<Price>13.66489574784</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -2889,7 +2889,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.37</Price>
+		<Price>26.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2907,7 +2907,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>25.07</Price>
+		<Price>23.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2943,7 +2943,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>25.25</Price>
+		<Price>21.66139029657599</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -2961,7 +2961,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.39</Price>
+		<Price>23.230322771328</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -2979,7 +2979,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>26.57</Price>
+		<Price>26.115134095872</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -2997,7 +2997,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.26</Price>
+		<Price>19.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
@@ -3015,7 +3015,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.23</Price>
+		<Price>20.46</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
@@ -3033,7 +3033,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.14</Price>
+		<Price>7.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΜΠΟΥΤΑΡΗ</Manufacturer>
@@ -3193,7 +3193,7 @@
 		<MPN>1316</MPN>
 		<Description>To λευκό του Κτήματος Βιβλία Χώρα αποτελεί ένα αρωματικό και φρέσκο κρασί, φτιαγμένο για όλες τις στιγμές. Παράγεται από το πάντρεµα της αρωματικής ποικιλίας Sauvignon Blanc και του πληθωρικού Ασύρτικου. Το χρώμα του, είναι απαλό πρασινοκίτρινο, µε έντονη διαύγεια. Έντονα αρώματα τροπικών φρούτων, γκρέιπφρουτ, εναλλάσσονται µε νότες εσπεριδοειδών &amp;  λεμονιού. Σερβίρεται στους 10οC και προτείνεται να καταναλωθεί σε 2 χρόνια. Πίνεται σκέτο ως απεριτίφ, ενώ μπορεί να συνοδεύσει εξαιρετικά πλατό τυριών, ριζοτο και θαλασσινά,.</Description>
 		<Barcode>5200101710012</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>46272</ID>
@@ -3227,7 +3227,7 @@
 		<MPN>1318</MPN>
 		<Description>Λευκός Οίνος από τον συνδυασμό δύο ελληνικών ποικιλιών, της Μαλαγουζιάς και του Ασύρτικου.Μετά την προζυμωτική κρυοεκχύλιση, η οινοποίηση εκτυλίσσεται σε ανοξείδωτες ψυχόμενες δεξαμενές σε θερμοκρασία γύρω στους 18°C. Το κρασί έχει λαμπερό αχνόξανθο χρώμα με πρασινωπές ανταύγειες. Η «μύτη» του είναι εκφραστική με εναλλασσόμενες εντυπώσεις, καθώς δίπλα στα εξωτικά φρούτα περνούν νότες πιπεριάς, γιασεμιού, πορτοκαλιού, πεπονιού, βοτάνων και λεμονιού.Η πρώτη επαφή στο στόμα αποπνέει ευγένεια, ενώ η συνολική παρουσία χαρακτηρίζεται από πλούτο, αρμονία, ευχάριστη ζωντάνια και λεμονάτο τελείωμα. Προτείνεται η κατανάλωση στα πρώτα 2 χρόνια της ζωής του.Σερβίρεται στους 8-10°C.</Description>
 		<Barcode>5204222575017</Barcode>
-		<Quantity>39</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>46302</ID>
@@ -3444,7 +3444,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.94</Price>
+		<Price>7.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
@@ -3461,7 +3461,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.56</Price>
+		<Price>9.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
@@ -3478,7 +3478,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.61</Price>
+		<Price>13.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΕΧΡΗΣ</Manufacturer>
@@ -4372,12 +4372,27 @@
 		<Price>5.21</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>ΑΓΙΟΝΕΡΙ</Manufacturer>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
 		<MPN>0039</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Το Αγιονέρι είναι τσίπουρο μικρής παραγωγής που αποστάζεται στην αμπελουργική ζώνη των Μετεωρών. Η παλαίωση του σε δρύινα βαρέλια του χάρισε πολυπλοκότητα και βάθος με ενδιαφέρον αρώματα πικάντικων μπαχαρικών και αποξηραμένων φρούτων. Ένα βελούδινο και κομψό παλαιωμένο τσίπουρο με φρουτώδη χαρακτήρα, ιδανικό να συνοδεύσει αρμονικά ορεκτικά και ελληνικούς μεζέδες.</Description>
 		<Barcode>5202548102047</Barcode>
 		<Quantity>93</Quantity>
+	</product>
+	<product>
+		<ID>52271</ID>
+		<Name>Τσιλιλής Τσίπουρο χωρίς Γλυκάνισο Dark Cave 5 Ετών 41% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5352687/Tsililis-Tsipouro-choris-Glykaniso-Dark-Cave-5-Eton-41-700ml.html#reviews</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005352/5352687/xlarge_20211026171114_tsililis_dark_cave_palaiomeno_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>43.32</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
+		<Description>Το παλαιωμένο τσίπουρο Dark Cave από την αποσταγματοποιία Τσιλιλή παράγεται από φρέσκα ζυμωμένα στέμφυλα σταφυλιών υψηλής ποιότητας της Θεσσαλίας.  Αποστάζεται σε μικρούς ασυνεχείς χάλκινους άμβυκες μέσω μιας αργής, υπομονετικής διαδικασίας για να διατηρηθούν και αναδειχθούν τα φρέσκα και γλυκά αρώματα.  Η διαδικασία της ωρίμανσης γίνεται σε προσεκτικά επιλεγμένα γαλλικά και αμερικανικά δρύινα βαρέλια, όπου προηγουμένως έχουν φιλοξενηθεί ερυθροί οίνοι καθώς και Vinsanto, για τουλάχιστον πέντε χρόνια.  Το αποτέλεσμα είναι ένα απόσταγμα με εύρος από μελωμένα ποικιλιακά αρώματα, όπως αποξηραμένα δαμάσκηνα, σταφίδες, φλούδες περγαμόντου, πικάντικα αρώματα όπως βανίλια, σοκολάτα και μοσχοκάρυδο, σε συνδυασμό με ένα ρωμαλέο αλλά μαλακό σώμα, απαλό τελείωμα και φινετσάτη αρωματική επίγευση.  Για να απολαύσετε το δυναμικό, πολύπλοκο χαρακτήρα του καταναλώστε το μόνο του.</Description>
+		<Barcode>5202548107233</Barcode>
 	</product>
 	<product>
 		<ID>52302</ID>
@@ -4585,7 +4600,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.48</Price>
+		<Price>4.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
@@ -4603,7 +4618,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.41</Price>
+		<Price>4.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
@@ -5248,6 +5263,22 @@
 		<Quantity>65</Quantity>
 	</product>
 	<product>
+		<ID>555101</ID>
+		<Name>Disaronno Λικέρ Velvet 17% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/23599401/Disaronno-Liker-Velvet-17-700ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/023599/23599401/xlarge_20200611181835_disaronno_velvet_liker_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.38</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>DISARONNO</Manufacturer>
+		<MPN>1769</MPN>
+		<Description>Το λικέρ Disaronno Velvet είναι γλυκό, φρουτώδες και κρεμώδες που αφήνει νότες πλούσιας κρέμας, βερύκοκου και καραμέλας στον ουρανίσκο. Είναι ένα ποτό το οποίο απολαμβάνεται αυστηρά με πάγο, για μια πραγματική γευστική εμπειρία που ενισχύει τη μοναδική και φρέσκια γεύση του, με χαμηλή του περιεκτικότητα σε αλκοόλ.</Description>
+		<Barcode>8001110589708</Barcode>
+	</product>
+	<product>
 		<ID>555103</ID>
 		<Name>AMARETTO AURELIA ΛΙΚΕΡ 21,5% VOL 700ml</Name>
 		<Product_Link>https://world.openfoodfacts.org/product/22111708/amaretto-aurelia-21-5-vol</Product_Link>
@@ -5372,6 +5403,22 @@
 		<Description>Το Frangelico είναι ένα ισορροπημένο λικέρ, με γεύσεις ψημένων φουντουκιών, σοκολάτας και βανίλιας. Προέρχεται απο την απόσταξη μείγματος αλκοόλης και νερού όπου έχουν εκχυλιστεί καβουρδισμένα φουντούκια. Κατόπιν αρωματίζεται με καβουρδισμένο καφέ, κακάο, βανίλια και ρίζα ραβεντιού.</Description>
 		<Barcode>8004160660304</Barcode>
 		<Quantity>79</Quantity>
+	</product>
+	<product>
+		<ID>55537</ID>
+		<Name>Passoa Λικέρ Passion Fruit 17% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5373376/Passoa-Liker-Passion-Fruit-20-Eton-17-700ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/005373/5373376/xlarge_20211014132706_passoa_liker_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.34</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Passoa</Manufacturer>
+		<MPN>1770</MPN>
+		<Description>Το Λικέρ Passoa με κύριο συστατικό τα φρούτα του πάθους από τη Βραζιλία,  κρατάει καλά κρυμμένες τις εξωτικές γεύσεις του από την Κεντρική Αμερική εδώ και 20 χρόνια. Tο Passoa Passion Fruit με το ιδιαίτερο μαύρο μπουκάλι του γίνεται η ψυχή του party.</Description>
+		<Barcode>3035540001740</Barcode>
 	</product>
 	<product>
 		<ID>555511</ID>
@@ -6517,7 +6564,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.93</Price>
+		<Price>1.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -8905,7 +8952,7 @@
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
 		<Barcode>5202054454852</Barcode>
-		<Quantity>193</Quantity>
+		<Quantity>189</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -9054,7 +9101,7 @@
 	</product>
 	<product>
 		<ID>68081</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ONE SIZE ΔΙΑΦΑΝΑ 100 ΤΕΜ</Name>
+		<Name>HDPE Γάντια Πολυαιθυλενίου Διάφανα One Size 100τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/40979661/Gantia-Polyaithyleniou-se-Diafano-CHroma-100tmch.html?product_id=185605669&amp;sponsored=listing</Product_Link>
 		<Image_Link>https://maskes.gr/wp-content/uploads/2020/05/%CE%93%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%A0%CE%BF%CE%BB%CF%85%CE%B1%CE%B9%CE%B8%CF%85%CE%BB%CE%B5%CE%BD%CE%AF%CE%BF%CF%85-%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1-One-Size-Large-%CE%A3%CE%B5%CF%84-100-%CE%A4%CE%B5%CE%BC%CE%B1%CF%87%CE%AF%CF%89%CE%BD.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9129,7 +9176,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7584942566666666</Price>
+		<Price>0.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
 		<Manufacturer>VIOSARP</Manufacturer>
@@ -9147,7 +9194,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7584942566666666</Price>
+		<Price>0.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
 		<Manufacturer>VIOSARP</Manufacturer>
@@ -9165,7 +9212,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7584942566666666</Price>
+		<Price>0.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
 		<Manufacturer>VIOSARP</Manufacturer>
@@ -9993,24 +10040,6 @@
 		<Description>Το ARIEL LOROR 2x75μεζ. (2x3,75 lit) είναι ένα υγρό απορρυπαντικό πλυντηρίου, ιδανικό για την αφαίρεση δύσκολων λεκέδων, προσφέροντας αποτελεσματικό καθαρισμό σε βάθος. Κατάλληλο για χρήση σε χαμηλές θερμοκρασίες, διατηρεί τα ρούχα φρέσκα και προστατεύει τα υφάσματα. Συσκευασία 2 τεμαχίων, συνολικής ποσότητας 7.5 λίτρων, που αρκεί για περίπου 150 πλύσεις.</Description>
 		<Barcode>8700216211451</Barcode>
 		<Quantity>300</Quantity>
-	</product>
-	<product>
-		<ID>71232</ID>
-		<Name>Skip Active Clean Υγρό Απορρυπαντικό Ρούχων 42 Μεζούρες</Name>
-		<Product_Link>https://www.skroutz.gr/s/22444238/Skip-Active-Clean-Ygro-Aporrypantiko-Rouchon-42-Mezoures.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/022444/22444238/20220210114940_skip_ygro_aporrypantiko_rouchon_active_clean_42_mezoures.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>8.2</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
-		<Manufacturer>SKIP</Manufacturer>
-		<MPN>1095</MPN>
-		<Weight>2.2 kg</Weight>
-		<Description>Το Skip Active Clean για τέλεια αποτελέσματα αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας ασύγκριτη καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στην σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
-		<Barcode>8710447428771</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>712321</ID>
@@ -12947,7 +12976,7 @@
 		<MPN>00330200</MPN>
 		<Description>•Τετράγωνη Μυγοσκοτώστρα•Υλικό: Πλαστικό•Ελαφριά Κατασκευή</Description>
 		<Barcode>5202707000658</Barcode>
-		<Quantity>215</Quantity>
+		<Quantity>211</Quantity>
 	</product>
 	<product>
 		<ID>76203</ID>
@@ -14245,7 +14274,7 @@
 	<product>
 		<ID>773001104</ID>
 		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Meka "Home Sweet Home" 40x60εκ. Ε-0897</Name>
-		<Product_Link>https://www.skroutz.gr/s/32953156/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Meka-I-Love-Home-40x60ek-E-0897.html</Product_Link>
+		<Product_Link>https://www.skroutz.gr/s/58940697/Sidirela-Pataki-Eisodou-apo-Kokofoinika-me-Antiolisthitiko-Ypostroma-Meka-home-Sweet-Home-40x60ek-E-08973.html</Product_Link>
 		<Image_Link>https://www.sidirela.gr/uploads/2024/12/e-0897-04-podomaktro-meka-web.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -14262,7 +14291,7 @@
 	<product>
 		<ID>773001105</ID>
 		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Meka "Flowers" 40x60εκ. Ε-0897</Name>
-		<Product_Link>https://www.skroutz.gr/s/32953156/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Meka-I-Love-Home-40x60ek-E-0897.html</Product_Link>
+		<Product_Link>https://www.skroutz.gr/s/58933591/Sidirela-Pataki-Eisodou-apo-Kokofoinika-me-Antiolisthitiko-Ypostroma-Meka-40x60ek-E-08974.html</Product_Link>
 		<Image_Link>https://www.sidirela.gr/uploads/2024/12/e-0897-05-podomaktro-meka-web.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -15161,6 +15190,91 @@
 		<Quantity>404</Quantity>
 	</product>
 	<product>
+		<ID>78540640</ID>
+		<Name>Κεσεδάκι Πλαστικό λευκό 640gr 50τεμ</Name>
+		<Product_Link>https://www.skroutz.gr/s/28799082/Plastiko-Leyko-640ml-50tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/028799/28799082/xlarge_20210511105334_plastiko_leyko_640ml_50tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
+		<Manufacturer>ΜΟΡΝΟΣ</Manufacturer>
+		<MPN>1771</MPN>
+		<Description>Πλαστικό κύπελλο χωρητικότητας 640ml, ιδανικό για διάφορες χρήσεις σε καταστήματα εστίασης, ζαχαροπλαστεία, πάρτυ και εκδηλώσεις. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
+		<Barcode>5202209519474</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>785406401</ID>
+		<Name>Καπάκι Λευκό για Κεσεδάκι 640gr 50τεμ</Name>
+		<Product_Link>https://www.ntriagos.gr/index.php?route=product/product&amp;path=63_64_108&amp;product_id=173</Product_Link>
+		<Image_Link>https://www.ntriagos.gr/image/cache/catalog/product-upload/PL100171-550x550w.png</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.27</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
+		<Manufacturer>MY HEART</Manufacturer>
+		<MPN>1772</MPN>
+		<Description>Πλαστικό καπάκι για το κύπελο χωρητικότητας 640ml. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
+		<Barcode>5202501911365</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>78615101</ID>
+		<Name>My Heart Κουταλάκι Γλυκού πλαστικό διαφανές επαναχρησιμοποιούμενο 10τεμ</Name>
+		<Product_Link>https://www.ntriagos.gr/index.php?route=product/product&amp;path=63_64_111&amp;product_id=760</Product_Link>
+		<Image_Link>https://www.ntriagos.gr/image/cache/catalog/product-upload/PLA00309-550x550h.png</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Μαχαιροπίρουνα μιας Χρήσης (Χονδρική)</Category_Path>
+		<Manufacturer>MY HEART</Manufacturer>
+		<MPN>1773</MPN>
+		<Description>Κουταλάκι γλυκού συσκευασμένο σε διάφανο πλαστικό 11cm επαναχρησιμοποιούμενο. Ιδανικό για παγωτό ή γλυκό. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
+		<Barcode>5214002309794</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>78615102</ID>
+		<Name>My Heart Κουτάλι Φαγητού πλαστικό διαφανές επαναχρησιμοποιούμενο 10τεμ</Name>
+		<Product_Link>https://www.skroutz.gr/s/54382985/My-Heart-Epanachrisimopoioumeno-Koutali-Plastiko-10tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/054382/54382985/xlarge_20240614130135_my_heart_koutali_mias_chrisis_plastiko_10tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.38</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Μαχαιροπίρουνα μιας Χρήσης (Χονδρική)</Category_Path>
+		<Manufacturer>MY HEART</Manufacturer>
+		<MPN>1774</MPN>
+		<Description>Κουτάλι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
+		<Barcode>5214002309770</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>78615103</ID>
+		<Name>My Heart Πηρούνι φαγητού πλαστικό διαφανές επαναχρησιμοποιούμενο 10τεμ</Name>
+		<Product_Link>https://www.skroutz.gr/s/54382986/My-Heart-Pirounakia-gia-Parti-Diafana-10tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/054382/54382986/xlarge_20240614130135_my_heart_pirouni_mias_chrisis_plastiko_10tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.36</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Μαχαιροπίρουνα μιας Χρήσης (Χονδρική)</Category_Path>
+		<Manufacturer>MY HEART</Manufacturer>
+		<MPN>1775</MPN>
+		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
+		<Barcode>5214002309763</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>78621</ID>
 		<Name>ΠΙΑΤΑ ΧΑΡΤΙΝΑ ΛΕΥΚΑ 18cm 10τεμ</Name>
 		<Product_Link>https://www.thanopoulos.gr/el/piata/56112-thalassinos-piata-xartina-leuka-stroggula-18ek-10tem-5202054472962.html</Product_Link>
@@ -15388,6 +15502,23 @@
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036188</Barcode>
 		<Quantity>609</Quantity>
+	</product>
+	<product>
+		<ID>78901012</ID>
+		<Name>Θαλασσινός Αλουμινόχαρτο Economy 20m x 29cm</Name>
+		<Product_Link>https://www.skroutz.gr/s/56528389/Alouminocharto-20m-x-29cm-50331.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/056528/56528389/xlarge_20240930105815_alouminocharto_cmxcmxm_50331.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>1777</MPN>
+		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.  Χαρακτηριστικά      Μήκος(μέτρα): 20μ.     Πλάτος: 29εκ.</Description>
+		<Barcode>5202054036195</Barcode>
+		<Quantity>250</Quantity>
 	</product>
 	<product>
 		<ID>78902</ID>
@@ -16728,7 +16859,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.024868745472</Price>
+		<Price>1.0062347682816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16745,7 +16876,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.147853175304</Price>
+		<Price>1.1269831175712</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16762,7 +16893,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1751830486</Price>
+		<Price>1.15381608408</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16779,7 +16910,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.352827225024</Price>
+		<Price>1.3282303663872</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16796,7 +16927,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.024868745472</Price>
+		<Price>1.0062347682816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16813,7 +16944,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.147853175304</Price>
+		<Price>1.1269831175712</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16830,7 +16961,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1751830486</Price>
+		<Price>1.15381608408</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16847,7 +16978,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.352827225024</Price>
+		<Price>1.3282303663872</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16864,7 +16995,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.024868745472</Price>
+		<Price>1.0062347682816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16881,7 +17012,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.147853175304</Price>
+		<Price>1.1269831175712</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16898,7 +17029,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1751830486</Price>
+		<Price>1.15381608408</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16915,7 +17046,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.352827225024</Price>
+		<Price>1.3282303663872</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16932,7 +17063,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.147853175304</Price>
+		<Price>1.1269831175712</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16949,7 +17080,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.352827225024</Price>
+		<Price>1.3282303663872</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16966,7 +17097,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.147853175304</Price>
+		<Price>1.1269831175712</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -16983,7 +17114,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.352827225024</Price>
+		<Price>1.3282303663872</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17000,7 +17131,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.03853368212</Price>
+		<Price>1.019651251536</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17017,7 +17148,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.161518111952</Price>
+		<Price>1.1403996008256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17034,7 +17165,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.03853368212</Price>
+		<Price>1.019651251536</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17051,7 +17182,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.161518111952</Price>
+		<Price>1.1403996008256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17068,7 +17199,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.03853368212</Price>
+		<Price>1.019651251536</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17085,7 +17216,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.161518111952</Price>
+		<Price>1.1403996008256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17102,7 +17233,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.024868745472</Price>
+		<Price>1.0062347682816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17119,7 +17250,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.161518111952</Price>
+		<Price>1.1403996008256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17136,7 +17267,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.024868745472</Price>
+		<Price>1.0062347682816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17153,7 +17284,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.161518111952</Price>
+		<Price>1.1403996008256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17170,7 +17301,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.024868745472</Price>
+		<Price>1.0062347682816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17187,7 +17318,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.161518111952</Price>
+		<Price>1.1403996008256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17204,7 +17335,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.35</Price>
+		<Price>0.33969189672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17221,7 +17352,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.35</Price>
+		<Price>0.33969189672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17238,7 +17369,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.35</Price>
+		<Price>0.33969189672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17255,7 +17386,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.35</Price>
+		<Price>0.33969189672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17272,7 +17403,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.35</Price>
+		<Price>0.33969189672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17289,7 +17420,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.85</Price>
+		<Price>0.8303579697600001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17306,7 +17437,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.75</Price>
+		<Price>0.7322247551519999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17629,7 +17760,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.22</Price>
+		<Price>1.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -17646,7 +17777,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.22</Price>
+		<Price>1.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -17688,6 +17819,23 @@
 		<Description>Αλκαλικές μπαταρίες D ιδανικές για χρήση σε ραδιορολόγια, παιχνίδια και φακούς. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<Barcode>5410853039211</Barcode>
 		<Quantity>76</Quantity>
+	</product>
+	<product>
+		<ID>7975032</ID>
+		<Name>Maxell Αλκαλικές Μπαταρίες AA 1.5V 4τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9044560/Maxell-Alkalikes-Mpataries-AA-1-5V-4tmch.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/009044/9044560/xlarge_20211122135613_maxell_alkalikes_mpataries_aa_1_5v_4tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>Maxell</Manufacturer>
+		<MPN>1776</MPN>
+		<Description>Αλκαλικές μπαταρίες ΑΑ της Maxell κατάλληλες για φακούς, παιχνίδια, τηλεχειριστήρια, αριθμομηχανές κι άλλες μικροσυσκευές.</Description>
+		<Barcode>4902580163761</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7990901</ID>
@@ -18166,6 +18314,91 @@
 		<Quantity>9</Quantity>
 	</product>
 	<product>
+		<ID>7995103</ID>
+		<Name>Lime Φορτιστής Χωρίς Καλώδιο με Θύρα USB-A και Θύρα USB-C 75W Power Delivery / Quick Charge 3.0 Λευκός (LTC75W)</Name>
+		<Product_Link>https://www.skroutz.gr/s/48733890/Lime-Fortistis-CHoris-Kalodio-me-THyra-USB-A-kai-THyra-USB-C-75W-Power-Delivery-Quick-Charge-3-0-Leykos-LTC75W.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/048733/48733890/xlarge_20231211161522_lime_fortistis_choris_kalodio_me_thyra_usb_a_kai_thyra_usb_c_75w_power_delivery_quick_charge_3_0_leykos_ltc75w.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.81</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>LIME</Manufacturer>
+		<MPN>1778</MPN>
+		<Description>Ο φορτιστής LIME SUCCESSORIES LTC75W ανήκει στην κορυφαία σειρά ταχυφορτιστών που σχεδιάστηκε με γνώμονα τις ανάγκες των σύγχρονων καταναλωτών.  Ελαφρύς και συμπαγής, είναι ιδανικός για ταξίδια ή για χρήση στο σπίτι. Διαθέτει τη δυνατότητα ταυτόχρονης φόρτισης δύο συσκευών, όπως Smartphone, Tablet, Powerbank και οποιαδήποτε άλλη συμβατή συσκευή.  Ο φορτιστής διαθέτει δύο θύρες USB Type-C και μία θύρα USB Type-A και περιλαμβάνει τεχνολογία φόρτισης GaN, PD 3.0 (Power Delivery) και PPS. Αυτές οι τεχνολογίες αναγνωρίζουν τη συνδεδεμένη συσκευή και ρυθμίζουν την τάση και την ένταση του ρεύματος ανάλογα με τις ανάγκες της με απόδοση 75W 4.0A, PD 54W, και USB QC 3.0 21W.  Χρησιμοποιώντας το πρότυπο PD 3.0, παρέχει αποτελεσματική φόρτιση σε οποιαδήποτε συμβατή συσκευή, επιτρέποντας τη φόρτιση ενός Smartphone από το 0% στο 80% σε περίπου 35 λεπτά. Είναι επίσης συμβατός με τις τεχνολογίες Quick Charge 2.0, Quick Charge, Adaptive Fast Charging (Samsung), Super Charge (Huawei) και Fast Charging (Apple).  Επιπλέον, διαθέτει πολλαπλά συστήματα προστασίας από υπερθέρμανση, βραχυκύκλωμα, υπερφόρτωση και υπέρταση, προσφέροντας απόλυτη προστασία για εσάς και τις συσκευές σας.  Μπορείτε να τον χρησιμοποιήσετε και ως έναν συμβατικό φορτιστή.  Κύρια Χαρακτηριστικά:      Input: AC 100V~240V     Output: 25W     DC 5V - 3.0A     DC 9V - 2.8A     DC 12V-2.1A  Υποστηρίζει:      PPS Fast Charging     Power Delivery (PD) Charging     PD 3.0/PD 2.0/ PD     Quick Charge 3.0     Quick Charge 2.0     SuperCharge (Huawei)     Fast Charging (Apple)</Description>
+		<Barcode>5205308337444</Barcode>
+		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>799510501</ID>
+		<Name>WK Φορτιστής με Θύρα USB-A και Καλώδιο i6 10W Λευκός (WP-U118) 250663</Name>
+		<Product_Link>https://www.skroutz.gr/s/40635750/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-Lightning-10W-Leykos-WP-U118-Combo.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/040635/40635750/xlarge_20230210140111_wk_fortistis_choris_kalodio_me_thyra_usb_a_kai_kalodio_lightning_10w_leykos_wp_u118_combo.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250663</MPN>
+		<Description>Φορτιστής WK 10W USB-A White WP-U118  Συμπεριλαμβάνει καλώδιο Lightning για απρόσκοπτη φόρτιση του iPhone και του iPad.</Description>
+		<Barcode>6941027619582</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799510502</ID>
+		<Name>WK Φορτιστής με Θύρα USB-A και Καλώδιο USB-C 10W Λευκός (WP-U118) 250664</Name>
+		<Product_Link>https://www.skroutz.gr/s/40472970/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-USB-C-10W-Leykos-WP-U118.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/040472/40472970/xlarge_20230317145227_wk_fortistis_me_thyra_usb_a_kai_kalodio_usb_c_10w_leykos_wp_u118.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250664</MPN>
+		<Description>Φορτιστής WK 10W USB-A White WP-U118  Συνοδευόμενο από Καλώδιο Type-C, μπορεί να αντικαταστήσει τον παλιό σας φορτιστή ή να βελτιώσει τη φόρτιση του κινητού σας αν ο παλιός δεν είναι τόσο γρήγορος.</Description>
+		<Barcode>6941027619599</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799510511</ID>
+		<Name>WK Φορτιστής με Καλώδιο Ι6 με 2 Θύρες USB-A 2A Fast Charge Λευκός (WP-U56) 250559</Name>
+		<Product_Link>https://www.skroutz.gr/s/26389872/WK-Fortistis-me-2-THyres-USB-A-kai-Kalodio-Lightning-Leykos-WP-U56.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/026389/26389872/xlarge_20211104143801_wk_lightning_cable_2x_usb_a_wall_adapter_leyko_wp_u56.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250559</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Με 2 θύρες USB-A     Περιλαμβάνει καλώδιο lightning  Έξοδος: 5V/2A.</Description>
+		<Barcode>6941027611890</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799510512</ID>
+		<Name>WK Φορτιστής με Καλώδιο USB-C με 2 Θύρες USB-A 2A Fast Charge Λευκός (WP-U56) 250560</Name>
+		<Product_Link>https://www.skroutz.gr/s/26390057/WK-Fortistis-me-2-THyres-USB-A-kai-Kalodio-USB-C-Leykos-WP-U56.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/026390/26390057/xlarge_20201224164019_wk_usb_c_cable_2x_usb_a_wall_adapter_leyko_design.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250560</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Με 2 θύρες USB-A     Περιλαμβάνει καλώδιο lightning  Έξοδος: 5V/2A.</Description>
+		<Barcode>6941027611906</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7995106</ID>
 		<Name>Lime Dual Φορτιστης Αυτοκινητου Usb 3.0/Pd Type C Fast Car Charger Qc 3.0 LCUPD21 40W 5V-7A/9V-4.8A/12V-3.6A WHITE</Name>
 		<Product_Link>https://www.skroutz.gr/s/22838954/Fortistis-Aytokinitou-Leykos-Synolikis-Entasis-3-1A-Grigoris-Fortisis-me-THyres-2xUSB-mazi-me-Kalodio-Type-C-T0129542001090012.html</Product_Link>
@@ -18506,6 +18739,40 @@
 		<Quantity>5</Quantity>
 	</product>
 	<product>
+		<ID>7995116041</ID>
+		<Name>Baseus Braided USB to 2x Lightning / Type-C / micro USB Cable Πολύχρωμο 1.2m (CA1T4-A01)</Name>
+		<Product_Link>https://www.skroutz.gr/s/17137107/Baseus-Rapid-Series-Braided-USB-to-Lightning-Type-C-micro-USB-Cable-3-5A-Polychromo-1-2m-CA1T4-A01.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/017137/17137107/xlarge_20190123170037_baseus_braided_usb_to_lightning_type_c_micro_usb_cable_polychromo_1_2m_4_in_1.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.53</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Multi Port</Category_Path>
+		<Manufacturer>Baseus</Manufacturer>
+		<MPN>CA1T4-A01</MPN>
+		<Description>Καλώδιο φόρτισης κινητών και τάμπλετ με 4 βύσματα, 1 Micro USB, 2 Lighting και 1 Type-C.</Description>
+		<Barcode>6953156278486</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>7995116042</ID>
+		<Name>Baseus Braided USB to Lightning / 2x Type-C / micro USB Cable Πολύχρωμο 1.2m (CA1T4-B01)</Name>
+		<Product_Link>https://www.skroutz.gr/s/17693763/Baseus-Rapid-Series-Braided-USB-to-Lightning-Type-C-micro-USB-Cable-3-5A-Polychromo-1-2m-CA1T4-B01.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/017693/17693763/xlarge_20190312135459_baseus_braided_usb_to_lightning_2x_type_c_micro_usb_cable_polychromo_1_2m.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.12</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Multi Port</Category_Path>
+		<Manufacturer>Baseus</Manufacturer>
+		<MPN>CA1T4-B01</MPN>
+		<Description>Καλώδιο φόρτισης κινητών και τάμπλετ με 4 βύσματα, 1 Micro USB, 1 Lighting και 2 Type-C.</Description>
+		<Barcode>6953156278493</Barcode>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
 		<ID>7995121</ID>
 		<Name>NSP HN25 In-ear Handsfree με Βύσμα 3.5mm Μαύρο</Name>
 		<Product_Link>https://www.skroutz.gr/s/33576319/NSP-HN25-In-ear-Handsfree-me-Vysma-3-5mm-Mayro.html</Product_Link>
@@ -18761,6 +19028,24 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>799515801</ID>
+		<Name>WK Smart Bluetooth Finder Apple Find My Λευκό (WT-D02) 250864</Name>
+		<Product_Link>https://www.dot-media.gr/aspProductDetail.aspx?ProID=250864&amp;vNet=0</Product_Link>
+		<Image_Link>https://www.wekome.hk/uploads/20241107/467bed06bfa4cc2e0cc6ea33c3ae02d5.jpg</Image_Link>
+		<Additional>https://www.wekome.hk/uploads/20241107/056bddd54a7c674f1df0fa07ccc51bc6.jpg, https://www.wekome.hk/uploads/20241107/1ee75f8f0c618aef3c5d714bcecd97c2.jpg, https://www.wekome.hk/uploads/20241107/d4515ea79e8360a43ec5d7ccc7af3a90.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.75</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt; Αξεσουάρ Κινητών&gt; Bluetooth Trackers</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250864</MPN>
+		<Description>Το Smart Bluetooth Finder της Wekome είναι μια συσκευή εντοπισμού που λειτουργεί αποκλειστικά με την εφαρμογή "Find My" της Apple. Απλώς κρεμάστε το WK Smart Bluetooth Finder σε οποιοδήποτε αντικείμενό σας επιθυμείτε να παρακολουθείτε και εντοπίστε το παγκόσμια μέσω της εφαρμογής "Find My" στο iPhone, το iPad ή το MacBook σας.  Δεν απαιτείται λήψη εφαρμογής, έτοιμη για χρήση (ασύρματη σύνδεση της εφαρμογής μου Apple). Παραπεταμένες τσάντες, κλειδιά και άλλα πολύτιμα αντικείμενα, ανήκουν στο παρελθόν με τη συσκευή εντοπισμού Bluetooth Finder της Wekome. Στη λειτουργία "Lost Mode" της εφαρμογής "Find My" της Apple, μπορείτε να εισαγάγετε τα στοιχεία επικοινωνίας σας σε περίπτωση που το αντικείμενό σας εντοπιστεί από κάποιον άλλο στο χρήστη της εφαρμογής "Find My". Χρησιμοποιώντας το οικοσύστημα Apple Find My, μπορείτε εύκολα να εντοπίσετε την τοποθεσία του αντικειμένου σας. Εάν βρίσκεστε σε κοντινή απόσταση, επιλέξτε την «Αναπαραγωγή ήχου» στην εφαρμογή και ακολουθήστε το ηχητικό σήμα για να βρείτε το χαμένο σας αντικείμενο. Εναλλακτικά, επιλέξτε το στοιχείο που αναζητάτε στην εφαρμογή και εντοπίστε το στον χάρτη. Η όλη διαδικασία είναι ανώνυμη και κρυπτογραφημένη για την προστασία του απορρήτου σας., Η συσκευή είνα περιέχει μπαταρία λιθίου με διάρκεια ζωής δώδεκα (12) μήνες, ώστε να μην χρειάζονται συχνές αλλαγές μπαταρίας. Επίσης, το WK Smart Bluetooth Finder έχει προστασία lPX5 που το καθιστά ανθεκτικό στο νερό και τη σκόνη.</Description>
+		<Barcode>6941027652756</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799519111</ID>
 		<Name>WK MagSafe Power Bank 10000mAh 20W USB-C PDx1 Grey (WP-17)</Name>
 		<Product_Link>https://www.skroutz.gr/s/58187155/WK-WP-17-MagSafe-Power-Bank-10000mAh-20W-me-2-THyres-USB-C-Power-Delivery-Mayro.html</Product_Link>
@@ -18793,6 +19078,57 @@
 		<Description>Το power bank της Ugreen έχει χωρητικότητα 20000mAh που μπορεί να προσφέρει περίπου 4 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Οι τεχνολογίες γρήγορης φόρτισης Power Delivery και Quick Charge 3.0 του επιτρέπουν να φορτίσει τις συσκευές σας (εφόσον υποστηρίζουν και αυτές την αντίστοιχη τεχνολογία) σε μικρότερο χρόνο.      Χωρητικότητα: 20000mAh     Έντασης Ρεύματος Κύριας Θύρας: 3.25A     Τεχνολογία Γρήγορης Φόρτισης: Power Delivery, Quick Charge 2.0, Quick Charge 3.0</Description>
 		<Barcode>6941876221868</Barcode>
 		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>799519151</ID>
+		<Name>WK Power Bank 10000mAh 12W 2xUSB-A Μαύρο (WP-01) 250773</Name>
+		<Product_Link>https://www.skroutz.gr/s/51853296/WK-WP-01-Power-Bank-10000mAh-12W-Mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/051853/51853296/xlarge_20240801142040_wk_wp_01_power_bank_10000mah_12w_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.69283417992</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250773</MPN>
+		<Description>Χαρακτηριστικά      Ultra-fast charging     12W Max output     Max output power of 12W     LED indicators for clear power level     Smart chip, safe charging without harming the phone     Dual output ports and dual input ports, no more waiting     10000mAh large capacity, ultra-small size     Capacity: 10000mAh     Battery: Polymer</Description>
+		<Barcode>6941027642924</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799519152</ID>
+		<Name>WK Power Bank 5000mAh 22.5W με 2 Θύρες USB-C Μαύρο (WP-19) 250802</Name>
+		<Product_Link>https://www.skroutz.gr/s/57092923/WK-WP-19-Power-Bank-5000mAh-22-5W-me-2-THyres-USB-C-Mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/107356/107356879/xlarge_20250225164532_093ae0ce.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.44475179592</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250802</MPN>
+		<Description>Το power bank της WK έχει χωρητικότητα 5000mAh που μπορεί να προσφέρει περίπου 1 φόρτιση σε ένα συνηθισμένο κινητό τηλέφωνο.      Χωρητικότητα: 5000mAh     Ένταση Ρεύματος Κύριας Θύρας: 3A     Διαθέτει 2 θύρες USB-C</Description>
+		<Barcode>6941027649459</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799519153</ID>
+		<Name>WK Power Bank 10000mAh 22.5W με Θύρα USB-A και Θύρα USB-C Power Delivery Μαύρο (WP-63) 250796</Name>
+		<Product_Link>https://www.skroutz.gr/s/58186523/WK-WP-63-Power-Bank-10000mAh-22-5W-me-THyra-USB-A-kai-THyra-USB-C-Power-Delivery-Mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/058186/58186523/xlarge_20250225164946_wk_wp_63_power_bank_10000mah_22_5w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>16.57262821992</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250796</MPN>
+		<Description>Σχεδιασμένη με κομψότητα και μινιμαλισμό, αντανακλά τη μοναδική σας γεύση. Με χωρητικότητα 10000mAh, καλύπτει τις πολλαπλές ανάγκες φόρτισης σας.  Περιλαμβάνει τέσσερις γρήγορες εξόδους και διπλές εισόδους για πιο βολική χρήση. Η υψηλή απόδοση ισχύος 22.5W (Max) εξασφαλίζει αποτελεσματικότητα και εξοικονόμηση χρόνου.  Η μπαταρία είναι πιστοποιημένη με 3C και διαθέτει αληθινές κυψέλες χωρητικότητας.      Υλικό: ABS+PC     Τύπος Μπαταρίας: Λιθίου Πολυμερούς     Χωρητικότητα Μπαταρίας: 10000mAh     Απόδοση Ενεργειακής Μετατροπής: 60%     Ονομαστική Χωρητικότητα: 5200mAh     Είσοδος:         Type-C: 5V-2.8A, 9V-2A, 12V-1.5A         iPh: 5V-2A, 9V-2A, 12V-1.5A     Θύρες Έξοδου:         USB*1, Type-C*1, iPh*1     Έξοδος USB: 10V-2.25A/5V-3A, 9V-2A/12V-1.5A     Έξοδος Type-C: 10V-2.25A/5V-3A, 9V-2A/12V-1.5A     Έξοδος iPh: 5V-2.4A  Διαθέτει LED εμφανιζόμενο δείκτη ισχύος. Το καθαρό βάρος προϊόντος είναι 235g, με διαστάσεις 69*147*20mm και βάρος 286g.</Description>
+		<Barcode>6941027649596</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7998101</ID>
@@ -19013,6 +19349,40 @@
 		<MPN>1736</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Κατασκευασμένη από κράμα αλουμινίου     Δυνατότητα κλίσης έως 180 μοίρες     Συμβατή με tablets 7"-11"     Διαθέτει προστατευτικά σιλικόνης</Description>
 		<Barcode>6957303843930</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799551131</ID>
+		<Name>WK Βάση Γραφείου για Κινητό σε Λευκό χρώμα (WA-S46) 250573</Name>
+		<Product_Link>https://www.skroutz.gr/s/30965996/WK-WA-S46-Vasi-Grafeiou-gia-Kinito-se-Leyko-chroma.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/030965/30965996/xlarge_20220511111240_wk_wa_s46_vasi_grafeiou_gia_kinito_se_leyko_chroma.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.53</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250573</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Βάση για κινητά &amp; tablet     Αναδιπλούμενη για εύκολη μεταφορά     Ρυθμιζόμενο ύψος και γωνία στήριξης     Για οριζόντια &amp; κάθετη στήριξη  Με μεταβλητή γωνία βραχίονα, για να βρείτε την ιδανική θέση στήριξης και θέασης. Διπλώνει σε μικρό μέγεθος ώστε να χωράει σε κάθε τσάντα και σακίδιο. Διαθέτει αντιολισθητική βάση.</Description>
+		<Barcode>6941027619315</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799551132</ID>
+		<Name>WK Τηλεσκοπική Βάση Γραφείου για Κινητό και Τάμπλετ σε Μαύρο χρώμα (WA-S36) 250567</Name>
+		<Product_Link>https://www.skroutz.gr/s/28071060/WK-WA-S36-Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/028071/28071060/xlarge_20210802103751_wk_wa_s36_holder_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.07</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250567</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Ρύθμιση γωνίας: 5-45 μοίρες     Υλικό: PC/ABS και κράμα αλουμινίου     Σταθερό και αντιολισθητικό</Description>
+		<Barcode>6941027612095</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -19721,24 +20091,6 @@
 		<Description>Ένα υψηλής ποιότητας λευκό ρύζι με φίνο άρωμα γιασεμιού, ιδανικό για ασιατικές συνταγές. Χαρακτηρίζεται από ελαφριά, αφράτη υφή και μοναδική γεύση που συνοδεύει τέλεια κρέατα, λαχανικά και θαλασσινά. Προέρχεται από την Ταϋλάνδη, όπου το ρύζι Jasmine καλλιεργείται παραδοσιακά.</Description>
 		<Barcode>5212006200659</Barcode>
 		<Quantity>148</Quantity>
-	</product>
-	<product>
-		<ID>83002</ID>
-		<Name>MELISSA Νο 10 ΣΠΑΓΓΕΤΙΝΙ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22648276/Melissa-Spaghetti-No10-500gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/022648/22648276/xlarge_20210304122757_melissa_makaronia_no10_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.76</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>MELISSA</Manufacturer>
-		<MPN>0022</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Το Σπαγγέτινι Νο10 Melissa είναι ένα λεπτό ζυμαρικό που είναι ευέλικτο ως βάση για το μαγείρεμα, αλλά μπορεί να χρησιμοποιήθεί και σε πιο gourmet συνταγές.</Description>
-		<Barcode>5201193101061</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>83101</ID>
@@ -21159,24 +21511,6 @@
 		<Quantity>20</Quantity>
 	</product>
 	<product>
-		<ID>87511</ID>
-		<Name>NESQUIK ΣΑΚΟΥΛΑ 400gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22914194/Nestle-Sokolata-Nesquik-Opti-Start-se-Skoni-400gr.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/022914/22914194/xlarge_20200424145702_nestle_nesquik_opti_start_400gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.15</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Καφέδες &amp; Ροφήματα &gt; Ροφήματα</Category_Path>
-		<Manufacturer>NESTLE</Manufacturer>
-		<MPN>0816</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Σοκολάτα σε σκόνη, της εταιρίας Nestle. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 400gr.</Description>
-		<Barcode>5998710960620</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>87901</ID>
 		<Name>Lipton Μαύρο Τσάι Yellow Label Φακελάκια (10x1,5gr)</Name>
 		<Product_Link>https://www.skroutz.gr/s/15541647/Lipton-Mayro-Tsai-Yellow-Label-10-Fakelakia-15gr.html</Product_Link>
@@ -21342,7 +21676,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6</Price>
+		<Price>0.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη για Σκύλους &gt; Υγρή Τροφή Σκύλων</Category_Path>
 		<Manufacturer>MORANDO</Manufacturer>
@@ -21360,7 +21694,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6</Price>
+		<Price>0.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη για Σκύλους &gt; Υγρή Τροφή Σκύλων</Category_Path>
 		<Manufacturer>MORANDO</Manufacturer>
@@ -21378,7 +21712,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.45</Price>
+		<Price>1.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη για Σκύλους &gt; Υγρή Τροφή Σκύλων</Category_Path>
 		<Manufacturer>MORANDO</Manufacturer>
@@ -21432,7 +21766,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6</Price>
+		<Price>0.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Γατοτροφές &gt; Υγρή Τροφή Γάτας</Category_Path>
 		<Manufacturer>MORANDO</Manufacturer>
@@ -21450,7 +21784,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6</Price>
+		<Price>0.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Γατοτροφές &gt; Υγρή Τροφή Γάτας</Category_Path>
 		<Manufacturer>MORANDO</Manufacturer>
