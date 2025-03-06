@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-03-06 10:26</created_at>
+	<created_at>2025-03-06 11:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>1809</Quantity>
+		<Quantity>1805</Quantity>
 	</product>
 	<product>
 		<ID>31023-Τ</ID>
@@ -395,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>843</Quantity>
+		<Quantity>839</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -413,7 +413,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>702</Quantity>
+		<Quantity>698</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -917,7 +917,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214775</Barcode>
-		<Quantity>236</Quantity>
+		<Quantity>234</Quantity>
 	</product>
 	<product>
 		<ID>12023-Τ</ID>
@@ -1241,7 +1241,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση μπανάνα σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<Barcode>5201005001480</Barcode>
-		<Quantity>194</Quantity>
+		<Quantity>192</Quantity>
 	</product>
 	<product>
 		<ID>12075</ID>
@@ -2339,7 +2339,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>5540</Quantity>
+		<Quantity>5444</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2951,7 +2951,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100196</Barcode>
-		<Quantity>320</Quantity>
+		<Quantity>319</Quantity>
 	</product>
 	<product>
 		<ID>40426</ID>
@@ -4143,7 +4143,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1876</Quantity>
+		<Quantity>1867</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -4215,7 +4215,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>2795</Quantity>
+		<Quantity>2780</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -4430,7 +4430,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5202037130063</Barcode>
-		<Quantity>292</Quantity>
+		<Quantity>282</Quantity>
 	</product>
 	<product>
 		<ID>52401</ID>
@@ -4592,7 +4592,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207612016</Barcode>
-		<Quantity>791</Quantity>
+		<Quantity>767</Quantity>
 	</product>
 	<product>
 		<ID>52903</ID>
@@ -21102,7 +21102,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Τόνος της εταιρίας Campos, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Σημαντική πηγή πρωτεΐνης και ωμέγα 3 λιπαρών, ο τόνος ενισχύει τέλεια τις σαλάτες, φαγητά όπως τα ζυμαρικά ή και σάντουιτς.</Description>
 		<Barcode>8410673001211</Barcode>
-		<Quantity>177</Quantity>
+		<Quantity>183</Quantity>
 	</product>
 	<product>
 		<ID>85223</ID>
@@ -21138,7 +21138,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Ο τόνος al Naturale της Rio Mare είναι ελαφρύς και γευστικός, προέρχεται από τη θάλασσα και από την επιλογή κιτρινόπτερου τόνου.</Description>
 		<Barcode>8004030357532</Barcode>
-		<Quantity>165</Quantity>
+		<Quantity>159</Quantity>
 	</product>
 	<product>
 		<ID>85225</ID>
@@ -21598,7 +21598,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Κρακεράκια μίνι της εταιρείας Gullon σε στρογγυλό σχήμα με αλάτι.</Description>
 		<Barcode>8410376014051</Barcode>
-		<Quantity>162</Quantity>
+		<Quantity>158</Quantity>
 	</product>
 	<product>
 		<ID>99001</ID>
@@ -21797,25 +21797,5 @@
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
 		<Quantity>1248</Quantity>
-	</product>
-	<product>
-		<ID>=COUNTBLANK(A2:A1257)</ID>
-		<Name>=COUNTBLANK(B2:B1257)</Name>
-		<Product_Link>=COUNTBLANK(C2:C1257)</Product_Link>
-		<Image_Link>=COUNTBLANK(D2:D1257)</Image_Link>
-		<Additional>=COUNTBLANK(E2:E1257)</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>=COUNTBLANK(F2:F1257)</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>=COUNTBLANK(G2:G1257)</ΤΕΜΑΧΙΑ>
-		<VAT>=COUNTBLANK(H2:H1257)</VAT>
-		<Price>=COUNTBLANK(I2:I1257)</Price>
-		<Availability>=COUNTBLANK(J2:J1257)</Availability>
-		<Category_Path>=COUNTBLANK(K2:K1257)</Category_Path>
-		<Manufacturer>=COUNTBLANK(L2:L1257)</Manufacturer>
-		<MPN>=COUNTBLANK(M2:M1257)</MPN>
-		<Weight>=COUNTBLANK(N2:N1257)</Weight>
-		<Description>=COUNTBLANK(O2:O1257)</Description>
-		<Barcode>=COUNTBLANK(P2:P1257)</Barcode>
-		<Quantity>=COUNTBLANK(Q2:Q1257)</Quantity>
-		<Size>=COUNTBLANK(R2:R1257)</Size>
 	</product>
 </mywebstore>
