@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-03-15 16:05</created_at>
+	<created_at>2025-03-15 16:53</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -4143,7 +4143,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>2116</Quantity>
+		<Quantity>2140</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -4215,7 +4215,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>3059</Quantity>
+		<Quantity>3083</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5638,7 +5638,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Σιρόπι από τη Γαλλική εταιρεία Μonin, με γεύση καραμέλα. Ιδανικό για την παρασκευή cocktails, mocktails, ροφημάτων και πολλών άλλων. Η καραμέλα είναι καραμελωμένη ζάχαρη, που φτιάχνεται απλά λιώνοντας ζάχαρη σε κατσαρόλα. Η γεμάτη γεύση και το χρώμα προέρχεται από το λιώσιμο της ζάχαρης. Η καραμέλα χρησιμοποιείται σκέτη, αλλά και σαν συστατικό για να φέρει σε αρμονία άλλες γεύσεις. Με το MONIN Caramel οι δυνατότητες δημιουργίας είναι ατελείωτες!</Description>
 		<Barcode>3052910006907</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>558192</ID>
@@ -9435,7 +9435,7 @@
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>1708</Quantity>
+		<Quantity>1707</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
