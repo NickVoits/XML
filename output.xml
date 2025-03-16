@@ -18380,7 +18380,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>41.102343612</Price>
+		<Price>40.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18397,7 +18397,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.5506371472</Price>
+		<Price>35.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18414,7 +18414,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>46.3098790088</Price>
+		<Price>45.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18431,7 +18431,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>121.3681945872</Price>
+		<Price>119.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18492,14 +18492,31 @@
 		<Quantity>10</Quantity>
 	</product>
 	<product>
+		<ID>799510401</ID>
+		<Name>WK Φορτιστής Χωρίς Καλώδιο GaN με Θύρες USB-A και USB-C 35W PD+QC3.0 Λευκός (WP-U25) 250793</Name>
+		<Product_Link>https://www.skroutz.gr/s/50920670/WK-Fortistis-CHoris-Kalodio-GaN-me-THyra-USB-A-kai-THyra-USB-C-35W-Power-Delivery-Leykos-WP-U25.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/050920/50920670/xlarge_20250207170006_wk_fortistis_choris_kalodio_gan_me_thyra_usb_a_kai_thyra_usb_c_35w_power_delivery_leykos_wp_u25.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>13.29</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250793</MPN>
+		<Description>Ο αντάπτορας φόρτισης της εταιρείας WK μπορεί να αντικαταστήσει τον παλιό σας ή να βελτιώσει τη φόρτιση του κινητού σας. Η συσκευασία δεν περιέχει καλώδιο, οπότε θα πρέπει να χρησιμοποιήσετε αυτό του κινητού. Υποστηρίζει γρήγορη φόρτιση Power Delivery, η οποία θα πρέπει να είναι συμβατή με το κινητό σας.      Θύρες Εξόδου USB-A: 1     Θύρες Εξόδου USB-C: 1     Ισχύς Φόρτισης: 35W</Description>
+		<Barcode>6941027647622</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799510501</ID>
-		<Name>WK Φορτιστής με Θύρα USB-A και Καλώδιο i6 10W Λευκός (WP-U118) 250663</Name>
+		<Name>WK Φορτιστής με Καλώδιο i6 και Θύρα USB-A 10W Λευκός (WP-U118) 250663</Name>
 		<Product_Link>https://www.skroutz.gr/s/40635750/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-Lightning-10W-Leykos-WP-U118-Combo.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/040635/40635750/xlarge_20230210140111_wk_fortistis_choris_kalodio_me_thyra_usb_a_kai_kalodio_lightning_10w_leykos_wp_u118_combo.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.57</Price>
+		<Price>3.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18510,13 +18527,13 @@
 	</product>
 	<product>
 		<ID>799510502</ID>
-		<Name>WK Φορτιστής με Θύρα USB-A και Καλώδιο USB-C 10W Λευκός (WP-U118) 250664</Name>
+		<Name>WK Φορτιστής με Καλώδιο USB-C και Θύρα USB-A 10W Λευκός (WP-U118) 250664</Name>
 		<Product_Link>https://www.skroutz.gr/s/40472970/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-USB-C-10W-Leykos-WP-U118.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/040472/40472970/xlarge_20230317145227_wk_fortistis_me_thyra_usb_a_kai_kalodio_usb_c_10w_leykos_wp_u118.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.57</Price>
+		<Price>3.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18533,7 +18550,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.4</Price>
+		<Price>4.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18550,7 +18567,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.4</Price>
+		<Price>4.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18558,6 +18575,38 @@
 		<Description>Βασικά χαρακτηριστικά:      Με 2 θύρες USB-A     Περιλαμβάνει καλώδιο lightning  Έξοδος: 5V/2A.</Description>
 		<Barcode>6941027611906</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7995105121</ID>
+		<Name>WK Φορτιστής με Καλώδιο i6 και Θύρα USB-A 18W QC3.0 Λευκός (WP-U57) 250556</Name>
+		<Product_Link>https://www.skroutz.gr/s/26520187/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-Lightning-18W-Quick-Charge-3-0-Leykos-WP-U57.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/026520/26520187/xlarge_20210210170101_wk_lightning_cable_usb_wall_adapter_leyko_wp_u57.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.84</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250556</MPN>
+		<Description>Φορτιστής με τεχνολογία γρήγορης φόρτισης QC3.0 ισχύος 18W Έξοδος: DC 5V-2.4A / 9V-2A / 12V-1.5A Είσοδος: AC 110-240V 50hz-60hz Περιλαμβάνει καλώδιο Light</Description>
+		<Barcode>6941027613641</Barcode>
+	</product>
+	<product>
+		<ID>7995105122</ID>
+		<Name>WK Φορτιστής με Καλώδιο USB-C και Θύρα USB-A 18W Λευκός (WP-U57) 250557</Name>
+		<Product_Link>https://www.skroutz.gr/s/26592473/WK-Fortistis-me-THyra-USB-A-kai-Kalodio-USB-C-18W-Quick-Charge-3-0-Leykos-WP-U57.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/026592/26592473/xlarge_20210114125244_wk_usb_c_cable_usb_a_wall_adapter_leyko_wp_u57.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.84</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250557</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Με θύρα USB-A     Περιλαμβάνει καλώδιο USB-C     Υποστηρίζει QC3.0  Έξοδος: 5V/2.4A, 9V/2A, 12V/1.5A. Ισχύς φόρτισης: 18W.</Description>
+		<Barcode>6941027613665</Barcode>
 	</product>
 	<product>
 		<ID>7995106</ID>
@@ -18578,13 +18627,13 @@
 	</product>
 	<product>
 		<ID>799510701</ID>
-		<Name>Ugreen Dual Φορτιστής Αυτοκινήτου USB-C &amp; USB-A 36W Quick Charge 3.0 Gray CD213 (60980)</Name>
+		<Name>Ugreen Dual Φορτιστής Αυτοκινήτου 36W με 2 θύρες USB-C &amp; USB-A Quick Charge 3.0 Gray CD213 (60980)</Name>
 		<Product_Link>https://www.skroutz.gr/s/25255021/Ugreen-Fortistis-Aytokinitou-Gri-Synolikis-Entasis-3A-Grigoris-Fortisis-me-mia-THyra-USB-60980.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/025255/25255021/20201015143008_ugreen_diplos_fortistis_aytokinitou_type_c_usb_60980.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.759192908</Price>
+		<Price>12.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Ηλεκτρονικά &amp; Ηλεκτρολογικά Αυτοκινήτου &gt; Φορτιστές Αναπτήρα Αυτοκινήτου</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18595,13 +18644,13 @@
 	</product>
 	<product>
 		<ID>799510702</ID>
-		<Name>Ugreen Dual Φορτιστής Αυτοκινήτου USB-A &amp; USB-A 36W Quick Charge 3.0 Gray CD213 (10144)</Name>
+		<Name>Ugreen Dual Φορτιστής Αυτοκινήτου 36W με 2 θύρες φόρτισης USB-A Quick Charge 3.0 Gray CD213 (10144)</Name>
 		<Product_Link>https://www.skroutz.gr/s/31113659/Ugreen-Fortistis-Aytokinitou-Gri-Synolikis-Entasis-3A-Grigoris-Fortisis-me-THyres-2xUSB-10144.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/031113/31113659/20211207204739_ugreen_fortistis_aytokinitou_gri_3a_grigoris_fortisis_me_thyres_2xusb_10144.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.341587708</Price>
+		<Price>11.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Ηλεκτρονικά &amp; Ηλεκτρολογικά Αυτοκινήτου &gt; Φορτιστές Αναπτήρα Αυτοκινήτου</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18629,7 +18678,7 @@
 	</product>
 	<product>
 		<ID>799510712</ID>
-		<Name>WK Φορτιστής Αυτοκινήτου 20W USB-C &amp; USB-A 36W Quick Charge 3.0 Tarnish (WP-C38) Mini</Name>
+		<Name>WK Φορτιστής Αυτοκινήτου 20W USB-C &amp; USB-A Quick Charge 3.0 Tarnish (WP-C38) Mini 250657</Name>
 		<Product_Link>https://www.skroutz.gr/s/37787393/WK-Fortistis-Aytokinitou-Gri-Grigoris-Fortisis-me-THyres-1xUSB-1xType-C-WP-C38.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/037787/37787393/20220826120505_wk_fortistis_aytokinitou_gri_grigoris_fortisis_me_thyres_1xusb_1xtype_c_wp_c38.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -18643,6 +18692,24 @@
 		<Description>Φορτιστής αυτοκινήτου Mini PD 20w A+C WP-C38 με συμπαγή σχεδίαση που εξοικονομεί χώρο. Προσφέρει σταθερή φόρτιση και γρήγορη ισχύ, επιτρέποντάς σας να φορτίσετε έως και 60% σε 30 λεπτά με τη λειτουργία PD.      Υλικό: καθαρός κράμα ψευδαργύρου     Είσοδος: DC12~24V     Έξοδος: USB-A (QC): 5V-3A/9V-2A/12V-1.5A     USB-C (PD): 5V-3A/9V-2.22A/12V-1.67A     Μέγιστη έξοδος: 20W     Χρώμα: Θερμοκρασία  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί φορτίζει γρήγορα τη συσκευή σου και είναι ανθεκτικός.</Description>
 		<Barcode>6941027631171</Barcode>
 		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>799510713</ID>
+		<Name>WK Φορτιστής Αυτοκινήτου 48W USB-A &amp; USB-C Quick Charge 3.0 Black/Silver (WP-C53) 250874</Name>
+		<Product_Link>https://www.dot-media.gr/aspProductDetail.aspx?ProID=250874&amp;vNet=0</Product_Link>
+		<Image_Link>https://www.dot-media.gr/imgProduct2/250874.jpg</Image_Link>
+		<Additional>https://www.dot-media.gr/imgProduct3/250874b.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Auto - Moto &gt; Ηλεκτρονικά &amp; Ηλεκτρολογικά Αυτοκινήτου &gt; Φορτιστές Αναπτήρα Αυτοκινήτου</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250874</MPN>
+		<Description>Φορτιστής αυτοκινήτου WEKOME USB / USB Type C Quick Charge 3.0 Power Delivery 48W.      Υλικό: Αλουμίνιο+PC     Θύρες: USB (QC 3.0), USB Type C PD     Τάση (εισόδου): DC 12 - 24V     Τάση (εξόδου): 5V / 3A, 9V / 2A, 12V / 1.5A 18W     Power Delivery: 5V / 3A, 9V / 3A, 12V / 2.5A 30W     Ικανότητα: 48W  Ο φορτιστής αυτός με το διαφανές περίβλημα διαθέτει θύρες USB Type C PD και USB (QC 3.0) για γρήγορη ανανέωση της ενέργειας των κινητών συσκευών σας. Η έξυπνη διαχείριση προσαρμόζει την κατάλληλη τάση ανάλογα με το επίπεδο φόρτισης της συσκευής, προστατεύοντας την από υπερφόρτιση. Με βελτιωμένα αντιολισθητικά κλιπ, ακριβή και ασφαλή, σταθερό ακόμα και σε ανώμαλους δρόμους.</Description>
+		<Barcode>6941027651551</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995111</ID>
@@ -18703,7 +18770,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.71</Price>
+		<Price>3.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18720,7 +18787,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.45185389</Price>
+		<Price>4.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18737,7 +18804,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.969130894</Price>
+		<Price>6.87</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18754,7 +18821,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.484057494</Price>
+		<Price>8.33</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -18765,13 +18832,13 @@
 	</product>
 	<product>
 		<ID>799511501</ID>
-		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Black 1.2m (WDC-50)</Name>
+		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Black 1.2m (WDC-50) 250847</Name>
 		<Product_Link>https://www.skroutz.gr/s/58249391/WK-Braided-USB-A-to-Lightning-Cable-240W-Mayro-1-2m.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/058249/58249391/20250113123843_wk_braided_usb_a_to_lightning_cable_240w_mayro_1_2m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.554131087999998</Price>
+		<Price>6.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18782,13 +18849,13 @@
 	</product>
 	<product>
 		<ID>799511502</ID>
-		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Grey 1m (WDC-48) Μαγνητικής τύλιξης</Name>
+		<Name>WK Braided Charging/Data Cable 240W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Grey 1m Μαγνητικής τύλιξης (WDC-48) 250846</Name>
 		<Product_Link>https://www.skroutz.gr/s/58281901/WK-Braided-USB-C-to-Lightning-Cable-240W-Gri-1m.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/058281/58281901/20250115114716_wk_braided_usb_c_to_lightning_cable_240w_gri_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.064798287999999</Price>
+		<Price>8.35</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18798,14 +18865,30 @@
 		<Quantity>14</Quantity>
 	</product>
 	<product>
+		<ID>799511504</ID>
+		<Name>WK Braided Charging/Data Cable 65W 4 in 1 USB/TYPE-C to Lightning /TYPE-C Black/Yellow 1.2m (WDC-25) 250821</Name>
+		<Product_Link>https://www.skroutz.gr/s/56677258/WK-Wdc-25-Braided-USB-A-to-Lightning-Cable-65W-Kitrino-1-2m.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/103018/103018775/xlarge_20241007122314_fc6833e4.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.18</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250821</MPN>
+		<Description>Καλώδιο δεδομένων 4-in-1, σχεδιασμένο με διαδικασία βαφής σπορ αυτοκινήτου και αποκλειστικό χρώμα.  Ικανότητα εξόδου ισχύος 65+27W MAX με ενσωματωμένο έξυπνο τσιπ για ασφαλή φόρτιση της συσκευής.  Στυλ Mecha με θήκη από κράμα ψευδαργύρου και καλώδιο κατασκευασμένο από πλεγμένο νάιλον.  Πάχος πυρήνα από χαλκό για χαμηλότερη αντίσταση και ισχυρότερη αγωγιμότητα, μειώνοντας τις απώλειες.  Ταχύτητα μετάδοσης δεδομένων 480Mbps με ταυτόχρονη φόρτιση και μεταφορά δεδομένων.      Μοντέλο: WDC-25     Μήκος:1200mm     Τύπος: USB/USB-C προς iPh/Type-C     Υλικό κάλυψης: κράμα ψευδαργύρου     Ικανότητα μετάδοσης: 65W     Φόρτιση δεδομένων: 480MB/S     Χρώμα: Κίτρινο     Καθαρό βάρος προϊόντος: 52g     Διαστάσεις συσκευασίας: 75*25*192mm     Βάρος συσκευασίας: 73g     Πιστοποιήσεις: CE/ROHS</Description>
+		<Barcode>6941027648773</Barcode>
+	</product>
+	<product>
 		<ID>799511511</ID>
-		<Name>WK Charging-Data Cable USB to Lightning 2.4A Μαύρο 1m (WDC-092)</Name>
+		<Name>WK Charging-Data Cable USB to Lightning 2.4A Μαύρο 1m (WDC-092) 250607</Name>
 		<Product_Link>https://www.skroutz.gr/s/33360035/WK-WDC-092-USB-to-Lightning-Cable-Mayro-1m.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/033360/33360035/20220221154535_wk_wdc_092_usb_to_lightning_cable_mayro_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.813595728</Price>
+		<Price>1.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18816,13 +18899,13 @@
 	</product>
 	<product>
 		<ID>799511512</ID>
-		<Name>WK Charging-Data Cable USB to Lightning 2.4A Λευκό 1m (WDC-092)</Name>
+		<Name>WK Charging-Data Cable USB to Lightning 2.4A Λευκό 1m (WDC-092) 250608</Name>
 		<Product_Link>https://www.skroutz.gr/s/33360048/WK-WDC-092-USB-to-Lightning-Cable-Leyko-1m.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/033360/33360048/20220510163943_wk_wdc_092_usb_to_lightning_cable_leyko_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.813595728</Price>
+		<Price>1.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18833,13 +18916,13 @@
 	</product>
 	<product>
 		<ID>799511513</ID>
-		<Name>WK Charging-Data Cable USB to USB-C 2.4A Μαύρο 1m (WDC-092)</Name>
+		<Name>WK Charging-Data Cable USB to USB-C 2.4A Μαύρο 1m (WDC-092) 250613</Name>
 		<Product_Link>https://www.skroutz.gr/s/33358405/WK-WDC-092-USB-2-0-Cable-USB-C-male-USB-A-male-Mayro-1m.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/033358/33358405/20230530093253_wk_wdc_092_usb_2_0_cable_usb_c_male_usb_a_male_mayro_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.813595728</Price>
+		<Price>1.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18850,13 +18933,13 @@
 	</product>
 	<product>
 		<ID>799511514</ID>
-		<Name>WK Charging-Data Cable USB to USB-C 2.4A Λευκό 1m (WDC-092)</Name>
+		<Name>WK Charging-Data Cable USB to USB-C 2.4A Λευκό 1m (WDC-092) 250614</Name>
 		<Product_Link>https://www.skroutz.gr/s/33358430/WK-WDC-092-USB-2-0-Cable-USB-C-male-USB-A-male-Leyko-1m.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/033358/33358430/20220817152229_wk_wdc_092_usb_2_0_cable_usb_c_male_usb_a_male_leyko_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.813595728</Price>
+		<Price>1.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18867,13 +18950,13 @@
 	</product>
 	<product>
 		<ID>799511515</ID>
-		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Μαύρο 1m (WDC-092)</Name>
+		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Μαύρο 1m (WDC-092) 250601</Name>
 		<Product_Link>https://www.skroutz.gr/s/33363434/WK-WDC-092-Regular-USB-2-0-to-micro-USB-Cable-Mayro-1m.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/033363/33363434/20220110155938_wk_wdc_092_regular_usb_2_0_to_micro_usb_cable_mayro_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.360395568</Price>
+		<Price>1.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18884,13 +18967,13 @@
 	</product>
 	<product>
 		<ID>799511516</ID>
-		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Λευκό 1m (WDC-092)</Name>
+		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Λευκό 1m (WDC-092) 250602</Name>
 		<Product_Link>https://www.skroutz.gr/s/33363479/WK-WDC-092-Regular-USB-2-0-to-micro-USB-Cable-Leyko-1m.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/033363/33363479/20240710154148_wk_wdc_092_regular_usb_2_0_to_micro_usb_cable_leyko_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.360395568</Price>
+		<Price>1.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -18966,6 +19049,41 @@
 		<Description>Τύπος: In-ear    Συνδεσιμότητα: USB-C</Description>
 		<Barcode>5205308315350</Barcode>
 		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>799512301</ID>
+		<Name>WK Earbuds Handsfree με Βύσμα 3.5mm Λευκό (YB03) 250872</Name>
+		<Product_Link>https://www.dot-media.gr/aspProductDetail.aspx?ProID=250872&amp;vNet=0</Product_Link>
+		<Image_Link>https://www.dot-media.gr/imgProduct2/250872.jpg</Image_Link>
+		<Additional>https://www.dot-media.gr/imgProduct3/250872b.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.62</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Handsfree Ακουστικά</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250872</MPN>
+		<Description>Τα ακουστικά 3.5mm της WEKOME εφαρμόζουν σε διάφορες ψηφιακές συσκευές έτσι ώστε να ακούς την αγαπημένη σου μουσική. Η ενσύρματη σύνδεση προσφέρει καθαρότερη ποιότητα ήχου, παρέχοντας υψηλότερη πιστότητα. Διαθέτει μικρόφωνο υψηλής ευαισθησίας τόσο για κλήσεις όσο και για καραόκε . Επίσης, μπορείς να επικοινωνείς ασταμάτητα με όλους, καθώς η εργονομική τους σχεδίαση δεν θα κουράσει ποτέ τα αυτιά σου.</Description>
+		<Barcode>6941027652961</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799512302</ID>
+		<Name>WK Earbuds Handsfree με Βύσμα USB-C Λευκό (Y12) 250509</Name>
+		<Product_Link>https://www.skroutz.gr/s/21271416/WK-Y12-Type-C-Earbuds-Handsfree-me-Vysma-USB-C-Leyko.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/021271/21271416/xlarge_20191206123157_wk_y12_type_c_leyko.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Handsfree Ακουστικά</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250509</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Ευαισθησία: 98dB     Απόκριση συχνότητας: 20Hz-20KHz     Κουμπί διαχείρισης κλήσεων</Description>
+		<Barcode>6941027607978</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995141</ID>
@@ -19077,7 +19195,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.35</Price>
+		<Price>14.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Car Audio &gt; Bluetooth Car Kit</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19094,7 +19212,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.16</Price>
+		<Price>16.55</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Car Audio &gt; Bluetooth Car Kit</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19111,7 +19229,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.6</Price>
+		<Price>8.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Car Audio &gt; Bluetooth Car Kit</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19128,7 +19246,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.14</Price>
+		<Price>7.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Διάφορα Υπολογιστών &gt; Bluetooth Adapters</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19145,7 +19263,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.28</Price>
+		<Price>5.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Διάφορα Υπολογιστών &gt; Bluetooth Adapters</Category_Path>
 		<Manufacturer>Baseus</Manufacturer>
@@ -19162,7 +19280,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.39</Price>
+		<Price>4.31</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Ηλεκτρονικά &gt; Μετατροπείς</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19179,7 +19297,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.96</Price>
+		<Price>5.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Ηλεκτρονικά &gt; Μετατροπείς</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19197,7 +19315,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.75</Price>
+		<Price>9.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία&gt; Αξεσουάρ Κινητών&gt; Bluetooth Trackers</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -19208,13 +19326,13 @@
 	</product>
 	<product>
 		<ID>799519111</ID>
-		<Name>WK MagSafe Power Bank 10000mAh 20W USB-C PDx1 Grey (WP-17)</Name>
+		<Name>WK Power Bank 10000mAh 12W 2xUSB-A Μαύρο (WP-101) 250856</Name>
 		<Product_Link>https://www.skroutz.gr/s/58187155/WK-WP-17-MagSafe-Power-Bank-10000mAh-20W-me-2-THyres-USB-C-Power-Delivery-Mayro.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/058187/58187155/20250107111009_wk_wp_17_magsafe_power_bank_10000mah_20w_me_2_thyres_usb_c_power_delivery_mayro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>30.99</Price>
+		<Price>26.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -19231,7 +19349,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>72.37</Price>
+		<Price>71.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19241,20 +19359,20 @@
 		<Quantity>2</Quantity>
 	</product>
 	<product>
-		<ID>799519151</ID>
-		<Name>WK Power Bank 10000mAh 12W 2xUSB-A Μαύρο (WP-01) 250773</Name>
-		<Product_Link>https://www.skroutz.gr/s/51853296/WK-WP-01-Power-Bank-10000mAh-12W-Mayro.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/051853/51853296/xlarge_20240801142040_wk_wp_01_power_bank_10000mah_12w_mayro.jpeg</Image_Link>
+		<ID>7995191511</ID>
+		<Name>WK Power Bank 10000mAh 12W 2xUSB-A Μαύρο (WP-101) 250856</Name>
+		<Product_Link>https://www.skroutz.gr/s/59186302/WK-WP-101-Power-Bank-10000mAh-12W-me-2-THyres-USB-A-Mayro.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/059186/59186302/xlarge_20250313144855_wk_wp_101_power_bank_10000mah_12w_me_2_thyres_usb_a_mayro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.69283417992</Price>
+		<Price>9.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
 		<Manufacturer>WK</Manufacturer>
-		<MPN>250773</MPN>
-		<Description>Χαρακτηριστικά      Ultra-fast charging     12W Max output     Max output power of 12W     LED indicators for clear power level     Smart chip, safe charging without harming the phone     Dual output ports and dual input ports, no more waiting     10000mAh large capacity, ultra-small size     Capacity: 10000mAh     Battery: Polymer</Description>
-		<Barcode>6941027642924</Barcode>
+		<MPN>250856</MPN>
+		<Description>Ικανότητα: 10000mAh  Θύρες εξόδου: 2  Θύρα εισόδου: 1  Ανατομικός καμπύλος σχεδιασμός για άνετη λαβή  Φωτεινός πολυτελής επαγγελματικός στυλ, εντυπωσιακή εμφάνιση  Ενσωματωμένο έξυπνο τσιπ για ασφαλή φόρτιση  LED οθόνη για σαφή κατάσταση μπαταρίας  Ικανότητα εξόδου: 12W      Μοντέλο: WP-101     Υλικό: ABS+PC     Τύπος Μπαταρίας: Λιθίου πολυμερή     Ικανότητα Μπαταρίας: 9000mAh     Απόδοση ενέργειας: &gt;70%     Θύρα Εισόδου: Type-C x1     Είσοδος: Type-C: 5V-2.4A     Θύρες Εξόδου: USB x2     Έξοδος: USB1/2: 5V-2.4A     Προβολή Ικανότητας: Ενδεικτικός φωτισμός     Χρώμα: Μαύρο</Description>
+		<Barcode>6941027652732</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -19265,7 +19383,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.44475179592</Price>
+		<Price>12.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -19282,13 +19400,30 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.57262821992</Price>
+		<Price>16.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
 		<Manufacturer>WK</Manufacturer>
 		<MPN>250796</MPN>
 		<Description>Σχεδιασμένη με κομψότητα και μινιμαλισμό, αντανακλά τη μοναδική σας γεύση. Με χωρητικότητα 10000mAh, καλύπτει τις πολλαπλές ανάγκες φόρτισης σας.  Περιλαμβάνει τέσσερις γρήγορες εξόδους και διπλές εισόδους για πιο βολική χρήση. Η υψηλή απόδοση ισχύος 22.5W (Max) εξασφαλίζει αποτελεσματικότητα και εξοικονόμηση χρόνου.  Η μπαταρία είναι πιστοποιημένη με 3C και διαθέτει αληθινές κυψέλες χωρητικότητας.      Υλικό: ABS+PC     Τύπος Μπαταρίας: Λιθίου Πολυμερούς     Χωρητικότητα Μπαταρίας: 10000mAh     Απόδοση Ενεργειακής Μετατροπής: 60%     Ονομαστική Χωρητικότητα: 5200mAh     Είσοδος:         Type-C: 5V-2.8A, 9V-2A, 12V-1.5A         iPh: 5V-2A, 9V-2A, 12V-1.5A     Θύρες Έξοδου:         USB*1, Type-C*1, iPh*1     Έξοδος USB: 10V-2.25A/5V-3A, 9V-2A/12V-1.5A     Έξοδος Type-C: 10V-2.25A/5V-3A, 9V-2A/12V-1.5A     Έξοδος iPh: 5V-2.4A  Διαθέτει LED εμφανιζόμενο δείκτη ισχύος. Το καθαρό βάρος προϊόντος είναι 235g, με διαστάσεις 69*147*20mm και βάρος 286g.</Description>
 		<Barcode>6941027649596</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799519154</ID>
+		<Name>WK Power Bank 20000mAh 22.5W με Θύρα USB-A και Θύρα USB-C Power Delivery Μαύρο (WP-64) 250798</Name>
+		<Product_Link>https://www.skroutz.gr/s/58186682/WK-WP-64-Power-Bank-20000mAh-22-5W-me-THyra-USB-A-kai-THyra-USB-C-Power-Delivery-Mayro.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/058186/58186682/xlarge_20250225164946_wk_wp_64_power_bank_20000mah_22_5w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>24</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250798</MPN>
+		<Description>22.5W ΥΠΕΡ ΓΡΗΓΟΡΗ ΦΟΡΤΙΣΗ ΜΕ ΔΥΟ ΕΝΣΩΜΑΤΩΜΕΝΑ ΚΑΛΩΔΙΑ ΓΡΗΓΟΡΗΣ ΦΟΡΤΙΣΗΣ      Καλώδιο Type-C με 22.5W Υπερ Γρήγορη Φόρτιση     Καλώδιο iPh με PD 20W Υπερ Γρήγορη Φόρτιση     Στυλάτη και μινιμαλιστική σχεδίαση που αναδεικνύει την μοναδική σας γεύση     Μεγάλη χωρητικότητα 20000mAh, καλύπτει τις πολλαπλές σας ανάγκες φόρτισης     Τέσσερις γρήγορες εξόδους, διπλές γρήγορες εισόδους, πιο άνετη χρήση     Υψηλή ισχύς εξόδου 22.5W (Μέγιστο), αποδοτική και ταχείες διαδικασίες     Αληθινά κυψέλες μπαταρίας με πιστοποίηση 3C     Υλικό: ABS+PC     Τύπος μπαταρίας: Λιθίου πολυμερούς     Χωρητικότητα μπαταρίας: 20000mAh     Αποδοτικότητα μετατροπής ενέργειας: 60%     Ονομαστική χωρητικότητα: 10400mAh     Είσοδος:         Type-C: 5V-2.8A 9V-2A 12V-1.5A         iPh: 5V-2A 9V-2A 12V-1.5A     Θύρες εξόδου:         USB*1, Type-C*1, Type-C*1, iPh*1     Έξοδος:         USB: 10V-2.25A/5V-3A 9V-2A/12V-1.5A         Type-C: 10V-2.25A/5V-3A 9V-2A/12V-1.5A         Type-C: 5V-3A/9V-2.22A/12V-1.67A         iPh: 5V-2.4A     Οθόνη Ικανότητας Ενέργειας: LED Διαιρεμένη Οθόνη     Καθαρό βάρος προϊόντος: 408g     Μέγεθος προϊόντος: 69*147*26mm     Μέγεθος συσκευασίας: 90*168.5*37mm     Βάρος προϊόντος: 276g     Εγχειρίδιο: PDF</Description>
+		<Barcode>6941027649619</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -19401,7 +19536,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.23</Price>
+		<Price>12.8731437</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19418,7 +19553,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.17</Price>
+		<Price>15.7356837</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19435,7 +19570,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.5</Price>
+		<Price>5.39859978</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19452,7 +19587,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.26</Price>
+		<Price>3.1405077</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19469,7 +19604,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.9</Price>
+		<Price>4.714904700000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Tablets &amp; Αξεσουάρ &gt; Βάσεις Tablet</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19486,7 +19621,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.9</Price>
+		<Price>4.81403898</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Tablets &amp; Αξεσουάρ &gt; Βάσεις Tablet</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19503,7 +19638,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.32</Price>
+		<Price>21.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Tablets &amp; Αξεσουάρ &gt; Βάσεις Tablet</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19520,7 +19655,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.53</Price>
+		<Price>3.41</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>WK</Manufacturer>
@@ -19530,20 +19665,20 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>799551132</ID>
-		<Name>WK Τηλεσκοπική Βάση Γραφείου για Κινητό και Τάμπλετ σε Μαύρο χρώμα (WA-S36) 250567</Name>
-		<Product_Link>https://www.skroutz.gr/s/28071060/WK-WA-S36-Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/028071/28071060/xlarge_20210802103751_wk_wa_s36_holder_mayro.jpeg</Image_Link>
+		<ID>799551133</ID>
+		<Name>WK Βάση Κινητού Αυτοκινήτου με Ρυθμιζόμενα Άγκιστρα Μαύρη (WA-S59) 250822</Name>
+		<Product_Link>https://www.skroutz.gr/s/57103805/WK-Vasi-Kinitou-Aytokinitou-Wa-s59-me-Rythmizomena-Agistra-Mayri-250822.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/057103/57103805/xlarge_20241024091604_wk_vasi_kinitou_aytokinitou_wa_s59_me_rythmizomena_agistra_mayri_250822.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.07</Price>
+		<Price>8.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>WK</Manufacturer>
-		<MPN>250567</MPN>
-		<Description>Βασικά χαρακτηριστικά:      Ρύθμιση γωνίας: 5-45 μοίρες     Υλικό: PC/ABS και κράμα αλουμινίου     Σταθερό και αντιολισθητικό</Description>
-		<Barcode>6941027612095</Barcode>
+		<MPN>250822</MPN>
+		<Description>Βάση κινητού αυτοκινήτου της εταιρείας WK.  Η βάση στηρίζεται με βεντούζα και μπορεί να τοποθετηθεί:      στο ταμπλό του αυτοκινήτου     στο παρμπρίζ του αυτοκινήτου     στον αεραγωγό του κλιματισμού ή του καλοριφέρ  Η στήριξη της συσκευής στη βάση γίνεται με ρυθμιζόμενα άγκιστρα.</Description>
+		<Barcode>6941027649213</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -19741,7 +19876,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.31</Price>
+		<Price>14.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Storage &gt; Card Readers</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19758,7 +19893,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.88</Price>
+		<Price>10.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Περιφερειακά &gt; USB Hub</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19775,7 +19910,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.33</Price>
+		<Price>17.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; USB Adapters Δικτύου</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19894,7 +20029,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.85</Price>
+		<Price>16.54</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Σκληροί Δίσκοι &gt; Θήκες Σκληρών Δίσκων</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19904,6 +20039,39 @@
 		<Quantity>9</Quantity>
 	</product>
 	<product>
+		<ID>799631111</ID>
+		<Name>Ugreen Θήκη Αλουμινίου για Σκληρό Δίσκο M.2/NVME με σύνδεση Type-C (CM767) 35267</Name>
+		<Product_Link>https://www.dot-media.gr/aspProductDetail.aspx?ProID=340549&amp;vNet=0</Product_Link>
+		<Image_Link>https://www.dot-media.gr/imgProduct2/340549.jpg</Image_Link>
+		<Additional>https://www.dot-media.gr/imgProduct3/340549b.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>19.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Σκληροί Δίσκοι &gt; Θήκες Σκληρών Δίσκων</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>35267</MPN>
+		<Description>Input: USB C 3.1 GEN 2 Female Output: M.2 M-KEY/M+B Key(NVME;PCIE 3.0 stand) USB-C 3.1 GEN2 speed up to 10Gbps, compatible with USB 3.0&amp;2.0 &amp; 1.1 Support four sizes (2230/2242/2260/2280) of M.2 (NVME) M-KEY solid state drives Up to 2TB Support UASP transfer protocol Short-Circuit protection Built-in ESD protection circuit,Resistant to 4KV static Support S.M.A.R.T detection function. Support TRIM function Tool-free installation USB C3.1 GEN2 cable to USB C 3.1 GEN2 Length: 50cm Compatible with Windows, Mac OS, Linux, Chrome OS, PS4, PS3, Xbox, router, OTG Phones Aluminum Case Better for heat dissipation</Description>
+		<Barcode>6941876232673</Barcode>
+	</product>
+	<product>
+		<ID>799631112</ID>
+		<Name>Ugreen Θήκη Αλουμινίου για Σκληρό Δίσκο M.2/NVME &amp; M.2/SATA με σύνδεση Type-C (CM767) 15813</Name>
+		<Product_Link>https://www.dot-media.gr/aspProductDetail.aspx?ProID=340550&amp;vNet=0</Product_Link>
+		<Image_Link>https://www.dot-media.gr/imgProduct2/340550.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>26.05</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Σκληροί Δίσκοι &gt; Θήκες Σκληρών Δίσκων</Category_Path>
+		<Manufacturer>UGREEN</Manufacturer>
+		<MPN>15813</MPN>
+		<Description>Input: USB C 3.1 GEN 2 Female *Output: M.2 M-KEY(NVME;PCIE 3.0 stand) *USB-C 3.1 GEN2 speed up to 10Gbps, compatible with USB 3.0&amp;2.0 &amp; 1.1 Support four sizes(2230/2242/2260/2280) of M.2 (NVME) M-KEY or M.2 SATA solid state drives Up to 2TB and above Supported Drive Type: Supported Drive Type M.2 M-Key/ M.2 B&amp;M-Key SSD Supported Drive Protocol: NVMe/ SATA Support UASP transfer protocol Short-Circuit protection Built-in ESD protection circuit,Resistant to 4KV static Support S.M.A.R.T detection function. Support TRIM function *Tool-free installation USB C3.1 GEN2 cable to USB C 3.1 GEN2 Length: 50cm Compatible with Windows, Mac OS, Linux, Chrome OS, PS4, PS3, Xbox, router, OTG Phones Aluminum Case Better for heat dissipation</Description>
+		<Barcode>6941876218134</Barcode>
+	</product>
+	<product>
 		<ID>799631501</ID>
 		<Name>Ugreen Θήκη Προστασίας Σκληρού Δίσκου 2.5" HDD ή SSD 165x95x45mm Μαύρη LP128 (40707)</Name>
 		<Product_Link>https://www.skroutz.gr/s/19664173/Ugreen-THiki-Prostasias-Shockproof-Metaforas-gia-Skliro-Disko-2-5mm-HDD-i-SSD-me-CHoro-gia-Axesouar-165mm-x-95mm-x-45mm-Mayro-40707.html</Product_Link>
@@ -19911,7 +20079,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.04</Price>
+		<Price>6.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Σκληροί Δίσκοι &gt; Αξεσουάρ Σκληρών Δίσκων</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
@@ -19928,7 +20096,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>33.56</Price>
+		<Price>32.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Αξεσουάρ Καμπίνας &gt; Οργάνωση Χώρου Αυτοκινήτου</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
