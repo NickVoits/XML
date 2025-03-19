@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-03-19 11:05</created_at>
+	<created_at>2025-03-19 11:32</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -143,7 +143,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<Barcode>5201309103910</Barcode>
-		<Quantity>101</Quantity>
+		<Quantity>99</Quantity>
 	</product>
 	<product>
 		<ID>32022-Τ</ID>
@@ -341,7 +341,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>4518</Quantity>
+		<Quantity>4512</Quantity>
 	</product>
 	<product>
 		<ID>110118</ID>
@@ -395,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>1343</Quantity>
+		<Quantity>1339</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -431,7 +431,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>986</Quantity>
+		<Quantity>984</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -467,7 +467,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>335</Quantity>
+		<Quantity>333</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -809,7 +809,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>2490</Quantity>
+		<Quantity>2472</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -827,7 +827,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000133335</Barcode>
-		<Quantity>870</Quantity>
+		<Quantity>858</Quantity>
 	</product>
 	<product>
 		<ID>12021-Τ</ID>
@@ -845,7 +845,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>2431</Quantity>
+		<Quantity>2423</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -863,7 +863,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>1580</Quantity>
+		<Quantity>1576</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -917,7 +917,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214775</Barcode>
-		<Quantity>148</Quantity>
+		<Quantity>146</Quantity>
 	</product>
 	<product>
 		<ID>12023-Τ</ID>
@@ -1511,7 +1511,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>353</Quantity>
+		<Quantity>350</Quantity>
 	</product>
 	<product>
 		<ID>13038</ID>
@@ -1925,7 +1925,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908001003</Barcode>
-		<Quantity>1059</Quantity>
+		<Quantity>1055</Quantity>
 	</product>
 	<product>
 		<ID>17074</ID>
@@ -1961,7 +1961,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000105</Barcode>
-		<Quantity>354</Quantity>
+		<Quantity>351</Quantity>
 	</product>
 	<product>
 		<ID>17076</ID>
@@ -2015,7 +2015,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000167</Barcode>
-		<Quantity>282</Quantity>
+		<Quantity>276</Quantity>
 	</product>
 	<product>
 		<ID>17080</ID>
@@ -2627,7 +2627,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000017</Barcode>
-		<Quantity>1298</Quantity>
+		<Quantity>1286</Quantity>
 	</product>
 	<product>
 		<ID>40072</ID>
@@ -2645,7 +2645,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000000</Barcode>
-		<Quantity>210</Quantity>
+		<Quantity>192</Quantity>
 	</product>
 	<product>
 		<ID>40073</ID>
@@ -2681,7 +2681,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>1489</Quantity>
+		<Quantity>1487</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2753,7 +2753,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>110</Quantity>
+		<Quantity>104</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -2825,7 +2825,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100318</Barcode>
-		<Quantity>280</Quantity>
+		<Quantity>279</Quantity>
 	</product>
 	<product>
 		<ID>40421</ID>
@@ -3193,7 +3193,7 @@
 		<MPN>1316</MPN>
 		<Description>To λευκό του Κτήματος Βιβλία Χώρα αποτελεί ένα αρωματικό και φρέσκο κρασί, φτιαγμένο για όλες τις στιγμές. Παράγεται από το πάντρεµα της αρωματικής ποικιλίας Sauvignon Blanc και του πληθωρικού Ασύρτικου. Το χρώμα του, είναι απαλό πρασινοκίτρινο, µε έντονη διαύγεια. Έντονα αρώματα τροπικών φρούτων, γκρέιπφρουτ, εναλλάσσονται µε νότες εσπεριδοειδών &amp;  λεμονιού. Σερβίρεται στους 10οC και προτείνεται να καταναλωθεί σε 2 χρόνια. Πίνεται σκέτο ως απεριτίφ, ενώ μπορεί να συνοδεύσει εξαιρετικά πλατό τυριών, ριζοτο και θαλασσινά,.</Description>
 		<Barcode>5200101710012</Barcode>
-		<Quantity>41</Quantity>
+		<Quantity>39</Quantity>
 	</product>
 	<product>
 		<ID>46272</ID>
@@ -6247,7 +6247,7 @@
 		<MPN>1010</MPN>
 		<Description>Σερβιέτες με φτερά Sensitive with Cotton Normal από την εταιρεία Every Day, κατασκευασμένες από απορροφητικό υλικό ώστε να προσφέρουν ασφάλεια κατά τις δύσκολες μέρες της περιόδου. Χάρη στα φτερά που διαθέτουν, αποτρέπουν τη μετακίνηση της σερβιέτας και προστατεύουν από τυχόν διαρροές. Κατάλληλες για γυναικές με μέτρια ροή, για να προσφέρουν μεγαλύτερη άνεση και προστασία.</Description>
 		<Barcode>5201263006340</Barcode>
-		<Quantity>1080</Quantity>
+		<Quantity>1068</Quantity>
 	</product>
 	<product>
 		<ID>61022</ID>
@@ -7799,7 +7799,7 @@
 		<MPN>1366</MPN>
 		<Description>Σαμπουάν περιποίησης Elvive Color Vive για βαμμένα μαλλιά ή μαλλιά με ανταύγειες. Προσφέρει ολοκληρωμένη φροντίδα για χρώμα με μεγάλη διάρκεια.</Description>
 		<Barcode>3600520288710</Barcode>
-		<Quantity>148</Quantity>
+		<Quantity>145</Quantity>
 	</product>
 	<product>
 		<ID>66022</ID>
@@ -7816,7 +7816,7 @@
 		<MPN>1367</MPN>
 		<Description>Σαμπουάν αναδόμησης και επανόρθωσης των μαλλιών για καθημερινή χρήση.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>3600521705971</Barcode>
-		<Quantity>226</Quantity>
+		<Quantity>223</Quantity>
 	</product>
 	<product>
 		<ID>66023</ID>
@@ -7833,7 +7833,7 @@
 		<MPN>1368</MPN>
 		<Description>Σαμπουάν για αδύναμα και ταλαιπωρημένα μαλλιά.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>3600523586400</Barcode>
-		<Quantity>119</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>66026</ID>
@@ -9657,7 +9657,7 @@
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<Barcode>5201410964127</Barcode>
-		<Quantity>1478</Quantity>
+		<Quantity>1472</Quantity>
 	</product>
 	<product>
 		<ID>70403</ID>
@@ -18879,6 +18879,7 @@
 		<MPN>250821</MPN>
 		<Description>Καλώδιο δεδομένων 4-in-1, σχεδιασμένο με διαδικασία βαφής σπορ αυτοκινήτου και αποκλειστικό χρώμα.  Ικανότητα εξόδου ισχύος 65+27W MAX με ενσωματωμένο έξυπνο τσιπ για ασφαλή φόρτιση της συσκευής.  Στυλ Mecha με θήκη από κράμα ψευδαργύρου και καλώδιο κατασκευασμένο από πλεγμένο νάιλον.  Πάχος πυρήνα από χαλκό για χαμηλότερη αντίσταση και ισχυρότερη αγωγιμότητα, μειώνοντας τις απώλειες.  Ταχύτητα μετάδοσης δεδομένων 480Mbps με ταυτόχρονη φόρτιση και μεταφορά δεδομένων.      Μοντέλο: WDC-25     Μήκος:1200mm     Τύπος: USB/USB-C προς iPh/Type-C     Υλικό κάλυψης: κράμα ψευδαργύρου     Ικανότητα μετάδοσης: 65W     Φόρτιση δεδομένων: 480MB/S     Χρώμα: Κίτρινο     Καθαρό βάρος προϊόντος: 52g     Διαστάσεις συσκευασίας: 75*25*192mm     Βάρος συσκευασίας: 73g     Πιστοποιήσεις: CE/ROHS</Description>
 		<Barcode>6941027648773</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799511511</ID>
@@ -20054,6 +20055,7 @@
 		<MPN>35267</MPN>
 		<Description>Input: USB C 3.1 GEN 2 Female Output: M.2 M-KEY/M+B Key(NVME;PCIE 3.0 stand) USB-C 3.1 GEN2 speed up to 10Gbps, compatible with USB 3.0&amp;2.0 &amp; 1.1 Support four sizes (2230/2242/2260/2280) of M.2 (NVME) M-KEY solid state drives Up to 2TB Support UASP transfer protocol Short-Circuit protection Built-in ESD protection circuit,Resistant to 4KV static Support S.M.A.R.T detection function. Support TRIM function Tool-free installation USB C3.1 GEN2 cable to USB C 3.1 GEN2 Length: 50cm Compatible with Windows, Mac OS, Linux, Chrome OS, PS4, PS3, Xbox, router, OTG Phones Aluminum Case Better for heat dissipation</Description>
 		<Barcode>6941876232673</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799631112</ID>
@@ -20070,6 +20072,7 @@
 		<MPN>15813</MPN>
 		<Description>Input: USB C 3.1 GEN 2 Female *Output: M.2 M-KEY(NVME;PCIE 3.0 stand) *USB-C 3.1 GEN2 speed up to 10Gbps, compatible with USB 3.0&amp;2.0 &amp; 1.1 Support four sizes(2230/2242/2260/2280) of M.2 (NVME) M-KEY or M.2 SATA solid state drives Up to 2TB and above Supported Drive Type: Supported Drive Type M.2 M-Key/ M.2 B&amp;M-Key SSD Supported Drive Protocol: NVMe/ SATA Support UASP transfer protocol Short-Circuit protection Built-in ESD protection circuit,Resistant to 4KV static Support S.M.A.R.T detection function. Support TRIM function *Tool-free installation USB C3.1 GEN2 cable to USB C 3.1 GEN2 Length: 50cm Compatible with Windows, Mac OS, Linux, Chrome OS, PS4, PS3, Xbox, router, OTG Phones Aluminum Case Better for heat dissipation</Description>
 		<Barcode>6941876218134</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799631501</ID>
@@ -22207,5 +22210,25 @@
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
 		<Quantity>1152</Quantity>
+	</product>
+	<product>
+		<ID>=COUNTBLANK(A2:A1281)</ID>
+		<Name>=COUNTBLANK(B2:B1281)</Name>
+		<Product_Link>=COUNTBLANK(C2:C1281)</Product_Link>
+		<Image_Link>=COUNTBLANK(D2:D1281)</Image_Link>
+		<Additional>=COUNTBLANK(E2:E1281)</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>=COUNTBLANK(F2:F1281)</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>=COUNTBLANK(G2:G1281)</ΤΕΜΑΧΙΑ>
+		<VAT>=COUNTBLANK(H2:H1281)</VAT>
+		<Price>=COUNTBLANK(I2:I1281)</Price>
+		<Availability>=COUNTBLANK(J2:J1281)</Availability>
+		<Category_Path>=COUNTBLANK(K2:K1281)</Category_Path>
+		<Manufacturer>=COUNTBLANK(L2:L1281)</Manufacturer>
+		<MPN>=COUNTBLANK(M2:M1281)</MPN>
+		<Weight>=COUNTBLANK(N2:N1281)</Weight>
+		<Description>=COUNTBLANK(O2:O1281)</Description>
+		<Barcode>=COUNTBLANK(P2:P1281)</Barcode>
+		<Quantity>=COUNTBLANK(Q2:Q1281)</Quantity>
+		<Size>=COUNTBLANK(R2:R1281)</Size>
 	</product>
 </mywebstore>
