@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-02 14:05</created_at>
+	<created_at>2025-04-02 14:29</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -395,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>47</Quantity>
+		<Quantity>45</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -413,7 +413,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>180</Quantity>
+		<Quantity>179</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -431,7 +431,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>64</Quantity>
+		<Quantity>63</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -737,7 +737,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>320</Quantity>
+		<Quantity>319</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -809,7 +809,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>3142</Quantity>
+		<Quantity>3136</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -827,7 +827,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000133335</Barcode>
-		<Quantity>1564</Quantity>
+		<Quantity>1546</Quantity>
 	</product>
 	<product>
 		<ID>12021-Τ</ID>
@@ -845,7 +845,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>354</Quantity>
+		<Quantity>353</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -1025,7 +1025,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>54491472</Barcode>
-		<Quantity>210</Quantity>
+		<Quantity>209</Quantity>
 	</product>
 	<product>
 		<ID>120318-Τ</ID>
@@ -1959,7 +1959,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908001003</Barcode>
-		<Quantity>822</Quantity>
+		<Quantity>810</Quantity>
 	</product>
 	<product>
 		<ID>17074</ID>
@@ -1995,7 +1995,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000105</Barcode>
-		<Quantity>242</Quantity>
+		<Quantity>230</Quantity>
 	</product>
 	<product>
 		<ID>17076</ID>
@@ -2049,7 +2049,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000167</Barcode>
-		<Quantity>858</Quantity>
+		<Quantity>846</Quantity>
 	</product>
 	<product>
 		<ID>17080</ID>
@@ -2121,7 +2121,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι, ροδάκινο και βερίκοκο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000273</Barcode>
-		<Quantity>443</Quantity>
+		<Quantity>431</Quantity>
 	</product>
 	<product>
 		<ID>17085</ID>
@@ -2355,7 +2355,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>919</Quantity>
+		<Quantity>908</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2749,7 +2749,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>900</Quantity>
+		<Quantity>894</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2893,7 +2893,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100318</Barcode>
-		<Quantity>219</Quantity>
+		<Quantity>217</Quantity>
 	</product>
 	<product>
 		<ID>40421</ID>
@@ -2911,7 +2911,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100325</Barcode>
-		<Quantity>94</Quantity>
+		<Quantity>93</Quantity>
 	</product>
 	<product>
 		<ID>40425</ID>
@@ -7469,7 +7469,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.45</Price>
+		<Price>1.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -7486,7 +7486,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.76</Price>
+		<Price>2.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -7561,7 +7561,7 @@
 		<MPN>0629</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως από ανοξείδωτο ατσάλι, μονής λεπίδας, με επικάλυψη πολυμερούς και χρωμίου. Προσαρμοσμένο για ευαίσθητες επιδερμίδες. Με λευκή πολυεστερική σταθερή κεφαλή.</Description>
 		<Barcode>5201313008652</Barcode>
-		<Quantity>237</Quantity>
+		<Quantity>232</Quantity>
 	</product>
 	<product>
 		<ID>62052</ID>
@@ -7633,7 +7633,7 @@
 	</product>
 	<product>
 		<ID>62111</ID>
-		<Name>NIVEA SHAVING FOAM 200ml PROTECT &amp; CARE</Name>
+		<Name>Nivea Men Protect &amp; Care Αφρός Ξυρίσματος με Αλόη 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/7185405/Nivea-Men-Protect-Care-Afros-Xyrismatos-me-Aloi-200ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/007185/7185405/20200317165235_nivea_shaving_foam_extra_moisture_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -8047,7 +8047,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.43</Price>
+		<Price>1.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Μπατονέτες</Category_Path>
 		<Manufacturer>J&amp;J</Manufacturer>
@@ -8098,7 +8098,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.29</Price>
+		<Price>2.45</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Παιδικά - Βρεφικά &gt; Αλλαγή Πάνας Μωρού &gt; Προϊόντα για Συγκάματα Μωρού</Category_Path>
 		<Manufacturer>J&amp;J</Manufacturer>
@@ -8156,7 +8156,7 @@
 		<MPN>0635</MPN>
 		<Description>Εξαιρετικής ποιότητας βαμβάκι, με καθαρό βάρος 100 γραμμαρίων και την υπογραφή Septona.</Description>
 		<Barcode>5201410970395</Barcode>
-		<Quantity>506</Quantity>
+		<Quantity>505</Quantity>
 	</product>
 	<product>
 		<ID>64111</ID>
@@ -9570,40 +9570,6 @@
 		<Quantity>29</Quantity>
 	</product>
 	<product>
-		<ID>67112</ID>
-		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/17253517/Aroma-Body-Milk-Bio-Olive-Oil-Balsam-Enydatiki-Lotion-Somatos-300ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/017253/17253517/20240403130513_aroma_body_milk_bio_olive_oil_balsam_enydatiki_lotion_somatos_300ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>2.370012</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
-		<Manufacturer>AROMA</Manufacturer>
-		<MPN>1220</MPN>
-		<Description>Lotion σώματος της εταιρίας Aroma σχεδιασμένη για κάθε τύπο επιδερμίδας. Αναζωογονεί και ενυδατώνει την επιδερμίδα με απαλή υφή, αφήνοντας μια αίσθηση απαλότητας.Οδηγίες Χρήσης• Απλώστε σε καθαρό δέρμα.• Κάντε απαλό μασάζ με απαλές κυκλικές κινήσεις μέχρι να απορροφηθεί εντελώς.</Description>
-		<Barcode>5208005110068</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>67113</ID>
-		<Name>AROMA Bio BODY MILK 300ML ΑΛΟΗ &amp; ΡΟΔΙ</Name>
-		<Product_Link>https://www.skroutz.gr/s/25198763/Aroma-Bio-Aloe-Pomerganate-Lotion-Anaplasis-me-Aloe-Vera-300ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/025198/25198763/20201012141543_aroma_bio_aloe_pomerganate_body_milk_300ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>2.370012</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
-		<Manufacturer>AROMA</Manufacturer>
-		<MPN>1219</MPN>
-		<Description>Γαλάκτωμα σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά του εμπεριέχει αλόη βέρα και ρόδι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Το γαλάκτωμα σώματος είναι δερματολογικά ελεγμένο και κατάλληλο για όλες τις ηλικίες και τους τύπους δέρματος.</Description>
-		<Barcode>5208005100434</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>67101</ID>
 		<Name>Aroma Bio Honey &amp; Yoghurt Body Butter 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/27993411/Aroma-Bio-Honey-Yoghurt-Body-Butter-200ml.html</Product_Link>
@@ -9670,6 +9636,56 @@
 		<Description>Γαλάκτωμα Σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής.Θρέφει, ενεργοποιεί, καταπραΰνει τους ερεθισμούς, επιταχύνει την επούλωση των πληγών. Έχει ευεργετική επίδραση διατηρώντας το κατάλληλο επίπεδο ενυδάτωσης του δέρματος και ενισχύει την ελαστικότητά του. . Η φόρμουλά του εμπεριέχει μέλι βέρα και γιαούρτι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας.</Description>
 		<Barcode>5208005110051</Barcode>
 		<Quantity>5</Quantity>
+	</product>
+	<product>
+		<ID>67112</ID>
+		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/17253517/Aroma-Body-Milk-Bio-Olive-Oil-Balsam-Enydatiki-Lotion-Somatos-300ml.html</Product_Link>
+		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/430/4/4300004644/body-milj-olive.jpg?id=1679489433</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.370012</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
+		<Manufacturer>AROMA</Manufacturer>
+		<MPN>1220</MPN>
+		<Description>Lotion σώματος της εταιρίας Aroma σχεδιασμένη για κάθε τύπο επιδερμίδας. Αναζωογονεί και ενυδατώνει την επιδερμίδα με απαλή υφή, αφήνοντας μια αίσθηση απαλότητας.Οδηγίες Χρήσης• Απλώστε σε καθαρό δέρμα.• Κάντε απαλό μασάζ με απαλές κυκλικές κινήσεις μέχρι να απορροφηθεί εντελώς.</Description>
+		<Barcode>5208005110068</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>67113</ID>
+		<Name>Aroma Bio Aloe &amp; Pomerganate Lotion Ανάπλασης με Aloe Vera 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/25198763/Aroma-Bio-Aloe-Pomerganate-Lotion-Anaplasis-me-Aloe-Vera-300ml.html</Product_Link>
+		<Image_Link>https://mastmarket.gr/wp-content/uploads/2023/10/4f0477450c34f6813a685de08c12beb4.png-600x600.webp</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.370012</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
+		<Manufacturer>AROMA</Manufacturer>
+		<MPN>1219</MPN>
+		<Description>Γαλάκτωμα σώματος ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά του εμπεριέχει αλόη βέρα και ρόδι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Το γαλάκτωμα σώματος είναι δερματολογικά ελεγμένο και κατάλληλο για όλες τις ηλικίες και τους τύπους δέρματος.</Description>
+		<Barcode>5208005100434</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>67121</ID>
+		<Name>Aroma After Sun Gel με Αλόη Βέρα 300ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/55787178/Aroma-After-Sun-Gel-me-Aloi-Vera-300ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/055787/55787178/xlarge_20240906142549_aroma_after_sun_gel_me_aloi_vera_300ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά&gt;Αντηλιακή Προστασία &amp; Μαύρισμα&gt;After Sun</Category_Path>
+		<Manufacturer>AROMA</Manufacturer>
+		<MPN>1219001</MPN>
+		<Description>Το ΝΕΟ προϊόν AROMA AFTER SUN THERAPY είναι σχεδιασμένο για εντατική φροντίδα του δέρματος μετά την έκθεση στον ήλιο.  Περιέχει τα πιο θρεπτικά &amp; επανορθωτικά συστατικά για το δέρμα:      Νιασιναμίδη     Αλόη     Εκχύλισμα φύλλων ελιάς     Εκχύλισμα χαμομηλιού     Πανθενόλη     Αλλαντοΐνη  Επιπλέον, είναι VEGAN και 97% NATURAL.</Description>
+		<Barcode>5208005143103</Barcode>
 	</product>
 	<product>
 		<ID>67151</ID>
@@ -10019,7 +10035,7 @@
 		<MPN>1084</MPN>
 		<Description>Γάντια πολυαιθυλενίου μιας χρήσης σε διάφανο χρώμα, τα οποία έχουν χαλαρή φόρμα για εύκολη εφαρμογή, είναι φιλικά προς το δέρμα και είναι ιδανικά κυρίως για χρήση σε εργασίες που απαιτούν συχνές αλλαγές γαντιών όπως η επαφή με μπογιές, χρώματα ή τρόφιμα.</Description>
 		<Barcode>5202054454876</Barcode>
-		<Quantity>315</Quantity>
+		<Quantity>305</Quantity>
 		<Size>One Size</Size>
 	</product>
 	<product>
@@ -15998,7 +16014,7 @@
 	</product>
 	<product>
 		<ID>78511</ID>
-		<Name>ΣΚΕΥΟΣ ΜΙΚΡΟΚΥΜΑΤΩΝ ΜΕ ΚΑΠΑΚΙ 750ml ΜΑΥΡΟ 50TEM</Name>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης με Αποσπώμενο Καπάκι και Χωρητικότητα 750ml Μαύρο 50τμχ Κατάλληλο για Φούρνο Μικροκυμάτων ΕΜ6747</Name>
 		<Product_Link>https://www.skroutz.gr/s/38134000/THalassinos-Plastiko-Skeyos-mias-CHrisis-me-Apospomeno-Kapaki-kai-CHoritikotita-750ml-Mayro-50tmch-5202054467579-25111.html</Product_Link>
 		<Image_Link>https://papabros.gr/wp-content/uploads/2024/05/SKEVOS_MICROWAVE_750ML_MAVRO_ME_KAPAKI_PAPABROS%CE%A3.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16015,7 +16031,7 @@
 	</product>
 	<product>
 		<ID>78512</ID>
-		<Name>ΣΚΕΥΟΣ ΜΙΚΡΟΚΥΜΑΤΩΝ ΜΕ ΚΑΠΑΚΙ 1000ml ΜΑΥΡΟ 50TEM</Name>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης με Αποσπώμενο Καπάκι και Χωρητικότητα 1000ml Μαύρο 50τμχ Κατάλληλο για Φούρνο Μικροκυμάτων ΕΜ6757</Name>
 		<Product_Link>https://www.skroutz.gr/s/33527222/THalassinos-Plastiko-Skeyos-mias-CHrisis-PP-me-Apospomeno-Kapaki-kai-CHoritikotita-1000ml-Mayro-50tmch-409.html</Product_Link>
 		<Image_Link>https://www.topoikilopoleio.gr/wp-content/uploads/2023/06/doxeia-faghtou-plastika-mias-xrhshs-me-kapaki-1000ml-50tem-2.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16031,25 +16047,25 @@
 		<Quantity>460</Quantity>
 	</product>
 	<product>
-		<ID>78521</ID>
-		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 250ml 50τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24038181/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-250ml-Diafano-50tmch-FT208-250.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/027203/27203342/20210218101225_diafano_sf250_b_pet_250ml_50tmch.jpeg</Image_Link>
+		<ID>785211</ID>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 250ml 100τμχ ΕΜ6643</Name>
+		<Product_Link>https://www.skroutz.gr/s/29572831/THalassinos-Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-250ml-Diafano-100tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029572/29572831/xlarge_20220518125137_thalassinos_skeyos_pet_250ml_diafano_100tmch_pet_a1_250cc.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.5532922496</Price>
+		<Price>3.11</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
-		<MPN>0833</MPN>
-		<Description>•Χρήση: για κρύα•Με ενσωματωμένο καπάκι•Κατασκευή από πλαστικό•Σχήμα: Τετράγωνο</Description>
-		<Barcode>5200425300982</Barcode>
-		<Quantity>0</Quantity>
+		<MPN>ΕΜ6643</MPN>
+		<Description>Σκεύος PET Διάφανο Ορθογώνιο 250cc, 9.5x10x3,5cm, με Καπάκι      100% από παρθένο διαφανές PET υψηλής διαύγειας     Βάρος: 9 gr</Description>
+		<Barcode>5202054466435</Barcode>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>785221</ID>
-		<Name>Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 500ml Διάφανο 100τμχ</Name>
+		<Name>Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 500ml Διάφανο 100τμχ ΕΜ6861</Name>
 		<Product_Link>https://www.skroutz.gr/s/24034809/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-500ml-Diafano-100tmch.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024034/24034809/xlarge_20200812112317_skeyos_diafano_pet_500ml_100tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16066,7 +16082,7 @@
 	</product>
 	<product>
 		<ID>785231</ID>
-		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 750ml Διάφανο 100τμχ</Name>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 750ml Διάφανο 100τμχ ΕΜ6645</Name>
 		<Product_Link>https://www.skroutz.gr/s/28191733/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-750ml-Diafano-100tmch-QFT750.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/028191/28191733/xlarge_20210409104507_skeyos_diafano_qft750_pet_750ml_100tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16083,7 +16099,7 @@
 	</product>
 	<product>
 		<ID>785241</ID>
-		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1000ml Διάφανο 100τμχ</Name>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1000ml Διάφανο 100τμχ ΕΜ6646</Name>
 		<Product_Link>https://www.skroutz.gr/s/40430538/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-1000ml-Diafano-100tmch-G1000A.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/040430/40430538/xlarge_20230120103428_plastiko_skeyos_mias_chrisis_pet_me_ensomatomeno_kapaki_kai_choritikotita_1000ml_diafano_100tmch_g1000a.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16100,7 +16116,7 @@
 	</product>
 	<product>
 		<ID>78525</ID>
-		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1250ml Διάφανο 50τμχ</Name>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1250ml Διάφανο 50τμχ ΕΜ7219</Name>
 		<Product_Link>https://www.skroutz.gr/s/24027747/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-1250ml-Diafano-50tmch-FT-GD208-1250.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024027/24027747/xlarge_20200715124648_lux_plast_diafano_ft_gd208_1250_pet_1250ml_50tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16133,8 +16149,24 @@
 		<Quantity>15</Quantity>
 	</product>
 	<product>
+		<ID>785262</ID>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml Διάφανο 50τμχ ΕΜ7220</Name>
+		<Product_Link>https://www.skroutz.gr/s/50446345/THalassinos-Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-1500ml-Diafano-50tmch-EM6229.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/050446/50446345/xlarge_20240213124911_thalassinos_plastiko_skeyos_mias_chrisis_pet_me_ensomatomeno_kapaki_kai_choritikotita_1500ml_diafano_50tmch_em6229.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>ΕΜ7220</MPN>
+		<Description>Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml. Διάφανο.      Τύπος: Σκεύος μιας Χρήσης     Υλικό: PET     Χωρητικότητα: 1500ml     Συσκευασία: 50 τεμάχια</Description>
+		<Barcode>5202054472207</Barcode>
+	</product>
+	<product>
 		<ID>78527</ID>
-		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 2000ml Διάφανο 50τμχ</Name>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 2000ml Διάφανο 50τμχ ΕΜ7221</Name>
 		<Product_Link>https://www.skroutz.gr/s/24027901/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-2000ml-Diafano-50tmch-FT-GD208-2000.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/033251/33251358/20211230132650_diafano_qft2000_pet_2000ml_50tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16185,7 +16217,7 @@
 	</product>
 	<product>
 		<ID>78531</ID>
-		<Name>ΣΩΣΑΚΙ ΜΕ ΚΑΠΑΚΙ 70ml 50TEM</Name>
+		<Name>Θαλασσινός Πλαστικό Σωσάκι μιας Χρήσης με Ενσωματωμένο Καπάκι και Χωρητικότητα 70ml 50τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24029956/Plastiko-Sosaki-mias-CHrisis-PP-me-Ensomatomeno-Kapaki-kai-CHoritikotita-70ml-Diafano-50tmch.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/040907/40907457/xlarge_20230317130126_plastiko_sosaki_mias_chrisis_pp_me_ensomatomeno_kapaki_kai_choritikotita_70ml_diafano_50tmch_60263509.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16202,7 +16234,7 @@
 	</product>
 	<product>
 		<ID>78532</ID>
-		<Name>ΣΩΣΑΚΙ ΜΕ ΚΑΠΑΚΙ 180ml 50TEM (ΜΝΗΜΟΣΥΝΟΥ)</Name>
+		<Name>Θαλασσινός Πλαστικό Σωσάκι μιας Χρήσης με Ενσωματωμένο Καπάκι και Χωρητικότητα 180ml 50τμχ (Μνημοσύνου)</Name>
 		<Product_Link>https://www.skroutz.gr/s/40405269/Plastiko-Sosaki-mias-CHrisis-me-Apospomeno-Kapaki-kai-CHoritikotita-180ml-Diafano-50tmch.html</Product_Link>
 		<Image_Link>https://www.cleanshop.gr/wp-content/uploads/2021/11/586200533azmn.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -16750,7 +16782,7 @@
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<Barcode>5207243085343</Barcode>
-		<Quantity>410</Quantity>
+		<Quantity>405</Quantity>
 	</product>
 	<product>
 		<ID>78991111</ID>
@@ -23111,7 +23143,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Τα μανιτάρια Frescon είναι συντηρημένα με τις πιο προηγμένες μεθόδους κονσερβοποίησης, ώστε να διατηρηθεί η ποιότητα και η γεύση της πρώτης ύλης, όσο πιο φρέσκια γίνεται και για όσο περισσότερο καιρό γίνεται.</Description>
 		<Barcode>5200128642068</Barcode>
-		<Quantity>2117</Quantity>
+		<Quantity>2107</Quantity>
 	</product>
 	<product>
 		<ID>85221</ID>
@@ -23219,7 +23251,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<Barcode>6111260550359</Barcode>
-		<Quantity>109</Quantity>
+		<Quantity>99</Quantity>
 	</product>
 	<product>
 		<ID>852261</ID>
@@ -23363,7 +23395,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Κατασκευασμένο από υψηλής ποιότητας βοδινό κρέας που έχει υποστεί επεξεργασία για να δημιουργηθεί ένας νόστιμος και θρεπτικός μπαλωμένος κιμάς. Είναι ιδανικός για δημιουργία σάντουιτς, σαλάτες ή γεύματα που απαιτούν γρήγορη προετοιμασία. Με τη χαρακτηριστική γεύση του, μπορεί να χρησιμοποιηθεί και σε πολλές κουζίνες ως βασικό συστατικό για πιάτα που απαιτούν κρέας.</Description>
 		<Barcode>7790360000477</Barcode>
-		<Quantity>236</Quantity>
+		<Quantity>221</Quantity>
 	</product>
 	<product>
 		<ID>85241</ID>
