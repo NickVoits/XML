@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-02 09:05</created_at>
+	<created_at>2025-04-02 09:46</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>376</Quantity>
+		<Quantity>378</Quantity>
 	</product>
 	<product>
 		<ID>31023-Τ</ID>
@@ -233,7 +233,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900045</Barcode>
-		<Quantity>115</Quantity>
+		<Quantity>114</Quantity>
 	</product>
 	<product>
 		<ID>32031-Τ</ID>
@@ -395,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>63</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -467,7 +467,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>119</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -809,7 +809,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>3208</Quantity>
+		<Quantity>3196</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -827,7 +827,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000133335</Barcode>
-		<Quantity>1612</Quantity>
+		<Quantity>1606</Quantity>
 	</product>
 	<product>
 		<ID>12021-Τ</ID>
@@ -845,7 +845,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>366</Quantity>
+		<Quantity>365</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -863,7 +863,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>598</Quantity>
+		<Quantity>597</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -1348,7 +1348,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
 		<Barcode>5201946911268</Barcode>
-		<Quantity>33</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>130319</ID>
@@ -1528,7 +1528,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>263</Quantity>
+		<Quantity>260</Quantity>
 	</product>
 	<product>
 		<ID>13038</ID>
@@ -1564,7 +1564,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703172</Barcode>
-		<Quantity>335</Quantity>
+		<Quantity>333</Quantity>
 	</product>
 	<product>
 		<ID>14022</ID>
@@ -1724,7 +1724,7 @@
 		<Manufacturer>MONSTER</Manufacturer>
 		<MPN>1782</MPN>
 		<Description>Ενεργειακό ποτό με ελαφριά γεύση και ισορροπημένη γλυκύτητα, το οποίο δεν περιέχει ζάχαρη ή θερμίδες.</Description>
-		<Barcode>5060166692384</Barcode>
+		<Barcode>5060337501125</Barcode>
 		<Quantity>224</Quantity>
 	</product>
 	<product>
@@ -1851,7 +1851,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<Barcode>5202908004011</Barcode>
-		<Quantity>1565</Quantity>
+		<Quantity>1538</Quantity>
 	</product>
 	<product>
 		<ID>17058</ID>
@@ -2355,7 +2355,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>1048</Quantity>
+		<Quantity>1037</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2373,7 +2373,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>736</Quantity>
+		<Quantity>731</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2391,7 +2391,41 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>1198</Quantity>
+		<Quantity>1195</Quantity>
+	</product>
+	<product>
+		<ID>20601-Τ</ID>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt</Name>
+		<Product_Link>https://www.skroutz.gr/s/34680568/Zagori-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/034680/34680568/xlarge_20220318114308_zagori_fysiko_metalliko_nero_0_5lt.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>0.16</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
+		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
+		<MPN>10 160</MPN>
+		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
+		<Barcode>5201627019900</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>20603-Τ</ID>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt</Name>
+		<Product_Link>https://www.skroutz.gr/s/26743304/Zagori-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/026743/26743304/xlarge_20210122155227_zagori_fysiko_metalliko_nero_1_5lt_1tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>0.32</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
+		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
+		<MPN>10 105</MPN>
+		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
+		<Barcode>5201627019887</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>21501011</ID>
@@ -2715,7 +2749,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>942</Quantity>
+		<Quantity>936</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2787,7 +2821,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>168</Quantity>
+		<Quantity>162</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -2823,7 +2857,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Μοσχάτο κοκκινέλι είναι ερυθρός ξηρός οίνος που παράγεται από Μοσχάτο. Είναι κρασί με φωτεινό κόκκινο χρώμα που συνοδεύει απολαυστικά μεγάλη ποικιλία φαγητών. Πίνεται σε θερμοκρασία 12-14°C.</Description>
 		<Barcode>5202037115039</Barcode>
-		<Quantity>146</Quantity>
+		<Quantity>140</Quantity>
 	</product>
 	<product>
 		<ID>40224</ID>
@@ -2841,7 +2875,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<Barcode>5202037115053</Barcode>
-		<Quantity>295</Quantity>
+		<Quantity>289</Quantity>
 	</product>
 	<product>
 		<ID>40411</ID>
@@ -3397,7 +3431,7 @@
 		<MPN>1317</MPN>
 		<Description>Το Κτήμα Βιβλία Χώρα Ερυθρό, πρόκειται για ένα ιδιαίτερο χαρμάνι όπου δύο γαλλικές ποικιλίες από το Bordeaux, το Cabernet Sauvignon και το Merlot, συναντούν το ελληνικό Αγιωργίτικο. Το κρασί παλαιώνεται για 12 μήνες σε δρύινα γαλλικά βαρέλια.Χρώμα βαθύ πορφυρό. Στη μύτη, διακρίνονται αρώματα κόκκινων φρούτων, φραγκοστάφυλου και δαμάσκηνου, τα οποία συνοδεύονται από αρώματα μπαχαρικών, κανέλας, και νότες καραμέλας, βανίλιας, κέδρου και σοκολάτας γάλακτος. Στο στόμα έχει γεμάτο σώμα, βελούδινες τανίνες, γεύσεις κόκκινων φρούτων και γλυκών μπαχαρικών με ευχάριστη μακρά επίγευση.Συνοδεύει ιδανικά κόκκινα κρέατα με πλούσιες κόκκινες σάλτσες καθώς και σχάρας.</Description>
 		<Barcode>5200101710036</Barcode>
-		<Quantity>7</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>46273</ID>
@@ -3925,7 +3959,7 @@
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888070027</Barcode>
-		<Quantity>388</Quantity>
+		<Quantity>384</Quantity>
 	</product>
 	<product>
 		<ID>470935</ID>
@@ -4818,7 +4852,7 @@
 		<MPN>101122003</MPN>
 		<Description>Ρόδοινος από Μοσχάτο με εκρηκτικά αρώματα τριαντάφυλλου και ρόδων, ευγενικό άγγιγμα των σακχάρων και ισορροπημένο στη γεύση με μακρύ τελείωμα που ολοκληρώνει το εκπληκτικό σύνολο.</Description>
 		<Barcode>5202037000052</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>47952</ID>
@@ -4991,7 +5025,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1897</Quantity>
+		<Quantity>1849</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5063,7 +5097,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>2438</Quantity>
+		<Quantity>2414</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5260,7 +5294,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<Barcode>520237120064</Barcode>
-		<Quantity>294</Quantity>
+		<Quantity>270</Quantity>
 	</product>
 	<product>
 		<ID>52352</ID>
@@ -7197,7 +7231,7 @@
 		<MPN>1244</MPN>
 		<Description>Ταμπόν με σπειροειδή αυλάκια είναι σχεδιασμένα ώστε να οδηγούν το υγρό αποτελεσματικά και με ασφάλεια στο εσωτερικό του ταμπόν για αξιόπιστη προστασία.</Description>
 		<Barcode>3574660240009</Barcode>
-		<Quantity>208</Quantity>
+		<Quantity>206</Quantity>
 	</product>
 	<product>
 		<ID>61103</ID>
@@ -9106,7 +9140,7 @@
 		<MPN>1386</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395647817</Barcode>
-		<Quantity>97</Quantity>
+		<Quantity>91</Quantity>
 	</product>
 	<product>
 		<ID>66506.60</ID>
@@ -10765,7 +10799,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>742</Quantity>
+		<Quantity>740</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -10783,7 +10817,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα.</Description>
 		<Barcode>8008970055268</Barcode>
-		<Quantity>667</Quantity>
+		<Quantity>665</Quantity>
 	</product>
 	<product>
 		<ID>71027</ID>
@@ -11223,7 +11257,7 @@
 		<MPN>1271</MPN>
 		<Description>Το καθαριστικό λεκέδων της εταιρείας Shout είναι ιδανικό για πολύ λερωμένα ρούχα ή για μία έξτρα δόση καθαριότητας σε κάθε πλύση μαζί με το απορρυπαντικό σας. Σε περίπτωση πολύ σκληρών λεκέδων μπορεί να εφαρμοστεί απευθείας στο σημείο, πριν το πλύσιμο.Οδηγίες Χρήσης: Ελέγχετε πάντα την θερμοκρασία πλυσίματος στην ετικέτα ρούχων.Προφυλάξεις: Μακριά από παιδιά.</Description>
 		<Barcode>80225843</Barcode>
-		<Quantity>1814</Quantity>
+		<Quantity>1813</Quantity>
 	</product>
 	<product>
 		<ID>71322</ID>
@@ -11529,7 +11563,7 @@
 		<MPN>1765</MPN>
 		<Description>Απορρυπαντικό γενικής χρήσης, πολυκαθαριστική δράση με μέγιστη αποτελεσματικότητα.  Ιδανικό για:  - Δύσκολους Λεκέδες  - Σκληρή βρωμιά  - Καθαριότητα  - Οικονομία</Description>
 		<Barcode>5201321941927</Barcode>
-		<Quantity>410</Quantity>
+		<Quantity>408</Quantity>
 	</product>
 	<product>
 		<ID>72111</ID>
@@ -11597,7 +11631,7 @@
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<Barcode>5000186735012</Barcode>
-		<Quantity>577</Quantity>
+		<Quantity>576</Quantity>
 	</product>
 	<product>
 		<ID>72172</ID>
@@ -11699,7 +11733,7 @@
 		<MPN>1113</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
 		<Barcode>8410436151061</Barcode>
-		<Quantity>618</Quantity>
+		<Quantity>617</Quantity>
 	</product>
 	<product>
 		<ID>72252</ID>
@@ -11733,7 +11767,7 @@
 		<MPN>1273</MPN>
 		<Description>Με 40% περισσότερο άρωμα και καθαριστική δράση στον πυρήνα κάθε μπάλας συγκριτικά με το εξωτερικό περίβλημα, το νέο Bref WC Escapes αποτελεί την ιδανική επιλογή για την υγιεινή της τουαλέτας. Η μοναδική του σύνθεση 4 λειτουργειών το καθιστά ως την πρώτη επιλογή, καθώς αποτρέπει τον σχηματισμό αλάτων, απελευθερώνει καθαριστικό αφρό, παρέχει ένα σύστημα ενεργής προστασίας, αποτρέποντας την συσσώρευση υπολειμμάτων και προσφέρει περισσότερη φρεσκάδα. Απλά τοποθετήστε το προϊόν στο χείλος της λεκάνης, προσαρμόστε το σύμφωνα με τη ροή του νερού και απολαύστε μέγιστη καθαριότητα και φρεσκάδα αρώματος εξωτικών λουλουδιών σε κάθε χρήση!</Description>
 		<Barcode>8015100568888</Barcode>
-		<Quantity>428</Quantity>
+		<Quantity>426</Quantity>
 	</product>
 	<product>
 		<ID>72255001</ID>
@@ -11971,7 +12005,7 @@
 		<MPN>0937</MPN>
 		<Description>Το Ajax ανανεώνεται με καινούργια σύνθεση, αποτελεσματικότερη και φιλικότερη προς τον πλανήτη μας με 24ωρο Άρωμα Φρεσκάδας! Το Ajax εξελίσσεται όπως και εσείς. Ανώτερη αποτελεσματικότητα σε σύγκριση με την προηγούμενη σύνθεση. 96% βιοδιασπώμενη σύνθεση. Ανακυκλώσιμο μπουκάλι και καπάκι. Μπουκάλι από 100% ανακυκλωμένο πλαστικό. Παρασκευάζεται σε πιστοποιημένο εργοστάσιο μηδενικών αποβλήτων. Παράγεται υπεύθυνα με άρωμα από φυσικά εκχυλίσματα. Με 99% συστατικά φυσικής προέλευσης και 100% καθαριστική δύναμη.</Description>
 		<Barcode>8718951333512</Barcode>
-		<Quantity>215</Quantity>
+		<Quantity>214</Quantity>
 	</product>
 	<product>
 		<ID>73071</ID>
@@ -15193,7 +15227,7 @@
 		<MPN>E-0513</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους.</Description>
 		<Barcode>5203642105132</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>77300102</ID>
@@ -15839,7 +15873,7 @@
 		<MPN>1687</MPN>
 		<Description>Σετ 100 σκεύη αλουμινίου μεσαία μίας χρήσης 22 5x17 5x3 5cm     Ιδανικά για μεταφορά τροφίμων, αλλά και για ψήσιμο σε φούρνους έως 220 βαθμούς.     Με υψηλές προδιαγραφές ποιότητας και υγιεινής.     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
 		<Barcode>8011851202118</Barcode>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 	</product>
 	<product>
 		<ID>785021</ID>
@@ -17246,6 +17280,40 @@
 		<Quantity>160</Quantity>
 	</product>
 	<product>
+		<ID>79320101</ID>
+		<Name>Esperanza Πλαστικοποιητής Infinity Επιτραπέζιος για A4 EFL001</Name>
+		<Product_Link>https://www.skroutz.gr/s/15345384/Esperanza-Plastikopoiitis-Infinity-Epitrapezios-gia-A4-EFL001.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/015345/15345384/xlarge_20200214131727_esperanza_laminator_infinity.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.85</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B&gt;Μηχανές Γραφείου &gt; Πλαστικοποιητές</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EFL001</MPN>
+		<Description>Ο πλαστικοποιητής Infinity της Esperanza είναι ιδανικός για την προστασία σημαντικών εγγράφων ή φωτογραφιών εύκολα και γρήγορα.  Είναι κατασκευασμένος από πλαστικό υψηλής ποιότητας, υποστηρίζει λειτουργίες θερμής και ψυχρής πλαστικοποίησης και προστασία από υπερθέρμανση.  Για έγγραφα μεγέθους έως Α4 με ταχύτητα πλαστικοποίησης 250mm/λεπτό και μέγιστο χρόνο προθέρμανσης περίπου 5 λεπτά. Τεχνικά Χαρακτηριστικά:      Ισχύς: 265W     Τροφοδοσία: 220-240V     Συχνότητα: 50Hz     Συμβατό πάχος φύλλων: 80-125 microns     Μέγιστη διάσταση φύλλου: 210 x 297 mm (A4)     Χρόνος προθέρμανσης:: περίπου 5 λεπτά     Ταχύτητα πλαστικοποίησης: 250mm/λεπτό     Μέγιστο πλάτος φύλλου: 240mm     Μέγιστο πάχος φύλλου: 0.6mm     Αριθμός ρολών: 2     Υλικό: πλαστικό (ABS)     Μήκος καλωδίου: περίπου 154 cm     Διαστάσεις: 345 x 140 x 65 mm     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
+		<Barcode>5901299932025</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>79320102</ID>
+		<Name>Esperanza Πλαστικοποιητής Infinity Επιτραπέζιος για A3 EFL003</Name>
+		<Product_Link>https://www.skroutz.gr/s/19524561/Esperanza-Plastikopoiitis-Infinity-Epitrapezios-gia-A3-EFL003.html#reviews</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/019524/19524561/xlarge_20200319103915_esperanza_laminator_infinity_a3.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.48</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B&gt;Μηχανές Γραφείου &gt; Πλαστικοποιητές</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EFL003</MPN>
+		<Description>Ο πλαστικοποιητής Infinity της Esperanza είναι ιδανικός για την προστασία σημαντικών εγγράφων ή φωτογραφιών εύκολα και γρήγορα.  Είναι κατασκευασμένος από πλαστικό υψηλής ποιότητας, υποστηρίζει λειτουργίες θερμής και ψυχρής πλαστικοποίησης και προστασία απο υπερθέρμανση.  Για έγγραφα μεγέθους έως Α3 με ταχύτητα πλαστικοποίησης 250mm/λεπτό και μέγιστο χρόνο προθέρμανσης περίπου 5 λεπτά. Τεχνικά Χαρακτηριστικά:      Ισχύς: 265W     Τροφοδοσία: 220-240V     Συχνότητα: 50Hz     Συμβατό πάχος φύλλων: 80-125 microns     Μέγιστη διάσταση φύλλου: 210 x 297 mm (A4)     Χρόνος προθέρμανσης:: περίπου 5 λεπτά     Ταχύτητα πλαστικοποίησης: 250mm/λεπτό     Μέγιστο πλάτος φύλλου: 240mm     Μέγιστο πάχος φύλλου: 0.6mm     Αριθμός ρολών: 2     Υλικό: πλαστικό (ABS)     Μήκος καλωδίου: περίπου 154 cm     Διαστάσεις: 345 x 140 x 65 mm     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
+		<Barcode>5901299949443</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>79401</ID>
 		<Name>Typotrust Κλασέρ 8/32 για Χαρτί A4 Μαύρο</Name>
 		<Product_Link>https://www.skroutz.gr/s/45150655/Typotrust-Klaser-8-32-gia-CHarti-A4-Mayro-1083201.html</Product_Link>
@@ -17851,7 +17919,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0062347682816</Price>
+		<Price>0.9529230268800001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17868,7 +17936,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1269831175712</Price>
+		<Price>1.05829503264</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17885,7 +17953,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.15381608408</Price>
+		<Price>1.08840132</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17902,7 +17970,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3282303663872</Price>
+		<Price>1.25398590048</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17919,7 +17987,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.62</Price>
+		<Price>1.52494248672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17936,7 +18004,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0062347682816</Price>
+		<Price>0.9529230268800001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17953,7 +18021,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1269831175712</Price>
+		<Price>1.05829503264</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17970,7 +18038,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.15381608408</Price>
+		<Price>1.08840132</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -17987,7 +18055,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3282303663872</Price>
+		<Price>1.25398590048</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18004,7 +18072,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.62</Price>
+		<Price>1.52494248672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18021,7 +18089,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0062347682816</Price>
+		<Price>0.9529230268800001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18038,7 +18106,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1269831175712</Price>
+		<Price>1.05829503264</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18055,7 +18123,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.15381608408</Price>
+		<Price>1.08840132</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18072,7 +18140,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3282303663872</Price>
+		<Price>1.25398590048</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18089,7 +18157,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.623392997984</Price>
+		<Price>1.52494248672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18106,7 +18174,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.15381608408</Price>
+		<Price>1.08840132</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18123,7 +18191,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3282303663872</Price>
+		<Price>1.25398590048</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18140,7 +18208,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.623392997984</Price>
+		<Price>1.52494248672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18157,7 +18225,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1269831175712</Price>
+		<Price>1.08840132</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18174,7 +18242,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3282303663872</Price>
+		<Price>1.25398590048</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18191,7 +18259,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.623392997984</Price>
+		<Price>1.52494248672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18208,7 +18276,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1269831175712</Price>
+		<Price>1.08840132</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18225,7 +18293,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3282303663872</Price>
+		<Price>1.25398590048</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18242,7 +18310,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.623392997984</Price>
+		<Price>1.52494248672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18259,7 +18327,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.019651251536</Price>
+		<Price>0.9679761705600001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18276,7 +18344,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1403996008256</Price>
+		<Price>1.07334817632</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18293,7 +18361,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.019651251536</Price>
+		<Price>0.9679761705600001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18310,7 +18378,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1403996008256</Price>
+		<Price>1.07334817632</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18327,7 +18395,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.019651251536</Price>
+		<Price>0.9679761705600001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18344,7 +18412,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1403996008256</Price>
+		<Price>1.07334817632</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18361,7 +18429,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0062347682816</Price>
+		<Price>0.9529230268800001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18378,7 +18446,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1403996008256</Price>
+		<Price>1.07334817632</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18395,7 +18463,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0062347682816</Price>
+		<Price>0.9529230268800001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18412,7 +18480,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1403996008256</Price>
+		<Price>1.07334817632</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18429,7 +18497,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0062347682816</Price>
+		<Price>0.9529230268800001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18446,7 +18514,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1403996008256</Price>
+		<Price>1.07334817632</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18463,7 +18531,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.07</Price>
+		<Price>4.74631523424</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18480,7 +18548,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.59</Price>
+		<Price>7.109658791999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18497,7 +18565,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.07</Price>
+		<Price>4.74631523424</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -18514,7 +18582,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.59</Price>
+		<Price>7.109658791999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες LED</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -19034,6 +19102,74 @@
 		<Quantity>1183</Quantity>
 	</product>
 	<product>
+		<ID>797510101</ID>
+		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Μαύρο EOT004M</Name>
+		<Product_Link>https://www.skroutz.gr/s/22606995/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-Altair-EOT004M-Mayro-EOT004M.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/022606/22606995/xlarge_20221215132053_esperanza_fakos_led_adiavrochos_me_megisti_foteinotita_46lm_altair_eot004m_black.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.41</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EOT004M-1</MPN>
+		<Description>Φακός χειρός LED της Esperanza, κατάλληλος για χρήση σε δραστηριότητες όπως κατασκήνωση, πεζοπορία, ποδηλασία, κυνήγι, ψάρεμα ή κατά διάρκεια των εργασιών όπως επισκευή στο σπίτι. Λειτουργεί με 3 μπαταρίες AAA (δεν συμπεριλαμβάνονται). Η μέγιστη ισχύς της φωτεινότητάς του φτάνει έως 46lm. Χαρακτηριστικά      Υλικό: Αλουμίνιο     Διαστάσεις: 8.6x 2.5εκ.     Mini φακός Esperanza με 9 LED λαμπτήρες.     Κατάλληλη επιλογή για εξωτερικούς χώρους, το κάμπινγκ ή το σπίτι.     Δουλεύει με 3xAAA μπαταρίες (δεν περιλαμβάνονται)</Description>
+		<Barcode>5901299915868</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>797510102</ID>
+		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Ασημί EOT004M</Name>
+		<Product_Link>https://www.skroutz.gr/s/53414876/Esperanza-EOT004M.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/053414/53414876/xlarge_20241202155301_esperanza_eot004m.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.41</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EOT004M-2</MPN>
+		<Description>Φακός χειρός LED της Esperanza, κατάλληλος για χρήση σε δραστηριότητες όπως κατασκήνωση, πεζοπορία, ποδηλασία, κυνήγι, ψάρεμα ή κατά διάρκεια των εργασιών όπως επισκευή στο σπίτι. Λειτουργεί με 3 μπαταρίες AAA (δεν συμπεριλαμβάνονται). Η μέγιστη ισχύς της φωτεινότητάς του φτάνει έως 46lm. Χαρακτηριστικά      Υλικό: Αλουμίνιο     Διαστάσεις: 8.6x 2.5εκ.     Mini φακός Esperanza με 9 LED λαμπτήρες.     Κατάλληλη επιλογή για εξωτερικούς χώρους, το κάμπινγκ ή το σπίτι.     Δουλεύει με 3xAAA μπαταρίες (δεν περιλαμβάνονται)</Description>
+		<Barcode>5901299915868</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>797510103</ID>
+		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Μπλε EOT004M</Name>
+		<Product_Link>https://www.skroutz.gr/s/53414951/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-EOT004M-Mple.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/053414/53414951/xlarge_20240513141925_esperanza_fakos_led_adiavrochos_me_megisti_foteinotita_46lm_eot004m_blue_black.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.41</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EOT004M-3</MPN>
+		<Description>Φακός χειρός LED της Esperanza, κατάλληλος για χρήση σε δραστηριότητες όπως κατασκήνωση, πεζοπορία, ποδηλασία, κυνήγι, ψάρεμα ή κατά διάρκεια των εργασιών όπως επισκευή στο σπίτι. Λειτουργεί με 3 μπαταρίες AAA (δεν συμπεριλαμβάνονται). Η μέγιστη ισχύς της φωτεινότητάς του φτάνει έως 46lm. Χαρακτηριστικά      Υλικό: Αλουμίνιο     Διαστάσεις: 8.6x 2.5εκ.     Mini φακός Esperanza με 9 LED λαμπτήρες.     Κατάλληλη επιλογή για εξωτερικούς χώρους, το κάμπινγκ ή το σπίτι.     Δουλεύει με 3xAAA μπαταρίες (δεν περιλαμβάνονται)</Description>
+		<Barcode>5901299915868</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>797510104</ID>
+		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Κόκκινο EOT004M</Name>
+		<Product_Link>https://www.skroutz.gr/s/53414948/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-EOT004M-Red.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/053414/53414948/xlarge_20241202161554_esperanza_fakos_led_adiavrochos_me_megisti_foteinotita_46lm_eot004m_red.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.41</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EOT004M-4</MPN>
+		<Description>Φακός χειρός LED της Esperanza, κατάλληλος για χρήση σε δραστηριότητες όπως κατασκήνωση, πεζοπορία, ποδηλασία, κυνήγι, ψάρεμα ή κατά διάρκεια των εργασιών όπως επισκευή στο σπίτι. Λειτουργεί με 3 μπαταρίες AAA (δεν συμπεριλαμβάνονται). Η μέγιστη ισχύς της φωτεινότητάς του φτάνει έως 46lm. Χαρακτηριστικά      Υλικό: Αλουμίνιο     Διαστάσεις: 8.6x 2.5εκ.     Mini φακός Esperanza με 9 LED λαμπτήρες.     Κατάλληλη επιλογή για εξωτερικούς χώρους, το κάμπινγκ ή το σπίτι.     Δουλεύει με 3xAAA μπαταρίες (δεν περιλαμβάνονται)</Description>
+		<Barcode>5901299915868</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>797510201</ID>
 		<Name>Entac Επαναφορτιζόμενος Φακός LED Αδιάβροχος IP44 Διπλής Λειτουργίας με Φωτεινότητα 400lm Flashlight 5W 15.007.0057</Name>
 		<Product_Link>https://www.skroutz.gr/s/28679075/Entac-Epanafortizomenos-Fakos-LED-Adiavrochos-IP44-Diplis-Leitourgias-me-Megisti-Foteinotita-400lm-Flashlight-5W-EFL-CAMP.html</Product_Link>
@@ -19238,6 +19374,23 @@
 		<Quantity>25</Quantity>
 	</product>
 	<product>
+		<ID>799120201</ID>
+		<Name>Esperanza Ψηφιακή Ζυγαριά Κουζίνας 1gr/5kg Black ΕKS002K</Name>
+		<Product_Link>https://www.skroutz.gr/s/8024883/Esperanza-EKS002K-PSifiaki-Zygaria-Kouzinas-1gr-5kg-Black.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/008024/8024883/xlarge_20211110121521_esperanza_eks002k_psifiaki_zygaria_kouzinas_5kg_black_lemon.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt;Συσκευές Επεξεργασίας Τροφίμων &gt; Ζυγαριές Κουζίνας</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>ΕKS002K</MPN>
+		<Description>Η ζυγαρία της Esperanza είναι κατάλληλη για την κουζίνα. Το μικρό της μέγεθος είναι ιδανικό για εύκολη αποθήκευση. Είναι κατασκευασμένη από γυαλί σε μοντέρνο design. Διαθέτει ψηφιακό κέντρο ελέγχου και μπορεί να ζυγίσει εως 5kg. Είναι κατάλληλο για τη ζύγιση όλων των ξηρών και υγρών τροφίμων.      Μεγάλη οθόνη LCD: 53 * 21.6mm      Μέγεθος προϊόντος: 20.5 * 16.5 * 2cm      Εξοπλισμένη με μέτρηση υψηλής ακρίβειας.      Μέγιστη μέτρηση βάρους: 5000g      Διαίρεση: 1g      Τέσσερις μονάδες μέτρησης: g / lb / oz / kg      Λειτουργία απόβαρου      Ένδειξη υπερφόρτωσης      Ένδειξη χαμηλής μπαταρίας</Description>
+		<Barcode>5901299914151</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7991301</ID>
 		<Name>Eurolamp Τοστιέρα για 2 Τοστ 800W Μαύρη</Name>
 		<Product_Link>https://www.skroutz.gr/s/31416404/Eurolamp-300-70022-Tostiera-gia-2-Tost-800W-Mayri.html</Product_Link>
@@ -19253,6 +19406,23 @@
 		<Description>Μαύρη τοστιέρα 2 θέσεων από ανοξείδωτο ατσάλι και πλαστικό. Διαθέτει αντικολλητικές πλάκες, ένδειξη λειτουργίας - ετοιμότητας του τοστ, λαβή κλειδώματος. Οι αντικολλητικές πλάκες γκριλ, προσφέρουν γρήγορο και ομοιόμορφο ψησιμό σε έως 2 λεπτά.</Description>
 		<Barcode>5207227142536</Barcode>
 		<Quantity>24</Quantity>
+	</product>
+	<product>
+		<ID>799130201</ID>
+		<Name>Esperanza Επιτραπέζια Εστία Επαγωγική Μονή Μαύρη EKH011</Name>
+		<Product_Link>https://www.skroutz.gr/s/38203650/Esperanza-EKH011-Epitrapezia-Estia-Epagogiki-Moni-Mayri-EKH011.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/038203/38203650/xlarge_20220916094449_esperanza_ekh011_epitrapezia_estia_keramiki_moni_mayri.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.8</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Επιτραπέζιες Εστίες</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EKH011</MPN>
+		<Description>Επαγωγική Εστία  Ο τύπος της είναι επαγωγική, θερμαίνεται δηλαδή μόνο το κάτω μέρος από το σκεύος και όχι όλη η εστία, με αποτέλεσμα η περιβάλλουσα περιοχή να παραμένει κρύα στην αφή. Χρησιμοποιεί λιγότερη ενέργεια σε σχέση με τους υπόλοιπους τύπους εστιών και ο χρόνος μαγειρέματος μειώνεται στο μισό. Ενδεικτικά, το νερό βράζει σε λιγότερο από 90 δευτερόλεπτα.  Ο καθαρισμός της είναι πανεύκολος, αφού η περιοχή γύρω από το σκεύος παραμένει κρύα, άρα οτιδήποτε χυθεί δεν θερμαίνεται και δεν κολλάει στην επιφάνεια.  Απαραίτητη προϋπόθεση για αυτόν τον τύπο εστιών είναι ότι τα σκεύη πρέπει να είναι συμβατά για επαγωγικές εστίες, δηλαδή κατασκευασμένα από ανοξείδωτο ατσάλι ή χυτοσίδηρο, καθώς δεν μπορούμε να χρησιμοποιήσουμε όλα τα είδη σκευών. Τέλος, αν έχετε μικρά παιδιά θεωρείται η πιο ασφαλής επιλογή. Χειρισμός αφής  Ο χειρισμός για την επιλογή των επιθυμητών θερμοκρασιών και ρυθμίσεων γίνεται ψηφιακά και μέσω αφής.  Όλες οι επιλογές βρίσκονται ενσωματωμένες στην επιφάνεια, συνεπώς το μόνο που χρειάζεται για να ξεκινήσετε το μαγείρεμα, είναι μερικά απαλά αγγίγματα με το δάχτυλό σας.  Στην ψηφιακή οθόνη της μπορείτε να βλέπετε ανά πάσα στιγμή τις τρεχουσες ρυθμίσεις σας. Επιφάνεια μαγειρέματος  Διαθέτει μεγάλη επιφάνεια μαγειρέματος διαμέτρου από 14 έως 22 cm. Μπορεί να αναπτύξει θερμοκρασίες από 80°C έως 270°C.  Πρόκειται για μία έξυπνη εστία που προειδοποιεί στην περίπτωση χρήσης ακατάλληλου ή πολύ μικρού σκεύους.  Οι 5 προεπιλεγμένες λειτουργίες θα σας βοηθήσουν στην παρασκευή οποιουδήποτε φαγητού επιθυμείτε. Χρονοδιακόπτης  Ηλεκτρονικός χρονοδιακόπτης που τερματίζει αυτόματα την λειτουργία της εστίας, στο τέλος του επιθυμητού χρόνου μαγειρέματος. Ιδανική για τα ταξίδια και το εξοχικό  Ο απλός σχεδιασμός της ταιριάζει σε κάθε κουζίνα και το εύχρηστο μέγεθος καθιστά εύκολη τη μεταφορά είτε για κάμπινγκ, είτε για διακοπές είτε για μετακόμιση.      Διαστάσεις: 28 x 36 x 7 cm</Description>
+		<Barcode>5901299963869</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79917011</ID>
@@ -19459,6 +19629,57 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>799400101</ID>
+		<Name>Esperanza Παλμικό Οξύμετρο Δακτύλου Μαύρο ECO001</Name>
+		<Product_Link>https://www.skroutz.gr/s/11875610/Esperanza-ECO001-Palmiko-Oxymetro-Daktylou-Mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/011875/11875610/xlarge_20211022121832_esperanza_palmiko_oxymetro_daktylou_eco001.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά&gt;Διαγνωστικά Όργανα&gt;Οξύμετρα</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>ECO001</MPN>
+		<Description>Παλμικό οξύμετρο δακτύλου που μετράει τα επίπεδα κορεσμού του οξυγόνου στο αίμα και τους καρδιακούς παλμούς.  Διαθέτει μεγάλη και έγχρωμη οθόνη με 4 μετρήσεις και είναι ιδανικό για τα άτομα με καρδιακή ανεπάρκεια, χρόνιες παθήσεις, βρογχικό άσθμα και άπνοια ύπνου. Χαρακτηριστικά:      SpO2 Εύρος μέτρησης: 35% - 99%     Ακρίβεια: 70% - 100% ± 3%     Εύρος μέτρησης Καρδιακών Παλμών: 30bpm - 240bpm     Λήψη δεδομένων 3 δευτερόλεπτα μετά την τοποθέτηση του δαχτύλου     Μπαταρία: 2 x ΑΑΑ 1.5V - 3V     Κατανάλωση: ≤40mA</Description>
+		<Barcode>5901299917541</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799400151</ID>
+		<Name>Esperanza Breeze Νεφελοποιητής για Παιδιά Αγελαδίτσα ECN001</Name>
+		<Product_Link>https://www.skroutz.gr/s/13886187/Esperanza-Breeze-Nefelopoiitis-gia-Paidia-Ageladitsa-ECN001.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/013886/13886187/xlarge_20220331142002_esperanza_breeze_nefelopoiitis_gia_paidia_ecn001.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>22.81</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά&gt;Κατ' οίκον Νοσηλεία&gt;Νεφελοποιητές</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>ECN001</MPN>
+		<Description>Συσκευή εισπνοής και νεφελοποίησης με συμπαγή σχεδίαση από την Esperanza, η οποία απελευθερώνει αποτελεσματικά τις δόσεις εισπνεόμενων φάρμακων, βοηθώντας στην ανακούφιση των συμπτωμάτων του βήχα, του κρυολογήματος της γρίπης και της ρινικής αποσυμφόρησης. Χαρακτηριστικά      Ισχύς: 220V, 50 Hz     Ρεύμα: 0,8Α     Χωρητικότητα φαρμάκου: 10ml     Επίπεδο ήχου ≤ 65dBA     Μέσος ρυθμός νεφελοποίησης: ≤ 0,4ml     Εύρος πίεσης συμπιεστή: 29-55Psi     Εύρος πίεσης λειτουργίας: 9-19Psi  Περιεχόμενα Συσκευασίας      Νεφελοποιητής     Δύο μάσκες διαφορετικών μεγεθών     Επιστόμιο</Description>
+		<Barcode>5901299914007</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799400161</ID>
+		<Name>Βρεφική Ψηφιακή Ζυγαριά Esperanza, έως 20 kg, οθόνη LCD, 545x320x30mm, Λευκή EBS019</Name>
+		<Product_Link>https://www.skroutz.gr/s/21332059/Esperanza-PSifiakos-Vrefozygos-EBS019.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/077339/77339157/xlarge_20230615153501_b805031c.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.31</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Βρεφικά&gt;Φροντίδα &amp; Υγιεινή Μωρού&gt;Βρεφοζυγοί</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EBS019</MPN>
+		<Description>Η σύγχρονη ψηφιακή ζυγαριά, της εταιρίας Esperanza, σας επιτρέπει να ελέγχετε το βάρος του μωρού σας. Η τακτική εξέταση του βάρους και της ανάπτυξης του μωρού σας βοηθά στην παρακολούθηση της σωστής ανάπτυξής του. Η ζυγαριά μπορεί να ζυγίσει μέχρι και 20 κιλά.  Η μεγάλη οθόνη υγρών κρυστάλλων κάνει εύκολη την ανάγνωση των αποτελεσμάτων ζύγισης. Η ζυγαριά είναι επίσης εξοπλισμένη με λειτουργίες TARE και HOLD για εύκολο ζύγισμα, όταν το παιδί σας μετακινείται. Το εργονομικό της σχήμα εξασφαλίζει την άνεση και την ασφάλεια του παιδιού σας όταν το ζυγίζετε.      Ακριβής ζύγιση     Βάρος: 0.03 - 20kg     Κλίμακα διαίρεσης: 0.01kg     Λειτουργία TARE (απόβαρο)     Λειτουργία HOLD (για πιο ακριβείς μετρήσεις όταν κινείται το μωρό)     Μεγάλη οθόνη LCD: 60x25mm     Μονάδα μέτρησης: KG / LB / ST     Τροφοδοσία: 2 x AAA μπαταρία (δεν περιλαμβάνονται)     Ένδειξη χαμηλής μπαταρίας και υπερφόρτωσης     Αυτόματη και χειροκίνητη απενεργοποίηση     Θερμοκρασία εργασίας: 0° C - 40° C     Διαστάσεις: 54.5x32x3cm</Description>
+		<Barcode>5901299954935</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799500101</ID>
 		<Name>Ugreen GaN Φορτιστής Χωρίς Καλώδιο 65W 1xUSB-A 3xUSB-C PDx3+QC3.0 Black CD224 (70774)</Name>
 		<Product_Link>https://www.skroutz.gr/s/30168038/Ugreen-Fortistis-CHoris-Kalodio-me-THyra-USB-A-kai-3-THyres-USB-C-65W-Power-Delivery-Quick-Charge-2-0-Quick-Charge-3-0-Quick-Charge-4-Quick-Charge-4-0-Mayros-CD224.html</Product_Link>
@@ -19595,6 +19816,23 @@
 		<Quantity>10</Quantity>
 	</product>
 	<product>
+		<ID>799510391</ID>
+		<Name>XO WL09 Πολύπριζο EU Smart Τοίχου με Βάση Κινητού και Νυχτερινό Φώς (2AC+2USB 2.4A) Άσπρο 16.006.0159</Name>
+		<Product_Link>https://www.skroutz.gr/s/36336918/XO-WL09-EU-Taf-2-THeseon-me-2-USB-A-16-006-0159.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/060690/60690438/xlarge_20220601101422_b3fb867f.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.7</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ηλεκτρολογικά &amp; Αυτοματισμοί &gt; Πολύπριζα &amp; Ταφ</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>16.006.0159</MPN>
+		<Description>Χαρακτηριστικά:      Ευρωπαϊκό πολύμπριζο 2AC+2USB     Με φως     Με ράφι στήριξης κινητού     Βάρος: 265g     Μέγεθος ραφιού: 179,9 x 90,8mm     Διαστάσεις: 91x77.5x97.6mm</Description>
+		<Barcode>6920680826049</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799510501</ID>
 		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο USB-C Λευκός (L65EU) 16.006.0012</Name>
 		<Product_Link>https://www.skroutz.gr/s/40965262/XO-Fortistis-me-2-THyres-USB-A-kai-Kalodio-USB-C-Leykos-L65EU.html</Product_Link>
@@ -19661,23 +19899,6 @@
 		<Description>Τύπος: Προσαρμογέας τοίχου  Σύνδεση: USB-A  Ισχύς φόρτισης: 18 W  Χρώμα: Λευκό      Θύρες εξόδου USB-A: 1     Καλώδιο: Lightning     Υποστηρίζει γρήγορη φόρτιση, συμβατή με το τηλέφωνό σας.</Description>
 		<Barcode>6920680846955</Barcode>
 		<Quantity>50</Quantity>
-	</product>
-	<product>
-		<ID>799510901</ID>
-		<Name>XO WL09 Πολύπριζο EU Smart Τοίχου με Βάση Κινητού και Νυχτερινό Φώς (2AC+2USB 2.4A) Άσπρο 16.006.0159</Name>
-		<Product_Link>https://www.skroutz.gr/s/36336918/XO-WL09-EU-Taf-2-THeseon-me-2-USB-A-16-006-0159.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_images/060690/60690438/xlarge_20220601101422_b3fb867f.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>12.7</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ηλεκτρολογικά &amp; Αυτοματισμοί &gt; Πολύπριζα &amp; Ταφ</Category_Path>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>16.006.0159</MPN>
-		<Description>Χαρακτηριστικά:      Ευρωπαϊκό πολύμπριζο 2AC+2USB     Με φως     Με ράφι στήριξης κινητού     Βάρος: 265g     Μέγεθος ραφιού: 179,9 x 90,8mm     Διαστάσεις: 91x77.5x97.6mm</Description>
-		<Barcode>6920680826049</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995106</ID>
@@ -20496,23 +20717,6 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>799514501</ID>
-		<Name>ATC-11 Ηχείο Bluetooth 5W με Ραδιόφωνο και Διάρκεια Μπαταρίας έως 4 ώρες Μαύρο  20.001.0013</Name>
-		<Product_Link>https://www.skroutz.gr/s/55423268/ATC-11-20-001-0013-Icheio-Bluetooth-5W-me-Radiofono-kai-Diarkeia-Mpatarias-eos-4-ores-Mayro.html#reviews</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/055423/55423268/xlarge_20241001124104_atc_11_20_001_0013_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_4_ores_mayro.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>15.35</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Ηχεία &gt; Φορητά Ηχεία Bluetooth</Category_Path>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>20.001.0013</MPN>
-		<Description>Το ATC-11 Colorful RGB Speaker είναι μια ευέλικτη συσκευή ήχου που προσφέρει μια σειρά επιλογών συνδεσιμότητας:      FM, AUX, Bluetooth®, κάρτα USB/TF και λειτουργία TWS  Η τεχνολογία Bluetooth® V5.3 εξασφαλίζει σταθερή σύνδεση με συμβατές συσκευές. Με ισχύ εξόδου 5 W, προσφέρει καθαρό και καθηλωτικό ήχο. Η χωρητικότητα μπαταρίας 1200 mAh παρέχει έως 2,5 ώρες αναπαραγωγής σε ένταση 100% και έως 4 ώρες σε ένταση 75%. Ο χρόνος φόρτισης είναι μόλις 4 ώρες.  Το ATC-11 είναι σχεδιασμένο για φορητότητα και βολικότητα, με συμπαγές μέγεθος και ενσωματωμένη μπαταρία Li-ion 3,7V, ιδανικό για να το μεταφέρετε όπου κι αν πάτε. Είναι αδιάβροχο IPX4, κατάλληλο για εξωτερική χρήση.  Με εμβέλεια λειτουργίας 10 μέτρα, μπορείτε να απολαύσετε ασύρματη ελευθερία. Το ATC-11 είναι συμβατό με τα περισσότερα tablet και smartphone με δυνατότητα Bluetooth®, προσφέροντας ευρύ φάσμα επιλογών συνδεσιμότητας.  Ιδανικό για το σπίτι, το γραφείο ή εν κινήσει, το πολύχρωμο ηχείο RGB ATC-11 παρέχει ζωντανή και καθηλωτική εμπειρία ήχου. ΠΡΟΔΙΑΓΡΑΦΕΣ:      Bluetooth®: V5.3     Ισχύς: 5W     Eίσοδος: 5V     Χωρητικότητα μπαταρίας: 1200 mAh     Αδιάβροχο: IPX 4     Χρόνος αναπαραγωγής: 2,5 ώρες (100% ένταση), 4 ώρες (75% ένταση)     Χρόνος φόρτισης: 4 ώρες     Εύρος λειτουργίας: 10 μέτρα     Μπαταρία: 3,7V ενσωματωμένο Li-ion  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει δυνατό ήχο και έχει καθαρό ήχο.</Description>
-		<Barcode>6981200010013</Barcode>
-		<Quantity>10</Quantity>
-	</product>
-	<product>
 		<ID>799515101</ID>
 		<Name>Ugreen Car Audio Receiver Bluetooth 5.3 MIC/AUX/USB-C CM596 (90748)</Name>
 		<Product_Link>https://www.skroutz.gr/s/48477205/Ugreen-Bluetooth-Aytokinitou-CM596-gia-to-Ichosystima-AUX-90748.html</Product_Link>
@@ -20544,7 +20748,7 @@
 		<MPN>1724</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Bluetooth 5.4     Κουμπί με φωτισμό     Διπλη συζευξη     Τοποθετηση και άμεση λειτουργία     Διαστάσεις: 18 x 10 x 1,7 cm</Description>
 		<Barcode>6941876230020</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>799515103</ID>
@@ -20835,6 +21039,57 @@
 		<Description>Βασικά χαρακτηριστικά:      Μοντέλο 2023     Οθόνη AMOLED     16 ημέρες Διάρκεια Ζωής Μπαταρίας     150 λειτουργίες γυμναστικής     24ωρη Προστασία υγείας</Description>
 		<Barcode>6941812722916</Barcode>
 		<Quantity>28</Quantity>
+	</product>
+	<product>
+		<ID>799545301</ID>
+		<Name>Trevi Επιτραπέζιο Ρολόι με Ξυπνητήρι και Δείκτη Θερμοκρασίας SL3P27</Name>
+		<Product_Link>https://www.skroutz.gr/s/27345990/Trevi-Epitrapezio-Roloi-me-Xypnitiri-SL-3P27.html#description</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/027345/27345990/fixedratio_20211103144016_trevi_epitrapezio_roloi_me_xypnitiri_sl_3p27.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>10.89</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Ρολόγια-Θερμόμετρα-Υγρασιόμετρα&gt;Επιτραπέζια Ρολόγια</Category_Path>
+		<Manufacturer>Trevi</Manufacturer>
+		<MPN>SL3P27</MPN>
+		<Description>Ρολόι ξυπνητήρι αθόρυβης λειτουργίας σε μαύρο χρώμα. Διαθέτει λειτουργία snooze και οπίσθιο φωτισμό LED για εύκολη ανάγνωση της ώρας ακόμα και τη νύχτα. Η κίνηση των δεικτών γίνεται αθόρυβα και ομοιόμορφα με τη μέθοδο Sweep to sweep.      Διακριτικό καντράν με ένδειξη θερμοκρασίας     Κουμπί αναβολής / φωτός     Πλήκτρο ενεργοποίησης / απενεργοποίησης ήχου     Λειτουργεί με 1xAA μπαταρία (δεν περιλαμβάνεται)     Διαστάσεις: 11 x 11 x 5,3 εκ.</Description>
+		<Barcode>8011000025155</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7995454201</ID>
+		<Name>Esperanza Budapest Ρολόι Τοίχου Πλαστικό Καφέ/Μαύρο 20cm EHC010K</Name>
+		<Product_Link>https://www.skroutz.gr/s/15577222/Esperanza-Budapest-Roloi-Toichou-Plastiko-Mayro-20cm-EHC010K.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/015577/15577222/fixedratio_20180808111823_esperanza_budapest_ehc010k.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.28</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Ρολόγια-Θερμόμετρα-Υγρασιόμετρα&gt;Ρολόγια Τοίχου</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EHC010K</MPN>
+		<Description>Αυτό το ρολόι δεν είναι μόνο για να σας δείχνει την ακριβή ώρα. Χάρη στον εξαιρετικά κομψό και κομψό σχεδιασμό του, είναι επίσης εξαιρετικό για τη διακόσμηση διαμερισμάτων, γραφείων, καταστημάτων ή εστιατορίων.  Διάμετρος: 20 cm  Πάχος: 3,4 cm  Υλικό: πλαίσιο ρολογιού και δείκτες από πλαστικό υψηλής ποιότητας  Δίσκος καντράν ρολογιού: ειδικό καλλιτεχνικό χαρτί Αθόρυβη και πολύ ακριβής κίνηση χαλαζία  Ενσωματωμένο άγκιστρο για εύκολη εγκατάσταση  Τροφοδοσία: 1 x 1,5V μπαταρία AA (δεν περιλαμβάνεται)</Description>
+		<Barcode>5901299929766</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7995454301</ID>
+		<Name>Esperanza San Francisco Αθόρυβο Ρολόι Τοίχου Γυάλινο Λευκό 30cm EHC018F</Name>
+		<Product_Link>https://www.skroutz.gr/s/19259301/Esperanza-San-Francisco-Athoryvo-Roloi-Toichou-Gyalino-Leyko-30cm-EHC018F.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/019259/19259301/fixedratio_20190702094156_esperanza_san_francisco_ehc018f.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.24</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Ρολόγια-Θερμόμετρα-Υγρασιόμετρα&gt;Ρολόγια Τοίχου</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EHC018F</MPN>
+		<Description>Αυτό το ρολόι διαθέτει το γραφικό δίσκο επιλογής.  Διάμετρος: 30 cm Πάχος: 3,4 cm Δίσκος ρολογιού: χαρτί τέχνης Τροφοδοσία: 1x μπαταρία AA (δεν περιλαμβάνεται) Μετακίνηση ήρεμης μηχανικής - ομαλή λειτουργία Εξαιρετικά ακριβής μηχανική κίνηση: χαλαζία Ενσωματωμένος γάντζος για εύκολη εγκατάσταση</Description>
+		<Barcode>5901299930182</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799551101</ID>
@@ -21361,7 +21616,7 @@
 		<MPN>1764</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Συνδεση με USB-C 3.1 Gen.2     10TB μέγιστη χωρητικότητα     Ένδειξη led     Plug &amp; play  Θήκη σκληρού δίσκου 2,5 ιντσών με θύρα Type-C.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτηση του δίσκου στη θήκη και είναι σταθερή στη λειτουργία της.</Description>
 		<Barcode>6957303857432</Barcode>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>799631111</ID>
@@ -21433,21 +21688,55 @@
 		<Quantity>10</Quantity>
 	</product>
 	<product>
-		<ID>7996501</ID>
-		<Name>Akai AWBR-305 Φορητό Ραδιόφωνο Μπαταρίας Μαύρο</Name>
-		<Product_Link>https://www.skroutz.gr/s/9192624/Akai-AWBR-305-Forito-Radiofono-Mpatarias-Mayro.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/009192/9192624/20240415115432_akai_awbr_305_forito_radiofono_mpatarias_mayro.jpeg</Image_Link>
+		<ID>799650101</ID>
+		<Name>Trevi DR7F40BT Φορητό Ραδιόφωνο Επαναφορτιζόμενο με Bluetooth και USB Μαύρο</Name>
+		<Product_Link>https://www.skroutz.gr/s/50870216/Trevi-Dr-7f40bt-Forito-Radiofono-Epanafortizomeno-me-Bluetooth-kai-USB-Mayro.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/050870/50870216/xlarge_20240415115429_trevi_dr_7f40bt_forito_radiofono_epanafortizomeno_me_bluetooth_kai_usb_mayro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.48</Price>
+		<Price>19.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Compact &amp; Φορητά Ηχοσυστήματα &gt; Ραδιόφωνα</Category_Path>
-		<Manufacturer>AKAI</Manufacturer>
-		<MPN>1558</MPN>
-		<Description>Συντονίσου στους αγαπημένους σου σταθμούς όπου κι αν βρίσκεσαι με το φορητό ραδιόφωνο Akai AWBR-305. Πρακτικό και εύκολο στη μεταφορά, με ενσωματωμένο ηχείο και μεγάλη, ευκρινή LCD οθόνη. Επιπλέον, διαθέτει λειτουργία ρολογιού με ξυπνητήρι. Τέλος, η υποδοχή 3.5 mm επιτρέπει τη σύνδεση ακουστικών για στιγμές απομόνωσης.Διαστάσεις: 14.5 x 14.5 x 4.5cm</Description>
-		<Barcode>4905192531706</Barcode>
+		<Manufacturer>Trevi</Manufacturer>
+		<MPN>DR7F40BT</MPN>
+		<Description>Φορητό ραδιόφωνο FM με ένδειξη ψηφιακής συχνότητας.      50 μνήμες αποθήκευσης σε FM.     Σύνδεση Bluetooth®.     Αναπαραγωγή MP3 από USB.     Χρονοδιακόπτης ρολογιού.     Υποδοχή ακουστικών.     Μίνι Led φακός.     Τροφοδοσία: Επαναφορτιζόμενη μπαταρία.</Description>
+		<Barcode>8011000040493</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799650102</ID>
+		<Name>Trevi RA7F25 Φορητό Ραδιόφωνο Ηλιακό-Επαναφορτιζόμενο με Bluetooth και USB Μαύρο/Ασημί</Name>
+		<Product_Link>https://www.skroutz.gr/s/26412918/Trevi-RA-7F25-Forito-Radiofono-Iliako-me-Bluetooth-kai-USB-Mayro-Asimi.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/053306/53306600/xlarge_20211203163218_539a30f8.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>23.22</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Compact &amp; Φορητά Ηχοσυστήματα &gt; Ραδιόφωνα</Category_Path>
+		<Manufacturer>Trevi</Manufacturer>
+		<MPN>RA7F25</MPN>
+		<Description>3 Μπάντες FM/AM/SW     Λειτουργία Bluetooth     Υποδοχές USB (MP3) / SD      Solar Panel Φόρτισης 100mA     Επαναφορτιζόμενη Μπαταρία 1200mAh     Ρεύματος-Μπαταρίας-Ηλιακό     Διαστάσεις: 17,5x7,5x10cm</Description>
+		<Barcode>8011000026671</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799650501</ID>
+		<Name>ATC-11 Ηχείο Bluetooth 5W με Ραδιόφωνο και Διάρκεια Μπαταρίας έως 4 ώρες Μαύρο  20.001.0013</Name>
+		<Product_Link>https://www.skroutz.gr/s/55423268/ATC-11-20-001-0013-Icheio-Bluetooth-5W-me-Radiofono-kai-Diarkeia-Mpatarias-eos-4-ores-Mayro.html#reviews</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/055423/55423268/xlarge_20241001124104_atc_11_20_001_0013_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_4_ores_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.35</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Ηχεία &gt; Φορητά Ηχεία Bluetooth</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>20.001.0013</MPN>
+		<Description>Το ATC-11 Colorful RGB Speaker είναι μια ευέλικτη συσκευή ήχου που προσφέρει μια σειρά επιλογών συνδεσιμότητας:      FM, AUX, Bluetooth®, κάρτα USB/TF και λειτουργία TWS  Η τεχνολογία Bluetooth® V5.3 εξασφαλίζει σταθερή σύνδεση με συμβατές συσκευές. Με ισχύ εξόδου 5 W, προσφέρει καθαρό και καθηλωτικό ήχο. Η χωρητικότητα μπαταρίας 1200 mAh παρέχει έως 2,5 ώρες αναπαραγωγής σε ένταση 100% και έως 4 ώρες σε ένταση 75%. Ο χρόνος φόρτισης είναι μόλις 4 ώρες.  Το ATC-11 είναι σχεδιασμένο για φορητότητα και βολικότητα, με συμπαγές μέγεθος και ενσωματωμένη μπαταρία Li-ion 3,7V, ιδανικό για να το μεταφέρετε όπου κι αν πάτε. Είναι αδιάβροχο IPX4, κατάλληλο για εξωτερική χρήση.  Με εμβέλεια λειτουργίας 10 μέτρα, μπορείτε να απολαύσετε ασύρματη ελευθερία. Το ATC-11 είναι συμβατό με τα περισσότερα tablet και smartphone με δυνατότητα Bluetooth®, προσφέροντας ευρύ φάσμα επιλογών συνδεσιμότητας.  Ιδανικό για το σπίτι, το γραφείο ή εν κινήσει, το πολύχρωμο ηχείο RGB ATC-11 παρέχει ζωντανή και καθηλωτική εμπειρία ήχου. ΠΡΟΔΙΑΓΡΑΦΕΣ:      Bluetooth®: V5.3     Ισχύς: 5W     Eίσοδος: 5V     Χωρητικότητα μπαταρίας: 1200 mAh     Αδιάβροχο: IPX 4     Χρόνος αναπαραγωγής: 2,5 ώρες (100% ένταση), 4 ώρες (75% ένταση)     Χρόνος φόρτισης: 4 ώρες     Εύρος λειτουργίας: 10 μέτρα     Μπαταρία: 3,7V ενσωματωμένο Li-ion  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει δυνατό ήχο και έχει καθαρό ήχο.</Description>
+		<Barcode>6981200010013</Barcode>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>7996511</ID>
@@ -21482,6 +21771,23 @@
 		<Description>Ελαφρύ και φορητό ηχείο Bluetooth Akai ABTS-806, με ενσωματωμένη μπαταρία 1500mAh για αυτονομία. Ο δυνατός και καθαρός του ήχος με ισχύ 10W το καθιστά κατάλληλο για εσωτερικούς και εξωτερικούς χώρους.</Description>
 		<Barcode>4905192532062</Barcode>
 		<Quantity>10</Quantity>
+	</product>
+	<product>
+		<ID>799652901</ID>
+		<Name>Trevi Δυναμικό Μικρόφωνο Χειρός για Φωνητικά με 3M Καλώδιο 6.35mm/3,5mm EM24</Name>
+		<Product_Link>https://www.skroutz.gr/s/28750562/Trevi-EM-24-Dynamiko-Mikrofono-CHeiros-gia-Fonitika.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/028750/28750562/xlarge_20210507131939_trevi_em_24.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Ήχος &gt; Μικρόφωνα</Category_Path>
+		<Manufacturer>Trevi</Manufacturer>
+		<MPN>EM24</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Τύπος μικροφώνου: δυναμικό     Απόκριση συχνότητας: 100-10.000 Hz     Αντίσταση: 600 ohms     Καλώδιο: 3m     Συνδεσιμότητα: 6.35mm + Adaptor 3.55mm</Description>
+		<Barcode>8011000000244</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79980101</ID>
