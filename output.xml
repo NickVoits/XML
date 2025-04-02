@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-02 14:38</created_at>
+	<created_at>2025-04-02 14:41</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -7486,7 +7486,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.19</Price>
+		<Price>2.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -7545,6 +7545,23 @@
 		<Description>Βασικά χαρακτηριστικά:   • Ανταλλακτικές Κεφαλές   • Με 5 Λεπίδες   • Συμβατές με τις Μηχανές Fusion   • Με Λεπίδα Ακριβείας Στο Πίσω Μέρος   • Με Τζελ Για Άνετο Ξύρισμα</Description>
 		<Barcode>7702018866984</Barcode>
 		<Quantity>64</Quantity>
+	</product>
+	<product>
+		<ID>6202411</ID>
+		<Name>Gillette Fusion 5 Ανταλλακτικές Κεφαλές με 5 Λεπίδες &amp; Λιπαντική Ταινία 8τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/46916422/Gillette-Fusion-5-Antallaktikes-Kefales-me-5-Lepides-Lipantiki-Tainia-8tmch-8700216331579.html#reviews</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_images/083803/83803297/xlarge_20231020121244_f474ce0d.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.62</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
+		<Manufacturer>GILLETTE</Manufacturer>
+		<MPN>1535001</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Ανταλλακτικές Κεφαλές     Με 5 Λεπίδες     Με Λεπίδα Ακριβείας στο Πίσω Μέρος     Με Λιπαντική Ταινία που Ξεθωριάζει     Για Απαλό Ξύρισμα</Description>
+		<Barcode>8700216331579</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>62051</ID>
