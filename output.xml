@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-02 14:29</created_at>
+	<created_at>2025-04-02 14:38</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -9686,6 +9686,7 @@
 		<MPN>1219001</MPN>
 		<Description>Το ΝΕΟ προϊόν AROMA AFTER SUN THERAPY είναι σχεδιασμένο για εντατική φροντίδα του δέρματος μετά την έκθεση στον ήλιο.  Περιέχει τα πιο θρεπτικά &amp; επανορθωτικά συστατικά για το δέρμα:      Νιασιναμίδη     Αλόη     Εκχύλισμα φύλλων ελιάς     Εκχύλισμα χαμομηλιού     Πανθενόλη     Αλλαντοΐνη  Επιπλέον, είναι VEGAN και 97% NATURAL.</Description>
 		<Barcode>5208005143103</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>67151</ID>
@@ -16163,6 +16164,7 @@
 		<MPN>ΕΜ7220</MPN>
 		<Description>Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml. Διάφανο.      Τύπος: Σκεύος μιας Χρήσης     Υλικό: PET     Χωρητικότητα: 1500ml     Συσκευασία: 50 τεμάχια</Description>
 		<Barcode>5202054472207</Barcode>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>78527</ID>
