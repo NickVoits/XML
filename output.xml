@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-04 11:05</created_at>
+	<created_at>2025-04-04 12:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>365</Quantity>
+		<Quantity>357</Quantity>
 	</product>
 	<product>
 		<ID>31023-Τ</ID>
@@ -305,7 +305,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>239</Quantity>
+		<Quantity>232</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -323,7 +323,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<Barcode>75041670</Barcode>
-		<Quantity>902</Quantity>
+		<Quantity>854</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -395,7 +395,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>36</Quantity>
+		<Quantity>32</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -413,7 +413,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>173</Quantity>
+		<Quantity>170</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -431,7 +431,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>54</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -449,7 +449,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<Barcode>5201275610672</Barcode>
-		<Quantity>264</Quantity>
+		<Quantity>259</Quantity>
 	</product>
 	<product>
 		<ID>11035</ID>
@@ -467,7 +467,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>110</Quantity>
+		<Quantity>107</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -845,7 +845,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>339</Quantity>
+		<Quantity>328</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -863,7 +863,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>573</Quantity>
+		<Quantity>563</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -917,7 +917,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214775</Barcode>
-		<Quantity>107</Quantity>
+		<Quantity>104</Quantity>
 	</product>
 	<product>
 		<ID>12023-Τ</ID>
@@ -989,7 +989,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<Barcode>5449000214805</Barcode>
-		<Quantity>57</Quantity>
+		<Quantity>56</Quantity>
 	</product>
 	<product>
 		<ID>12025-Τ</ID>
@@ -1223,7 +1223,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση πορτοκάλι, βερίκοκο και μήλο σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<Barcode>5201005174153</Barcode>
-		<Quantity>78</Quantity>
+		<Quantity>42</Quantity>
 	</product>
 	<product>
 		<ID>12074</ID>
@@ -1241,7 +1241,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φρουτοποτό Amita με γεύση μπανάνα σε ειδική συσκευασία Tetra Pak, χωρίς συντηρητικά.</Description>
 		<Barcode>5201005001480</Barcode>
-		<Quantity>141</Quantity>
+		<Quantity>129</Quantity>
 	</product>
 	<product>
 		<ID>12075</ID>
@@ -1402,7 +1402,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>1926</Quantity>
+		<Quantity>1923</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -1959,7 +1959,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908001003</Barcode>
-		<Quantity>726</Quantity>
+		<Quantity>714</Quantity>
 	</product>
 	<product>
 		<ID>17074</ID>
@@ -2049,7 +2049,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000167</Barcode>
-		<Quantity>786</Quantity>
+		<Quantity>774</Quantity>
 	</product>
 	<product>
 		<ID>17080</ID>
@@ -2157,7 +2157,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>491</Quantity>
+		<Quantity>489</Quantity>
 	</product>
 	<product>
 		<ID>18022</ID>
@@ -2175,7 +2175,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
-		<Quantity>610</Quantity>
+		<Quantity>605</Quantity>
 	</product>
 	<product>
 		<ID>18101</ID>
@@ -2355,7 +2355,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>796</Quantity>
+		<Quantity>2644</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2373,7 +2373,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>487</Quantity>
+		<Quantity>476</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2911,7 +2911,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100325</Barcode>
-		<Quantity>27</Quantity>
+		<Quantity>25</Quantity>
 	</product>
 	<product>
 		<ID>40425</ID>
@@ -3910,7 +3910,7 @@
 		<MPN>1327</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες, με αρώματα λευκών λουλουδιών, εσπεριδοειδών και διακριτικών αρωματικών βοτάνων. Στο στόμα είναι γεμάτο με εξαιρετική ισορροπία και με μακράς διάρκειας επίγευση.</Description>
 		<Barcode>5205243322079</Barcode>
-		<Quantity>403</Quantity>
+		<Quantity>391</Quantity>
 	</product>
 	<product>
 		<ID>47083101</ID>
@@ -3944,7 +3944,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888160100</Barcode>
-		<Quantity>1619</Quantity>
+		<Quantity>1607</Quantity>
 	</product>
 	<product>
 		<ID>47093</ID>
@@ -4319,7 +4319,7 @@
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<Barcode>5200111580735</Barcode>
-		<Quantity>1489</Quantity>
+		<Quantity>1477</Quantity>
 	</product>
 	<product>
 		<ID>47291101</ID>
@@ -4560,7 +4560,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Λευκό κρασί με απαλές πράσινες ανταύγειες και σύνθετη μύτη με φρέσκους ανθικούς χαρακτήρες να υπερισχύουν. Ακολουθούν νότες φλούδας λεμονιού και αρώματα τροπικών φρούτων όπως αβοκάντο.</Description>
 		<Barcode>5203773000184</Barcode>
-		<Quantity>58</Quantity>
+		<Quantity>52</Quantity>
 	</product>
 	<product>
 		<ID>47752</ID>
@@ -5027,7 +5027,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1491</Quantity>
+		<Quantity>1467</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5099,7 +5099,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>1799</Quantity>
+		<Quantity>1775</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5422,7 +5422,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<Barcode>5202207620516</Barcode>
-		<Quantity>216</Quantity>
+		<Quantity>201</Quantity>
 	</product>
 	<product>
 		<ID>52802</ID>
@@ -5614,7 +5614,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>275</Quantity>
+		<Quantity>273</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -5648,7 +5648,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<Barcode>5000267024202</Barcode>
-		<Quantity>322</Quantity>
+		<Quantity>319</Quantity>
 	</product>
 	<product>
 		<ID>550531</ID>
@@ -5878,7 +5878,7 @@
 		<MPN>1528</MPN>
 		<Description>Η συλλεκτική συσκευασία Bombay Sapphire X Vassia Kostara, ιδανικό δώρο για τα εορταστικά καλέσματα.</Description>
 		<Barcode>5010677714006</Barcode>
-		<Quantity>283</Quantity>
+		<Quantity>277</Quantity>
 	</product>
 	<product>
 		<ID>553051</ID>
@@ -5984,7 +5984,7 @@
 		<MPN>1529</MPN>
 		<Description>Παρασκευασμένο για πρώτη φορά το 1862, το ρούμι Bacardi είναι το αυθεντικό, εύκολο στην ανάμειξη, ελαφρύ ρούμι που παλαιώνει για ένα με δύο χρόνια σε επιλεγμένα δρύινα βαρέλια.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5010677012782</Barcode>
-		<Quantity>335</Quantity>
+		<Quantity>333</Quantity>
 	</product>
 	<product>
 		<ID>554014</ID>
@@ -6576,7 +6576,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Sangria είναι το παραδοσιακό ποτό της Ισπανίας, παρασκευάζεται από κόκκινο κρασί και φυσικά εκχυλίσματα φρούτων χωρίς συντηρητικά και χρωστικές. Σκούρο κόκκινο χρώμα και δροσερή γεύση. Σερβίρεται παγωμένη, είναι το απόλυτο ποτό του καλοκαιριού.</Description>
 		<Barcode>8410261151625</Barcode>
-		<Quantity>136</Quantity>
+		<Quantity>134</Quantity>
 	</product>
 	<product>
 		<ID>55952</ID>
@@ -6790,7 +6790,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
 		<Barcode>8052190350061</Barcode>
-		<Quantity>609</Quantity>
+		<Quantity>603</Quantity>
 	</product>
 	<product>
 		<ID>58108</ID>
@@ -6927,7 +6927,7 @@
 		<MPN>0622</MPN>
 		<Description>Οδοντόβουρτσα με μέτρια σκληρότητα της εταιρείας Colgate, η οποία καθαρίζει αποτελεσματικά τα δόντια και τα ούλα από υπολείμματα τροφίμων, βακτήρια και πλάκα, ενώ μπορεί να χρησιμοποιηθεί και από άτομα που συγκεντρώνουν σε μικρό χρονικό διάστημα μετά τον καθαρισμό οδοντική πέτρα.</Description>
 		<Barcode>6001067004943</Barcode>
-		<Quantity>3363</Quantity>
+		<Quantity>3351</Quantity>
 	</product>
 	<product>
 		<ID>60103</ID>
@@ -8190,7 +8190,7 @@
 		<MPN>0283</MPN>
 		<Description>Το οινόπνευμα είναι ένα πολύ χρήσιμο εργαλείο μέσα στο σπίτι και οι χρήσεις του είναι αμέτρητες.</Description>
 		<Barcode>5202737801010</Barcode>
-		<Quantity>1484</Quantity>
+		<Quantity>1454</Quantity>
 	</product>
 	<product>
 		<ID>64161</ID>
@@ -9839,7 +9839,7 @@
 		<MPN>1008</MPN>
 		<Description>Κρέμα της Aroma που βοηθάει στην σύσφιξη της επιδερμίδας. Αντιμετωπίζει τη χαλάρωση του δέρματος, επανορθώνει και σμιλεύει τη σιλουέτα. Είναι κατάλληλη για χρήση σε όλο το σώμα.•Περιοχή Χρήσης: Για όλο το σώμα•Είδη: Κρέμα•Χρήση: Σύσφιξη</Description>
 		<Barcode>5208005100489</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>67232</ID>
@@ -9856,7 +9856,7 @@
 		<MPN>1263</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Περιοχή Χρήσης: Για όλο το σώμα•Είδη: Κρέμα•Χρήση: Κυτταρίτιδα, Σύσφιξη</Description>
 		<Barcode>5208005100496</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>68001</ID>
@@ -10370,7 +10370,7 @@
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<Barcode>5200100281667</Barcode>
-		<Quantity>723</Quantity>
+		<Quantity>687</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -10507,7 +10507,7 @@
 		<MPN>0190</MPN>
 		<Description>Χαρτομάντηλα της εταιρίας Selpak, 4 φύλλων απαλά και ανθεκτικά, υψηλής απορροφητικότητας. Απαραίτητος σύμμαχος στην περίοδο των κρυολογημάτων και των ανοιξιάτικων αλλεργιών.</Description>
 		<Barcode>8690530051331</Barcode>
-		<Quantity>508</Quantity>
+		<Quantity>502</Quantity>
 	</product>
 	<product>
 		<ID>70311</ID>
@@ -10781,7 +10781,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>1120</Quantity>
+		<Quantity>1119</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -12381,7 +12381,7 @@
 		<MPN>003001414</MPN>
 		<Description>Κουβάς με αποσπώμενο στίφτη, χωρητικότητας 16 λίτρων με χερούλι, κατασκευασμένος από ανθεκτικό πλαστικό.</Description>
 		<Barcode>5202707994902</Barcode>
-		<Quantity>150</Quantity>
+		<Quantity>147</Quantity>
 	</product>
 	<product>
 		<ID>74042</ID>
@@ -12432,7 +12432,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>179</Quantity>
+		<Quantity>178</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -12602,7 +12602,7 @@
 		<MPN>Ε-1656</MPN>
 		<Description>Σύρμα μαλλί ιδανικό για την καθαριότητα όλων των σκευών της κουζίνας.  Η συσκευασία περιέχει 6 τεμάχια.</Description>
 		<Barcode>5203642116565</Barcode>
-		<Quantity>181</Quantity>
+		<Quantity>180</Quantity>
 	</product>
 	<product>
 		<ID>74250117</ID>
@@ -14020,6 +14020,23 @@
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
 		<MPN>00330130</MPN>
 		<Description>•Υλικό Κατασκευής: Πλαστικό•Με περιστρεφόμενο γάντζο•Σπαστή</Description>
+		<Barcode>5202707000634</Barcode>
+		<Quantity>30</Quantity>
+	</product>
+	<product>
+		<ID>7620301</ID>
+		<Name>Cyclops Κρεμάστρα Ρούχων Πλαστική Ενισχυμένη Περιστρεφόμενη Γκρι  3τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/58137050/Cyclops-Kremastra-Rouchon-Gri-00330130-3tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/058137/58137050/xlarge_20241230104041_cyclops_kremastra_rouchon_gri_00330130_3tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.62885408</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>330131</MPN>
+		<Description>Η κρεμάστρα ρούχων της εταιρείας Cyclops σας βοηθάει να οργανώνετε την ντουλάπα σας και παράλληλα να εξοικονομείτε επιπλέον χώρο. Είναι κατασκευασμένη από πλαστικό, ένα υλικό ελαφρύ που συνήθως χρησιμοποιείται για μπλούζες, φορέματα, πουκάμισα και άλλα.</Description>
 		<Barcode>5202707000634</Barcode>
 		<Quantity>30</Quantity>
 	</product>
@@ -16062,7 +16079,7 @@
 		<MPN>0674</MPN>
 		<Description>Πλαστικό σκεύος μιας χρήσης χωρητικότητας 1000ml με αποσπώμενο καπάκι, ιδανικό για συσκευασία ζεστών φαγητών. Μπορεί να χρησιμοποιηθεί για να ζεσταθεί σε φούρνο μικροκυμμάτων. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
 		<Barcode>5200425302986</Barcode>
-		<Quantity>459</Quantity>
+		<Quantity>458</Quantity>
 	</product>
 	<product>
 		<ID>785211</ID>
@@ -16597,7 +16614,7 @@
 		<MPN>1777</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.  Χαρακτηριστικά      Μήκος(μέτρα): 20μ.     Πλάτος: 29εκ.</Description>
 		<Barcode>5202054036195</Barcode>
-		<Quantity>343</Quantity>
+		<Quantity>342</Quantity>
 	</product>
 	<product>
 		<ID>78902</ID>
@@ -19101,7 +19118,7 @@
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<Barcode>5410853039273</Barcode>
-		<Quantity>851</Quantity>
+		<Quantity>850</Quantity>
 	</product>
 	<product>
 		<ID>7975023</ID>
@@ -19802,7 +19819,7 @@
 	</product>
 	<product>
 		<ID>799500203</ID>
-		<Name>XO Φορτιστής GaN 75W με 3 Θύρες USB-A και 3 Θύρες USB-C σε Λευκό χρώμα (L133) 16.006.0259</Name>
+		<Name>XO Φορτιστής GaN 75W με 3 Θύρες USB-A και 3 Θύρες USB-C σε Λευκό χρώμα L133-56152</Name>
 		<Product_Link>https://www.skroutz.gr/s/51283607/XO-Vasi-Fortisis-GaN-me-3-THyres-USB-A-kai-3-THyres-USB-C-75W-se-Leyko-chroma-L133.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/051283/51283607/xlarge_20240902164021_xo_vasi_fortisis_gan_me_3_thyres_usb_a_kai_3_thyres_usb_c_75w_se_leyko_chroma_l133.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19870,7 +19887,7 @@
 	</product>
 	<product>
 		<ID>799510391</ID>
-		<Name>XO WL09 Πολύπριζο EU Smart Τοίχου με Βάση Κινητού και Νυχτερινό Φώς (2AC+2USB 2.4A) Άσπρο 16.006.0159</Name>
+		<Name>XO Πολύπριζο EU Smart Τοίχου με Βάση Κινητού και Νυχτερινό Φώς (2AC+2USB 2.4A) Άσπρο WL09-26049</Name>
 		<Product_Link>https://www.skroutz.gr/s/36336918/XO-WL09-EU-Taf-2-THeseon-me-2-USB-A-16-006-0159.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/060690/60690438/xlarge_20220601101422_b3fb867f.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19887,7 +19904,7 @@
 	</product>
 	<product>
 		<ID>799510501</ID>
-		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο USB-C Λευκός (L65EU) 16.006.0012</Name>
+		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο USB-C Λευκός L65EU-71322</Name>
 		<Product_Link>https://www.skroutz.gr/s/40965262/XO-Fortistis-me-2-THyres-USB-A-kai-Kalodio-USB-C-Leykos-L65EU.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/040965/40965262/xlarge_20230324131212_xo_fortistis_me_ensomatomeno_kalodio_me_2_thyres_usb_a_leykos_l65eu.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19904,7 +19921,7 @@
 	</product>
 	<product>
 		<ID>799510502</ID>
-		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο Lightning  Λευκός (L65EU) 16.006.0011</Name>
+		<Name>XO Φορτιστής 2.4A με 2 Θύρες USB-A και Καλώδιο Lightning  Λευκός L65EU-71346</Name>
 		<Product_Link>https://www.skroutz.gr/s/27390515/XO-Fortistis-me-2-THyres-USB-A-kai-Kalodio-Lightning-Leykos-L65.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_images/043796/43796330/xlarge_20210413230925_9086c54e.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19921,7 +19938,7 @@
 	</product>
 	<product>
 		<ID>799510511</ID>
-		<Name>XO Φορτιστής 18W με Θύρα USB-A και Καλώδιο USB-C Λευκός (L127) 16.006.0290</Name>
+		<Name>XO Φορτιστής 18W με Θύρα USB-A και Καλώδιο USB-C Λευκός L127-46931</Name>
 		<Product_Link>https://www.skroutz.gr/s/56686306/XO-Fortistis-GaN-me-THyra-USB-A-kai-Kalodio-USB-C-18W-Leykos-L127.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/056686/56686306/xlarge_20241007134654_xo_fortistis_gan_me_thyra_usb_a_kai_kalodio_usb_c_18w_leykos_l127.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19938,7 +19955,7 @@
 	</product>
 	<product>
 		<ID>799510512</ID>
-		<Name>XO Φορτιστής 18W με Θύρα USB-A και Καλώδιο Lightning Λευκός (L127) 16.006.0288</Name>
+		<Name>XO Φορτιστής 18W με Θύρα USB-A και Καλώδιο Lightning Λευκός L127-46955</Name>
 		<Product_Link>https://www.skroutz.gr/s/56686303/XO-Fortistis-GaN-me-THyra-USB-A-kai-Kalodio-Lightning-18W-Leykos-L127.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/056686/56686303/xlarge_20241007134636_xo_fortistis_gan_me_thyra_usb_a_kai_kalodio_lightning_18w_leykos_l127.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20037,6 +20054,24 @@
 		<Description>Φορτιστής αυτοκινήτου Mini PD 20w A+C WP-C38 με συμπαγή σχεδίαση που εξοικονομεί χώρο. Προσφέρει σταθερή φόρτιση και γρήγορη ισχύ, επιτρέποντάς σας να φορτίσετε έως και 60% σε 30 λεπτά με τη λειτουργία PD.      Υλικό: καθαρός κράμα ψευδαργύρου     Είσοδος: DC12~24V     Έξοδος: USB-A (QC): 5V-3A/9V-2A/12V-1.5A     USB-C (PD): 5V-3A/9V-2.22A/12V-1.67A     Μέγιστη έξοδος: 20W     Χρώμα: Θερμοκρασία  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί φορτίζει γρήγορα τη συσκευή σου και είναι ανθεκτικός.</Description>
 		<Barcode>6941027631171</Barcode>
 		<Quantity>9</Quantity>
+	</product>
+	<product>
+		<ID>799510713</ID>
+		<Name>WK Φορτιστής Αυτοκινήτου 48W USB-A &amp; USB-C Quick Charge 3.0 Black/Silver (WP-C53) 250874</Name>
+		<Product_Link>https://www.dot-media.gr/aspProductDetail.aspx?ProID=250874&amp;vNet=0</Product_Link>
+		<Image_Link>https://www.dot-media.gr/imgProduct2/250874.jpg</Image_Link>
+		<Additional>https://www.dot-media.gr/imgProduct3/250874b.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Auto - Moto &gt; Ηλεκτρονικά &amp; Ηλεκτρολογικά Αυτοκινήτου &gt; Φορτιστές Αναπτήρα Αυτοκινήτου</Category_Path>
+		<Manufacturer>WK</Manufacturer>
+		<MPN>250874</MPN>
+		<Description>Φορτιστής αυτοκινήτου WEKOME USB / USB Type C Quick Charge 3.0 Power Delivery 48W.      Υλικό: Αλουμίνιο+PC     Θύρες: USB (QC 3.0), USB Type C PD     Τάση (εισόδου): DC 12 - 24V     Τάση (εξόδου): 5V / 3A, 9V / 2A, 12V / 1.5A 18W     Power Delivery: 5V / 3A, 9V / 3A, 12V / 2.5A 30W     Ικανότητα: 48W  Ο φορτιστής αυτός με το διαφανές περίβλημα διαθέτει θύρες USB Type C PD και USB (QC 3.0) για γρήγορη ανανέωση της ενέργειας των κινητών συσκευών σας. Η έξυπνη διαχείριση προσαρμόζει την κατάλληλη τάση ανάλογα με το επίπεδο φόρτισης της συσκευής, προστατεύοντας την από υπερφόρτιση. Με βελτιωμένα αντιολισθητικά κλιπ, ακριβή και ασφαλή, σταθερό ακόμα και σε ανώμαλους δρόμους.</Description>
+		<Barcode>6941027651551</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995111</ID>
@@ -20312,7 +20347,7 @@
 	</product>
 	<product>
 		<ID>7995115201</ID>
-		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Μαύρο 16.005.0347</Name>
+		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Μαύρο NB280-58736</Name>
 		<Product_Link>https://www.skroutz.gr/s/57567264/XO-Nb280-USB-2-0-Cable-USB-C-male-USB-A-Mayro-1m-16-005-0347.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/057567/57567264/xlarge_20241120122339_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_mayro_1m_16_005_0347.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20329,7 +20364,7 @@
 	</product>
 	<product>
 		<ID>7995115202</ID>
-		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Λευκό 16.005.0348</Name>
+		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Λευκό NB280-58729</Name>
 		<Product_Link>https://www.skroutz.gr/s/57567267/XO-Nb280-USB-2-0-Cable-USB-C-male-USB-A-Leyko-1m-16-005-0348.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/057567/57567267/xlarge_20241120122340_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_leyko_1m_16_005_0348.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20346,7 +20381,7 @@
 	</product>
 	<product>
 		<ID>7995115211</ID>
-		<Name>XO NB-Q265B PD 60W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων (Μαύρο) 16.005.0307</Name>
+		<Name>XO PD 60W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων Μαύρο NBQ265B-55049</Name>
 		<Product_Link>https://www.skroutz.gr/s/54329175/XO-Nb-q265b-USB-2-0-Cable-USB-C-male-USB-C-60W-Mayro-1m.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/054329/54329175/xlarge_20240612124927_xo_nb_q265b_usb_2_0_cable_usb_c_male_usb_c_60w_mayro_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20363,7 +20398,7 @@
 	</product>
 	<product>
 		<ID>7995115212</ID>
-		<Name>XO NB-Q265B PD 60W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων (Λευκό) 16.005.0308</Name>
+		<Name>XO PD 60W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων Λευκό NBQ265B-55056</Name>
 		<Product_Link>https://www.skroutz.gr/s/54329176/XO-Nb-q265b-USB-2-0-Cable-USB-C-male-USB-C-60W-Leyko-1m.html#reviews</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/054329/54329176/xlarge_20240612124930_xo_nb_q265b_usb_2_0_cable_usb_c_male_usb_c_60w_leyko_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20380,7 +20415,7 @@
 	</product>
 	<product>
 		<ID>7995115251</ID>
-		<Name>XO NB-Q264A PD 240W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων (Μαύρο) 16.005.0314</Name>
+		<Name>XO PD 240W Type-C σε Type-C Καλώδιο Φόρτισης/Δεδομένων Μαύρο NBQ264A-55995</Name>
 		<Product_Link>https://www.skroutz.gr/s/55165190/XO-USB-2-0-Cable-USB-C-male-USB-C-240W-Leyko-1m-XO-NBQ264ATT.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/055165/55165190/xlarge_20240729114706_xo_usb_2_0_cable_usb_c_male_usb_c_240w_1m_xo_nbq264att.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20397,7 +20432,7 @@
 	</product>
 	<product>
 		<ID>7995115301</ID>
-		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Μαύρο 16.005.0341</Name>
+		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Μαύρο NB280-58675</Name>
 		<Product_Link>https://www.skroutz.gr/s/57566704/XO-USB-A-to-Lightning-Cable-Mayro-1m-16-005-0341.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/057566/57566704/xlarge_20241120121547_xo_usb_a_to_lightning_cable_mayro_1m_16_005_0341.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20414,7 +20449,7 @@
 	</product>
 	<product>
 		<ID>7995115302</ID>
-		<Name>XO NB280 Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Λευκό 16.005.0342</Name>
+		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Λευκό NB280-58668</Name>
 		<Product_Link>https://www.skroutz.gr/s/57566706/XO-USB-A-to-Lightning-Cable-Leyko-1m-16-005-0342.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/057566/57566706/xlarge_20241120121547_xo_usb_a_to_lightning_cable_leyko_1m_16_005_0342.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20431,7 +20466,7 @@
 	</product>
 	<product>
 		<ID>7995115321</ID>
-		<Name>XO NB-Q265A PD 27W Type-C σε Lightning Καλώδιο Φόρτισης/Δεδομένων (Μαύρο) 16.005.0304</Name>
+		<Name>XO PD 27W Type-C σε Lightning Καλώδιο Φόρτισης/Δεδομένων Μαύρο NBQ265A-55001</Name>
 		<Product_Link>https://www.skroutz.gr/s/54328062/XO-Nb-q265a-USB-C-to-Lightning-Cable-27W-Mayro-1m.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/054328/54328062/xlarge_20240612122648_xo_nb_q265a_usb_c_to_lightning_cable_27w_mayro_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20448,7 +20483,7 @@
 	</product>
 	<product>
 		<ID>7995115322</ID>
-		<Name>XO NB-Q265A PD 27W Type-C σε Lightning Καλώδιο Φόρτισης/Δεδομένων (Λευκό) 16.005.0305</Name>
+		<Name>XO PD 27W Type-C σε Lightning Καλώδιο Φόρτισης/Δεδομένων Λευκό NBQ265A-55018</Name>
 		<Product_Link>https://www.skroutz.gr/s/54328060/XO-Nb-q265a-USB-C-to-Lightning-Cable-27W-Leyko-1m.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/054328/54328060/xlarge_20240612122648_xo_nb_q265a_usb_c_to_lightning_cable_27w_leyko_1m.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20465,7 +20500,7 @@
 	</product>
 	<product>
 		<ID>7995115401</ID>
-		<Name>XO Nb280 Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Μαύρο 1m 16.005.0344</Name>
+		<Name>XO Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Μαύρο 1m NB280-58705</Name>
 		<Product_Link>https://www.skroutz.gr/s/57567270/XO-Nb280-Regular-USB-2-0-to-micro-USB-Cable-Mayro-1m-16-005-0344-1tmch.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/057567/57567270/xlarge_20241120122340_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_mayro_1m_16_005_0344.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20482,7 +20517,7 @@
 	</product>
 	<product>
 		<ID>7995115402</ID>
-		<Name>XO Nb280 Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Λευκό 1m 16.005.0345</Name>
+		<Name>XO Καλώδιο Φόρτισης/Δεδομένων USB 2.0 to micro USB Cable Λευκό 1m NB280-58699</Name>
 		<Product_Link>https://www.skroutz.gr/s/57567263/XO-Nb280-Regular-USB-2-0-to-micro-USB-Cable-Leyko-1m-16-005-0345-1tmch.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/057567/57567263/xlarge_20241120122339_xo_nb280_usb_2_0_cable_usb_c_male_usb_a_leyko_1m_16_005_0345.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20567,7 +20602,7 @@
 	</product>
 	<product>
 		<ID>799512311</ID>
-		<Name>XO EP57 In-ear Handsfree με Βύσμα 3.5mm Μαύρο 16.002.0065</Name>
+		<Name>XO In-ear Handsfree με Βύσμα 3.5mm Μαύρο EP57-31050</Name>
 		<Product_Link>https://www.skroutz.gr/s/40710543/XO-EP57-In-ear-Handsfree-me-Vysma-3-5mm-Mayro.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/040710/40710543/xlarge_20230220104417_xo_ep57_in_ear_handsfree_me_vysma_3_5mm_mayro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20584,7 +20619,7 @@
 	</product>
 	<product>
 		<ID>799512312</ID>
-		<Name>XO EP57 In-ear Handsfree με Βύσμα 3.5mm Λευκό 16.002.0066</Name>
+		<Name>XO In-ear Handsfree με Βύσμα 3.5mm Λευκό EP57-31067</Name>
 		<Product_Link>https://www.skroutz.gr/s/40710740/XO-EP57-In-ear-Handsfree-me-Vysma-3-5mm-Leyko.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/040710/40710740/xlarge_20230220105027_xo_ep57_in_ear_handsfree_me_vysma_3_5mm_leyko.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20601,7 +20636,7 @@
 	</product>
 	<product>
 		<ID>799512321</ID>
-		<Name>XO-EP81 In-ear Handsfree Ακουστικά με Βύσμα USB-C Μαύρο 16.002.0086</Name>
+		<Name>XO In-ear Handsfree Ακουστικά με Βύσμα USB-C Μαύρο EP81-58866</Name>
 		<Product_Link>https://www.skroutz.gr/s/58351527/XO-XO-EP81-In-ear-Handsfree-Akoustika-me-Vysma-USB-C-Mayro.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/058351/58351527/xlarge_20250120151040_xo_xo_ep81_in_ear_handsfree_akoustika_me_vysma_usb_c_mayro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20618,7 +20653,7 @@
 	</product>
 	<product>
 		<ID>799512322</ID>
-		<Name>XO-EP81 In-ear Handsfree Ακουστικά με Βύσμα USB-C Λευκό 16.002.0087</Name>
+		<Name>XO In-ear Handsfree Ακουστικά με Βύσμα USB-C Λευκό EP81-58873</Name>
 		<Product_Link>https://www.skroutz.gr/s/58833397/XO-XO-EP81-In-ear-Handsfree-Akoustika-me-Vysma-USB-C-Leyko.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/058833/58833397/xlarge_20250218131028_xo_xo_ep81_in_ear_handsfree_akoustika_me_vysma_usb_c_leyko.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20635,7 +20670,7 @@
 	</product>
 	<product>
 		<ID>799512332</ID>
-		<Name>XO Ep79 Earbuds Handsfree Ακουστικά με Βύσμα Lightning Λευκό 16.002.0082</Name>
+		<Name>XO Earbuds Handsfree Ακουστικά με Βύσμα Lightning Λευκό EP79-57692</Name>
 		<Product_Link>https://www.skroutz.gr/s/55772170/XO-Ep79-Earbuds-Handsfree-Akoustika-me-Vysma-Lightning.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_images/105458/105458858/xlarge_20241217163025_69db7819.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20652,7 +20687,7 @@
 	</product>
 	<product>
 		<ID>799513101</ID>
-		<Name>XO Q4 Earbud Bluetooth Handsfree Ακουστικά με Θήκη Φόρτισης Λευκά  16.003.0117</Name>
+		<Name>XO Earbud Bluetooth Handsfree Ακουστικά με Θήκη Φόρτισης Λευκά Q4-42995</Name>
 		<Product_Link>https://www.skroutz.gr/s/46871657/XO-Q4-Earbud-Bluetooth-Handsfree-Akoustika-me-THiki-Fortisis-Leyka.html#reviews</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/046871/46871657/xlarge_20231019091412_xo_q4_earbud_bluetooth_handsfree_akoustika_me_thiki_fortisis_leyka.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20907,7 +20942,7 @@
 	</product>
 	<product>
 		<ID>7995191011</ID>
-		<Name>XO PR251 Lighted Power Bank 10000mAh με 2 Θύρες USB-A Μαύρο 16.001.0178</Name>
+		<Name>XO Lighted Power Bank 10000mAh με 2 Θύρες USB-A Μαύρο PR251-60487</Name>
 		<Product_Link>https://www.skroutz.gr/s/57571244/XO-PR251-Lighted-Power-Bank-10000mAh-me-2-THyres-USB-A-Mayro.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/057571/57571244/xlarge_20241120144442_xo_pr251_lighted_power_bank_10000mah_me_2_thyres_usb_a_mayro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20924,7 +20959,7 @@
 	</product>
 	<product>
 		<ID>7995191019</ID>
-		<Name>XO PR231 MagSafe Power Bank 10000mAh 20W Quick Charge 2.0 Λευκό 16.010.0056</Name>
+		<Name>XO MagSafe Power Bank 10000mAh 20W Quick Charge 2.0 Λευκό PR231-51461</Name>
 		<Product_Link>https://www.skroutz.gr/s/48544633/XO-PR231-MagSafe-Power-Bank-10000mAh-15W-Quick-Charge-2-0-Leyko.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_images/098512/98512875/xlarge_20240628162722_8c2f7e49.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20941,7 +20976,7 @@
 	</product>
 	<product>
 		<ID>799519111</ID>
-		<Name>WK MagSafe Power Bank 10000mAh 20W USB-C PDx1 Grey (WP-17) 250809</Name>
+		<Name>WK MagSafe Power Bank 10000mAh 20W USB-C PDx1 Grey (WP-17)</Name>
 		<Product_Link>https://www.skroutz.gr/s/58187155/WK-WP-17-MagSafe-Power-Bank-10000mAh-20W-me-2-THyres-USB-C-Power-Delivery-Mayro.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/058187/58187155/20250107111009_wk_wp_17_magsafe_power_bank_10000mah_20w_me_2_thyres_usb_c_power_delivery_mayro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20975,7 +21010,7 @@
 	</product>
 	<product>
 		<ID>7995191021</ID>
-		<Name>XO PR252 Power Bank 20000mAh με 2 Θύρες PD2.0 και QC2.0 Μαύρο 16.001.0179</Name>
+		<Name>XO Power Bank 20000mAh με 2 Θύρες PD2.0 και QC2.0 Μαύρο PR252-60494</Name>
 		<Product_Link>https://www.skroutz.gr/s/57571494/XO-PR252-Power-Bank-20000mAh-Mayro.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/057571/57571494/xlarge_20241120145647_xo_power_bank_20000mah_mayro.jpeg</Image_Link>
 		<Additional>https://www.atcb2b.gr/mobile/chargers-mobile/power-banks/16-001-0179-xo-pr252-lighted-mobile-power-20000mah</Additional>
@@ -21265,7 +21300,7 @@
 	</product>
 	<product>
 		<ID>799551151</ID>
-		<Name>XO C151 Μεταλλική 360° Περιστρεφόμενη Επιτραπέζια Βάση Κινητού Μαύρη 16.006.0287</Name>
+		<Name>XO Μεταλλική 360° Περιστρεφόμενη Επιτραπέζια Βάση Κινητού Μαύρη C151-59177</Name>
 		<Product_Link>https://www.skroutz.gr/s/55660347/Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma-C151.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/055660/55660347/xlarge_20240830100819_vasi_grafeiou_gia_kinito_se_mayro_chroma_c151.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -21282,7 +21317,7 @@
 	</product>
 	<product>
 		<ID>799551152</ID>
-		<Name>XO C143 Πτυσσόμενη  Βάση Γραφείου για Κινητό Λευκή 16.006.0257</Name>
+		<Name>XO Πτυσσόμενη  Βάση Γραφείου για Κινητό Λευκή C143-57494</Name>
 		<Product_Link>https://www.skroutz.gr/s/54342349/XO-C143-Vasi-Grafeiou-gia-Kinito.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/054342/54342349/xlarge_20240612155256_xo_c143_vasi_grafeiou_gia_kinito.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -21299,7 +21334,7 @@
 	</product>
 	<product>
 		<ID>799551159</ID>
-		<Name>XO C60 Βάση Κινητού Αυτοκινήτου με Βεντούζα ή Αεραγωγού με Ρυθμιζόμενα Άγκιστρα 4" - 6" Μαύρη 16.006.0047</Name>
+		<Name>XO Βάση Κινητού Αυτοκινήτου με Βεντούζα ή Αεραγωγού με Ρυθμιζόμενα Άγκιστρα 4" - 6" Μαύρη C60-72596</Name>
 		<Product_Link>https://www.skroutz.gr/s/27255082/XO-C60-Vasi-Kinitou-Aytokinitou-4-6-me-Rythmizomena-Agistra-Mayri-16-006-0047.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/027255/27255082/xlarge_20210428173006_xo_vasi_stirixis_kinitou_aytokinitou_c60_car_holder_gravity_universal_black_ori_026_17_011.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -21841,6 +21876,38 @@
 		<Description>Βασικά χαρακτηριστικά:      Τύπος μικροφώνου: δυναμικό     Απόκριση συχνότητας: 100-10.000 Hz     Αντίσταση: 600 ohms     Καλώδιο: 3m     Συνδεσιμότητα: 6.35mm + Adaptor 3.55mm</Description>
 		<Barcode>8011000000244</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>79966201</ID>
+		<Name>Τηλεχειριστήριο Universal για Samsung Smart IR-1312 (BN59-01312) 03.005.0164</Name>
+		<Product_Link>https://www.skroutz.gr/s/43000475/Symvato-Tilecheiristirio-IR-1312-gia-Tileoraseis-Samsung.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/043000/43000475/xlarge_20230620134832_symvato_tilecheiristirio_ir_1312_gia_tileoraseis_samsung.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.88</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt;Τηλεοράσεις &amp; Αξεσουάρ&gt;Τηλεχειριστήρια Τηλεόρασης</Category_Path>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>03.005.0164</MPN>
+		<Description>Τηλεχειριστήριο Universal για Samsung Smart IR-1312.</Description>
+		<Quantity>30</Quantity>
+	</product>
+	<product>
+		<ID>79966202</ID>
+		<Name>ATC Universal Τηλεχειριστήριο Voice AN-MR20GA για Τηλεοράσεις LG 03.005.0222</Name>
+		<Product_Link>https://www.skroutz.gr/s/58767809/ATC-Universal-Tilecheiristirio-AN-MR20GA-gia-Tileoraseis-LG.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/058767/58767809/xlarge_20250213125823_atc_universal_tilecheiristirio_03_005_0222_gia_tileoraseis_lg.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.09</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt;Τηλεοράσεις &amp; Αξεσουάρ&gt;Τηλεχειριστήρια Τηλεόρασης</Category_Path>
+		<Manufacturer>ATC</Manufacturer>
+		<MPN>03.005.0222</MPN>
+		<Description>ο ATC AN-MR20GA είναι ένα premium τηλεχειριστήριο γενικής χρήσης σχεδιασμένο για έξυπνες τηλεοράσεις LG με λειτουργία φωνητικού ελέγχου.  Διαθέτει εύχρηστες φωνητικές εντολές, επιτρέποντας την πλοήγηση στις εφαρμογές, κανάλια και ρυθμίσεις.  Συμβατό με μια μεγάλη γκάμα μοντέλων LG, προσφέρει εργονομικό σχεδιασμό και φιλική προς το χρήστη χρήση.  Συσκευασία κουτί: 100 τμχ</Description>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>79980101</ID>
