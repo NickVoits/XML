@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-09 16:05</created_at>
+	<created_at>2025-04-09 16:19</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1672,7 +1672,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
 		<Barcode>90415708</Barcode>
-		<Quantity>8351</Quantity>
+		<Quantity>8331</Quantity>
 	</product>
 	<product>
 		<ID>15101</ID>
@@ -3859,7 +3859,7 @@
 		<MPN>1324</MPN>
 		<Description>Το Δάκρυ του Πεύκου, η ρετσίνα που άλλαξε τα δεδομένα στην κατηγορία της, τοποθετώντας το παραδοσιακό ελληνικό κρασί πλάι στα εκλεκτότερα προϊόντα του παγκόσμιου αμπελώνα. Η πρώτη ρετσίνα με εντυπωσιακό δυναμικό παλαίωσης 10 ετών.</Description>
 		<Barcode>5200101940280</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>21</Quantity>
 	</product>
 	<product>
 		<ID>47081</ID>
@@ -3910,7 +3910,7 @@
 		<MPN>1327</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με υποκίτρινο χρώμα και ελαφρά πρασινωπές ανταύγειες, με αρώματα λευκών λουλουδιών, εσπεριδοειδών και διακριτικών αρωματικών βοτάνων. Στο στόμα είναι γεμάτο με εξαιρετική ισορροπία και με μακράς διάρκειας επίγευση.</Description>
 		<Barcode>5205243322079</Barcode>
-		<Quantity>924</Quantity>
+		<Quantity>923</Quantity>
 	</product>
 	<product>
 		<ID>47083101</ID>
@@ -10302,7 +10302,7 @@
 		<MPN>RK.T2.2X330G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point διαθέτει δύο φύλλα και μικρό περφορέ. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού και στον καθημερινό σας βίο.</Description>
 		<Barcode>5200100280394</Barcode>
-		<Quantity>1849</Quantity>
+		<Quantity>1848</Quantity>
 	</product>
 	<product>
 		<ID>70102</ID>
@@ -10387,7 +10387,7 @@
 		<MPN>0343</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650101409</Barcode>
-		<Quantity>2614</Quantity>
+		<Quantity>2613</Quantity>
 	</product>
 	<product>
 		<ID>70204</ID>
@@ -10472,7 +10472,7 @@
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<Barcode>5202995010537</Barcode>
-		<Quantity>1261</Quantity>
+		<Quantity>1241</Quantity>
 	</product>
 	<product>
 		<ID>70231101</ID>
@@ -10592,7 +10592,7 @@
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<Barcode>3800500148076</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 	</product>
 	<product>
 		<ID>70421</ID>
@@ -11464,6 +11464,23 @@
 		<Description>Με την σειρά REX PLUS το πλύσιμο των πιάτων είναι μια εύκολη υπόθεση .Με την ενισχυμένη σύνθεση του REX PLUS ,με λίγες μόνο σταγόνες καθαρίζει γρήγορα καιαποτελεσματικά τα καμένα λίπη και τις μυρωδιές από τα πιάτα , τα ποτήρια σας και τα μαγειρικά σας σκεύη. Με 17% ενεργά.</Description>
 		<Barcode>5200250702104</Barcode>
 		<Quantity>59</Quantity>
+	</product>
+	<product>
+		<ID>72056</ID>
+		<Name>KLOREX  ΥΓΡΟ ΠΙΑΤΩΝ 4 Lit ΛΕΜΟΝΙ</Name>
+		<Product_Link>https://thessclean.gr/shop/%cf%85%ce%b3%cf%81%cf%8c-%cf%80%ce%af%ce%b1%cf%84%cf%89%ce%bd-rex-eco/</Product_Link>
+		<Image_Link>https://thessclean.gr/wp-content/uploads/2018/11/DSC06842-s.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.32</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
+		<Manufacturer>KLOREX</Manufacturer>
+		<MPN>0594</MPN>
+		<Description>Η  σειρά υγρού πιάτων KLOREX είναι σίγουρα η πιο οικονομική λύση για το πλύσιμο τωνπιάτων! Με άρωμα φρέσκου λεμονιού.</Description>
+		<Barcode>5200250702005</Barcode>
+		<Quantity>55</Quantity>
 	</product>
 	<product>
 		<ID>72062</ID>
@@ -12415,7 +12432,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>163</Quantity>
+		<Quantity>162</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -12432,7 +12449,7 @@
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<Barcode>4023103156487</Barcode>
-		<Quantity>543</Quantity>
+		<Quantity>537</Quantity>
 	</product>
 	<product>
 		<ID>74111</ID>
@@ -15041,7 +15058,7 @@
 		<MPN>E-0053</MPN>
 		<Description>Πλαστική αεροστεγής σακούλα κενού αέρος για την αποθήκευση ρούχων και ογκώδη λευκών ειδών όπως κλινοσκεπάσματα. Είναι αδιάβροχη και επαναχρησιμοποιούμενη, ενώ διαθέτει ειδική βαλβίδα αφαίρεσης αέρα για την καλύτερη οργάνωση της ντουλάπας σας.</Description>
 		<Barcode>5203642100533</Barcode>
-		<Quantity>121</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>76730202</ID>
@@ -15164,6 +15181,40 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>77001902</ID>
+		<Name>Sidirela Σκαλοσκαμπό Σιδήρου 2 Σκαλιών σε Γκρι Χρώμα Ε-3155</Name>
+		<Product_Link>https://www.skroutz.gr/s/52785511/Sidirela-Skaloskampo-Sidirou-2-Skalion-E-3155.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/107992/107992051/xlarge_20250312173947_e37d935d.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.61</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Σκάλες&gt; Σκαλοσκαμπό</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3155</MPN>
+		<Description>Το σκαλοσκαμπό της Sidirela είναι μια εξαιρετική επιλογή για κάθε σπίτι ή εργαστήριο. Με δύο σκαλιά, παρέχει εύκολη πρόσβαση σε ψηλά σημεία, κάνοντάς το ιδανικό για διάφορες καθημερινές εργασίες.  Κατασκευασμένο από σιδήρο, προσφέρει ανθεκτικότητα και σταθερότητα, εξασφαλίζοντας πως μπορεί να αντέξει τη χρήση σε πολλές συνθήκες. Αυτά τα χαρακτηριστικά κάνουν το σκαλοσκαμπό αυτό απαραίτητο εργαλείο για τον καθένα που χρειάζεται μια αξιόπιστη λύση για την πρόσβαση σε ψηλά μέρη.      Με 2 σκαλιά για άνετη και ασφαλή ανύψωση.     Κατασκευασμένο από σιδέρο για αυξημένη αντοχή και μακροχρόνια χρήση.</Description>
+		<Barcode>5203642131551</Barcode>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>77001903</ID>
+		<Name>Sidirela Σκαλοσκαμπό Σιδήρου 3 Σκαλιών σε Γκρι Χρώμα Ε-3156</Name>
+		<Product_Link>https://www.skroutz.gr/s/51381579/Sidirela-Skaloskampo-Sidirou-3-Skalion-E-3156.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/107991/107991936/xlarge_20250312173928_4a03f25d.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>23.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Σκάλες&gt; Σκαλοσκαμπό</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3156</MPN>
+		<Description>Η Sidirela προσφέρει ένα σκαλοσκαμπό που συνδυάζει ανθεκτικότητα και λειτουργικότητα. Με τα 3 σκαλοπάτια του, παρέχει ευκολία και σταθερότητα σε κάθε χρήση.      Το σκαλοσκαμπό είναι κατασκευασμένο από σίδηρο, που εξασφαλίζει αντοχή και μακροχρόνια χρήση.</Description>
+		<Barcode>5203642131568</Barcode>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
 		<ID>77002</ID>
 		<Name>Flamingo Πετσέτα Κουζίνας 65x45cm 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/41951652/Flamingo-Petseta-Kouzinas-65x45cm-5206952011223-1-2tmch.html</Product_Link>
@@ -15188,7 +15239,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.9</Price>
+		<Price>10.38167928</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15205,7 +15256,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.64</Price>
+		<Price>12.12813</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15222,7 +15273,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.07</Price>
+		<Price>14.74780608</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15239,7 +15290,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.01</Price>
+		<Price>16.4942568</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15400,6 +15451,57 @@
 		<Description>Το πατάκι εισόδου της εταιρείας Douceur d'Intérieur, είναι ιδανικό για να διακοσμήσετε την πόρτα σας και να υποδεχτείτε τους καλεσμένους σας, περιορίζοντας την εισχώρηση βρωμιάς από το εξωτερικό περιβάλλον στο εσωτερικό του σπιτιού σας. Είναι κατασκευασμένο με αντιολισθητικό υλικό για μεγάλη σταθερότητα.  Διαστάσεις: - Πλάτος: 45εκ. - Μήκος: 75εκ.</Description>
 		<Barcode>3574387402537</Barcode>
 		<Quantity>23</Quantity>
+	</product>
+	<product>
+		<ID>77300131</ID>
+		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Natura Μαίανδρος Καφέ 40x70εκ. E-1190</Name>
+		<Product_Link>https://www.skroutz.gr/s/21094903/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Natura-E-1190-Kafe-40x70ek.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/021094/21094903/fixedratio_20220510153416_sidi_home_pataki_eisodou_apo_kokofoinika_natura_e_1190_kafe_40x70cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.45</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1190</MPN>
+		<Description>Πατάκι εξώπορτας από κοκοφοίνικα πάχους 5εκ. με κερωμένο τελείωμα.     Αξιόπιστο -βαρύ-χοντρό     Πάχος 5cm     Περιμετρικό τελείωμα με κερί για να μην μαδάει</Description>
+		<Barcode>5203642111904</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77300132</ID>
+		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Natura Μαίανδρος Καφέ 55x90εκ. E-1227</Name>
+		<Product_Link>https://www.skroutz.gr/s/21094876/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Natura-E-1227-Maiandros-55x90ek.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/021094/21094876/fixedratio_20220510153416_sidi_home_pataki_eisodou_natura_e_1227_55x90cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1227</MPN>
+		<Description>Πατάκι εξώπορτας από κοκοφοίνικα πάχους 5εκ. με κερωμένο τελείωμα.     Αξιόπιστο -βαρύ-χοντρό     Πάχος 5cm     Περιμετρικό τελείωμα με κερί για να μην μαδάει</Description>
+		<Barcode>5203642112277</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77300133</ID>
+		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Natura Μαίανδρος Καφέ 60x100εκ. E-1229</Name>
+		<Product_Link>https://www.skroutz.gr/s/21094894/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Natura-E-1229-Kafe-60x100ek.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/021094/21094876/fixedratio_20220510153416_sidi_home_pataki_eisodou_natura_e_1227_55x90cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>22.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1229</MPN>
+		<Description>Πατάκι εξώπορτας από κοκοφοίνικα πάχους 5εκ. με κερωμένο τελείωμα.     Αξιόπιστο -βαρύ-χοντρό     Πάχος 5cm     Περιμετρικό τελείωμα με κερί για να μην μαδάει</Description>
+		<Barcode>5203642112291</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>77011</ID>
@@ -19172,6 +19274,23 @@
 		<Quantity>1167</Quantity>
 	</product>
 	<product>
+		<ID>7975043</ID>
+		<Name>Varta Energy Αλκαλική Μπαταρία 9V 1τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9092903/Varta-Energy-Alkaliki-Mpataria-9V-1tmch.html#reviews</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/009092/9092903/xlarge_20220209091356_varta_energy_alkaliki_mpataria_9v_1tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.44</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
+		<Manufacturer>Varta</Manufacturer>
+		<MPN>10010123</MPN>
+		<Description>Τέλεια λύση για συσκευές με χαμηλή κατανάλωση ενέργειας     "Made in Germany - made to last", εγγύηση ποιότητας από τη VARTA     Εγγυημένη περίοδος αποθήκευσης 5 ετών     Συσκευασία με νέα, κομψή εμφάνιση και ιδιαίτερες απτικές αισθήσεις: εκλεπτυσμένη με μεταλλικό αποτέλεσμα     Ο μοναδικός σχεδιασμός θα σας επιτρέψει να βρείτε εύκολα τις βρύσες μας στο ράφι   Συσκευασία: 10 blister Κουτί: 50 blister</Description>
+		<Barcode>4008496626656</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>797510101</ID>
 		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Μαύρο EOT004M</Name>
 		<Product_Link>https://www.skroutz.gr/s/22606995/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-Altair-EOT004M-Mayro-EOT004M.html</Product_Link>
@@ -19560,7 +19679,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.7 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<Barcode>5901299949849</Barcode>
-		<Quantity>78</Quantity>
+		<Quantity>77</Quantity>
 	</product>
 	<product>
 		<ID>7991811</ID>
@@ -20056,6 +20175,24 @@
 		<Quantity>9</Quantity>
 	</product>
 	<product>
+		<ID>799510721</ID>
+		<Name>Φορτιστής Αυτοκινήτου Μαύρος 12W Συνολικής Έντασης 4A με Θύρες: 2xUSB-A μαζί με Καλώδιο Type-C Μαύρος CC53-40359</Name>
+		<Product_Link>https://www.skroutz.gr/s/51162328/Fortistis-Aytokinitou-Mayros-Synolikis-Entasis-4A-me-THyres-2xUSB-mazi-me-Kalodio-Type-C.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/051162/51162328/xlarge_20240308120931_fortistis_aytokinitou_mayros_me_thyres_2xusb_mazi_me_kalodio_type_c.jpeg</Image_Link>
+		<Additional>https://www.atcb2b.gr/media/catalog/product/cache/c56a8017c2a4a5884322f6519f3e8bc1/0/4/04-photoroocc53m.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.1</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Auto - Moto &gt; Ηλεκτρονικά &amp; Ηλεκτρολογικά Αυτοκινήτου &gt; Φορτιστές Αναπτήρα Αυτοκινήτου</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>CC53-40359</MPN>
+		<Description>Ο XO CC53 είναι φορτιστής αναπτήρα αυτοκινήτου με δύο θύρες USB 12W. Χάρη στο μικρό του μέγεθος, η συσκευή καταλαμβάνει ελάχιστο χώρο. Η συσκευασία περιλαμβάνει καλώδιο USB - USB-C.</Description>
+		<Barcode>6920680840359</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7995111</ID>
 		<Name>Lime Regular USB to Lightning Cable Λευκό 1m</Name>
 		<Product_Link>https://www.skroutz.gr/s/26561492/Lime-Regular-USB-to-Lightning-Cable-Leyko-1m-65303.html</Product_Link>
@@ -20121,7 +20258,7 @@
 		<MPN>1706</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Φόρτιση έως 5V 3A     QuickCharge 3.0/2.0     Μεταφορά δεδομένων έως 480Mbps  Καλώδιο για μεταφορά δεδομένων και φόρτιση συσκευών με θύρα Type-C.</Description>
 		<Barcode>6957303861262</Barcode>
-		<Quantity>18</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>799511402</ID>
@@ -21095,6 +21232,23 @@
 		<Quantity>1</Quantity>
 	</product>
 	<product>
+		<ID>7995396701</ID>
+		<Name>XO Τζαμάκι full face tempered glass 2.5D για iPhone 14 Pro Max 6.7" HC5-31142</Name>
+		<Product_Link>https://www.skroutz.gr/s/39694433/XO-HC5-2-5D-Full-Face-Tempered-Glass-iPhone-14-Pro-Max.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/068397/68397712/xlarge_20221128132841_e02efc6d.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.73</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Προστατευτικά Οθόνης Κινητών</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>HC5-31142</MPN>
+		<Description>Το full face tempered glass είναι ένα σκληρυμένο γυαλί πλήρους κάλυψης, ειδικά κατασκευασμένο για την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι 2.5D, κάτι που σημαίνει ότι η περίμετρος του διαθέτει στρογγυλεμένες άκρες για μια πιο απαλή αίσθηση στην αφή κατά τη χρήση της οθόνης. Χρήσιμο στα σύγχρονα smartphones που έχουν καμπυλωμένες οθόνες. Είναι συμβατό με το iPhone 14 Pro Max.</Description>
+		<Barcode>6920680831142</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799545101</ID>
 		<Name>WK Smartwatch με Παλμογράφο Grey (WH-03 )</Name>
 		<Product_Link>https://www.skroutz.gr/s/56679211/WK-WH-03-Smartwatch-me-Palmografo-Gri.html</Product_Link>
@@ -21757,6 +21911,57 @@
 		<Description>Θήκη προστασίας για σκληρό δίσκο. Στην θήκη της Ugreen, μπορούμε να χωρέσουμε ένα εξωτερικό σκληρό δίσκο, Power bank, καθώς και διάφορα αξεσουάρ, όπως φορτιστή, καλώδιο USB, μονάδα flash USB, κάρτες μνήμης, προσαρμογείς κ.λπ. Είναι αδιάβροχο και συμπαγές μέγεθος, γεγονός που καθιστά δυνατή τη μεταφορά σε οποιοδήποτε ταξίδι.</Description>
 		<Barcode>6957303847075</Barcode>
 		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>7996316131</ID>
+		<Name>XO Τσάντα χειρός για Laptop 13" κατά του πιτσιλίσματος και ανθεκτική στη φθορά με Βελούδινη Επένδυση σε Μαύρο χρώμα CB01-49604</Name>
+		<Product_Link>https://www.skroutz.gr/s/48886578/XO-THiki-gia-Laptop-13-se-Mayro-chroma-16-001-0101.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/048886/48886578/fixedratio_20231219123507_xo_thiki_gia_laptop_13_se_mayro_chroma_16_001_0101.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.89</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt; Laptops &amp; Αξεσουάρ&gt; Τσάντες Laptop</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>CB01-49604</MPN>
+		<Description>Τσάντα φορητού υπολογιστή για συσκευή μεγέθους οθόνης 13" με εξωτερική τσέπη για την αποθήκευση διαφόρων αξεσουάρ υπολογιστή. Μέγεθος: 13 ίντσες, 37 * 26 * 2,5 cm Υλικό: Πολυεστερικό εσωτερικό βελούδινο  Ύφασμα κατά του πιτσιλίσματος, ανθεκτικό στη φθορά και ανθεκτικό στις γρατσουνιές, στιβαρό και ανθεκτικό, μοντέρνο και απλό, με προσεγμένη βελούδινη επένδυση.</Description>
+		<Barcode>6920680849604</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7996316141</ID>
+		<Name>XO Τσάντα χειρός για Laptop 14" κατά του πιτσιλίσματος και ανθεκτική στη φθορά με Βελούδινη Επένδυση σε Γκρι χρώμα CB01-46405</Name>
+		<Product_Link>https://www.skroutz.gr/s/46834766/XO-Cb01-THiki-gia-Laptop-14-se-Gri-chroma.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_images/083618/83618177/fixedratio_20231017104037_693ef9b1.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt; Laptops &amp; Αξεσουάρ&gt; Τσάντες Laptop</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>CB01-46405</MPN>
+		<Description>Τσάντα για laptop 14" με εξωτερική θήκη για να αποθηκεύεις διάφορα αξεσουάρ του υπολογιστή. Μέγεθος: 14 ίντσες, 38,5 * 28,5 * 2,5 cm Σημείο προϊόντος: Ύφασμα κατά του πιτσιλίσματος, ανθεκτικό στη φθορά και στις γρατσουνιές, στιβαρό και ανθεκτικό, μοντέρνο και απλό, με προσεγμένη βελούδινη επένδυση.</Description>
+		<Barcode>6920680846405</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7996316171</ID>
+		<Name>XO Σάκος Πλάτης για Laptop 17" Αδιάβροχος Πολυεστερικός σε Μαύρο χρώμα CB02-52710</Name>
+		<Product_Link>https://www.skroutz.gr/s/54376055/XO-Cb02-Adiavrochi-Tsanta-Platis-gia-Laptop-17-se-Mayro-chroma.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/054376/54376055/fixedratio_20240614111038_xo_cb02_adiavrochi_tsanta_platis_gia_laptop_15_6_se_mayro_chroma.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.45</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt; Laptops &amp; Αξεσουάρ&gt; Τσάντες Laptop</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>CB02-52710</MPN>
+		<Description>Η τσάντα πλάτης της XO είναι υφασμάτινη και χωράει laptop έως και 15.6 ιντσών.      Μέγιστη Διάσταση: 17"     Τύπος: Πλάτης     Υλικό: Πολυεστέρας  Χαρακτυριστικά Τύπος: Σάκος Πλάτης Μέγιστη Διάσταση: 17 " Υλικό: Πολυεστέρας Χρώμα: Μαύρο Αδιάβροχο: ναι Διαστάσεις Μήκος: 33 cm Πλάτος: 14 cm Ύψος: 46cm</Description>
+		<Barcode>6920680857210</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799631591</ID>
@@ -23905,7 +24110,7 @@
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<Barcode>5202546009133</Barcode>
-		<Quantity>103</Quantity>
+		<Quantity>101</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
