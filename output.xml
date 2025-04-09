@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-09 16:19</created_at>
+	<created_at>2025-04-09 16:45</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -233,7 +233,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900045</Barcode>
-		<Quantity>86</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>32031-Τ</ID>
@@ -305,7 +305,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>306</Quantity>
+		<Quantity>297</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -2355,7 +2355,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>1433</Quantity>
+		<Quantity>1428</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -5296,7 +5296,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<Barcode>520237120064</Barcode>
-		<Quantity>545</Quantity>
+		<Quantity>521</Quantity>
 	</product>
 	<product>
 		<ID>52352</ID>
@@ -10438,7 +10438,7 @@
 		<MPN>0599</MPN>
 		<Description>Χαρτοπετσέτα εστιατορίου "ΠΑΡΑΓΩΓΗ" έχει διαστάσεις 24x24 εκατοστά και περιλαμβάνει 550 τεμάχια. Είναι κατάλληλη για εστιατόρια και επαγγελματική χρήση, προσφέροντας αξιόπιστη απορροφητικότητα και ανθεκτικότητα.</Description>
 		<Barcode>5203650300154</Barcode>
-		<Quantity>302</Quantity>
+		<Quantity>301</Quantity>
 	</product>
 	<product>
 		<ID>70230</ID>
@@ -10997,7 +10997,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Μαλακτικό ρούχων που παρέχει επιπλέον απαλότητα και φρεσκάδα στα ρούχα σας, ενώ ταυτόχρονα τα καθαρίζει.</Description>
 		<Barcode>3800024025372</Barcode>
-		<Quantity>258</Quantity>
+		<Quantity>259</Quantity>
 	</product>
 	<product>
 		<ID>71203</ID>
@@ -21058,7 +21058,7 @@
 		<MPN>1726</MPN>
 		<Description>Αντάπτορας για σύνδεση συσκευών USB-A στη θύρα Type-C του laptop σου. Υποστηρίζει OTG για σύνδεση περιφερειακών στο smartphone ή το tablet σου.</Description>
 		<Barcode>6957303852833</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799515302</ID>
@@ -21450,7 +21450,7 @@
 		<MPN>1736</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Κατασκευασμένη από κράμα αλουμινίου     Δυνατότητα κλίσης έως 180 μοίρες     Συμβατή με tablets 7"-11"     Διαθέτει προστατευτικά σιλικόνης</Description>
 		<Barcode>6957303843930</Barcode>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>799551151</ID>
@@ -23542,7 +23542,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<Barcode>6111260550359</Barcode>
-		<Quantity>63</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>852261</ID>
