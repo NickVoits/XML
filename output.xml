@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-19 11:31</created_at>
+	<created_at>2025-04-19 11:33</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -2340,7 +2340,7 @@
 	</product>
 	<product>
 		<ID>20201-Τ</ID>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 0.5lt</Name>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/29351601/Vikos-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/029351/29351601/20210608120227_vikos_metalliko_nero_0_5lt_1tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2358,7 +2358,7 @@
 	</product>
 	<product>
 		<ID>20203-Τ</ID>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 1.5lt</Name>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/33524215/Vikos-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/033524/33524215/20220120104552_vikos_fysiko_metalliko_nero_fysiko_1_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2376,7 +2376,7 @@
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 0.5lt</Name>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/45569537/Ioli-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/045569/45569537/20230906100530_ioli_fysiko_metalliko_nero_0_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2394,7 +2394,7 @@
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 1.5lt</Name>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/40395559/Ioli-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/040395/40395559/20230117165555_ioli_fysiko_metalliko_nero_1_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2412,7 +2412,7 @@
 	</product>
 	<product>
 		<ID>20601-Τ</ID>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt</Name>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/34680568/Zagori-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/034680/34680568/xlarge_20220318114308_zagori_fysiko_metalliko_nero_0_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2429,7 +2429,7 @@
 	</product>
 	<product>
 		<ID>20603-Τ</ID>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt</Name>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/26743304/Zagori-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/026743/26743304/xlarge_20210122155227_zagori_fysiko_metalliko_nero_1_5lt_1tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -3638,24 +3638,6 @@
 		<Quantity>18</Quantity>
 	</product>
 	<product>
-		<ID>46353</ID>
-		<Name>Vaios Ganis Organic Wines Βιολογικό Κρασί Arx Ερυθρό Ξηρό 750ml</Name>
-		<Product_Link>https://kavakelari.gr/product/arch-erythro-2021-abelones-gkani/</Product_Link>
-		<Image_Link>https://www.oiniko.gr/image/cache/catalog/products/arx-erithro-ksiro-ganis-960x1440.webp</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>6.02</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
-		<Manufacturer>GANIS</Manufacturer>
-		<MPN>1240</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Ερυθρός Ξηρός Βιολογικός &amp;Vegan Οίνο,Προστατευόμενη Γεωγραφική Ενδειξη Φθιώτιδα</Description>
-		<Barcode>5200115630139</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>46356</ID>
 		<Name>Vaios Ganis Organic Wines Βιολογικό Κρασί Μυθικό Βασίλειο Ροδίτης Αλεπού Λευκό Ξηρό Orange 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/25328661/Vaios-Ganis-Organic-Wines-Viologiko-Krasi-Mythiko-Vasileio-Roditis-Alepou-Leyko-Xiro-Orange-750ml.html</Product_Link>
@@ -4575,7 +4557,7 @@
 		<Manufacturer>ΚΤΗΜΑ ΣΙΓΑΛΑ</Manufacturer>
 		<MPN>1157002</MPN>
 		<Description>Λευκός οίνος σε μια διαφορετική προσέγγιση του Ασύρτικου, όπου τα τυπικά χαρακτηριστικά της ποικιλίας, η λεμονάτη αίσθηση, η αλμύρα και η ορυκτότητα του, που προέρχονται από το terroir της Σαντορίνης, συναντούν τα χαρακτηριστικά που προέρχονται από την ωρίμανση του σε βαρέλια, μαζί με τις οινολάσπες του.   Στην όψη έχει λαμπερό χρυσαφένιο χρώμα, ενώ στην μύτη διαθέτει φρουτώδης νότες εσπεριδοειδών, λεμονιού, κυδωνιού, μαζί με αρώματα αλμύρας και ορυκτότητας καθώς και διακριτικές νότες δρυός που υποδηλώνουν την παρουσία του βαρελιού στο κρασί.   Η δροσιστική γεύση του ισορροπεί με την ενσωματωμένη οξύτητα, χαρακτηριστική της ποικιλίας και με την λιπαρή και βουτυρένια αίσθηση που προέρχεται από την παραμονή του σε δρύινα βαρέλια.   Η μακριά του επίγευση διαθέτει έντονη την αίσθηση της αλμύρας και της ορυκτότητας που προσδίδουν τα ηφαιστειογενή εδάφη της Σαντορίνης.</Description>
-		<Barcode>5203133121214</Barcode>
+		<Barcode>5203133222225</Barcode>
 		<Quantity>6</Quantity>
 	</product>
 	<product>
@@ -5003,7 +4985,7 @@
 		<VAT>24</VAT>
 		<Price>3.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
 		<MPN>1420</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Αλκοολικός Βαθμός: 40%    Ποσότητα: 200ml    Χώρα Προέλευσης: Ελλάδα    Παραγωγός: Ισίδωρος Αρβανίτης</Description>
@@ -5020,7 +5002,7 @@
 		<VAT>24</VAT>
 		<Price>12.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
 		<MPN>1421</MPN>
 		<Description>Ένα ούζο πλωμαρίου με συνταγή από το 1894, όταν ο Ισίδωρος Αρβανίτης συνδύασε τους αρωματικούς σπόρους και τα βότανα της Λέσβου με κυρίαρχο τον γλυκάνισο από το Λισβόρι, αλάτι Καλλονής, μοσχοκάρυδο και κανέλλα.</Description>
@@ -5037,7 +5019,7 @@
 		<VAT>24</VAT>
 		<Price>6.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΠΙΤΣΙΛΑΔΗ</Manufacturer>
 		<MPN>1422</MPN>
 		<Description>Το Ουζο Πιτσιλαδή είναι αυθεντικό ούζο Πλωμαρίου το οποίο παρασκευάζεται με πατροπαράδοτο τρόπο.</Description>
@@ -6725,7 +6707,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.06</Price>
+		<Price>2.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -6743,7 +6725,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.06</Price>
+		<Price>2.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -6761,7 +6743,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.06</Price>
+		<Price>2.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -6779,7 +6761,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.85</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -6797,7 +6779,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.85</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -7752,7 +7734,7 @@
 	</product>
 	<product>
 		<ID>63001</ID>
-		<Name>Nivea Αποσμητικό 48h σε Roll-On 50ml</Name>
+		<Name>Nivea Men Dry Impact Plus Anti-perspirant Αποσμητικό 48h σε Roll-On 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22264536/Nivea-Men-Dry-Impact-Anti-perspirant-Aposmitiko-48h-se-Roll-On-50ml.html</Product_Link>
 		<Image_Link>https://images-us.nivea.com/-/media/miscellaneous/media-center-items/0/3/6/273402-web_1010x1180_transparent_png.png</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -7803,7 +7785,7 @@
 	</product>
 	<product>
 		<ID>63011</ID>
-		<Name>Nivea Pearl &amp; Beauty Anti-perspirant Αποσμητικό 48h σε Roll-On 50ml</Name>
+		<Name>Nivea Women Pearl &amp; Beauty Anti-perspirant Αποσμητικό 48h σε Roll-On 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/7154681/Nivea-Pearl-Beauty-Anti-perspirant-Aposmitiko-48h-se-Roll-On-50ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/007154/7154681/20211020152957_nivea_pearl_beauty_48h_anti_perspirant_roll_on_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -7820,7 +7802,7 @@
 	</product>
 	<product>
 		<ID>63012</ID>
-		<Name>Nivea Pure Invisible Anti-Perspirant Αποσμητικό 48h σε Roll-On 50ml</Name>
+		<Name>Nivea Women Pure Invisible Anti-Perspirant Αποσμητικό 48h σε Roll-On 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/7155813/Nivea-Pure-Invisible-Anti-Perspirant-Aposmitiko-48h-se-Roll-On-50ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/007155/7155813/20210329135106_nivea_pure_invisible_roll_on_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -7837,7 +7819,7 @@
 	</product>
 	<product>
 		<ID>63013</ID>
-		<Name>Nivea Stress Protect Anti-perspirant Αποσμητικό 48h σε Roll-On 50ml</Name>
+		<Name>Nivea Women Stress Protect Anti-perspirant Αποσμητικό 48h σε Roll-On 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/7153872/Nivea-Men-Stress-Protect-Anti-perspirant-Aposmitiko-48h-se-Roll-On-50ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/007153/7153872/20220504110135_nivea_men_stress_protect_48h_anti_perspirant_roll_on_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10091,7 +10073,7 @@
 	</product>
 	<product>
 		<ID>68081</ID>
-		<Name>HDPE Γάντια Πολυαιθυλενίου Διάφανα One Size 100τμχ</Name>
+		<Name>HDPE Γάντια Πολυαιθυλενίου Μιας Χρήσης Διάφανα One Size 100τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/40979661/Gantia-Polyaithyleniou-se-Diafano-CHroma-100tmch.html?product_id=185605669&amp;sponsored=listing</Product_Link>
 		<Image_Link>https://maskes.gr/wp-content/uploads/2020/05/%CE%93%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%A0%CE%BF%CE%BB%CF%85%CE%B1%CE%B9%CE%B8%CF%85%CE%BB%CE%B5%CE%BD%CE%AF%CE%BF%CF%85-%CE%94%CE%B9%CE%AC%CF%86%CE%B1%CE%BD%CE%B1-One-Size-Large-%CE%A3%CE%B5%CF%84-100-%CE%A4%CE%B5%CE%BC%CE%B1%CF%87%CE%AF%CF%89%CE%BD.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -12469,6 +12451,23 @@
 		<Quantity>493</Quantity>
 	</product>
 	<product>
+		<ID>740550101</ID>
+		<Name>Λεκάνη Σιλικόνης Πτυσσόμενη 55x25x22εκ. Χωρητικότητας 30lt Γκρι/Λευκή E-0349</Name>
+		<Product_Link>https://www.sidirela.gr/nea-proionta/kalathi-plyntirioy-ptyssomeno/?attribute_pa_kivotologio=6tmch-kiv-2</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/059759/59759172/fixedratio_20250409160146_sidirela_e_0349_kalathi_aplyton_ptyssomeno_55x25x22cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.93</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Καθαρισμού&gt; Λεκάνες Πλυσίματος</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-0349</MPN>
+		<Description>Λεκάνη σιλικόνης, κατάλληλη για την μπουγάδα σας αλλά και για κάθε άλλη χρήση.  Είναι πτυσσόμενη με πολύ μικρό ύψος όταν είναι κλειστή, διευκολύνοντας την αποθήκευση της.  Διαθέτει λαβές για εύκολη μεταφορά. Μπορείτε να την τοποθετήσετε στο μπάνιο σας, κοντά στο πλυντήριο ή οπουδήποτε σας βολεύει ώστε να έχετε εύκολη πρόσβαση.  Είναι πολύ ανθεκτική στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.      Μήκος: 55cm     Πλάτος: 25cm     Ύψος: 22cm</Description>
+		<Barcode>5203642103497</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>74111</ID>
 		<Name>ΚΥΚΛΩΨ ΦΑΡΑΣΙ ΚΟΥΜΠΩΤΟ ΜΕ ΛΑΣΤΙΧΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/22794505/Cyclops-Clip-Farasi-Plastiko-me-Lasticho-Prasino-33-2x23x7-2ek-003301627.html</Product_Link>
@@ -14296,6 +14295,57 @@
 		<Quantity>64</Quantity>
 	</product>
 	<product>
+		<ID>762206002</ID>
+		<Name>Sidirela Χάλκινο Παραδοσιακό Μπρίκι με Ξύλινη Λαβή 200ml Ε-3711</Name>
+		<Product_Link>https://www.skroutz.gr/s/32895407/Sidirela-No2-Mpriki-CHalkino-200ml-E-3711.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/032895/32895407/xlarge_20220322113051_sidi_home_no2_mpriki_chalkino_200ml_e_3711.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.31</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Μαγειρικά Σκεύη&gt; Μπρίκια</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3711</MPN>
+		<Description>Το μπρίκι για χόβολη χρησιμοποιείται κυρίως για την παρασκευή ελληνικού καφέ. Τοποθετείται πάνω σε στάχτη από κάρβουνα και άμμο, διατηρώντας την φωτιά αναμμένη, και έτσι ο καφές αργοψήνεται.  Είναι κατασκευασμένο από χαλκό, ένα υλικό με υψηλή θερμική αγωγιμότητα, που παρέχει ένα εύκολο και γρήγορο ψήσιμο. Έχει την ιδιότητα να θερμαίνεται ομοιόμορφα και βαθμιαία.  Είναι ανθεκτικό και μπορεί να χρησιμοποιηθεί απευθείας πάνω σε ανοιχτή φωτιά, σε τζάκι, σε εστίες υγραερίου, αλλά και ηλεκτρικές εστίες.</Description>
+		<Barcode>5203642137119</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>762206003</ID>
+		<Name>Sidirela Χάλκινο Παραδοσιακό Μπρίκι με Ξύλινη Λαβή 250ml  Ε-3712</Name>
+		<Product_Link>https://www.skroutz.gr/s/32895371/Sidirela-No3-Mpriki-CHalkino-250ml-E-3712.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/032895/32895371/xlarge_20220322113051_sidi_home_no3_mpriki_chalkino_250ml_e_3712.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.81</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Μαγειρικά Σκεύη&gt; Μπρίκια</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3712</MPN>
+		<Description>ο μπρίκι της εταιρείας Sidirela είναι κατασκευασμένο από χαλκό, ένα υλικό με υψηλή θερμική αγωγιμότητα, που παρέχει ένα εύκολο και γρήγορο ψήσιμο. Έχει την ιδιότητα να θερμαίνεται ομοιόμορφα και βαθμιαία. Είναι ανθεκτικό και μπορεί να χρησιμοποιηθεί:      Απευθείας πάνω σε ανοιχτή φωτιά     Σε τζάκι     Σε εστίες υγραερίου     Σε ηλεκτρικές εστίες  Χωρητικότητα: 250ml</Description>
+		<Barcode>5203642137126</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>762206005</ID>
+		<Name>Sidirela Χάλκινο Παραδοσιακό Μπρίκι με Ξύλινη Λαβή 350ml Ε-3714</Name>
+		<Product_Link>https://www.skroutz.gr/s/31551750/Sidirela-Mpriki-CHovolis-CHalkino-350ml-E-3714.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/031551/31551750/xlarge_20211007144333_sidi_home_mpriki_chalkino_e_3714_350ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.31</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Μαγειρικά Σκεύη&gt; Μπρίκια</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-3714</MPN>
+		<Description>Το μπρίκι της εταιρείας Sidirela είναι κατασκευασμένο από χαλκό, ένα υλικό με υψηλή θερμική αγωγιμότητα, που παρέχει ένα εύκολο και γρήγορο ψήσιμο. Έχει την ιδιότητα να θερμαίνεται ομοιόμορφα και βαθμιαία. Είναι ανθεκτικό και μπορεί να χρησιμοποιηθεί απευθείας πάνω σε ανοιχτή φωτιά, σε τζάκι, σε εστίες υγραερίου, αλλά και ηλεκτρικές εστίες.  Χωρητικότητα: 350ml</Description>
+		<Barcode>5203642137140</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>76231</ID>
 		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Ορθογώνιο Κοραλί Κατάλληλο για Φούρνο Μικροκυμάτων 1200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/20252502/Cyclops-Fresco-Docheio-Fagitou-Plastiko-Roz-Katallilo-gia-Fourno-Mikrokymaton-1200ml-003301862.html</Product_Link>
@@ -14517,23 +14567,6 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>763011</ID>
-		<Name>Cyclops Μπολ Στρογγυλό Πλαστικό 10Ø×5cm 250ml Ροζ</Name>
-		<Product_Link>https://www.cyclops.gr/site/product/%CE%9C%CF%80%CE%BF%CE%BB-%CE%A3%CF%84%CF%81%CE%BF%CE%B3%CE%B3%CF%85%CE%BB%CF%8C-0-25-lt?prdId=003302071&amp;extLang=</Product_Link>
-		<Image_Link>https://i.imgur.com/3wjgzJl.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.325770816</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πιάτα &amp; Σερβίτσια &gt; Μπωλ Σερβιρίσματος</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1436</MPN>
-		<Description>Διάσταση τεμ. (cm): 10,00 Ø x 5,00 - 0,25 lt</Description>
-		<Barcode>5202707009248</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>763012</ID>
 		<Name>Cyclops Μπολ Στρογγυλό Πλαστικό 10Ø×5cm 250ml Βεραμάν</Name>
 		<Product_Link>https://www.cyclops.gr/site/product/%CE%9C%CF%80%CE%BF%CE%BB-%CE%A3%CF%84%CF%81%CE%BF%CE%B3%CE%B3%CF%85%CE%BB%CF%8C-0-25-lt?prdId=003302071&amp;extLang=</Product_Link>
@@ -14548,23 +14581,6 @@
 		<MPN>1437</MPN>
 		<Description>Διάσταση τεμ. (cm): 10,00 Ø x 5,00 - 0,25 lt</Description>
 		<Barcode>5202707009248</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>76302</ID>
-		<Name>Cyclops Μπωλ Σερβιρίσματος Πλαστικό Μπλε Με Διάμετρο 13cm 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/55053079/Cyclops-Mpol-Servirismatos-Strogylo-Plastiko-Mple-500ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/055053/55053079/fixedratio_20240724104157_cyclops_mpol_servirismatos_strogylo_plastiko_mple_5202707995756.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.4343610880000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πιάτα &amp; Σερβίτσια &gt; Μπωλ Σερβιρίσματος</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1438</MPN>
-		<Description>Μπωλ σερβιρίσματος σε στρογγυλό σχήμα της εταιρείας Cyclops, κατάλληλο για να σερβίρετε ορεκτικά, σνάκ, φρούτα και γλυκά. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.</Description>
-		<Barcode>5202707995756</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -14583,23 +14599,6 @@
 		<Description>Μπωλ σερβιρίσματος σε στρογγυλό σχήμα της εταιρείας Cyclops, κατάλληλο για να σερβίρετε ορεκτικά, σνάκ, φρούτα και γλυκά. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.</Description>
 		<Barcode>5202707995756</Barcode>
 		<Quantity>1</Quantity>
-	</product>
-	<product>
-		<ID>763022</ID>
-		<Name>Cyclops Μπωλ Σερβιρίσματος Πλαστικό Βεραμάν Με Διάμετρο 13cm 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/31020926/Cyclops-Mpol-Servirismatos-Plastiko-Roz-me-Diametro-13ek.html</Product_Link>
-		<Image_Link>https://s3.praktiker.gr/myPraktiker.Images/Products/136990/gallery/27664/PS_609079_01_L.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.4343610880000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πιάτα &amp; Σερβίτσια &gt; Μπωλ Σερβιρίσματος</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1440</MPN>
-		<Description>Μπωλ σερβιρίσματος σε στρογγυλό σχήμα της εταιρείας Cyclops, κατάλληλο για να σερβίρετε ορεκτικά, σνάκ, φρούτα και γλυκά. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.</Description>
-		<Barcode>5202707995756</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>763031</ID>
@@ -14738,23 +14737,6 @@
 		<Quantity>11</Quantity>
 	</product>
 	<product>
-		<ID>763061</ID>
-		<Name>Cyclops Σαλατιέρα Πλαστική Ροζ 27.5x27.5x13.1cm 5Lt</Name>
-		<Product_Link>https://www.skroutz.gr/s/31031861/Cyclops-Salatiera-Plastiki-Mple-27-5x27-5x13-1cm-003301564.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/031009/31009081/fixedratio_20220512141826_cyclops_salatiera_plastiki_roz_27_5x27_5x13_1cm.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.6071360256</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πιάτα &amp; Σερβίτσια &gt; Σαλατιέρες</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1449</MPN>
-		<Description>Σαλατιέρα της εταιρείας Cyclops σε μπλε χρώμα, ιδανική λύση για το καθημερινό σας τραπέζι χάρη στο ελαφρύ και ανθεκτικό υλικό της. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Μήκος: 27.5cmΠλάτος: 27.5cmΎψος: 13.1cm</Description>
-		<Barcode>5202707060232</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>763062</ID>
 		<Name>Cyclops Σαλατιέρα Πλαστική Βεραμάν 27.5x27.5x13.1cm 5Lt</Name>
 		<Product_Link>https://www.skroutz.gr/s/31009081/Cyclops-Salatiera-Plastiki-Roz-27-5x27-5x13-1cm.html</Product_Link>
@@ -14770,23 +14752,6 @@
 		<Description>Σαλατιέρα της εταιρείας Cyclops σε μπλε χρώμα, ιδανική λύση για το καθημερινό σας τραπέζι χάρη στο ελαφρύ και ανθεκτικό υλικό της. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Μήκος: 27.5cmΠλάτος: 27.5cmΎψος: 13.1cm</Description>
 		<Barcode>5202707060232</Barcode>
 		<Quantity>19</Quantity>
-	</product>
-	<product>
-		<ID>763121</ID>
-		<Name>Cyclops Πιάτο Ρηχό Πλαστικό Ροζ με Διάμετρο 23cm</Name>
-		<Product_Link>https://www.skroutz.gr/s/53883474/Cyclops-Piato-Richo-Plastiko-Roz-me-Diametro-23cm-003301740-5202707003499.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/053883/53883474/fixedratio_20240527173324_cyclops_piato_richo_plastiko_roz_me_diametro_23cm_003301740_5202707003499.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.7601319039999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πιάτα &amp; Σερβίτσια &gt; Πιάτα Σερβιρίσματος</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1451</MPN>
-		<Description>Πιάτο ρηχό της εταιρείας Cyclops, το οποίο αποτελεί το πιο βασικό είδος πιάτου αφού το χρησιμοποιούμε συνηθέστερα μέσα στη μέρα μας. Μπορείτε να σερβίρετε οποιοδήποτε είδος φαγητού, και έχει το κατάλληλο μέγεθος για να χωρέσει κάθε κυρίως γεύμα με την αντίστοιχη γαρνιτούρα. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χρώμα: Ροζ</Description>
-		<Barcode>5202707003499</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>763122</ID>
@@ -14855,23 +14820,6 @@
 		<Description>Πιάτο ρηχό της εταιρείας Cyclops, το οποίο αποτελεί το πιο βασικό είδος πιάτου αφού το χρησιμοποιούμε συνηθέστερα μέσα στη μέρα μας. Μπορείτε να σερβίρετε οποιοδήποτε είδος φαγητού, και έχει το κατάλληλο μέγεθος για να χωρέσει κάθε κυρίως γεύμα με την αντίστοιχη γαρνιτούρα. Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χρώμα: Πράσινο</Description>
 		<Barcode>5202707003918</Barcode>
 		<Quantity>15</Quantity>
-	</product>
-	<product>
-		<ID>76321</ID>
-		<Name>Cyclops Ποτήρι από Πλαστικό σε Μπλε Χρώμα 380ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/48323376/Cyclops-Potiri-apo-Plastiko-se-Mple-CHroma-380ml-003301832.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/048323/48323376/fixedratio_20240517155926_cyclops_potiri_apo_plastiko_se_mple_chroma_380ml_003301832.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.7058367680000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Είδη Σερβιρίσματος &gt; Ποτήρια</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1456</MPN>
-		<Description>Ποτήρι νερού της εταιρείας Cyclops, κατάλληλο για νερό, χυμούς, γάλα και οποιοδήποτε άλλο ρόφημα. Μπορεί επίσης να χρησιμοποιηθεί στην καθημερινότητα σαν μονάδα μέτρησης υγρών που προσθέτουμε στις μαγειρικές δημιουργίες.• Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χωρητικότητα: 380mlΧρώμα: Μπλε</Description>
-		<Barcode>5202707004663</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>763211</ID>
@@ -15195,6 +15143,108 @@
 		<MPN>Ε-1355</MPN>
 		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.      Διαστάσεις: 30cm x 30cm</Description>
 		<Barcode>5203642113557</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770012101</ID>
+		<Name>Μεταλλική Παπουτσοθήκη με 3 Ράφια Μαύρο / Φυσικό 63x30x63cm E-3294</Name>
+		<Product_Link>https://www.skroutz.gr/s/21477441/Metalliki-Papoutsothiki-me-3-Rafia-Mayro-Fysiko-E-3294-63x30x63cm.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/058389/58389258/fixedratio_20220401130309_ca234a89.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>19.82</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3294</MPN>
+		<Description>Παπουτσοθήκη-μικροέπιπλο δαπέδου με μεταλλική βάση και ξύλινη επιφάνεια.</Description>
+		<Barcode>5203642132947</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770012111</ID>
+		<Name>Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Γκρι Χρώμα E-02061</Name>
+		<Product_Link>https://www.skroutz.gr/s/40607787/Xylini-Papoutsothiki-E-0206-me-2-Rafia-Gri-60x24x80cm.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/040607/40607787/fixedratio_20230208131834_xylini_papoutsothiki_e_0206_me_2_rafia_gri_60x24x80cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>33.69</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-02061</MPN>
+		<Description>Η παπουτσοθήκη της εταιρείας Sidirela διαθέτει 4 ράφια για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι κατασκευασμένη από MDF (ινοσανίδα), ένα παράγωγο ξύλου από κομμάτια, ίνες και υπολείμματα ξύλου. Τέλος, το προϊόν παραδίδεται αμοντάριστο, σε εργοστασιακή συσκευασία και με αναλυτικό οδηγό συναρμολόγησης. Συντήρηση  Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
+		<Barcode>5203642102063</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770012112</ID>
+		<Name>Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Καφέ Χρώμα E-02062</Name>
+		<Product_Link>https://www.skroutz.gr/s/58625759/Xylini-Papoutsothiki-60x25x80cm-E-0206.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/058625/58625759/fixedratio_20250205144413_xylini_papoutsothiki_60x25x80cm_e_0206.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>33.69</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-02062</MPN>
+		<Description>Η παπουτσοθήκη της εταιρείας Sidirela διαθέτει 4 ράφια για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι κατασκευασμένη από MDF (ινοσανίδα), ένα παράγωγο ξύλου από κομμάτια, ίνες και υπολείμματα ξύλου. Τέλος, το προϊόν παραδίδεται αμοντάριστο, σε εργοστασιακή συσκευασία και με αναλυτικό οδηγό συναρμολόγησης. Συντήρηση  Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
+		<Barcode>5203642102063</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770012151</ID>
+		<Name>Ντουλάπι Μπάνιου Ξύλινο Βamboo Μ55xΒ20xΥ83cm σε Φυσικό Χρώμα Ξύλου E-4243</Name>
+		<Product_Link>https://www.skroutz.gr/s/57608062/Sidirela-E-4243-Ntoulapi-Mpaniou-M55xV20xY83cm-Fysiko-Xylo.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/057608/57608062/xlarge_20241122145223_sidirela_e_4243_ntoulapi_mpaniou_m55xv20xy83cm_fysiko_xylo.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>39.64</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Μπάνιου&gt; Ντουλάπια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-4243</MPN>
+		<Description>Βασικά χαρακτηριστικά:      με 2 ράφια μοντέρνας αισθητικής     3 επίπεδα αποθήκευσης     2 πόρτες     Διαστάσεις: 56 x 20 x 81 cm</Description>
+		<Barcode>5203642142434</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770012201</ID>
+		<Name>Συρταριέρα-Κομοδίνο από Ξύλο, Μέταλλο &amp; Ύφασμα με 3 Συρτάρια Μ45xΠ29xΥ70εκ. E-3919</Name>
+		<Product_Link>https://www.skroutz.gr/s/33080457/Syrtariera-Apothikeysis-apo-Xylo-Metallo-Yfasma-me-3-Syrtaria-E-3919-M45xP29xY70ek.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/073670/73670678/fixedratio_20230330113756_d511dd6e.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>28.74</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Μικροέπιπλα &gt; Μικροέπιπλα Αποθήκευσης</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3919</MPN>
+		<Description>Με μεταλλικό σκελετό     Ξύλινη επιφάνεια mdf     3 Συρτάρια κλειστής αποθήκευσης</Description>
+		<Barcode>5203642139199</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770012251</ID>
+		<Name>Ανοξείδωτη Μεταλλική βάση για βαλίτσες Υ70xΠ55xΒ46cm E-3197</Name>
+		<Product_Link>https://www.skroutz.gr/s/27549450/Sidirela-Mpagaziera-Metalliki-E-3197-Y70xP55xV46cm.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/027549/27549450/xlarge_20210310084846_sidi_home_mpagaziera_metalliki_e_3197.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>27.25</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B&gt; Ξενοδοχειακός Εξοπλισμός Δωματίου&gt; Μπαγκαζιέρες Ξενοδοχείου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-3197</MPN>
+		<Description>Βάση για βαλίτσα μεταλλική Sidirela     Πτυσσόμενη     Διαστάσεις ανοιχτή: 56x48x72εκ.     Διαστάσεις κλειστή: 56x13x88εκ.</Description>
+		<Barcode>5203642131971</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -17691,7 +17741,7 @@
 	</product>
 	<product>
 		<ID>7949901</ID>
-		<Name>Θερμική Χαρτοταινία Ταμειακής Π57xΔ40mm με Μήκος 15m</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π57xΔ40mm με Μήκος 15m (Η συσκευασία περιέχει 14 τεμάχια και το κιβώτιο 8 συσκευασίες)</Name>
 		<Product_Link>https://www.skroutz.gr/s/50350885/Typotrust-THermiki-CHartotainia-Tameiakis-P57xD40mm-me-Mikos-15m-48gr-m2-5005740.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/050350/50350885/20240516091744_typotrust_thermiki_chartotainia_tameiakis_p57xd40mm_me_mikos_25m_48gr_m_5005740.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -17708,7 +17758,7 @@
 	</product>
 	<product>
 		<ID>7949902</ID>
-		<Name>Θερμική Χαρτοταινία Ταμειακής Π57xΔ50mm με Μήκος 25m</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π57xΔ50mm με Μήκος 25m (Η συσκευασία περιέχει 12 τεμάχια και το κιβώτιο 6 συσκευασίες)</Name>
 		<Product_Link>https://www.skroutz.gr/s/56739276/Various-THermiki-CHartotainia-Tameiakis-P57xD50mm-me-Mikos-25m-48gr-m2-5005750.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/056739/56739276/20241009092923_various_thermiki_chartotainia_tameiakis_p57xd50mm_me_mikos_25m_48gr_m_5005750.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -17725,7 +17775,7 @@
 	</product>
 	<product>
 		<ID>7949903</ID>
-		<Name>Θερμική Χαρτοταινία Ταμειακής Π80xΔ80mm με Μήκος 65m</Name>
+		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής Π80xΔ80mm με Μήκος 65m (Η συσκευασία περιέχει 6 τεμάχια και το κιβώτιο 6 συσκευασίες)</Name>
 		<Product_Link>https://www.skroutz.gr/s/56739213/Various-THermiki-CHartotainia-Tameiakis-P80xD80mm-me-Mikos-65m-48gr-m2-5008080.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/056739/56739213/20241009092715_various_thermiki_chartotainia_tameiakis_p80xd80mm_me_mikos_65m_48gr_m_5008080.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -19391,6 +19441,40 @@
 		<Description>Μάρκα: Entac  Χρώμα: Πράσινο  Υλικό: ABS  Πηγή τροφοδοσίας: Beepitett 18650, 2000mAh  Ικανότητα φωτισμού:      Εξόδος Lumen: 400 lm  Λειτουργικότητα:      Μέγιστος χρόνος λειτουργίας: 10 ώρες     Ενσωματωμένη μπαταρία: Ναι  Λογιστικά στοιχεία:      Διαστάσεις συσκευασίας: 190mm x 105mm x 145mm     Βάρος: 358 γραμμάρια     Ακαθάριστος όγκος: 2 358.14 cm³     Τεμάχια ανά κουτί: 24  Τεχνικά στοιχεία:      Ικανότητα: 5 W     Τάξη IP: IP44  Μέγεθος: 138x96x178</Description>
 		<Barcode>5999097983646</Barcode>
 		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>797511101</ID>
+		<Name>Επιτραπέζιο επαναφορτιζόμενο Διακοσμητικό Φωτιστικό LED Μπαταρίας Μαύρο E-45371</Name>
+		<Product_Link>https://www.skroutz.gr/s/56436293/Sidirela-Epitrapezio-Diakosmitiko-Fotistiko-LED-Mpatarias-Mayro-E-4537.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/056436/56436293/fixedratio_20240924131634_sidirela_epitrapezio_diakosmitiko_fotistiko_led_mpatarias_mayro_e_4537.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.79</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-45371</MPN>
+		<Description>ΠΕΡΙΓΡΑΦΗ      Μέγεθος: 11Χ11Χ32cm     Υλικό: ABS αλουμίνιο και PS     Μπαταρία: Επαναφορτιζόμενη Li-ion 18650, 1200mAh     Τάση: 3.7V     LEDs: 5+12     Καλώδιο: 50cm micro USB     Λειτουργία φόρτισης: μέσω καλωδίου USB     Κουμπί εναλλαγής: στο επάνω μέρος της λάμπας     Αδιάβροχο: Όχι</Description>
+		<Barcode>5203642145374</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>797511102</ID>
+		<Name>Επιτραπέζιο επαναφορτιζόμενο Διακοσμητικό Φωτιστικό LED Μπαταρίας Λευκό E-45372</Name>
+		<Product_Link>https://www.skroutz.gr/s/55754954/Sidirela-Epitrapezio-Diakosmitiko-Fotistiko-LED-Mpatarias-Leyko-E-4537.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/055754/55754954/fixedratio_20240905090811_sidirela_epitrapezio_diakosmitiko_fotistiko_led_mpatarias_leyko_e_4537.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.79</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-45372</MPN>
+		<Description>ΠΕΡΙΓΡΑΦΗ      Μέγεθος: 11Χ11Χ32cm     Υλικό: ABS αλουμίνιο και PS     Μπαταρία: Επαναφορτιζόμενη Li-ion 18650, 1200mAh     Τάση: 3.7V     LEDs: 5+12     Καλώδιο: 50cm micro USB     Λειτουργία φόρτισης: μέσω καλωδίου USB     Κουμπί εναλλαγής: στο επάνω μέρος της λάμπας     Αδιάβροχο: Όχι</Description>
+		<Barcode>5203642145374</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7990901</ID>
