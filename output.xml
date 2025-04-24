@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-24 10:05</created_at>
+	<created_at>2025-04-24 10:12</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1455,7 +1455,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>34</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>130349</ID>
@@ -1832,7 +1832,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>4242</Quantity>
+		<Quantity>4215</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -1850,7 +1850,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000037</Barcode>
-		<Quantity>1735</Quantity>
+		<Quantity>1708</Quantity>
 	</product>
 	<product>
 		<ID>17057</ID>
@@ -1886,7 +1886,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>2264</Quantity>
+		<Quantity>2237</Quantity>
 	</product>
 	<product>
 		<ID>17060</ID>
@@ -2340,7 +2340,7 @@
 	</product>
 	<product>
 		<ID>20201-Τ</ID>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 0.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/29351601/Vikos-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/029351/29351601/20210608120227_vikos_metalliko_nero_0_5lt_1tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2358,7 +2358,7 @@
 	</product>
 	<product>
 		<ID>20203-Τ</ID>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 1.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 6 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/33524215/Vikos-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/033524/33524215/20220120104552_vikos_fysiko_metalliko_nero_fysiko_1_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2376,7 +2376,7 @@
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 0.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/45569537/Ioli-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/045569/45569537/20230906100530_ioli_fysiko_metalliko_nero_0_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2394,7 +2394,7 @@
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 1.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 6 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/40395559/Ioli-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/040395/40395559/20230117165555_ioli_fysiko_metalliko_nero_1_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2411,8 +2411,25 @@
 		<Quantity>1355</Quantity>
 	</product>
 	<product>
+		<ID>20501</ID>
+		<Name>Αύρα Φυσικό Μεταλλικό Νερό 24φ/500ml (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
+		<Product_Link>https://www.avrawater.gr/40/Fysiko-Metalliko-Nero-AYRA</Product_Link>
+		<Image_Link>https://pitsias.gr/img/p/o/-fysiko-metalliko-nero-500ml-0.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>0.16</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
+		<Manufacturer>Αυρα</Manufacturer>
+		<MPN>130801</MPN>
+		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
+		<Barcode>5201005080027</Barcode>
+		<Quantity>10082</Quantity>
+	</product>
+	<product>
 		<ID>20601-Τ</ID>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt (Το κιβώτιο περιέχει 24 τεμάχια)</Name>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/34680568/Zagori-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/034680/34680568/xlarge_20220318114308_zagori_fysiko_metalliko_nero_0_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2429,7 +2446,7 @@
 	</product>
 	<product>
 		<ID>20603-Τ</ID>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt (Το κιβώτιο περιέχει 6 τεμάχια)</Name>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 6 τεμάχια)</Name>
 		<Product_Link>https://www.skroutz.gr/s/26743304/Zagori-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/026743/26743304/xlarge_20210122155227_zagori_fysiko_metalliko_nero_1_5lt_1tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10352,7 +10369,7 @@
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>3008</Quantity>
+		<Quantity>3002</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
