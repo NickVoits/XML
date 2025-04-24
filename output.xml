@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-24 09:45</created_at>
+	<created_at>2025-04-24 09:48</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17550,6 +17550,7 @@
 		<MPN>LP03125</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Στρογγυλεμένες γωνίες     Μέγεθος ζελατίνας: A3     Πάχος ζελατίνας: 125mic     Συσκευασία: 100 τεμάχια     Διαστάσεις: 216x403mm     Εγγράψιμες / Aδιάβροχες</Description>
 		<Barcode>5207146013955</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>7932010232</ID>
@@ -17566,6 +17567,7 @@
 		<MPN>LP03080</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Μέγεθος: Α3     Πάχος: 80 micron     Συσκευασία: 100 τεμάχια</Description>
 		<Barcode>5207146013818</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>7932010241</ID>
@@ -17582,6 +17584,7 @@
 		<MPN>LP04125</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης Typotrast για την προστασία των εγγράφων σας. Κατάλληλο για όλες τις μηχανές πλαστικοποίησης.      Μέγεθος A4 (216x303mm)     125 microns     100 τεμάχια     Διάφανο αποτέλεσμα     Εύκαμπτα     Εγγράψιμα     Στρογγυλεμένες γωνίες     Aδιάβροχα</Description>
 		<Barcode>5207146013931</Barcode>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>7932010242</ID>
@@ -17598,6 +17601,7 @@
 		<MPN>LP04080</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης κατάλληλα για κάθε συσκευή πλαστικοποίησης. Με τα δίφυλλα πλαστικοποίησης της εταιρείας Typotrust, έχετε αποτέλεσμα και αντοχή στον χρόνο.</Description>
 		<Barcode>5207146013795</Barcode>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>7932010251</ID>
@@ -17614,6 +17618,7 @@
 		<MPN>LP05125</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Πάχος: 125 micron     Συσκευασία: 100 τεμάχια     Διαστάσεις: 154x216mm (Α5)</Description>
 		<Barcode>5207146013917</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>7932010261</ID>
@@ -17630,6 +17635,7 @@
 		<MPN>LP06125</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Πάχος: 125 micron     Συσκευασία: 100 τεμάχια     Διαστάσεις: 111x154mm (Α6)</Description>
 		<Barcode>5207146013894</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>7932010271</ID>
@@ -17646,6 +17652,7 @@
 		<MPN>LP07125</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Μέγεθος: Α7     Πάχος: 125 micron     Συσκευασία: 100 τεμάχια</Description>
 		<Barcode>5207146013870</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>7932010291</ID>
@@ -17662,6 +17669,7 @@
 		<MPN>LP02125</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Στρογγυλεμένες γωνίες     Μέγεθος ζελατίνας: 67Χ99mm     Πάχος ζελατίνας: 125mic     Συσκευασία: 100 τεμάχια     Εγγράψιμες / Aδιάβροχες</Description>
 		<Barcode>5207146013856</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>7932010292</ID>
@@ -17678,6 +17686,7 @@
 		<MPN>LP01125</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Πάχος: 125 micron     Διαστάσεις: 90x60mm     Συσκευασία: 100 τεμάχια</Description>
 		<Barcode>5207146013832</Barcode>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>79401</ID>
