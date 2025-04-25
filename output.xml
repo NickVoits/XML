@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-04-25 11:05</created_at>
+	<created_at>2025-04-25 12:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>251</Quantity>
+		<Quantity>247</Quantity>
 	</product>
 	<product>
 		<ID>31023-Τ</ID>
@@ -89,7 +89,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ξανθιά, θολή μπίρα από την καρδιά της Βαυαρίας, η οποία αποτελεί σήμερα συνώνυμο της Weiss μπίρας. Παράγεται σύμφωνα με τον αυστηρό γερμανικό νόμο περί αγνότητας των υλικών του 1516 και περιέχει μόνο νερό, βύνη, λυκίσκο και μαγιά. Δεν παστεριώνεται, γι’ αυτό και δεν περιέχει πρόσθετα και συντηρητικά. Η παραδοσιακή επαναζύμωση που υφίσταται στη φιάλη την κάνει ιδιαίτερα αναζωογονητική. Έχει φρουτώδη, ξηρή καθαρή γεύση, πικάντικη επίγευση και άρωμα φρούτων και μαγιάς.</Description>
 		<Barcode>4002103248248</Barcode>
-		<Quantity>552</Quantity>
+		<Quantity>540</Quantity>
 	</product>
 	<product>
 		<ID>31085</ID>
@@ -358,7 +358,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>1555</Quantity>
+		<Quantity>1513</Quantity>
 	</product>
 	<product>
 		<ID>110118</ID>
@@ -394,7 +394,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275001708</Barcode>
-		<Quantity>649</Quantity>
+		<Quantity>637</Quantity>
 	</product>
 	<product>
 		<ID>11031</ID>
@@ -1401,7 +1401,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<Barcode>5201946910315</Barcode>
-		<Quantity>306</Quantity>
+		<Quantity>300</Quantity>
 	</product>
 	<product>
 		<ID>13033</ID>
@@ -1419,7 +1419,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>1022</Quantity>
+		<Quantity>1013</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -1832,7 +1832,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>4205</Quantity>
+		<Quantity>4193</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -1886,7 +1886,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>2237</Quantity>
+		<Quantity>2210</Quantity>
 	</product>
 	<product>
 		<ID>17060</ID>
@@ -1976,7 +1976,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908001003</Barcode>
-		<Quantity>1339</Quantity>
+		<Quantity>1327</Quantity>
 	</product>
 	<product>
 		<ID>17074</ID>
@@ -2372,7 +2372,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>2085</Quantity>
+		<Quantity>2074</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2390,7 +2390,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>1187</Quantity>
+		<Quantity>1176</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2408,7 +2408,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>1333</Quantity>
+		<Quantity>1318</Quantity>
 	</product>
 	<product>
 		<ID>20501</ID>
@@ -2531,7 +2531,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Είναι  ένα ανθρακούχο ποτό με με χυμό λεμονιού και αρώματα μαστίχας, λεμονιού και ginger, που περικλείει όλα τα αρώματα των χαρακτηριστικών αυτών  προϊόντων της Χίου. Με τn νέα γεύση λεμόνι και τζίντζερ, η απόλαυση γίνεται ακόμη πιο δελεαστική.  Το απολαυστικό μαστιχόνερο MastiH2O λεμόνι και τζίντζερ Στουπάκης μπορεί να σε  συνοδεύσει οποιαδήποτε στιγμή της ημέρας. Χρησιμοποιήστε την φαντασία  σας και δημιουργήστε τους ξεχωριστούς &amp; υγιεινούς συνδυασμούς που  σας αρέσουν.</Description>
 		<Barcode>5200101983447</Barcode>
-		<Quantity>39</Quantity>
+		<Quantity>33</Quantity>
 	</product>
 	<product>
 		<ID>22001</ID>
@@ -2783,7 +2783,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>1427</Quantity>
+		<Quantity>1426</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2927,7 +2927,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100318</Barcode>
-		<Quantity>421</Quantity>
+		<Quantity>420</Quantity>
 	</product>
 	<product>
 		<ID>40421</ID>
@@ -3960,7 +3960,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888160100</Barcode>
-		<Quantity>1448</Quantity>
+		<Quantity>1436</Quantity>
 	</product>
 	<product>
 		<ID>47093</ID>
@@ -4335,7 +4335,7 @@
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<Barcode>5200111580735</Barcode>
-		<Quantity>1288</Quantity>
+		<Quantity>1282</Quantity>
 	</product>
 	<product>
 		<ID>47291101</ID>
@@ -5077,7 +5077,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1619</Quantity>
+		<Quantity>1571</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5664,7 +5664,7 @@
 		<MPN>1494</MPN>
 		<Description>Το Jameson Irish Whiskey, τριπλής απόσταξης, παράγεται από ποιοτικό κριθάρι της Ιρλανδίας και καθαρό κρυστάλλινο νερό. Ωριμάζει σε δρύινα βαρέλια που έχουν χρησιμοποιηθεί για την παλαίωση bourbon και sherry.</Description>
 		<Barcode>5011007003005</Barcode>
-		<Quantity>170</Quantity>
+		<Quantity>169</Quantity>
 	</product>
 	<product>
 		<ID>55050</ID>
@@ -5681,7 +5681,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<Barcode>080432402931</Barcode>
-		<Quantity>281</Quantity>
+		<Quantity>278</Quantity>
 	</product>
 	<product>
 		<ID>55051</ID>
@@ -5698,7 +5698,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<Barcode>5000267024202</Barcode>
-		<Quantity>244</Quantity>
+		<Quantity>241</Quantity>
 	</product>
 	<product>
 		<ID>550531</ID>
@@ -5734,7 +5734,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Jack Daniel's παράγεται με τον ίδιο παραδοσιακό τρόπο εδώ και 140 χρόνια. Έχει πλούσιο κεχριμπαρένιο χρώμα και ισορροπημένη γεύση με στοιχεία καπνισμένου ξύλου, καραμέλας και βανίλιας.</Description>
 		<Barcode>5099873045961</Barcode>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>55108</ID>
@@ -7594,7 +7594,7 @@
 		<MPN>1535</MPN>
 		<Description>Βασικά χαρακτηριστικά:   • Ανταλλακτικές Κεφαλές   • Με 5 Λεπίδες   • Συμβατές με τις Μηχανές Fusion   • Με Λεπίδα Ακριβείας Στο Πίσω Μέρος   • Με Τζελ Για Άνετο Ξύρισμα</Description>
 		<Barcode>7702018866984</Barcode>
-		<Quantity>173</Quantity>
+		<Quantity>172</Quantity>
 	</product>
 	<product>
 		<ID>6202411</ID>
@@ -7611,7 +7611,7 @@
 		<MPN>1535001</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Ανταλλακτικές Κεφαλές     Με 5 Λεπίδες     Με Λεπίδα Ακριβείας στο Πίσω Μέρος     Με Λιπαντική Ταινία που Ξεθωριάζει     Για Απαλό Ξύρισμα</Description>
 		<Barcode>8700216331579</Barcode>
-		<Quantity>50</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
 		<ID>62051</ID>
@@ -7832,7 +7832,7 @@
 		<MPN>1056</MPN>
 		<Description>Αντιιδρωτικό αποσμητικό με ήπια φόρμουλα και διακριτικό άρωμα για 48ωρη προστασία που φροντίζει την επιδερμίδα δας.</Description>
 		<Barcode>42299912</Barcode>
-		<Quantity>68</Quantity>
+		<Quantity>65</Quantity>
 	</product>
 	<product>
 		<ID>63013</ID>
@@ -8444,7 +8444,7 @@
 		<MPN>1250</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5201109001621</Barcode>
-		<Quantity>190</Quantity>
+		<Quantity>189</Quantity>
 	</product>
 	<product>
 		<ID>65053</ID>
@@ -8937,7 +8937,7 @@
 		<MPN>1284</MPN>
 		<Description>Το Ultrex Classic Action 2 σε 1 σαμπουάν και conditioner θρέφει και ενδυναμώνει την επιδερμίδα, ενώ ταυτόχρονα βοηθά στην καταπολέμηση της πιτυρίδας.Η καινοτόμος σύνθεση με zinc pyrithione και climbazole, είναι ένας δραστικός συνδυασμός που καταπολεμά αποτελεσματικά την πιτυρίδα και κάνει τα μαλλιά ευκολοχτένιστα.Είναι κατάλληλο για κάθε τύπο μαλλιών.</Description>
 		<Barcode>8710447246771</Barcode>
-		<Quantity>118</Quantity>
+		<Quantity>117</Quantity>
 	</product>
 	<product>
 		<ID>66062</ID>
@@ -9141,7 +9141,7 @@
 		<MPN>1382</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395646919</Barcode>
-		<Quantity>65</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>66504.66</ID>
@@ -10317,7 +10317,7 @@
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<Barcode>5203650102833</Barcode>
-		<Quantity>2382</Quantity>
+		<Quantity>2376</Quantity>
 	</product>
 	<product>
 		<ID>70012</ID>
@@ -10335,7 +10335,7 @@
 		<MPN>PS.T4.100G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τετράφυλλο και παρέχεται σε πακέτο των 10 τεμαχίων. Σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα, εξασφαλίζοντας άνετη αίσθηση κατά τη χρήση.</Description>
 		<Barcode>5203650102840</Barcode>
-		<Quantity>413</Quantity>
+		<Quantity>412</Quantity>
 	</product>
 	<product>
 		<ID>701011</ID>
@@ -10403,7 +10403,7 @@
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>1371</Quantity>
+		<Quantity>1370</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -10420,7 +10420,7 @@
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<Barcode>5200100281667</Barcode>
-		<Quantity>636</Quantity>
+		<Quantity>632</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -10437,7 +10437,7 @@
 		<MPN>0343</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650101409</Barcode>
-		<Quantity>2435</Quantity>
+		<Quantity>2425</Quantity>
 	</product>
 	<product>
 		<ID>70204</ID>
@@ -10454,7 +10454,7 @@
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650102703</Barcode>
-		<Quantity>730</Quantity>
+		<Quantity>724</Quantity>
 	</product>
 	<product>
 		<ID>702071</ID>
@@ -10903,7 +10903,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Αυτό το άρωμα Persian Dream εμπλουτισμένο με εξαιρετικές μικροκάψουλες, δίνει ένα μαγευτικό άρωμα στο πλυντήριό σας, για να ενσταλάξει μια αίσθηση ευεξίας και αρμονίας. Η κρεμώδης φόρμουλα χωρίς χρωστικές αποχρώσεις, τεντώνει τα υφάσματα, καθιστώντας τα εύκολα στο σιδέρωμα.</Description>
 		<Barcode>8008970055268</Barcode>
-		<Quantity>636</Quantity>
+		<Quantity>630</Quantity>
 	</product>
 	<product>
 		<ID>71027</ID>
@@ -11257,7 +11257,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>• Υπερλευκαντικό σε Σκόνη• Εξαφανίζει του Λεκέδες• Κατάλληλο για Λευκά Ρούχα</Description>
 		<Barcode>5201137010459</Barcode>
-		<Quantity>698</Quantity>
+		<Quantity>697</Quantity>
 	</product>
 	<product>
 		<ID>71305</ID>
@@ -11751,7 +11751,7 @@
 		<MPN>1111</MPN>
 		<Description>Το Viakal Classic είναι ιδανικό για να αφαιρείτε ακόμη και τα πιο επίμονα άλατα και για να καθαρίζετε τα υπολείμματα σαπουνιού και τα στίγματα νερού στο μπάνιο και την κουζίνα σας. Η συχνή χρήση του προλαμβάνει την επανεμφάνιση των αλάτων.</Description>
 		<Barcode>8001090574725</Barcode>
-		<Quantity>255</Quantity>
+		<Quantity>254</Quantity>
 	</product>
 	<product>
 		<ID>72232</ID>
@@ -11955,7 +11955,7 @@
 		<MPN>1115</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
 		<Barcode>8718951048553</Barcode>
-		<Quantity>234</Quantity>
+		<Quantity>233</Quantity>
 	</product>
 	<product>
 		<ID>73002</ID>
@@ -12125,7 +12125,7 @@
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<Barcode>8711600347083</Barcode>
-		<Quantity>4539</Quantity>
+		<Quantity>4538</Quantity>
 	</product>
 	<product>
 		<ID>73531</ID>
@@ -12448,7 +12448,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>131</Quantity>
+		<Quantity>130</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -13335,7 +13335,7 @@
 		<MPN>Ε-1735</MPN>
 		<Description>Κερί μνήμης διάρκειας 6 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
 		<Barcode>5203642117357</Barcode>
-		<Quantity>171</Quantity>
+		<Quantity>168</Quantity>
 	</product>
 	<product>
 		<ID>75221</ID>
@@ -13731,7 +13731,7 @@
 		<MPN>0709</MPN>
 		<Description>Σακούλα προστασίας και αποθήκευσης κοστουμιών.</Description>
 		<Barcode>5214001231027</Barcode>
-		<Quantity>92</Quantity>
+		<Quantity>89</Quantity>
 	</product>
 	<product>
 		<ID>75823</ID>
@@ -14020,7 +14020,7 @@
 		<MPN>E-2495</MPN>
 		<Description>Τεράστιο και ανθεκτικό μανταλάκι πολλαπλών χρήσεων. Για άπλωμα ογκωδών αντικειμένων, για την παραλία, κτλπ.</Description>
 		<Barcode>5203642124959</Barcode>
-		<Quantity>51</Quantity>
+		<Quantity>50</Quantity>
 	</product>
 	<product>
 		<ID>76202</ID>
@@ -14088,7 +14088,7 @@
 		<MPN>00330369</MPN>
 		<Description>Σέικερ για καφέ της εταιρείας Cyclops με καπάκι. Είναι ένα από τα πιο σημαντικά αξεσουάρ για αρχάριους αλλά και επαγγελματίες barista, αφού εκτός από το χτύπημα του espresso με πάγο, διαθέτει σίτα ώστε να κρατάει τον έξτρα αφρό όταν γεμίζετε το ποτήρι.</Description>
 		<Barcode>5202707060034</Barcode>
-		<Quantity>92</Quantity>
+		<Quantity>91</Quantity>
 	</product>
 	<product>
 		<ID>76205</ID>
@@ -15653,7 +15653,7 @@
 		<MPN>1129</MPN>
 		<Description>Το τραπεζομάντηλο της εταιρείας Flamingo είναι ιδανικό για τη διακόσμηση μίας τραπεζαρίας ή ενός τραπεζιού κουζίνας. Είναι κατασκευασμένο από αλέκιαστο συνθετικό ύφασμα polyester, το οποίο είναι ανθεκτικό και δεν τσαλακώνεται εύκολα.Για καλύτερη φροντίδα, προτείνεται πλύση και σιδέρωμα σε χαμηλές θερμοκρασίες, χρήση στεγνωτηρίου σε μέτριες θερμοκρασίες και δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού. Επιτρέπεται το στεγνό καθάρισμα.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.• Σύνθεση: 100% ΠολυεστέραςΔιαστάσεις:Πλάτος: 150εκ.Μήκος: 180εκ.</Description>
 		<Barcode>5206952007783</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>77045</ID>
@@ -16607,7 +16607,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<Barcode>5219711976220</Barcode>
-		<Quantity>725</Quantity>
+		<Quantity>723</Quantity>
 	</product>
 	<product>
 		<ID>78805</ID>
@@ -16697,7 +16697,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<Barcode>5202054473648</Barcode>
-		<Quantity>460</Quantity>
+		<Quantity>459</Quantity>
 	</product>
 	<product>
 		<ID>78816</ID>
@@ -16936,7 +16936,7 @@
 		<MPN>1524</MPN>
 		<Description>Σακούλες vacuum για συσκευή σφραγίσματος τροφίμων σε συσκευασία 100 τεμαχίων. Αυτές οι σακούλες με ένα απλό σφράγισμα βοηθούν στη διατήρηση των θρεπτικών συστατικών των τροφίμων, του αρώματος, του χρώματος και της γεύσης τους, ενώ αν σφραγιστούν αεροστεγώς παρατείνετε η διάρκεια ζωής τους, διατηρώντας έτσι τη φρεσκάδα και τα θρεπτικά συστατικά με φυσικό τρόπο. Ο σχεδιασμός με σαγρέ ανάγλυφη επιφάνεια εμποδίζει το οξυγόνο και την υγρασία για αύξηση της αναρρόφησης, έτσι είναι ιδανική επιλογή εάν επιθυμείτε να αφαιρέσετε τον αέρα από τη σακούλα καθώς είναι συμβατές είτε με vacuum εξωτερικής σφράγισης είτε με εσωτερικής σφράγισης (με θάλαμο).</Description>
 		<Barcode>5202054474461</Barcode>
-		<Quantity>77</Quantity>
+		<Quantity>73</Quantity>
 	</product>
 	<product>
 		<ID>78953</ID>
@@ -16987,7 +16987,7 @@
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<Barcode>5207243085343</Barcode>
-		<Quantity>1052</Quantity>
+		<Quantity>1051</Quantity>
 	</product>
 	<product>
 		<ID>78991111</ID>
@@ -19814,7 +19814,7 @@
 		<MPN>1517</MPN>
 		<Description>Σακούλες Ηλεκτρικής Σκούπας BS7 BOSCH / SIEMENS D/E/F/G/H.</Description>
 		<Barcode>8710881345610</Barcode>
-		<Quantity>70</Quantity>
+		<Quantity>67</Quantity>
 	</product>
 	<product>
 		<ID>7991002</ID>
@@ -22300,7 +22300,7 @@
 		<MPN>35267</MPN>
 		<Description>Input: USB C 3.1 GEN 2 Female Output: M.2 M-KEY/M+B Key(NVME;PCIE 3.0 stand) USB-C 3.1 GEN2 speed up to 10Gbps, compatible with USB 3.0&amp;2.0 &amp; 1.1 Support four sizes (2230/2242/2260/2280) of M.2 (NVME) M-KEY solid state drives Up to 2TB Support UASP transfer protocol Short-Circuit protection Built-in ESD protection circuit,Resistant to 4KV static Support S.M.A.R.T detection function. Support TRIM function Tool-free installation USB C3.1 GEN2 cable to USB C 3.1 GEN2 Length: 50cm Compatible with Windows, Mac OS, Linux, Chrome OS, PS4, PS3, Xbox, router, OTG Phones Aluminum Case Better for heat dissipation</Description>
 		<Barcode>6941876232673</Barcode>
-		<Quantity>45</Quantity>
+		<Quantity>43</Quantity>
 	</product>
 	<product>
 		<ID>799631112</ID>
@@ -24338,7 +24338,7 @@
 		<Weight>1kg</Weight>
 		<Description>Σοκολάτα σε σκόνη, της εταιρίας Cortese. Επιστημονικές έρευνες έχουν αποδείξει πως βοηθά στην καταπολέμηση του άγχους και παράλληλα ενισχύει τη μνήμη, για αυτό τον λόγο οι ψυχολόγοι την προτείνουν σε μαθητές, όταν είναι σε περίοδο εξετάσεων. Συσκευασία των 1000gr.</Description>
 		<Barcode>7.71710171430456e+17</Barcode>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>87901</ID>
