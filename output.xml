@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-10 16:58</created_at>
+	<created_at>2025-05-10 17:04</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -12838,6 +12838,7 @@
 		<MPN>E-1941</MPN>
 		<Description>Το καλαθάκι μπάνιου της Sidirela είναι η ιδανική λύση για τον οργανωμένο χώρο σας. Με την κομψή και μοντέρνα εμφάνιση του σε μαύρο και ασημί χρώμα, προσφέρει μια διακριτική αλλά κομψή πινελιά στη διακόσμηση του μπάνιου σας.      Αυτό το καλάθι είναι κατασκευασμένο από ανθεκτικό πλαστικό, εξασφαλίζοντας μακροχρόνια χρήση και ευκολία στην καθαριότητα.     Είναι επιδαπέδιο, πράγμα που το καθιστά ιδανικό για οποιοδήποτε μπάνιο και βοηθά στη διατήρηση της τάξης.     Έχει χωρητικότητα 5 lt, παρέχοντας αρκετό χώρο για τα απορρίμματα ή τα αξεσουάρ μπάνιου σας.  Με την απλή και πρακτική σχεδίαση, το καλαθάκι αυτό θα γίνει απαραίτητο στη ρουτίνα σας, κάνοντάς την πιο οργανωμένη και κομψή.</Description>
 		<Barcode>5203642119412</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>740555291</ID>
@@ -20665,7 +20666,7 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>799111101</ID>
+		<ID>799111102</ID>
 		<Name>Sidirela Φραπεδιέρα Επιτραπέζια 100W με 2 Ταχύτητες σε Χρώμα Θερμό Γκρι E-2865</Name>
 		<Product_Link>https://www.sidirela.gr/eidi-kouzinas/frapiera-quot-color-quot/</Product_Link>
 		<Image_Link>https://www.sidirela.gr/uploads/2024/05/e-2865-01-frapiera-color-web.jpg</Image_Link>
@@ -20683,7 +20684,7 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>799111102</ID>
+		<ID>799111106</ID>
 		<Name>Sidirela Φραπεδιέρα Επιτραπέζια 100W με 2 Ταχύτητες Inox E-2705</Name>
 		<Product_Link>https://www.skroutz.gr/s/22163373/Sidirela-E-2705-Frapediera-Epitrapezia-100W-me-2-Tachytites-Inox.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/022163/22163373/xlarge_20210511165900_sidi_home_e_2705.jpeg</Image_Link>
@@ -20697,6 +20698,7 @@
 		<MPN>E-2705</MPN>
 		<Description>Επιτραπέζια φραπεδιέρα 2 ταχυτήτων απο την Sidirela.  Διαθέτει πλαστικό ποτήρι με δοσομετρητή 450ml.  Ποιότητα:      Πλαστική βάση     Πλαστικό ποτήρι     Aνοξείδωτος αναδευτήρας</Description>
 		<Barcode>5203642127059</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799112101</ID>
