@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-13 15:05</created_at>
+	<created_at>2025-05-13 16:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -10570,7 +10570,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>13124</Quantity>
+		<Quantity>13079</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -10588,7 +10588,7 @@
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<Barcode>5203650102833</Barcode>
-		<Quantity>2897</Quantity>
+		<Quantity>2837</Quantity>
 	</product>
 	<product>
 		<ID>70012</ID>
@@ -10640,7 +10640,7 @@
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>3612</Quantity>
+		<Quantity>3492</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -10657,7 +10657,7 @@
 		<MPN>PS.RK.T3.450G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710285</Barcode>
-		<Quantity>892</Quantity>
+		<Quantity>862</Quantity>
 	</product>
 	<product>
 		<ID>70104</ID>
@@ -20153,7 +20153,7 @@
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<Barcode>5410853039273</Barcode>
-		<Quantity>866</Quantity>
+		<Quantity>865</Quantity>
 	</product>
 	<product>
 		<ID>7975023</ID>
@@ -22818,7 +22818,7 @@
 		<MPN>EHC018F</MPN>
 		<Description>Αυτό το ρολόι διαθέτει το γραφικό δίσκο επιλογής.  Διάμετρος: 30 cm Πάχος: 3,4 cm Δίσκος ρολογιού: χαρτί τέχνης Τροφοδοσία: 1x μπαταρία AA (δεν περιλαμβάνεται) Μετακίνηση ήρεμης μηχανικής - ομαλή λειτουργία Εξαιρετικά ακριβής μηχανική κίνηση: χαλαζία Ενσωματωμένος γάντζος για εύκολη εγκατάσταση</Description>
 		<Barcode>5901299930182</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>799551101</ID>
@@ -24069,7 +24069,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Από 100% ελληνικά σκληρά στάριαΧρόνος βρασμού 7-8 λεπτά</Description>
 		<Barcode>5201013005029</Barcode>
-		<Quantity>1211</Quantity>
+		<Quantity>1210</Quantity>
 	</product>
 	<product>
 		<ID>83102</ID>
@@ -24105,7 +24105,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια Νο2 ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<Barcode>5201013005043</Barcode>
-		<Quantity>417</Quantity>
+		<Quantity>416</Quantity>
 	</product>
 	<product>
 		<ID>83104</ID>
@@ -24177,7 +24177,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια κοφτά ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
 		<Barcode>5201013005050</Barcode>
-		<Quantity>53</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>83122</ID>
