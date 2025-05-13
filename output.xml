@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-13 16:05</created_at>
+	<created_at>2025-05-13 16:49</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -3857,6 +3857,40 @@
 		<MPN>1785</MPN>
 		<Description>Στη Νάουσα, σε μια παραδοσιακή περιοχή για την παραγωγή ερυθρών οίνων ονομασίας προέλευσης, βρίσκεται ο αμπελώνας της οικογένειας Καρυδά. Το Κτήμα βρίσκεται μόλις 2,5 χλμ. έξω από τη Νάουσα, στην περιοχή «Άνω Γάστρα», με υψόμετρο 205 μέτρων. Έχει έκταση 26 στρεμμάτων και το έδαφός του είναι επικλινές με πολύ καλή στράγγιση, αμμοαργιλώδες ασβεστούχο, κάτι που συντελεί στην ποιότητα της πρώτης ύλης και των παραγόμενων κρασιών. Ο τρύγος γίνεται με ενδιαφέρον, πολλή δουλειά και αγάπη, προς το τέλος του Σεπτεμβρίου, σε 3 διαδοχικά στάδια, για την καλύτερη δυνατή ποιότητα σταφυλιών. Μετά την οινοποίηση, η παραμονή και η ωρίμαση για 18-20 μήνες σε δρύινα γαλλικά βαρέλια ηρεμεί, μαλακώνει και ισορροπεί τον πληθωρικό χαρακτήρα της ποικιλίας αυτής. Μετά από το πέρασμα από βαρέλι και την εμφιάλωση το κρασί παραμένει για αναγωγική παλαίωση στο μπουκάλι, για 4-5 μήνες.</Description>
 		<Barcode>5203888880190</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>470250201</ID>
+		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Chardonnay Λευκό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4809202/Ktima-Katsarou-Viologiko-Krasi-Chardonnay-Leyko-Xiro-750ml.html#description</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/004809/4809202/xlarge_20211018160312_ktima_katsarou_chardonnay_leyko_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>19.19</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
+		<MPN>1785001</MPN>
+		<Description>ΠΓΕ Κρανιάς, Θεσσαλία  Chardonnay βιολογικής αμπελλοκαλιέργειας  Ζύμωση σε μικρά δρύινα Γαλλικά βαρέλια και παραμονή με τις οινολάσπες για ένα διάστημα 5 με 6 μηνών.  Kιτρινόξανθο λαμπερό με ελαφρές πράσινες ανταύγειες. Έντονο και σύνθετο άρωμα κίτρινων φρούτων, εσπεριδοειδών, κεριού και με ευγενείς νότες καπνού και βανίλιας. Στόμα δροσερό με καλή οξύτητα και όγκο. Μεγάλη επίγευση και διάρκεια.  Η ετικέτα παραπέμπει στο Viola Odorata(μενεξές), φυτό με βραχύ ρίζωμα, επίγειος βλαστός και με φύλλα που σχηματίζουν ρόδακα. Στην Ελλάδα φύεται σε λιβάδια και στις παρυφές του Ολύμπου σε υψόμετρο 700-900 μέτρα. Ανθίζει Απρίλιο με Μάιο και τα άνθη του είναι βαθύχρωμα ιώδη.  Γεύστικοι συνδυασμοί:      Ψάρια με λιπαρή σάρκα     Καπνιστά ψάρια ή ψάρια με λευκή σάλτσα     Μαλάκια και οστρακοειδή     Συνθέσεις από χαβιάρι</Description>
+		<Barcode>870869000035</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>470250201</ID>
+		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Cabernet Sauvignon - Merlot Ερυθρό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4809195/Ktima-Katsarou-Viologiko-Krasi-Erythro-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/004809/4809195/xlarge_20200313165051_ktima_katsarou_erythros_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.03</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
+		<MPN>1785002</MPN>
+		<Description>Πληθωρική και έντονη μύτη φραγκοστάφυλου, βύσσινου, μαύρου κερασιού με νότες μελανιού και βουτύρου. Στόμα παχύ και βελούδινο με άψογη δομή και τανίνες που υπόσχονται αντοχή στον χρόνο. Μακρά επίγευση και μεγάλη διάρκεια. Οινοποίηση  Ζύμωση και μακρά εκχύλιση (18 -23 μέρες) σε ανοξείδωτες δεξαμενές ελεγχόμενης θερμοκρασίας. Ωρίμανση σε μικρά (228 L.) δρύινα Γαλλικά βαρέλια για 12 με 18 μήνες. Εμφιάλωση χωρίς φιλτράρισμα.  Μετά την εμφιάλωση παραμένει στην κάβα του κτήματος (συνθήκες ελεγχόμενης θερμοκρασίας και υγρασίας) για τουλάχιστον ενάμιση χρόνο πριν βγεί στο εμπόριο.  Προτείνεται η κατανάλωση του στους 16 -18°C και έχει διάρκεια ζωής 15 με 20 έτη.</Description>
+		<Barcode>870869000011</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -10570,7 +10604,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>13079</Quantity>
+		<Quantity>13078</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -10640,7 +10674,7 @@
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>3492</Quantity>
+		<Quantity>3491</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -12773,91 +12807,6 @@
 		<Quantity>29</Quantity>
 	</product>
 	<product>
-		<ID>740555101</ID>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Λευκό E-1810wh</Name>
-		<Product_Link>https://www.skroutz.gr/s/52554708/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Leyko.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/052554/52554708/fixedratio_20250305164226_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.33</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810wh</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Barcode>5203642118101</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>740555102</ID>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Γκρι E-1810gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/44876571/Sidirela-E-1810-2-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Gri.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/044876/44876571/fixedratio_20230801183758_sidirela_e_1810_2_plastiko_set_pigal_kai_kalathaki_mpaniou_soft_close_7lt_gri.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.33</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810gr</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Barcode>5203642118101</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>740555103</ID>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Μαύρο E-1810bl</Name>
-		<Product_Link>https://www.skroutz.gr/s/52554701/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Mayro.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/052554/52554701/fixedratio_20240418183343_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou_mayro.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.33</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810bl</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Barcode>5203642118101</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>740555206</ID>
-		<Name>Sidirela Πλαστικός Κάδος Μπάνιου 6lt Silver-Black E-1941</Name>
-		<Product_Link>https://www.skroutz.gr/s/15886990/E-1941-Plastiko-Kalathaki-Mpaniou-5lt-Black-Silver.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/015886/15886990/fixedratio_20220809174026_e_1941_plastiko_kalathaki_mpaniou_5lt_black_silver.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>8.34</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1941</MPN>
-		<Description>Το καλαθάκι μπάνιου της Sidirela είναι η ιδανική λύση για τον οργανωμένο χώρο σας. Με την κομψή και μοντέρνα εμφάνιση του σε μαύρο και ασημί χρώμα, προσφέρει μια διακριτική αλλά κομψή πινελιά στη διακόσμηση του μπάνιου σας.      Αυτό το καλάθι είναι κατασκευασμένο από ανθεκτικό πλαστικό, εξασφαλίζοντας μακροχρόνια χρήση και ευκολία στην καθαριότητα.     Είναι επιδαπέδιο, πράγμα που το καθιστά ιδανικό για οποιοδήποτε μπάνιο και βοηθά στη διατήρηση της τάξης.     Έχει χωρητικότητα 5 lt, παρέχοντας αρκετό χώρο για τα απορρίμματα ή τα αξεσουάρ μπάνιου σας.  Με την απλή και πρακτική σχεδίαση, το καλαθάκι αυτό θα γίνει απαραίτητο στη ρουτίνα σας, κάνοντάς την πιο οργανωμένη και κομψή.</Description>
-		<Barcode>5203642119412</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>740555291</ID>
-		<Name>Sidirela Πλαστικό Πιγκάλ Μπάνιου Silver-Black E-1942</Name>
-		<Product_Link>https://www.skroutz.gr/s/14829720/E-1942-Plastiko-Pigal-Mpaniou-Black-Silver.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_images/051273/51273780/fixedratio_20220809174024_59ca5c61.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.75</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1942</MPN>
-		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
-		<Barcode>5203642119429</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>74111</ID>
 		<Name>ΚΥΚΛΩΨ ΦΑΡΑΣΙ ΚΟΥΜΠΩΤΟ ΜΕ ΛΑΣΤΙΧΟ</Name>
 		<Product_Link>https://www.skroutz.gr/s/22794505/Cyclops-Clip-Farasi-Plastiko-me-Lasticho-Prasino-33-2x23x7-2ek-003301627.html</Product_Link>
@@ -14242,7 +14191,7 @@
 		<Quantity>45</Quantity>
 	</product>
 	<product>
-		<ID>76001</ID>
+		<ID>760100101</ID>
 		<Name>Softline Fresher Σακούλες Απορριμάτων με Κορδόνι 52x75cm 10τμχ Μαύρες</Name>
 		<Product_Link>https://www.skroutz.gr/s/22822634/Softline-Fresher-Sakoules-Aporrimaton-me-Kordoni-52x75cm-C39368-10tmch-Mayres.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/022822/22822634/20220302113550_softline_fresher_sakoules_aporrimaton_me_kordoni_se_mayro_chroma_52x75cm_10tmch.jpeg</Image_Link>
@@ -14259,7 +14208,7 @@
 		<Quantity>1531</Quantity>
 	</product>
 	<product>
-		<ID>76003</ID>
+		<ID>760100103</ID>
 		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ</Name>
 		<Product_Link>https://viosarp.gr/el/product/sakoyla-aporrimmaton-me-kordoni-me-aroma-lebanta-10-tmh-52x75cm-viosarp</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B11-600x338.jpg</Image_Link>
@@ -14276,7 +14225,7 @@
 		<Quantity>427</Quantity>
 	</product>
 	<product>
-		<ID>76004</ID>
+		<ID>760100104</ID>
 		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ</Name>
 		<Product_Link>https://petsalis.gr/product/%cf%83%ce%b1%ce%ba%ce%bf%cf%85%ce%bb%ce%b1-%ce%b1%cf%80%ce%bf%cf%81%cf%81%ce%b9%ce%bc%ce%b1%cf%84%cf%89%ce%bd-%ce%b1%cf%81%cf%89%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7-52%cf%8775cm-%ce%bc%ce%b5-%ce%ba/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B12-600x338.jpg</Image_Link>
@@ -14293,7 +14242,7 @@
 		<Quantity>577</Quantity>
 	</product>
 	<product>
-		<ID>76011</ID>
+		<ID>760100111</ID>
 		<Name>Softline Fresher Σακούλες Απορριμάτων με Κορδόνι 70x95cm 10τμχ Μαύρες</Name>
 		<Product_Link>https://www.skroutz.gr/s/22822603/Softline-Fresher-Sakoules-Aporrimaton-me-Kordoni-70x95cm-C39371-10tmch-Mayres.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/022822/22822603/xlarge_20200504142539_softline_sakoules_aporrimmaton_gigas_me_kordoni_70by95_mayro_10tmch.jpeg</Image_Link>
@@ -14310,7 +14259,7 @@
 		<Quantity>1311</Quantity>
 	</product>
 	<product>
-		<ID>76012</ID>
+		<ID>760100112</ID>
 		<Name>Βανίλια Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<Product_Link>https://petsalis.gr/product/sakoula-aporrimaton-rolo/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2023/12/VANILLA-600x600.jpg</Image_Link>
@@ -14327,7 +14276,7 @@
 		<Quantity>109</Quantity>
 	</product>
 	<product>
-		<ID>76013</ID>
+		<ID>760100113</ID>
 		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<Product_Link>https://petsalis.gr/product/%cf%83%ce%b1%ce%ba%ce%bf%cf%85%ce%bb%ce%b1-%ce%b1%cf%80%ce%bf%cf%81%cf%81%ce%b9%ce%bc%ce%b1%cf%84%cf%89%ce%bd-%ce%b1%cf%81%cf%89%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7-70%cf%8790cm/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B13-600x338.jpg</Image_Link>
@@ -14344,7 +14293,7 @@
 		<Quantity>507</Quantity>
 	</product>
 	<product>
-		<ID>76014</ID>
+		<ID>760100114</ID>
 		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<Product_Link>https://exoplismosltd.gr/shop-2/kathariotita/gantia-sakoules-aporrimaton/sakoules-rola/%CF%83%CE%B1%CE%BA%CE%BF%CF%8D%CE%BB%CE%B5%CF%82-%CE%B1%CF%80%CE%BF%CF%81%CF%81%CE%B9%CE%BC%CE%AC%CF%84%CF%89%CE%BD-70x90cm-%CE%B2%CE%B1%CF%81%CE%AD%CF%89%CF%82-%CF%84%CF%8D%CF%80%CE%BF%CF%85-%CF%83/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B14-600x338.jpg</Image_Link>
@@ -14361,7 +14310,7 @@
 		<Quantity>394</Quantity>
 	</product>
 	<product>
-		<ID>76021</ID>
+		<ID>760100121</ID>
 		<Name>Softline Fresher Σακούλες Απορριμάτων για τον Κήπο Χωρητικότητας 140lt 80x110cm 10τμχ Μαύρες</Name>
 		<Product_Link>https://www.skroutz.gr/s/48773920/Softline-Aromatikes-Sakoules-Aporrimaton-me-Kordoni-80x110cm-330427-10tmch-Mayres.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/048773/48773920/xlarge_20231213130311_softline_aromatikes_sakoules_aporrimaton_me_kordoni_80x110cm_330427_10tmch_mayres.jpeg</Image_Link>
@@ -14378,24 +14327,7 @@
 		<Quantity>949</Quantity>
 	</product>
 	<product>
-		<ID>76031</ID>
-		<Name>Softline Fresher Αρωματικές Σακούλες Απορριμάτων 50x50cm 30τμχ Λευκές</Name>
-		<Product_Link>https://beautyfree.gr/el/diafora-gia-to-spiti/3048-softline-50x50-30-5200128640378.html</Product_Link>
-		<Image_Link>https://beautyfree.gr/32902-large_default/softline-50x50-30.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.51835224</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
-		<Manufacturer>SOFTLINE</Manufacturer>
-		<MPN>0891</MPN>
-		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
-		<Barcode>5200128640378</Barcode>
-		<Quantity>572</Quantity>
-	</product>
-	<product>
-		<ID>7603101</ID>
+		<ID>760100151</ID>
 		<Name>Θαλασσινός Σακούλες Απορριμάτων WC - Γραφείου 45x55cm 20τμχ Διάφανες</Name>
 		<Product_Link>https://www.skroutz.gr/s/35377459/THalassinos-Sakoules-Aporrimaton-45x55cm-103106-20tmch-Diafanes.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/035377/35377459/xlarge_20220412122147_thalassinos_sakoules_aporrimaton_se_diafano_chroma_45x55cm_103106_20tmch.jpeg</Image_Link>
@@ -14410,6 +14342,23 @@
 		<Description>Σακούλες απορριμμάτων για καλαθάκια μπάνιου, γραφείου και μικρούς κάδους.  Εξαιρετικής αντοχής.</Description>
 		<Barcode>5202054512316</Barcode>
 		<Quantity>9927</Quantity>
+	</product>
+	<product>
+		<ID>760100152</ID>
+		<Name>Softline Fresher Αρωματικές Σακούλες Απορριμάτων 50x50cm 30τμχ Λευκές</Name>
+		<Product_Link>https://beautyfree.gr/el/diafora-gia-to-spiti/3048-softline-50x50-30-5200128640378.html</Product_Link>
+		<Image_Link>https://beautyfree.gr/32902-large_default/softline-50x50-30.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.51835224</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
+		<Manufacturer>SOFTLINE</Manufacturer>
+		<MPN>0891</MPN>
+		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
+		<Barcode>5200128640378</Barcode>
+		<Quantity>572</Quantity>
 	</product>
 	<product>
 		<ID>76201</ID>
@@ -15872,6 +15821,91 @@
 		<MPN>Ε-1355</MPN>
 		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.      Διαστάσεις: 30cm x 30cm</Description>
 		<Barcode>5203642113557</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7715006101</ID>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Λευκό E-1810wh</Name>
+		<Product_Link>https://www.skroutz.gr/s/52554708/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Leyko.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/052554/52554708/fixedratio_20250305164226_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810wh</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<Barcode>5203642118101</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7715006102</ID>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Γκρι E-1810gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/44876571/Sidirela-E-1810-2-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Gri.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/044876/44876571/fixedratio_20230801183758_sidirela_e_1810_2_plastiko_set_pigal_kai_kalathaki_mpaniou_soft_close_7lt_gri.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810gr</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<Barcode>5203642118101</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7715006103</ID>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Μαύρο E-1810bl</Name>
+		<Product_Link>https://www.skroutz.gr/s/52554701/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/052554/52554701/fixedratio_20240418183343_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810bl</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<Barcode>5203642118101</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7715006151</ID>
+		<Name>Sidirela Πλαστικός Κάδος Μπάνιου 6lt Silver-Black E-1941</Name>
+		<Product_Link>https://www.skroutz.gr/s/15886990/E-1941-Plastiko-Kalathaki-Mpaniou-5lt-Black-Silver.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/015886/15886990/fixedratio_20220809174026_e_1941_plastiko_kalathaki_mpaniou_5lt_black_silver.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.34</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1941</MPN>
+		<Description>Το καλαθάκι μπάνιου της Sidirela είναι η ιδανική λύση για τον οργανωμένο χώρο σας. Με την κομψή και μοντέρνα εμφάνιση του σε μαύρο και ασημί χρώμα, προσφέρει μια διακριτική αλλά κομψή πινελιά στη διακόσμηση του μπάνιου σας.      Αυτό το καλάθι είναι κατασκευασμένο από ανθεκτικό πλαστικό, εξασφαλίζοντας μακροχρόνια χρήση και ευκολία στην καθαριότητα.     Είναι επιδαπέδιο, πράγμα που το καθιστά ιδανικό για οποιοδήποτε μπάνιο και βοηθά στη διατήρηση της τάξης.     Έχει χωρητικότητα 5 lt, παρέχοντας αρκετό χώρο για τα απορρίμματα ή τα αξεσουάρ μπάνιου σας.  Με την απλή και πρακτική σχεδίαση, το καλαθάκι αυτό θα γίνει απαραίτητο στη ρουτίνα σας, κάνοντάς την πιο οργανωμένη και κομψή.</Description>
+		<Barcode>5203642119412</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7715006181</ID>
+		<Name>Sidirela Πλαστικό Πιγκάλ Μπάνιου Silver-Black E-1942</Name>
+		<Product_Link>https://www.skroutz.gr/s/14829720/E-1942-Plastiko-Pigal-Mpaniou-Black-Silver.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/051273/51273780/fixedratio_20220809174024_59ca5c61.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.75</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1942</MPN>
+		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
+		<Barcode>5203642119429</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
