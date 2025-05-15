@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-15 10:34</created_at>
+	<created_at>2025-05-15 12:42</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>97</Quantity>
+		<Quantity>96</Quantity>
 	</product>
 	<product>
 		<ID>31023-Τ</ID>
@@ -322,7 +322,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>101</Quantity>
+		<Quantity>79</Quantity>
 	</product>
 	<product>
 		<ID>33001</ID>
@@ -340,7 +340,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<Barcode>75041670</Barcode>
-		<Quantity>808</Quantity>
+		<Quantity>760</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -412,7 +412,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>398</Quantity>
+		<Quantity>397</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -448,7 +448,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>283</Quantity>
+		<Quantity>282</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -1865,7 +1865,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000044</Barcode>
-		<Quantity>2668</Quantity>
+		<Quantity>2666</Quantity>
 	</product>
 	<product>
 		<ID>17053</ID>
@@ -1883,7 +1883,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>1335</Quantity>
+		<Quantity>1333</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -1919,7 +1919,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα / βύσσινο. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
 		<Barcode>5202908004011</Barcode>
-		<Quantity>769</Quantity>
+		<Quantity>764</Quantity>
 	</product>
 	<product>
 		<ID>17058</ID>
@@ -2423,7 +2423,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
 		<Barcode>5201946010015</Barcode>
-		<Quantity>2693</Quantity>
+		<Quantity>2671</Quantity>
 	</product>
 	<product>
 		<ID>20401-Τ</ID>
@@ -2441,7 +2441,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>836</Quantity>
+		<Quantity>815</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2459,7 +2459,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345092</Barcode>
-		<Quantity>934</Quantity>
+		<Quantity>923</Quantity>
 	</product>
 	<product>
 		<ID>20501</ID>
@@ -2476,7 +2476,7 @@
 		<MPN>130801</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<Barcode>5201005080027</Barcode>
-		<Quantity>14777</Quantity>
+		<Quantity>14758</Quantity>
 	</product>
 	<product>
 		<ID>20601-Τ</ID>
@@ -2672,7 +2672,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<Barcode>15202548505012</Barcode>
-		<Quantity>564</Quantity>
+		<Quantity>548</Quantity>
 	</product>
 	<product>
 		<ID>40052</ID>
@@ -2690,7 +2690,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ξηρή γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<Barcode>15202548505111</Barcode>
-		<Quantity>393</Quantity>
+		<Quantity>389</Quantity>
 	</product>
 	<product>
 		<ID>40053</ID>
@@ -2726,7 +2726,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ημίγλυκη γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<Barcode>15202548505319</Barcode>
-		<Quantity>221</Quantity>
+		<Quantity>217</Quantity>
 	</product>
 	<product>
 		<ID>40061</ID>
@@ -2816,7 +2816,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>843</Quantity>
+		<Quantity>831</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2834,7 +2834,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413040181</Barcode>
-		<Quantity>269</Quantity>
+		<Quantity>263</Quantity>
 	</product>
 	<product>
 		<ID>40104</ID>
@@ -2888,7 +2888,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>339</Quantity>
+		<Quantity>333</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -2942,7 +2942,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Τυρνάβου Ημίγλυκο προσφέρει ένα γεμάτο και ελαφρύ κρασί με γλυκιές αποχρώσεις και φρουτώδη αρώματα. Η απαλή του γεύση και το φωτεινό του χρώμα το καθιστούν μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης και διασκέδασης.</Description>
 		<Barcode>5202037115053</Barcode>
-		<Quantity>182</Quantity>
+		<Quantity>176</Quantity>
 	</product>
 	<product>
 		<ID>40411</ID>
@@ -4027,7 +4027,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888160100</Barcode>
-		<Quantity>1320</Quantity>
+		<Quantity>1308</Quantity>
 	</product>
 	<product>
 		<ID>47093</ID>
@@ -5195,7 +5195,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1544</Quantity>
+		<Quantity>1510</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5267,7 +5267,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>3471</Quantity>
+		<Quantity>3457</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5339,7 +5339,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα πικάντικα αρώματα γλυκάνισου, μάραθου και γλυκόριζας, φρουτώδη αρώματα περγαμόντου και σύκου και βοτανικές νότες μέντας. Στο στόμα είναι μαλακό και γλυκόπιοτο με μακρύ βοτανικό τελείωμα. Καταναλώνεται με προσθήκη δροσερού νερού και πάγου παίρνοντας γαλάζια μορφή και συνδυάζεται με παραδοσιακούς μεζέδες.</Description>
 		<Barcode>5202548101125</Barcode>
-		<Quantity>243</Quantity>
+		<Quantity>238</Quantity>
 	</product>
 	<product>
 		<ID>52203</ID>
@@ -5393,7 +5393,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Παράγεται από σταφύλια αρωματικών ποικιλιών που καλλιεργούνται στη Θεσσαλία. Κρυστάλλινο στην όψη, με έντονα φρουτώδη αρώματα εσπεριδοειδών όπως περγαμόντο και λεμόνι, λευκό ροδάκινο, ανθικές νότες τριαντάφυλλου και βοτανικές νύξεις μέντας. Στο στόμα είναι μαλακό και αρωματικό, με απαλό αλκοόλ και μακρύ τελείωμα δυόσμου. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5202548141022</Barcode>
-		<Quantity>262</Quantity>
+		<Quantity>256</Quantity>
 	</product>
 	<product>
 		<ID>52253</ID>
@@ -5782,7 +5782,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<Barcode>5010314700003</Barcode>
-		<Quantity>160</Quantity>
+		<Quantity>159</Quantity>
 	</product>
 	<product>
 		<ID>55004</ID>
@@ -5850,7 +5850,7 @@
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<Barcode>5000281002538</Barcode>
-		<Quantity>221</Quantity>
+		<Quantity>220</Quantity>
 	</product>
 	<product>
 		<ID>55008</ID>
@@ -7265,7 +7265,7 @@
 		<MPN>0848</MPN>
 		<Description>Οδοντόβουρτσα με μέτρια σκληρότητα της εταιρείας Colgate σε μπλε χρώμα, η οποία καθαρίζει αποτελεσματικά τα δόντια και τα ούλα από υπολείμματα τροφίμων, βακτήρια και πλάκα, ενώ μπορεί να χρησιμοποιηθεί και από άτομα που συγκεντρώνουν σε μικρό χρονικό διάστημα μετά τον καθαρισμό οδοντική πέτρα.</Description>
 		<Barcode>6001067022558</Barcode>
-		<Quantity>1265</Quantity>
+		<Quantity>1253</Quantity>
 	</product>
 	<product>
 		<ID>60102</ID>
@@ -7282,7 +7282,7 @@
 		<MPN>0622</MPN>
 		<Description>Οδοντόβουρτσα με μέτρια σκληρότητα της εταιρείας Colgate, η οποία καθαρίζει αποτελεσματικά τα δόντια και τα ούλα από υπολείμματα τροφίμων, βακτήρια και πλάκα, ενώ μπορεί να χρησιμοποιηθεί και από άτομα που συγκεντρώνουν σε μικρό χρονικό διάστημα μετά τον καθαρισμό οδοντική πέτρα.</Description>
 		<Barcode>6001067004943</Barcode>
-		<Quantity>3277</Quantity>
+		<Quantity>3265</Quantity>
 	</product>
 	<product>
 		<ID>60103</ID>
@@ -7452,7 +7452,7 @@
 		<MPN>1037</MPN>
 		<Description>Ανατομικά σχεδιασμένα σερβιετάκια, κανονικού μεγέθους, για καθημερινή προστασία, άνεση και σιγουριά. Με έξτρα στεγνό κάλυμμα και εκχύλισμα χαμομηλιού.</Description>
 		<Barcode>5201263010903</Barcode>
-		<Quantity>103</Quantity>
+		<Quantity>100</Quantity>
 	</product>
 	<product>
 		<ID>61011</ID>
@@ -8086,7 +8086,7 @@
 		<MPN>1053</MPN>
 		<Description>Αποσμητικό σώματος με άρωμα της Nivea. Η μοναδική του σύνθεση σας προστατεύει αδιάκοπα 48 ώρες από την εφίδρωση και βοηθάει τα ρούχα σας να διατηρήσουν το αρχικό χρώμα τους. Διάφανη προστασία που δεν αφήνει ίχνη.</Description>
 		<Barcode>4005900388674</Barcode>
-		<Quantity>9</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>63004</ID>
@@ -8120,7 +8120,7 @@
 		<MPN>1055</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Διακριτικό Άρωμα•48 Ώρες Προστασία•Δερματολογικά Ελεγμένο•Σύνθεση Χωρίς Αιθυλική ΑλκοόληΑποσμητικό σώματος πρωτοποριακής σύνθεσης με πολύτιμα εκχυλίσματα μαργαριταριού για ομοιόμορφο χρωματικό τόνο και απαλή επιδερμίδα, αποτελεσματικό στην προστασία από τον ιδρώτα και την κακοσμία.</Description>
 		<Barcode>4005900389015</Barcode>
-		<Quantity>102</Quantity>
+		<Quantity>96</Quantity>
 	</product>
 	<product>
 		<ID>63012</ID>
@@ -9123,7 +9123,7 @@
 		<MPN>1370</MPN>
 		<Description>Conditioner για αναδόμηση/θρέψη της L'Oreal Paris, κατάλληλο για όλους τους τύπους μαλλιών, σε μορφή κρέμας. Βοηθάει στην επανόρθωση των μαλλιών χωρίς να τα βαραίνει και μεταμορφώνει τα ταλαιπωρημένα μαλλιά σε πιο υγιή, πιο λαμπερά και πιο δυνατά. Στοχεύει στις περιοχές των μαλλιών με τη μεγαλύτερη φθορά και προσφέρει ενισχυμένη ενυδάτωση, μειώνοντας έτσι την ξηρότητα και τη θαμπάδα τους.    Δράση : Αναδόμηση/Θρέψη    Τύπος Μαλλιών: Όλοι οι τύποιΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>3600524016272</Barcode>
-		<Quantity>41</Quantity>
+		<Quantity>39</Quantity>
 	</product>
 	<product>
 		<ID>66028</ID>
@@ -9909,7 +9909,7 @@
 	</product>
 	<product>
 		<ID>67091</ID>
-		<Name>Aroma Μέλι &amp; Γιαούρτι Αφρόλουτρο 750ml</Name>
+		<Name>Aroma Μέλι &amp; Γιαούρτι Αφρόλουτρο 750ml 11011</Name>
 		<Product_Link>https://www.skroutz.gr/s/28369490/Aroma-Meli-Giaourti-Afroloutro-750ml.html</Product_Link>
 		<Image_Link>https://www.3a.gr/mediastream/w800/files/products/9f4a6bec0f874cc0090fca12abc1b57c.png.webp</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9926,7 +9926,7 @@
 	</product>
 	<product>
 		<ID>67092</ID>
-		<Name>Aroma Avocado Coconut Jojoba Κρεμώδες Αφρόλουτρο Καρύδα 750ml</Name>
+		<Name>Aroma Avocado Coconut Jojoba Κρεμώδες Αφρόλουτρο Καρύδα 750ml 14503</Name>
 		<Product_Link>https://www.skroutz.gr/s/45058094/Aroma-Avocado-Coconut-Jojoba-Kremodes-Afroloutro-Karyda-750ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/045058/45058094/20230807112151_aroma_avocado_coconut_jojoba_kremodes_afroloutro_karyda_750ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9943,7 +9943,7 @@
 	</product>
 	<product>
 		<ID>67101</ID>
-		<Name>Aroma Bio Honey &amp; Yoghurt Body Butter 200ml</Name>
+		<Name>Aroma Bio Honey &amp; Yoghurt Body Butter 200ml 11002</Name>
 		<Product_Link>https://www.skroutz.gr/s/27993411/Aroma-Bio-Honey-Yoghurt-Body-Butter-200ml.html</Product_Link>
 		<Image_Link>https://efrago.gr/wp-content/uploads/2023/09/Aroma-Bio-Honey-Yoghurt-Body-Butter-200ml.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9960,7 +9960,7 @@
 	</product>
 	<product>
 		<ID>67102</ID>
-		<Name>Aroma Body Butter Βιολογικό Ελαιόλαδο και Βάλσαμο Aroma (200 ml)</Name>
+		<Name>Aroma Body Butter Βιολογικό Ελαιόλαδο και Βάλσαμο Aroma 200 ml 11003</Name>
 		<Product_Link>https://www.skroutz.gr/s/47944466/Aroma-Body-Butter-Viologiko-Elaiolado-kai-Valsamo-Aroma-200-ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/047944/47944466/20231110161820_aroma_body_butter_viologiko_elaiolado_kai_valsamo_aroma_200_ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9977,7 +9977,7 @@
 	</product>
 	<product>
 		<ID>67103</ID>
-		<Name>Aroma Bio Αλόη &amp; Ρόδι Body Butter 200ml</Name>
+		<Name>Aroma Bio Αλόη &amp; Ρόδι Body Butter 200ml 10044</Name>
 		<Product_Link>https://www.skroutz.gr/s/25198751/Aroma-Bio-Aloi-Rodi-Body-Butter-200ml.html</Product_Link>
 		<Image_Link>https://www.kalestimes.gr/images/thumbs/0866723_AROMA-KREMA-SVMATOS-BIO-200ML-ALOH-RODI-2.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9994,7 +9994,7 @@
 	</product>
 	<product>
 		<ID>67111</ID>
-		<Name>Aroma Body Milk Ενυδατική Lotion 300ml</Name>
+		<Name>Aroma Body Milk Ενυδατική Lotion 300ml 11005</Name>
 		<Product_Link>https://www.skroutz.gr/s/17350521/Aroma-Body-Milk-Enydatiki-Lotion-300ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/017350/17350521/20240806140740_aroma_body_milk_enydatiki_lotion_300ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10011,7 +10011,7 @@
 	</product>
 	<product>
 		<ID>67112</ID>
-		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml</Name>
+		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml 11006</Name>
 		<Product_Link>https://www.skroutz.gr/s/17253517/Aroma-Body-Milk-Bio-Olive-Oil-Balsam-Enydatiki-Lotion-Somatos-300ml.html</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/430/4/4300004644/body-milj-olive.jpg?id=1679489433</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10028,7 +10028,7 @@
 	</product>
 	<product>
 		<ID>67113</ID>
-		<Name>Aroma Bio Aloe &amp; Pomerganate Lotion Ανάπλασης με Aloe Vera 300ml</Name>
+		<Name>Aroma Bio Aloe &amp; Pomerganate Lotion Ανάπλασης με Aloe Vera 300ml 10043</Name>
 		<Product_Link>https://www.skroutz.gr/s/25198763/Aroma-Bio-Aloe-Pomerganate-Lotion-Anaplasis-me-Aloe-Vera-300ml.html</Product_Link>
 		<Image_Link>https://mastmarket.gr/wp-content/uploads/2023/10/4f0477450c34f6813a685de08c12beb4.png-600x600.webp</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10045,7 +10045,7 @@
 	</product>
 	<product>
 		<ID>67121</ID>
-		<Name>Aroma After Sun Gel με Αλόη Βέρα 300ml</Name>
+		<Name>Aroma After Sun Gel με Αλόη Βέρα 300ml 14310</Name>
 		<Product_Link>https://www.skroutz.gr/s/55787178/Aroma-After-Sun-Gel-me-Aloi-Vera-300ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/055787/55787178/xlarge_20240906142549_aroma_after_sun_gel_me_aloi_vera_300ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10062,7 +10062,7 @@
 	</product>
 	<product>
 		<ID>67151</ID>
-		<Name>Aroma Scrub για το Πρόσωπο &amp; το Σώμα Βιολογικό Ελαιόλαδο &amp; Βάλσαμο 200ml</Name>
+		<Name>Aroma Scrub για το Πρόσωπο &amp; το Σώμα Βιολογικό Ελαιόλαδο &amp; Βάλσαμο 200ml 11023</Name>
 		<Product_Link>https://www.skroutz.gr/s/28673026/Aroma-Scrub-gia-to-Prosopo-to-Soma-Viologiko-Elaiolado-Valsamo-200ml.html</Product_Link>
 		<Image_Link>https://unitup.gr/wp-content/uploads/2023/07/26596-e1688632701886.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10079,7 +10079,7 @@
 	</product>
 	<product>
 		<ID>67201</ID>
-		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml</Name>
+		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml 11008</Name>
 		<Product_Link>https://www.skroutz.gr/s/17339634/Aroma-Bio-Enydatiki-Krema-CHerion-Honey-Yogurt-200ml.html</Product_Link>
 		<Image_Link>https://www.kalestimes.gr/images/thumbs/0866713_AROMA-KREMA-XERIVN-BIO-200ML-MELI-GIAOYRTI-1_510.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10096,7 +10096,7 @@
 	</product>
 	<product>
 		<ID>67203</ID>
-		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Aloe &amp; Pomergranate 200ml</Name>
+		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Aloe &amp; Pomergranate 200ml 10042</Name>
 		<Product_Link>https://www.skroutz.gr/s/27945635/Aroma-Bio-Enydatiki-Krema-CHerion-Aloe-Pomergranate-200ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/027945/27945635/20230310113205_aroma_bio_enydatiki_krema_cherion_aloe_pomergranate_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10113,7 +10113,7 @@
 	</product>
 	<product>
 		<ID>67211</ID>
-		<Name>Aroma Bio Hand &amp; Nail Αναπλαστική και Ενυδατική Κρέμα Χεριών και Νυχιών με Μέλι, Πανθενόλη, Κερατίνη &amp; Βιοτίνη 75ml</Name>
+		<Name>Aroma Bio Hand &amp; Nail Αναπλαστική και Ενυδατική Κρέμα Χεριών και Νυχιών με Μέλι, Πανθενόλη, Κερατίνη &amp; Βιοτίνη 75ml 11017</Name>
 		<Product_Link>https://www.skroutz.gr/s/28673737/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-me-Meli-Panthenoli-Keratini-Viotini-75ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/028673/28673737/20220525121521_aroma_bio_honey_panthenol_hand_nail_therapy_75ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10130,7 +10130,7 @@
 	</product>
 	<product>
 		<ID>67212</ID>
-		<Name>Aroma Bio Hand &amp; Foot Therapy Κρέμα Ανάπλασης για Αγκώνες &amp; Φτέρνες 75ml Beewax &amp; Urea 75ml</Name>
+		<Name>Aroma Bio Hand &amp; Foot Therapy Κρέμα Ανάπλασης για Αγκώνες &amp; Φτέρνες 75ml Beewax &amp; Urea 75ml 11018</Name>
 		<Product_Link>https://www.skroutz.gr/s/29845665/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-Beewax-Urea-75ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/029845/29845665/20210702161704_d812b6d5.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10147,7 +10147,7 @@
 	</product>
 	<product>
 		<ID>67213</ID>
-		<Name>Aroma Bio Anti-spot Therapy Για Πρόληψη Και Καταπολέμηση Δυσχρωμιών Και Κηλίδων με Πρόπολη, Γκρέιπφρουτ, Βιταμίνη C &amp; E 75ml</Name>
+		<Name>Aroma Bio Anti-spot Therapy Για Πρόληψη Και Καταπολέμηση Δυσχρωμιών Και Κηλίδων με Πρόπολη, Γκρέιπφρουτ, Βιταμίνη C &amp; E 75ml 11019</Name>
 		<Product_Link>https://www.skroutz.gr/s/28674242/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-me-Propoli-Greipfrout-Vitamini-C-E-75ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/028674/28674242/20230424123142_aroma_bio_hand_nail_anaplastiki_kai_enydatiki_krema_cherion_kai_nychion_me_propoli_greipfrout_vitamini_c_e_75ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10164,7 +10164,7 @@
 	</product>
 	<product>
 		<ID>67214</ID>
-		<Name>Aroma Bio Arnica leg therapy κρέμα με Arnica, ανακουφίζει κουρασμένα πόδια, επουλώνει μελανιές και μώλωπες 75ml</Name>
+		<Name>Aroma Bio Arnica leg therapy κρέμα με Arnica, ανακουφίζει κουρασμένα πόδια, επουλώνει μελανιές και μώλωπες 75ml 11120</Name>
 		<Product_Link>https://www.sklavenitis.gr/kallyntika-eidi-prosopikis-ygieinis/frontida-somatos/kremes-cherion-vazelini/aroma-arnica-leg-therapy-krema-gia-podia-gabes-75ml/</Product_Link>
 		<Image_Link>https://s1.sklavenitis.gr/images/1600x1600/files/ProductMedia/Products/1568217/2.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10181,7 +10181,7 @@
 	</product>
 	<product>
 		<ID>67231</ID>
-		<Name>AROMA Bio ΚΡΕΜΑ ΣΩΜΑΤΟΣ ΓΙΑ ΣΥΣΦΙΞΗ &amp; ΑΝΑΠΛΑΣΗ 200ML</Name>
+		<Name>Aroma Body Therapy Κρέμα για Σύσφιξη Σώματος Bio Aloe &amp; Jojoba 200ml 10048</Name>
 		<Product_Link>https://www.skroutz.gr/s/28672699/Aroma-Body-Therapy-Krema-gia-Sysfixi-Somatos-Bio-Aloe-Jojoba-200ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/028672/28672699/20221021101607_aroma_body_therapy_krema_gia_sysfixi_somatos_bio_aloe_jojoba_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10198,7 +10198,7 @@
 	</product>
 	<product>
 		<ID>67232</ID>
-		<Name>Aroma Κρέμα Σώματος κατά της κυτταρίτιδας με Υαλουρονικό και Μελισοκέρι Aroma (200 ml)</Name>
+		<Name>Aroma Κρέμα Σώματος κατά της κυτταρίτιδας με Υαλουρονικό και Μελισοκέρι Aroma (200 ml) 10049</Name>
 		<Product_Link>https://www.skroutz.gr/s/49388368/Aroma-Krema-Somatos-kata-tis-kyttaritidas-me-Yalouroniko-kai-Melisokeri-Aroma-200-ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/049388/49388368/20240121215841_aroma_krema_somatos_kata_tis_kyttaritidas_me_yalouroniko_kai_melisokeri_aroma_200_ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10426,7 +10426,7 @@
 		<MPN>1085</MPN>
 		<Description>Γάντια καθαριότητας της εταιρίας Θαλασσινός, σε μέγεθος large, χρήσιμα για την προστασία των χεριών σας, καθώς τα προστατεύουν κατά τη διάρκεια των καθαριστικών εργασιών. Είναι κατασκευασμένα από πλαστικό, ιδανικό για τις καθημερινές δουλειές του σπιτιού και της κουζίνας.</Description>
 		<Barcode>5202054469542</Barcode>
-		<Quantity>237</Quantity>
+		<Quantity>231</Quantity>
 	</product>
 	<product>
 		<ID>68102</ID>
@@ -10604,7 +10604,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>13034</Quantity>
+		<Quantity>13028</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -10657,7 +10657,7 @@
 		<MPN>RK.T2.2X330G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point διαθέτει δύο φύλλα και μικρό περφορέ. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού και στον καθημερινό σας βίο.</Description>
 		<Barcode>5200100280394</Barcode>
-		<Quantity>1682</Quantity>
+		<Quantity>1676</Quantity>
 	</product>
 	<product>
 		<ID>70102</ID>
@@ -10691,7 +10691,7 @@
 		<MPN>PS.RK.T3.450G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710285</Barcode>
-		<Quantity>830</Quantity>
+		<Quantity>824</Quantity>
 	</product>
 	<product>
 		<ID>70104</ID>
@@ -10759,7 +10759,7 @@
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650102703</Barcode>
-		<Quantity>1357</Quantity>
+		<Quantity>1352</Quantity>
 	</product>
 	<product>
 		<ID>702071</ID>
@@ -10776,7 +10776,7 @@
 		<MPN>1530</MPN>
 		<Description>Χαρτοπετσέτες της εταιρίας Endless, 2 φύλλων, πολλαπλών χρήσεων. Είναι ανθεκτικές και απορροφητικές, ιδανικές για καθημερινή χρήση.    Συνολικός Αριθμός Χαρτοπετσετών: 100</Description>
 		<Barcode>5202995003942</Barcode>
-		<Quantity>95</Quantity>
+		<Quantity>94</Quantity>
 	</product>
 	<product>
 		<ID>70209</ID>
@@ -10930,7 +10930,7 @@
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<Barcode>5201410964127</Barcode>
-		<Quantity>898</Quantity>
+		<Quantity>892</Quantity>
 	</product>
 	<product>
 		<ID>7040100101</ID>
@@ -10964,7 +10964,7 @@
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<Barcode>3800500148076</Barcode>
-		<Quantity>845</Quantity>
+		<Quantity>833</Quantity>
 	</product>
 	<product>
 		<ID>70421</ID>
@@ -11153,7 +11153,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>779</Quantity>
+		<Quantity>776</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -11439,7 +11439,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>1142</Quantity>
+		<Quantity>1138</Quantity>
 	</product>
 	<product>
 		<ID>712322</ID>
@@ -11456,7 +11456,7 @@
 		<MPN>9999</MPN>
 		<Description>Το υγρό απορρυπαντικό ρούχων Limpieza Profunda / Deep Clean της Skip μαλακώνει τις ίνες των ρούχων και δεν αφήνει υπολείμματα. Χρησιμοποιείται για λιπαρούς λεκέδες, όπως λάδι, τρόφιμα. Μπορεί να εφαρμοστεί τοπικά, απευθείας πάνω σε λεκέδες πριν από την πλύση. Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας. Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<Barcode>8720181413285</Barcode>
-		<Quantity>1142</Quantity>
+		<Quantity>1138</Quantity>
 	</product>
 	<product>
 		<ID>71261</ID>
@@ -11716,7 +11716,7 @@
 		<MPN>0417</MPN>
 		<Description>Το αποσκληρυντικό πλυντηρίου της εταιρείας Calgon προστατεύει το πλυντήριό σας από τα άλατα μεγιστοποιώντας την απόδοσή του. Καταπολεμά τις οσμές και τις βρωμιές, εξουδετερώνοντας τα άλατα και τα υπολείμματα που αποτελούν πηγές δυσοσμίας.</Description>
 		<Barcode>5900627008203</Barcode>
-		<Quantity>1220</Quantity>
+		<Quantity>1219</Quantity>
 	</product>
 	<product>
 		<ID>72001</ID>
@@ -12124,7 +12124,7 @@
 		<MPN>1272</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
 		<Barcode>8015100563050</Barcode>
-		<Quantity>530</Quantity>
+		<Quantity>528</Quantity>
 	</product>
 	<product>
 		<ID>72254</ID>
@@ -12481,7 +12481,7 @@
 		<MPN>0540</MPN>
 		<Description>Αυτό που θέλουν οι καταναλωτές είναι ένα χλώριο που να αφήνει πίσω του:1. καθαριότητα, 2. φρεσκάδα, 3. χρήματα στην τσέπη τους.Η πραγματικά παχύρρευστη και δυνατή σύνθεση της σειράς προϊόντων REX ULTRA έχει αποτέλεσμα το χλώριο να παραμένει περισσότερο χρόνο στην επιφάνεια και επομένως να καθαρίζει και να απολυμαίνει πιο καλά και πιο σίγουρα! Και πάντα πιο οικονομικά!</Description>
 		<Barcode>5200250701107</Barcode>
-		<Quantity>468</Quantity>
+		<Quantity>462</Quantity>
 	</product>
 	<product>
 		<ID>73601</ID>
@@ -17286,7 +17286,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<Barcode>5219711976220</Barcode>
-		<Quantity>705</Quantity>
+		<Quantity>704</Quantity>
 	</product>
 	<product>
 		<ID>78805</ID>
@@ -17445,7 +17445,7 @@
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036188</Barcode>
-		<Quantity>482</Quantity>
+		<Quantity>476</Quantity>
 	</product>
 	<product>
 		<ID>78901012</ID>
@@ -17666,7 +17666,7 @@
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<Barcode>5207243085343</Barcode>
-		<Quantity>2212</Quantity>
+		<Quantity>2209</Quantity>
 	</product>
 	<product>
 		<ID>78991111</ID>
@@ -18280,7 +18280,7 @@
 		<MPN>LP04125</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης Typotrast για την προστασία των εγγράφων σας. Κατάλληλο για όλες τις μηχανές πλαστικοποίησης.      Μέγεθος A4 (216x303mm)     125 microns     100 τεμάχια     Διάφανο αποτέλεσμα     Εύκαμπτα     Εγγράψιμα     Στρογγυλεμένες γωνίες     Aδιάβροχα</Description>
 		<Barcode>5207146013931</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7932010242</ID>
@@ -20170,7 +20170,7 @@
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<Barcode>5410853039334</Barcode>
-		<Quantity>492</Quantity>
+		<Quantity>487</Quantity>
 	</product>
 	<product>
 		<ID>7975022</ID>
@@ -20187,7 +20187,7 @@
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
 		<Barcode>5410853039273</Barcode>
-		<Quantity>858</Quantity>
+		<Quantity>853</Quantity>
 	</product>
 	<product>
 		<ID>7975023</ID>
@@ -20391,7 +20391,7 @@
 		<MPN>E-45371</MPN>
 		<Description>ΠΕΡΙΓΡΑΦΗ      Μέγεθος: 11Χ11Χ32cm     Υλικό: ABS αλουμίνιο και PS     Μπαταρία: Επαναφορτιζόμενη Li-ion 18650, 1200mAh     Τάση: 3.7V     LEDs: 5+12     Καλώδιο: 50cm micro USB     Λειτουργία φόρτισης: μέσω καλωδίου USB     Κουμπί εναλλαγής: στο επάνω μέρος της λάμπας     Αδιάβροχο: Όχι</Description>
 		<Barcode>5203642145374</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>797511102</ID>
@@ -20666,23 +20666,6 @@
 		<Quantity>12</Quantity>
 	</product>
 	<product>
-		<ID>7991111</ID>
-		<Name>Gruppe PDH 330 Φραπεδιέρα Επιτραπέζια 100W Μαύρη</Name>
-		<Product_Link>https://www.skroutz.gr/s/15449985/Gruppe-PDH-330-Frapediera-Epitrapezia-100W-Mayri.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/015449/15449985/20210608122400_gruppe_pdh_330_black.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>21.28</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
-		<Manufacturer>GRUPPE</Manufacturer>
-		<MPN>1695</MPN>
-		<Description>Το μίξερ ροφημάτων Gruppe Designed in Greece PDH330 ξεχωρίζει για την ομορφιά και την κομψότητά του, έχει απλό και αφαιρετικό και παράλληλα λεπτό και κομψό.</Description>
-		<Barcode>5206684005989</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>799111101</ID>
 		<Name>Sidirela Φραπεδιέρα Επιτραπέζια 100W με 2 Ταχύτητες σε Μαύρο Χρώμα E-2865</Name>
 		<Product_Link>https://www.skroutz.gr/s/55291554/Sidirela-E-2865-Frapediera-Epitrapezia-100W-me-2-Tachytites-Mayri.html</Product_Link>
@@ -20817,7 +20800,7 @@
 		<MPN>EKH011</MPN>
 		<Description>Επαγωγική Εστία  Ο τύπος της είναι επαγωγική, θερμαίνεται δηλαδή μόνο το κάτω μέρος από το σκεύος και όχι όλη η εστία, με αποτέλεσμα η περιβάλλουσα περιοχή να παραμένει κρύα στην αφή. Χρησιμοποιεί λιγότερη ενέργεια σε σχέση με τους υπόλοιπους τύπους εστιών και ο χρόνος μαγειρέματος μειώνεται στο μισό. Ενδεικτικά, το νερό βράζει σε λιγότερο από 90 δευτερόλεπτα.  Ο καθαρισμός της είναι πανεύκολος, αφού η περιοχή γύρω από το σκεύος παραμένει κρύα, άρα οτιδήποτε χυθεί δεν θερμαίνεται και δεν κολλάει στην επιφάνεια.  Απαραίτητη προϋπόθεση για αυτόν τον τύπο εστιών είναι ότι τα σκεύη πρέπει να είναι συμβατά για επαγωγικές εστίες, δηλαδή κατασκευασμένα από ανοξείδωτο ατσάλι ή χυτοσίδηρο, καθώς δεν μπορούμε να χρησιμοποιήσουμε όλα τα είδη σκευών. Τέλος, αν έχετε μικρά παιδιά θεωρείται η πιο ασφαλής επιλογή. Χειρισμός αφής  Ο χειρισμός για την επιλογή των επιθυμητών θερμοκρασιών και ρυθμίσεων γίνεται ψηφιακά και μέσω αφής.  Όλες οι επιλογές βρίσκονται ενσωματωμένες στην επιφάνεια, συνεπώς το μόνο που χρειάζεται για να ξεκινήσετε το μαγείρεμα, είναι μερικά απαλά αγγίγματα με το δάχτυλό σας.  Στην ψηφιακή οθόνη της μπορείτε να βλέπετε ανά πάσα στιγμή τις τρεχουσες ρυθμίσεις σας. Επιφάνεια μαγειρέματος  Διαθέτει μεγάλη επιφάνεια μαγειρέματος διαμέτρου από 14 έως 22 cm. Μπορεί να αναπτύξει θερμοκρασίες από 80°C έως 270°C.  Πρόκειται για μία έξυπνη εστία που προειδοποιεί στην περίπτωση χρήσης ακατάλληλου ή πολύ μικρού σκεύους.  Οι 5 προεπιλεγμένες λειτουργίες θα σας βοηθήσουν στην παρασκευή οποιουδήποτε φαγητού επιθυμείτε. Χρονοδιακόπτης  Ηλεκτρονικός χρονοδιακόπτης που τερματίζει αυτόματα την λειτουργία της εστίας, στο τέλος του επιθυμητού χρόνου μαγειρέματος. Ιδανική για τα ταξίδια και το εξοχικό  Ο απλός σχεδιασμός της ταιριάζει σε κάθε κουζίνα και το εύχρηστο μέγεθος καθιστά εύκολη τη μεταφορά είτε για κάμπινγκ, είτε για διακοπές είτε για μετακόμιση.      Διαστάσεις: 28 x 36 x 7 cm</Description>
 		<Barcode>5901299963869</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>79917011</ID>
@@ -21174,7 +21157,7 @@
 		<MPN>EBS019</MPN>
 		<Description>Η σύγχρονη ψηφιακή ζυγαριά, της εταιρίας Esperanza, σας επιτρέπει να ελέγχετε το βάρος του μωρού σας. Η τακτική εξέταση του βάρους και της ανάπτυξης του μωρού σας βοηθά στην παρακολούθηση της σωστής ανάπτυξής του. Η ζυγαριά μπορεί να ζυγίσει μέχρι και 20 κιλά.  Η μεγάλη οθόνη υγρών κρυστάλλων κάνει εύκολη την ανάγνωση των αποτελεσμάτων ζύγισης. Η ζυγαριά είναι επίσης εξοπλισμένη με λειτουργίες TARE και HOLD για εύκολο ζύγισμα, όταν το παιδί σας μετακινείται. Το εργονομικό της σχήμα εξασφαλίζει την άνεση και την ασφάλεια του παιδιού σας όταν το ζυγίζετε.      Ακριβής ζύγιση     Βάρος: 0.03 - 20kg     Κλίμακα διαίρεσης: 0.01kg     Λειτουργία TARE (απόβαρο)     Λειτουργία HOLD (για πιο ακριβείς μετρήσεις όταν κινείται το μωρό)     Μεγάλη οθόνη LCD: 60x25mm     Μονάδα μέτρησης: KG / LB / ST     Τροφοδοσία: 2 x AAA μπαταρία (δεν περιλαμβάνονται)     Ένδειξη χαμηλής μπαταρίας και υπερφόρτωσης     Αυτόματη και χειροκίνητη απενεργοποίηση     Θερμοκρασία εργασίας: 0° C - 40° C     Διαστάσεις: 54.5x32x3cm</Description>
 		<Barcode>5901299954935</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 	</product>
 	<product>
 		<ID>799500101</ID>
@@ -23567,7 +23550,7 @@
 		<MPN>DR7F40BT</MPN>
 		<Description>Φορητό ραδιόφωνο FM με ένδειξη ψηφιακής συχνότητας.      50 μνήμες αποθήκευσης σε FM.     Σύνδεση Bluetooth®.     Αναπαραγωγή MP3 από USB.     Χρονοδιακόπτης ρολογιού.     Υποδοχή ακουστικών.     Μίνι Led φακός.     Τροφοδοσία: Επαναφορτιζόμενη μπαταρία.</Description>
 		<Barcode>8011000040493</Barcode>
-		<Quantity>14</Quantity>
+		<Quantity>13</Quantity>
 	</product>
 	<product>
 		<ID>799650102</ID>
@@ -24301,7 +24284,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Ξίδι της εταιρείας ΤΖΩΝ ΤΟΠ, το οποίο παράγεται από κόκκινο κρασί και είναι ιδανικό για σαλάτες, όσπρια ή χοιρινό κρέας. Το οξικό οξύ που περιέχει το ξίδι επιβραδύνει την πέψη των υδατανθράκων και αυξάνει την απορρόφηση της γλυκόζης. Η διαδικασία έχει ως αποτέλεσμα μικρότερες ποσότητες γλυκόζης στο αίμα και διατήρηση υγιών επιπέδων σακχάρου. Είναι πλούσιο σε αντιοξειδωτικά που προστατεύουν το σώμα από βλάβες του δέρματος και μολύνσεις. Επίσης ωφελεί την υγεία της καρδιάς και μειώνει τα επίπεδα χοληστερόλης, προλαμβάνει τη φλεγμονή και τη δημιουργία θρόμβων και ρυθμίζει την αρτηριακή πίεση.</Description>
 		<Barcode>5202737200332</Barcode>
-		<Quantity>202</Quantity>
+		<Quantity>197</Quantity>
 	</product>
 	<product>
 		<ID>84002</ID>
@@ -24319,7 +24302,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το αναπλήρωμα ξύδιου John Top σε συσκευασία 400ml είναι ιδανικό για χρήση στη μαγειρική και στην παρασκευή σάλτσων, μαριναδών, σαλατών και dressings. Με το χαρακτηριστικό άρωμα και την έντονη γεύση του, προσδίδει ξεχωριστή γεύση στα φαγητά σας. Είναι ιδανικό για να δώσει μια ευχάριστη οξύτητα και αναδεικνύει τα αρώματα των υλικών που χρησιμοποιείτε.</Description>
 		<Barcode>5202737200547</Barcode>
-		<Quantity>230</Quantity>
+		<Quantity>206</Quantity>
 	</product>
 	<product>
 		<ID>84011</ID>
@@ -24337,7 +24320,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<Barcode>5202737989855</Barcode>
-		<Quantity>295</Quantity>
+		<Quantity>285</Quantity>
 	</product>
 	<product>
 		<ID>84012</ID>
@@ -25021,7 +25004,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ο τοματοχυμός πασσάτα απο την εταιρία Ρέα ελαφριάς συμπύκνωσης . Δεν περιέχει γλουτένη και άλλα αλλεργιογόνα ,έχει πολύ χαμηλή περιεκτικότητα σε αλάτι και είναι ιδανική για όλες τις γαστρονομικές δημιουργίες σας.</Description>
 		<Barcode>5202908500018</Barcode>
-		<Quantity>2366</Quantity>
+		<Quantity>2354</Quantity>
 	</product>
 	<product>
 		<ID>852011</ID>
@@ -25606,7 +25589,7 @@
 		<MPN>38547</MPN>
 		<Description>Αφράτη ζύμη βάφλας με πλούσια κρέμα κακάο και φουντουκιού! Το κάθε display περιέχει 12 τεμάχια.  Αυτή η γλυκιά και νόστιμη βάφλα είναι η ιδανική δόση ενέργειας πριν από τη δουλειά ή πριν από το γυμναστήριο!  Οι βάφλες περιέχουν φρέσκα ολόκληρα αυγά, χωρίς trans λιπαρά.  Ο συνδυασμός μαλακής βάφλας και oi κρεμώδεις και σοκολατένιες γεμίσεις ικανοποιεί ιδιαίτερα όλα τα γούστα και τις προτιμήσεις των καταναλωτών.  Οι βάφλες περιέχουν μη υδρογονωμένα λιπαρά &amp; δεν χρειάζονται προθέρμανση σε φούρνο μικροκυμάτων ή φούρνο.  Είναι κατάλληλες για κατανάλωση σε οποιοδήποτε μέρος και οποιαδήποτε ώρα της ημέρας.    Διατροφική Επισήμανση ανά 100g Ενέργεια 1711kj / 406kcal Λιπαρά 17,1g Εκ των οποίων κορεσμένα 8,5g Υδατάνθρακες 56,5g Εκ των οποίων σάκχαρα 39,2g Εδώδιμες ίνες 0,8g Πρωτεΐνες 5,6g Αλάτι 0,54g</Description>
 		<Barcode>5205422170163</Barcode>
-		<Quantity>22</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>88810102</ID>
@@ -25623,7 +25606,7 @@
 		<MPN>38555</MPN>
 		<Description>Απαλή ζύμη βάφλας με πλούσια γέμιση φράουλας με 55% αληθινά φρούτα!  Ένα φρέσκο ​​και νόστιμο σνακ φράουλας κατάλληλο για ένα ελαφρύ πρωινό στο γραφείο ή στο σχολείο!     Διατροφικές πληροφορίες ανά 100 γρ Ενέργεια 1571 kj / 373 kcal Λίπος 11,7 γρ Εκ των οποίων κορεσμένα 5,8 γρ Υδατάνθρακες 62,0 γρ Εκ των οποίων σάκχαρα 41,6 γρ Ίνες 1,2 γρ Πρωτεΐνες 4,3 γρ Αλας 0,54 γρ</Description>
 		<Barcode>5205422014122</Barcode>
-		<Quantity>109</Quantity>
+		<Quantity>97</Quantity>
 	</product>
 	<product>
 		<ID>88810103</ID>
@@ -25640,7 +25623,7 @@
 		<MPN>38550</MPN>
 		<Description>Βελούδινη ζύμη με κρεμώδη γέμιση βανίλιας!  Αυτό το κρεμώδες ελαφρύ σνακ είναι υπέροχη επιλογή για το βράδυ όταν λαχταράμε για κάτι γλυκό!    Διατροφική Επισήμανση ανά 100g Ενέργεια 1716Kj/ 407 kcal Λιπαρά 17,7g Εκ των οποίων κορεσμένα 9,0g Υδατάνθρακες 57,5g Εκ των οποίων σάκχαρα 37,1g Εδώδιμες ίνες 0,4g Πρωτεΐνες 4,8g Αλάτι 0,59g</Description>
 		<Barcode>5205422400017</Barcode>
-		<Quantity>282</Quantity>
+		<Quantity>270</Quantity>
 	</product>
 	<product>
 		<ID>88810104</ID>
@@ -25847,7 +25830,7 @@
 		<MPN>329-31483</MPN>
 		<Description>Το προϊόν JOHNY BEE NECKLACES DISPLAY είναι μια συσκευασία που περιλαμβάνει 50 ζαχαρωτά σε μορφή κολιέ, τα οποία διατίθενται σε εντυπωσιακή παρουσίαση (display).  Κάθε κολιέ αποτελείται από πολύχρωμες καραμέλες που τα παιδιά μπορούν να φορέσουν και να απολαύσουν σιγά-σιγά, κάνοντάς το ένα ιδιαίτερα διασκεδαστικό και αγαπητό προϊόν.  Ιδανικό για καταστήματα ζαχαρωδών, παιδικά πάρτι, και άλλες εκδηλώσεις, αυτό το προϊόν προσφέρει στα παιδιά έναν μοναδικό συνδυασμό παιχνιδιού και απόλαυσης γλυκών.</Description>
 		<Barcode>5904917031483</Barcode>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 	</product>
 	<product>
 		<ID>8910301</ID>
@@ -25864,7 +25847,7 @@
 		<MPN>341-31803</MPN>
 		<Description>Ανακάλυψε μια απολαυστική εμπειρία με τα JOHNY BEE 3D Juicy Gummy Fruit Mix! Αυτά τα ζουμερά, τρισδιάστατα ζελεδάκια σε σχήματα φρούτων δεν είναι μόνο ένας υπέροχος γλυκός πειρασμός, αλλά και μια έκρηξη γεύσης που θα ενθουσιάσει μικρούς και μεγάλους.  Χαρακτηριστικά Προϊόντος:  Τρισδιάστατη Σχεδίαση: Κάθε ζελεδάκι έχει μοναδικό τρισδιάστατο σχήμα φρούτων, προσφέροντας μια οπτικά ελκυστική εμπειρία. Έκρηξη Γεύσης : Τα ζελεδάκια είναι γεμάτα με την πλούσια γεύση φρέσκων φρούτων, που λιώνουν στο στόμα, προσφέροντας μια ζουμερή και γλυκιά απόλαυση. Ιδανικό για party: Το προϊόν περιέχει 60 ζελεδάκια, καθιστώντας το ιδανικό για πάρτι, εκδηλώσεις ή απλώς για να το απολαμβάνετε με φίλους και οικογένεια. Συσκευασία Δώρου: Με την ελκυστική και διασκεδαστική του συσκευασία, είναι μια εξαιρετική επιλογή για δώρο ή κέρασμα. Ασφαλής και Υγιεινή Συσκευασία: Κάθε ζελεδάκι είναι προσεκτικά συσκευασμένο για να διατηρεί τη φρεσκάδα και την ποιότητά του.  Ιδανικό για:      Παιδικά πάρτι και γιορτές.     Γρήγορη και γλυκιά απόλαυση στην καθημερινότητα.     Δώρο σε παιδιά ή φίλους που αγαπούν τα ζαχαρωτά.  Χάρισε στον εαυτό σου και στους αγαπημένους σου μια μικρή, γλυκιά στιγμή απόλαυσης με τα JOHNY BEE 3D Juicy Gummy Fruit Mix. Δοκίμασέ τα σήμερα και απόλαυσε τη γεύση των πραγματικών φρούτων σε κάθε δαγκωνιά!</Description>
 		<Barcode>5904917031803</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>8910302</ID>
