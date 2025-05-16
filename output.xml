@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-16 11:33</created_at>
+	<created_at>2025-05-16 12:30</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -718,7 +718,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171331237</Barcode>
-		<Quantity>28</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -736,7 +736,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<Barcode>5201171331220</Barcode>
-		<Quantity>123</Quantity>
+		<Quantity>122</Quantity>
 	</product>
 	<product>
 		<ID>11532</ID>
@@ -754,7 +754,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>31</Quantity>
+		<Quantity>27</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -772,7 +772,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<Barcode>5201171331244</Barcode>
-		<Quantity>7</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>11541</ID>
@@ -985,7 +985,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214775</Barcode>
-		<Quantity>32</Quantity>
+		<Quantity>31</Quantity>
 	</product>
 	<product>
 		<ID>12023-Τ</ID>
@@ -2253,7 +2253,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.3</Price>
+		<Price>1.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIFE</Manufacturer>
@@ -2271,7 +2271,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.3</Price>
+		<Price>1.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIFE</Manufacturer>
@@ -2289,7 +2289,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.3</Price>
+		<Price>1.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>LIFE</Manufacturer>
@@ -3068,7 +3068,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100189</Barcode>
-		<Quantity>491</Quantity>
+		<Quantity>490</Quantity>
 	</product>
 	<product>
 		<ID>40422</ID>
@@ -3764,7 +3764,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.89</Price>
+		<Price>16.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>Κτήμα Θυμιόπουλου</Manufacturer>
@@ -3858,40 +3858,6 @@
 		<Description>Στη Νάουσα, σε μια παραδοσιακή περιοχή για την παραγωγή ερυθρών οίνων ονομασίας προέλευσης, βρίσκεται ο αμπελώνας της οικογένειας Καρυδά. Το Κτήμα βρίσκεται μόλις 2,5 χλμ. έξω από τη Νάουσα, στην περιοχή «Άνω Γάστρα», με υψόμετρο 205 μέτρων. Έχει έκταση 26 στρεμμάτων και το έδαφός του είναι επικλινές με πολύ καλή στράγγιση, αμμοαργιλώδες ασβεστούχο, κάτι που συντελεί στην ποιότητα της πρώτης ύλης και των παραγόμενων κρασιών. Ο τρύγος γίνεται με ενδιαφέρον, πολλή δουλειά και αγάπη, προς το τέλος του Σεπτεμβρίου, σε 3 διαδοχικά στάδια, για την καλύτερη δυνατή ποιότητα σταφυλιών. Μετά την οινοποίηση, η παραμονή και η ωρίμαση για 18-20 μήνες σε δρύινα γαλλικά βαρέλια ηρεμεί, μαλακώνει και ισορροπεί τον πληθωρικό χαρακτήρα της ποικιλίας αυτής. Μετά από το πέρασμα από βαρέλι και την εμφιάλωση το κρασί παραμένει για αναγωγική παλαίωση στο μπουκάλι, για 4-5 μήνες.</Description>
 		<Barcode>5203888880190</Barcode>
 		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>470250201</ID>
-		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Chardonnay Λευκό Ξηρό 750ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/4809202/Ktima-Katsarou-Viologiko-Krasi-Chardonnay-Leyko-Xiro-750ml.html#description</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/004809/4809202/xlarge_20211018160312_ktima_katsarou_chardonnay_leyko_750ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>19.19</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
-		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
-		<MPN>1785001</MPN>
-		<Description>ΠΓΕ Κρανιάς, Θεσσαλία  Chardonnay βιολογικής αμπελλοκαλιέργειας  Ζύμωση σε μικρά δρύινα Γαλλικά βαρέλια και παραμονή με τις οινολάσπες για ένα διάστημα 5 με 6 μηνών.  Kιτρινόξανθο λαμπερό με ελαφρές πράσινες ανταύγειες. Έντονο και σύνθετο άρωμα κίτρινων φρούτων, εσπεριδοειδών, κεριού και με ευγενείς νότες καπνού και βανίλιας. Στόμα δροσερό με καλή οξύτητα και όγκο. Μεγάλη επίγευση και διάρκεια.  Η ετικέτα παραπέμπει στο Viola Odorata(μενεξές), φυτό με βραχύ ρίζωμα, επίγειος βλαστός και με φύλλα που σχηματίζουν ρόδακα. Στην Ελλάδα φύεται σε λιβάδια και στις παρυφές του Ολύμπου σε υψόμετρο 700-900 μέτρα. Ανθίζει Απρίλιο με Μάιο και τα άνθη του είναι βαθύχρωμα ιώδη.  Γεύστικοι συνδυασμοί:      Ψάρια με λιπαρή σάρκα     Καπνιστά ψάρια ή ψάρια με λευκή σάλτσα     Μαλάκια και οστρακοειδή     Συνθέσεις από χαβιάρι</Description>
-		<Barcode>870869000035</Barcode>
-		<Quantity>18</Quantity>
-	</product>
-	<product>
-		<ID>470250201</ID>
-		<Name>Κτήμα Κατσαρού Βιολογικό Κρασί Cabernet Sauvignon - Merlot Ερυθρό Ξηρό 750ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/4809195/Ktima-Katsarou-Viologiko-Krasi-Erythro-Xiro-750ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/004809/4809195/xlarge_20200313165051_ktima_katsarou_erythros_750ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>21.03</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
-		<Manufacturer>Κτήμα Κατσαρού</Manufacturer>
-		<MPN>1785002</MPN>
-		<Description>Πληθωρική και έντονη μύτη φραγκοστάφυλου, βύσσινου, μαύρου κερασιού με νότες μελανιού και βουτύρου. Στόμα παχύ και βελούδινο με άψογη δομή και τανίνες που υπόσχονται αντοχή στον χρόνο. Μακρά επίγευση και μεγάλη διάρκεια. Οινοποίηση  Ζύμωση και μακρά εκχύλιση (18 -23 μέρες) σε ανοξείδωτες δεξαμενές ελεγχόμενης θερμοκρασίας. Ωρίμανση σε μικρά (228 L.) δρύινα Γαλλικά βαρέλια για 12 με 18 μήνες. Εμφιάλωση χωρίς φιλτράρισμα.  Μετά την εμφιάλωση παραμένει στην κάβα του κτήματος (συνθήκες ελεγχόμενης θερμοκρασίας και υγρασίας) για τουλάχιστον ενάμιση χρόνο πριν βγεί στο εμπόριο.  Προτείνεται η κατανάλωση του στους 16 -18°C και έχει διάρκεια ζωής 15 με 20 έτη.</Description>
-		<Barcode>870869000011</Barcode>
-		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>47031</ID>
@@ -9909,7 +9875,7 @@
 	</product>
 	<product>
 		<ID>67091</ID>
-		<Name>Aroma Μέλι &amp; Γιαούρτι Αφρόλουτρο 750ml 11011</Name>
+		<Name>Aroma Μέλι &amp; Γιαούρτι Αφρόλουτρο 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/28369490/Aroma-Meli-Giaourti-Afroloutro-750ml.html</Product_Link>
 		<Image_Link>https://www.3a.gr/mediastream/w800/files/products/9f4a6bec0f874cc0090fca12abc1b57c.png.webp</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9926,7 +9892,7 @@
 	</product>
 	<product>
 		<ID>67092</ID>
-		<Name>Aroma Avocado Coconut Jojoba Κρεμώδες Αφρόλουτρο Καρύδα 750ml 14503</Name>
+		<Name>Aroma Avocado Coconut Jojoba Κρεμώδες Αφρόλουτρο Καρύδα 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/45058094/Aroma-Avocado-Coconut-Jojoba-Kremodes-Afroloutro-Karyda-750ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/045058/45058094/20230807112151_aroma_avocado_coconut_jojoba_kremodes_afroloutro_karyda_750ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9943,7 +9909,7 @@
 	</product>
 	<product>
 		<ID>67101</ID>
-		<Name>Aroma Bio Honey &amp; Yoghurt Body Butter 200ml 11002</Name>
+		<Name>Aroma Bio Honey &amp; Yoghurt Body Butter 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/27993411/Aroma-Bio-Honey-Yoghurt-Body-Butter-200ml.html</Product_Link>
 		<Image_Link>https://efrago.gr/wp-content/uploads/2023/09/Aroma-Bio-Honey-Yoghurt-Body-Butter-200ml.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9960,7 +9926,7 @@
 	</product>
 	<product>
 		<ID>67102</ID>
-		<Name>Aroma Body Butter Βιολογικό Ελαιόλαδο και Βάλσαμο Aroma 200 ml 11003</Name>
+		<Name>Aroma Body Butter Βιολογικό Ελαιόλαδο και Βάλσαμο Aroma (200 ml)</Name>
 		<Product_Link>https://www.skroutz.gr/s/47944466/Aroma-Body-Butter-Viologiko-Elaiolado-kai-Valsamo-Aroma-200-ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/047944/47944466/20231110161820_aroma_body_butter_viologiko_elaiolado_kai_valsamo_aroma_200_ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9977,7 +9943,7 @@
 	</product>
 	<product>
 		<ID>67103</ID>
-		<Name>Aroma Bio Αλόη &amp; Ρόδι Body Butter 200ml 10044</Name>
+		<Name>Aroma Bio Αλόη &amp; Ρόδι Body Butter 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/25198751/Aroma-Bio-Aloi-Rodi-Body-Butter-200ml.html</Product_Link>
 		<Image_Link>https://www.kalestimes.gr/images/thumbs/0866723_AROMA-KREMA-SVMATOS-BIO-200ML-ALOH-RODI-2.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -9994,7 +9960,7 @@
 	</product>
 	<product>
 		<ID>67111</ID>
-		<Name>Aroma Body Milk Ενυδατική Lotion 300ml 11005</Name>
+		<Name>Aroma Body Milk Ενυδατική Lotion 300ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17350521/Aroma-Body-Milk-Enydatiki-Lotion-300ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/017350/17350521/20240806140740_aroma_body_milk_enydatiki_lotion_300ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10011,7 +9977,7 @@
 	</product>
 	<product>
 		<ID>67112</ID>
-		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml 11006</Name>
+		<Name>Aroma Body Milk Bio Olive Oil &amp; Balsam Ενυδατική Lotion Σώματος 300ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17253517/Aroma-Body-Milk-Bio-Olive-Oil-Balsam-Enydatiki-Lotion-Somatos-300ml.html</Product_Link>
 		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/430/4/4300004644/body-milj-olive.jpg?id=1679489433</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10028,7 +9994,7 @@
 	</product>
 	<product>
 		<ID>67113</ID>
-		<Name>Aroma Bio Aloe &amp; Pomerganate Lotion Ανάπλασης με Aloe Vera 300ml 10043</Name>
+		<Name>Aroma Bio Aloe &amp; Pomerganate Lotion Ανάπλασης με Aloe Vera 300ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/25198763/Aroma-Bio-Aloe-Pomerganate-Lotion-Anaplasis-me-Aloe-Vera-300ml.html</Product_Link>
 		<Image_Link>https://mastmarket.gr/wp-content/uploads/2023/10/4f0477450c34f6813a685de08c12beb4.png-600x600.webp</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10045,7 +10011,7 @@
 	</product>
 	<product>
 		<ID>67121</ID>
-		<Name>Aroma After Sun Gel με Αλόη Βέρα 300ml 14310</Name>
+		<Name>Aroma After Sun Gel με Αλόη Βέρα 300ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/55787178/Aroma-After-Sun-Gel-me-Aloi-Vera-300ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/055787/55787178/xlarge_20240906142549_aroma_after_sun_gel_me_aloi_vera_300ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10062,7 +10028,7 @@
 	</product>
 	<product>
 		<ID>67151</ID>
-		<Name>Aroma Scrub για το Πρόσωπο &amp; το Σώμα Βιολογικό Ελαιόλαδο &amp; Βάλσαμο 200ml 11023</Name>
+		<Name>Aroma Scrub για το Πρόσωπο &amp; το Σώμα Βιολογικό Ελαιόλαδο &amp; Βάλσαμο 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/28673026/Aroma-Scrub-gia-to-Prosopo-to-Soma-Viologiko-Elaiolado-Valsamo-200ml.html</Product_Link>
 		<Image_Link>https://unitup.gr/wp-content/uploads/2023/07/26596-e1688632701886.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10079,7 +10045,7 @@
 	</product>
 	<product>
 		<ID>67201</ID>
-		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml 11008</Name>
+		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Honey &amp; Yogurt 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17339634/Aroma-Bio-Enydatiki-Krema-CHerion-Honey-Yogurt-200ml.html</Product_Link>
 		<Image_Link>https://www.kalestimes.gr/images/thumbs/0866713_AROMA-KREMA-XERIVN-BIO-200ML-MELI-GIAOYRTI-1_510.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10096,7 +10062,7 @@
 	</product>
 	<product>
 		<ID>67203</ID>
-		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Aloe &amp; Pomergranate 200ml 10042</Name>
+		<Name>Aroma Bio Ενυδατική Κρέμα Χεριών Aloe &amp; Pomergranate 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/27945635/Aroma-Bio-Enydatiki-Krema-CHerion-Aloe-Pomergranate-200ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/027945/27945635/20230310113205_aroma_bio_enydatiki_krema_cherion_aloe_pomergranate_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10113,7 +10079,7 @@
 	</product>
 	<product>
 		<ID>67211</ID>
-		<Name>Aroma Bio Hand &amp; Nail Αναπλαστική και Ενυδατική Κρέμα Χεριών και Νυχιών με Μέλι, Πανθενόλη, Κερατίνη &amp; Βιοτίνη 75ml 11017</Name>
+		<Name>Aroma Bio Hand &amp; Nail Αναπλαστική και Ενυδατική Κρέμα Χεριών και Νυχιών με Μέλι, Πανθενόλη, Κερατίνη &amp; Βιοτίνη 75ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/28673737/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-me-Meli-Panthenoli-Keratini-Viotini-75ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/028673/28673737/20220525121521_aroma_bio_honey_panthenol_hand_nail_therapy_75ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10130,7 +10096,7 @@
 	</product>
 	<product>
 		<ID>67212</ID>
-		<Name>Aroma Bio Hand &amp; Foot Therapy Κρέμα Ανάπλασης για Αγκώνες &amp; Φτέρνες 75ml Beewax &amp; Urea 75ml 11018</Name>
+		<Name>Aroma Bio Hand &amp; Foot Therapy Κρέμα Ανάπλασης για Αγκώνες &amp; Φτέρνες 75ml Beewax &amp; Urea 75ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/29845665/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-Beewax-Urea-75ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/029845/29845665/20210702161704_d812b6d5.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10147,7 +10113,7 @@
 	</product>
 	<product>
 		<ID>67213</ID>
-		<Name>Aroma Bio Anti-spot Therapy Για Πρόληψη Και Καταπολέμηση Δυσχρωμιών Και Κηλίδων με Πρόπολη, Γκρέιπφρουτ, Βιταμίνη C &amp; E 75ml 11019</Name>
+		<Name>Aroma Bio Anti-spot Therapy Για Πρόληψη Και Καταπολέμηση Δυσχρωμιών Και Κηλίδων με Πρόπολη, Γκρέιπφρουτ, Βιταμίνη C &amp; E 75ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/28674242/Aroma-Bio-Hand-Nail-Anaplastiki-kai-Enydatiki-Krema-CHerion-kai-Nychion-me-Propoli-Greipfrout-Vitamini-C-E-75ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/028674/28674242/20230424123142_aroma_bio_hand_nail_anaplastiki_kai_enydatiki_krema_cherion_kai_nychion_me_propoli_greipfrout_vitamini_c_e_75ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10164,7 +10130,7 @@
 	</product>
 	<product>
 		<ID>67214</ID>
-		<Name>Aroma Bio Arnica leg therapy κρέμα με Arnica, ανακουφίζει κουρασμένα πόδια, επουλώνει μελανιές και μώλωπες 75ml 11120</Name>
+		<Name>Aroma Bio Arnica leg therapy κρέμα με Arnica, ανακουφίζει κουρασμένα πόδια, επουλώνει μελανιές και μώλωπες 75ml</Name>
 		<Product_Link>https://www.sklavenitis.gr/kallyntika-eidi-prosopikis-ygieinis/frontida-somatos/kremes-cherion-vazelini/aroma-arnica-leg-therapy-krema-gia-podia-gabes-75ml/</Product_Link>
 		<Image_Link>https://s1.sklavenitis.gr/images/1600x1600/files/ProductMedia/Products/1568217/2.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10181,7 +10147,7 @@
 	</product>
 	<product>
 		<ID>67231</ID>
-		<Name>Aroma Body Therapy Κρέμα για Σύσφιξη Σώματος Bio Aloe &amp; Jojoba 200ml 10048</Name>
+		<Name>AROMA Bio ΚΡΕΜΑ ΣΩΜΑΤΟΣ ΓΙΑ ΣΥΣΦΙΞΗ &amp; ΑΝΑΠΛΑΣΗ 200ML</Name>
 		<Product_Link>https://www.skroutz.gr/s/28672699/Aroma-Body-Therapy-Krema-gia-Sysfixi-Somatos-Bio-Aloe-Jojoba-200ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/028672/28672699/20221021101607_aroma_body_therapy_krema_gia_sysfixi_somatos_bio_aloe_jojoba_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -10198,7 +10164,7 @@
 	</product>
 	<product>
 		<ID>67232</ID>
-		<Name>Aroma Κρέμα Σώματος κατά της κυτταρίτιδας με Υαλουρονικό και Μελισοκέρι Aroma (200 ml) 10049</Name>
+		<Name>Aroma Κρέμα Σώματος κατά της κυτταρίτιδας με Υαλουρονικό και Μελισοκέρι Aroma (200 ml)</Name>
 		<Product_Link>https://www.skroutz.gr/s/49388368/Aroma-Krema-Somatos-kata-tis-kyttaritidas-me-Yalouroniko-kai-Melisokeri-Aroma-200-ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/049388/49388368/20240121215841_aroma_krema_somatos_kata_tis_kyttaritidas_me_yalouroniko_kai_melisokeri_aroma_200_ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -12770,7 +12736,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>58</Quantity>
+		<Quantity>57</Quantity>
 	</product>
 	<product>
 		<ID>74052</ID>
@@ -12805,6 +12771,91 @@
 		<Description>Λεκάνη σιλικόνης, κατάλληλη για την μπουγάδα σας αλλά και για κάθε άλλη χρήση.  Είναι πτυσσόμενη με πολύ μικρό ύψος όταν είναι κλειστή, διευκολύνοντας την αποθήκευση της.  Διαθέτει λαβές για εύκολη μεταφορά. Μπορείτε να την τοποθετήσετε στο μπάνιο σας, κοντά στο πλυντήριο ή οπουδήποτε σας βολεύει ώστε να έχετε εύκολη πρόσβαση.  Είναι πολύ ανθεκτική στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.      Μήκος: 55cm     Πλάτος: 25cm     Ύψος: 22cm</Description>
 		<Barcode>5203642103497</Barcode>
 		<Quantity>29</Quantity>
+	</product>
+	<product>
+		<ID>740555101</ID>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Λευκό E-1810wh</Name>
+		<Product_Link>https://www.skroutz.gr/s/52554708/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Leyko.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/052554/52554708/fixedratio_20250305164226_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810wh</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<Barcode>5203642118101</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>740555102</ID>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Γκρι E-1810gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/44876571/Sidirela-E-1810-2-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Gri.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/044876/44876571/fixedratio_20230801183758_sidirela_e_1810_2_plastiko_set_pigal_kai_kalathaki_mpaniou_soft_close_7lt_gri.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810gr</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<Barcode>5203642118101</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>740555103</ID>
+		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Μαύρο E-1810bl</Name>
+		<Product_Link>https://www.skroutz.gr/s/52554701/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/052554/52554701/fixedratio_20240418183343_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1810bl</MPN>
+		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
+		<Barcode>5203642118101</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>740555206</ID>
+		<Name>Sidirela Πλαστικός Κάδος Μπάνιου 6lt Silver-Black E-1941</Name>
+		<Product_Link>https://www.skroutz.gr/s/15886990/E-1941-Plastiko-Kalathaki-Mpaniou-5lt-Black-Silver.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/015886/15886990/fixedratio_20220809174026_e_1941_plastiko_kalathaki_mpaniou_5lt_black_silver.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.34</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1941</MPN>
+		<Description>Το καλαθάκι μπάνιου της Sidirela είναι η ιδανική λύση για τον οργανωμένο χώρο σας. Με την κομψή και μοντέρνα εμφάνιση του σε μαύρο και ασημί χρώμα, προσφέρει μια διακριτική αλλά κομψή πινελιά στη διακόσμηση του μπάνιου σας.      Αυτό το καλάθι είναι κατασκευασμένο από ανθεκτικό πλαστικό, εξασφαλίζοντας μακροχρόνια χρήση και ευκολία στην καθαριότητα.     Είναι επιδαπέδιο, πράγμα που το καθιστά ιδανικό για οποιοδήποτε μπάνιο και βοηθά στη διατήρηση της τάξης.     Έχει χωρητικότητα 5 lt, παρέχοντας αρκετό χώρο για τα απορρίμματα ή τα αξεσουάρ μπάνιου σας.  Με την απλή και πρακτική σχεδίαση, το καλαθάκι αυτό θα γίνει απαραίτητο στη ρουτίνα σας, κάνοντάς την πιο οργανωμένη και κομψή.</Description>
+		<Barcode>5203642119412</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>740555291</ID>
+		<Name>Sidirela Πλαστικό Πιγκάλ Μπάνιου Silver-Black E-1942</Name>
+		<Product_Link>https://www.skroutz.gr/s/14829720/E-1942-Plastiko-Pigal-Mpaniou-Black-Silver.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/051273/51273780/fixedratio_20220809174024_59ca5c61.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.75</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1942</MPN>
+		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
+		<Barcode>5203642119429</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>74111</ID>
@@ -14191,7 +14242,7 @@
 		<Quantity>39</Quantity>
 	</product>
 	<product>
-		<ID>760100101</ID>
+		<ID>76001</ID>
 		<Name>Softline Fresher Σακούλες Απορριμάτων με Κορδόνι 52x75cm 10τμχ Μαύρες</Name>
 		<Product_Link>https://www.skroutz.gr/s/22822634/Softline-Fresher-Sakoules-Aporrimaton-me-Kordoni-52x75cm-C39368-10tmch-Mayres.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/022822/22822634/20220302113550_softline_fresher_sakoules_aporrimaton_me_kordoni_se_mayro_chroma_52x75cm_10tmch.jpeg</Image_Link>
@@ -14205,10 +14256,10 @@
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
 		<Barcode>5200128643089</Barcode>
-		<Quantity>1531</Quantity>
+		<Quantity>1540</Quantity>
 	</product>
 	<product>
-		<ID>760100103</ID>
+		<ID>76003</ID>
 		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ</Name>
 		<Product_Link>https://viosarp.gr/el/product/sakoyla-aporrimmaton-me-kordoni-me-aroma-lebanta-10-tmh-52x75cm-viosarp</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B11-600x338.jpg</Image_Link>
@@ -14222,10 +14273,10 @@
 		<MPN>0966</MPN>
 		<Description>Με αρωματική λεβάντα προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Η αρωματική λεβάντα προσθέτει ένα ευχάριστο άρωμα και βοηθά στην εξουδετέρωση οσμών από τα απορρίμματα. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001369</Barcode>
-		<Quantity>427</Quantity>
+		<Quantity>431</Quantity>
 	</product>
 	<product>
-		<ID>760100104</ID>
+		<ID>76004</ID>
 		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 52x75cm 10τμχ</Name>
 		<Product_Link>https://petsalis.gr/product/%cf%83%ce%b1%ce%ba%ce%bf%cf%85%ce%bb%ce%b1-%ce%b1%cf%80%ce%bf%cf%81%cf%81%ce%b9%ce%bc%ce%b1%cf%84%cf%89%ce%bd-%ce%b1%cf%81%cf%89%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7-52%cf%8775cm-%ce%bc%ce%b5-%ce%ba/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B12-600x338.jpg</Image_Link>
@@ -14239,10 +14290,10 @@
 		<MPN>0162</MPN>
 		<Description>Με αρωματικό Lime προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Το αρωματικό Lime προσθέτει ένα δροσερό και φρουτώδες άρωμα, δημιουργώντας ένα ευχάριστο περιβάλλον. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001536</Barcode>
-		<Quantity>577</Quantity>
+		<Quantity>578</Quantity>
 	</product>
 	<product>
-		<ID>760100111</ID>
+		<ID>76011</ID>
 		<Name>Softline Fresher Σακούλες Απορριμάτων με Κορδόνι 70x95cm 10τμχ Μαύρες</Name>
 		<Product_Link>https://www.skroutz.gr/s/22822603/Softline-Fresher-Sakoules-Aporrimaton-me-Kordoni-70x95cm-C39371-10tmch-Mayres.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/022822/22822603/xlarge_20200504142539_softline_sakoules_aporrimmaton_gigas_me_kordoni_70by95_mayro_10tmch.jpeg</Image_Link>
@@ -14256,10 +14307,10 @@
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<Barcode>5200128643119</Barcode>
-		<Quantity>1301</Quantity>
+		<Quantity>1313</Quantity>
 	</product>
 	<product>
-		<ID>760100112</ID>
+		<ID>76012</ID>
 		<Name>Βανίλια Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<Product_Link>https://petsalis.gr/product/sakoula-aporrimaton-rolo/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2023/12/VANILLA-600x600.jpg</Image_Link>
@@ -14273,10 +14324,10 @@
 		<MPN>0114</MPN>
 		<Description>Με αρωματική βανίλια προσφέρουν έναν εύκολο και ευχάριστο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και δυσάρεστες οσμές. Το αρωματικό βανίλια προσθέτει ένα ζεστό και γλυκό άρωμα, δημιουργώντας ένα ευχάριστο περιβάλλον. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001376</Barcode>
-		<Quantity>109</Quantity>
+		<Quantity>111</Quantity>
 	</product>
 	<product>
-		<ID>760100113</ID>
+		<ID>76013</ID>
 		<Name>Λεβάντα Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<Product_Link>https://petsalis.gr/product/%cf%83%ce%b1%ce%ba%ce%bf%cf%85%ce%bb%ce%b1-%ce%b1%cf%80%ce%bf%cf%81%cf%81%ce%b9%ce%bc%ce%b1%cf%84%cf%89%ce%bd-%ce%b1%cf%81%cf%89%ce%bc%ce%b1%cf%84%ce%b9%ce%ba%ce%b7-70%cf%8790cm/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B13-600x338.jpg</Image_Link>
@@ -14290,10 +14341,10 @@
 		<MPN>0373</MPN>
 		<Description>Με αρωματική λεβάντα προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Η αρωματική λεβάντα προσθέτει ένα ευχάριστο άρωμα και βοηθά στην εξουδετέρωση οσμών από τα απορρίμματα. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001383</Barcode>
-		<Quantity>507</Quantity>
+		<Quantity>510</Quantity>
 	</product>
 	<product>
-		<ID>760100114</ID>
+		<ID>76014</ID>
 		<Name>Lime Αρωματικές Σακούλες Απορριμάτων για τον Κήπο με Κορδόνι 70x90cm 10τμχ</Name>
 		<Product_Link>https://exoplismosltd.gr/shop-2/kathariotita/gantia-sakoules-aporrimaton/sakoules-rola/%CF%83%CE%B1%CE%BA%CE%BF%CF%8D%CE%BB%CE%B5%CF%82-%CE%B1%CF%80%CE%BF%CF%81%CF%81%CE%B9%CE%BC%CE%AC%CF%84%CF%89%CE%BD-70x90cm-%CE%B2%CE%B1%CF%81%CE%AD%CF%89%CF%82-%CF%84%CF%8D%CF%80%CE%BF%CF%85-%CF%83/</Product_Link>
 		<Image_Link>https://petsalis.gr/wp-content/uploads/2024/03/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B14-600x338.jpg</Image_Link>
@@ -14310,7 +14361,7 @@
 		<Quantity>394</Quantity>
 	</product>
 	<product>
-		<ID>760100121</ID>
+		<ID>76021</ID>
 		<Name>Softline Fresher Σακούλες Απορριμάτων για τον Κήπο Χωρητικότητας 140lt 80x110cm 10τμχ Μαύρες</Name>
 		<Product_Link>https://www.skroutz.gr/s/48773920/Softline-Aromatikes-Sakoules-Aporrimaton-me-Kordoni-80x110cm-330427-10tmch-Mayres.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/048773/48773920/xlarge_20231213130311_softline_aromatikes_sakoules_aporrimaton_me_kordoni_80x110cm_330427_10tmch_mayres.jpeg</Image_Link>
@@ -14324,27 +14375,10 @@
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<Barcode>5200128643140</Barcode>
-		<Quantity>949</Quantity>
+		<Quantity>976</Quantity>
 	</product>
 	<product>
-		<ID>760100151</ID>
-		<Name>Θαλασσινός Σακούλες Απορριμάτων WC - Γραφείου 45x55cm 20τμχ Διάφανες</Name>
-		<Product_Link>https://www.skroutz.gr/s/35377459/THalassinos-Sakoules-Aporrimaton-45x55cm-103106-20tmch-Diafanes.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/035377/35377459/xlarge_20220412122147_thalassinos_sakoules_aporrimaton_se_diafano_chroma_45x55cm_103106_20tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.22</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
-		<Manufacturer>Θαλασσινός</Manufacturer>
-		<MPN>1781</MPN>
-		<Description>Σακούλες απορριμμάτων για καλαθάκια μπάνιου, γραφείου και μικρούς κάδους.  Εξαιρετικής αντοχής.</Description>
-		<Barcode>5202054512316</Barcode>
-		<Quantity>9922</Quantity>
-	</product>
-	<product>
-		<ID>760100152</ID>
+		<ID>76031</ID>
 		<Name>Softline Fresher Αρωματικές Σακούλες Απορριμάτων 50x50cm 30τμχ Λευκές</Name>
 		<Product_Link>https://beautyfree.gr/el/diafora-gia-to-spiti/3048-softline-50x50-30-5200128640378.html</Product_Link>
 		<Image_Link>https://beautyfree.gr/32902-large_default/softline-50x50-30.jpg</Image_Link>
@@ -14358,7 +14392,24 @@
 		<MPN>0891</MPN>
 		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
 		<Barcode>5200128640378</Barcode>
-		<Quantity>570</Quantity>
+		<Quantity>680</Quantity>
+	</product>
+	<product>
+		<ID>7603101</ID>
+		<Name>Θαλασσινός Σακούλες Απορριμάτων WC - Γραφείου 45x55cm 20τμχ Διάφανες</Name>
+		<Product_Link>https://www.skroutz.gr/s/35377459/THalassinos-Sakoules-Aporrimaton-45x55cm-103106-20tmch-Diafanes.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/035377/35377459/xlarge_20220412122147_thalassinos_sakoules_aporrimaton_se_diafano_chroma_45x55cm_103106_20tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.22</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
+		<Manufacturer>Θαλασσινός</Manufacturer>
+		<MPN>1781</MPN>
+		<Description>Σακούλες απορριμμάτων για καλαθάκια μπάνιου, γραφείου και μικρούς κάδους.  Εξαιρετικής αντοχής.</Description>
+		<Barcode>5202054512316</Barcode>
+		<Quantity>9927</Quantity>
 	</product>
 	<product>
 		<ID>76201</ID>
@@ -15671,6 +15722,23 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>77001151</ID>
+		<Name>Sidirela Μεταλλικό Φαρμακείο Πρώτων Βοηθειών Τοίχου με Κλειδαριά Ασημί 30x30cm Ε-1355</Name>
+		<Product_Link>https://www.skroutz.gr/s/19381336/Sidirela-Metalliko-Farmakeio-Proton-Voitheion-Toichou-me-Kleidaria-Asimi-30x30cm.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/019381/19381336/xlarge_20200821092434_afoi_sidiropouloi_farmakeio_inox_30_x_30_x_13cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.24</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά Πρώτες Βοήθειες&gt;Κουτιά Πρώτων Βοηθειών</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1355</MPN>
+		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.      Διαστάσεις: 30cm x 30cm</Description>
+		<Barcode>5203642113557</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>770012101</ID>
 		<Name>Μεταλλική Παπουτσοθήκη με 3 Ράφια Μαύρο / Φυσικό 63x30x63cm E-3294</Name>
 		<Product_Link>https://www.skroutz.gr/s/21477441/Metalliki-Papoutsothiki-me-3-Rafia-Mayro-Fysiko-E-3294-63x30x63cm.html</Product_Link>
@@ -15720,6 +15788,23 @@
 		<Description>Η παπουτσοθήκη της εταιρείας Sidirela διαθέτει 4 ράφια για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι κατασκευασμένη από MDF (ινοσανίδα), ένα παράγωγο ξύλου από κομμάτια, ίνες και υπολείμματα ξύλου. Τέλος, το προϊόν παραδίδεται αμοντάριστο, σε εργοστασιακή συσκευασία και με αναλυτικό οδηγό συναρμολόγησης. Συντήρηση  Μπορείτε να σκουπίσετε όλες τις επιφάνειες με ένα υγρό πανί και αυτό είναι αρκετό για να δείξει την παουτσοθήκη σας και πάλι σαν καινούριο. Σε επίμονους λεκέδες μπορείτε να χρησιμοποιήσετε ένα ήπιο καθαριστικό.</Description>
 		<Barcode>5203642102063</Barcode>
 		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>770012151</ID>
+		<Name>Ντουλάπι Μπάνιου Ξύλινο Βamboo Μ55xΒ20xΥ83cm σε Φυσικό Χρώμα Ξύλου E-4243</Name>
+		<Product_Link>https://www.skroutz.gr/s/57608062/Sidirela-E-4243-Ntoulapi-Mpaniou-M55xV20xY83cm-Fysiko-Xylo.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/057608/57608062/xlarge_20241122145223_sidirela_e_4243_ntoulapi_mpaniou_m55xv20xy83cm_fysiko_xylo.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>39.64</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Μπάνιου&gt; Ντουλάπια Μπάνιου</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-4243</MPN>
+		<Description>Βασικά χαρακτηριστικά:      με 2 ράφια μοντέρνας αισθητικής     3 επίπεδα αποθήκευσης     2 πόρτες     Διαστάσεις: 56 x 20 x 81 cm</Description>
+		<Barcode>5203642142434</Barcode>
+		<Quantity>11</Quantity>
 	</product>
 	<product>
 		<ID>770012201</ID>
@@ -15790,125 +15875,6 @@
 		<Quantity>4</Quantity>
 	</product>
 	<product>
-		<ID>771500501</ID>
-		<Name>Ντουλάπι Μπάνιου Ξύλινο Βamboo Μ55xΒ20xΥ83cm σε Φυσικό Χρώμα Ξύλου E-4243</Name>
-		<Product_Link>https://www.skroutz.gr/s/57608062/Sidirela-E-4243-Ntoulapi-Mpaniou-M55xV20xY83cm-Fysiko-Xylo.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/057608/57608062/xlarge_20241122145223_sidirela_e_4243_ntoulapi_mpaniou_m55xv20xy83cm_fysiko_xylo.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>39.64</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Μπάνιου&gt; Ντουλάπια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-4243</MPN>
-		<Description>Βασικά χαρακτηριστικά:      με 2 ράφια μοντέρνας αισθητικής     3 επίπεδα αποθήκευσης     2 πόρτες     Διαστάσεις: 56 x 20 x 81 cm</Description>
-		<Barcode>5203642142434</Barcode>
-		<Quantity>11</Quantity>
-	</product>
-	<product>
-		<ID>771500511</ID>
-		<Name>Sidirela Μεταλλικό Φαρμακείο Πρώτων Βοηθειών Τοίχου με Κλειδαριά Ασημί 30x30cm Ε-1355</Name>
-		<Product_Link>https://www.skroutz.gr/s/19381336/Sidirela-Metalliko-Farmakeio-Proton-Voitheion-Toichou-me-Kleidaria-Asimi-30x30cm.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/019381/19381336/xlarge_20200821092434_afoi_sidiropouloi_farmakeio_inox_30_x_30_x_13cm.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>12.24</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά Πρώτες Βοήθειες&gt;Κουτιά Πρώτων Βοηθειών</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>Ε-1355</MPN>
-		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.      Διαστάσεις: 30cm x 30cm</Description>
-		<Barcode>5203642113557</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7715006101</ID>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Λευκό E-1810wh</Name>
-		<Product_Link>https://www.skroutz.gr/s/52554708/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Leyko.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/052554/52554708/fixedratio_20250305164226_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.33</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810wh</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Barcode>5203642118101</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7715006102</ID>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Γκρι E-1810gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/44876571/Sidirela-E-1810-2-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Gri.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/044876/44876571/fixedratio_20230801183758_sidirela_e_1810_2_plastiko_set_pigal_kai_kalathaki_mpaniou_soft_close_7lt_gri.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.33</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810gr</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Barcode>5203642118101</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7715006103</ID>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Μαύρο E-1810bl</Name>
-		<Product_Link>https://www.skroutz.gr/s/52554701/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Mayro.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/052554/52554701/fixedratio_20240418183343_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou_mayro.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.33</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810bl</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Barcode>5203642118101</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7715006151</ID>
-		<Name>Sidirela Πλαστικός Κάδος Μπάνιου 6lt Silver-Black E-1941</Name>
-		<Product_Link>https://www.skroutz.gr/s/15886990/E-1941-Plastiko-Kalathaki-Mpaniou-5lt-Black-Silver.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/015886/15886990/fixedratio_20220809174026_e_1941_plastiko_kalathaki_mpaniou_5lt_black_silver.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>8.34</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1941</MPN>
-		<Description>Το καλαθάκι μπάνιου της Sidirela είναι η ιδανική λύση για τον οργανωμένο χώρο σας. Με την κομψή και μοντέρνα εμφάνιση του σε μαύρο και ασημί χρώμα, προσφέρει μια διακριτική αλλά κομψή πινελιά στη διακόσμηση του μπάνιου σας.      Αυτό το καλάθι είναι κατασκευασμένο από ανθεκτικό πλαστικό, εξασφαλίζοντας μακροχρόνια χρήση και ευκολία στην καθαριότητα.     Είναι επιδαπέδιο, πράγμα που το καθιστά ιδανικό για οποιοδήποτε μπάνιο και βοηθά στη διατήρηση της τάξης.     Έχει χωρητικότητα 5 lt, παρέχοντας αρκετό χώρο για τα απορρίμματα ή τα αξεσουάρ μπάνιου σας.  Με την απλή και πρακτική σχεδίαση, το καλαθάκι αυτό θα γίνει απαραίτητο στη ρουτίνα σας, κάνοντάς την πιο οργανωμένη και κομψή.</Description>
-		<Barcode>5203642119412</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7715006181</ID>
-		<Name>Sidirela Πλαστικό Πιγκάλ Μπάνιου Silver-Black E-1942</Name>
-		<Product_Link>https://www.skroutz.gr/s/14829720/E-1942-Plastiko-Pigal-Mpaniou-Black-Silver.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_images/051273/51273780/fixedratio_20220809174024_59ca5c61.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.75</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1942</MPN>
-		<Description>Πιγκάλ πλαστικό με βούρτσα σε απομίμηση inox για να αποφεύγουμε τις ανεπιθύμητες σκουριές. Εύκολο καθάρισμα με μία κίνηση.</Description>
-		<Barcode>5203642119429</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>77002</ID>
 		<Name>Flamingo Πετσέτα Κουζίνας 65x45cm 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/41951652/Flamingo-Petseta-Kouzinas-65x45cm-5206952011223-1-2tmch.html</Product_Link>
@@ -15926,7 +15892,7 @@
 		<Quantity>367</Quantity>
 	</product>
 	<product>
-		<ID>772100101</ID>
+		<ID>77002101</ID>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα μονό αδιάβροχο με φάσα 100Χ200+30cm E-3441</Name>
 		<Product_Link>https://www.skroutz.gr/s/28417782/Sidirela-Prostateytiko-Epistroma-Mono-Adiavrocho-me-Fasa-Prasino-E-3441-100x200-30ek.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/028417/28417782/xlarge_20210809125531_sidi_home_epistroma_mono_adiavrocho_100x200cm_e_3441.jpeg</Image_Link>
@@ -15940,10 +15906,10 @@
 		<MPN>E-3441</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134415</Barcode>
-		<Quantity>76</Quantity>
+		<Quantity>81</Quantity>
 	</product>
 	<product>
-		<ID>772100102</ID>
+		<ID>77002102</ID>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα ημίδιπλο αδιάβροχο με φάσα 120Χ200+30cm E-3442</Name>
 		<Product_Link>https://www.skroutz.gr/s/28417838/Sidirela-Prostateytiko-Epistroma-Imidiplo-Adiavrocho-me-Fasa-Prasino-E-3442-120x200-30ek.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/028417/28417838/xlarge_20210809125531_sidi_home_epistroma_imidiplo_adiavrocho_120x200cm_e_3442.jpeg</Image_Link>
@@ -15960,7 +15926,7 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>772100103</ID>
+		<ID>77002103</ID>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα υπέρδιπλο αδιάβροχο με φάσα 160Χ200+30cm E-3443</Name>
 		<Product_Link>https://www.skroutz.gr/s/28417802/Sidirela-Prostateytiko-Epistroma-Yperdiplo-Adiavrocho-me-Fasa-Prasino-E-3443-160x200-30ek.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/028417/28417802/xlarge_20210420131649_sidi_home_epistroma_diplo_adiavrocho_160x200cm_e_3443.jpeg</Image_Link>
@@ -15977,7 +15943,7 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>772100104</ID>
+		<ID>77002104</ID>
 		<Name>SIDIRELA Προστατευτικό επίστρωμα KING SIZE αδιάβροχο με φάσα 180Χ200+30cm E-3444</Name>
 		<Product_Link>https://www.skroutz.gr/s/28417745/Sidirela-Prostateytiko-Epistroma-King-Size-Adiavrocho-me-Fasa-Prasino-E-3444-180x200-30ek.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/028417/28417745/xlarge_20210420131600_sidi_home_epistroma_yperdiplo_adiavrocho_180x200cm_e_3444.jpeg</Image_Link>
@@ -15991,7 +15957,7 @@
 		<MPN>E-3444</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134446</Barcode>
-		<Quantity>53</Quantity>
+		<Quantity>55</Quantity>
 	</product>
 	<product>
 		<ID>77300101</ID>
@@ -18212,7 +18178,7 @@
 		<MPN>EFL001</MPN>
 		<Description>Ο πλαστικοποιητής Infinity της Esperanza είναι ιδανικός για την προστασία σημαντικών εγγράφων ή φωτογραφιών εύκολα και γρήγορα.  Είναι κατασκευασμένος από πλαστικό υψηλής ποιότητας, υποστηρίζει λειτουργίες θερμής και ψυχρής πλαστικοποίησης και προστασία από υπερθέρμανση.  Για έγγραφα μεγέθους έως Α4 με ταχύτητα πλαστικοποίησης 250mm/λεπτό και μέγιστο χρόνο προθέρμανσης περίπου 5 λεπτά. Τεχνικά Χαρακτηριστικά:      Ισχύς: 265W     Τροφοδοσία: 220-240V     Συχνότητα: 50Hz     Συμβατό πάχος φύλλων: 80-125 microns     Μέγιστη διάσταση φύλλου: 210 x 297 mm (A4)     Χρόνος προθέρμανσης:: περίπου 5 λεπτά     Ταχύτητα πλαστικοποίησης: 250mm/λεπτό     Μέγιστο πλάτος φύλλου: 240mm     Μέγιστο πάχος φύλλου: 0.6mm     Αριθμός ρολών: 2     Υλικό: πλαστικό (ABS)     Μήκος καλωδίου: περίπου 154 cm     Διαστάσεις: 345 x 140 x 65 mm     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
 		<Barcode>5901299932025</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>79320102</ID>
@@ -18280,7 +18246,7 @@
 		<MPN>LP04125</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης Typotrast για την προστασία των εγγράφων σας. Κατάλληλο για όλες τις μηχανές πλαστικοποίησης.      Μέγεθος A4 (216x303mm)     125 microns     100 τεμάχια     Διάφανο αποτέλεσμα     Εύκαμπτα     Εγγράψιμα     Στρογγυλεμένες γωνίες     Aδιάβροχα</Description>
 		<Barcode>5207146013931</Barcode>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 	</product>
 	<product>
 		<ID>7932010242</ID>
@@ -20664,6 +20630,23 @@
 		<Description>Το μίξερ χειρός Gruppe Designed in Greece PDH007 ξεχωρίζει για την ομορφιά και την κομψότητά του. Είναι ιδιαίτερα εργονομικό και παράλληλα λεπτό και κομψό. Βασική διαφορά του είναι ο μεταλλικός κονέκτορας που του δίνει μεγαλύτερη αντοχή.</Description>
 		<Barcode>5206684006122</Barcode>
 		<Quantity>12</Quantity>
+	</product>
+	<product>
+		<ID>7991111</ID>
+		<Name>Gruppe PDH 330 Φραπεδιέρα Επιτραπέζια 100W Μαύρη</Name>
+		<Product_Link>https://www.skroutz.gr/s/15449985/Gruppe-PDH-330-Frapediera-Epitrapezia-100W-Mayri.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/015449/15449985/20210608122400_gruppe_pdh_330_black.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.28</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
+		<Manufacturer>GRUPPE</Manufacturer>
+		<MPN>1695</MPN>
+		<Description>Το μίξερ ροφημάτων Gruppe Designed in Greece PDH330 ξεχωρίζει για την ομορφιά και την κομψότητά του, έχει απλό και αφαιρετικό και παράλληλα λεπτό και κομψό.</Description>
+		<Barcode>5206684005989</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799111101</ID>
