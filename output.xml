@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-19 13:05</created_at>
+	<created_at>2025-05-19 13:24</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -826,7 +826,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>550</Quantity>
+		<Quantity>520</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -913,7 +913,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>411</Quantity>
+		<Quantity>381</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -931,7 +931,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214799</Barcode>
-		<Quantity>198</Quantity>
+		<Quantity>178</Quantity>
 	</product>
 	<product>
 		<ID>1202186-Τ</ID>
@@ -1632,7 +1632,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703172</Barcode>
-		<Quantity>314</Quantity>
+		<Quantity>309</Quantity>
 	</product>
 	<product>
 		<ID>14022</ID>
@@ -2243,7 +2243,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
-		<Quantity>356</Quantity>
+		<Quantity>351</Quantity>
 	</product>
 	<product>
 		<ID>18101</ID>
@@ -5266,7 +5266,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>3448</Quantity>
+		<Quantity>3088</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5284,7 +5284,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064011550</Barcode>
-		<Quantity>517</Quantity>
+		<Quantity>469</Quantity>
 	</product>
 	<product>
 		<ID>52154</ID>
@@ -5463,7 +5463,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<Barcode>520237120064</Barcode>
-		<Quantity>150</Quantity>
+		<Quantity>270</Quantity>
 	</product>
 	<product>
 		<ID>52352</ID>
@@ -5481,7 +5481,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5202037130063</Barcode>
-		<Quantity>145</Quantity>
+		<Quantity>265</Quantity>
 	</product>
 	<product>
 		<ID>52401</ID>
@@ -7915,7 +7915,7 @@
 		<MPN>1535001</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Ανταλλακτικές Κεφαλές     Με 5 Λεπίδες     Με Λεπίδα Ακριβείας στο Πίσω Μέρος     Με Λιπαντική Ταινία που Ξεθωριάζει     Για Απαλό Ξύρισμα</Description>
 		<Barcode>8700216331579</Barcode>
-		<Quantity>225</Quantity>
+		<Quantity>222</Quantity>
 	</product>
 	<product>
 		<ID>62051</ID>
@@ -8102,7 +8102,7 @@
 		<MPN>1054</MPN>
 		<Description>Ανδρικό αποσμητικό σε roll-on με ιόντα αργυρού για έντονη προστασία και διακριτικό άρωμα που προσφέρει έως και 48 ώρες προστασίας με μια χρήση.</Description>
 		<Barcode>4005900389077</Barcode>
-		<Quantity>272</Quantity>
+		<Quantity>262</Quantity>
 	</product>
 	<product>
 		<ID>63011</ID>
@@ -16602,7 +16602,7 @@
 		<MPN>E-3516</MPN>
 		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home έχει επιφάνεια από κοκοφοίνικα και περίμετρο από αντιολισθητικό υλικό με εμφάνιση οξυδωμένου σιδήρου.</Description>
 		<Barcode>5203642135160</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>77300121</ID>
@@ -21343,7 +21343,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.7 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<Barcode>5901299949849</Barcode>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 	</product>
 	<product>
 		<ID>799171102</ID>
