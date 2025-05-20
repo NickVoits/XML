@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-20 16:05</created_at>
+	<created_at>2025-05-20 16:45</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -718,7 +718,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171331237</Barcode>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -790,7 +790,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλασική συνταγή της ΕΨΑ για Iced Drink με τσάι Λεμόνι προσφέρει απόλυτη δροσιά με υπέροχη φυσική γεύση, γιατί περιέχει πραγματικό χυμό λεμονιού.</Description>
 		<Barcode>5201171300073</Barcode>
-		<Quantity>62</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>11542</ID>
@@ -8476,7 +8476,7 @@
 		<MPN>1069</MPN>
 		<Description>Η Πούδρα Johnson's Baby απορροφά την υπερβολική υγρασία και αφήνει την επιδερμίδα του μωρού στεγνή, χαρίζοντας μια αίσθηση απαλότητας όλη μέρα. Με απλό, κλασικό άρωμα, η βρεφική αυτή πούδρα απλώνεται εύκολα στην επιδερμίδα του μωρού και την αφήνει απαλή.</Description>
 		<Barcode>8850007011149</Barcode>
-		<Quantity>23</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>64041</ID>
@@ -21349,6 +21349,23 @@
 		<Quantity>10</Quantity>
 	</product>
 	<product>
+		<ID>799130301</ID>
+		<Name>Esperanza Φριτέζα Falafel Black/Inox EKG010</Name>
+		<Product_Link>https://www.skroutz.gr/s/26264914/Esperanza-EKG010-Friteza-3lt-Asimi.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/026264/26264914/xlarge_20211110113202_esperanza_ekg010_friteza_ladiou_me_apospomeno_kado_3lt.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>32.34</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Φριτέζες Λαδιού</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EKG010</MPN>
+		<Description>Η φριτέζα, από την εταιρία Esperanza, διαθέτει ισχύ 2000 W, χωρητικότητα 3 λίτρα και ρυθμιζόμενο θερμοστάτη που σας επιτρέπει να ρυθμίσετε τη σωστή θερμοκρασία για το τηγάνισμα των αγαπημένων σας πιάτων. Έχει ευρύχωρο καλάθι με μη θερμαινόμενη λαβή, αντιολισθητικά πόδια και καλώδιο μήκους 90 cm. Τεχνικά Χαρακτηριστικά      Χωρητικότητα: 3 λίτρα     Αντιολησθητικά πόδια     Συμπαγής ανοξείδωτη κατασκευή     Θερμοστάτης για έλεγχο θερμοκρασίας     Ευρύχωρο καλάθι με μη θερμαινόμενη λαβή     Μήκος καλωδίου: 90 cm     Τροφοδοσία: 220 - 240 V / 50-60 Hz     Ισχύς: 2000W     Βάρος: 2.3 κιλά</Description>
+		<Barcode>5901299954416</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>79917011</ID>
 		<Name>Sidirela Ηλεκτρικό Μπρίκι 800W με Χωρητικότητα 500ml Μαύρο E-1189</Name>
 		<Product_Link>https://www.skroutz.gr/s/40629144/Sidirela-E-1189-Ilektriko-Mpriki-800W-me-CHoritikotita-500ml-Mayro.html</Product_Link>
@@ -24542,24 +24559,6 @@
 		<Quantity>69</Quantity>
 	</product>
 	<product>
-		<ID>81001</ID>
-		<Name>ΟΡΥΖΟΜΥΛΟΙ ΑΞΙΟΥ Ρύζι Καρολίνα 1 κιλ</Name>
-		<Product_Link>https://www.skroutz.gr/s/23705296/Axios-Ryzi-Karolina-1kg.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/023705/23705296/20220302144323_axios_ryzi_axios_karolina_1000gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.91021528</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
-		<Manufacturer>ΑΞΙΟΣ</Manufacturer>
-		<MPN>0791</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Ρύζι καρολίνα από την εταιρεία Αξιός, πλούσιο σε πρωτεΐνες και βιταμίνες για θρεπτικά και νόστιμα πιάτα. Ιδανικό για σπανακόρυζο και πιλάφι.</Description>
-		<Barcode>5204575030119</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>81011</ID>
 		<Name>Ελληνικό Ρύζι Χαλάστρας Καρολίνα Α' Ποιότητα 500 gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/36423068/Agrotikos-Synetairismos-CHalastras-Ryzi-Karolina-500gr.html</Product_Link>
@@ -24567,7 +24566,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.9004870559999999</Price>
+		<Price>0.9246072449999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
@@ -24585,7 +24584,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.8302462559999999</Price>
+		<Price>0.852484995</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
@@ -24603,7 +24602,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.6897646559999999</Price>
+		<Price>0.708240495</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
@@ -24621,7 +24620,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.7600054560000001</Price>
+		<Price>0.7803627450000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>ΧΑΛΑΣΤΡΑΣ</Manufacturer>
@@ -24639,7 +24638,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.076089056</Price>
+		<Price>1.2405027</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>CURTIRISO</Manufacturer>
@@ -24657,7 +24656,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.758829632</Price>
+		<Price>2.012210775</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ρύζι</Category_Path>
 		<Manufacturer>CURTIRISO</Manufacturer>
@@ -25727,7 +25726,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Τονοσαλάτα της εταιρίας Rio Mare, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Σημαντική πηγή πρωτεΐνης και ωμέγα 3 λιπαρών, η τονοσαλάτα είναι ένα έτοιμο γεύμα που διατηρεί τη φρεσκάδα, τη γεύση και τις θρεπτικές του ιδιότητές.</Description>
 		<Barcode>8004030750036</Barcode>
-		<Quantity>101</Quantity>
+		<Quantity>100</Quantity>
 	</product>
 	<product>
 		<ID>85226</ID>
