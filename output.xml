@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-20 11:05</created_at>
+	<created_at>2025-05-20 11:21</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -484,7 +484,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>121</Quantity>
+		<Quantity>120</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -2816,7 +2816,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>721</Quantity>
+		<Quantity>715</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -10825,7 +10825,7 @@
 		<Manufacturer>ENDLESS</Manufacturer>
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
-		<Barcode>5202995010537</Barcode>
+		<Barcode>5202995006349</Barcode>
 		<Quantity>1126</Quantity>
 	</product>
 	<product>
@@ -17045,7 +17045,7 @@
 		<MPN>0773</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<Barcode>5202054467555</Barcode>
-		<Quantity>250</Quantity>
+		<Quantity>242</Quantity>
 	</product>
 	<product>
 		<ID>78105</ID>
@@ -17079,7 +17079,7 @@
 		<MPN>0257</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 480ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<Barcode>5200425303174</Barcode>
-		<Quantity>79</Quantity>
+		<Quantity>78</Quantity>
 	</product>
 	<product>
 		<ID>78108</ID>
@@ -17130,7 +17130,7 @@
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
 		<Barcode>15202054457515</Barcode>
-		<Quantity>93</Quantity>
+		<Quantity>91</Quantity>
 	</product>
 	<product>
 		<ID>78111</ID>
@@ -17147,7 +17147,7 @@
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>3800206611195</Barcode>
-		<Quantity>751</Quantity>
+		<Quantity>749</Quantity>
 	</product>
 	<product>
 		<ID>78119</ID>
@@ -17164,7 +17164,7 @@
 		<MPN>0332</MPN>
 		<Description>• Καπάκι πομπέ 504-505• Χρώμα: Διάφανο• Διατίθεται σε συσκευασία 100 τεμαχίων• Συμβατό με τα ποτήρια: OC-12.00.514, OC-12.00.518</Description>
 		<Barcode>19088104065</Barcode>
-		<Quantity>377</Quantity>
+		<Quantity>376</Quantity>
 	</product>
 	<product>
 		<ID>78121</ID>
@@ -18755,7 +18755,7 @@
 		<MPN>LP04125</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης Typotrast για την προστασία των εγγράφων σας. Κατάλληλο για όλες τις μηχανές πλαστικοποίησης.      Μέγεθος A4 (216x303mm)     125 microns     100 τεμάχια     Διάφανο αποτέλεσμα     Εύκαμπτα     Εγγράψιμα     Στρογγυλεμένες γωνίες     Aδιάβροχα</Description>
 		<Barcode>5207146013931</Barcode>
-		<Quantity>41</Quantity>
+		<Quantity>38</Quantity>
 	</product>
 	<product>
 		<ID>7932010242</ID>
@@ -21574,7 +21574,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.09</Price>
+		<Price>21.71</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Ηλεκτρικές Εντομοπαγίδες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -24164,6 +24164,40 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>799650511</ID>
+		<Name>XO Ηχείο Bluetooth 5W με Ραδιόφωνο Μαύρο F56</Name>
+		<Product_Link>https://www.skroutz.gr/s/55695236/XO-F56-16-004-0054-Icheio-Bluetooth-5W-me-Radiofono-Mayro.html#description</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/055695/55695236/xlarge_20240902113946_xo_f56_16_004_0054_icheio_bluetooth_5w_me_radiofono_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>10.19</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Ηχεία &gt; Φορητά Ηχεία Bluetooth</Category_Path>
+		<Manufacturer>ΧΟ</Manufacturer>
+		<MPN>F56-59085</MPN>
+		<Description>Το ιδανικό φορητό ηχείο για υπαίθριες δραστηριότητες, ανθεκτικό στην υγρασία και τη σκόνη, που προσφέρει ποιοτική μουσική εμπειρία, χωρίς παρεμβολές ή παραμόρφωση ήχου και χωρίς σύνδεση καλωδίων συνδεδεμένων με άλλες συσκευές. Εξοπλισμένο με ηχείο ισχύος 5W, σύνδεση Bluetooth και ενσωματωμένη μπαταρία, αναπαράγει δυνατό και καθαρό ήχο, κάνοντας τις υπαίθριες περιπέτειες πιο απολαυστικές. Χαρακτηριστικά      Τύπος προϊόντος: Ηχείο Bluetooth     Συμβατή μάρκα: Bluetooth     Υποδοχή: 1 USB-C     Τεχνολογία: V5.3 BT.     Λειτουργίες: Εμβέλεια 10m     Ραδιόφωνο FM: Κάρτα micro TF</Description>
+		<Barcode>6920680859085</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799650512</ID>
+		<Name>XO Ηχείο Bluetooth 5W με Ραδιόφωνο Μπλε F56</Name>
+		<Product_Link>https://www.skroutz.gr/s/55695217/XO-F56-16-004-0056-Icheio-Bluetooth-5W-me-Radiofono-Mple.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/055695/55695217/xlarge_20240902113854_xo_f56_16_004_0056_icheio_bluetooth_5w_me_radiofono_mple.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>10.19</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Ηχεία &gt; Φορητά Ηχεία Bluetooth</Category_Path>
+		<Manufacturer>ΧΟ</Manufacturer>
+		<MPN>F56-59108</MPN>
+		<Description>Το ιδανικό φορητό ηχείο για υπαίθριες δραστηριότητες, ανθεκτικό στην υγρασία και τη σκόνη, που προσφέρει ποιοτική μουσική εμπειρία, χωρίς παρεμβολές ή παραμόρφωση ήχου και χωρίς σύνδεση καλωδίων συνδεδεμένων με άλλες συσκευές. Εξοπλισμένο με ηχείο ισχύος 5W, σύνδεση Bluetooth και ενσωματωμένη μπαταρία, αναπαράγει δυνατό και καθαρό ήχο, κάνοντας τις υπαίθριες περιπέτειες πιο απολαυστικές. Χαρακτηριστικά      Τύπος προϊόντος: Ηχείο Bluetooth     Συμβατή μάρκα: Bluetooth     Υποδοχή: 1 USB-C     Τεχνολογία: V5.3 BT.     Λειτουργίες: Εμβέλεια 10m     Ραδιόφωνο FM: Κάρτα micro TF</Description>
+		<Barcode>6920680859108</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7996511</ID>
 		<Name>Akai Ηχείο Bluetooth 8W με Ραδιόφωνο και Διάρκεια Μπαταρίας έως 7 ώρες Πολύχρωμο</Name>
 		<Product_Link>https://www.skroutz.gr/s/45001644/Akai-ABTS-08-Icheio-Bluetooth-8W-me-Radiofono-kai-Diarkeia-Mpatarias-eos-7-ores-Polychromo.html</Product_Link>
@@ -26725,7 +26759,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>477</Quantity>
+		<Quantity>472</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
