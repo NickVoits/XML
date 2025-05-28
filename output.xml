@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-05-28 16:05</created_at>
+	<created_at>2025-05-28 16:22</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -10774,7 +10774,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>12709</Quantity>
+		<Quantity>12708</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -12998,7 +12998,7 @@
 		<ID>740510102</ID>
 		<Name>Vileda Περιστρεφόμενη Ανταλλακτικό Σφουγγαρίστρα με Μικροίνες Turbo Smart Refill</Name>
 		<Product_Link>https://www.skroutz.gr/s/24230922/Vileda-Peristrefomeni-Antallaktiko-Sfougaristra-me-Mikroines-Easy-Wring-Clean-Turbo.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/024230/24230922/20200731121801_vileda_sfougaristra_easy_wring_clean_turbo.jpeg</Image_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/024230/24230922/xlarge_20250311165918_vileda_antallaktiko_sfougaristras_me_mikroines_easy_wring_clean_turbo_152624.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -23876,6 +23876,23 @@
 		<Description>Σετ Α4 Tech F1512S Sleek Comfort (Πληκτρολόγιο &amp; Ποντίκι).    Οπτικός Σένσορας: Υψηλή ακρίβεια παρακολούθησης.    Συμμετρικός Σχεδιασμός: Κατάλληλο για δεξιόχειρες και αριστερόχειρες χρήστες.    Φαρδύ Ρόδα Σκύθου: Άνετη αίσθηση κατά τη διάρκεια μακράς χρήσης.    Δυο Κατευθύνσεων Ρόδα: Έξυπνη οριζόντια και κατακόρυφη κύλιση.    8 σε 1: 8 χειρονομίες για επιλογή εντολών.    Στραμμένα Πλήκτρα: Βελτιώνουν την περιοχή πληκτρολόγησης.    Υψηλή Ελαστικότητα Σιλικόνης: Άνετη εμπειρία πληκτρολόγησης.    Σχεδίαση Αποστράγγισης: Προστασία από υγρά.    Πλήκτρα Πολυμέσων: Άμεση πρόσβαση σε 12 λειτουργίες.    Συμπαγής Εικόνα Δύο Τμημάτων: Ικανότητα εξοικονόμησης χώρου.</Description>
 		<Barcode>4711421975155</Barcode>
 		<Quantity>7</Quantity>
+	</product>
+	<product>
+		<ID>799610101</ID>
+		<Name>MediaRange MROS131-GR Ασύρματο Bluetooth Πληκτρολόγιο με 78 Πλήκτρα, Touchpad και Tablet Slot Ελληνικό</Name>
+		<Product_Link>https://www.skroutz.gr/s/32065413/MediaRange-MROS131-GR-Asyrmato-Bluetooth-Pliktrologio-me-Touchpad-gia-Tablet-Elliniko.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/032065/32065413/xlarge_20211102111430_mediarange_mros131_gr_asyrmato_bluetooth_pliktrologio_me_touchpad_gia_tablet_elliniko.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>24.65</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Πληκτρολόγια &amp; Ποντίκια &gt; Πληκτρολόγια</Category_Path>
+		<Manufacturer>MediaRange</Manufacturer>
+		<MPN>MROS131-GR</MPN>
+		<Description>Βασικά χαρακτηριστικά:      Πληκτρολόγιο με Touchpad     Χρήση για Tablet     Γλώσσα Πληκτρολογίου: Ελληνικά     Ασύρματο     Σύνδεση: Bluetooth</Description>
+		<Barcode>4260664871514</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799612101</ID>
