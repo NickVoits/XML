@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-07 16:58</created_at>
+	<created_at>2025-06-07 17:02</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -9938,7 +9938,7 @@
 		<MPN>0063</MPN>
 		<Description>Ένα αφρόλουτρο που αναζωογονεί την επιδερμίδα σας και προσφέρει μια αίσθηση πολυτέλειας και άνεσης κατά το μπάνιο. Η απαλή φόρμουλα του πλούσια αρωματισμένη με βανίλια αφήνει ένα ευχάριστο άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<Barcode>3800024015892</Barcode>
-		<Quantity>361</Quantity>
+		<Quantity>360</Quantity>
 	</product>
 	<product>
 		<ID>67003</ID>
@@ -26590,7 +26590,7 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>88820015011</ID>
+		<ID>8882015011</ID>
 		<Name>Replay Κρουασάν με Γέμιση κρέμα Κακάο και κρέμα Πραλίνας Φουντουκιού 150gr</Name>
 		<Product_Link>https://interelka.gr/portfolio-item/croissant-replay-big-filled-with-cocoa-crem-hazelnut-praline/</Product_Link>
 		<Image_Link>https://interelka.gr/wp-content/uploads/2024/04/CROISSANT-REPLAY-BIG-150-GR-COCOAPRALINE-OK-500x500.jpg</Image_Link>
@@ -26603,6 +26603,7 @@
 		<Manufacturer>Replay</Manufacturer>
 		<Description>Κλασικό κρουασάν 150 γραμμαρίων γεμισμένο με πλούσια κρέμα κακάο και κρέμα πραλίνας φουντουκιού.  Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι. Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<Barcode>5301000230356</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>8910101</ID>
@@ -27164,5 +27165,24 @@
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>=COUNTBLANK(A2:A1572)</ID>
+		<Name>=COUNTBLANK(B2:B1572)</Name>
+		<Product_Link>=COUNTBLANK(C2:C1572)</Product_Link>
+		<Image_Link>=COUNTBLANK(D2:D1572)</Image_Link>
+		<Additional>=COUNTBLANK(E2:E1572)</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>=COUNTBLANK(F2:F1572)</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>=COUNTBLANK(G2:G1572)</ΤΕΜΑΧΙΑ>
+		<VAT>=COUNTBLANK(H2:H1572)</VAT>
+		<Price>=COUNTBLANK(I2:I1572)</Price>
+		<Availability>=COUNTBLANK(J2:J1572)</Availability>
+		<Category_Path>=COUNTBLANK(K2:K1572)</Category_Path>
+		<Manufacturer>=COUNTBLANK(L2:L1572)</Manufacturer>
+		<MPN>=COUNTBLANK(M2:M1572)</MPN>
+		<Weight>=COUNTBLANK(N2:N1572)</Weight>
+		<Description>=COUNTBLANK(O2:O1572)</Description>
+		<Barcode>=COUNTBLANK(P2:P1572)</Barcode>
+		<Quantity>=COUNTBLANK(Q2:Q1572)</Quantity>
 	</product>
 </mywebstore>
