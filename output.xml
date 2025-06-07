@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-07 16:05</created_at>
+	<created_at>2025-06-07 16:58</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -45,7 +45,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.49</Price>
+		<Price>3.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>Άλφα</Manufacturer>
@@ -63,7 +63,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.2</Price>
+		<Price>1.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΜΗΛΟΚΛΕΦΤΗΣ</Manufacturer>
@@ -81,7 +81,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.12</Price>
+		<Price>2.21976864</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ERDINGER</Manufacturer>
@@ -99,7 +99,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.16</Price>
+		<Price>2.2622254148544</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>MCFARLAND</Manufacturer>
@@ -117,7 +117,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.83</Price>
+		<Price>2.961418006719999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>Murphy’s</Manufacturer>
@@ -127,6 +127,24 @@
 		<Quantity>48</Quantity>
 	</product>
 	<product>
+		<ID>33001</ID>
+		<Name>Corona Extra Pale Lager Φιάλη 330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/32149513/Corona-Extra-Pale-Lager-Fiali-330ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/032149/32149513/xlarge_20220413112132_corona_extra_pale_lager_fiali_330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
+		<Manufacturer>CORONA</Manufacturer>
+		<MPN>1239</MPN>
+		<Weight>0.5 kg</Weight>
+		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
+		<Barcode>75041670</Barcode>
+		<Quantity>1428</Quantity>
+	</product>
+	<product>
 		<ID>32021-Τ</ID>
 		<Name>Fix Lager Κουτί 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4870950/Fix-Lager-Kouti-330ml.html</Product_Link>
@@ -134,7 +152,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.77</Price>
+		<Price>0.80929065</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>FIX</Manufacturer>
@@ -152,7 +170,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.15</Price>
+		<Price>7.477827107928</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>Kaiser</Manufacturer>
@@ -170,7 +188,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.12</Price>
+		<Price>1.1667658914</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>Kaiser</Manufacturer>
@@ -188,7 +206,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.84</Price>
+		<Price>0.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
@@ -206,7 +224,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.75</Price>
+		<Price>4.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
@@ -224,7 +242,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.63</Price>
+		<Price>0.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
@@ -260,7 +278,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1</Price>
+		<Price>1.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>FIX</Manufacturer>
@@ -278,7 +296,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.43</Price>
+		<Price>1.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>KAISER</Manufacturer>
@@ -323,24 +341,6 @@
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
 		<Quantity>45</Quantity>
-	</product>
-	<product>
-		<ID>33001</ID>
-		<Name>Corona Extra Pale Lager Φιάλη 330ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/32149513/Corona-Extra-Pale-Lager-Fiali-330ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/032149/32149513/xlarge_20220413112132_corona_extra_pale_lager_fiali_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.34</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
-		<Manufacturer>CORONA</Manufacturer>
-		<MPN>1239</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
-		<Barcode>75041670</Barcode>
-		<Quantity>1428</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -782,7 +782,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>3.99</Price>
+		<Price>4.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
@@ -800,7 +800,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>3.99</Price>
+		<Price>4.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΕΨΑ</Manufacturer>
@@ -818,7 +818,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.79</Price>
+		<Price>1.88</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -836,7 +836,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.82</Price>
+		<Price>1.9</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -905,7 +905,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.76</Price>
+		<Price>0.799403019</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -923,7 +923,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.76</Price>
+		<Price>0.797960574</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -941,7 +941,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.82</Price>
+		<Price>0.8540716844999998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -959,7 +959,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.82</Price>
+		<Price>0.8540716844999998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -967,7 +967,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το πασίγνωστο αναψυκτικό Coca-Cola, κλέβει εντυπώσεις με μία μοναδική παραλλαγή χωρίς καφεΐνη. Απολαύστε την ακαταμάχητη γεύση της Coca-Cola, χωρίς να φοβάστε για την επίδραση που μπορεί να έχει στην καθημερινότητά σας και στον ύπνο σας.</Description>
 		<Barcode>5449000233295</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>12022-Τ</ID>
@@ -977,7 +977,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.71</Price>
+		<Price>0.7380991065000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΣΠΡΑΙΤ</Manufacturer>
@@ -995,7 +995,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.45</Price>
+		<Price>0.52</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>SCHWEPPES</Manufacturer>
@@ -1013,7 +1013,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.75</Price>
+		<Price>0.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>SCHWEPPES</Manufacturer>
@@ -1031,7 +1031,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.75</Price>
+		<Price>0.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>SCHWEPPES</Manufacturer>
@@ -1049,7 +1049,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.71</Price>
+		<Price>0.7380991065000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
@@ -1067,7 +1067,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.65</Price>
+		<Price>0.684584397</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
@@ -1085,7 +1085,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.98</Price>
+		<Price>1.0205298375</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -1103,7 +1103,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.01</Price>
+		<Price>1.05875463</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -1121,7 +1121,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.01</Price>
+		<Price>1.0548600285</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
@@ -1139,7 +1139,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.01</Price>
+		<Price>1.0548600285</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
@@ -1157,7 +1157,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.2</Price>
+		<Price>1.24995071475</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1175,7 +1175,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.76</Price>
+		<Price>0.7969508625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1193,7 +1193,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.69</Price>
+		<Price>0.72410739</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1211,7 +1211,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.1</Price>
+		<Price>1.146743775</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1229,7 +1229,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.76</Price>
+		<Price>0.796986923625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1247,7 +1247,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.39</Price>
+		<Price>2.4981704955</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1265,7 +1265,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.83</Price>
+		<Price>1.909508691</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1283,7 +1283,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.28</Price>
+		<Price>1.3433490285</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1301,7 +1301,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.83</Price>
+		<Price>1.909508691</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1319,7 +1319,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.39</Price>
+		<Price>2.4981704955</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1337,7 +1337,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.83</Price>
+		<Price>1.90943656875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1373,7 +1373,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.97</Price>
+		<Price>3.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1624,7 +1624,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.20971937536</Price>
+		<Price>2.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>TUBORG</Manufacturer>
@@ -1642,7 +1642,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.3894722203156</Price>
+		<Price>2.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>TUBORG</Manufacturer>
@@ -1660,7 +1660,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.13015904</Price>
+		<Price>4.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1678,7 +1678,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.6979025020928</Price>
+		<Price>5.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1696,7 +1696,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.8157182388224</Price>
+		<Price>5.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1714,7 +1714,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.82</Price>
+		<Price>5.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1732,7 +1732,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.04</Price>
+		<Price>1.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>RED BULL</Manufacturer>
@@ -1750,7 +1750,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.53</Price>
+		<Price>0.55</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>HELL</Manufacturer>
@@ -1768,7 +1768,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.06</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>MONSTER</Manufacturer>
@@ -1786,7 +1786,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.06</Price>
+		<Price>1.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>MONSTER</Manufacturer>
@@ -1821,7 +1821,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.373957636142</Price>
+		<Price>1.41</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>THREE CENTS</Manufacturer>
@@ -1839,7 +1839,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.5551832832</Price>
+		<Price>0.5948392320000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1857,7 +1857,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.3523278528000001</Price>
+		<Price>0.377494128</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1875,7 +1875,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.3523278528000001</Price>
+		<Price>0.377494128</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1893,7 +1893,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.4163874624</Price>
+		<Price>0.446129424</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1911,7 +1911,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.373681056</Price>
+		<Price>0.40037256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1929,7 +1929,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.3523278528000001</Price>
+		<Price>0.377494128</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1947,7 +1947,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.3950342592</Price>
+		<Price>0.423250992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1965,7 +1965,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.3950342592</Price>
+		<Price>0.423250992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1983,7 +1983,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.5267540288</Price>
+		<Price>1.635807888</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2001,7 +2001,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.0569835584</Price>
+		<Price>1.132482384</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2019,7 +2019,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.0569835584</Price>
+		<Price>1.132482384</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2037,7 +2037,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.9608941439999998</Price>
+		<Price>1.02952944</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2055,7 +2055,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.2491623872</Price>
+		<Price>1.338388272</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2073,7 +2073,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.121043168</Price>
+		<Price>1.20111768</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2091,7 +2091,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.121043168</Price>
+		<Price>1.20111768</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2109,7 +2109,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.0569835584</Price>
+		<Price>1.132482384</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2127,7 +2127,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.121043168</Price>
+		<Price>1.20111768</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2145,7 +2145,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.1851027776</Price>
+		<Price>1.269752976</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2163,7 +2163,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.9608941439999998</Price>
+		<Price>1.02952944</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2181,7 +2181,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.1851027776</Price>
+		<Price>1.269752976</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2199,7 +2199,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.5374306304</Price>
+		<Price>1.647247104</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -7553,7 +7553,7 @@
 		<MPN>1011</MPN>
 		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
 		<Barcode>5201263006357</Barcode>
-		<Quantity>876</Quantity>
+		<Quantity>868</Quantity>
 	</product>
 	<product>
 		<ID>61023</ID>
@@ -7570,7 +7570,7 @@
 		<MPN>1012</MPN>
 		<Description>Λεπτές σερβιέτες κατάλληλες για ευαίσθητη επιδερμίδα με μακρύ μήκος, φτερά και υγιεινό υφασμάτινο κάλυμμα με βαμβάκι και επιτρέπει στο δέρμα να αναπνέει για απαλότητα και προστασία.</Description>
 		<Barcode>5201263006364</Barcode>
-		<Quantity>877</Quantity>
+		<Quantity>872</Quantity>
 	</product>
 	<product>
 		<ID>61051</ID>
@@ -12500,23 +12500,6 @@
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
 		<Barcode>8718951048553</Barcode>
 		<Quantity>153</Quantity>
-	</product>
-	<product>
-		<ID>73002</ID>
-		<Name>Blazy Επαγγελματικό Καθαριστικό Υγρό Πατώματος Lavender 1lt</Name>
-		<Product_Link>https://www.zap.md/ru/gigiena-kosmetika/uhod-za-domom/sredstva-dlya-mytya-polov/blazy-universal-lavender/cs31-0028</Product_Link>
-		<Image_Link>https://i.imgur.com/IhYZiKW.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.18652562</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
-		<Manufacturer>BLAZY</Manufacturer>
-		<MPN>0819</MPN>
-		<Description>Είναι σχεδιασμένο για τον καθαρισμό και την αρωματική αναζωογόνηση των δαπέδων στο σπίτι ή στον επαγγελματικό χώρο. Η σύνθεσή του είναι ειδικά διαμορφωμένη για να απομακρύνει τους ρύπους, τις λεκέδες και τα ίχνη λίπους από τις επιφάνειες των δαπέδων, αφήνοντας πίσω ένα ευχάριστο άρωμα λεβάντας. Η εφαρμογή του είναι εύκολη: απλώστε το καθαριστικό στο δάπεδο, αφήστε το να δράσει για λίγα λεπτά, και στη συνέχεια ξεβγάλτε με άφθονο νερό. Αφού στεγνώσει, το δάπεδο θα είναι καθαρό, λαμπερό και αρωματισμένο με το άρωμα της λεβάντας.</Description>
-		<Barcode>3800024013614</Barcode>
-		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>73022</ID>
@@ -21016,7 +20999,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.69</Price>
+		<Price>1.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -21033,7 +21016,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.34</Price>
+		<Price>2.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -26607,7 +26590,7 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>8882015011</ID>
+		<ID>88820015011</ID>
 		<Name>Replay Κρουασάν με Γέμιση κρέμα Κακάο και κρέμα Πραλίνας Φουντουκιού 150gr</Name>
 		<Product_Link>https://interelka.gr/portfolio-item/croissant-replay-big-filled-with-cocoa-crem-hazelnut-praline/</Product_Link>
 		<Image_Link>https://interelka.gr/wp-content/uploads/2024/04/CROISSANT-REPLAY-BIG-150-GR-COCOAPRALINE-OK-500x500.jpg</Image_Link>
@@ -26620,7 +26603,6 @@
 		<Manufacturer>Replay</Manufacturer>
 		<Description>Κλασικό κρουασάν 150 γραμμαρίων γεμισμένο με πλούσια κρέμα κακάο και κρέμα πραλίνας φουντουκιού.  Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι. Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<Barcode>5301000230356</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>8910101</ID>
