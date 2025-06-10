@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-10 15:16</created_at>
+	<created_at>2025-06-10 18:13</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>2</Quantity>
 	</product>
 	<product>
 		<ID>31023-Τ</ID>
@@ -268,7 +268,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900045</Barcode>
-		<Quantity>32</Quantity>
+		<Quantity>137</Quantity>
 	</product>
 	<product>
 		<ID>32031-Τ</ID>
@@ -340,7 +340,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>344</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -412,7 +412,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>289</Quantity>
+		<Quantity>283</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -430,7 +430,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>114</Quantity>
+		<Quantity>113</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -448,7 +448,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>231</Quantity>
+		<Quantity>224</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -466,7 +466,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<Barcode>5201275610672</Barcode>
-		<Quantity>212</Quantity>
+		<Quantity>208</Quantity>
 	</product>
 	<product>
 		<ID>11035</ID>
@@ -484,7 +484,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>175</Quantity>
+		<Quantity>172</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -520,7 +520,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171150265</Barcode>
-		<Quantity>330</Quantity>
+		<Quantity>324</Quantity>
 	</product>
 	<product>
 		<ID>11521</ID>
@@ -718,7 +718,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171331237</Barcode>
-		<Quantity>129</Quantity>
+		<Quantity>126</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -754,7 +754,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>252</Quantity>
+		<Quantity>248</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -772,7 +772,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<Barcode>5201171331244</Barcode>
-		<Quantity>32</Quantity>
+		<Quantity>29</Quantity>
 	</product>
 	<product>
 		<ID>11541</ID>
@@ -913,7 +913,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000214911</Barcode>
-		<Quantity>446</Quantity>
+		<Quantity>428</Quantity>
 	</product>
 	<product>
 		<ID>120218-Τ</ID>
@@ -967,7 +967,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το πασίγνωστο αναψυκτικό Coca-Cola, κλέβει εντυπώσεις με μία μοναδική παραλλαγή χωρίς καφεΐνη. Απολαύστε την ακαταμάχητη γεύση της Coca-Cola, χωρίς να φοβάστε για την επίδραση που μπορεί να έχει στην καθημερινότητά σας και στον ύπνο σας.</Description>
 		<Barcode>5449000233295</Barcode>
-		<Quantity>30</Quantity>
+		<Quantity>28</Quantity>
 	</product>
 	<product>
 		<ID>12022-Τ</ID>
@@ -985,7 +985,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
 		<Barcode>5449000214775</Barcode>
-		<Quantity>67</Quantity>
+		<Quantity>63</Quantity>
 	</product>
 	<product>
 		<ID>12023-Τ</ID>
@@ -1003,7 +1003,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Ένα από τα παλαιότερα αναψυκτικά στον κόσμο, βρίσκεται στην διάθεσή σας! Απολαύστε ένα κουτάκι από δροσιστικό ανθρακούχο νερό Schweppes και αλλάξτε παραστάσεις! Με την ίδια, παραδοσιακή συνταγή από το 1783!</Description>
 		<Barcode>5449000233417</Barcode>
-		<Quantity>9</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>120232-Τ</ID>
@@ -1057,7 +1057,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<Barcode>5449000214805</Barcode>
-		<Quantity>29</Quantity>
+		<Quantity>27</Quantity>
 	</product>
 	<product>
 		<ID>12025-Τ</ID>
@@ -1075,7 +1075,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Λεμονάδα περιέχει 7% χυμό λεμονιού, αρώματα φυσικού λεμονιού και ανθρακικό.</Description>
 		<Barcode>5449000214829</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>12031-Τ</ID>
@@ -1093,7 +1093,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>54491472</Barcode>
-		<Quantity>158</Quantity>
+		<Quantity>157</Quantity>
 	</product>
 	<product>
 		<ID>120318-Τ</ID>
@@ -1111,7 +1111,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000131836</Barcode>
-		<Quantity>69</Quantity>
+		<Quantity>68</Quantity>
 	</product>
 	<product>
 		<ID>12034-Τ</ID>
@@ -1488,7 +1488,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>183</Quantity>
+		<Quantity>171</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1506,7 +1506,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>163</Quantity>
+		<Quantity>157</Quantity>
 	</product>
 	<product>
 		<ID>130349</ID>
@@ -1542,7 +1542,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<Barcode>5201946910292</Barcode>
-		<Quantity>387</Quantity>
+		<Quantity>369</Quantity>
 	</product>
 	<product>
 		<ID>130359</ID>
@@ -1560,7 +1560,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Τα μόνα αναψυκτικά με Φυσικό Μεταλλικό Νερό από την πηγή ΖΑΓΟΡΟΧΩΡΙΑ.Με φυσικά γλυκαντικά από το φυτό στέβια.</Description>
 		<Barcode>5201946911053</Barcode>
-		<Quantity>77</Quantity>
+		<Quantity>74</Quantity>
 	</product>
 	<product>
 		<ID>13036</ID>
@@ -1847,7 +1847,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908000020</Barcode>
-		<Quantity>2144</Quantity>
+		<Quantity>1577</Quantity>
 	</product>
 	<product>
 		<ID>17052</ID>
@@ -1865,7 +1865,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000044</Barcode>
-		<Quantity>2001</Quantity>
+		<Quantity>1947</Quantity>
 	</product>
 	<product>
 		<ID>17053</ID>
@@ -1883,7 +1883,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>3590</Quantity>
+		<Quantity>3563</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -1901,7 +1901,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από 8 φρούτα. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται. Το συγκεκριμένο είδος χυμού αποτελεί την ιδανική επιλογή για να αντικαταστήσει τον φρεσκοστυμμένο φυσικό χυμό, αφού η διαδικασία του στυψίματος δεν είναι πάντα εύκολη. Μπορείτε να τον καταναλώσετε οποιαδήποτε στιγμή της μέρας και θα συμβάλλει στην πρόληψη των πολύτιμων συστατικών που χρειάζεται το σώμα, ενώ παράλληλα παρέχει σωστή ενυδάτωση.</Description>
 		<Barcode>5202908000037</Barcode>
-		<Quantity>796</Quantity>
+		<Quantity>715</Quantity>
 	</product>
 	<product>
 		<ID>17057</ID>
@@ -1937,7 +1937,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>3273</Quantity>
+		<Quantity>3246</Quantity>
 	</product>
 	<product>
 		<ID>17060</ID>
@@ -1991,7 +1991,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908110019</Barcode>
-		<Quantity>1681</Quantity>
+		<Quantity>1621</Quantity>
 	</product>
 	<product>
 		<ID>17072</ID>
@@ -2243,7 +2243,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
-		<Quantity>206</Quantity>
+		<Quantity>204</Quantity>
 	</product>
 	<product>
 		<ID>18101</ID>
@@ -2361,7 +2361,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.59</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>YAMAS</Manufacturer>
@@ -2379,7 +2379,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.59</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>YAMAS</Manufacturer>
@@ -2441,7 +2441,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>1239</Quantity>
+		<Quantity>1227</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -2476,7 +2476,7 @@
 		<MPN>130801</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<Barcode>5201005080027</Barcode>
-		<Quantity>13173</Quantity>
+		<Quantity>13161</Quantity>
 	</product>
 	<product>
 		<ID>20601-Τ</ID>
@@ -2493,7 +2493,7 @@
 		<MPN>10 160</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
 		<Barcode>5201627019900</Barcode>
-		<Quantity>876</Quantity>
+		<Quantity>858</Quantity>
 	</product>
 	<product>
 		<ID>20603-Τ</ID>
@@ -2510,7 +2510,7 @@
 		<MPN>10 105</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
 		<Barcode>5201627019887</Barcode>
-		<Quantity>752</Quantity>
+		<Quantity>748</Quantity>
 	</product>
 	<product>
 		<ID>21501011</ID>
@@ -2521,7 +2521,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.78</Price>
+		<Price>0.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΔΟΥΜΠΙΑ</Manufacturer>
@@ -2539,7 +2539,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.29</Price>
+		<Price>1.35</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΔΟΥΜΠΙΑ</Manufacturer>
@@ -2556,7 +2556,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.29</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΣΤΟΥΠΑΚΗΣ</Manufacturer>
@@ -2574,7 +2574,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.46</Price>
+		<Price>1.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΣΤΟΥΠΑΚΗΣ</Manufacturer>
@@ -2592,7 +2592,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.78</Price>
+		<Price>0.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>PERRIER</Manufacturer>
@@ -2680,7 +2680,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.38</Price>
+		<Price>2.6</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΜΑΛΑΜΑΤΙΝΑ</Manufacturer>
@@ -2698,7 +2698,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.966637015414652</Price>
+		<Price>2.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2716,7 +2716,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.011333311219531</Price>
+		<Price>2.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2734,7 +2734,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.011333311219531</Price>
+		<Price>2.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2752,7 +2752,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.011333311219531</Price>
+		<Price>2.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2788,7 +2788,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.26</Price>
+		<Price>1.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
@@ -2806,7 +2806,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.31</Price>
+		<Price>1.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
@@ -2824,7 +2824,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.35</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΝΕΜΕΛΟ</Manufacturer>
@@ -2842,7 +2842,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.76</Price>
+		<Price>3.008518495211376</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
@@ -2860,7 +2860,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.89</Price>
+		<Price>3.157423480145455</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
@@ -2878,7 +2878,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.12</Price>
+		<Price>3.405648596509091</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
@@ -2896,7 +2896,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.24</Price>
+		<Price>3.534725657018182</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
@@ -2914,7 +2914,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.83</Price>
+		<Price>3.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2932,7 +2932,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.83</Price>
+		<Price>3.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2950,7 +2950,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.83</Price>
+		<Price>3.33</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2968,7 +2968,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.83</Price>
+		<Price>3.090626101332</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -2986,7 +2986,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.14657399808</Price>
+		<Price>12.67468591104</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3004,7 +3004,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.057567047936</Price>
+		<Price>13.625287354368</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3022,7 +3022,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.778331697664</Price>
+		<Price>15.420867858432</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3040,7 +3040,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.66489574784</Price>
+		<Price>14.25902164992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3058,7 +3058,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>26.1</Price>
+		<Price>27.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -3076,7 +3076,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.06</Price>
+		<Price>24.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -3094,7 +3094,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.54</Price>
+		<Price>22.60318987468799</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3112,7 +3112,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.66139029657599</Price>
+		<Price>24.24033680486401</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3130,7 +3130,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.230322771328</Price>
+		<Price>27.250574708736</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3148,7 +3148,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>26.115134095872</Price>
+		<Price>25.507805395968</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΖΙΤΣΑ</Manufacturer>
@@ -3166,7 +3166,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.09</Price>
+		<Price>22.00466304</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
@@ -3184,7 +3184,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.09</Price>
+		<Price>22.00466304</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΣ</Manufacturer>
@@ -3236,14 +3236,14 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.15</Price>
+		<Price>2.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
 		<MPN>1665</MPN>
 		<Description>Ένα ισορροπημένο λευκό κρασί, με γεμάτη γεύση φίνο άρωμα και διαυγές χρώμα. Προέρχεται από τοπικούς αμπελώνες της ποικιλίας Ροδίτης.</Description>
 		<Barcode>5202924031473</Barcode>
-		<Quantity>1146</Quantity>
+		<Quantity>1130</Quantity>
 	</product>
 	<product>
 		<ID>43003</ID>
@@ -3253,7 +3253,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.36</Price>
+		<Price>2.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
@@ -4053,7 +4053,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.08</Price>
+		<Price>7.622943678504001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
@@ -4070,7 +4070,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.67</Price>
+		<Price>8.1311399237376</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
@@ -4087,7 +4087,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.83</Price>
+		<Price>7.114747433270399</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
@@ -4104,7 +4104,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.55</Price>
+		<Price>11.1803173951392</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
@@ -4155,7 +4155,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.25</Price>
+		<Price>8.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΚΥΡ ΓΙΑΝΝΗ</Manufacturer>
@@ -4265,7 +4265,7 @@
 		<MPN>1527</MPN>
 		<Description>Το "Idylle D' Achinos"  αποτελεί μία από τις καινούργιες δημιουργίες του οινοποιείου La Tour Melas.</Description>
 		<Barcode>5214000516651</Barcode>
-		<Quantity>150</Quantity>
+		<Quantity>132</Quantity>
 	</product>
 	<product>
 		<ID>47106101</ID>
@@ -4496,7 +4496,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.32</Price>
+		<Price>8.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΝΤΟΥΓΚΟΣ</Manufacturer>
@@ -5039,7 +5039,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
 		<Barcode>5202037000045</Barcode>
-		<Quantity>29</Quantity>
+		<Quantity>24</Quantity>
 	</product>
 	<product>
 		<ID>47980</ID>
@@ -5134,7 +5134,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.83</Price>
+		<Price>4.0079156</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
@@ -5151,7 +5151,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.19</Price>
+		<Price>12.74825462</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
@@ -5168,7 +5168,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.27</Price>
+		<Price>3.42214332</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΕΠΟΜ</Manufacturer>
@@ -5185,7 +5185,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.72</Price>
+		<Price>11.20674862</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΕΠΟΜ</Manufacturer>
@@ -5202,7 +5202,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.06</Price>
+		<Price>6.33558966</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΠΙΤΣΙΛΑΔΗ</Manufacturer>
@@ -5219,7 +5219,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.2</Price>
+		<Price>1.2597187032</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5237,7 +5237,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.04</Price>
+		<Price>2.1374522196</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5255,7 +5255,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.85</Price>
+		<Price>4.0224057564</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5273,7 +5273,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.16</Price>
+		<Price>12.70971697</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5291,7 +5291,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.19</Price>
+		<Price>1.2443036432</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5309,7 +5309,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2</Price>
+		<Price>2.0896655336</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5327,7 +5327,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.75</Price>
+		<Price>3.9252908784</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5345,7 +5345,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.83</Price>
+		<Price>12.365961132</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5363,7 +5363,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.22</Price>
+		<Price>1.33201050968622</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5381,7 +5381,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>2.1547583991608</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5399,7 +5399,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.17</Price>
+		<Price>4.5293938228484</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5417,7 +5417,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.2</Price>
+		<Price>1.31197093168622</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5435,7 +5435,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.94</Price>
+		<Price>2.1347188211608</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5453,7 +5453,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.1</Price>
+		<Price>4.452318522848399</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5471,7 +5471,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.21</Price>
+		<Price>5.670120440745801</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5489,7 +5489,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>43.32</Price>
+		<Price>47.445242421</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5506,7 +5506,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.98</Price>
+		<Price>2.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5524,7 +5524,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.92</Price>
+		<Price>2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5542,7 +5542,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.13</Price>
+		<Price>1.179207759971639</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5560,7 +5560,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.94</Price>
+		<Price>2.026138056437508</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5578,7 +5578,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.12</Price>
+		<Price>1.166875711971639</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5596,7 +5596,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.9</Price>
+		<Price>1.986058900437508</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5614,7 +5614,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.13</Price>
+		<Price>4.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5632,7 +5632,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.43</Price>
+		<Price>1.496161059504</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5650,7 +5650,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.98</Price>
+		<Price>5.20511081984</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5668,7 +5668,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.4</Price>
+		<Price>1.466718294904</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5686,7 +5686,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.86</Price>
+		<Price>5.08179033984</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5704,7 +5704,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.63</Price>
+		<Price>4.843334776699999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
@@ -5722,7 +5722,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.56</Price>
+		<Price>4.7647179707</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
@@ -5740,7 +5740,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.26</Price>
+		<Price>1.32211886608</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
@@ -5757,7 +5757,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.23</Price>
+		<Price>4.424553841680001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
@@ -5774,7 +5774,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.16</Price>
+		<Price>4.34593703568</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
@@ -7966,7 +7966,7 @@
 		<MPN>1535001</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Ανταλλακτικές Κεφαλές     Με 5 Λεπίδες     Με Λεπίδα Ακριβείας στο Πίσω Μέρος     Με Λιπαντική Ταινία που Ξεθωριάζει     Για Απαλό Ξύρισμα</Description>
 		<Barcode>8700216331579</Barcode>
-		<Quantity>149</Quantity>
+		<Quantity>145</Quantity>
 	</product>
 	<product>
 		<ID>62051</ID>
@@ -8000,7 +8000,7 @@
 		<MPN>0575</MPN>
 		<Description>Ξυραφάκια υψηλής ποιότητας από ανοξείδωτο ατσάλι μονής λεπίδας με επικάλυψη πολυμερούς και χρωμίου. Στενή και σταθερή κεφαλή που φτάνει με ακρίβεια στις ευαίσθητες περιοχές τις επιδερμίδας. Περιέχει προστατευτική μπάρα από ανοξείδωτο ατσάλι και μαύρη πολυεστερική λαβή, μεγαλύτερη για καλύτερο έλεγχο στο ξύρισμα.</Description>
 		<Barcode>3086125705416</Barcode>
-		<Quantity>337</Quantity>
+		<Quantity>336</Quantity>
 	</product>
 	<product>
 		<ID>62061</ID>
@@ -8221,7 +8221,7 @@
 		<MPN>1055</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Διακριτικό Άρωμα•48 Ώρες Προστασία•Δερματολογικά Ελεγμένο•Σύνθεση Χωρίς Αιθυλική ΑλκοόληΑποσμητικό σώματος πρωτοποριακής σύνθεσης με πολύτιμα εκχυλίσματα μαργαριταριού για ομοιόμορφο χρωματικό τόνο και απαλή επιδερμίδα, αποτελεσματικό στην προστασία από τον ιδρώτα και την κακοσμία.</Description>
 		<Barcode>4005900389015</Barcode>
-		<Quantity>93</Quantity>
+		<Quantity>92</Quantity>
 	</product>
 	<product>
 		<ID>63012</ID>
@@ -8459,7 +8459,7 @@
 		<MPN>1064</MPN>
 		<Description>Κρέμα εμπλουτισμένη με Eucerit, που παρέχει στην επιδερμίδα όλη τη φροντίδα προστασίας που χρειάζεται για να παραμείνει απαλή και ελαστική. Ιδανικό για καθημερινή χρήση, στα σημεία όπου η επιδερμίδα χρειάζεται φροντίδα. Συμβατότητα με την επιδερμίδα δερματολογικά εγκεκριμένη.</Description>
 		<Barcode>4005900948038</Barcode>
-		<Quantity>67</Quantity>
+		<Quantity>66</Quantity>
 	</product>
 	<product>
 		<ID>640100101</ID>
@@ -8544,7 +8544,7 @@
 		<MPN>45906-00003-45</MPN>
 		<Description>Αντικολλητικά επιθέματα σε διάφορα μεγέθη, τα οποία εφάπτονται γύρω από την πληγή.  8 Strips: 19 x 72mm  6 Strips: 30 x 72mm  2 Strips: 50 x 72mm  4 Spots: Ø 23mm  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικό.  Τα επιθέματα Hansaplast Universal είναι κατάλληλα για την κάλυψη και προστασία κάθε είδους μικρής πληγής. Απωθούν το νερό και τη βρωμιά, το υλικό είναι αεροδιαπερατό και αδιάβροχο, η γάζα του επιθέματος δεν κολλάει στην πληγή και την προστατεύει από εξωτερικούς παράγοντες, η δυνατή επικόλληση εξασφαλίζει πως το επίθεμα θα παραμείνει στη θέση του. Τα επιθέματα διατίθενται σε διαφορετικά μεγέθη, που σφραγίζουν γύρω από την πληγή  * Τα επιθέματα Hansaplast εμποδίζουν το 99% της βρωμιάς και των βακτηρίων.</Description>
 		<Barcode>4005800110689</Barcode>
-		<Quantity>225</Quantity>
+		<Quantity>224</Quantity>
 	</product>
 	<product>
 		<ID>64025</ID>
@@ -8714,7 +8714,7 @@
 		<MPN>0283</MPN>
 		<Description>Το οινόπνευμα είναι ένα πολύ χρήσιμο εργαλείο μέσα στο σπίτι και οι χρήσεις του είναι αμέτρητες.</Description>
 		<Barcode>5202737801010</Barcode>
-		<Quantity>631</Quantity>
+		<Quantity>621</Quantity>
 	</product>
 	<product>
 		<ID>64161</ID>
@@ -8799,7 +8799,7 @@
 		<MPN>1073</MPN>
 		<Description>Αντισηπτικό τζελ χεριών της εταιρείας EGBrands με αντλία, το οποίο περιέχει αλκοόλη σε ποσοστό 70% που εξουδετερώνει αποτελεσματικά πολλά είδη παθογόνων μικροοργανισμών, συμπεριλαμβανομένων ιών και βακτηρίων.</Description>
 		<Barcode>5202399414030</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>64302</ID>
@@ -8918,7 +8918,7 @@
 		<MPN>1250</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5201109001621</Barcode>
-		<Quantity>170</Quantity>
+		<Quantity>168</Quantity>
 	</product>
 	<product>
 		<ID>65053</ID>
@@ -8935,7 +8935,7 @@
 		<MPN>1251</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.</Description>
 		<Barcode>5201109001614</Barcode>
-		<Quantity>98</Quantity>
+		<Quantity>93</Quantity>
 	</product>
 	<product>
 		<ID>65121</ID>
@@ -9445,7 +9445,7 @@
 		<MPN>1286</MPN>
 		<Description>Σαμπουάν κατά της ξηροδερμίας της Ultrex, κατάλληλο για όλους τους τύπους μαλλιών.    •Με BIO-NUTRIUM 10, βοηθά στην ενδυνάμωση της επιδερμίδας.    •Βοηθά στην αποκατάσταση της φυσικής ισορροπίας της επιδερμίδας και προστατεύει από τη φαγούρα και την πιτυρίδα.    •Κατάλληλο για καθημερινή χρήση.</Description>
 		<Barcode>8710447246740</Barcode>
-		<Quantity>181</Quantity>
+		<Quantity>180</Quantity>
 	</product>
 	<product>
 		<ID>66064</ID>
@@ -10108,7 +10108,7 @@
 		<MPN>1259</MPN>
 		<Description>Το αφρόλουτρο της Aroma με κρεμώδη υφή, με άρωμα καρύδα προσφέρει ενυδάτωση &amp; θρέψη ενώ παράλληλα περιέχει καθαριστικούς παράγοντες που φροντίζουν το δέρμα.• Το προϊόν δεν περιέχει parabensΟδηγίες Χρήσης:• Εφαρμόστε μικρή ποσότητα σε βρεγμένο δέρμα• Ξεπλύνετε καλά• Αποφύγετε την επαφή με τα μάτια• Μόνο για εξωτερική χρήση</Description>
 		<Barcode>5208005145039</Barcode>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>67101</ID>
@@ -10469,7 +10469,7 @@
 		<MPN>1078</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>5202054467753</Barcode>
-		<Quantity>96</Quantity>
+		<Quantity>94</Quantity>
 		<Size>XL</Size>
 	</product>
 	<product>
@@ -10505,7 +10505,7 @@
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>5202054467739</Barcode>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 		<Size>M</Size>
 	</product>
 	<product>
@@ -10791,7 +10791,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>12354</Quantity>
+		<Quantity>12342</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -10861,7 +10861,7 @@
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>3235</Quantity>
+		<Quantity>3223</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -10997,7 +10997,7 @@
 		<MPN>1340</MPN>
 		<Description>Ιδανικές για επαγγελματική και οικιακή χρήση, προσφέροντας απορροφητικότητα και ανθεκτικότητα. Κατασκευασμένες από 1 φύλλο λευκού χαρτιού υψηλής ποιότητας, σε διαστάσεις 21x25cm, είναι κατάλληλες για καθημερινή υγιεινή και καθαριότητα. Η συσκευασία των 200 τεμαχίων προσφέρει μεγάλη διάρκεια και πρακτική χρήση, ιδανική για χώρους με αυξημένες ανάγκες καθαριότητας.</Description>
 		<Barcode>5202995010544</Barcode>
-		<Quantity>577</Quantity>
+		<Quantity>576</Quantity>
 	</product>
 	<product>
 		<ID>70231</ID>
@@ -11014,7 +11014,7 @@
 		<MPN>1341</MPN>
 		<Description>Δίφυλλη χειροπετσέτα ζικ-ζακ με 200 διπλά φύλλα.</Description>
 		<Barcode>5202995006349</Barcode>
-		<Quantity>764</Quantity>
+		<Quantity>744</Quantity>
 	</product>
 	<product>
 		<ID>70231101</ID>
@@ -11117,7 +11117,7 @@
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<Barcode>5201410964127</Barcode>
-		<Quantity>645</Quantity>
+		<Quantity>644</Quantity>
 	</product>
 	<product>
 		<ID>7040100101</ID>
@@ -11134,7 +11134,7 @@
 		<MPN>1672001</MPN>
 		<Description>Τα μωρομάντηλα BabyCare Sensitive Plus σχεδιάστηκαν για τον απαλό καθημερινό καθαρισμό του βρεφικού δέρματος. Mε εκχύλισμα αλόης και Βιταμίνη Ε, καθαρίζουν και περιποιούνται το ευαίσθητο βρεφικό δέρμα, ενώ βοηθούν στην προστασία του από ερεθισμούς και συγκάματα.  Χαρακτηριστικά      96% αγνό νερό.     Λοσιόν με κυρίως φυσικά συστατικά.     Επιλεγμένα εκχυλίσματα.     Μαντήλι που περιέχει φυτικές ίνες.     Κλινικά ελεγμένα με άριστα αποτελέσματα.     Εμποτισμένα έως και 30% περισσότερο για πραγματική φροντίδα στο βρεφικό δέρμα.     Σε συσκευασία των 864 τμχ (54 τμχ x 16 πακέτα).</Description>
 		<Barcode>5201263078439</Barcode>
-		<Quantity>2506</Quantity>
+		<Quantity>2500</Quantity>
 	</product>
 	<product>
 		<ID>70403</ID>
@@ -11322,7 +11322,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>2481</Quantity>
+		<Quantity>2476</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -11340,7 +11340,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
 		<Barcode>8008970055237</Barcode>
-		<Quantity>595</Quantity>
+		<Quantity>594</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -11394,7 +11394,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>571</Quantity>
+		<Quantity>566</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -11592,7 +11592,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Σχεδιασμένο ειδικά για σκούρα ρούχα, βοηθά στη διατήρηση του χρώματος τους και παρέχει απαλή υφή. Επιπλέον, προσφέρει ευχάριστο άρωμα που διαρκεί.</Description>
 		<Barcode>3800024013775</Barcode>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 	</product>
 	<product>
 		<ID>71221</ID>
@@ -11627,7 +11627,7 @@
 		<MPN>101105086</MPN>
 		<Description>Περιγραφή   Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες ακόμη και σε χαμηλές θερμοκρασίες χάρη στα ένζυμα και στη δράση των οπτικών λαπριντικών που υπάρχουν στη σύνθεση του προϊόντος τα υφάσματα είναι πιο καθαρά και φωτεινά. Είναι ιδανικό για την απομάκρυνση ενζυμικών και σωματιδιακών λεκέδων. Πλεονεκτήματα       Αφαιρεί σκληρούς λεκέδες ακόμη και σε χαμηλές θερμοκρασίες και σύντομο κύκλο πλύσης     Βιολογική δράση: περιέχει ένζυμα που είναι ιδιαίτερα αποτελεσματικά συστατικά στην αφαίρεση λεκέδων  Οδηγίες χρήσης       Μην υπερφορτώνετε το πλυντήριο ρούχων σας.     Ελέγχετε πάντα την ετικέτα φροντίδας του υφάσματος και ακολουθήστε τις οδηγίες πλύσης.     Ξεχωρίστε τον ιματισμό σας σε λευκό, ανοιχτόχρωμο και έγχρωμο.     Για μάλλινα και μεταξωτά ρούχα που πλένονται στο πλυντήριο, συνιστούμε να χρησιμοποιείτε ένα ειδικό προϊόν.     Ελέγχετε πάντα τη σταθερότητα του χρώματος πριν από την προεπεξεργασία των λεκέδων με καθαρό υγρό.     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία.</Description>
 		<Barcode>7615400818112</Barcode>
-		<Quantity>47</Quantity>
+		<Quantity>44</Quantity>
 	</product>
 	<product>
 		<ID>712321</ID>
@@ -11644,7 +11644,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>934</Quantity>
+		<Quantity>932</Quantity>
 	</product>
 	<product>
 		<ID>712322</ID>
@@ -11661,7 +11661,7 @@
 		<MPN>9999</MPN>
 		<Description>Το υγρό απορρυπαντικό ρούχων Limpieza Profunda / Deep Clean της Skip μαλακώνει τις ίνες των ρούχων και δεν αφήνει υπολείμματα. Χρησιμοποιείται για λιπαρούς λεκέδες, όπως λάδι, τρόφιμα. Μπορεί να εφαρμοστεί τοπικά, απευθείας πάνω σε λεκέδες πριν από την πλύση. Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας. Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<Barcode>8720181413285</Barcode>
-		<Quantity>934</Quantity>
+		<Quantity>932</Quantity>
 	</product>
 	<product>
 		<ID>71261</ID>
@@ -11679,7 +11679,7 @@
 		<Weight>2.5 kg</Weight>
 		<Description>Το υγρό απορρυπαντικό ρούχων της Omo μαλακώνει τις ίνες των ρούχων και δεν αφήνει υπολείμματα. Χρησιμοποιείται για λιπαρούς λεκέδες, όπως λάδι, τρόφιμα. Μπορεί να εφαρμοστεί τοπικά, απευθείας πάνω σε λεκέδες πριν από την πλύση.Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας.</Description>
 		<Barcode>8720181427381</Barcode>
-		<Quantity>222</Quantity>
+		<Quantity>221</Quantity>
 	</product>
 	<product>
 		<ID>71262</ID>
@@ -11714,7 +11714,7 @@
 		<MPN>1652</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
 		<Barcode>8006540734902</Barcode>
-		<Quantity>195</Quantity>
+		<Quantity>194</Quantity>
 	</product>
 	<product>
 		<ID>71282</ID>
@@ -11972,7 +11972,7 @@
 		<MPN>1101001</MPN>
 		<Description>Το Cif Pro Formula Hand Dishwash είναι ένα υγρό απορρυπαντικό για πλύσιμο στο χέρι πιάτων, μαχαιροπήρουνων, ποτηριών, κατσαρόλες, τηγάνια και όλα τα σκεύη κουζίνας που πλένονται. Η φόρμουλα έχει αναπτυχθεί ειδικά για να αφαιρεί το επίμονο λίπος και τα αποξηραμένα τρόφιμα, ακόμη και σε κρύο νερό, αφήνοντας τα πιάτα σας αφρώδη και χωρίς ραβδώσεις.  Χάρη στο ουδέτερο pH του δέρματος, είναι απαλό στα χέρια. Αφήνει ευχάριστο άρωμα λεμονιού.      Σύνθεση: 5-15% ανιονικά επιφανειοδραστικά.</Description>
 		<Barcode>7615400813728</Barcode>
-		<Quantity>192</Quantity>
+		<Quantity>176</Quantity>
 	</product>
 	<product>
 		<ID>72021</ID>
@@ -12227,7 +12227,7 @@
 		<MPN>1109</MPN>
 		<Description>Ισχυρή και πολυκαθαριστική κρέμα Cif η οποία καθαρίζει αποτελεσματικά όλα τα είδη σκληρής βρωμιάς. Μπορεί να χρησιμοποιηθεί στην κουζίνα όσο και στο μπάνιο αφαιρώντας την πιο δύσκολη βρωμιά όπως τα άλατα, καμένο φαγητό, σκουριά και επίμονους λεκέδες, εξασφαλίζοντας ένα όμορφο αποτέλεσμα.</Description>
 		<Barcode>5000186735012</Barcode>
-		<Quantity>482</Quantity>
+		<Quantity>479</Quantity>
 	</product>
 	<product>
 		<ID>72172</ID>
@@ -12346,7 +12346,7 @@
 		<MPN>1272</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
 		<Barcode>8015100563050</Barcode>
-		<Quantity>523</Quantity>
+		<Quantity>522</Quantity>
 	</product>
 	<product>
 		<ID>72254</ID>
@@ -12516,7 +12516,7 @@
 		<MPN>0252</MPN>
 		<Description>Είναι σχεδιασμένο για τον αποτελεσματικό καθαρισμό και τη φρεσκάδα των δαπέδων στο σπίτι ή στον επαγγελματικό χώρο. Η ισχυρή του σύνθεση απομακρύνει τους λεκέδες και τα ίχνη λίπους από τις επιφάνειες των δαπέδων, αφήνοντάς τους καθαρούς και φρέσκους. Η εφαρμογή του είναι εύκολη: απλώστε το καθαριστικό στο δάπεδο, αφήστε το να δράσει για λίγα λεπτά, και στη συνέχεια ξεβγάλτε με άφθονο νερό. Αφού στεγνώσει, το δάπεδο θα είναι καθαρό και αρωματισμένο με το δροσερό άρωμα του πεύκου.</Description>
 		<Barcode>8714789912585</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>54</Quantity>
 	</product>
 	<product>
 		<ID>73031</ID>
@@ -12567,7 +12567,7 @@
 		<MPN>0214</MPN>
 		<Description>Άρωμα: Αιθέρια Έλαια Άνθη ΠασχαλιάςΠοσότητα: 1ltΤεμάχια: 1</Description>
 		<Barcode>8718951337718</Barcode>
-		<Quantity>570</Quantity>
+		<Quantity>569</Quantity>
 	</product>
 	<product>
 		<ID>73034</ID>
@@ -12992,7 +12992,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>42</Quantity>
+		<Quantity>41</Quantity>
 	</product>
 	<product>
 		<ID>740510102</ID>
@@ -13009,7 +13009,7 @@
 		<MPN>1398</MPN>
 		<Description>Ανταλλακτικό σφουγγαρίστρας Vileda Easy Wring &amp; Clean Turbo με σύνθεση από 100% μικροΐνες για αποτελεσματικό καθάρισμα. Η σφουγγαρίστρα αποσπάται από τη βάση και πλένεται στο πλυντήριο στους 30°C, είναι ιδιαίτερα απορροφητική και απομακρύνει το 99% των βακτηρίων μόνο με νερό. Κατάλληλη για όλα τα πατώματα.</Description>
 		<Barcode>4023103156487</Barcode>
-		<Quantity>345</Quantity>
+		<Quantity>344</Quantity>
 	</product>
 	<product>
 		<ID>740510201</ID>
@@ -13026,7 +13026,7 @@
 		<MPN>1505101</MPN>
 		<Description>Σύστημα καθαρισμού με ψεκασμό, χωρίς κουβά.       Εύκολη αποθήκευση και πάντα έτοιμο για χρήση     Γρήγορο καθάρισμα χάρη στη μεγάλη δεξαμενή και το διπλό πανί / βάση που περιστρέφεται     Μπορεί να χρησιμοποιηθεί στεγνό ή βρεγμένο. Μπορεί να χρησιμοποιηθεί ταυτόχρονα για να σφουγγαρίσετε το πάτωμα και μετά να το στεγνώσετε ή και αντίθετα - πρώτα να το σκουπίσετε και μετά να το σφουγγαρίσετε     Η δεξαμενή πάνω στο κοντάρι, εξασφαλίζει γρήγορη και αποτελεσματική καθαριότητα χωρίς την χρήση κουβά. Μπορείτε να προσθέσετε στην δεξαμενή το απορρυπαντικό της επιλογής σας χρησιμοποιώντας τον ειδικό δοσομετρητή     Πανί 100% μικροϊνών που προσφέρουν απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)</Description>
 		<Barcode>4023103222755</Barcode>
-		<Quantity>41</Quantity>
+		<Quantity>39</Quantity>
 	</product>
 	<product>
 		<ID>740510202</ID>
@@ -13060,7 +13060,7 @@
 		<MPN>03301791</MPN>
 		<Description>Φαράσι σε πράσινο χρώμα της εταιρείας Cyclops, κατάλληλο για την περισυλλογή των απορριμμάτων κατά το σκούπισμα. Είναι κατασκευασμένο από πλαστικό, ένα υλικό ιδιαίτερα ανθεκτικό και οικονομικό. Διαθέτει λάστιχο για να διευκολύνει τη συλλογή της σκόνης και των μικρών ρύπων καθώς και τη συγκράτησή τους μέσα σε αυτό.</Description>
 		<Barcode>5202707004878</Barcode>
-		<Quantity>126</Quantity>
+		<Quantity>124</Quantity>
 	</product>
 	<product>
 		<ID>74201</ID>
@@ -13111,7 +13111,7 @@
 		<MPN>1116002</MPN>
 		<Description>Η πετσέτα μικροϊνών Vileda Colors χρησιμοποιείτε υγρή ή στεγνή, κατάλληλη για όλες τις επιφάνειες. Μπορεί να πλυθεί στο πλυντήριο ή στο χέρι έως τους 60° βαθμούς.​ Κάθε συσκευασία περιέχει 4 χρώματα. ​</Description>
 		<Barcode>4023103192577</Barcode>
-		<Quantity>34</Quantity>
+		<Quantity>33</Quantity>
 	</product>
 	<product>
 		<ID>74204</ID>
@@ -13179,7 +13179,7 @@
 		<MPN>1533</MPN>
 		<Description>Είναι ιδανικό για αποτελεσματικό καθαρισμό τζαμιών και άλλων γυάλινων επιφανειών. Οι μικροΐνες του απορροφούν σκόνη και βρωμιά, αφήνοντας τις επιφάνειες καθαρές και χωρίς στίγματα. Είναι απαλό και ασφαλές για όλες τις γυάλινες επιφάνειες, ενώ μπορεί να πλυθεί και να επαναχρησιμοποιηθεί, κάνοντάς το μια οικολογική και οικονομική επιλογή για το σπίτι σας.</Description>
 		<Barcode>5202707014709</Barcode>
-		<Quantity>103</Quantity>
+		<Quantity>102</Quantity>
 	</product>
 	<product>
 		<ID>74221</ID>
@@ -13502,7 +13502,7 @@
 		<MPN>0421</MPN>
 		<Description>Τα αντικουνουπικά spiral της OSKAR προσφέρουν αποτελεσματική προστασία από τα κουνούπια. Κάθε συσκευασία περιλαμβάνει 10 σπιράλ για επαναλαμβανόμενη προστασία. Ιδανικά για χρήση σε εξωτερικούς χώρους καθώς και σε διακοπές και εκδρομές.</Description>
 		<Barcode>5201062008767</Barcode>
-		<Quantity>206</Quantity>
+		<Quantity>205</Quantity>
 	</product>
 	<product>
 		<ID>74922</ID>
@@ -13895,7 +13895,7 @@
 		<MPN>1621</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Η συσκευασία περιλαμβάνει 50 τμχ    Λευκό    Διάρκεια καύσης 4 ωρών.</Description>
 		<Barcode>5207043000416</Barcode>
-		<Quantity>1067</Quantity>
+		<Quantity>1062</Quantity>
 	</product>
 	<product>
 		<ID>75202030</ID>
@@ -14495,7 +14495,7 @@
 		<MPN>0966</MPN>
 		<Description>Με αρωματική λεβάντα προσφέρουν έναν εύκολο και αρωματισμένο τρόπο για τη διαχείριση των απορριμμάτων. Κατάλληλοι για οικιακή χρήση, οι σάκοι αυτοί είναι ανθεκτικοί και προσφέρουν αξιόπιστη προστασία από διαρροές και διαρροές. Η αρωματική λεβάντα προσθέτει ένα ευχάριστο άρωμα και βοηθά στην εξουδετέρωση οσμών από τα απορρίμματα. Κάθε συσκευασία περιέχει 10 τεμάχια.</Description>
 		<Barcode>5207043001369</Barcode>
-		<Quantity>379</Quantity>
+		<Quantity>378</Quantity>
 	</product>
 	<product>
 		<ID>760100104</ID>
@@ -14529,7 +14529,7 @@
 		<MPN>0164</MPN>
 		<Description>Σακούλες απορριμμάτων, της εταιρείας Softline Fresher, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<Barcode>5200128643119</Barcode>
-		<Quantity>1196</Quantity>
+		<Quantity>1186</Quantity>
 	</product>
 	<product>
 		<ID>760100112</ID>
@@ -14665,7 +14665,7 @@
 		<MPN>LTB60BK</MPN>
 		<Description>Ο κάδος απορριμμάτων, από την εταιρία Songmics, είναι κατασκευασμένος από ανοξείδωτο ατσάλι με πλαστική βάση. Είναι εξοπλισμένος με 2 αφαιρούμενα πλαστικά διαμερίσματα συνολικής χωρητικότητας 60 Lt (2 x 30 Lt). Είναι εφοδιασμένα με μεταλλικές λαβές μεταφοράς, για να μπορείτε να τα αδειάζετε ξεχωριστά. Επιπρόσθετα, κάθε διαμέρισμα διαθέτει μηχανισμό με αντιολισθητικό πεντάλ, ώστε η απόρριψη των απορριμμάτων να πραγματοποιείται με απολύτως άνετο και υγιεινό τρόπο. Τα καπάκια του κάδου χάρη στο ενσωματωμένο σύστημα soft-close, κλείνουν αργά και αθόρυβα, ενώ η αεροστεγής σφραγίδα προστατεύει την οικογένειά σας από βακτηρίδια και κακές οσμές.</Description>
 		<Barcode>0194343027425</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>760200112</ID>
@@ -14716,7 +14716,7 @@
 		<MPN>E-0759</MPN>
 		<Description>Πλαστικά μανταλάκια για ρούχα σε σετ 24τμχ με 4 διαφορετικά χρώματα.</Description>
 		<Barcode>5203642107594</Barcode>
-		<Quantity>230</Quantity>
+		<Quantity>229</Quantity>
 	</product>
 	<product>
 		<ID>762011</ID>
@@ -14852,7 +14852,7 @@
 		<MPN>CRP20G30</MPN>
 		<Description>Η κρεμάστρα ρούχων της εταιρείας Songmics σας βοηθάει να οργανώνετε την ντουλάπα σας και παράλληλα να εξοικονομείτε επιπλέον χώρο. Είναι κατασκευασμένη από πλαστικό, ένα υλικό ελαφρύ που συνήθως χρησιμοποιείται για μπλούζες, φορέματα, πουκάμισα και άλλα.  Φέρει μεταλλικά άγκιστρα, ανθεκτικά στη σκουριά και στη διάβρωση, τα οποία περιστρέφονται κατά 360°, για μεγαλύτερη ευκολία. Το πάχος της κάθε κρεμάστρας είναι μόνο 0.6 cm, δεν σπάει εύκολα και είναι ιδανικές όταν δεν υπάρχει αρκετός χώρος στην ντουλάπα.      Υλικά: ABS + καουτσούκ      Αντιολισθητικά τμήματα από καουτσούκ      Μεταλλικά περιστρεφόμενα άγκιστρα (360°)      Εξαιρετικά ανθεκτικές και εύκαμπτες      Εγκοπές για φούστες      Μέγιστη χωρητικότητα κάθε κρεμάστρας: 5 Kg      Πάχος: 0.6 cm      Διαστάσεις: 42 x 21.5 x 0.6 cm</Description>
 		<Barcode>0194343316291</Barcode>
-		<Quantity>18</Quantity>
+		<Quantity>16</Quantity>
 	</product>
 	<product>
 		<ID>762030111</ID>
@@ -14869,7 +14869,7 @@
 		<MPN>CRF21PK50</MPN>
 		<Description>Το σετ από την εταιρία Songmics, αποτελείται από 50 βελούδινες κρεμάστρες, ώστε να αποφεύγεται η ολίσθηση των ρούχων. Διαθέτουν μεταλλικά άγκιστρα, ανθεκτικά στη σκουριά και στη διάβρωση, τα οποία περιστρέφονται κατά 360°, για μεγαλύτερη ευκολία.Το πάχος της κάθε κρεμάστρας είναι μόνο 0.6 cm, δεν σπάει εύκολα και είναι ιδανικές όταν δεν υπάρχει αρκετός χώρος στην ντουλάπα.</Description>
 		<Barcode>0194343155760</Barcode>
-		<Quantity>29</Quantity>
+		<Quantity>28</Quantity>
 	</product>
 	<product>
 		<ID>762030121</ID>
@@ -15022,7 +15022,7 @@
 		<MPN>00330398</MPN>
 		<Description>Αντλία λαδιού Νο1, πλαστική, από την εταιρεία Κύκλωψ.</Description>
 		<Barcode>5202707989823</Barcode>
-		<Quantity>41</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>76206</ID>
@@ -15124,7 +15124,7 @@
 		<MPN>Ε-2602</MPN>
 		<Description>Το ανοιχτήρι Sidi Home διαθέτει δύο σκάλες για την αφαίρεση του φελλού, κοφτερό μαχαιράκι για την απομάκρυνση του καψιλίου και έλικα με αντικολλητική επίστρωση.</Description>
 		<Barcode>5203642126021</Barcode>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>76220201</ID>
@@ -16419,7 +16419,7 @@
 		<MPN>RDT123T14V1</MPN>
 		<Description>1 ράφι στην κορυφή για τα αρώματά σας, 7 ανοιχτά διαμερίσματα για τα καλλυντικά σας, 2 διαμερίσματα και γάντζοι πίσω από τον καθρέφτη, 1 επιφάνεια τραπεζιού, 2 συρτάρια και 1 ράφι στο κάτω μέρος, αυτό το τραπέζι μακιγιάζ σας παρέχει σημαντικό χώρο.  Πατήστε το κουμπί αφής για να αλλάξετε τα χρώματα του φωτός, πατήστε το κουμπί για μερικά δευτερόλεπτα για να ρυθμίσετε τη φωτεινότητα, όλα είναι συνδυασμένα για να κάνετε το μακιγιάζ σας πολύ γρήγορα!  Οι 2 σανίδες στα αριστερά και η μεσαία σανίδα στα δεξιά είναι ρυθμιζόμενες σε 3 ύψη, για να φιλοξενήσουν τα προϊόντα σας διαφορετικών μεγεθών, όπως κρέμες προσώπου, ορούς, βάσεις, καθαριστικά μακιγιάζ και άλλα.  Κατασκευασμένο από ποιοτική μοριοσανίδα, αυτό το τραπέζι μακιγιάζ είναι σταθερό και ανθεκτικό με την πάροδο του χρόνου. Η επιφάνειά του είναι ανθεκτική στη φθορά και εύκολη στον καθαρισμό, θα σας συνοδεύει για χρόνια.  Ο απλός σχεδιασμός, οι καθαρές γραμμές και το καθαρό λευκό φέρνουν αυτό το μοντέρνο τραπέζι μακιγιάζ στη ζωή που θα φέρει μια πινελιά κομψότητας στο δωμάτιό σας.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία και είναι ικανοποιητική η χωρητικότητά της.</Description>
 		<Barcode>0194343038032</Barcode>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>7700130103</ID>
@@ -16623,7 +16623,7 @@
 		<MPN>E-1810gr</MPN>
 		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
 		<Barcode>5203642118101</Barcode>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>7715006103</ID>
@@ -16742,7 +16742,7 @@
 		<MPN>E-3443</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134439</Barcode>
-		<Quantity>114</Quantity>
+		<Quantity>113</Quantity>
 	</product>
 	<product>
 		<ID>772100104</ID>
@@ -16963,7 +16963,7 @@
 		<MPN>E-1229</MPN>
 		<Description>Πατάκι εξώπορτας από κοκοφοίνικα πάχους 5εκ. με κερωμένο τελείωμα.     Αξιόπιστο -βαρύ-χοντρό     Πάχος 5cm     Περιμετρικό τελείωμα με κερί για να μην μαδάει</Description>
 		<Barcode>5203642112291</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>77300201</ID>
@@ -17219,7 +17219,7 @@
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<Barcode>7449138607</Barcode>
-		<Quantity>278</Quantity>
+		<Quantity>257</Quantity>
 	</product>
 	<product>
 		<ID>78012</ID>
@@ -17338,7 +17338,7 @@
 		<MPN>0773</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<Barcode>5202054467555</Barcode>
-		<Quantity>199</Quantity>
+		<Quantity>193</Quantity>
 	</product>
 	<product>
 		<ID>78105</ID>
@@ -17423,7 +17423,7 @@
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
 		<Barcode>15202054457515</Barcode>
-		<Quantity>74</Quantity>
+		<Quantity>71</Quantity>
 	</product>
 	<product>
 		<ID>78111</ID>
@@ -17474,7 +17474,7 @@
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 200ml.</Description>
 		<Barcode>5203124503005</Barcode>
-		<Quantity>2294</Quantity>
+		<Quantity>2270</Quantity>
 	</product>
 	<product>
 		<ID>78131</ID>
@@ -17950,7 +17950,7 @@
 		<MPN>1773</MPN>
 		<Description>Κουταλάκι γλυκού συσκευασμένο σε διάφανο πλαστικό 11cm επαναχρησιμοποιούμενο. Ιδανικό για παγωτό ή γλυκό. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
 		<Barcode>5214002309794</Barcode>
-		<Quantity>3549</Quantity>
+		<Quantity>3539</Quantity>
 	</product>
 	<product>
 		<ID>78615102</ID>
@@ -18434,7 +18434,7 @@
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<Barcode>5207243085343</Barcode>
-		<Quantity>1679</Quantity>
+		<Quantity>1678</Quantity>
 	</product>
 	<product>
 		<ID>78991111</ID>
@@ -18894,7 +18894,7 @@
 		<Weight>0.25 kg</Weight>
 		<Description>Κόλλα σχολική / παιδική από την Typotrust σε μορφή gel 35ml για εύκολη εφαρμογή. Αποτελεί ασφαλή επιλογή για χρήση από παιδιά σε χειροτεχνίες στο σχολείο αλλά και στο σπίτι. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
 		<Barcode>5203358052027</Barcode>
-		<Quantity>79</Quantity>
+		<Quantity>78</Quantity>
 	</product>
 	<product>
 		<ID>79241</ID>
@@ -18997,7 +18997,7 @@
 		<MPN>EFL003</MPN>
 		<Description>Ο πλαστικοποιητής Infinity της Esperanza είναι ιδανικός για την προστασία σημαντικών εγγράφων ή φωτογραφιών εύκολα και γρήγορα.  Είναι κατασκευασμένος από πλαστικό υψηλής ποιότητας, υποστηρίζει λειτουργίες θερμής και ψυχρής πλαστικοποίησης και προστασία απο υπερθέρμανση.  Για έγγραφα μεγέθους έως Α3 με ταχύτητα πλαστικοποίησης 250mm/λεπτό και μέγιστο χρόνο προθέρμανσης περίπου 5 λεπτά. Τεχνικά Χαρακτηριστικά:      Ισχύς: 265W     Τροφοδοσία: 220-240V     Συχνότητα: 50Hz     Συμβατό πάχος φύλλων: 80-125 microns     Μέγιστη διάσταση φύλλου: 210 x 297 mm (A4)     Χρόνος προθέρμανσης:: περίπου 5 λεπτά     Ταχύτητα πλαστικοποίησης: 250mm/λεπτό     Μέγιστο πλάτος φύλλου: 240mm     Μέγιστο πάχος φύλλου: 0.6mm     Αριθμός ρολών: 2     Υλικό: πλαστικό (ABS)     Μήκος καλωδίου: περίπου 154 cm     Διαστάσεις: 345 x 140 x 65 mm     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
 		<Barcode>5901299949443</Barcode>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>7932010231</ID>
@@ -19031,7 +19031,7 @@
 		<MPN>LP03080</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Μέγεθος: Α3     Πάχος: 80 micron     Συσκευασία: 100 τεμάχια</Description>
 		<Barcode>5207146013818</Barcode>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>7932010241</ID>
@@ -20513,7 +20513,7 @@
 		<MPN>1601</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Εφαρμογή Λαμπτήρα: E14    Ισχύς: 5W    Τάση: 220-240V    Είδος: Νυκτός</Description>
 		<Barcode>5206139000590</Barcode>
-		<Quantity>61</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>7972002</ID>
@@ -20683,7 +20683,7 @@
 		<MPN>1609</MPN>
 		<Description>Με μια ματιά:• Αριθμός πριζών: 4• Μέγιστο ονομαστικό φορτίο: 3680W• Με μήκος καλωδίου 1.5m• Με διακόπτη On / Off• Με παιδική προστασία• Χρώμα: λευκόΒασικά χαρακτηριστικάΠολύπριζο ασφαλείας της εταιρείας Lime, με 4 πρίζες. Επεκτείνει τον αριθμό των διαθέσιμων πριζών σε ένα χώρο, διευκολύνοντας την τροφοδοσία πολλών συσκευών από μία πηγή ρεύματος.</Description>
 		<Barcode>5205308280207</Barcode>
-		<Quantity>15</Quantity>
+		<Quantity>14</Quantity>
 	</product>
 	<product>
 		<ID>7973510</ID>
@@ -20955,7 +20955,7 @@
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
 		<Barcode>5410853039334</Barcode>
-		<Quantity>536</Quantity>
+		<Quantity>534</Quantity>
 	</product>
 	<product>
 		<ID>7975022</ID>
@@ -21636,7 +21636,7 @@
 		<MPN>EKH011</MPN>
 		<Description>Επαγωγική Εστία  Ο τύπος της είναι επαγωγική, θερμαίνεται δηλαδή μόνο το κάτω μέρος από το σκεύος και όχι όλη η εστία, με αποτέλεσμα η περιβάλλουσα περιοχή να παραμένει κρύα στην αφή. Χρησιμοποιεί λιγότερη ενέργεια σε σχέση με τους υπόλοιπους τύπους εστιών και ο χρόνος μαγειρέματος μειώνεται στο μισό. Ενδεικτικά, το νερό βράζει σε λιγότερο από 90 δευτερόλεπτα.  Ο καθαρισμός της είναι πανεύκολος, αφού η περιοχή γύρω από το σκεύος παραμένει κρύα, άρα οτιδήποτε χυθεί δεν θερμαίνεται και δεν κολλάει στην επιφάνεια.  Απαραίτητη προϋπόθεση για αυτόν τον τύπο εστιών είναι ότι τα σκεύη πρέπει να είναι συμβατά για επαγωγικές εστίες, δηλαδή κατασκευασμένα από ανοξείδωτο ατσάλι ή χυτοσίδηρο, καθώς δεν μπορούμε να χρησιμοποιήσουμε όλα τα είδη σκευών. Τέλος, αν έχετε μικρά παιδιά θεωρείται η πιο ασφαλής επιλογή. Χειρισμός αφής  Ο χειρισμός για την επιλογή των επιθυμητών θερμοκρασιών και ρυθμίσεων γίνεται ψηφιακά και μέσω αφής.  Όλες οι επιλογές βρίσκονται ενσωματωμένες στην επιφάνεια, συνεπώς το μόνο που χρειάζεται για να ξεκινήσετε το μαγείρεμα, είναι μερικά απαλά αγγίγματα με το δάχτυλό σας.  Στην ψηφιακή οθόνη της μπορείτε να βλέπετε ανά πάσα στιγμή τις τρεχουσες ρυθμίσεις σας. Επιφάνεια μαγειρέματος  Διαθέτει μεγάλη επιφάνεια μαγειρέματος διαμέτρου από 14 έως 22 cm. Μπορεί να αναπτύξει θερμοκρασίες από 80°C έως 270°C.  Πρόκειται για μία έξυπνη εστία που προειδοποιεί στην περίπτωση χρήσης ακατάλληλου ή πολύ μικρού σκεύους.  Οι 5 προεπιλεγμένες λειτουργίες θα σας βοηθήσουν στην παρασκευή οποιουδήποτε φαγητού επιθυμείτε. Χρονοδιακόπτης  Ηλεκτρονικός χρονοδιακόπτης που τερματίζει αυτόματα την λειτουργία της εστίας, στο τέλος του επιθυμητού χρόνου μαγειρέματος. Ιδανική για τα ταξίδια και το εξοχικό  Ο απλός σχεδιασμός της ταιριάζει σε κάθε κουζίνα και το εύχρηστο μέγεθος καθιστά εύκολη τη μεταφορά είτε για κάμπινγκ, είτε για διακοπές είτε για μετακόμιση.      Διαστάσεις: 28 x 36 x 7 cm</Description>
 		<Barcode>5901299963869</Barcode>
-		<Quantity>19</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>799130301</ID>
@@ -21891,7 +21891,7 @@
 		<MPN>EHQ007</MPN>
 		<Description>Η λάμπα εντομοκτόνου Esperanza είναι πολύ αποτελεσματική στο να προσελκύει έντομα όπως μύγες, σκώρους, κουνούπια και άλλα ιπτάμενα έντομα και στη συνέχεια να τα σκοτώνει σιωπηλά.  Δεν χρησιμοποιεί χημικά, σπρέι και δεν εκπέμπει οσμές. Δεν είναι επιβλαβές για τον άνθρωπο ή τα κατοικίδια. Είναι ιδανικό για χρήση στο σπίτι, κήπους, εργοστάσια, χώρους επεξεργασίας τροφίμων, ψυκτικές αποθήκες και νοσοκομεία κ.λπ. Απολαύστε τη καλοκαιρινή σας νύχτα χωρίς ενόχληση από έντομα!      Ονομαστική τάση: 220V-240V~/50Hz-60HZ     Τύπος λαμπτήρα: Λάμπα UV-A BL T8 F15W x 2 τεμάχια     Ισχύς εξόδου: 30 W     Εσωτερική τάση δικτύου: 2500 V     Επιφάνεια εφαρμογής: 100 m²     Μήκος καλωδίου: 120 cm     Μέγεθος προϊόντος: 48,5 x 7,5 x 25,0 [cm]</Description>
 		<Barcode>5901299955529</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>799220101</ID>
@@ -22027,7 +22027,7 @@
 		<MPN>EBS019</MPN>
 		<Description>Η σύγχρονη ψηφιακή ζυγαριά, της εταιρίας Esperanza, σας επιτρέπει να ελέγχετε το βάρος του μωρού σας. Η τακτική εξέταση του βάρους και της ανάπτυξης του μωρού σας βοηθά στην παρακολούθηση της σωστής ανάπτυξής του. Η ζυγαριά μπορεί να ζυγίσει μέχρι και 20 κιλά.  Η μεγάλη οθόνη υγρών κρυστάλλων κάνει εύκολη την ανάγνωση των αποτελεσμάτων ζύγισης. Η ζυγαριά είναι επίσης εξοπλισμένη με λειτουργίες TARE και HOLD για εύκολο ζύγισμα, όταν το παιδί σας μετακινείται. Το εργονομικό της σχήμα εξασφαλίζει την άνεση και την ασφάλεια του παιδιού σας όταν το ζυγίζετε.      Ακριβής ζύγιση     Βάρος: 0.03 - 20kg     Κλίμακα διαίρεσης: 0.01kg     Λειτουργία TARE (απόβαρο)     Λειτουργία HOLD (για πιο ακριβείς μετρήσεις όταν κινείται το μωρό)     Μεγάλη οθόνη LCD: 60x25mm     Μονάδα μέτρησης: KG / LB / ST     Τροφοδοσία: 2 x AAA μπαταρία (δεν περιλαμβάνονται)     Ένδειξη χαμηλής μπαταρίας και υπερφόρτωσης     Αυτόματη και χειροκίνητη απενεργοποίηση     Θερμοκρασία εργασίας: 0° C - 40° C     Διαστάσεις: 54.5x32x3cm</Description>
 		<Barcode>5901299954935</Barcode>
-		<Quantity>14</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>799500101</ID>
@@ -23065,7 +23065,7 @@
 		<MPN>1718</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Χρόνος Λειτουργίας 10 ώρες     Χρόνος φόρτισης 2 ώρες     Bluetooth 5.3     Εμβέλεια: 10m</Description>
 		<Barcode>6970312531506</Barcode>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>799514102</ID>
@@ -23202,7 +23202,7 @@
 		<MPN>1762</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Αντάπτορας Bluetooth από AUX σε USB     Σύνδεση έως 2 συσκευών ταυτόχρονα     Εμβέλεια Bluetooth έως 10 μέτρα     Λυχνία LED ένδειξης λειτουργίας</Description>
 		<Barcode>6957303876013</Barcode>
-		<Quantity>7</Quantity>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>799515111</ID>
@@ -24232,7 +24232,7 @@
 		<MPN>ME30</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Dual Band (2.4 &amp; 5GHz)     Μέγιστη ταχύτητα 1200 Mbps     Wi‑Fi 5     Δύο κεραίες     Θύρα ethernet     Διαστάσεις 112x84.7x39mm</Description>
 		<Barcode>6957939000516</Barcode>
-		<Quantity>242</Quantity>
+		<Quantity>241</Quantity>
 	</product>
 	<product>
 		<ID>79962702</ID>
@@ -24283,7 +24283,7 @@
 		<MPN>1764</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Συνδεση με USB-C 3.1 Gen.2     10TB μέγιστη χωρητικότητα     Ένδειξη led     Plug &amp; play  Θήκη σκληρού δίσκου 2,5 ιντσών με θύρα Type-C.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτηση του δίσκου στη θήκη και είναι σταθερή στη λειτουργία της.</Description>
 		<Barcode>6957303857432</Barcode>
-		<Quantity>25</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>799631111</ID>
@@ -24539,7 +24539,7 @@
 		<MPN>1559</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Bluetooth 5.1    Ραδιόφωνο FM    3 λειτουργίες φωτισμού RGB    Ώρες Λειτουργίας (max) 7 ώρες    Διαστάσεις: 25.5 x 8.7 x 11 cm    Βάρος: 0.825kg</Description>
 		<Barcode>4905192533885</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>7996521</ID>
@@ -27038,7 +27038,7 @@
 		<Weight>4 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.• Κυρίως συστατικό: Κρέας• Συσκευασία: 4kg</Description>
 		<Barcode>5202546009195</Barcode>
-		<Quantity>366</Quantity>
+		<Quantity>362</Quantity>
 	</product>
 	<product>
 		<ID>99022</ID>
@@ -27092,7 +27092,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
 		<Barcode>8007520011549</Barcode>
-		<Quantity>423</Quantity>
+		<Quantity>399</Quantity>
 	</product>
 	<product>
 		<ID>99101</ID>
@@ -27128,7 +27128,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>412</Quantity>
+		<Quantity>409</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
@@ -27165,24 +27165,5 @@
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
 		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>=COUNTBLANK(A2:A1572)</ID>
-		<Name>=COUNTBLANK(B2:B1572)</Name>
-		<Product_Link>=COUNTBLANK(C2:C1572)</Product_Link>
-		<Image_Link>=COUNTBLANK(D2:D1572)</Image_Link>
-		<Additional>=COUNTBLANK(E2:E1572)</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>=COUNTBLANK(F2:F1572)</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>=COUNTBLANK(G2:G1572)</ΤΕΜΑΧΙΑ>
-		<VAT>=COUNTBLANK(H2:H1572)</VAT>
-		<Price>=COUNTBLANK(I2:I1572)</Price>
-		<Availability>=COUNTBLANK(J2:J1572)</Availability>
-		<Category_Path>=COUNTBLANK(K2:K1572)</Category_Path>
-		<Manufacturer>=COUNTBLANK(L2:L1572)</Manufacturer>
-		<MPN>=COUNTBLANK(M2:M1572)</MPN>
-		<Weight>=COUNTBLANK(N2:N1572)</Weight>
-		<Description>=COUNTBLANK(O2:O1572)</Description>
-		<Barcode>=COUNTBLANK(P2:P1572)</Barcode>
-		<Quantity>=COUNTBLANK(Q2:Q1572)</Quantity>
 	</product>
 </mywebstore>
