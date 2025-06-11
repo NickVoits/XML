@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-11 16:05</created_at>
+	<created_at>2025-06-11 16:56</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -1632,7 +1632,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703172</Barcode>
-		<Quantity>223</Quantity>
+		<Quantity>213</Quantity>
 	</product>
 	<product>
 		<ID>14022</ID>
@@ -7359,7 +7359,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.44</Price>
+		<Price>6.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Παιδικά - Βρεφικά &gt; Φροντίδα &amp; Υγιεινή Μωρού &gt; Προϊόντα Παιδικού &amp; Βρεφικού Βουρτσίσματος Δοντιών</Category_Path>
 		<Manufacturer>ORAL-B</Manufacturer>
@@ -7376,7 +7376,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.44</Price>
+		<Price>6.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Παιδικά - Βρεφικά &gt; Φροντίδα &amp; Υγιεινή Μωρού &gt; Προϊόντα Παιδικού &amp; Βρεφικού Βουρτσίσματος Δοντιών</Category_Path>
 		<Manufacturer>ORAL-B</Manufacturer>
@@ -7393,7 +7393,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.42</Price>
+		<Price>4.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Στοματική Υγιεινή &gt; Ανταλλακτικά για Ηλεκτρικές Οδοντόβουρτσες</Category_Path>
 		<Manufacturer>ORAL-B</Manufacturer>
@@ -7401,23 +7401,6 @@
 		<Description>Βελτιωμένες κεφαλές της σειράς Cross Action με τεχνολογία CleanMaximiser που προσφέρει έως και 100% περισσότερη αφαίρεση πλάκας και πιο υγιή ούλα σε σύγκριση με μια κανονική χειροκίνητη οδοντόβουρτσα.</Description>
 		<Barcode>4210201353409</Barcode>
 		<Quantity>24</Quantity>
-	</product>
-	<product>
-		<ID>60251</ID>
-		<Name>Oral-B Vitality Spiderman Ηλεκτρική Οδοντόβουρτσα Spiderman</Name>
-		<Product_Link>https://www.skroutz.gr/s/55048857/Oral-B-Vitality-Spiderman-Ilektriki-Odontovourtsa-gia-3-CHronon-Spiderman-Kokkini.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/055048/55048857/20240723163209_oral_b_vitality_spiderman_ilektriki_odontovourtsa_gia_3_chronon_spiderman_kokkini.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>21.57</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Παιδικά - Βρεφικά &gt; Φροντίδα &amp; Υγιεινή Μωρού &gt; Προϊόντα Παιδικού &amp; Βρεφικού Βουρτσίσματος Δοντιών</Category_Path>
-		<Manufacturer>ORAL-B</Manufacturer>
-		<MPN>1283</MPN>
-		<Description>Επαναφορτιζόμενη Ηλεκτρική Οδοντόβουρτσα Spiderman 3+ της Oral-B από την Braun, ειδικά σχεδιασμένη για να είναι απαλή με τα παιδικά δόντια!</Description>
-		<Barcode>8006540772973</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>60301</ID>
@@ -7512,7 +7495,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.77</Price>
+		<Price>1.5</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -8622,7 +8605,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.95</Price>
+		<Price>2.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Παιδικά - Βρεφικά &gt; Φροντίδα &amp; Υγιεινή Μωρού &gt; Βρεφικές &amp; Παιδικές Κρέμες</Category_Path>
 		<Manufacturer>J&amp;J</Manufacturer>
@@ -8639,7 +8622,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.45</Price>
+		<Price>2.54</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Παιδικά - Βρεφικά &gt; Αλλαγή Πάνας Μωρού &gt; Προϊόντα για Συγκάματα Μωρού</Category_Path>
 		<Manufacturer>J&amp;J</Manufacturer>
@@ -9319,7 +9302,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.151572877754386</Price>
+		<Price>2.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>HEAD &amp; SHOULDERS</Manufacturer>
@@ -9336,7 +9319,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.151572877754386</Price>
+		<Price>2.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>HEAD &amp; SHOULDERS</Manufacturer>
@@ -9353,7 +9336,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.112703480888888</Price>
+		<Price>3.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>SYOSS</Manufacturer>
@@ -9370,7 +9353,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.112703480888888</Price>
+		<Price>3.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>SYOSS</Manufacturer>
@@ -9387,7 +9370,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>4.112703480888888</Price>
+		<Price>3.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>SYOSS</Manufacturer>
@@ -10058,23 +10041,6 @@
 		<Description>Το έλαιο Tsubaki που λαμβάνεται πιέζοντας τους σπόρους του φυτού Camellia japonica, χρησιμοποιείται παραδοσιακά στην Ιαπωνία για τη θεραπεία του δέρματος. Είναι από μόνο του μαλακτικό, ενυδατικό και αντι-οξειδωτικό. Έντονο και αισθησιακό άρωμα του είναι εμπλουτισμένη με φρέσκα και ανθισμένα Παιωνία.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και αφήνει απαλό το δέρμα σου.</Description>
 		<Barcode>8008970039190</Barcode>
 		<Quantity>44</Quantity>
-	</product>
-	<product>
-		<ID>67031</ID>
-		<Name>Tesori d'Oriente White Musk Κρέμώδες Αφρόλουτρο 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/7510402/Tesori-d-Oriente-White-Musk-Kremodes-Afroloutro-500ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/007510/7510402/20220124154243_tesori_d_oriente_white_musk_bath_cream_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
-		<Price>3.909682809747127</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
-		<Manufacturer>TESORI</Manufacturer>
-		<MPN>1257</MPN>
-		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Barcode>8008970011127</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>67091</ID>
@@ -10912,7 +10878,7 @@
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<Barcode>5200100281667</Barcode>
-		<Quantity>748</Quantity>
+		<Quantity>747</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -11083,7 +11049,7 @@
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<Barcode>5202995004628</Barcode>
-		<Quantity>224</Quantity>
+		<Quantity>2144</Quantity>
 	</product>
 	<product>
 		<ID>70322</ID>
@@ -11186,23 +11152,6 @@
 		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα με διακριτικό άρωμα. - Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007026</Barcode>
 		<Quantity>784</Quantity>
-	</product>
-	<product>
-		<ID>70431</ID>
-		<Name>Pom Pon Μαντηλάκια Ντεμακιγιάζ Sensitive Skin για Ευαίσθητες Επιδερμίδες 20 τμχ (1+1 ΔΩΡΟ)</Name>
-		<Product_Link>https://www.skroutz.gr/s/29172738/Pom-Pon-All-Skin-Types-Face-Eyes-40tmch.html</Product_Link>
-		<Image_Link>https://static.shopflix.gr/images/thumbnails/1000/1000/detailed/12571/0697%CE%A3.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>2.64</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Προσώπου &gt; Καθαριστικά Προσώπου</Category_Path>
-		<Manufacturer>POM PON</Manufacturer>
-		<MPN>0570</MPN>
-		<Description>Μαντηλάκια ντεμακιγιάζ προσώπου και ματιών της Pom Pon, κατάλληλα για όλους τους τύπους επιδερμίδας. Αφαιρούν τα υπολείμματα που αφήνει το μακιγιάζ στο δέρμα, αποτρέποντας το φράξιμο των πόρων και βοηθώντας το να αναπνεύσει καλύτερα. Ταυτόχρονα αποφεύγεται η πρόκληση φαγούρας, ερεθισμών, ερυθρότητας καθώς και διαφόρων άλλων δυσάρεστων για την επιδερμίδα συνεπειών.</Description>
-		<Barcode>5201263016646</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>70901</ID>
@@ -13182,6 +13131,23 @@
 		<Quantity>102</Quantity>
 	</product>
 	<product>
+		<ID>742200101</ID>
+		<Name>Vileda Classic Σετ Σφουγγάρια Πιάτων Πράσινα 3τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/22806175/Vileda-Classic-151564-Set-Sfougaria-Piaton-Prasina-3tmch.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/022806/22806175/xlarge_20220222164518_vileda_sfougaraki_piaton_classic_151564_3tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.96</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>Vileda</Manufacturer>
+		<MPN>151564</MPN>
+		<Description>1. Καθαριστική απόδοση  Διαθέτει υψηλής ποιότητας φίμπρα για μέγιστη καθαριστική απόδοση και υδρόφιλο σπόγγο για μέγιστη απορροφητικότητα και παραγωγή αφρού. Έτσι καθαρίζεται τα πιάτα σας εύκολα και γρήγορα 2. Αντιβακτηριδιακή επεξεργασία  Η φίμπρα περιέχει ιόντα αργύρου ένα αντιβακτηριδιακό συστατικό που προλαμβάνει την ανάπτυξη των βακτηρίων.</Description>
+		<Barcode>5201815211352</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>74221</ID>
 		<Name>Scotch Brite Classic Σετ Σφουγγάρια Πιάτων Πολύχρωμα 3τμχ (2+1 Δώρο)</Name>
 		<Product_Link>https://www.skroutz.gr/s/34846735/Scotch-Brite-Classic-Set-Sfougaria-Piaton-Polychroma-3tmch.html</Product_Link>
@@ -13248,6 +13214,24 @@
 		<Description>Σχεδιασμένος για να καθαρίζει αποτελεσματικά τα πιάτα χωρίς να τα χαράζει. Η συσκευασία περιλαμβάνει 3 τεμάχια σφουγγαριστές, οι οποίοι είναι κατασκευασμένοι από υλικό που δεν προκαλεί γρατζουνιές, προσφέροντας ασφαλές και αποτελεσματικό καθαρισμό. Με αυτόν τον σφουγγαριστή πιάτων, μπορείτε να αφαιρέσετε τα υπολείμματα τροφών και τις λεκέδες από τα πιάτα σας με άνεση και ευκολία, χωρίς να προκαλείτε ζημιά στην επιφάνειά τους.</Description>
 		<Barcode>5200128642143</Barcode>
 		<Quantity>91</Quantity>
+	</product>
+	<product>
+		<ID>742500101</ID>
+		<Name>Vileda Glitzi Power Inox Σετ Μεταλλικά Σφουγγάρια Κουζίνας Ασημί για τον καθαρισμό επίμονων λεκέδων 10x9cm 2τμχ</Name>
+		<Product_Link>Vileda Glitzi Power Inox Σετ Μεταλλικά Σφουγγάρια Κουζίνας Ασημί για τον καθαρισμό επίμονων λεκέδων 10x9cm 2τμχ</Product_Link>
+		<Image_Link>https://www.vileda.gr/medias/VC-Prod-Sell-Slot-null?context=bWFzdGVyfHJvb3R8MjU3NjEyfGltYWdlL3BuZ3xhREJtTDJnek1DODVPVGczTWpjM09UUTJPVEV3TDFaRFgxQnliMlJmVTJWc2JGOVRiRzkwWDI1MWJHd3w3MDVmZWMzZmZjNmM4MWIyYjE5ZjIyOTQyNWFjYTcyYzU5Y2IxNTNkNjFhMTE1ODJhNTRjYTAzYTE2ZDNkZGIw</Image_Link>
+		<Additional>https://www.vileda.gr/power-inox-metalliko-sfouggaraki</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.31</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>Vileda</Manufacturer>
+		<MPN>173352</MPN>
+		<Description>Βασικά Χαρακτηριστικά 1. 1. Σύνθεση  Το σφουγγαράκι αποτελείται από 36% ίνες πολυεστέρα, 46% χαλύβδινο σύρμα και 18% πολυουρεθάνη δημιουργώντας μια ειδική δομή από ανοξείδωτο ατσάλι. Αυτός ο αρμονικός συνδυασμός είναι ανθεκτικός, αφαιρεί χωρίς κόπο τους επίμονους λεκέδες και δεν σκουριάζει. 2. 2. Απόλυτη Υγιεινή  Το μεταλλικό σφουγγαράκι PowerInox μπορεί να ξεπλυθεί και να καθαριστεί σχολαστικά με νερό. Χάρη στην συμπαγή δομή του, τα υπολείμματα τροφών καθαρίζονται εύκολα και δεν παραμένουν στις ίνες όπως στα κοινά σύρματα. Έτσι το σφουγγάρι σας διατηρείται καθαρό και υγιεινό για περισσότερο. 3. 3. Αποτελεσματικός Καθαρισμός  Για τον καθαρισμό επίμονων λεκέδων, καμένων λαδιών ή υπολειμμάτων τροφίμων, αγοράστε το ειδικό σφουγγάρι PowerInox από ανοξείδωτο ατσάλι και καθαρίστε γρήγορα και εύκολα τη βρωμιά.</Description>
+		<Barcode>4023103172036</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>74250101</ID>
@@ -16128,7 +16112,7 @@
 		<MPN>E-4354</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Υλικό επιφάνειας: Μοριοσανίδα     Υλικό σκελετού: Μέταλλο     Διαστάσεις: 40x30x60εκ.</Description>
 		<Barcode>5203642143547</Barcode>
-		<Quantity>218</Quantity>
+		<Quantity>216</Quantity>
 	</product>
 	<product>
 		<ID>77001102</ID>
@@ -22674,7 +22658,7 @@
 		<MPN>16.005.0307</MPN>
 		<Description>Καλώδιο XO NB-Q265B PD με συνδέσεις USB-C και USB-C. Το καλώδιο έχει σχεδιαστεί για μέγιστη άνεση κατά τη διάρκεια της καθημερινής χρήσης. Επιτρέπει την πλήρη εκμετάλλευση της μέγιστης ισχύος φόρτισης των συμβατών συσκευών. Είναι κατασκευασμένο από ελαστικό σιλικόν, εξασφαλίζοντας μακρύτερη διάρκεια χρήσης.</Description>
 		<Barcode>6920680855049</Barcode>
-		<Quantity>50</Quantity>
+		<Quantity>49</Quantity>
 	</product>
 	<product>
 		<ID>7995115212</ID>
@@ -22691,7 +22675,7 @@
 		<MPN>16.005.0308</MPN>
 		<Description>Καλώδιο XO NB-Q265B PD με συνδέσεις USB-C και USB-C. Το καλώδιο έχει σχεδιαστεί για μέγιστη άνεση κατά τη διάρκεια της καθημερινής χρήσης. Επιτρέπει την πλήρη εκμετάλλευση της μέγιστης ισχύος φόρτισης των συμβατών συσκευών. Είναι κατασκευασμένο από ελαστικό σιλικόν, εξασφαλίζοντας μακρύτερη διάρκεια χρήσης.</Description>
 		<Barcode>6920680855056</Barcode>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
 		<ID>7995115251</ID>
@@ -24232,7 +24216,7 @@
 		<MPN>ME30</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Dual Band (2.4 &amp; 5GHz)     Μέγιστη ταχύτητα 1200 Mbps     Wi‑Fi 5     Δύο κεραίες     Θύρα ethernet     Διαστάσεις 112x84.7x39mm</Description>
 		<Barcode>6957939000516</Barcode>
-		<Quantity>235</Quantity>
+		<Quantity>231</Quantity>
 	</product>
 	<product>
 		<ID>79962702</ID>
@@ -24556,7 +24540,7 @@
 		<MPN>1560</MPN>
 		<Description>Ελαφρύ και φορητό ηχείο Bluetooth Akai ABTS-806, με ενσωματωμένη μπαταρία 1500mAh για αυτονομία. Ο δυνατός και καθαρός του ήχος με ισχύ 10W το καθιστά κατάλληλο για εσωτερικούς και εξωτερικούς χώρους.</Description>
 		<Barcode>4905192532062</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>799652901</ID>
@@ -27128,7 +27112,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>409</Quantity>
+		<Quantity>408</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
