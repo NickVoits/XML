@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-13 16:55</created_at>
+	<created_at>2025-06-13 16:56</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -7461,7 +7461,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.32</Price>
+		<Price>1.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -7478,7 +7478,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.22</Price>
+		<Price>1.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -8119,6 +8119,23 @@
 		<Description>Το NIVEA Men Sensitive After Shave Recovery Balsam προσφέρει άμεση ανακούφιση μετά το ξύρισμα. Είναι ένα καταπραϋντικό γαλάκτωμα που ηρεμεί τους ερεθισμούς και ανακουφίζει από τις κοκκινίλες. Ιδανικό για ευαίσθητες επιδερμίδες, αυτό το προϊόν δεν περιέχει αλκοόλη.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί κάνει ό,τι υπόσχεται.</Description>
 		<Barcode>4005900735690</Barcode>
 		<Quantity>119</Quantity>
+	</product>
+	<product>
+		<ID>622100201</ID>
+		<Name>Old Spice After Shave Lotion Original 100ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7184440/Old-Spice-After-Shave-Lotion-Original-100ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/007184/7184440/xlarge_20221010114251_old_spice_original_after_shave_lotion_100ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.1</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Υγεία - Ομορφιά &gt; Είδη Ξυρίσματος &gt; After Shave</Category_Path>
+		<Manufacturer>Old Spice</Manufacturer>
+		<MPN>15-00097</MPN>
+		<Description>Το ξεχωριστό αρρενωπό άρωμα του Old Spice After Shave τονώνει και αναζωογονεί την επιδερμίδα, δίνοντας μια αίσθησης φρεσκάδας. Οφέλη      Συνδυάζει τη δροσιά μιας λοσιόν με το κλασσικό ανδρικό άρωμα του Old Spice     Η λοσιόν αναζωογονεί το δέρμα μετά τo ξύρισμα     Βοηθάει να επουλωθούν τυχόν μικρά κοψίματα και πληγές από το ξύρισμα     Δροσίζει, διεγείρει και αναζωογονεί  Οδηγίες Χρήσης  Μετά το ξύρισμα απλώστε στα χέρια σας και απλώστε στο πρόσωπο ή και στον λαιμό. Συστατικά  Alcohol Denat., Aqua, Propylene Glycol, Parfum, Benzyl Alcohol, Linalool, Limonene, Eugenol, Geraniol, Citronellol, Alpha-Isomethyl Ionone, Cinnamyl Alcohol, Citral, Benzyl Benzoate</Description>
+		<Barcode>5011321772335</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>63001</ID>
@@ -13622,6 +13639,23 @@
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλουν στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστοι. Σημαντικό πλεονέκτημα τους είναι το γεγονός πως δεν αφήνουν οσμή, ενώ διακρίνονται για την ασφαλή τους χρήση.    Τεμάχια: 48τμχ</Description>
 		<Barcode>5207043000614</Barcode>
 		<Quantity>2104</Quantity>
+	</product>
+	<product>
+		<ID>751312</ID>
+		<Name>Κύβοι Προσανάμματος Alfa  48τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/58449781/Alfa-Kyvoi-Prosanammatos-48tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/058449/58449781/xlarge_20250127110254_alfa_kyvoi_prosanammatos_48tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.5648552287179487</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
+		<Manufacturer>Alfa</Manufacturer>
+		<MPN>1620001</MPN>
+		<Description>Λευκά Προσάναμμα κηροζίνης σε 48 κομμάτια για να ανάβετε εύκολα και γρήγορα τα κάρβουνα και τα ξύλα.</Description>
+		<Barcode>5200148360072</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>75132</ID>
