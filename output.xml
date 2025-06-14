@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-14 17:05</created_at>
+	<created_at>2025-06-14 17:19</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -12498,7 +12498,7 @@
 		<MPN>1019</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<Barcode>8711600347083</Barcode>
-		<Quantity>4466</Quantity>
+		<Quantity>4465</Quantity>
 	</product>
 	<product>
 		<ID>73531</ID>
@@ -20421,7 +20421,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.13</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20455,7 +20455,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.16</Price>
+		<Price>1.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20482,57 +20482,6 @@
 		<Quantity>384</Quantity>
 	</product>
 	<product>
-		<ID>7975003</ID>
-		<Name>Eurolamp Extreme Αλκαλική Μπαταρία 9V</Name>
-		<Product_Link>https://www.skroutz.gr/s/50413499/Alkalikes-Mpataries-9V-12tmch-147-24124.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/050413/50413499/20240809134139_alkalikes_mpataries_9v_12tmch_147_24124.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.49</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1759</MPN>
-		<Description>Αλκαλική μπαταρία μεγέθους 9V, ιδανική για φακούς, ποτιστικά κι άλλες οικιακές συσκευές.</Description>
-		<Barcode>5207227115462</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7975004</ID>
-		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες C 1.5V 2τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/50216870/Alkalikes-Mpataries-C-1-5V-2tmch-147-24122.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/050216/50216870/20240809134141_alkalikes_mpataries_c_1_5v_2tmch_147_24122.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.91</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1760</MPN>
-		<Description>Αλκαλικές μπαταρίες μεγέθους C, ιδανικές για φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
-		<Barcode>5207227115400</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7975005</ID>
-		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες D 1.5V 2τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/54567742/Eurolamp-Mpataries-Alkalikes-Extreme-D-Eurolamp-2-tem.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/054567/54567742/20240809134139_eurolamp_mpataries_alkalikes_extreme_d_eurolamp_2_tem.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>2.7</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1761</MPN>
-		<Description>Αλκαλικές μπαταρίες μεγέθους D, ιδανικές για φακούς κι άλλες οικιακές συσκευές.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
-		<Barcode>5207227115431</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>7975011</ID>
 		<Name>Eurolamp Extreme Μπαταρία Λιθίου CR2032 3V</Name>
 		<Product_Link>https://www.skroutz.gr/s/51833989/Eurolamp-Mpataria-Lithiou-Rologion-CR2032-1tmch.html</Product_Link>
@@ -20540,7 +20489,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.39</Price>
+		<Price>0.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Μπαταρίες Ρολογιών</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20557,7 +20506,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.39</Price>
+		<Price>0.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Μπαταρίες Ρολογιών</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20574,7 +20523,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.39</Price>
+		<Price>0.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Μπαταρίες Ρολογιών</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
