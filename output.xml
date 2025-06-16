@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-16 17:05</created_at>
+	<created_at>2025-06-16 17:08</created_at>
 	<product>
 		<ID>31023</ID>
-		<Name>Άλφα 6τμχ x330ml</Name>
+		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/43960896/Alfa-Mpyra-Lager-Kouti-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201261031030_1-1000x1000.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -20,26 +20,8 @@
 		<Quantity>11</Quantity>
 	</product>
 	<product>
-		<ID>31023-Τ</ID>
-		<Name>Άλφα Lager Κουτί 330ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/6790727/Alfa-Lager-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/006790/6790727/20230911150150_alfa_lager_kouti_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.87</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
-		<Manufacturer>Άλφα</Manufacturer>
-		<MPN>1191</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Ξανθιά, ελαφριά lager μπύρα, δροσερή με πλούσιο αφρό και ευκολόπιοτη. Συνδυάζει ένα λαμπερό χρυσαφί χρώμα και ένα απαλό άρωμα βύνης και μαγιάς με 5% περιεκτικότητα σε αλκοόλ. Ζυθοποιείται με την παραδοσιακή συνταγή, εξ’ολοκλήρου στην Ελλάδα, με 100% ελληνικό κριθάρι.</Description>
-		<Barcode>5201261031030</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>310239</ID>
-		<Name>Άλφα ΧΩΡΙΣ ΑΛΚΟΟΛ 6pack*330ml</Name>
+		<Name>Άλφα Μπύρα Χωρίς Αλκοόλ Lager Κουτί 6x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/16120635/Alfa-CHoris-Alkool-Lager-Kouti-6x330ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/016120/16120635/20181012153355_alfa_choris_alkool_kouti_6_temachia_330ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -75,7 +57,7 @@
 	</product>
 	<product>
 		<ID>31082</ID>
-		<Name>Erdinger Weissbräu Weiss Φιάλη 500ml</Name>
+		<Name>Erdinger Μπύρα Weissbräu Weiss Φιάλη 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5701278/Erdinger-Weissbraeu-Weiss-Fiali-500ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/005701/5701278/20200314135415_erdinger_weissbr_u_weiss_fiali_500ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -93,13 +75,13 @@
 	</product>
 	<product>
 		<ID>31085</ID>
-		<Name>MCFARLAND Irish Ale ΦΙΑΛΗ 330ml</Name>
+		<Name>MCFARLAND Μπύρα Irish Ale ΦΙΑΛΗ 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5699169/Birra-Dreher-McFarland-Fiali-Irish-Ale-330ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/005699/5699169/20200314135227_birra_dreher_mcfarland_fiali_330ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.2622254148544</Price>
+		<Price>2.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>MCFARLAND</Manufacturer>
@@ -111,7 +93,7 @@
 	</product>
 	<product>
 		<ID>31087</ID>
-		<Name>Murphy’s Irish Stout 500ml</Name>
+		<Name>Murphy’s Μπύρα Irish Stout 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/6831135/Murphys-Brewery-Ireland-Ltd-Murphy-s-Irish-Stout-500ml-koutaki.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/006831/6831135/xlarge_20150521170927_murphy_s_irish_stout_500ml_koutaki.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -128,7 +110,7 @@
 	</product>
 	<product>
 		<ID>33001</ID>
-		<Name>Corona Extra Pale Lager Φιάλη 330ml</Name>
+		<Name>Corona Μπύρα Extra Pale Lager Φιάλη 330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/32149513/Corona-Extra-Pale-Lager-Fiali-330ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/032149/32149513/xlarge_20220413112132_corona_extra_pale_lager_fiali_330ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -145,26 +127,26 @@
 		<Quantity>733</Quantity>
 	</product>
 	<product>
-		<ID>32021-Τ</ID>
-		<Name>Fix Lager Κουτί 330ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/4870950/Fix-Lager-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/004870/4870950/20150519123829_fix_330ml_koutaki.jpeg</Image_Link>
+		<ID>32021</ID>
+		<Name>Fix Μπύρα Lager Κουτί 6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/59877346/fix-lager-kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/059877/59877346/xlarge_20250422110147_fix_mpyra_kouti_fix_6x330ml_5_1_doro.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.80929065</Price>
+		<Price>5.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>FIX</Manufacturer>
-		<MPN>0462</MPN>
-		<Weight>0.4 kg</Weight>
+		<MPN>4621</MPN>
+		<Weight>2 kg</Weight>
 		<Description>Η μπύρα FIX είναι μια κλασική επιλογή για όσους αναζητούν μια παραδοσιακή ελληνική μπύρα. Με ένα χρυσαφένιο χρώμα και απαλή φούσκα, προσφέρει μια δροσιστική και ισορροπημένη γεύση. Έχει 5% αλκοόλ και μια ευχάριστη αίσθηση απόλαυσης.</Description>
-		<Barcode>5200334220012</Barcode>
+		<Barcode>5200334220128</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>320221</ID>
-		<Name>Kaiser 6τμχ x330ml</Name>
+		<Name>Kaiser Μπύρα Pilsner 6x330ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/51221007/Kaiser-Pilsner-Kaiser-Mpyra-330ml-5-1-Doro.html</Product_Link>
 		<Image_Link>https://eblokomarket.gr/8683-thickbox_default/bira-kaiser-330ml.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -178,24 +160,6 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<Barcode>5201309103910</Barcode>
-		<Quantity>21</Quantity>
-	</product>
-	<product>
-		<ID>32022-Τ</ID>
-		<Name>Kaiser Pilsner Κουτί 330ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/6246305/Kaiser-Pilsner-Lager-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/006246/6246305/20210304174331_kaiser_pilsner_lager_kouti_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.1667658914</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
-		<Manufacturer>Kaiser</Manufacturer>
-		<MPN>1196</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η μπύρα lager της εταιρείας Kaiser Pilsner είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 5%</Description>
-		<Barcode>5201309103040</Barcode>
 		<Quantity>21</Quantity>
 	</product>
 	<product>
@@ -16351,7 +16315,7 @@
 		<MPN>E-3441</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134415</Barcode>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 	</product>
 	<product>
 		<ID>772100102</ID>
@@ -16385,7 +16349,7 @@
 		<MPN>E-3443</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134439</Barcode>
-		<Quantity>93</Quantity>
+		<Quantity>92</Quantity>
 	</product>
 	<product>
 		<ID>772100104</ID>
@@ -21384,6 +21348,23 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>799200101</ID>
+		<Name>Sidirela Θερμάστρα χαλαζία 1200W με διακόπτη ασφαλείας έως 19m² Μαύρη E-3330</Name>
+		<Product_Link>https://www.skroutz.gr/s/25226964/Sidirela-E-3330-Sompa-CHalazia-1200W.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/025226/25226964/xlarge_20220121154250_sidi_home_e_3330_sompa_chalazia_1200w.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN>E-3330</MPN>
+		<Description>Θερμάστρα χαλαζία 1.200 watt με τρεις σκάλες θερμότητας και αυτόματη απενεργοποίηση σε περίπτωση μη ορθής θέσης.      Τάση Τροφοδοσίας: 220-240V     Ονομαστική Ισχύς: 1200W     Συχνότητα Λειτουργίας: 50/60Hz     Βαθμός Στεγανότητας: IP20     Καθαρό Βάρος Προϊόντος: 0,900kg     Ταχύτητες: 3     Ύψος: 24,5cm     Πλάτος: 12,2cm     Μήκος: 49,5cm     Χρώμα Προϊόντος: Μαύρο     Υλικό Κατασκευής: Πλαστικό &amp; PP     Λυχνία Ένδειξης Λειτουργίας: Ναι</Description>
+		<Barcode>5203642133302</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7992002</ID>
 		<Name>Eurolamp Θερμάστρα Χαλαζία Λευκή 1600W έως 25m² Μαύρη</Name>
 		<Product_Link>https://www.skroutz.gr/s/53651646/Eurolamp-920-29165-Lampa.html</Product_Link>
@@ -21534,7 +21515,7 @@
 		<MPN>300-20016</MPN>
 		<Description>Ονομαστική Ισχύς (W):60     Βάρος (kg):4,7     Τηλεχειριστήριο     Χρονοδιακόπτης:Ναι (Ώρες Λειτουργίας Χρονοδιακόπτη:7,5h)     Ταχύτητες: 3     Ρυθμιζόμενο Ύψος: 110cm-129cm     Διάμετρος: Φ50     Στάθμη Έντασης Ήχου σε dB:60dB     Υλικό Κατασκευής Προϊόντος: Πλαστικό     Υλικό Κατασκευής Φτερωτών: Πλαστικό     Αριθμός Φτερωτών: 5     Τύπος Βάσης:Στρόγγυλη     Τύπος Πλέγματος: Γραμμωτό     Λυχνία Ένδειξης Λειτουργίας     Περιστρεφόμενος     Ρυθμιζόμενη Γωνία Αέρα: 60     Αθόρυβη Λειτουργία     3 λειτουργίες: Κανονική λειτουργία, Λειτουργία Υπνου, Λειτουργία Natural</Description>
 		<Barcode>5207227282003</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>799220302</ID>
@@ -21707,23 +21688,6 @@
 		<Quantity>44</Quantity>
 	</product>
 	<product>
-		<ID>7995101</ID>
-		<Name>Lime Φορτιστής Χωρίς Καλώδιο με Θύρα USB-A 21W Quick Charge 3.0 Λευκός (LTU25)</Name>
-		<Product_Link>https://www.skroutz.gr/s/55394452/Lime-Fortistis-CHoris-Kalodio-me-THyra-USB-A-21W-Quick-Charge-3-0-Leykos-LTU25.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/055394/55394452/20240809123416_lime_fortistis_choris_kalodio_me_thyra_usb_a_21w_quick_charge_3_0_leykos_ltu25.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>6.768691776000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
-		<Manufacturer>LIME</Manufacturer>
-		<MPN>1542</MPN>
-		<Description>Ο FAST TRAVEL CHARGER QC 3.0 LTU25 21W 4000mA είναι ένας υψηλής απόδοσης φορτιστής ταξιδίου από την LIME SUCCESSORIES. Λειτουργικός αλλά και εντυπωσιακός, διαθέτει το χαρακτηριστικό πράσινο χρώμα στη θύρα USB του. Σχεδιασμένος για γρήγορη και αποδοτική φόρτιση, με τεχνολογία Quick Charge 3.0, προσφέρει έως και τέσσερις φορές πιο γρήγορη φόρτιση σε σχέση με τους συμβατικούς φορτιστές.</Description>
-		<Barcode>5205308345777</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>7995102</ID>
 		<Name>Lime Φορτιστής Χωρίς Καλώδιο με Θύρα USB-C 30W Power Delivery / Quick Charge 3.0 Λευκός (LTC30W)</Name>
 		<Product_Link>https://www.skroutz.gr/s/37890712/Lime-Fortistis-CHoris-Kalodio-me-THyra-USB-C-30W-Power-Delivery-Quick-Charge-3-0-Leykos-LTC30W.html</Product_Link>
@@ -21894,40 +21858,6 @@
 		<Quantity>3</Quantity>
 	</product>
 	<product>
-		<ID>799510711</ID>
-		<Name>WK Φορτιστής Αυτοκινήτου 15W 2xUSB 3.1A Toury Black (WP-C36)</Name>
-		<Product_Link>https://www.skroutz.gr/s/40226179/WK-Fortistis-Aytokinitou-Mayros-WP-C36-Synolikis-Entasis-3-1A-me-THyres-2xUSB-250653.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/040226/40226179/20230404151103_wk_fortistis_aytokinitou_mayros_wp_c36_synolikis_entasis_3_1a_me_thyres_2xusb_250653.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.4888145736</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Auto - Moto &gt; Ηλεκτρονικά &amp; Ηλεκτρολογικά Αυτοκινήτου &gt; Φορτιστές Αναπτήρα Αυτοκινήτου</Category_Path>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1704</MPN>
-		<Description>Φορτιστής Αυτοκινήτου WK Dual USB 15W/3.1A WP-C36 Toury Black, εφαρμόζει άμεσα στη θέση του αναπτήρα ώστε να φορτίζετε τις συσκευές σας παντού!</Description>
-		<Barcode>6941027630983</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>799510712</ID>
-		<Name>WK Φορτιστής Αυτοκινήτου 20W USB-C &amp; USB-A Quick Charge 3.0 Tarnish (WP-C38) Mini 250657</Name>
-		<Product_Link>https://www.skroutz.gr/s/37787393/WK-Fortistis-Aytokinitou-Gri-Grigoris-Fortisis-me-THyres-1xUSB-1xType-C-WP-C38.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/037787/37787393/20220826120505_wk_fortistis_aytokinitou_gri_grigoris_fortisis_me_thyres_1xusb_1xtype_c_wp_c38.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>5.769870213599999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Auto - Moto &gt; Ηλεκτρονικά &amp; Ηλεκτρολογικά Αυτοκινήτου &gt; Φορτιστές Αναπτήρα Αυτοκινήτου</Category_Path>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1705</MPN>
-		<Description>Φορτιστής αυτοκινήτου Mini PD 20w A+C WP-C38 με συμπαγή σχεδίαση που εξοικονομεί χώρο. Προσφέρει σταθερή φόρτιση και γρήγορη ισχύ, επιτρέποντάς σας να φορτίσετε έως και 60% σε 30 λεπτά με τη λειτουργία PD.      Υλικό: καθαρός κράμα ψευδαργύρου     Είσοδος: DC12~24V     Έξοδος: USB-A (QC): 5V-3A/9V-2A/12V-1.5A     USB-C (PD): 5V-3A/9V-2.22A/12V-1.67A     Μέγιστη έξοδος: 20W     Χρώμα: Θερμοκρασία  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί φορτίζει γρήγορα τη συσκευή σου και είναι ανθεκτικός.</Description>
-		<Barcode>6941027631171</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>799510721</ID>
 		<Name>ΧΟ Φορτιστής Αυτοκινήτου Μαύρος 12W Συνολικής Έντασης 4A με Θύρες: 2xUSB-A μαζί με Καλώδιο Type-C Μαύρος CC53-40359</Name>
 		<Product_Link>https://www.skroutz.gr/s/51162328/Fortistis-Aytokinitou-Mayros-Synolikis-Entasis-4A-me-THyres-2xUSB-mazi-me-Kalodio-Type-C.html</Product_Link>
@@ -21944,40 +21874,6 @@
 		<Description>Ο XO CC53 είναι φορτιστής αναπτήρα αυτοκινήτου με δύο θύρες USB 12W. Χάρη στο μικρό του μέγεθος, η συσκευή καταλαμβάνει ελάχιστο χώρο. Η συσκευασία περιλαμβάνει καλώδιο USB - USB-C.</Description>
 		<Barcode>6920680840359</Barcode>
 		<Quantity>19</Quantity>
-	</product>
-	<product>
-		<ID>7995111</ID>
-		<Name>Lime Regular USB to Lightning Cable Λευκό 1m</Name>
-		<Product_Link>https://www.skroutz.gr/s/26561492/Lime-Regular-USB-to-Lightning-Cable-Leyko-1m-65303.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/026561/26561492/20210113110104_lime_regular_usb_to_lightning_cable_leyko_1m_65303.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.2201064</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
-		<Manufacturer>LIME</Manufacturer>
-		<MPN>1545</MPN>
-		<Description>Lightning καλώδιο της εταιρίας Lime που συνδέει την Apple συσκευή με υποδοχή Lightning στη θύρα USB του υπολογιστή ή του φορτιστή για συγχρονισμό και φόρτιση.Με μήκος 1m, είναι μια πρακτική επιλογή που συνδυάζει ευκολία χρήσης και φορητότητα.</Description>
-		<Barcode>5205308277696</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7995112</ID>
-		<Name>Lime USB 2.0 Cable to USB-C 120W Λευκό 1m</Name>
-		<Product_Link>https://www.skroutz.gr/s/55281987/Lime-USB-2-0-Cable-USB-C-male-USB-C-120W-Prasino-1m-8345999.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/055281/55281987/20240801111740_lime_usb_2_0_cable_usb_c_male_usb_c_120w_prasino_1m_8345999.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.9356856</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
-		<Manufacturer>LIME</Manufacturer>
-		<MPN>1546</MPN>
-		<Description>Καλώδιο της εταιρείας Lime Εξασφαλίζει ταχύτητα φόρτισης maximum 6A.    Μήκος: 1m    Πρότυπο USB: USB 2.0</Description>
-		<Barcode>5205308345999</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995113</ID>
@@ -22320,23 +22216,6 @@
 		<Quantity>26</Quantity>
 	</product>
 	<product>
-		<ID>7995115302</ID>
-		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 3A Λευκό NB280-58668</Name>
-		<Product_Link>https://www.skroutz.gr/s/57566706/XO-USB-A-to-Lightning-Cable-Leyko-1m-16-005-0342.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/057566/57566706/xlarge_20241120121547_xo_usb_a_to_lightning_cable_leyko_1m_16_005_0342.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.69</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>16.005.0342</MPN>
-		<Description>Μοντέλο: XO NB280  Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Lightning  Μήκος: 1M  Ρεύμα: 3A  Χρώμα: Λευκό</Description>
-		<Barcode>6920680858668</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>79951153021</ID>
 		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 2,1A Λευκό NB212-27848</Name>
 		<Product_Link>https://www.skroutz.gr/s/37048479/XO-NB212-USB-to-Lightning-Cable-Leyko-1m-16-005-0189.html</Product_Link>
@@ -22505,23 +22384,6 @@
 		<Description>XO-EP57      Τύπος ακουστικών: πλαστικό στο αυτί     Διάμετρος βύσματος: 3,5 mm     Αρχή ήχου: κινούμενο πηνίο     Διάμετρος κέρατος: 10 (φmm)     Μήκος σύρματος: TPE main wire 2.3/4C TPE tail wire 1.5/2C TPE round wire L=1.20M±0.03M     Διαθέσιμα χρώματα: μαύρο, λευκό, κόκκινο     Λειτουργία προϊόντος: αναπαραγωγή/παύση, απάντηση/κλείσιμο, παρατεταμένο πάτημα για απόρριψη του 3S, διπλό κλικ στο κουμπί αναπαραγωγής για το επόμενο τραγούδι, τριπλό κλικ στο κουμπί αναπαραγωγής για το προηγούμενο τραγούδι     Υλικό προϊόντος: Υλικό σύρματος TPE, υλικό ABS     Διαμόρφωση προϊόντος: συνηθισμένο ηχείο, καλώδιο TPE</Description>
 		<Barcode>6920680831050</Barcode>
 		<Quantity>22</Quantity>
-	</product>
-	<product>
-		<ID>799512312</ID>
-		<Name>XO In-ear Handsfree με Βύσμα 3.5mm Λευκό EP57-31067</Name>
-		<Product_Link>https://www.skroutz.gr/s/40710740/XO-EP57-In-ear-Handsfree-me-Vysma-3-5mm-Leyko.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/040710/40710740/xlarge_20230220105027_xo_ep57_in_ear_handsfree_me_vysma_3_5mm_leyko.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.98</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Handsfree Ακουστικά</Category_Path>
-		<Manufacturer>XO</Manufacturer>
-		<MPN>16.002.0066</MPN>
-		<Description>XO-EP57      Τύπος ακουστικών: πλαστικό στο αυτί     Διάμετρος βύσματος: 3,5 mm     Αρχή ήχου: κινούμενο πηνίο     Διάμετρος κέρατος: 10 (φmm)     Μήκος σύρματος: TPE main wire 2.3/4C, TPE tail wire 1.5/2C, TPE round wire L=1.20M±0.03M     Διαθέσιμα χρώματα: μαύρο, λευκό, κόκκινο     Λειτουργία προϊόντος: αναπαραγωγή/παύση, απάντηση/κλείσιμο, παρατεταμένο πάτημα για απόρριψη του 3S, διπλό κλικ στο κουμπί αναπαραγωγής για το επόμενο τραγούδι, τριπλό κλικ στο κουμπί αναπαραγωγής για το προηγούμενο τραγούδι     Υλικό προϊόντος: Υλικό σύρματος TPE, υλικό ABS     Διαμόρφωση προϊόντος: συνηθισμένο ηχείο, καλώδιο TPE</Description>
-		<Barcode>6920680831067</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995123121</ID>
@@ -22814,23 +22676,6 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>799515201</ID>
-		<Name>Ugreen USB Bluetooth 5.0 Adapter με Εμβέλεια 20m CM390 (80889)</Name>
-		<Product_Link>https://www.skroutz.gr/s/31198539/Ugreen-CM390-USB-Bluetooth-5-0-Adapter-me-Emveleia-20m.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/031198/31198539/20210923113414_ugreen_cm390_bluetooth_5_0_adapter.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>7.01</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Διάφορα Υπολογιστών &gt; Bluetooth Adapters</Category_Path>
-		<Manufacturer>UGREEN</Manufacturer>
-		<MPN>1725</MPN>
-		<Description>Εξοπλίστε τον υπολογιστή σας με Bluetooth 5.0 σύνδεση με το Nano USB Adapter.      Γρήγορη &amp; σταθερή μετάδοση, χωρίς αποσυνδέσεις, σε απόσταση μέχρι 20 μέτρα.      Χάρη στο BT 5.0 περιορίζεται σημαντικά η κατανάλωση ενέργειας, κατά τη σύνδεση.     Δυνατήτητα παράλληλης σύνδεσης έως και 5 συσκευών Bluetooth. Ιδανική λύση για Xbox One S / PS4 controller συνδεδεμένο σε PC και bluetooth headset.</Description>
-		<Barcode>6957303888894</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>799515211</ID>
 		<Name>Baseus USB Bluetooth 5.0 Adapter με Εμβέλεια 20m BA04</Name>
 		<Product_Link>https://www.skroutz.gr/s/33247365/Baseus-BA04-USB-Bluetooth-5-0-Adapter-me-Emveleia-20m.html</Product_Link>
@@ -22846,40 +22691,6 @@
 		<Description>Αυτή η συσκευή επεκτείνει τη λειτουργικότητα ενός φορητού ή επιτραπέζιου υπολογιστή με ασύρματη συνδεσιμότητα Bluetooth.  Δεν απαιτεί εγκατάσταση πρόσθετων προγραμμάτων οδήγησης (Plug &amp; Play).</Description>
 		<Barcode>6932172604271</Barcode>
 		<Quantity>8</Quantity>
-	</product>
-	<product>
-		<ID>799515301</ID>
-		<Name>Ugreen Μετατροπέας USB-C male σε USB-A female Γκρι US270 (50283)</Name>
-		<Product_Link>https://www.skroutz.gr/s/32830447/Ugreen-US270-Metatropeas-USB-C-male-se-USB-A-female-Gri.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/032830/32830447/20220111114449_ugreen_usb_c_male_usb_a_female_50283.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.31</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Ηλεκτρονικά &gt; Μετατροπείς</Category_Path>
-		<Manufacturer>UGREEN</Manufacturer>
-		<MPN>1726</MPN>
-		<Description>Αντάπτορας για σύνδεση συσκευών USB-A στη θύρα Type-C του laptop σου. Υποστηρίζει OTG για σύνδεση περιφερειακών στο smartphone ή το tablet σου.</Description>
-		<Barcode>6957303852833</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>799515302</ID>
-		<Name>Ugreen Μετατροπέας USB-A male σε USB-C female US276 (50533)</Name>
-		<Product_Link>https://www.skroutz.gr/s/22451561/Ugreen-Metatropeas-USB-A-male-se-USB-C-female-50533.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/022451/22451561/20200320100124_ugreen_usb_a_male_usb_c_female_50533.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>5.75</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Ηλεκτρονικά &gt; Μετατροπείς</Category_Path>
-		<Manufacturer>UGREEN</Manufacturer>
-		<MPN>1727</MPN>
-		<Description>Αντάπτορας για σύνδεση καλωδίων Type-C σε συσκευές με θύρα USB-A.</Description>
-		<Barcode>6957303855339</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995191011</ID>
@@ -22983,57 +22794,6 @@
 		<Description>Power bank SILICON POWER QS58    Χωρητικότητα: 20000mAh    Είσοδος USB-C: 5V/2.5A, 9V/2A (PD), 12V/1.5A    Έξοδος USB 1: 5V/3A, 9V/2A, 12V/1.5A    Έξοδος USB 2: 5V/3A, 9V/2A, 12V/1.5A    Έξοδος USB-C: 5V/3A, 9V/2.2A, 12V/1.6A    Συνολική έξοδος: 5V/3A Max    Χρόνος φόρτισης power bank: ~6 ώρες    Υλικό: ABS + PC    Διαστάσεις: ~120 x 72 x 30mm    Βάρος: ~315g    Χρώμα: Μαύρο</Description>
 		<Barcode>4713436149354</Barcode>
 		<Quantity>2</Quantity>
-	</product>
-	<product>
-		<ID>7995201</ID>
-		<Name>NSP 1850DS 1.8"  Dual SIM (32MB/32MB) Κινητό με Πλήκτρο SOS Μαύρο GR</Name>
-		<Product_Link>https://www.skroutz.gr/s/22090629/NSP-1850DS-Dual-SIM-32MB-32MB-Kinito-me-Megala-Koumpia-Mayro.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/022090/22090629/20220608160553_nsp_1850ds_dual_sim_32mb_32mb_kinito_me_koumpia_gia_ilikiomenous_mayro.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>23.66</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Κινητά Τηλέφωνα</Category_Path>
-		<Manufacturer>NSP</Manufacturer>
-		<MPN>1551</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Οθόνη TFT LCD 1.77"    Κάμερα 0.3 MP    Υποδοχή MicroSD μέχρι 16GB    Ελληνικό μενούFM Radio (Δεν απαιτείται η χρήση του hands-free για την λειτουργία του ραδιοφώνου)</Description>
-		<Barcode>5205308221781</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7995202</ID>
-		<Name>Nokia 105 (2023) Dual SIM Κινητό με Κουμπιά (Ελληνικό Μενού) Charcoal</Name>
-		<Product_Link>https://www.skroutz.gr/s/43543734/Nokia-105-2023-Dual-SIM-Kinito-me-Koumpia-Elliniko-Menou-Charcoal.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/043543/43543734/20230627161300_nokia_105_4g_2023_dual_sim_kinito_me_koumpia_elliniko_menou_charcoal.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>25.54</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Κινητά Τηλέφωνα</Category_Path>
-		<Manufacturer>NOKIA</Manufacturer>
-		<MPN>1552</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Μοντέλο 2023    Οθόνη 1,8"/160x120 pixels    Μπαταρία 1000 mAh    Χωρίς κάμερα    Ανθεκτικό σε πτώσεις και υγρασία</Description>
-		<Barcode>6438409086204</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7995311</ID>
-		<Name>Motorola Moto G34 5G Dual SIM (4GB/128GB) Charcoal Black</Name>
-		<Product_Link>https://www.skroutz.gr/s/53571657/Motorola-Moto-G34-5G-Dual-SIM-4GB-128GB-Charcoal-Black.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/053571/53571657/20240517144411_motorola_moto_g34_5g_dual_sim_4gb_128gb_charcoal_black.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>128.2</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Κινητά Τηλέφωνα</Category_Path>
-		<Manufacturer>MOTOROLA</Manufacturer>
-		<MPN>1553</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Μοντέλο 2023    Οθόνη IPS 6.5" 120Hz 720 x 1600    Πίσω κάμερα 50 MP    Μπαταρία 5000mAh 18W    Προστασία από σταγόνες νερού</Description>
-		<Barcode>0840023256646</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995396701</ID>
@@ -23623,23 +23383,6 @@
 		<Quantity>5</Quantity>
 	</product>
 	<product>
-		<ID>7996201</ID>
-		<Name>Silicon Power Superior Pro microSDXC 64GB Class 10 U3 V30 A1 UHS-III με αντάπτορα</Name>
-		<Product_Link>https://www.skroutz.gr/s/23615369/Silicon-Power-Superior-Pro-microSDXC-64GB-Class-10-U3-V30-A1-UHS-III-me-antaptora.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/023615/23615369/20220609121423_silicon_power_superior_pro_microsdxc_64gb_class_10_u3_v30_a1_uhs_iii_me_antaptora.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>5.98</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Storage &gt; Κάρτες Μνήμης</Category_Path>
-		<Manufacturer>SP</Manufacturer>
-		<MPN>1555</MPN>
-		<Description>Κατάλληλη για χρήση με κινητά τηλέφωνα ,tablet και φωτογραφικές μηχανές. Με διεπαφή UHS-I επιτρέπει την επίτευξη καλής απόδοσης ταχύτητα ανάγνωσης έως 100 MB/s και ταχύτητα εγγραφής 80 MB/s. Η microSDΧC κάρτα συνοδεύεται και από έναν SD adapter.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτική και αξίζει τα χρήματα της.</Description>
-		<Barcode>4713436127383</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>799620102</ID>
 		<Name>Philips Ultra Pro microSDXC 64GB Class 10 U3 V30 UHS-I με αντάπτορα FM64MP65B/00</Name>
 		<Product_Link>https://www.skroutz.gr/s/22355573/Philips-Ultra-Pro-microSDXC-64GB-Class-10-U3-V30-UHS-I-me-antaptora.html</Product_Link>
@@ -23708,6 +23451,40 @@
 		<Quantity>17</Quantity>
 	</product>
 	<product>
+		<ID>79962605</ID>
+		<Name>Mercusys v2 Unmanaged L2 Switch με 5 Θύρες Ethernet MS105</Name>
+		<Product_Link>https://www.skroutz.gr/s/23745579/Mercusys-MS105-v2-Unmanaged-L2-Switch-me-5-THyres-Ethernet.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/033353/33353806/xlarge_20200623155601_2fc5301e.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.674886784</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; Switches</Category_Path>
+		<Manufacturer>Mercusys</Manufacturer>
+		<MPN>MS105</MPN>
+		<Description>Σχεδόν το ίδιο μέγεθος με μια πιστωτική κάρτα, η MS105 μπορεί να τοποθετηθεί οπουδήποτε στο σπίτι σας χωρίς να καταλαμβάνει πολύ χώρο. Ο σχεδιασμός του χωρίς ανεμιστήρα του επιτρέπει να παραμένει διακριτικός, ανεξάρτητα από το πόσο καιρό λειτουργεί.</Description>
+		<Barcode>6957939000363</Barcode>
+		<Quantity>8</Quantity>
+	</product>
+	<product>
+		<ID>79962608</ID>
+		<Name>Mercusys v2 Unmanaged L2 Switch με 8 Θύρες Ethernet MS108</Name>
+		<Product_Link>https://www.skroutz.gr/s/27230864/Mercusys-MS108-v2-Unmanaged-L2-Switch-me-8-THyres-Ethernet.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_images/039819/39819677/xlarge_20210219135057_43abf1a0.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.526119801600001</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; Switches</Category_Path>
+		<Manufacturer>Mercusys</Manufacturer>
+		<MPN>MS108</MPN>
+		<Description>Το switch της Mercusys είναι χρήσιμο για τη δημιουργία ή την επέκταση ενός ενσύρματου δικτύου. Αν οι θύρες ethernet του router δεν φτάνουν για τις ενσύρματες συνδέσεις όλων των συσκευών σου, ένα switch θα σε βοηθήσει. Είναι unmanaged, δηλαδή δεν προσφέρει δυνατότητα παραμετροποίησης των ρυθμίσεων του, κάτι που το κάνει και πιο οικονομικό. Προτείνεται κυρίως για απλούς χρήστες που θέλουν απλά να επεκτείνουν το μικρό, οικιακό τους δίκτυο και για μικρές επιχειρήσεις χωρίς ιδιαίτερες απαιτήσεις. Έχει 8 θύρες ethernet με μέγιστη ταχύτητα 100Mbps.</Description>
+		<Barcode>6957939000387</Barcode>
+		<Quantity>10</Quantity>
+	</product>
+	<product>
 		<ID>799626101</ID>
 		<Name>Ugreen Card Reader Type-C/USB 3.0 για SD/microSD Gray CM812 (45167)</Name>
 		<Product_Link>https://www.skroutz.gr/s/58250304/Ugreen-Card-Reader-Type-C-gia-SD-microSD-Gri-45167.html</Product_Link>
@@ -23774,40 +23551,6 @@
 		<Description>USB 2.0 αντάπτορας σε θύρα ethernet για υπολογιστές χωρίς θύρα ethernet με ταχύτητες έως 100Mbps, προσφέρει:      Μικρό μέγεθος ιδανικό για μεταφορά     Plug &amp; Play χωρίς εγκατάσταση οδηγών στα περισσότερα λειτουργικά</Description>
 		<Barcode>6935364094614</Barcode>
 		<Quantity>9</Quantity>
-	</product>
-	<product>
-		<ID>79962605</ID>
-		<Name>Mercusys v2 Unmanaged L2 Switch με 5 Θύρες Ethernet MS105</Name>
-		<Product_Link>https://www.skroutz.gr/s/23745579/Mercusys-MS105-v2-Unmanaged-L2-Switch-me-5-THyres-Ethernet.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_images/033353/33353806/xlarge_20200623155601_2fc5301e.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>5.674886784</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; Switches</Category_Path>
-		<Manufacturer>Mercusys</Manufacturer>
-		<MPN>MS105</MPN>
-		<Description>Σχεδόν το ίδιο μέγεθος με μια πιστωτική κάρτα, η MS105 μπορεί να τοποθετηθεί οπουδήποτε στο σπίτι σας χωρίς να καταλαμβάνει πολύ χώρο. Ο σχεδιασμός του χωρίς ανεμιστήρα του επιτρέπει να παραμένει διακριτικός, ανεξάρτητα από το πόσο καιρό λειτουργεί.</Description>
-		<Barcode>6957939000363</Barcode>
-		<Quantity>8</Quantity>
-	</product>
-	<product>
-		<ID>79962608</ID>
-		<Name>Mercusys v2 Unmanaged L2 Switch με 8 Θύρες Ethernet MS108</Name>
-		<Product_Link>https://www.skroutz.gr/s/27230864/Mercusys-MS108-v2-Unmanaged-L2-Switch-me-8-THyres-Ethernet.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_images/039819/39819677/xlarge_20210219135057_43abf1a0.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>6.526119801600001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; Switches</Category_Path>
-		<Manufacturer>Mercusys</Manufacturer>
-		<MPN>MS108</MPN>
-		<Description>Το switch της Mercusys είναι χρήσιμο για τη δημιουργία ή την επέκταση ενός ενσύρματου δικτύου. Αν οι θύρες ethernet του router δεν φτάνουν για τις ενσύρματες συνδέσεις όλων των συσκευών σου, ένα switch θα σε βοηθήσει. Είναι unmanaged, δηλαδή δεν προσφέρει δυνατότητα παραμετροποίησης των ρυθμίσεων του, κάτι που το κάνει και πιο οικονομικό. Προτείνεται κυρίως για απλούς χρήστες που θέλουν απλά να επεκτείνουν το μικρό, οικιακό τους δίκτυο και για μικρές επιχειρήσεις χωρίς ιδιαίτερες απαιτήσεις. Έχει 8 θύρες ethernet με μέγιστη ταχύτητα 100Mbps.</Description>
-		<Barcode>6957939000387</Barcode>
-		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>79962701</ID>
@@ -24353,23 +24096,6 @@
 		<Quantity>3</Quantity>
 	</product>
 	<product>
-		<ID>79999102</ID>
-		<Name>Funko Pop! Marvel: Spider-Man Friendly Neighborhood Bobble-Head Special Edition 1158 FNK76076</Name>
-		<Product_Link>https://www.skroutz.gr/s/39780914/Funko-Pop-Marvel-Marvel-Spider-Man-Friendly-Neighborhood-1158-Bobble-Head-Special-Edition.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_images/105358/105358539/fixedratio_20241213105224_6849f3bb.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>15.72593792</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Hobby - Αθλητισμός&gt; Ελεύθερος Χρόνος&gt;Funko</Category_Path>
-		<Manufacturer>Funko</Manufacturer>
-		<MPN>FNK76076</MPN>
-		<Description>Βασικά χαρακτηριστικά:      Spider-Man No Way Home     Συλλεκτική έκδοση Special Edition     Υλικό: Βινύλιο     Εικονογραφημένο κουτί με παράθυρο     Ύψος: περίπου 10 εκ.     Κατάλληλο για ηλικίες 3+</Description>
-		<Barcode>889698676076</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>79999121</ID>
 		<Name>Funko Pop! Games: Pokemon - Pikachu Grumpy 598 FNK50434</Name>
 		<Product_Link>https://www.skroutz.gr/s/37103861/Funko-Pop-Games-Pokemon-Pikachu-Grumpy-598.html</Product_Link>
@@ -24385,23 +24111,6 @@
 		<Description>Φιγούρα Pikachu της σειράς Pop! της Funko.      Υλικό: Βινύλιο     Ύψος: περίπου 10 εκ.     Κατάλληλο για ηλικίες 3+</Description>
 		<Barcode>889698650434</Barcode>
 		<Quantity>2</Quantity>
-	</product>
-	<product>
-		<ID>79999122</ID>
-		<Name>Funko Pop! Games: Pokemon - Charizard 843 FNK42191</Name>
-		<Product_Link>https://www.skroutz.gr/s/44756347/Funko-Pop-Games-Pokemon-Charizard-843.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_images/105268/105268868/fixedratio_20241210134421_8b56df97.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>14.14937216</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Hobby - Αθλητισμός&gt; Ελεύθερος Χρόνος&gt;Funko</Category_Path>
-		<Manufacturer>Funko</Manufacturer>
-		<MPN>FNK42191</MPN>
-		<Description>Ηλικία: Από 3 ετών.  Χρώμα: Πολύχρωμα.  Τύπος: Χαρακτήρες.  Για ποιον: Universal.</Description>
-		<Barcode>889698742191</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799991301</ID>
@@ -24931,7 +24640,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.55</Price>
+		<Price>1.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Τυποποιημένα &gt; Προϊόντα Μαγειρικής &gt; Υλικά Μαγειρικής</Category_Path>
 		<Manufacturer>KNORR</Manufacturer>
@@ -24949,7 +24658,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.55</Price>
+		<Price>1.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Τυποποιημένα &gt; Προϊόντα Μαγειρικής &gt; Υλικά Μαγειρικής</Category_Path>
 		<Manufacturer>KNORR</Manufacturer>
@@ -24967,7 +24676,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.55</Price>
+		<Price>1.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Τυποποιημένα &gt; Προϊόντα Μαγειρικής &gt; Υλικά Μαγειρικής</Category_Path>
 		<Manufacturer>KNORR</Manufacturer>
@@ -24976,24 +24685,6 @@
 		<Description>Οι Knorr Κύβοι Λαχανικών είναι φτιαγμένοι από λαχανικά όπως τομάτα, κρεμμύδι, πράσο και καρότο, μπαχαρικά και μυρωδικά, χωρίς συντηρητικά και τεχνητές χρωστικές και δίνουν πλούσια γεύση.</Description>
 		<Barcode>5201080102713</Barcode>
 		<Quantity>274</Quantity>
-	</product>
-	<product>
-		<ID>84033</ID>
-		<Name>Knorr Κύβοι Μαγειρικής Ζωμός Λαχανικών 10gr 6τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/22821188/Knorr-Kyvoi-Mageirikis-Zomos-Lachanikon-60gr.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/022821/22821188/20200416115435_knorr_kyvoi_mageirikis_zomou_lachanikon_6tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.89</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος Τυποποιημένα &gt; Προϊόντα Μαγειρικής &gt; Υλικά Μαγειρικής</Category_Path>
-		<Manufacturer>KNORR</Manufacturer>
-		<MPN>1512</MPN>
-		<Weight>0.1 kg</Weight>
-		<Description>Οι Knorr Κύβοι Λαχανικών είναι φτιαγμένοι από λαχανικά όπως τομάτα, κρεμμύδι, πράσο και καρότο, μπαχαρικά και μυρωδικά, χωρίς συντηρητικά και τεχνητές χρωστικές και δίνουν πλούσια γεύση.</Description>
-		<Barcode>5201080102706</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>84101</ID>
@@ -25219,7 +24910,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.9796083000000001</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
 		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
@@ -25525,7 +25216,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.76</Price>
+		<Price>3.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>CAMPOS</Manufacturer>
@@ -25543,7 +25234,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.76</Price>
+		<Price>3.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>CAMPOS</Manufacturer>
@@ -25644,24 +25335,6 @@
 		<Quantity>2568</Quantity>
 	</product>
 	<product>
-		<ID>85227</ID>
-		<Name>Arpa Σαρδέλες Πικάντικες Σε Φυτικό Λάδι 125γρ</Name>
-		<Product_Link>https://trshouse.gr/product/sardeles-ladiu-me-kauterh-piperia-125ghr-el/</Product_Link>
-		<Image_Link>https://ionionmarket.gr/wp-content/uploads/2022/12/5200127781331.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.83</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
-		<Manufacturer>ARPA</Manufacturer>
-		<MPN>0565</MPN>
-		<Weight>0.1 kg</Weight>
-		<Description>Οι σαρδέλες πικάντικες σε αυτήν την κονσέρβα 125gr προσφέρουν μια πικάντικη και γευστική εμπειρία. Αποτελούνται από ποιοτικές σαρδέλες που είναι εμποτισμένες σε μια προσεκτικά επιλεγμένη μείγμα μπαχαρικών και αρωμάτων, προσδίδοντας ένταση και ζωντάνια στη γεύση τους.</Description>
-		<Barcode>5200127781331</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>85228</ID>
 		<Name>JOLY ΦΙΛΕΤΟ ΣΚΟΥΜΠΡΙ ΠΙΚΑΝΤΙΚΟ ΣΕ ΗΛΙΕΛΑΙΟ 125gr</Name>
 		<Product_Link>https://www.e-ntemos.gr/Joly-%CE%A6%CE%B9%CE%BB%CE%AD%CF%84%CE%BF-%CE%A3%CE%BA%CE%BF%CF%85%CE%BC%CF%80%CF%81%CE%AF-%CE%A0%CE%B9%CE%BA%CE%AC%CE%BD%CF%84%CE%B9%CE%BA%CE%BF-125gr</Product_Link>
@@ -25669,7 +25342,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.49</Price>
+		<Price>1.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
 		<Manufacturer>JOLY</Manufacturer>
@@ -25824,24 +25497,6 @@
 		<Quantity>459</Quantity>
 	</product>
 	<product>
-		<ID>85260</ID>
-		<Name>ΖΑΝΑΕ ΝΤΟΛΜΑΔΑΚΙΑ ΓΙΑΛΑΝΤΖΙ 280gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22861993/Zanae-Ntolmadakia-280gr.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/022861/22861993/xlarge_20200421153013_zanae_ntolmadakia_280gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.47</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
-		<Manufacturer>ΖΑΝΑΕ</Manufacturer>
-		<MPN>0943</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Τα ντολμαδάκια γιαλαντζί της εταιρείας Ζανάε παράγονται από διαλεγμένα τρυφερά αμπελόφυλλα και άριστης ποιότητας ρύζι και άλλα αγνά συστατικά, ακολουθώντας την πετυχημένη και δημοφιλή μας παραδοσιακή συνταγή.</Description>
-		<Barcode>5201051001076</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>85262</ID>
 		<Name>MARGARET ΦΑΣΟΛΙΑ ΓΙΓΑΝΤΕΣ ΣΕ ΣΑΛΤΣΑ 280gr</Name>
 		<Product_Link>https://www.katerinasmarket.gr/index.php?route=product/product&amp;product_id=173</Product_Link>
@@ -25893,57 +25548,6 @@
 		<Description>Merenda, πραλίνα φουντουκιού με κακάο και αποβουτυρωμένο γάλα.</Description>
 		<Barcode>7622201126131</Barcode>
 		<Quantity>9</Quantity>
-	</product>
-	<product>
-		<ID>87001</ID>
-		<Name>NESCAFE CLASSIC 50gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/15492294/Nescafe-Stigmiaios-Kafes-Classic-se-Kouti-50gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/015492/15492294/20211111091730_nescafe_stigmiaios_kafes_classic_se_metalliko_koutaki_50gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>2.03</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Είδη Πρωινού, Snacks &amp; Ροφήματα &gt; Καφέδες</Category_Path>
-		<Manufacturer>NESCAFE</Manufacturer>
-		<MPN>1630</MPN>
-		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι.</Description>
-		<Barcode>5201219046055</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>87002</ID>
-		<Name>NESCAFE CLASSIC 100gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/15492324/Nescafe-Stigmiaios-Kafes-Classic-kavourdizontai-metria-pros-dynata-100gr.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/015492/15492324/20210423111240_nescafe_stigmiaios_classic_100gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Είδη Πρωινού, Snacks &amp; Ροφήματα &gt; Καφέδες</Category_Path>
-		<Manufacturer>NESCAFE</Manufacturer>
-		<MPN>1631</MPN>
-		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι.</Description>
-		<Barcode>5201219046109</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>87003</ID>
-		<Name>NESCAFE CLASSIC 200gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/15492325/Nescafe-Stigmiaios-Kafes-Classic-kavourdizontai-metria-pros-dynata-200gr.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/015492/15492325/20211111093444_nescafe_stigmiaios_kafes_classic_200gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>6.76</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Είδη Πρωινού, Snacks &amp; Ροφήματα &gt; Καφέδες</Category_Path>
-		<Manufacturer>NESCAFE</Manufacturer>
-		<MPN>1632</MPN>
-		<Description>Διαλεχτοί κόκκοι από εκλεκτό καφέ καβουρδίζονται, αλέθονται και φιλτράρονται φυσικά, για να αναδείξουν ένα εξαιρετικό χαρμάνι.</Description>
-		<Barcode>5201219046154</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>87501</ID>
@@ -26573,7 +26177,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.4</Price>
+		<Price>14.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Σκυλοτροφές Ξηρά &gt; Τροφή Σκύλων</Category_Path>
 		<Manufacturer>THREPSIS MOTION</Manufacturer>
@@ -26591,7 +26195,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.22</Price>
+		<Price>18.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Σκυλοτροφές Ξηρά &gt; Τροφή Σκύλων</Category_Path>
 		<Manufacturer>NITSIAKOS</Manufacturer>
@@ -26627,7 +26231,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.88</Price>
+		<Price>4.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Σκυλοτροφές Ξηρά &gt; Τροφή Σκύλων</Category_Path>
 		<Manufacturer>NITSIAKOS</Manufacturer>
@@ -26681,7 +26285,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.48</Price>
+		<Price>1.55</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη για Σκύλους &gt; Υγρή Τροφή Σκύλων</Category_Path>
 		<Manufacturer>MORANDO</Manufacturer>
@@ -26699,7 +26303,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.6</Price>
+		<Price>18.27</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Γατοτροφές &gt; Ξηρά Τροφή Γάτας</Category_Path>
 		<Manufacturer>NITSIAKOS</Manufacturer>
@@ -26717,7 +26321,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.97</Price>
+		<Price>3.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός &gt; Γατοτροφές &gt; Ξηρά Τροφή Γάτας</Category_Path>
 		<Manufacturer>NITSIAKOS</Manufacturer>
