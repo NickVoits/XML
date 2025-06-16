@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-16 13:00</created_at>
+	<created_at>2025-06-16 13:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα 6τμχ x330ml</Name>
@@ -268,7 +268,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900045</Barcode>
-		<Quantity>121</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>32031-Τ</ID>
@@ -1470,7 +1470,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>536</Quantity>
+		<Quantity>533</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -1488,7 +1488,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>572</Quantity>
+		<Quantity>569</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1542,7 +1542,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<Barcode>5201946910292</Barcode>
-		<Quantity>512</Quantity>
+		<Quantity>509</Quantity>
 	</product>
 	<product>
 		<ID>130359</ID>
@@ -2441,7 +2441,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345078</Barcode>
-		<Quantity>645</Quantity>
+		<Quantity>641</Quantity>
 	</product>
 	<product>
 		<ID>20403-Τ</ID>
@@ -5815,7 +5815,7 @@
 		<MPN>167102</MPN>
 		<Description>Δημιουργήθηκε το 1923, φέρνοντας μια επανάσταση στην παράδοση των ουίσκι αφού είναι το πρώτο που φτιάχτηκε για να αναμειγνύεται, οδηγώντας τους barmen σε μια περιπέτεια ανακάλυψης νέων cocktails. Απλό και ισορροπημένο, το Cutty Sark είναι το τέλειο blended whisky για πριν το φαγητό. Ζωηρό με αρώματα βοτάνων και ξηρών φρούτων και καρπών. Ελαφρύ και δροσερό με νότες καραμέλας στην επίγευση.</Description>
 		<Barcode>5010504100095</Barcode>
-		<Quantity>52</Quantity>
+		<Quantity>47</Quantity>
 	</product>
 	<product>
 		<ID>55003</ID>
@@ -6072,7 +6072,7 @@
 		<MPN>1169002</MPN>
 		<Description>Η αυθεντική ρωσική βότκα Stolichnaya είναι διπλής απόσταξης και φιλτράρεται τέσσερις φορές σύμφωνα με την παραδοσιακή ρωσική μέθοδο. Έχει ισορροπημένη, μεταξένια γεύση και παράγεται από επιλεγμένα σιτηρά ανώτερης ποιότητας.  Ο σίτος και το νερό διυλίζονται τριπλά με χρήση φιλτραρίσματος χαλαζία και ενεργού άνθρακα ώστε να δημιουργηθεί το τελικό απόσταγμα της Stolichnaya.</Description>
 		<Barcode>4750021001376</Barcode>
-		<Quantity>776</Quantity>
+		<Quantity>771</Quantity>
 	</product>
 	<product>
 		<ID>55108</ID>
@@ -16913,7 +16913,7 @@
 		<MPN>0361</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 235ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>5202054464660</Barcode>
-		<Quantity>56</Quantity>
+		<Quantity>50</Quantity>
 	</product>
 	<product>
 		<ID>781021</ID>
@@ -17049,7 +17049,7 @@
 		<MPN>1290</MPN>
 		<Description>Καπάκι πιπίλα λευκό "Tube" για ποτήρι χάρτινο 8oz.</Description>
 		<Barcode>5206492002095</Barcode>
-		<Quantity>19</Quantity>
+		<Quantity>16</Quantity>
 	</product>
 	<product>
 		<ID>78109</ID>
@@ -17083,7 +17083,7 @@
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>3800206611195</Barcode>
-		<Quantity>688</Quantity>
+		<Quantity>682</Quantity>
 	</product>
 	<product>
 		<ID>78119</ID>
@@ -17100,7 +17100,7 @@
 		<MPN>0332</MPN>
 		<Description>• Καπάκι πομπέ 504-505• Χρώμα: Διάφανο• Διατίθεται σε συσκευασία 100 τεμαχίων• Συμβατό με τα ποτήρια: OC-12.00.514, OC-12.00.518</Description>
 		<Barcode>19088104065</Barcode>
-		<Quantity>366</Quantity>
+		<Quantity>363</Quantity>
 	</product>
 	<product>
 		<ID>78121</ID>
@@ -17134,7 +17134,7 @@
 		<MPN>1288</MPN>
 		<Description>Ποτήρι πισίνας διάφανο, ιδανικό για χώρους όπου η χρήση γυάλινων ποτηριών απαγορεύεται, είναι κατάλληλο για νερό. Κατασκευάζεται από την εταιρεία Θαλασσινός και διατίθεται σε συσκευασία 25 τεμαχίων. Χωρητικότητα: 220ml</Description>
 		<Barcode>5202054461768</Barcode>
-		<Quantity>179</Quantity>
+		<Quantity>177</Quantity>
 	</product>
 	<product>
 		<ID>78501</ID>
@@ -21023,7 +21023,7 @@
 		<MPN>1518</MPN>
 		<Description>Οι σακούλες σκούπας της Kleenair είναι συμβατές με τους παρακάτω τύπους ηλεκτρικής σκούπας:AFKPS 1800 W, PS 1600 W.5, PS 1600 W.6NE, PS 1600 W.3, PS 1600 W.3NEDELFINQZ13ADIRT DEVILEQU M 7100-3, Allegra M 7000, Allegra M 7100, M 7017-1DOMODO 7250 SELRAMJC 831, JC 862, JC 865, Palazzo, Polo, Tigra, X 802 EGERMATICBS 2000 W.1, 1600WGRUPPE15F, 16ASOLAC896, 917, 919TRISTARJC 802, JC 802 EM, JC 831, JC 862, VCH-4601GRAETZJC 802, HD 101KAMBROOKJaquar PowerSEVERIN7930DELONGHIXTH 170, XTD 3071 EHOME ELECTRONICSDelfin, QZ 13 AD4EVERGLADESEV 1017SAMSUNGSC 5199PRINCESSRed FoxZANUSSI3999VAX430 Silence, C90-43 series, C88-43S E</Description>
 		<Barcode>8710881771051</Barcode>
-		<Quantity>46</Quantity>
+		<Quantity>45</Quantity>
 	</product>
 	<product>
 		<ID>7991003</ID>
