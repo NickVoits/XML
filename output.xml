@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-18 16:05</created_at>
+	<created_at>2025-06-18 17:02</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -124,7 +124,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<Barcode>75041670</Barcode>
-		<Quantity>565</Quantity>
+		<Quantity>541</Quantity>
 	</product>
 	<product>
 		<ID>32021</ID>
@@ -214,7 +214,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>712</Quantity>
+		<Quantity>710</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -286,7 +286,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>79</Quantity>
+		<Quantity>78</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -322,7 +322,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>48</Quantity>
+		<Quantity>47</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -736,256 +736,185 @@
 		<Quantity>156</Quantity>
 	</product>
 	<product>
-		<ID>12021-Τ</ID>
-		<Name>Coca Cola Classic με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24685667/Coca-Cola-Classic-me-Anthrakiko-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0001226.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ID>12021</ID>
+		<Name>Coca Cola Classic με Ανθρακικό Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/45373458/Coca-Cola-Cola-me-Anthrakiko-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/045373/45373458/xlarge_20230831122609_coca_cola_anapsyktiko_me_anthrakiko_kouti_6x330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.799403019</Price>
+		<Price>4.8</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>0226</MPN>
+		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000214911</Barcode>
+		<Barcode>5449000283900</Barcode>
 		<Quantity>379</Quantity>
 	</product>
 	<product>
-		<ID>120218-Τ</ID>
-		<Name>Coca Cola Zero με Ανθρακικό Χωρίς Ζάχαρη Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24519804/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://lh5.googleusercontent.com/proxy/6AIYwsWOPYbtAZgWxDP7TV6czrPwWFy7i1oz0NX72rtU2-1wyOPn1o-ixJutWBIid46gM12e4-75mogzhnmEI3Y_qUO9HazW2QpUB4m1SBcaVuWB8S3zkqtp</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ID>120218</ID>
+		<Name>Coca Cola Zero με Ανθρακικό Χωρίς Ζάχαρη Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/44016961/Coca-Cola-Zero-Anapsyktiko-me-Anthrakiko-CHoris-Zachari-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/044016/44016961/xlarge_20230712100955_coca_cola_zero_anapsyktiko_me_anthrakiko_choris_zachari_kouti_6x330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.797960574</Price>
+		<Price>4.8</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>0760</MPN>
+		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000214799</Barcode>
+		<Barcode>5449000283870</Barcode>
 		<Quantity>226</Quantity>
 	</product>
 	<product>
-		<ID>1202186-Τ</ID>
-		<Name>Coca Cola Zero Lemon με Ανθρακικό Χωρίς Ζάχαρη Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24540186/Coca-Cola-Zero-Lemon-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/024540/24540186/20210114155457_coca_cola_zero_lemon_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ID>1202186</ID>
+		<Name>Coca Cola Zero Lemon με Ανθρακικό Χωρίς Ζάχαρη Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/33616189/Coca-Cola-Zero-Lemon-Cola-me-Anthrakiko-CHoris-Zachari-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/033616/33616189/xlarge_20220127113130_coca_cola_cola_zero_lemoni_choris_zachari_6x330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.8540716844999998</Price>
+		<Price>5.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>1228</MPN>
+		<MPN>122801</MPN>
 		<Weight>0.4 kg</Weight>
-		<Description>Η κλασσική Coca Cola Zero με γεύση λεμόνι, χωρίς ζάχαρη. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000227041</Barcode>
-		<Quantity>19</Quantity>
-	</product>
-	<product>
-		<ID>1202189-Τ</ID>
-		<Name>Coca Cola Zero Χωρίς Καφεΐνη με Ανθρακικό Χωρίς Ζάχαρη Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/35764952/Coca-Cola-Zero-CHoris-Kafeini-me-Anthrakiko-CHoris-Zachari-Kouti-330ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/035764/35764952/20220504102219_coca_cola_cola_choris_kafeini_choris_zachari_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.8540716844999998</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>1229</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Το πασίγνωστο αναψυκτικό Coca-Cola, κλέβει εντυπώσεις με μία μοναδική παραλλαγή χωρίς καφεΐνη. Απολαύστε την ακαταμάχητη γεύση της Coca-Cola, χωρίς να φοβάστε για την επίδραση που μπορεί να έχει στην καθημερινότητά σας και στον ύπνο σας.</Description>
-		<Barcode>5449000233295</Barcode>
-		<Quantity>22</Quantity>
-	</product>
-	<product>
-		<ID>12022-Τ</ID>
-		<Name>Sprite Γκαζόζα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24519788/Sprite-Kouti-Gazoza-me-Anthrakiko-330ml.html</Product_Link>
-		<Image_Link>https://www.marnellos.gr/image/cache/catalog/sprite-1200x1200.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.7380991065000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΣΠΡΑΙΤ</Manufacturer>
-		<MPN>0847</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
-		<Barcode>5449000214775</Barcode>
-		<Quantity>143</Quantity>
-	</product>
-	<product>
-		<ID>12023-Τ</ID>
-		<Name>Schweppes Σόδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24772553/Schweppes-Kouti-Soda-me-Anthrakiko-330ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/024772/24772553/20220217095529_schweppes_soda_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.52</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>SCHWEPPES</Manufacturer>
-		<MPN>1230</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Ένα από τα παλαιότερα αναψυκτικά στον κόσμο, βρίσκεται στην διάθεσή σας! Απολαύστε ένα κουτάκι από δροσιστικό ανθρακούχο νερό Schweppes και αλλάξτε παραστάσεις! Με την ίδια, παραδοσιακή συνταγή από το 1783!</Description>
-		<Barcode>5449000233417</Barcode>
-		<Quantity>5</Quantity>
-	</product>
-	<product>
-		<ID>120232-Τ</ID>
-		<Name>Schweppes Σόδα Pink Grapefruit με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24519960/Schweppes-Kouti-Soda-Pink-Grapefruit-me-Anthrakiko-330ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/024519/24519960/20220217094919_schweppes_soda_pink_grapefruit_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.86</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>SCHWEPPES</Manufacturer>
-		<MPN>0571</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Σόδα Schweppes γκρέιπφρουτ με μέντα.</Description>
-		<Barcode>5449000271174</Barcode>
-		<Quantity>28</Quantity>
-	</product>
-	<product>
-		<ID>120233-Τ</ID>
-		<Name>Schweppes Σόδα Ρόδι με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/36060112/Schweppes-Kouti-Soda-Rodi-me-Anthrakiko-330ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/036060/36060112/20220518110240_schweppes_soda_rodi_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.86</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>SCHWEPPES</Manufacturer>
-		<MPN>0286</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Το Schweppes, το πιο εκλεκτό ανθρακούχο ποτό στον κόσμο των ενηλίκων, μεγαλώνει τη γκάμα του και υποδέχεται στην οικογένεια του, το νέο Schweppes με γεύση ρόδι.</Description>
-		<Barcode>5449000306203</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>12024-Τ</ID>
-		<Name>Fanta Πορτοκαλάδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24519939/Fanta-Kouti-Portokalada-me-Anthrakiko-330ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/024519/24519939/20200827115333_fanta_portokalada_me_anthrakiko_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.7380991065000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
-		<MPN>0418</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
-		<Barcode>5449000214805</Barcode>
+		<Description>Η κλασσική Coca Cola Zero με γεύση λεμόνι. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση. Συστατικά  Νερό, Διοξείδιο Άνθρακα, Χρωστική: 150d, Γλυκαντικά: Κικλαμικό Νάτριο, Ακεtoσουλφάμη και Ασπαρτάμη, Μέσα Οξίνισης: Φωσφορικό Οξύ και Κιτρικό Οξύ, Φυσικές Αρωματικές Ύλες (περιέχουν καφείνη), Περιέχει πηγή Φαινυλαλανίνης.</Description>
+		<Barcode>5449000306265</Barcode>
 		<Quantity>27</Quantity>
 	</product>
 	<product>
-		<ID>12025-Τ</ID>
-		<Name>Fanta Λεμονάδα με Ανθρακικό Κουτί 330ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24773232/Fanta-Kouti-Lemonada-me-Anthrakiko-330ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/024773/24773232/20210319160717_fanta_lemonada_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ID>1202189</ID>
+		<Name>Coca Cola Zero Χωρίς Καφεΐνη με Ανθρακικό Χωρίς Ζάχαρη Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/34680093/Coca-Cola-Zero-CHoris-Kafeini-Cola-me-Anthrakiko-CHoris-Zachari-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/034680/34680093/xlarge_20220315093940_coca_cola_cola_choris_kafeini_choris_zachari_6x330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.684584397</Price>
+		<Price>5.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
-		<MPN>0734</MPN>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>122901</MPN>
+		<Weight>0.4 kg</Weight>
+		<Description>Το πασίγνωστο αναψυκτικό Coca-Cola, κλέβει εντυπώσεις με μία μοναδική παραλλαγή χωρίς καφεΐνη. Απολαύστε την ακαταμάχητη γεύση της Coca-Cola, χωρίς να φοβάστε για την επίδραση που μπορεί να έχει στην καθημερινότητά σας και στον ύπνο σας.</Description>
+		<Barcode>5449000304520</Barcode>
+		<Quantity>22</Quantity>
+	</product>
+	<product>
+		<ID>12022</ID>
+		<Name>Sprite Γκαζόζα με Ανθρακικό Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/44017782/Sprite-Gazoza-me-Anthrakiko-CHoris-Zachari-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/044017/44017782/xlarge_20230712104019_sprite_gazoza_me_anthrakiko_choris_zachari_kouti_6x330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>4.43</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>84701</MPN>
+		<Weight>0.4 kg</Weight>
+		<Description>Η Sprite είναι ένα δροσερό αναψυκτικό με φυσικά αρώματα λεμονιού–lime και χωρίς χρωστικές.</Description>
+		<Barcode>5449000317698</Barcode>
+		<Quantity>143</Quantity>
+	</product>
+	<product>
+		<ID>120232</ID>
+		<Name>Schweppes Σόδα Pink Grapefruit με Ανθρακικό Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/35733131/Schweppes-Anapsyktiko-Pink-Grapefruit-me-Anthrakiko-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/035733/35733131/xlarge_20220509150457_schweppes_soda_pink_grapefruit_6x330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>5.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>57101</MPN>
+		<Weight>0.4 kg</Weight>
+		<Description>Σόδα Schweppes γκρέιπφρουτ με μέντα.</Description>
+		<Barcode>5449000304629</Barcode>
+		<Quantity>28</Quantity>
+	</product>
+	<product>
+		<ID>12024</ID>
+		<Name>Fanta Πορτοκαλάδα με Ανθρακικό Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/27277866/Fanta-Portokalada-me-Anthrakiko-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/027277/27277866/xlarge_20210223130913_fanta_portokalada_me_anthrakiko_330ml_6tmch.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>4.43</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>41801</MPN>
+		<Weight>0.4 kg</Weight>
+		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
+		<Barcode>5449000018281</Barcode>
+		<Quantity>27</Quantity>
+	</product>
+	<product>
+		<ID>12025</ID>
+		<Name>Fanta Λεμονάδα με Ανθρακικό Κουτί  6x330ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/44476141/Fanta-Lemonada-me-Anthrakiko-se-Kouti-6x330ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/044476/44476141/xlarge_20230725125237_fanta_lemonada_me_anthrakiko_kouti_6x330ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>4.11</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
+		<Manufacturer>COCA COLA</Manufacturer>
+		<MPN>73401</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Λεμονάδα περιέχει 7% χυμό λεμονιού, αρώματα φυσικού λεμονιού και ανθρακικό.</Description>
-		<Barcode>5449000214829</Barcode>
+		<Barcode>5449000317650</Barcode>
 		<Quantity>19</Quantity>
 	</product>
 	<product>
-		<ID>12031-Τ</ID>
-		<Name>Coca Cola Classic με Ανθρακικό Μπουκάλι 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24773220/Coca-Cola-Classic-me-Anthrakiko-Mpoukali-500ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/024773/24773220/20210319161049_coca_cola_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ID>12031</ID>
+		<Name>Coca Cola Classic με Ανθρακικό σε Μπουκάλι 24x500ml</Name>
+		<Product_Link>https://el.mcgrocer.com/%CF%80%CF%81%CE%BF%CF%8A%CF%8C%CE%BD%CF%84%CE%B1/coca-cola-%CF%80%CF%81%CF%89%CF%84%CF%8C%CF%84%CF%85%CF%80%CE%B7-%CE%B3%CE%B5%CF%8D%CF%83%CE%B7-24-x-500ml</Product_Link>
+		<Image_Link>https://mcgrocer.com/cdn/shop/files/coca-cola-original-taste-24-x-500ml-39140173709550.jpg?v=1738293195</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.0205298375</Price>
+		<Price>24.79</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>1231</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>54491472</Barcode>
+		<MPN>12311</MPN>
+		<Weight>12 kg</Weight>
+		<Description>Περιγραφή: Η Coca-Cola Original Taste είναι το αγαπημένο αναψυκτικό στον κόσμο και το απολαμβάνουμε από το 1886. Φαγητό, φίλοι και Coca-Cola Original Taste – καλύτερα μαζί!      Σερβίρετε παγωμένο για μέγιστη δροσιά.     Κρατήστε ένα κρύο στο ψυγείο.     Περιέχει 24 ατομικές φιάλες των 500ml.     Υπέροχη γεύση κοκ.     Μόνο φυσικές γεύσεις.     Χωρίς πρόσθετα συντηρητικά.     Χωρίς γλουτένη, χωρίς γαλακτοκομικά και χωρίς ξηρούς καρπούς.     Αυτό το προϊόν είναι χωρίς ΓΤΟ, γλουτένη και αλλεργιογόνα.     Αυτό το προϊόν είναι κατάλληλο για χορτοφάγους/vegans.     Παρακαλώ ανακυκλώστε.  Συστατικά: Ανθρακούχο Νερό, Ζάχαρη, Χρώμα (Caramel E150d), Φωσφορικό Οξύ, Φυσικές Αρωματικές ουσίες συμπεριλαμβανομένης της Καφεΐνης  Λεπτομέρειες: μάρκα:      Coca-Cola Original Taste</Description>
+		<Barcode>5449000017673</Barcode>
 		<Quantity>135</Quantity>
 	</product>
 	<product>
-		<ID>120318-Τ</ID>
-		<Name>COCA COLA ZERO 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/25728123/Coca-Cola-Zero-me-Anthrakiko-CHoris-Zachari-Mpoukali-500ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/025728/25728123/20220217095529_coca_cola_zero_choris_zachari_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ID>120318</ID>
+		<Name>Coca Cola Zero με Ανθρακικό Χωρίς Ζάχαρη 24x500ml</Name>
+		<Product_Link>https://www.pnp.co.za/coca-cola-zero-500ml-x-24/p/000000000000378128_CS1</Product_Link>
+		<Image_Link>https://cdn-prd-02.pnp.co.za/sys-master/images/hcc/h8a/11400422522910/silo-product-image-v2-10Apr2024-180145-5449000134332-Straight_on-219456-2320_515Wx515H</Image_Link>
+		<Additional>https://el.mcgrocer.com/%CF%80%CF%81%CE%BF%CF%8A%CF%8C%CE%BD%CF%84%CE%B1/coca-cola-zero-%CE%B6%CE%AC%CF%87%CE%B1%CF%81%CE%B7-12-x-500ml?_pos=30&amp;_sid=ac13655a2&amp;_ss=r</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΚΙΒΩΤΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.05875463</Price>
+		<Price>24.79</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
-		<MPN>1232</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Barcode>5449000131836</Barcode>
+		<MPN>12321</MPN>
+		<Weight>12 kg</Weight>
+		<Description>Περιγραφή: Η Coca-Cola Zero Sugar είναι το τέλειο ρόφημα για άτομα που θέλουν όλη τη γεύση της Coca-Cola, χωρίς ζάχαρη ή θερμίδες.      Σερβίρετε παγωμένο για μέγιστη δροσιά.     Κρατήστε ένα κρύο στο ψυγείο.     Περιέχει 12 ατομικές φιάλες των 500ml.     Μηδέν ζάχαρη και θερμίδες.     Χωρίς γλουτένη, χωρίς γαλακτοκομικά και χωρίς ξηρούς καρπούς.     Αυτό το προϊόν δεν περιέχει ΓΤΟ.     Αυτό το προϊόν είναι κατάλληλο για χορτοφάγους/vegans.     Παρακαλώ ανακυκλώστε.  Συστατικά: Αφρώδη αναψυκτικό χαμηλών θερμίδων με εκχυλίσματα φυτών με γλυκαντικά  Ανθρακούχο Νερό, Χρώμα (Caramel E150d), Οξύ (Φωσφορικό Οξύ), Γλυκαντικά (ασπαρτάμη, Ακετοσουλφάμη Κ), Φυσικά Αρωματικά Συμπεριλαμβανομένης της Καφεΐνης, Ρυθμιστής Οξύτητας (Κιτρικό νάτριο).  Περιέχει Πηγή Φαινυλαλανίνης.   Λεπτομέρειες: μάρκα:      Coke Zero Sugar</Description>
+		<Barcode>5449000134332</Barcode>
 		<Quantity>44</Quantity>
-	</product>
-	<product>
-		<ID>12034-Τ</ID>
-		<Name>Fanta Μπουκάλι Πορτοκαλάδα με Ανθρακικό 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/25876714/Fanta-Mpoukali-Portokalada-me-Anthrakiko-500ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/025876/25876714/20220217095529_fanta_portokalada_me_anthrakiko_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.0548600285</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
-		<MPN>1233</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
-		<Barcode>40822938</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>12035-Τ</ID>
-		<Name>Fanta Μπουκάλι Λεμονάδα με Ανθρακικό 500ml - ΕΛΛΗΝΙΚΟ ΠΡΟΪΟΝ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24773263/Fanta-Lemonada-me-Anthrakiko-Lemonada-500ml.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/024773/24773263/20200915141944_fanta_lemonada_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.0548600285</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΦΑΝΤΑ</Manufacturer>
-		<MPN>1234</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Η Fanta Λεμονάδα περιέχει 7% χυμό λεμονιού, αρώματα φυσικού λεμονιού και ανθρακικό.</Description>
-		<Barcode>54492493</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>12051</ID>
@@ -1013,7 +942,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.7969508625</Price>
+		<Price>0.796986923625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1031,7 +960,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.72410739</Price>
+		<Price>0.7240713288749999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1103,7 +1032,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.909508691</Price>
+		<Price>1.90943656875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1121,7 +1050,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.3433490285</Price>
+		<Price>1.343312967375</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1139,7 +1068,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.909508691</Price>
+		<Price>1.90943656875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>AMITA</Manufacturer>
@@ -1186,21 +1115,21 @@
 		<Quantity>92</Quantity>
 	</product>
 	<product>
-		<ID>13011-Τ</ID>
-		<Name>Βίκος Cola με Ανθρακικό 1500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/48789832/Vikos-Cola-Vikos-1-5-Lt-0-30euro.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/045225/45225689/20230823104532_vikos_cola_1_5lt_0_30.jpeg</Image_Link>
+		<ID>13011</ID>
+		<Name>Βίκος Cola με Ανθρακικό 6x1500ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/58952844/Vikos-Cola-me-Anthrakiko-se-Mpoukali-54575.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/058952/58952844/xlarge_20250227101311_vikos_cola_me_anthrakiko_54575.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.07</Price>
+		<Price>5.98</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
-		<MPN>0605</MPN>
-		<Weight>1.5 kg</Weight>
+		<MPN>60501</MPN>
+		<Weight>9 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
-		<Barcode>5201946900521</Barcode>
+		<Barcode>5201946910353</Barcode>
 		<Quantity>238</Quantity>
 	</product>
 	<product>
@@ -1228,7 +1157,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.41</Price>
+		<Price>2.430231335999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1236,7 +1165,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>8632</Quantity>
+		<Quantity>8628</Quantity>
 	</product>
 	<product>
 		<ID>130318</ID>
@@ -1246,7 +1175,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.41</Price>
+		<Price>2.430231335999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1264,7 +1193,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.41</Price>
+		<Price>2.430231335999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1282,7 +1211,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.41</Price>
+		<Price>2.430231335999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1300,7 +1229,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.6</Price>
+		<Price>1.61205345288</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1318,7 +1247,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.74</Price>
+		<Price>2.762362951920001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1336,7 +1265,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.74</Price>
+		<Price>2.762362951920001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1354,7 +1283,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.74</Price>
+		<Price>2.762362951920001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1372,7 +1301,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.41</Price>
+		<Price>2.430231335999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1390,7 +1319,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.41</Price>
+		<Price>2.430231335999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1408,7 +1337,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>3.54</Price>
+		<Price>3.572440063920001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1426,7 +1355,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>3.31</Price>
+		<Price>3.371916628080001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1444,7 +1373,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.48</Price>
+		<Price>2.503138276080001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
@@ -1462,7 +1391,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2.27</Price>
+		<Price>2.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>TUBORG</Manufacturer>
@@ -1498,7 +1427,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.68</Price>
+		<Price>4.682194337670071</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1516,7 +1445,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>5.34</Price>
+		<Price>5.3408924045568</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1534,7 +1463,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>5.47</Price>
+		<Price>5.473961071488</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1552,7 +1481,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>5.47</Price>
+		<Price>5.473961071488</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1570,7 +1499,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.07</Price>
+		<Price>1.182292921064815</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>RED BULL</Manufacturer>
@@ -1588,7 +1517,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.55</Price>
+		<Price>0.5462258739583333</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>HELL</Manufacturer>
@@ -1606,7 +1535,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.13</Price>
+		<Price>1.1251071</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>MONSTER</Manufacturer>
@@ -1624,7 +1553,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.13</Price>
+		<Price>1.1251071</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>MONSTER</Manufacturer>
@@ -1677,7 +1606,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.5948392320000001</Price>
+		<Price>0.594839232</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -1983,7 +1912,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.269752976</Price>
+		<Price>1.647247104</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Χυμοί</Category_Path>
 		<Manufacturer>ΑΓΡΟΣ</Manufacturer>
@@ -2063,7 +1992,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση λεμόνι.</Description>
 		<Barcode>5201156030261</Barcode>
-		<Quantity>151</Quantity>
+		<Quantity>150</Quantity>
 	</product>
 	<product>
 		<ID>18022</ID>
@@ -2081,7 +2010,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Το Lipton Ice Tea είναι το μόνο που παρασκευάζεται από αληθινά φύλλα τσαγιού διατηρώντας έτσι τη γνήσια γεύση άλλα και όλα τα ευεργετικά φυσικά αντιοξειδωτικά στοιχεία που περιέχονται στα φύλλα του. Με γεύση ροδάκινο.</Description>
 		<Barcode>5201156030308</Barcode>
-		<Quantity>137</Quantity>
+		<Quantity>136</Quantity>
 	</product>
 	<product>
 		<ID>18101</ID>
@@ -2138,60 +2067,6 @@
 		<Quantity>58</Quantity>
 	</product>
 	<product>
-		<ID>18201</ID>
-		<Name>Fuzetea Μπουκάλι Ice Tea Λεμόνι Με Εκχύλισμα Λουίζας 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/26660747/Fuzetea-Mpoukali-Ice-Tea-Lemoni-Me-Ekchylisma-Louizas-me-Anthrakiko-500ml.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/026660/26660747/20220217095530_fuzetea_ice_tea_lemoni_me_ekchylisma_louizas_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.2529553904</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>FUZE</Manufacturer>
-		<MPN>1278</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Ανακάλυψε τη μοναδική γεύση FuzeTea με γεύση Λεμόνι και εκχύλισμα Λουίζας, έναν ανατρεπτικό και πρωτότυπο συνδυασμό από εκχύλισμα μαύρου τσαγιού, μαζί με φρούτα και βότανα. Το FuzeTea προσφέρει μια συναρπαστική γευστική εμπειρία που αναζωογονεί και ταυτόχρονα δημιουργεί μια μοναδική αίσθηση χαλάρωσης. Η κατάλληλη επιλογή για όλες εκείνες τις στιγμές που θέλουμε να κάνουμε ένα διάλειμμα από την καθημερινότητα και να «βυθιστούμε» σε γεύσεις και αρώματα.</Description>
-		<Barcode>5449000235947</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>18202</ID>
-		<Name>Fuzetea Black Ice Tea Ροδάκινο με εκχύλισμα Ιβίσκου 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/55267221/Fuzetea-Black-Ice-Tea-Rodakino-me-ekchylisma-Iviskou-Fuze-500-ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/055267/55267221/20240731132331_fuzetea_black_ice_tea_rodakino_me_ekchylisma_iviskou_fuze_500_ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.2529553904</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>FUZE</Manufacturer>
-		<MPN>1279</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Ανακάλυψε τη μοναδική γεύση FuzeTea με γεύση Ροδάκινο και εκχύλισμα Ιβίσκου, έναν ανατρεπτικό και πρωτότυπο συνδυασμό από εκχύλισμα μαύρου τσαγιού, μαζί με φρούτα και βότανα. Το FuzeTea προσφέρει μια συναρπαστική γευστική εμπειρία που αναζωογονεί και ταυτόχρονα δημιουργεί μια μοναδική αίσθηση χαλάρωσης! Η κατάλληλη επιλογή για όλες εκείνες τις στιγμές που θέλουμε να κάνουμε ένα διάλειμμα από την καθημερινότητα και να «βυθιστούμε» σε γεύσεις και αρώματα.</Description>
-		<Barcode>5449000235770</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>18203</ID>
-		<Name>Fuzetea Green Ice Tea Passion Fruit  Χωρίς Ζάχαρη Μπουκάλι 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/45234803/Fuze-Tea-Green-Passion-Fruit-CHoris-Zachari-500ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/045234/45234803/xlarge_20230823160511_fuze_tea_green_passion_fruit_choris_zachari_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.32052704</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>FUZE</Manufacturer>
-		<MPN>1167</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Το FUZETEA Green Tea Passionfruit χωρίς ζάχαρη είναι ένα μοναδικό, δροσιστικό ρόφημα με μηδέν θερμίδες που συνδυάζει πράσινο τσάι και χυμό από φρούτο του πάθους.</Description>
-		<Barcode>5449000236739</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>18301</ID>
 		<Name>YAMAS GREEN TEA ΜΕ ΛΕΜΟΝΙ &amp; ΜΕΛΙ 355ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/54166622/Yamas-Ice-Tea-Lemoni-CHoris-Anthrakiko-Mpoukali-355ml.html</Product_Link>
@@ -2228,126 +2103,155 @@
 		<Quantity>37</Quantity>
 	</product>
 	<product>
-		<ID>20201-Τ</ID>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 0.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
-		<Product_Link>https://www.skroutz.gr/s/29351601/Vikos-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/029351/29351601/20210608120227_vikos_metalliko_nero_0_5lt_1tmch.jpeg</Image_Link>
+		<ID>20201</ID>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 24x500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.skroutz.gr/s/59893793/vikos-fysiko-metalliko-nero-24x0-5lt.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/059893/59893793/xlarge_20250613135809_vikos_fysiko_metalliko_nero_24x0_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.16</Price>
+		<Price>2.93</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 0.5lt    Τεμάχια: 1</Description>
+		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>1067</Quantity>
+		<Quantity>1551</Quantity>
 	</product>
 	<product>
-		<ID>20203-Τ</ID>
-		<Name>Βίκος Φυσικό Μεταλλικό Νερό 1.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 6 τεμάχια)</Name>
-		<Product_Link>https://www.skroutz.gr/s/33524215/Vikos-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/033524/33524215/20220120104552_vikos_fysiko_metalliko_nero_fysiko_1_5lt.jpeg</Image_Link>
+		<ID>20202</ID>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 12x500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.skroutz.gr/s/26743172/Vikos-Fysiko-Metalliko-Nero-12x0-5lt.html#description</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/026743/26743172/xlarge_20210122154956_vikos_fysiko_metalliko_nero_0_5lt_12tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.32</Price>
+		<Price>1.47</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
+		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
+		<MPN>130501</MPN>
+		<Description>Το Φυσικό Μεταλλικό Νερό «Βίκος» εμφιαλώνεται κατευθείαν στην ομώνυμη πηγή, στα παρθένα και προστατευόμενα Ζαγοροχώρια. Έχει αναγνωρισθεί σαν φυσικό μεταλλικό νερό κατάλληλο για δίαιτα πτωχή σε νάτριο, με χαμηλή περιεκτικότητα σε άλατα.  Χάρη στην ισορροπημένη σύστασή του (με χαμηλή περιεκτικότητα σε άλατα και υψηλή σε ασβέστιο) θεωρείται ότι συμβάλει στην καλή λειτουργία του οργανισμού, ενώ είναι κατάλληλο σε όσους ακολουθούν δίαιτα πτωχή σε νάτριο. Οδηγίες Φύλαξης  Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
+		<Barcode>5201946011128</Barcode>
+	</product>
+	<product>
+		<ID>20203</ID>
+		<Name>Βίκος Φυσικό Μεταλλικό Νερό 6x1500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.skroutz.gr/s/59829278/fysiko-metalliko-nero-6x1-5lt.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/059829/59829278/xlarge_20250415125051_fysiko_metalliko_nero_6x1_5lt.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1306</MPN>
-		<Weight>1.5 kg</Weight>
-		<Description>Βασικά χαρακτηριστικά:   Όγκος Τεμαχίου: 1.5lt    Τεμάχια: 1</Description>
-		<Barcode>5201946010015</Barcode>
+		<Description>Φυσικό μεταλλικό νερό Τεμάχια : 6 Όγκος Τεμαχίου : 1.5lt  Οδηγίες Φύλαξης **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
+		<Barcode>5201946013115</Barcode>
 		<Quantity>1240</Quantity>
 	</product>
 	<product>
-		<ID>20401-Τ</ID>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 0.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
-		<Product_Link>https://www.skroutz.gr/s/45569537/Ioli-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/045569/45569537/20230906100530_ioli_fysiko_metalliko_nero_0_5lt.jpeg</Image_Link>
+		<ID>20401</ID>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 24x500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.iolispring.gr/ta-proionta/fysiko-metalliko-nero-ioli-se-pet-fiali-500ml/</Product_Link>
+		<Image_Link>https://lianiki.mrpanda.gr/222889-large_default/%CE%B9%CE%BF%CE%BB%CE%B7-%CF%86%CF%85%CF%83%CE%B9%CE%BA%CF%8C-%CE%BC%CE%B5%CF%84%CE%B1%CE%BB%CE%BB%CE%B9%CE%BA%CF%8C-%CE%BD%CE%B5%CF%81%CF%8C-24x500ml.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.16</Price>
+		<Price>2.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
-		<MPN>1307</MPN>
-		<Weight>0.5 kg</Weight>
+		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Barcode>5200040345078</Barcode>
+		<Barcode>5200040345108</Barcode>
 		<Quantity>1723</Quantity>
 	</product>
 	<product>
-		<ID>20403-Τ</ID>
-		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 1.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 6 τεμάχια)</Name>
-		<Product_Link>https://www.skroutz.gr/s/40395559/Ioli-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/040395/40395559/20230117165555_ioli_fysiko_metalliko_nero_1_5lt.jpeg</Image_Link>
+		<ID>20403</ID>
+		<Name>Ιόλη Φυσικό Μεταλλικό Νερό 6x1500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.iolispring.gr/ta-proionta/fysiko-metalliko-nero-ioli-se-pet-fiali-15lt/</Product_Link>
+		<Image_Link>https://dj0m4io8o9yuz.cloudfront.net/storage/media/catalog/products/420/8/4200001488/ioli-shrink-6x15lt-51-promo.jpg?id=1607351703</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.32</Price>
+		<Price>1.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
-		<MPN>1308</MPN>
-		<Weight>1.5 kg</Weight>
+		<MPN>13081</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Barcode>5200040345092</Barcode>
+		<Barcode>5200040345122</Barcode>
 		<Quantity>1271</Quantity>
 	</product>
 	<product>
 		<ID>20501</ID>
-		<Name>Αύρα Φυσικό Μεταλλικό Νερό 24φ/500ml (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
+		<Name>Αύρα Φυσικό Μεταλλικό Νερό 24x500ml σε πλαστική φιάλη pet</Name>
 		<Product_Link>https://www.avrawater.gr/40/Fysiko-Metalliko-Nero-AYRA</Product_Link>
-		<Image_Link>https://pitsias.gr/img/p/o/-fysiko-metalliko-nero-500ml-0.jpg</Image_Link>
+		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/NERO-AYRA-24X500.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.16</Price>
+		<Price>2.85</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>Αυρα</Manufacturer>
-		<MPN>130801</MPN>
+		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
-		<Barcode>5201005080027</Barcode>
-		<Quantity>12666</Quantity>
+		<Barcode>5201005080024</Barcode>
+		<Quantity>12639</Quantity>
 	</product>
 	<product>
-		<ID>20601-Τ</ID>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 0.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 24 τεμάχια)</Name>
-		<Product_Link>https://www.skroutz.gr/s/34680568/Zagori-Fysiko-Metalliko-Nero-0-5lt.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/034680/34680568/xlarge_20220318114308_zagori_fysiko_metalliko_nero_0_5lt.jpeg</Image_Link>
+		<ID>20601</ID>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 24x500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.skroutz.gr/s/28476128/Zagori-Fysiko-Metalliko-Nero-24x0-5lt.html#description</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/028476/28476128/xlarge_20220923112933_zagori_fysiko_metalliko_nero_24x0_5lt.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.16</Price>
+		<Price>2.92</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
-		<MPN>10 160</MPN>
+		<MPN>10161</MPN>
+		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα.</Description>
+		<Barcode>1520162701990</Barcode>
+		<Quantity>479</Quantity>
+	</product>
+	<product>
+		<ID>20602</ID>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 12x500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.skroutz.gr/s/28317498/Zagori-Fysiko-Metalliko-Nero-12x0-5lt.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/028317/28317498/xlarge_20220228104656_zagori_fysiko_metalliko_nero_12x0_5lt.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.47</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
+		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
+		<MPN>10180</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
-		<Barcode>5201627019900</Barcode>
-		<Quantity>487</Quantity>
+		<Barcode>5201627000939</Barcode>
+		<Quantity>713</Quantity>
 	</product>
 	<product>
-		<ID>20603-Τ</ID>
-		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 1.5lt (Η τιμή αφορά στο 1 τεμάχιο, η συσκευασία περιέχει 6 τεμάχια)</Name>
-		<Product_Link>https://www.skroutz.gr/s/26743304/Zagori-Fysiko-Metalliko-Nero-1-5lt.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/026743/26743304/xlarge_20210122155227_zagori_fysiko_metalliko_nero_1_5lt_1tmch.jpeg</Image_Link>
+		<ID>20603</ID>
+		<Name>Ζαγόρι Φυσικό Μεταλλικό Νερό 6x1500ml σε πλαστική φιάλη pet</Name>
+		<Product_Link>https://www.skroutz.gr/s/29351530/Zagori-Fysiko-Metalliko-Nero-6x1-5lt.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/029351/29351530/xlarge_20210608120132_zagori_metalliko_nero_1_5lt_5_1tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.32</Price>
+		<Price>1.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
-		<MPN>10 105</MPN>
+		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Barcode>5201627019887</Barcode>
+		<Barcode>5201627019955</Barcode>
 		<Quantity>394</Quantity>
 	</product>
 	<product>
@@ -2359,7 +2263,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.81</Price>
+		<Price>0.7881896565125854</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΔΟΥΜΠΙΑ</Manufacturer>
@@ -2377,7 +2281,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.35</Price>
+		<Price>1.307241381533069</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΔΟΥΜΠΙΑ</Manufacturer>
@@ -2394,7 +2298,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.47</Price>
+		<Price>1.42091454514464</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΣΤΟΥΠΑΚΗΣ</Manufacturer>
@@ -2412,7 +2316,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.66</Price>
+		<Price>1.60897676435496</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>ΣΤΟΥΠΑΚΗΣ</Manufacturer>
@@ -2430,7 +2334,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>0.89</Price>
+		<Price>0.8428896000000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>PERRIER</Manufacturer>
@@ -2448,7 +2352,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.01</Price>
+		<Price>1.0837152</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>SAN PELLEGRINO</Manufacturer>
@@ -2466,7 +2370,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.78</Price>
+		<Price>1.9416564</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>SAN PELLEGRINO</Manufacturer>
@@ -2484,7 +2388,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.89</Price>
+		<Price>0.8888721777935998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>Ξυνό Νερό</Manufacturer>
@@ -2501,7 +2405,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.53</Price>
+		<Price>1.5335487023472</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>Ξυνό Νερό</Manufacturer>
@@ -2562,7 +2466,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ξηρή γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<Barcode>15202548505111</Barcode>
-		<Quantity>297</Quantity>
+		<Quantity>293</Quantity>
 	</product>
 	<product>
 		<ID>40053</ID>
@@ -2688,7 +2592,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413020183</Barcode>
-		<Quantity>780</Quantity>
+		<Quantity>774</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -5172,7 +5076,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>2298</Quantity>
+		<Quantity>2288</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -7221,7 +7125,7 @@
 		<MPN>1280</MPN>
 		<Description>Οι ανταλλακτικές κεφαλές ηλεκτρικής οδοντόβουρτσας Oral-B Kids, είναι ειδικά σχεδιασμένες για παιδάκια ηλικίας 3+ ετών και είναι συμβατές με όλες τις ηλεκτρικές οδοντόβουρτσες Oral-B Kids.</Description>
 		<Barcode>4210201384731</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>60202</ID>
@@ -10681,7 +10585,7 @@
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650102703</Barcode>
-		<Quantity>1291</Quantity>
+		<Quantity>1285</Quantity>
 	</product>
 	<product>
 		<ID>702071</ID>
@@ -11040,7 +10944,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>2388</Quantity>
+		<Quantity>2385</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -11220,7 +11124,7 @@
 		<Weight>2.5 kg</Weight>
 		<Description>Η σκόνη Skip Active Clean καθαρίζει δύσκολους λεκέδες ακόμη και στο σύντομο πρόγραμμα. Με τεχνολογία Wash Boosters απομακρύνει δύσκολους λεκέδες όπως λίπος, λάδι, λάσπη, γρασίδι και παγωτό σοκολάτα, χαρίζοντας στα ρούχα σας καθαριότητα.</Description>
 		<Barcode>8710847941801</Barcode>
-		<Quantity>265</Quantity>
+		<Quantity>264</Quantity>
 	</product>
 	<product>
 		<ID>71171</ID>
@@ -11362,7 +11266,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>888</Quantity>
+		<Quantity>885</Quantity>
 	</product>
 	<product>
 		<ID>712322</ID>
@@ -11379,7 +11283,7 @@
 		<MPN>9999</MPN>
 		<Description>Το υγρό απορρυπαντικό ρούχων Limpieza Profunda / Deep Clean της Skip μαλακώνει τις ίνες των ρούχων και δεν αφήνει υπολείμματα. Χρησιμοποιείται για λιπαρούς λεκέδες, όπως λάδι, τρόφιμα. Μπορεί να εφαρμοστεί τοπικά, απευθείας πάνω σε λεκέδες πριν από την πλύση. Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας. Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<Barcode>8720181413285</Barcode>
-		<Quantity>888</Quantity>
+		<Quantity>885</Quantity>
 	</product>
 	<product>
 		<ID>71261</ID>
@@ -11622,7 +11526,7 @@
 		<MPN>0417</MPN>
 		<Description>Το αποσκληρυντικό πλυντηρίου της εταιρείας Calgon προστατεύει το πλυντήριό σας από τα άλατα μεγιστοποιώντας την απόδοσή του. Καταπολεμά τις οσμές και τις βρωμιές, εξουδετερώνοντας τα άλατα και τα υπολείμματα που αποτελούν πηγές δυσοσμίας.</Description>
 		<Barcode>5900627008203</Barcode>
-		<Quantity>1170</Quantity>
+		<Quantity>1169</Quantity>
 	</product>
 	<product>
 		<ID>72001</ID>
@@ -11656,7 +11560,7 @@
 		<MPN>1101</MPN>
 		<Description>Το Fairy Ultra Original υγρό πιάτων διαρκεί έως και πενήντα τοις εκατό περισσότερο σε σύγκριση με το συνηθισμένα υγρά πιάτων.</Description>
 		<Barcode>4084500183087</Barcode>
-		<Quantity>718</Quantity>
+		<Quantity>717</Quantity>
 	</product>
 	<product>
 		<ID>720100201</ID>
@@ -11809,7 +11713,7 @@
 		<MPN>1105</MPN>
 		<Description>Οι κάψουλες All in One από την Fairy για το πλυντήριο πιάτων συνδυάζουν τις εξής δράσεις, χαρίζοντας εξαιρετική καθαριότητα για τα πιάτα σας:•Iσχυρή καθαριστική δράση ακόμα και στο σύντομο πρόγραμμα διαλύει τα λίπη και αφαιρεί τους δύσκολους λεκέδες•Εξαιρετική λάμψη•Προστασία υαλικών &amp; ασημικών•Πρόληψη σχηματισμού αλάτων - δράση αλατιού - δράση εκθαμβωτικού</Description>
 		<Barcode>8006540910764</Barcode>
-		<Quantity>929</Quantity>
+		<Quantity>928</Quantity>
 	</product>
 	<product>
 		<ID>72101</ID>
@@ -12336,7 +12240,7 @@
 		<MPN>1018</MPN>
 		<Description>Η Χλωρίνη® Klinex Ultra Protection με παχύρευστη σύνθεση απολυμαίνει επιφάνειες σε όλο το σπίτι και προστατεύει την οικογένεια σας εξουδετερώνοντας το 99,9% των μικροβίων.</Description>
 		<Barcode>5201028094209</Barcode>
-		<Quantity>590</Quantity>
+		<Quantity>584</Quantity>
 	</product>
 	<product>
 		<ID>735111</ID>
@@ -15647,7 +15551,7 @@
 	</product>
 	<product>
 		<ID>77001101021</ID>
-		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Γκρι Σετ 2τμχ E-4548</Name>
+		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Γκρι Σετ 2τμχ (Μ37,5xΠ37,5xΥ40cm &amp; Μ33,5xΠ33,5xΥ36cm) E-4548</Name>
 		<Product_Link>https://www.sidirela.gr/nea-proionta/trapezaki-quot-side-table-quot/</Product_Link>
 		<Image_Link>https://www.sidirela.gr/uploads/2025/06/e-4548-99-trapezaki-side-table-2-tem-set-web.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -15664,7 +15568,7 @@
 	</product>
 	<product>
 		<ID>77001101022</ID>
-		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Μπεζ Σετ 2τμχ E-4548</Name>
+		<Name>Τετράγωνα Βοηθητικά Τραπεζάκια με Μέταλλο και Ξύλο Μαύρο/Μπεζ Σετ 2τμχ (Μ37,5xΠ37,5xΥ40cm &amp; Μ33,5xΠ33,5xΥ36cm) E-4548</Name>
 		<Product_Link>https://www.sidirela.gr/nea-proionta/trapezaki-quot-side-table-quot/</Product_Link>
 		<Image_Link>https://www.sidirela.gr/uploads/2025/06/e-4548-99-trapezaki-side-table-2-tem-set-web.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -17567,7 +17471,7 @@
 		<MPN>1775</MPN>
 		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
 		<Barcode>5214002309763</Barcode>
-		<Quantity>1844</Quantity>
+		<Quantity>1834</Quantity>
 	</product>
 	<product>
 		<ID>78621</ID>
@@ -25373,7 +25277,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Το Luncheon Meat της Zwan αποτελείται από χοιρινό κρέας. Δοκιμάστε το στο sandwich, στο κολατσιό στο σχολείο, στο camping, στις εκδρομές, αλλά και στην καρμπονάρα, στην πίτσα, στις σάλτσες και στις σαλάτες.</Description>
 		<Barcode>8714555000379</Barcode>
-		<Quantity>438</Quantity>
+		<Quantity>428</Quantity>
 	</product>
 	<product>
 		<ID>85232</ID>
@@ -25655,7 +25559,7 @@
 		<MPN>38547</MPN>
 		<Description>Αφράτη ζύμη βάφλας με πλούσια κρέμα κακάο και φουντουκιού! Το κάθε display περιέχει 12 τεμάχια.  Αυτή η γλυκιά και νόστιμη βάφλα είναι η ιδανική δόση ενέργειας πριν από τη δουλειά ή πριν από το γυμναστήριο!  Οι βάφλες περιέχουν φρέσκα ολόκληρα αυγά, χωρίς trans λιπαρά.  Ο συνδυασμός μαλακής βάφλας και oi κρεμώδεις και σοκολατένιες γεμίσεις ικανοποιεί ιδιαίτερα όλα τα γούστα και τις προτιμήσεις των καταναλωτών.  Οι βάφλες περιέχουν μη υδρογονωμένα λιπαρά &amp; δεν χρειάζονται προθέρμανση σε φούρνο μικροκυμάτων ή φούρνο.  Είναι κατάλληλες για κατανάλωση σε οποιοδήποτε μέρος και οποιαδήποτε ώρα της ημέρας.    Διατροφική Επισήμανση ανά 100g Ενέργεια 1711kj / 406kcal Λιπαρά 17,1g Εκ των οποίων κορεσμένα 8,5g Υδατάνθρακες 56,5g Εκ των οποίων σάκχαρα 39,2g Εδώδιμες ίνες 0,8g Πρωτεΐνες 5,6g Αλάτι 0,54g</Description>
 		<Barcode>5205422170163</Barcode>
-		<Quantity>1159</Quantity>
+		<Quantity>1157</Quantity>
 	</product>
 	<product>
 		<ID>88810102</ID>
@@ -25689,7 +25593,7 @@
 		<MPN>38550</MPN>
 		<Description>Βελούδινη ζύμη με κρεμώδη γέμιση βανίλιας!  Αυτό το κρεμώδες ελαφρύ σνακ είναι υπέροχη επιλογή για το βράδυ όταν λαχταράμε για κάτι γλυκό!    Διατροφική Επισήμανση ανά 100g Ενέργεια 1716Kj/ 407 kcal Λιπαρά 17,7g Εκ των οποίων κορεσμένα 9,0g Υδατάνθρακες 57,5g Εκ των οποίων σάκχαρα 37,1g Εδώδιμες ίνες 0,4g Πρωτεΐνες 4,8g Αλάτι 0,59g</Description>
 		<Barcode>5205422400017</Barcode>
-		<Quantity>1183</Quantity>
+		<Quantity>1182</Quantity>
 	</product>
 	<product>
 		<ID>88810104</ID>
@@ -25706,7 +25610,7 @@
 		<MPN>34094</MPN>
 		<Description>Ένας υπέροχος συνδυασμός ανάμεσα σε απαλή ζύμη κακάο και γέμιση αλατισμένης καραμέλας! Η βελούδινη υφή κακάο και η πλούσια γέμιση καραμέλας κάνουν αυτή τη βάφλα το τέλειο επιδόρπιο! Διατροφικές πληροφορίες ανά 100 γρ Ενέργεια 1659KJ / 394Kcal Λίπος 14,9 γρ Εκ των οποίων κορεσμένα 7,6 γρ Υδατάνθρακες 57,9 γρ Εκ των οποίων σάκχαρα 38,3 γρ Ίνες 1,0 γρ Πρωτεΐνες 5,5 γρ Αλας 0,64 γρ</Description>
 		<Barcode>5205422000002</Barcode>
-		<Quantity>921</Quantity>
+		<Quantity>920</Quantity>
 	</product>
 	<product>
 		<ID>8882007011</ID>
@@ -25723,7 +25627,7 @@
 		<MPN>888-30349</MPN>
 		<Description>Κλασικό κρουασάν 70 γραμμαρίων γεμισμένο με πλούσια κρέμα κακάο και κρέμα πραλίνας φουντουκιού.  Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι. Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<Barcode>5301000230349</Barcode>
-		<Quantity>160</Quantity>
+		<Quantity>159</Quantity>
 	</product>
 	<product>
 		<ID>8882007012</ID>
@@ -26226,7 +26130,7 @@
 		<Weight>4 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικους σκύλους. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.• Κυρίως συστατικό: Κρέας• Συσκευασία: 4kg</Description>
 		<Barcode>5202546009195</Barcode>
-		<Quantity>340</Quantity>
+		<Quantity>338</Quantity>
 	</product>
 	<product>
 		<ID>99022</ID>
@@ -26244,7 +26148,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή από την Morando•Συσκευασία: Κονσέρβα•Ποσότητα: 1τμχ•Βάρος: 405gr</Description>
 		<Barcode>8007520011105</Barcode>
-		<Quantity>867</Quantity>
+		<Quantity>843</Quantity>
 	</product>
 	<product>
 		<ID>9902201</ID>
