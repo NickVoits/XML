@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-19 16:56</created_at>
+	<created_at>2025-06-19 16:57</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -5112,6 +5112,7 @@
 		<MPN>180001</MPN>
 		<Description>Chateau Miraval Rosé, από το κτήμα της Προβηγκίας, όπου η ιστορία του ξεκινάει στο Μεσαίωνα και συνεχίζεται στο σήμερα όπου πλέον έγινε περισσότερο γνωστό από τότε που ήρθε στην ιδιοκτησία του ζεύγους Brad Pitt και Angelina Jolie.  Με έντονη μύτη που παραπέμπει σε λευκά λουλούδια, μικρά κόκκινα μούρα, φρεσκοκομμένες φράουλες και ώριμα Morello κεράσια. Στόμα στρογγυλό και απαλό με αρώματα κερασιού, άγριας φράουλας και με ίχνη αλμύρας. Είναι ισορροπημένο, διαρκές και έχει απαλό τελείωμα. Σερβίρεται στους 10-12˚C και ταιριάζει με κάθε μεσογειακό πιάτο.</Description>
 		<Barcode>3296180004250</Barcode>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>499001124</ID>
@@ -20596,17 +20597,6 @@
 		<Description>Τέλεια λύση για συσκευές με χαμηλή κατανάλωση ενέργειας     "Made in Germany - made to last", εγγύηση ποιότητας από τη VARTA     Εγγυημένη περίοδος αποθήκευσης 5 ετών     Συσκευασία με νέα, κομψή εμφάνιση και ιδιαίτερες απτικές αισθήσεις: εκλεπτυσμένη με μεταλλικό αποτέλεσμα     Ο μοναδικός σχεδιασμός θα σας επιτρέψει να βρείτε εύκολα τις βρύσες μας στο ράφι   Συσκευασία: 10 blister Κουτί: 50 blister</Description>
 		<Barcode>4008496626656</Barcode>
 		<Quantity>25</Quantity>
-	</product>
-	<product>
-		<ID>797505111</ID>
-		<Name>Energizer Αλκαλικές Μπαταρίες A27 12V 2τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/9036994/Energizer-Alkalikes-Mpataries-A27-12V-2tmch-639333.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/009036/9036994/xlarge_20211122135613_energizer_alkalikes_mpataries_a27_12v_2tmch.jpeg</Image_Link>
-		<Manufacturer>Energizer</Manufacturer>
-		<MPN>ENE9036994</MPN>
-		<Description>Αλκαλικές μπαταρίες A27 της Energizer, κατάλληλες για χρήση σε φωτογραφικές μηχανές, τηλεχειριστήρια, αριθμομηχανές κι άλλες οικιακές συσκευές.</Description>
-		<Barcode>7638900393330</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>797510101</ID>
