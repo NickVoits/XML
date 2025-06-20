@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-20 16:05</created_at>
+	<created_at>2025-06-20 16:31</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -574,7 +574,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<Barcode>5201171331220</Barcode>
-		<Quantity>78</Quantity>
+		<Quantity>82</Quantity>
 	</product>
 	<product>
 		<ID>11532</ID>
@@ -592,7 +592,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>184</Quantity>
+		<Quantity>188</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -5314,7 +5314,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.33558966</Price>
+		<Price>6.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΠΙΤΣΙΛΑΔΗ</Manufacturer>
@@ -5475,7 +5475,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.33201050968622</Price>
+		<Price>1.313632771652495</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5493,7 +5493,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.1547583991608</Price>
+		<Price>2.128188175497584</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5511,7 +5511,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.5293938228484</Price>
+		<Price>4.471825004911432</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5529,7 +5529,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.31197093168622</Price>
+		<Price>1.293593193652495</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5547,7 +5547,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.1347188211608</Price>
+		<Price>2.108148597497584</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5565,7 +5565,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.452318522848399</Price>
+		<Price>4.394749704911431</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5583,7 +5583,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.670120440745801</Price>
+		<Price>5.588195584450883</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5601,7 +5601,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>47.445242421</Price>
+		<Price>47.44524242099999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5720,7 +5720,7 @@
 	</product>
 	<product>
 		<ID>52753</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΔΕΚΑΡΑΚΙ 200ml  ΜΟΣΧΑΤΟ</Name>
+		<Name>Τυρνάβου Τσίπουρο Δεκαράκι χωρίς Γλυκάνισο Μοσχάτο 40% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/15444644/Tyrnavou-Moschato-choris-glykaniso-To-Dekaraki-Tsipouro-40-200ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/015444/15444644/20180719155715_tyrnavou_moschato_choris_glykaniso_to_dekaraki_tsipouro_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5810,7 +5810,7 @@
 	</product>
 	<product>
 		<ID>52903</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΜΠΑΜΠΑΤΖΙΜ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Μπαμπατζίμ Τσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265223/Mpampatzim-Me-glykaniso-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%BC%CF%80%CE%B1%CE%BC%CF%80%CE%B1%CF%84%CE%B6%CE%B9%CE%BC-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-200-premium.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5828,7 +5828,7 @@
 	</product>
 	<product>
 		<ID>52953</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΜΠΑΜΠΑΤΖΙΜ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Μπαμπατζίμ Τσίπουρο χωρίς Γλυκάνισο 40% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/49410508/Mpampatzim-Mpampatzim-Tsipouro-CHoris-Glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://cavamikrohorio.com/wp-content/uploads/2021/10/babatzim-tsipouro-xg-200ml-1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5903,7 +5903,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.27</Price>
+		<Price>19.26815478</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Johnnie Walker</Manufacturer>
@@ -5920,7 +5920,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.24</Price>
+		<Price>18.24070752</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Cutty Sark</Manufacturer>
@@ -5937,7 +5937,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.65</Price>
+		<Price>18.6488715</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
@@ -5954,7 +5954,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.27</Price>
+		<Price>17.26955874</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Grant's</Manufacturer>
@@ -5971,7 +5971,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.52</Price>
+		<Price>17.5229019</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ballantine's</Manufacturer>
@@ -5988,7 +5988,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.34</Price>
+		<Price>19.33852788</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Dewar's</Manufacturer>
@@ -6005,7 +6005,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.32</Price>
+		<Price>19.32445326</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>HAIG</Manufacturer>
@@ -6022,7 +6022,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21</Price>
+		<Price>20.99933304</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>JAMESON</Manufacturer>
@@ -6039,7 +6039,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.11</Price>
+		<Price>18.11403594</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Teacher's</Manufacturer>
@@ -6056,7 +6056,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.42</Price>
+		<Price>20.42227362</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Bushmills</Manufacturer>
@@ -6073,7 +6073,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.31</Price>
+		<Price>21.30897468</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Tullamore</Manufacturer>
@@ -6124,7 +6124,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>25.22</Price>
+		<Price>24.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
@@ -6177,7 +6177,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.83</Price>
+		<Price>17.92</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Ποτά</Category_Path>
 		<Manufacturer>Stolichnaya</Manufacturer>
@@ -6283,7 +6283,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.14</Price>
+		<Price>17.55</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>GORDONS</Manufacturer>
@@ -6336,7 +6336,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>30.75</Price>
+		<Price>22.85</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>TANQUERAY</Manufacturer>
@@ -6388,7 +6388,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.78</Price>
+		<Price>25.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BOMBAY</Manufacturer>
@@ -6405,7 +6405,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>37.6</Price>
+		<Price>36.3</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BOMBAY</Manufacturer>
@@ -6423,7 +6423,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.07</Price>
+		<Price>19.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BROKERS</Manufacturer>
@@ -6441,7 +6441,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.4</Price>
+		<Price>21.6</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>THE BLUE BEETLE</Manufacturer>
@@ -6459,7 +6459,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.5</Price>
+		<Price>17.62</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BICKENS</Manufacturer>
@@ -6512,7 +6512,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.2</Price>
+		<Price>22</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>MOUNT GAY</Manufacturer>
@@ -6548,7 +6548,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.63</Price>
+		<Price>19.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>MATUSALEM</Manufacturer>
@@ -6584,7 +6584,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.76</Price>
+		<Price>21.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BRUGAL</Manufacturer>
@@ -6602,7 +6602,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>38.99</Price>
+		<Price>36.85</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>DIPLOMATICO</Manufacturer>
@@ -6613,6 +6613,60 @@
 		<Quantity>21</Quantity>
 	</product>
 	<product>
+		<ID>556015</ID>
+		<Name>Artspritz Απεριτίφ 700ml</Name>
+		<Product_Link>https://redemption.nzfarmsource.co.nz/product/artspritz-aperitivo-italiano-700ml/</Product_Link>
+		<Image_Link>https://redemption.nzfarmsource.co.nz/wp-content/uploads/on/94928-800x800.png</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>ARTSPITZ</Manufacturer>
+		<MPN>1207</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το ARTSPITZ 700ml είναι ένα aperitivo, ένα ημίγλυκο και ελαφρώς πικρό ποτό με νότες εσπεριδοειδών και αρωματικών βοτάνων. Ιδανικό για να το απολαύσετε πριν το γεύμα, είτε σκέτο με πάγο, είτε σε κλασικά κοκτέιλ όπως το Spritz, προσδίδοντας δροσιά και ένταση στη γεύση.</Description>
+		<Barcode>8003360880703</Barcode>
+		<Quantity>8</Quantity>
+	</product>
+	<product>
+		<ID>55605</ID>
+		<Name>Martini Βερμούτ Rosato 14.4% 1000ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/45381204/Martini-Vermout-Rosato-14-4-1000ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/045381/45381204/20230831152537_martini_vermout_rosato_14_4_1000ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>10.7</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>MARTINI</Manufacturer>
+		<MPN>1208</MPN>
+		<Weight>0.8 kg</Weight>
+		<Description>Το Martini &amp; Rossi έχει σημειώσει μεγάλη επιτυχία τόσο στην παραγωγή βερμούτ όσο και στην παραγωγή αφρωδών οίνων. Με δυνατό πιπεράτο άρωμα, λαμπερό ροζ χρώμα, και γεμάτο έντονες γεύσεις. Με άρωμα μοσχοκάρυδου, γαρύφαλου και κανέλας συντελούν σε ένα εξωτικό και μπαχαρένιο βερμούτ. Φτιάξτε ένα υπέροχο Martini Royal Rosato με αφρώδες κρασί.</Description>
+		<Barcode>5010677945004</Barcode>
+		<Quantity>8</Quantity>
+	</product>
+	<product>
+		<ID>55615</ID>
+		<Name>Underberg Digestive Λικέρ 20ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5269197/Underberg-Liker-20ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/005269/5269197/20200316164245_underberg_liker_20ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.22</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>UNDERBERG</Manufacturer>
+		<MPN>1363</MPN>
+		<Weight>0.05 kg</Weight>
+		<Description>To Underberg συνδυάζει, εδώ και παραπάνω από 150 χρόνια, αρωματικά βότανα από 43 διαφορετικές χώρες και εξάγεται σε 200 χώρες. Αναγνωρίζεται διεθνώς ως το πιο αποτελεσματικό χωνευτικό. Η ατομική του συσκευασία εξασφαλίζει τη φρεσκάδα του και την αποτελεσματικότητά του. Πικρό απόσταγμα που παρασκευάζεται με τη μυστική συνταγή της οικογένειας Underberg.</Description>
+		<Barcode>40341002</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>55503</ID>
 		<Name>TENTURA VANTANA ESPECIAL 500 ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5352075/Vantana-Distillery-Tentura-1950-Special-Liker-500ml.html</Product_Link>
@@ -6620,7 +6674,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.26</Price>
+		<Price>14.9</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>VANTANA</Manufacturer>
@@ -6709,7 +6763,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.46</Price>
+		<Price>25.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΠΟΛΥΚΑΛΑΣ</Manufacturer>
@@ -6727,7 +6781,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.76</Price>
+		<Price>13.24</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>LUCAS BOIS</Manufacturer>
@@ -6745,7 +6799,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.86</Price>
+		<Price>10.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>DUBONNET</Manufacturer>
@@ -6757,13 +6811,13 @@
 	</product>
 	<product>
 		<ID>55532</ID>
-		<Name>GREEN FAIRY ABSINTH 500ml</Name>
+		<Name>Green Fairy Αψέντι Absinth 70% 500ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/7439944/Green-Fairy-Absinth-500ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/007439/7439944/20150914134617_green_fairy_absinth_500ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.39</Price>
+		<Price>20.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>GREEN FAIRY</Manufacturer>
@@ -6775,7 +6829,7 @@
 	</product>
 	<product>
 		<ID>55533</ID>
-		<Name>FRANGELICO ΛΙΚΕΡ 700ml</Name>
+		<Name>C&amp;C International Λικέρ Frangelico 20% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5438907/C-C-International-Frangelico-Liker-700ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/005438/5438907/20200316163544_c_c_international_frangelico_liker_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -6790,6 +6844,22 @@
 		<Description>Το Frangelico είναι ένα ισορροπημένο λικέρ, με γεύσεις ψημένων φουντουκιών, σοκολάτας και βανίλιας. Προέρχεται απο την απόσταξη μείγματος αλκοόλης και νερού όπου έχουν εκχυλιστεί καβουρδισμένα φουντούκια. Κατόπιν αρωματίζεται με καβουρδισμένο καφέ, κακάο, βανίλια και ρίζα ραβεντιού.</Description>
 		<Barcode>8004160660304</Barcode>
 		<Quantity>68</Quantity>
+	</product>
+	<product>
+		<ID>55534</ID>
+		<Name>Mavi Λικέρ Limoncello di Procida 30% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/21302811/Mavi-Liker-Limoncello-di-Procida-30-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/021302/21302811/xlarge_20191210095934_mavi_limoncello_di_procida_liker_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Mavi</Manufacturer>
+		<MPN>118901</MPN>
+		<Description>Ανακαλύψτε το λικέρ Mavi Limoncello di Procida, ένα αυθεντικό προϊόν από την Ιταλία. Η γεύση του είναι έντονα φρουτώδης και γεμάτη αρώματα λεμονιού, ιδανική για τον εμπλουτισμό των στιγμών σας.  Ο τύπος του είναι Λικέρ, προσφέροντας μια μοναδική και γλυκιά εμπειρία. Η χώρα προέλευσης του είναι η Ιταλία, γνωστή για την παραγωγή εξαιρετικών αλκοολούχων ποτών. Διατίθεται σε ποσότητα 700 ml, αρκετή για να απολαύσετε πολλές όμορφες στιγμές. Το αλκοόλ του ανέρχεται σε 30%, προσφέροντας μια ισχυρή γεύση χωρίς να είναι υπερβολικά βαρύ.</Description>
+		<Barcode>8021175000727</Barcode>
 	</product>
 	<product>
 		<ID>55537</ID>
@@ -6825,24 +6895,6 @@
 		<Description>Το Eoliki Menta Πράσινη 25% Vol 700ml είναι ένα λικέρ με έντονη γεύση δροσερής μέντας και ζωηρό πράσινο χρώμα. Ιδανικό για να απολαύσετε σκέτο με πάγο, ως συστατικό σε κοκτέιλ, ή ως γαρνιτούρα σε γλυκά και επιδόρπια, προσφέρει μια αναζωογονητική και αρωματική εμπειρία.</Description>
 		<Barcode>5201304300338</Barcode>
 		<Quantity>3</Quantity>
-	</product>
-	<product>
-		<ID>555518</ID>
-		<Name>EOLIKI Fine Banana 25%Vol 700ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/5390205/Eoliki-Banana-Liker-700ml.html</Product_Link>
-		<Image_Link>https://i.imgur.com/ZQ4C209.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>8</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>EOLIKI</Manufacturer>
-		<MPN>1226</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Eoliki Fine Banana 25% Vol 700ml είναι ένα λικέρ με πλούσια, γλυκιά γεύση ώριμης μπανάνας. Ιδανικό για χρήση σε κοκτέιλ, γλυκά, ή για απόλαυση σκέτο με πάγο, προσθέτει μια εξωτική και κρεμώδη νότα σε κάθε ποτό ή επιδόρπιο. Με την ισορροπημένη γεύση του, αποτελεί εξαιρετική επιλογή για όσους αγαπούν τα φρουτώδη λικέρ.</Description>
-		<Barcode>5201304300345</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>55561</ID>
@@ -6899,68 +6951,14 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>556015</ID>
-		<Name>ARTSPITZ 700ml</Name>
-		<Product_Link>https://redemption.nzfarmsource.co.nz/product/artspritz-aperitivo-italiano-700ml/</Product_Link>
-		<Image_Link>https://redemption.nzfarmsource.co.nz/wp-content/uploads/on/94928-800x800.png</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>ARTSPITZ</Manufacturer>
-		<MPN>1207</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το ARTSPITZ 700ml είναι ένα aperitivo, ένα ημίγλυκο και ελαφρώς πικρό ποτό με νότες εσπεριδοειδών και αρωματικών βοτάνων. Ιδανικό για να το απολαύσετε πριν το γεύμα, είτε σκέτο με πάγο, είτε σε κλασικά κοκτέιλ όπως το Spritz, προσδίδοντας δροσιά και ένταση στη γεύση.</Description>
-		<Barcode>8003360880703</Barcode>
-		<Quantity>8</Quantity>
-	</product>
-	<product>
-		<ID>55605</ID>
-		<Name>MARTINI ROSATO 1 ΛΙΤ</Name>
-		<Product_Link>https://www.skroutz.gr/s/45381204/Martini-Vermout-Rosato-14-4-1000ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/045381/45381204/20230831152537_martini_vermout_rosato_14_4_1000ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>10.7</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>MARTINI</Manufacturer>
-		<MPN>1208</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Martini &amp; Rossi έχει σημειώσει μεγάλη επιτυχία τόσο στην παραγωγή βερμούτ όσο και στην παραγωγή αφρωδών οίνων. Με δυνατό πιπεράτο άρωμα, λαμπερό ροζ χρώμα, και γεμάτο έντονες γεύσεις. Με άρωμα μοσχοκάρυδου, γαρύφαλου και κανέλας συντελούν σε ένα εξωτικό και μπαχαρένιο βερμούτ. Φτιάξτε ένα υπέροχο Martini Royal Rosato με αφρώδες κρασί.</Description>
-		<Barcode>5010677945004</Barcode>
-		<Quantity>8</Quantity>
-	</product>
-	<product>
-		<ID>55615</ID>
-		<Name>Underberg Digestive Λικέρ 20ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/5269197/Underberg-Liker-20ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/005269/5269197/20200316164245_underberg_liker_20ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.17</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>UNDERBERG</Manufacturer>
-		<MPN>1363</MPN>
-		<Weight>0.05 kg</Weight>
-		<Description>To Underberg συνδυάζει, εδώ και παραπάνω από 150 χρόνια, αρωματικά βότανα από 43 διαφορετικές χώρες και εξάγεται σε 200 χώρες. Αναγνωρίζεται διεθνώς ως το πιο αποτελεσματικό χωνευτικό. Η ατομική του συσκευασία εξασφαλίζει τη φρεσκάδα του και την αποτελεσματικότητά του. Πικρό απόσταγμα που παρασκευάζεται με τη μυστική συνταγή της οικογένειας Underberg.</Description>
-		<Barcode>40341002</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>55805</ID>
-		<Name>ΜΟΝΙΝ ΣΙΡΟΠΙ GINGERBREAD 700ml</Name>
+		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Gingerbread 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22739417/Monin-Siropi-gia-Kokteil-me-Geysi-Gingerbread-700ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/022739/22739417/20210304165440_monin_siropi_gingerbread_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>10.92</Price>
+		<Price>11.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -6972,13 +6970,13 @@
 	</product>
 	<product>
 		<ID>55807</ID>
-		<Name>ΜΟΝΙΝ ΣΙΡΟΠΙ BLOOD ORANGE 700ml</Name>
+		<Name>Monin Σιρόπι Blood Orange 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22756872/Monin-Siropi-Blood-Orange-700ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/022756/22756872/20200410180830_monin_siropi_blood_orange_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>10.92</Price>
+		<Price>11.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -6990,13 +6988,13 @@
 	</product>
 	<product>
 		<ID>55808</ID>
-		<Name>ΜΟΝΙΝ ΣΙΡΟΠΙ VIOLET 700ml</Name>
+		<Name>Monin Σιρόπι για Κοκτέιλ με Γεύση Βιολέτα 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22742236/Monin-Siropi-gia-Kokteil-me-Geysi-Violeta-700ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/022742/22742236/20210304165830_monin_siropi_violet_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>10.92</Price>
+		<Price>11.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -7004,7 +7002,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το σιρόπι της εταιρείας Monin, είναι ένα μείγμα ζάχαρης, νερού και συμπυκνωμένου χυμού με γεύση βιολέτα που χρησιμοποιείται ως γλυκαντικό, αλλά και για να ενισχύσει τη γεύση στα κοκτέιλ. Πρόκειται για ένα παχύρρευστο υγρό, που δίνει μια σχετικά αραιή σύσταση στο κοκτέιλ. Τα σιρόπια είναι ιδανικά για χρήση, σε κρύα και ζεστά ροφήματα, σε κοκτέιλ, αλλά ακόμα και σε καφέ, καθώς και σε οτιδήποτε έχει να κάνει με τη ζαχαροπλαστική.Δεν απαιτείται ψύξη. Φυλάσσεται σε θερμοκρασία δωματίου, μακριά από θερμότητα και άμεσο ηλιακό φως.</Description>
 		<Barcode>3052910010232</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>55815</ID>
@@ -7026,13 +7024,13 @@
 	</product>
 	<product>
 		<ID>558192</ID>
-		<Name>ODK ΣΙΡΟΠΙ ELDERFLOWER 750ml</Name>
+		<Name>Odk Σιρόπι για Κοκτέιλ με Γεύση Elderflower 750ml</Name>
 		<Product_Link>https://cavagreco.gr/ODK-Syrup-Elderflower-750ml-gr</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-odk-elderflower-syrup.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>10.51</Price>
+		<Price>11.51</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>ORSADRINKS</Manufacturer>
@@ -7040,7 +7038,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Η εταιρεία ODK - ORSA Drinks παράγει πρωτότυπα σιρόπια για cocktails και άλλες δημιουργίες, σε ξεχωριστές γεύσεις. Ευέλικτη και εργονομική συσκευασία. Ισορροπημένη γεύση και μεγάλη περιεκτικότητα σε φρούτα. Αποτελεσματικοί, τόσο στο shaker, όσο και στο blender.</Description>
 		<Barcode>8057829312144</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>559023</ID>
@@ -8167,7 +8165,7 @@
 		<MPN>1247</MPN>
 		<Description>Ανατολιτικο γυναικείο άρωμα.•Νότες κορυφής: Πορτοκάλι, περγαμόντο και παιώνια. •Μεσαίες νότες: Μύρο, κεχριμπάρι, βενζόη και οποπόναξ.•Νότες βάσης: Βανίλια, σανδαλόξυλο, μόσχος και κέδρος.</Description>
 		<Barcode>8008970000220</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>64001</ID>
@@ -12445,7 +12443,7 @@
 		<MPN>00100306</MPN>
 		<Description>Σκούπα καθαρισμού της εταιρείας Cyclops, η οποία είναι ένα πολύ χρήσιμο είδος για τον καθαρισμό του χώρου, αφού η χρήση ηλεκτρικής σκούπας δεν είναι πάντα πρακτική ή εφικτή. Πολλές ηλεκτρικές σκούπες δεν μπορούν να απορροφήσουν γυαλιά κάτι που με την συμβατική σκούπα μπορεί να επιτευχθεί. Επίσης, η σκούπα είναι πολύ χρήσιμη για να πλύνετε το μπαλκόνι και να απομακρύνετε τα νερά. Καλό είναι ανά τακτά χρονικά διαστήματα πλένετε τη σκούπα ώστε να επιτυγχάνεται η μέγιστη υγιεινή στον επόμενο καθαρισμό.</Description>
 		<Barcode>5202707000955</Barcode>
-		<Quantity>8</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>74005</ID>
@@ -17013,7 +17011,7 @@
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>3800206611195</Barcode>
-		<Quantity>677</Quantity>
+		<Quantity>679</Quantity>
 	</product>
 	<product>
 		<ID>78119</ID>
@@ -18537,6 +18535,22 @@
 		<Description>Έχει μήκος 10m και πάχος 5mm για διόρθωση μίας μονής γραμμής τυπωμένου κειμένου. Δεν αφήνει ίχνη ή σκιάσεις στις φωτοτυπίες, είναι κατάλληλο για τους περισσότερους τύπους χαρτιού. Πραγματοποιεί στεγνή διόρθωση δινοντάς σας τη δυνατότητα άμεσου γραψίματος ή δακτυλογράφησης επάνω στο έγγραφο που διορθώσατε.</Description>
 		<Barcode>4716493650016</Barcode>
 		<Quantity>154</Quantity>
+	</product>
+	<product>
+		<ID>793100101</ID>
+		<Name>Inacopia Office Χαρτί Εκτύπωσης A4 80gr/m² 500 φύλλα</Name>
+		<Product_Link>https://www.skroutz.gr/s/22502264/Inacopia-Office-CHarti-Ektyposis-A4-80gr-m2-500-fylla-IN480-00.html?product_id=248629255&amp;sponsored=listing</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/038816/38816783/xlarge_20210208171732_de20918d.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.18</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt; Εκτυπωτές &amp; Αξεσουάρ&gt;Χαρτιά Εκτύπωσης</Category_Path>
+		<Manufacturer>Inacopia</Manufacturer>
+		<MPN>INA8002111</MPN>
+		<Description>Είναι σχεδιασμένο ώστε να προσφέρει εξαιρετικά αποτελέσματα σε όλα τα είδη εγγράφων, με υψηλά επίπεδα λευκού, για μέγιστη ποιότητα αναπαραγωγής κειμένου.</Description>
+		<Barcode>5602007974411</Barcode>
 	</product>
 	<product>
 		<ID>79320101</ID>
@@ -20599,6 +20613,17 @@
 		<Quantity>25</Quantity>
 	</product>
 	<product>
+		<ID>797505111</ID>
+		<Name>Energizer Αλκαλικές Μπαταρίες A27 12V 2τμχ</Name>
+		<Product_Link>https://www.skroutz.gr/s/9036994/Energizer-Alkalikes-Mpataries-A27-12V-2tmch-639333.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/009036/9036994/xlarge_20211122135613_energizer_alkalikes_mpataries_a27_12v_2tmch.jpeg</Image_Link>
+		<Manufacturer>Energizer</Manufacturer>
+		<MPN>ENE9036994</MPN>
+		<Description>Αλκαλικές μπαταρίες A27 της Energizer, κατάλληλες για χρήση σε φωτογραφικές μηχανές, τηλεχειριστήρια, αριθμομηχανές κι άλλες οικιακές συσκευές.</Description>
+		<Barcode>7638900393330</Barcode>
+		<Quantity>100</Quantity>
+	</product>
+	<product>
 		<ID>797510101</ID>
 		<Name>Esperanza Φακός LED Αλουμινίου Αδιάβροχος με Μέγιστη Φωτεινότητα 46lm Μαύρο EOT004M</Name>
 		<Product_Link>https://www.skroutz.gr/s/22606995/Esperanza-Fakos-LED-Adiavrochos-me-Megisti-Foteinotita-46lm-Altair-EOT004M-Mayro-EOT004M.html</Product_Link>
@@ -21243,7 +21268,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.7 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<Barcode>5901299949849</Barcode>
-		<Quantity>63</Quantity>
+		<Quantity>62</Quantity>
 	</product>
 	<product>
 		<ID>799171102</ID>
@@ -22274,7 +22299,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.53</Price>
+		<Price>5.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Multi Port</Category_Path>
 		<Manufacturer>Baseus</Manufacturer>
@@ -22291,7 +22316,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.12</Price>
+		<Price>6.4</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Multi Port</Category_Path>
 		<Manufacturer>Baseus</Manufacturer>
@@ -22615,13 +22640,30 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.29</Price>
+		<Price>8.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Car Audio &gt; Bluetooth Car Kit</Category_Path>
 		<Manufacturer>UGREEN</Manufacturer>
 		<MPN>1762</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Αντάπτορας Bluetooth από AUX σε USB     Σύνδεση έως 2 συσκευών ταυτόχρονα     Εμβέλεια Bluetooth έως 10 μέτρα     Λυχνία LED ένδειξης λειτουργίας</Description>
 		<Barcode>6957303876013</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799515104</ID>
+		<Name>Baseus Car Audio Receiver Bluetooth MIC/AUX/USB-A CABA01-01</Name>
+		<Product_Link>https://www.skroutz.gr/s/20125385/Baseus-Bluetooth-Aytokinitou-CABA01-01-Audio-Receiver-AUX-CABA01-01.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/020125/20125385/xlarge_20200228165848_baseus_caba01_01.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Auto - Moto &gt; Car Audio &gt; Bluetooth Car Kit</Category_Path>
+		<Manufacturer>Baseus</Manufacturer>
+		<MPN>CABA01-01</MPN>
+		<Description>Μετάδοση υψηλής πιστότητας ήχου. Σχεδιασμός χαμηλού προφίλ που δεν πιάνει πολύ χώρο. Με ενσωματωμένο μικρόφωνο για να συνομιλείτε ενώ οδηγείτε. Συμβατό με πολλές συσκευές όπως κινητά ή ενσύρματα ηχεία. Εύκολο στη χρήση. Δεν απαιτείται λογισμικό.</Description>
+		<Barcode>6953156290488</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -23826,20 +23868,20 @@
 		<Quantity>20</Quantity>
 	</product>
 	<product>
-		<ID>7996511</ID>
-		<Name>Akai Ηχείο Bluetooth 8W με Ραδιόφωνο και Διάρκεια Μπαταρίας έως 7 ώρες Πολύχρωμο</Name>
-		<Product_Link>https://www.skroutz.gr/s/45001644/Akai-ABTS-08-Icheio-Bluetooth-8W-me-Radiofono-kai-Diarkeia-Mpatarias-eos-7-ores-Polychromo.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/045001/45001644/20230803125004_akai_abts_08_icheio_bluetooth_8w_me_radiofono_kai_diarkeia_mpatarias_eos_7_ores_polychromo.jpeg</Image_Link>
+		<ID>799650521</ID>
+		<Name>Google Nest Mini (2nd Gen) Smart Hub Wi-Fi / Bluetooth Συμβατό με Google Home GA00781-EU</Name>
+		<Product_Link>https://www.skroutz.gr/s/21013674/Google-Nest-Mini-2nd-Gen-Smart-Hub-Wi-Fi-Bluetooth-Symvato-me-Google-Home-GA00781-EU.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_images/030712/30712840/xlarge_20250221140915_a05188ce.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.26</Price>
+		<Price>42.43</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Ηχεία &gt; Φορητά Ηχεία Bluetooth</Category_Path>
-		<Manufacturer>AKAI</Manufacturer>
-		<MPN>1559</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Bluetooth 5.1    Ραδιόφωνο FM    3 λειτουργίες φωτισμού RGB    Ώρες Λειτουργίας (max) 7 ώρες    Διαστάσεις: 25.5 x 8.7 x 11 cm    Βάρος: 0.825kg</Description>
-		<Barcode>4905192533885</Barcode>
+		<Category_Path>Σπίτι - Κήπος Ηλεκτρολογικά &amp; Αυτοματισμοί&gt; Smart Hubs</Category_Path>
+		<Manufacturer>Google</Manufacturer>
+		<MPN>GA00781-EU</MPN>
+		<Description>Smart speaker, ικανό να χειρίζεται συσκευές στο ίδιο δίκτυο μέσω WiFi και Bluetooth, με ενσωματωμένη την ψηφιακή βοηθό Google Assistant. Το κύριο χαρακτηριστικό του Google Nest Mini 2nd Gen, είναι η ενσωμάτωση της έξυπνης ψηφιακής βοηθού, Google Assistant. Χρησιμοποιώντας τη φωνή σας, μπορείτε να μιλήσετε στην Google Assistant και να λάβετε πληροφορίες, να οργανώσετε την καθημερινότητά σας, και να αυτοματοποιήσετε τη λειτουργία έξυπνων συσκευών στο χώρο σας, μέσω της εφαρμογής Google Home.</Description>
+		<Barcode>0193575000893</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
