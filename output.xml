@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-21 16:05</created_at>
+	<created_at>2025-06-21 16:53</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -1704,7 +1704,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>2831</Quantity>
+		<Quantity>2830</Quantity>
 	</product>
 	<product>
 		<ID>17060</ID>
@@ -3418,7 +3418,7 @@
 		<MPN>1316</MPN>
 		<Description>To λευκό του Κτήματος Βιβλία Χώρα αποτελεί ένα αρωματικό και φρέσκο κρασί, φτιαγμένο για όλες τις στιγμές. Παράγεται από το πάντρεµα της αρωματικής ποικιλίας Sauvignon Blanc και του πληθωρικού Ασύρτικου. Το χρώμα του, είναι απαλό πρασινοκίτρινο, µε έντονη διαύγεια. Έντονα αρώματα τροπικών φρούτων, γκρέιπφρουτ, εναλλάσσονται µε νότες εσπεριδοειδών &amp;  λεμονιού. Σερβίρεται στους 10οC και προτείνεται να καταναλωθεί σε 2 χρόνια. Πίνεται σκέτο ως απεριτίφ, ενώ μπορεί να συνοδεύσει εξαιρετικά πλατό τυριών, ριζοτο και θαλασσινά,.</Description>
 		<Barcode>5200101710012</Barcode>
-		<Quantity>140</Quantity>
+		<Quantity>128</Quantity>
 	</product>
 	<product>
 		<ID>46272</ID>
@@ -7857,7 +7857,7 @@
 		<MPN>0575</MPN>
 		<Description>Ξυραφάκια υψηλής ποιότητας από ανοξείδωτο ατσάλι μονής λεπίδας με επικάλυψη πολυμερούς και χρωμίου. Στενή και σταθερή κεφαλή που φτάνει με ακρίβεια στις ευαίσθητες περιοχές τις επιδερμίδας. Περιέχει προστατευτική μπάρα από ανοξείδωτο ατσάλι και μαύρη πολυεστερική λαβή, μεγαλύτερη για καλύτερο έλεγχο στο ξύρισμα.</Description>
 		<Barcode>3086125705416</Barcode>
-		<Quantity>296</Quantity>
+		<Quantity>295</Quantity>
 	</product>
 	<product>
 		<ID>62061</ID>
@@ -9193,7 +9193,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.75196743884058</Price>
+		<Price>2.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>ULTREX</Manufacturer>
@@ -9210,7 +9210,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.75196743884058</Price>
+		<Price>2.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>ULTREX</Manufacturer>
@@ -9227,7 +9227,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.75196743884058</Price>
+		<Price>2.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>ULTREX</Manufacturer>
@@ -9244,7 +9244,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.75196743884058</Price>
+		<Price>2.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>ULTREX</Manufacturer>
@@ -9261,7 +9261,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9278,7 +9278,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9295,7 +9295,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9312,7 +9312,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9329,7 +9329,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9346,7 +9346,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9363,7 +9363,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9380,7 +9380,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9397,7 +9397,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9414,7 +9414,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9431,7 +9431,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9448,7 +9448,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9465,7 +9465,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9482,7 +9482,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9499,7 +9499,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9516,7 +9516,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9533,7 +9533,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9550,7 +9550,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9567,7 +9567,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9584,7 +9584,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9601,7 +9601,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9618,7 +9618,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9635,7 +9635,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9652,7 +9652,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9675572864</Price>
+		<Price>2.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
 		<Manufacturer>Schwarzkopf</Manufacturer>
@@ -9660,23 +9660,6 @@
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201143749909</Barcode>
 		<Quantity>40</Quantity>
-	</product>
-	<product>
-		<ID>665240</ID>
-		<Name>Wella Koleston Kit 4/0 Καστανό Μεσαίο 50ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/7426757/Wella-Koleston-Kit-4-0-Kastano-Mesaio-50ml.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/007426/7426757/20230103115310_wella_koleston_kit_4_0_kastano_mesaio_50ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>5.472487212681481</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Βάψιμο Μαλλιών &gt; Βαφές Μαλλιών</Category_Path>
-		<Manufacturer>Wella</Manufacturer>
-		<MPN>1489</MPN>
-		<Description>Σετ μόνιμης βαφής μαλλιών Koleston Kit της Wella σε καστανή απόχρωση, που επιτρέπει σε σημαντικό βαθμό την αλλαγή χρώματος στα μαλλιά, καλύπτοντας τις λευκές τρίχες και χαρίζοντας διάρκεια.Extra tips για την εφαρμογή της βαφής:Tip 1: Εφάρμοσε τη βαφή σε μαλλιά άλουστα για τουλάχιστον 2 μέρες ώστε να αποφύγεις τυχόν κοκκινίλες και ευαισθησίες, καθώς τα έλαια του τριχωτού λειτουργούν προστατευτικά.Tip 2: Ξεκίνα να βάψεις μια τούφα στο εσωτερικό και κάτω μέρος του κεφαλιού για να ελέγξεις αν υπάρχει κάποια τυχόν αλλεργική αντίδραση πριν από την εφαρμογή του προϊόντος.    Είδος: Μόνιμη Βαφή    Απόχρωση: ΚαστανόΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί προσφέρει ικανοποιητική κάλυψη και έχει διάρκεια το αποτέλεσμα.</Description>
-		<Barcode>4056800777853</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>665260</ID>
@@ -9720,7 +9703,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.02</Price>
+		<Price>0.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -9737,7 +9720,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.02</Price>
+		<Price>0.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -9754,7 +9737,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.02</Price>
+		<Price>0.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>TEO</Manufacturer>
@@ -9771,7 +9754,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.046619132148148</Price>
+		<Price>3.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>NIVEA</Manufacturer>
@@ -9788,7 +9771,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.749550638074074</Price>
+		<Price>2.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>DOVE</Manufacturer>
@@ -9856,7 +9839,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.9985505</Price>
+		<Price>2.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9873,7 +9856,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.9985505</Price>
+		<Price>2.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9890,7 +9873,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.370012</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9907,7 +9890,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.370012</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9924,7 +9907,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.370012</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9941,7 +9924,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.370012</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9958,7 +9941,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.370012</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9975,7 +9958,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.370012</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Σώματος</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -9992,7 +9975,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.95</Price>
+		<Price>4.24</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt;Αντηλιακή Προστασία &amp; Μαύρισμα&gt;After Sun</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10009,7 +9992,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.370012</Price>
+		<Price>2.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Peeling &amp; Scrub Σώματος</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10026,7 +10009,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.2120112</Price>
+		<Price>2.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Χεριών</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10043,7 +10026,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.2120112</Price>
+		<Price>2.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Χεριών</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10060,7 +10043,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.7380088</Price>
+		<Price>1.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Χεριών</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10077,7 +10060,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.7380088</Price>
+		<Price>1.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Χεριών</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10094,7 +10077,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.7380088</Price>
+		<Price>1.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Χεριών</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10111,7 +10094,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.74</Price>
+		<Price>1.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Κρέμες Χεριών</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10128,7 +10111,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.95002</Price>
+		<Price>4.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα για Αδυνάτισμα και Κυτταρίτιδα</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10145,7 +10128,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.95002</Price>
+		<Price>4.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα για Αδυνάτισμα και Κυτταρίτιδα</Category_Path>
 		<Manufacturer>AROMA</Manufacturer>
@@ -10156,13 +10139,13 @@
 	</product>
 	<product>
 		<ID>68001</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ EXTRA LARGE 100 ΤΕΜ</Name>
+		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Extra Large</Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
 		<Image_Link>https://brolias.com/wp-content/uploads/2023/04/768b7044ec2818823b769234cd869d6b-PhotoRoom.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.901797289144</Price>
+		<Price>2.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10174,13 +10157,13 @@
 	</product>
 	<product>
 		<ID>68002</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ LARGE 100 ΤΕΜ</Name>
+		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Large</Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
 		<Image_Link>https://www.geapharmacy.gr/mediastream/w800/files/products/5e26a5d46ba5cb629729114dabbcf8cd.jpg.webp</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.901797289144</Price>
+		<Price>2.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10192,13 +10175,13 @@
 	</product>
 	<product>
 		<ID>68003</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ MEDIUM 100 ΤΕΜ</Name>
+		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Medium</Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
 		<Image_Link>https://www.geapharmacy.gr/mediastream/w800/files/products/945ceb16e82d6da30ddaf8650d3c4ab0.jpg.webp</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.901797289144</Price>
+		<Price>2.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10210,13 +10193,13 @@
 	</product>
 	<product>
 		<ID>68004</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ LATEX ΜΕ ΠΟΥΔΡΑ SMALL 100 ΤΕΜ</Name>
+		<Name>Θαλασσινός Γάντια Λάτεξ Με Πούδρα σε Λευκό Χρώμα 100τμχ Small</Name>
 		<Product_Link>https://www.skroutz.gr/s/23654605/THalassinos-Gantia-Latex-Me-Poudra-se-Leyko-CHroma-100tmch.html</Product_Link>
 		<Image_Link>https://s1.sklavenitis.gr/images/1600x1600/40/files/ProductMedia/Products/6483473/1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.901797289144</Price>
+		<Price>2.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10228,13 +10211,13 @@
 	</product>
 	<product>
 		<ID>68041</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ EXTRA LARGE 100 ΤΕΜ</Name>
+		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Extra Large</Name>
 		<Product_Link>https://www.themart.gr/katharistika-chartika/axesouar-katharismou/sfouggaria-spoggopetsetes-gantia/gantia-thalassinos-nitriliou-mayra-xlarge-100tem-2118422200019-184222.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/8/184222_1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.637913362084</Price>
+		<Price>2.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10246,13 +10229,13 @@
 	</product>
 	<product>
 		<ID>68042</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ LARGE 100 ΤΕΜ</Name>
+		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Large</Name>
 		<Product_Link>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</Product_Link>
 		<Image_Link>https://brolias.com/wp-content/uploads/2023/04/PhotoRoom-20240115_141545.png</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.637913362084</Price>
+		<Price>2.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10264,13 +10247,13 @@
 	</product>
 	<product>
 		<ID>68043</ID>
-		<Name>ΘΑΛΑΣΣΙΝΟΣ ΓΑΝΤΙΑ ΝΙΤΡΙΛΙΟΥ ΜΑΥΡΑ MEDIUM 100 ΤΕΜ</Name>
+		<Name>Θαλασσινός Γάντια Νιτριλίου Χωρίς Πούδρα σε Μαύρο Χρώμα 100τμχ Medium</Name>
 		<Product_Link>https://www.skroutz.gr/s/23654631/THalassinos-Gantia-Nitriliou-CHoris-Poudra-se-Mayro-CHroma-100tmch.html</Product_Link>
 		<Image_Link>https://xalkiadakis.gr/products/172914.jpg?v=1675435054</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.637913362084</Price>
+		<Price>2.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10288,7 +10271,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.637913362084</Price>
+		<Price>2.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10300,13 +10283,13 @@
 	</product>
 	<product>
 		<ID>68051</ID>
-		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Extra Large Μαύρο 100τμχ</Name>
+		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Extra Large</Name>
 		<Product_Link>https://www.thanopoulos.gr/el/mias-xrisis/34358-thalassinos-gantia-nitriliou-extra-strong-maura-extra-large-100tem-5202054468897.html</Product_Link>
 		<Image_Link>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468897_1_1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>4.218027684</Price>
+		<Price>3.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10318,13 +10301,13 @@
 	</product>
 	<product>
 		<ID>68052</ID>
-		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Large Μαύρο 100τμχ</Name>
+		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Large</Name>
 		<Product_Link>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html</Product_Link>
 		<Image_Link>https://wave-grocery.s3.eu-central-1.amazonaws.com/thanopoulos/products/5202054468880_1_1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>4.218027684</Price>
+		<Price>3.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10336,13 +10319,13 @@
 	</product>
 	<product>
 		<ID>68053</ID>
-		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Μιας Χρήσης Χωρίς Πούδρα Medium Μαύρο 100τμχ</Name>
+		<Name>Θαλασσινός Extra Strong Γάντια Νιτριλίου Χωρίς Πούδρα Μαύρο 100τμχ Small</Name>
 		<Product_Link>https://www.skroutz.gr/s/24164518/THalassinos-Extra-Strong-Gantia-Nitriliou-Mias-CHrisis-CHoris-Poudra-Mayro-100tmch.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024164/24164518/20200727130155_thalassinos_nitriliou_disposable_nitrile_gloves_extra_strong_mayro_100tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>4.218027684</Price>
+		<Price>3.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10360,7 +10343,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.49667383584</Price>
+		<Price>0.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -10458,24 +10441,6 @@
 		<Size>L</Size>
 	</product>
 	<product>
-		<ID>68203</ID>
-		<Name>VIOSARP ΓΑΝΤΙΑ ΕΡΓΑΣΙΑΣ ΝΙΤΡΙΛΙΟΥ MEDIUM</Name>
-		<Product_Link>https://www.skroutz.gr/s/27459203/Viosarp-Gantia-Ergasias-Nitriliou-Gri-VC1179.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/027459/27459203/20220804122636_viosarp_gantia_ergasias_vc1179_gri.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.64</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
-		<Manufacturer>VIOSARP</Manufacturer>
-		<MPN>1090</MPN>
-		<Description>Γάντια εργασίας γενικής χρήσης για την προστασία και την ασφάλεια των χεριών σας, από την Viosarp. Είναι κατασκευασμένα από νιτρίλιο, ένα υλικό που προσφέρει στα γάντια αντοχή στην τριβή και τα κοψίματα.</Description>
-		<Barcode>5206753012191</Barcode>
-		<Quantity>0</Quantity>
-		<Size>M</Size>
-	</product>
-	<product>
 		<ID>68205101</ID>
 		<Name>Sidirela Max Γάντια Εργασίας Νιτριλίου Μπλε Extra Large E-3292</Name>
 		<Product_Link>https://www.skroutz.gr/s/29992122/Sidirela-Max-Gantia-Ergasias-Nitriliou-Mple.html</Product_Link>
@@ -10483,7 +10448,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.64</Price>
+		<Price>0.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -10501,7 +10466,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.64</Price>
+		<Price>0.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -10519,7 +10484,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.64</Price>
+		<Price>0.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -10537,7 +10502,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.64</Price>
+		<Price>0.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ρούχα Εργασίας &gt; Γάντια Εργασίας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -10549,14 +10514,14 @@
 	</product>
 	<product>
 		<ID>70003</ID>
-		<Name>PRO SOFT ΧΑΡΤΙ ΥΓΕΙΑΣ  3φυλλο 90gr 10τεμ απαλό</Name>
+		<Name>Pro Soft απαλό Χαρτί Υγείας 3φυλλο 10 Ρολά x 90gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/37023694/Bournas-Medicals-CHarti-Ygeias-Super-Soft-10-Rola-3-Fyllon-90gr.html</Product_Link>
 		<Image_Link>https://i.imgur.com/bJczC5M.png</Image_Link>
 		<Additional>https://i.imgur.com/QWy106x.png</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.56</Price>
+		<Price>2.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -10567,14 +10532,14 @@
 	</product>
 	<product>
 		<ID>70011</ID>
-		<Name>PRO SOFT ΧΑΡΤΙ ΥΓΕΙΑΣ  3φυλλο 90gr 10τεμ</Name>
+		<Name>Pro Soft Χαρτί Υγείας 3φυλλο 10 Ρολά x 90gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/42042270/OPEN-CARE-CHARTI-YGEIAS-DELUXE-3F-90gr-7x10tem.html</Product_Link>
 		<Image_Link>https://i.imgur.com/akyhg7L.jpeg</Image_Link>
 		<Additional>https://i.imgur.com/h6hF4Av.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.27</Price>
+		<Price>2.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -10585,14 +10550,14 @@
 	</product>
 	<product>
 		<ID>70012</ID>
-		<Name>PRO SOFT ΧΑΡΤΙ ΥΓΕΙΑΣ 4φυλλο 100 gr 10τεμ</Name>
+		<Name>Pro Soft Χαρτί Υγείας 4φυλλο 10 Ρολά x 100gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/22509097/CHarti-Ygeias-Regina-Lux-Extra-Soft-10-Rola-4-Fyllon-120gr-120gr.html</Product_Link>
 		<Image_Link>https://i.imgur.com/tq5RF6d.png</Image_Link>
 		<Additional>https://i.imgur.com/otyg6PK.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.51</Price>
+		<Price>2.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -10609,7 +10574,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.81</Price>
+		<Price>1.89</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -10626,14 +10591,14 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.73</Price>
+		<Price>1.71</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>3141</Quantity>
+		<Quantity>3140</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -10643,7 +10608,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.17</Price>
+		<Price>1.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -10660,7 +10625,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.91</Price>
+		<Price>2.04</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -10677,7 +10642,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.73</Price>
+		<Price>2.72</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>PROMITHEAS</Manufacturer>
@@ -10728,7 +10693,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.61</Price>
+		<Price>1.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>ENDLESS</Manufacturer>
@@ -10745,7 +10710,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.03</Price>
+		<Price>2.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Χαρτοπετσέτες &amp; Κουβέρ Εστίασης</Category_Path>
 		<Manufacturer>TOP FEEL</Manufacturer>
@@ -10762,7 +10727,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9</Price>
+		<Price>0.92</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματική Καθαριότητα &amp; Υγιεινή &gt; Χαρτικά (Χονδρική)</Category_Path>
 		<Manufacturer>ENDLESS</Manufacturer>
@@ -10779,7 +10744,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.33</Price>
+		<Price>1.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>ENDLESS</Manufacturer>
@@ -10889,7 +10854,7 @@
 		<MPN>1672</MPN>
 		<Description>Απαλά μωρομάντηλα με αλόη, ιδανικά για την καθημερινή περιποίηση της ευαίσθητης βρεφικής επιδερμίδας, από την 1η μέρα.Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί καθαρίζουν αποτελεσματικά και είναι απαλά.</Description>
 		<Barcode>5201410964127</Barcode>
-		<Quantity>589</Quantity>
+		<Quantity>588</Quantity>
 	</product>
 	<product>
 		<ID>7040100101</ID>
@@ -11149,7 +11114,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>550</Quantity>
+		<Quantity>549</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -11293,7 +11258,7 @@
 		<Weight>2.5 kg</Weight>
 		<Description>Απορρυπαντικό πλυντηρίου ρούχων Omo σε σκόνη, με άρωμα λεβάντας. Προσφέρει καθαριότητα σε κάθε πλύση εισχωρώντας σε βάθος στις ίνες των ρούχων. Τα εμπλουτισμένα με αιθέρια έλαια αρώματα που περιέχει έχουν επιλεχτεί ειδικά για φρεσκάδα που διαρκεί όλη μέρα.</Description>
 		<Barcode>8710847886874</Barcode>
-		<Quantity>218</Quantity>
+		<Quantity>217</Quantity>
 	</product>
 	<product>
 		<ID>71201</ID>
@@ -11399,7 +11364,7 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>880</Quantity>
+		<Quantity>879</Quantity>
 	</product>
 	<product>
 		<ID>712322</ID>
@@ -11416,7 +11381,7 @@
 		<MPN>9999</MPN>
 		<Description>Το υγρό απορρυπαντικό ρούχων Limpieza Profunda / Deep Clean της Skip μαλακώνει τις ίνες των ρούχων και δεν αφήνει υπολείμματα. Χρησιμοποιείται για λιπαρούς λεκέδες, όπως λάδι, τρόφιμα. Μπορεί να εφαρμοστεί τοπικά, απευθείας πάνω σε λεκέδες πριν από την πλύση. Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας. Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
 		<Barcode>8720181413285</Barcode>
-		<Quantity>880</Quantity>
+		<Quantity>879</Quantity>
 	</product>
 	<product>
 		<ID>71261</ID>
@@ -11591,7 +11556,7 @@
 		<MPN>E-2683</MPN>
 		<Description>Χρωμοπροστασία η οποία προσφέρει εξαιρετική βοήθεια σε κάθε σας πλύση. Το πακέτο περιέχει 12 φύλλα.</Description>
 		<Barcode>5203642126830</Barcode>
-		<Quantity>237</Quantity>
+		<Quantity>235</Quantity>
 	</product>
 	<product>
 		<ID>71321</ID>
@@ -13309,7 +13274,7 @@
 		<MPN>0446</MPN>
 		<Description>Υγρό εντομοαπωθητικό για ηλεκτρική συσκευήΔιώχνει σκνίπες και κουνούπιαΗ συσκευασία περιέχει 30mlΔιαρκεί 45 νύχτες</Description>
 		<Barcode>5201062008743</Barcode>
-		<Quantity>53</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>74931101</ID>
@@ -13719,7 +13684,7 @@
 		<MPN>Ε-1735</MPN>
 		<Description>Κερί μνήμης διάρκειας 6 ημερών σε κόκκινο χρώμα, για να μείνει η μνήμη των αγαπημένων σας πάντα ζωντανή.</Description>
 		<Barcode>5203642117357</Barcode>
-		<Quantity>142</Quantity>
+		<Quantity>138</Quantity>
 	</product>
 	<product>
 		<ID>75221</ID>
@@ -16720,7 +16685,7 @@
 		<MPN>1129</MPN>
 		<Description>Το τραπεζομάντηλο της εταιρείας Flamingo είναι ιδανικό για τη διακόσμηση μίας τραπεζαρίας ή ενός τραπεζιού κουζίνας. Είναι κατασκευασμένο από αλέκιαστο συνθετικό ύφασμα polyester, το οποίο είναι ανθεκτικό και δεν τσαλακώνεται εύκολα.Για καλύτερη φροντίδα, προτείνεται πλύση και σιδέρωμα σε χαμηλές θερμοκρασίες, χρήση στεγνωτηρίου σε μέτριες θερμοκρασίες και δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού. Επιτρέπεται το στεγνό καθάρισμα.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.• Σύνθεση: 100% ΠολυεστέραςΔιαστάσεις:Πλάτος: 150εκ.Μήκος: 180εκ.</Description>
 		<Barcode>5206952007783</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>2</Quantity>
 	</product>
 	<product>
 		<ID>77045</ID>
@@ -21335,7 +21300,7 @@
 		<MPN>E-2487</MPN>
 		<Description>Περιστρεφόμενη βάση καλωδίου 360º     Με φωτάκι ένδειξης θερμότητας.     Με σπειρωτό καλώδιο για εύκολη αποθήκευση.     Κανάτα από ανοξείδωτο ατσάλι με λαβή ανθεκτική στη θερμότητα.     Εσωτερική βάση θέρμανσης από ανοξείδωτο ατσάλι.     Με σύστημα προστασίας από την υπερθέρμανση.  Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί βράζει γρήγορα το νερό.</Description>
 		<Barcode>5203642124874</Barcode>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>7991811</ID>
@@ -21505,7 +21470,7 @@
 		<MPN>EHQ007</MPN>
 		<Description>Η λάμπα εντομοκτόνου Esperanza είναι πολύ αποτελεσματική στο να προσελκύει έντομα όπως μύγες, σκώρους, κουνούπια και άλλα ιπτάμενα έντομα και στη συνέχεια να τα σκοτώνει σιωπηλά.  Δεν χρησιμοποιεί χημικά, σπρέι και δεν εκπέμπει οσμές. Δεν είναι επιβλαβές για τον άνθρωπο ή τα κατοικίδια. Είναι ιδανικό για χρήση στο σπίτι, κήπους, εργοστάσια, χώρους επεξεργασίας τροφίμων, ψυκτικές αποθήκες και νοσοκομεία κ.λπ. Απολαύστε τη καλοκαιρινή σας νύχτα χωρίς ενόχληση από έντομα!      Ονομαστική τάση: 220V-240V~/50Hz-60HZ     Τύπος λαμπτήρα: Λάμπα UV-A BL T8 F15W x 2 τεμάχια     Ισχύς εξόδου: 30 W     Εσωτερική τάση δικτύου: 2500 V     Επιφάνεια εφαρμογής: 100 m²     Μήκος καλωδίου: 120 cm     Μέγεθος προϊόντος: 48,5 x 7,5 x 25,0 [cm]</Description>
 		<Barcode>5901299955529</Barcode>
-		<Quantity>33</Quantity>
+		<Quantity>32</Quantity>
 	</product>
 	<product>
 		<ID>799220101</ID>
@@ -25336,7 +25301,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>Ο τόνος al Naturale της Rio Mare είναι ελαφρύς και γευστικός, προέρχεται από τη θάλασσα και από την επιλογή κιτρινόπτερου τόνου.</Description>
 		<Barcode>8004030357532</Barcode>
-		<Quantity>161</Quantity>
+		<Quantity>151</Quantity>
 	</product>
 	<product>
 		<ID>85225</ID>
@@ -25498,7 +25463,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Κατασκευασμένο από υψηλής ποιότητας βοδινό κρέας που έχει υποστεί επεξεργασία για να δημιουργηθεί ένας νόστιμος και θρεπτικός μπαλωμένος κιμάς. Είναι ιδανικός για δημιουργία σάντουιτς, σαλάτες ή γεύματα που απαιτούν γρήγορη προετοιμασία. Με τη χαρακτηριστική γεύση του, μπορεί να χρησιμοποιηθεί και σε πολλές κουζίνες ως βασικό συστατικό για πιάτα που απαιτούν κρέας.</Description>
 		<Barcode>7790360000477</Barcode>
-		<Quantity>191</Quantity>
+		<Quantity>181</Quantity>
 	</product>
 	<product>
 		<ID>85241</ID>
@@ -25726,7 +25691,7 @@
 		<MPN>38547</MPN>
 		<Description>Αφράτη ζύμη βάφλας με πλούσια κρέμα κακάο και φουντουκιού! Το κάθε display περιέχει 12 τεμάχια.  Αυτή η γλυκιά και νόστιμη βάφλα είναι η ιδανική δόση ενέργειας πριν από τη δουλειά ή πριν από το γυμναστήριο!  Οι βάφλες περιέχουν φρέσκα ολόκληρα αυγά, χωρίς trans λιπαρά.  Ο συνδυασμός μαλακής βάφλας και oi κρεμώδεις και σοκολατένιες γεμίσεις ικανοποιεί ιδιαίτερα όλα τα γούστα και τις προτιμήσεις των καταναλωτών.  Οι βάφλες περιέχουν μη υδρογονωμένα λιπαρά &amp; δεν χρειάζονται προθέρμανση σε φούρνο μικροκυμάτων ή φούρνο.  Είναι κατάλληλες για κατανάλωση σε οποιοδήποτε μέρος και οποιαδήποτε ώρα της ημέρας.    Διατροφική Επισήμανση ανά 100g Ενέργεια 1711kj / 406kcal Λιπαρά 17,1g Εκ των οποίων κορεσμένα 8,5g Υδατάνθρακες 56,5g Εκ των οποίων σάκχαρα 39,2g Εδώδιμες ίνες 0,8g Πρωτεΐνες 5,6g Αλάτι 0,54g</Description>
 		<Barcode>5205422170163</Barcode>
-		<Quantity>1109</Quantity>
+		<Quantity>1108</Quantity>
 	</product>
 	<product>
 		<ID>88810102</ID>
