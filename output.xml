@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-23 16:05</created_at>
+	<created_at>2025-06-23 17:01</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -340,7 +340,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<Barcode>5201275610672</Barcode>
-		<Quantity>94</Quantity>
+		<Quantity>88</Quantity>
 	</product>
 	<product>
 		<ID>11035</ID>
@@ -2117,7 +2117,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>572</Quantity>
+		<Quantity>567</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2202,7 +2202,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<Barcode>5201005080024</Barcode>
-		<Quantity>12510</Quantity>
+		<Quantity>12490</Quantity>
 	</product>
 	<product>
 		<ID>20601</ID>
@@ -6273,7 +6273,7 @@
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
 		<Barcode>5000289925440</Barcode>
-		<Quantity>129</Quantity>
+		<Quantity>141</Quantity>
 	</product>
 	<product>
 		<ID>553012</ID>
@@ -10779,7 +10779,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.42</Price>
+		<Price>1.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>SELPAK</Manufacturer>
@@ -10796,7 +10796,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.48</Price>
+		<Price>1.55</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>SELPAK</Manufacturer>
@@ -10813,7 +10813,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.65</Price>
+		<Price>0.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>ENDLESS</Manufacturer>
@@ -10830,7 +10830,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.05</Price>
+		<Price>1.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού &gt; Χαρτικά</Category_Path>
 		<Manufacturer>ENDLESS</Manufacturer>
@@ -10847,7 +10847,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>2</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>1.91</Price>
+		<Price>1.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα &amp; Υγιεινή Μωρού &gt; Μωρομάντηλα</Category_Path>
 		<Manufacturer>SEPTONA</Manufacturer>
@@ -11042,7 +11042,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>2325</Quantity>
+		<Quantity>2324</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -11205,6 +11205,22 @@
 		<Description>Το απορρυπαντικό ρούχων σε σκόνη της Tide διαλύεται σε ζεστό νερό και χρησιμοποιείται για λεκέδες, όπως βρωμιά, λάσπη ή γρασίδι. Η εφαρμογή του απευθείας πάνω στους λεκέδες πριν από την πλύση δεν συνιστάται. Για πλύσιμο στο χέρι διαλύστε σε καθαρό νερό και στη συνέχεια προσθέστε τα ρούχα, διότι η σκόνη δεν διαλύεται επαρκώς σε θερμοκρασίες κάτω των 30°C.</Description>
 		<Barcode>5413149027107</Barcode>
 		<Quantity>324</Quantity>
+	</product>
+	<product>
+		<ID>71121</ID>
+		<Name>Ariel Aqua Poudre Απορρυπαντικό Ρούχων σε Σκόνη με Άρωμα Alpine 3.77kg (56 Μεζούρες)</Name>
+		<Product_Link>https://www.skroutz.gr/s/30254173/Ariel-Aqua-Poudre-Aporrypantiko-Rouchon-se-Skoni-me-Aroma-Alpine-3-77kg-56-Mezoures.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/030254/30254173/xlarge_20220210114542_ariel_aporrypantiko_rouchon_se_skoni_aqua_poudre_alpine_56_mezoures.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.79</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
+		<Manufacturer>Ariel</Manufacturer>
+		<MPN>109201</MPN>
+		<Description>Το απορρυπαντικό σε σκόνη Ariel Alpine με τεχνολογία AquaPoudre προσφέρει 100% καθαριότητα Ariel. Η πρωτοποριακή σύνθεση AquaPoudre διαλύεται ταχύτατα με την επαφή με το νερό, ενεργοποιείται στη στιγμή και εισχωρεί βαθιά στις ίνες, αφήνοντας τα ρούχα σας λαμπερά καθαρά. Αφαιρεί τους δύσκολους λεκέδες εμποδίζοντάς τους να ποτίσουν το ύφασμα. Αφαιρεί ακόμη και τους λεκέδες που προκαλούν δυσοσμία, όπως ο ιδρώτας και οι σωματικές οσμές, χαρίζοντας στα ρούχα σας όψη και άρωμα εξαιρετικής καθαριότητας. Διαθέτει μοναδική τεχνολογία χωρίς κατάλοιπα, που συμβάλει στην πρόληψη των καταλοίπων απορρυπαντικού. Το Ariel AquaPoudre δρα ακόμη και στους 30°C γι αυτό αν θέλετε να διατηρήσετε τη λευκότητα των ρούχων σας, χρησιμοποιήστε απορρυπαντικό ρούχων Ariel.  Προσοχή!  Προκαλεί σοβαρή οφθαλμική βλάβη. Μακριά από παιδιά. Να φοράτε μέσα ατομικής προστασίας για τα μάτια. ΣΕ ΠΕΡΙΠΤΩΣΗ ΕΠΑΦΗΣ ΜΕ ΤΑ ΜΑΤΙΑ: Ξεπλύνετε προσεκτικά με νερό για αρκετά λεπτά. Καλέστε αμέσως το ΚΕΝΤΡΟ ΔΗΛΗΤΗΡΙΑΣΕΩΝ/γιατρό. ΣΕ ΠΕΡΙΠΤΩΣΗ ΚΑΤΑΠΟΣΗΣ: καλέστε αμέσως το ΚΕΝΤΡΟ ΔΗΛΗΤΗΡΙΑΣΕΩΝ/γιατρό. Εάν ζητήσετε ιατρική συμβουλή, να έχετε μαζί σας τον περιέκτη του προϊόντος ή την ετικέτα. ΤΗΛ. ΚΕΝΤΡΟΥ ΔΗΛΗΤΗΡΙΑΣΕΩΝ: 210-77.93.777 Περιέχει Sodium C10-13 Alkyl Benzenesulfonate(Βενζολοσουλφονικού οξέος, C10-13-αλκυλο παραγώγων, άλατα με νάτριο), Sodium Silicate(Πυριτικό νάτριο), Sodium Carbonate Peroxide(Ένωση ανθρακικού νατρίου με υπεροξείδιο του υδρογόνου (2:3)), C12-14 Pareth-n(Αιθοξυλιωμένες αλκοόλες C12-14). Περιέχει Isoeugenol(2-μεθοξυ-4-(1-προπενυλο)-φαινόλη). Μπορεί να προκαλέσει αλλεργική αντίδραση.</Description>
+		<Barcode>8006540118078</Barcode>
 	</product>
 	<product>
 		<ID>71132</ID>
@@ -11420,6 +11436,24 @@
 		<Quantity>300</Quantity>
 	</product>
 	<product>
+		<ID>712800101</ID>
+		<Name>SKIP Professional Κάψουλες Πλυντηρίων Ρούχων 3 σε 1 New Pro Formula 46τεμ</Name>
+		<Product_Link>https://www.skroutz.gr/s/55392366/Ready-Epagelmatiko-Aporrypantiko-Rouchon-46-Kapsoules.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/055392/55392366/xlarge_20240809105804_ready_epagelmatiko_aporrypantiko_rouchon_46_mezoures.jpeg</Image_Link>
+		<Additional>https://www.voussert.fr/skip-professional-capsules-couleur-46-lavages-fp-274874.html</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>10.76</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
+		<Manufacturer>SKIP</Manufacturer>
+		<MPN>1097001</MPN>
+		<Description>Περιγραφή Οι κάψουλες Skip Professional είναι ειδικά σχεδιασμένες για επαγγελματίες που αναζητούν άψογα αποτελέσματα πλύσης . Εύκολες στη χρήση, προσφέρουν ενισχυμένη καθαριστική ισχύ αφήνοντας ένα φρέσκο ​​και ευχάριστο άρωμα . Αυτές οι κάψουλες προστατεύουν και αναζωογονούν τα χρώματα των υφασμάτων σας για μεγάλο χρονικό διάστημα. Πωλούνται σε συσκευασίες των 46 καψουλών.  Πλήρες κουτί = 6 συσκευασίες των 46 καψουλών ή 276 πλύσεις. Εφαρμογή Ιδανικές για ξενοδοχεία, εστιατόρια και κάθε επαγγελματία που επιθυμεί να διατηρήσει τη ζωντάνια των χρωμάτων των υφασμάτων του, εγγυώμενες παράλληλα ένα βαθύ καθάρισμα. Προσφέρουμε επίσης επαγγελματικά καρότσια για να διευκολύνουμε τη συλλογή των βρώμικων ρούχων, προκειμένου να βελτιστοποιήσουμε τις διαδικασίες διαχείρισης του πλυντηρίου σας. Εδώ είναι τα πλεονεκτήματα της επαγγελματικής κάψουλας skip: - Βέλτιστος επαγγελματικός καθαρισμός - Φρέσκο ​​άρωμα μεγάλης διάρκειας - Προστασία χρώματος και λάμψη - Εύκολο στη χρήση με ακριβή δοσολογία Γνωρίζετε την Pro Formula;  Η Skip Professional αποτελεί μέρος της σειράς Pro Formula, η οποία δημιουργήθηκε από κοινού από την Diversey και την Unilever. Αυτή η ολοκληρωμένη γκάμα λύσεων υγιεινής καλύπτει ειδικά τις ανάγκες επαγγελματικών κλάδων όπως η φιλοξενία, η εστίαση και η υγειονομική περίθαλψη. Συνδυάζει την απόδοση και την αξιοπιστία αξιόπιστων εμπορικών σημάτων για να εγγυηθεί αποτελέσματα από την πρώτη κιόλας χρήση.</Description>
+		<Barcode>7615400853700</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>71281</ID>
 		<Name>Ariel Ariel All In 1 Απορρυπαντικό Πλ. Ρούχων Κάψουλες Alpine 40τεμ</Name>
 		<Product_Link>https://www.skroutz.gr/s/47948707/Ariel-Ariel-All-In-1-Aporrypantiko-Pl-Rouchon-Kapsoules-Alpine-40tem.html</Product_Link>
@@ -11496,7 +11530,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.44</Price>
+		<Price>1.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>ΕΥΡΗΚΑ</Manufacturer>
@@ -11532,7 +11566,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.66</Price>
+		<Price>1.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>K2R</Manufacturer>
@@ -11549,7 +11583,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.73</Price>
+		<Price>0.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -11583,7 +11617,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.14801032</Price>
+		<Price>3.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>VANISH</Manufacturer>
@@ -11600,7 +11634,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.951347097599999</Price>
+		<Price>3.92</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>CALGON</Manufacturer>
@@ -11617,7 +11651,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.998682952727273</Price>
+		<Price>2.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>CALGON</Manufacturer>
@@ -11634,7 +11668,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.111703466666667</Price>
+		<Price>1.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
 		<Manufacturer>FAIRY</Manufacturer>
@@ -11651,7 +11685,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.23298008</Price>
+		<Price>3.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Υγρά Πιάτων</Category_Path>
 		<Manufacturer>FAIRY</Manufacturer>
@@ -11804,7 +11838,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.559927757037037</Price>
+		<Price>4.04</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Πιάτων &gt; Απορρυπαντικά Πλυντηρίου Πιάτων</Category_Path>
 		<Manufacturer>FAIRY</Manufacturer>
@@ -11821,7 +11855,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.44705472</Price>
+		<Price>0.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>TUBOFLO</Manufacturer>
@@ -11838,7 +11872,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.5976906548148149</Price>
+		<Price>0.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>TUBOFLO</Manufacturer>
@@ -11906,7 +11940,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.661467733333333</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Επιφανειών</Category_Path>
 		<Manufacturer>CIF</Manufacturer>
@@ -11923,7 +11957,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.661467733333333</Price>
+		<Price>1.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Επιφανειών</Category_Path>
 		<Manufacturer>CIF</Manufacturer>
@@ -11991,7 +12025,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.5712992</Price>
+		<Price>3.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>VIAKAL</Manufacturer>
@@ -12008,7 +12042,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.678902613333333</Price>
+		<Price>2.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>VIAKAL</Manufacturer>
@@ -12025,7 +12059,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.38869584</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BREF</Manufacturer>
@@ -12042,7 +12076,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.38869584</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BREF</Manufacturer>
@@ -12059,7 +12093,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.38869584</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BREF</Manufacturer>
@@ -12076,7 +12110,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.63</Price>
+		<Price>0.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BRAIT</Manufacturer>
@@ -12093,7 +12127,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.63</Price>
+		<Price>0.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BRAIT</Manufacturer>
@@ -12110,7 +12144,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.63</Price>
+		<Price>0.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BRAIT</Manufacturer>
@@ -12127,7 +12161,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.63</Price>
+		<Price>0.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BRAIT</Manufacturer>
@@ -12144,7 +12178,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.48</Price>
+		<Price>1.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BRAIT</Manufacturer>
@@ -12161,7 +12195,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.48</Price>
+		<Price>1.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Καθαριστικά Μπάνιου</Category_Path>
 		<Manufacturer>BRAIT</Manufacturer>
@@ -12212,7 +12246,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.21526944</Price>
+		<Price>1.3</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -12229,7 +12263,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.55955296</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -12246,7 +12280,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.55955296</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -12263,7 +12297,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.55955296</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -12280,7 +12314,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.55955296</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καθαριστικά Σπιτιού &gt; Ειδικά Καθαριστικά</Category_Path>
 		<Manufacturer>AJAX</Manufacturer>
@@ -12325,7 +12359,7 @@
 	</product>
 	<product>
 		<ID>73501</ID>
-		<Name>ΧΛΩΡΙΝΗ KLINEX ULTRA 750ml ΚΙΤΡΙΝΗ</Name>
+		<Name>Klinex Ultra Protection Παχύρρευστη Χλωρίνη με Άρωμα Lemon 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22366464/Klinex-Ultra-Protection-Pachyrreysti-CHlorini-me-Aroma-Lemon-750ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/022366/22366464/20200316114311_klinex_ultra_protection_lemon_pachyrreysto_ygro_750ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -12528,6 +12562,23 @@
 		<Quantity>25</Quantity>
 	</product>
 	<product>
+		<ID>74111</ID>
+		<Name>ΚΥΚΛΩΨ ΦΑΡΑΣΙ ΚΟΥΜΠΩΤΟ ΜΕ ΛΑΣΤΙΧΟ</Name>
+		<Product_Link>https://www.skroutz.gr/s/22794505/Cyclops-Clip-Farasi-Plastiko-me-Lasticho-Prasino-33-2x23x7-2ek-003301627.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/022794/22794505/xlarge_20220222171609_cyclops_farasi_clip_003301627.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.7135932159999999</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>03301791</MPN>
+		<Description>Φαράσι σε πράσινο χρώμα της εταιρείας Cyclops, κατάλληλο για την περισυλλογή των απορριμμάτων κατά το σκούπισμα. Είναι κατασκευασμένο από πλαστικό, ένα υλικό ιδιαίτερα ανθεκτικό και οικονομικό. Διαθέτει λάστιχο για να διευκολύνει τη συλλογή της σκόνης και των μικρών ρύπων καθώς και τη συγκράτησή τους μέσα σε αυτό.</Description>
+		<Barcode>5202707004878</Barcode>
+		<Quantity>114</Quantity>
+	</product>
+	<product>
 		<ID>74031</ID>
 		<Name>FIVE STAR ΣΦΟΥΓΓΑΡΙΣΤΡΑ MICROFIBRA</Name>
 		<Product_Link>https://vivianroussou.gr/product/5-star-sfoungaristra-microfibra/</Product_Link>
@@ -12535,7 +12586,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.9</Price>
+		<Price>1.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>FIVE STAR</Manufacturer>
@@ -12552,7 +12603,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.57</Price>
+		<Price>1.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12713,23 +12764,6 @@
 		<Description>Ανταλλακτικό επίπεδου συστήματος σφουγγαρίσματος Σύστημα Καθαρισμού Spray Max1-2      Οι γκρί και κόκκινες μικροΐνες προσφέρουν βαθύ καθαρισμό ακόμα και της πιο επίμονης βρωμιάς, ενώ οι λευκές μικροΐνες εξασφαλίζουν μέγιστη καθαριστική απόδοση και αστραφτερά πατώματα     Η σύνθεσή του από 100% μικροΐνες προσφέρουν μέγιστη απορροφητικότητα, καθαριστή απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας).</Description>
 		<Barcode>4023103199217</Barcode>
 		<Quantity>18</Quantity>
-	</product>
-	<product>
-		<ID>74111</ID>
-		<Name>ΚΥΚΛΩΨ ΦΑΡΑΣΙ ΚΟΥΜΠΩΤΟ ΜΕ ΛΑΣΤΙΧΟ</Name>
-		<Product_Link>https://www.skroutz.gr/s/22794505/Cyclops-Clip-Farasi-Plastiko-me-Lasticho-Prasino-33-2x23x7-2ek-003301627.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/022794/22794505/xlarge_20220222171609_cyclops_farasi_clip_003301627.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.7135932159999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>03301791</MPN>
-		<Description>Φαράσι σε πράσινο χρώμα της εταιρείας Cyclops, κατάλληλο για την περισυλλογή των απορριμμάτων κατά το σκούπισμα. Είναι κατασκευασμένο από πλαστικό, ένα υλικό ιδιαίτερα ανθεκτικό και οικονομικό. Διαθέτει λάστιχο για να διευκολύνει τη συλλογή της σκόνης και των μικρών ρύπων καθώς και τη συγκράτησή τους μέσα σε αυτό.</Description>
-		<Barcode>5202707004878</Barcode>
-		<Quantity>114</Quantity>
 	</product>
 	<product>
 		<ID>74201</ID>
@@ -12971,6 +13005,23 @@
 		<Quantity>155</Quantity>
 	</product>
 	<product>
+		<ID>74253</ID>
+		<Name>Labico Συρμάτινα Σφουγγάρια Γενικής Χρήσης Ασημί Σετ 6τμχ 30gr</Name>
+		<Product_Link>https://cafedes.gr/shop/ergaleia-katharismou/surmata/atsalomallo-surma-psilo-6temrolakia/</Product_Link>
+		<Image_Link>https://www.takataka.gr/Cache/Photos/a095cc2528942259192aaa7faebce821.png</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.4</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>00431015</MPN>
+		<Description>Συρματάκι ιδανικό για την κουζίνα αλλά και για λείανση επιφανειών. Κατάλληλο για ευαίσθητες επιφάνειες.</Description>
+		<Barcode>5202630120140</Barcode>
+		<Quantity>91</Quantity>
+	</product>
+	<product>
 		<ID>74250117</ID>
 		<Name>Συρμάτινο Σφουγγάρι Γενικής Χρήσης 17gr Ασημί</Name>
 		<Product_Link>https://www.skroutz.gr/s/54743327/Viosarp-Syrmatino-Sfougari-Genikis-CHrisis-17gr-Asimi.html</Product_Link>
@@ -13073,23 +13124,6 @@
 		<Quantity>435</Quantity>
 	</product>
 	<product>
-		<ID>74253</ID>
-		<Name>Labico Συρμάτινα Σφουγγάρια Γενικής Χρήσης Ασημί Σετ 6τμχ 30gr</Name>
-		<Product_Link>https://cafedes.gr/shop/ergaleia-katharismou/surmata/atsalomallo-surma-psilo-6temrolakia/</Product_Link>
-		<Image_Link>https://www.takataka.gr/Cache/Photos/a095cc2528942259192aaa7faebce821.png</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.25</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>00431015</MPN>
-		<Description>Συρματάκι ιδανικό για την κουζίνα αλλά και για λείανση επιφανειών. Κατάλληλο για ευαίσθητες επιφάνειες.</Description>
-		<Barcode>5202630120140</Barcode>
-		<Quantity>91</Quantity>
-	</product>
-	<product>
 		<ID>74301</ID>
 		<Name>ΣΦΟΥΓΓΑΡΙ ΜΠΑΝΙΟΥ ΣΚΛΗΡΟ-ΜΑΛΑΚΟ ΟΒΑΛ</Name>
 		<Product_Link>https://www.3a.gr/vendors/cyclops/cyclops-%CF%83%CF%86%CE%BF%CF%85%CE%B3%CE%B3%CE%BC%CF%80%CE%B1%CE%BD%CE%B9%CE%BF%CF%85-%CF%83%CE%BA%CE%BB%CE%B7%CF%81%CE%BF-%CE%BC%CE%B1%CE%BB%CE%B1%CE%BA%CE%BF-%CE%BF%CE%B2%CE%B1%CE%BB.htm</Product_Link>
@@ -13097,7 +13131,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.4</Price>
+		<Price>0.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Σφουγγάρια Σώματος</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -18667,7 +18701,7 @@
 		<MPN>LP04080</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης κατάλληλα για κάθε συσκευή πλαστικοποίησης. Με τα δίφυλλα πλαστικοποίησης της εταιρείας Typotrust, έχετε αποτέλεσμα και αντοχή στον χρόνο.</Description>
 		<Barcode>5207146013795</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>58</Quantity>
 	</product>
 	<product>
 		<ID>7932010251</ID>
@@ -21691,7 +21725,7 @@
 		<MPN>16.006.0259</MPN>
 		<Description>Η βάση φόρτισης της εταιρείας XO επιτρέπει την ταυτόχρονη φόρτιση συσκευών χάρη στις θύρες που διαθέτει. Αφού η βάση συνδεθεί στο ρεύμα, μπορούμε να συνδέσουμε το καλώδιο φόρτισης του κινητού μας στη βάση για να φορτίσουμε το κινητό. Υποστηρίζει γρήγορη φόρτιση, η οποία θα πρέπει να είναι συμβατή με το κινητό σας. Σε αντίθετη περίπτωση, το κινητό σας θα φορτίσει αργά, όπως με ένα συμβατικό φορτιστή. Υποστήριξη πρωτοκόλλου      Πρωτόκολλα υποστήριξης USB-1/2/3: QC3.0/QC2.0/AFC/FCP/SCP/BC1.2/Apple2.4A/PD/PPS     Πρωτόκολλο υποστήριξης USB-A1: QC3.0/QC2.0/AFC/FCP/SCP/BC1.2 /Apple2.4A</Description>
 		<Barcode>6920680856152</Barcode>
-		<Quantity>44</Quantity>
+		<Quantity>43</Quantity>
 	</product>
 	<product>
 		<ID>7995102</ID>
@@ -23454,7 +23488,7 @@
 		<MPN>6155577</MPN>
 		<Description>USB Flash Drive C51 της Silicon Power, χωρητικότητα 128GB με ταχύτητα 120MBps. Προσφέρει γρήγορη μεταφορά δεδομένων και είναι ιδανικό για αποθήκευση εικόνων, βίντεο και MP3 αρχείων.      Γρήγορη μεταφορά δεδομένων     USB &amp; USB-C σύνδεση     Μεγάλη χωρητικότητα     Ανθεκτικό σώμα     Με προστατευτικά καπάκια  Τεχνικά χαρακτηριστικά:      Χωρητικότητα: 128GB     Σύνδεση: USB &amp; USB-C     Έκδοση USB: USB 3.2 Gen 1     Ταχύτητα ανάγνωσης: 120MB/s (Max)     Υλικό: Αλουμίνιο + Καουτσούκ     Διαστάσεις: 68.6 x 21.3 x 10.4mm     Βάρος: 13.77g     Χρώμα: Ασημί     OS: Windows 11/10/8.1/8/7/Vista/XP, Mac OS 10.3.x ή νεότερα, Linux 2.6.x ή νεότερα, Android OS 6.0 ή νεότερα, iOS 13 ή νεότερα</Description>
 		<Barcode>4713436155577</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 	</product>
 	<product>
 		<ID>799625013</ID>
@@ -25759,7 +25793,7 @@
 		<MPN>888-30349</MPN>
 		<Description>Κλασικό κρουασάν 70 γραμμαρίων γεμισμένο με πλούσια κρέμα κακάο και κρέμα πραλίνας φουντουκιού.  Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι. Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<Barcode>5301000230349</Barcode>
-		<Quantity>159</Quantity>
+		<Quantity>158</Quantity>
 	</product>
 	<product>
 		<ID>8882007012</ID>
