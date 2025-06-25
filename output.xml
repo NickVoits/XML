@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-25 16:05</created_at>
+	<created_at>2025-06-25 17:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -160,7 +160,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η μπύρα Kaiser είναι μια ποιοτική επιλογή για τους λάτρεις της γεύσης. Με ένα χρυσαφένιο χρώμα και πλούσιο αφρό, προσφέρει μια ευχάριστη αίσθηση δροσιάς και γεύσης. Έχει 5% αλκοόλ και μια ισορροπημένη γεύση με νότες βύνης και λυκίσκου. Η μαγιά και η ζύμωση προσφέρουν μια πλούσια και αρωματική εμπειρία.</Description>
 		<Barcode>5201309103910</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>32227</ID>
@@ -2082,7 +2082,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
 		<Barcode>5200128720049</Barcode>
-		<Quantity>52</Quantity>
+		<Quantity>53</Quantity>
 	</product>
 	<product>
 		<ID>18302</ID>
@@ -2100,7 +2100,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το μαύρο "θεραπευτικό" τσάι όπως λέγεται, είναι παγκοσμίως γνωστό για την υψηλή περιεκτικότητά του σε πολυφαινόλες. Δοκιμάστε το!</Description>
 		<Barcode>5200128720070</Barcode>
-		<Quantity>37</Quantity>
+		<Quantity>36</Quantity>
 	</product>
 	<product>
 		<ID>20201</ID>
@@ -13002,7 +13002,7 @@
 		<MPN>Ε-1656</MPN>
 		<Description>Σύρμα μαλλί ιδανικό για την καθαριότητα όλων των σκευών της κουζίνας.  Η συσκευασία περιέχει 6 τεμάχια.</Description>
 		<Barcode>5203642116565</Barcode>
-		<Quantity>150</Quantity>
+		<Quantity>155</Quantity>
 	</product>
 	<product>
 		<ID>74253</ID>
@@ -13104,7 +13104,7 @@
 		<MPN>E-1655</MPN>
 		<Description>Συρματάκι ιδανικό για την κουζίνα αλλά και για λείανση επιφανειών.</Description>
 		<Barcode>5203642116558</Barcode>
-		<Quantity>521</Quantity>
+		<Quantity>516</Quantity>
 	</product>
 	<product>
 		<ID>74252113</ID>
