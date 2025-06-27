@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-06-27 16:05</created_at>
+	<created_at>2025-06-27 16:56</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -45,7 +45,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.26</Price>
+		<Price>1.17</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
 		<Manufacturer>ΜΗΛΟΚΛΕΦΤΗΣ</Manufacturer>
@@ -304,7 +304,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
 		<Barcode>5201275611372</Barcode>
-		<Quantity>104</Quantity>
+		<Quantity>108</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -322,7 +322,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>252</Quantity>
+		<Quantity>258</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -358,7 +358,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
 		<Barcode>5201275601472</Barcode>
-		<Quantity>116</Quantity>
+		<Quantity>121</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -664,7 +664,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>2051</Quantity>
+		<Quantity>2057</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -895,7 +895,7 @@
 		<Weight>12 kg</Weight>
 		<Description>Περιγραφή: Η Coca-Cola Original Taste είναι το αγαπημένο αναψυκτικό στον κόσμο και το απολαμβάνουμε από το 1886. Φαγητό, φίλοι και Coca-Cola Original Taste – καλύτερα μαζί!      Σερβίρετε παγωμένο για μέγιστη δροσιά.     Κρατήστε ένα κρύο στο ψυγείο.     Περιέχει 24 ατομικές φιάλες των 500ml.     Υπέροχη γεύση κοκ.     Μόνο φυσικές γεύσεις.     Χωρίς πρόσθετα συντηρητικά.     Χωρίς γλουτένη, χωρίς γαλακτοκομικά και χωρίς ξηρούς καρπούς.     Αυτό το προϊόν είναι χωρίς ΓΤΟ, γλουτένη και αλλεργιογόνα.     Αυτό το προϊόν είναι κατάλληλο για χορτοφάγους/vegans.     Παρακαλώ ανακυκλώστε.  Συστατικά: Ανθρακούχο Νερό, Ζάχαρη, Χρώμα (Caramel E150d), Φωσφορικό Οξύ, Φυσικές Αρωματικές ουσίες συμπεριλαμβανομένης της Καφεΐνης  Λεπτομέρειες: μάρκα:      Coca-Cola Original Taste</Description>
 		<Barcode>5449000017673</Barcode>
-		<Quantity>210</Quantity>
+		<Quantity>211</Quantity>
 	</product>
 	<product>
 		<ID>120318</ID>
@@ -2117,7 +2117,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>611</Quantity>
+		<Quantity>643</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2168,7 +2168,7 @@
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345108</Barcode>
-		<Quantity>1495</Quantity>
+		<Quantity>1605</Quantity>
 	</product>
 	<product>
 		<ID>20403</ID>
@@ -2185,7 +2185,7 @@
 		<MPN>13081</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345122</Barcode>
-		<Quantity>796</Quantity>
+		<Quantity>698</Quantity>
 	</product>
 	<product>
 		<ID>20501</ID>
@@ -5429,7 +5429,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>1903</Quantity>
+		<Quantity>1927</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5716,7 +5716,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Η πολλαπλή αποστάξεων στέμφυλων που προέρχονται από εκλεκτές ποικιλίες της Θεσσαλικής Γης μας δίνει ένα τσίπουρο με αρμονική γεύση και πλούσιο φρουτώδη χαρακτήρα. Χωρίς γλυκάνισο.</Description>
 		<Barcode>5203413080026</Barcode>
-		<Quantity>1131</Quantity>
+		<Quantity>1155</Quantity>
 	</product>
 	<product>
 		<ID>52753</ID>
@@ -5944,7 +5944,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<Barcode>5010314700003</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>121</Quantity>
 	</product>
 	<product>
 		<ID>55004</ID>
@@ -9472,7 +9472,7 @@
 		<MPN>1386</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395647817</Barcode>
-		<Quantity>55</Quantity>
+		<Quantity>57</Quantity>
 	</product>
 	<product>
 		<ID>66506.60</ID>
@@ -9914,7 +9914,7 @@
 		<MPN>1260</MPN>
 		<Description>Ενυδατική βουτυρώδης κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει αλόη βέρα και ρόδι, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Δυναμώνει, αναζωογονεί και αποκαθιστά την ενυδάτωση του δέρματος. Εμπεριέχει αλόη βέρα, χαμομήλι, αμυγδαλέλαιο, βούτυρο καριτέ και κερί μέλισσας.</Description>
 		<Barcode>5208005100441</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>67111</ID>
@@ -10666,7 +10666,7 @@
 		<MPN>0343</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650101409</Barcode>
-		<Quantity>3967</Quantity>
+		<Quantity>3977</Quantity>
 	</product>
 	<product>
 		<ID>70204</ID>
@@ -10973,7 +10973,7 @@
 		<MPN>0686</MPN>
 		<Description>Χάρτινο τραπεζομάντηλο εστιατορίου, 100x100 cmΤραπεζομάντιλα ανά συσκευασία: 150Κατασκευάζεται στην Ελλάδα.</Description>
 		<Barcode>15202995008593</Barcode>
-		<Quantity>108</Quantity>
+		<Quantity>109</Quantity>
 	</product>
 	<product>
 		<ID>70912</ID>
@@ -17915,7 +17915,7 @@
 		<MPN>1567</MPN>
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
 		<Barcode>5202054032272</Barcode>
-		<Quantity>120</Quantity>
+		<Quantity>121</Quantity>
 	</product>
 	<product>
 		<ID>78921</ID>
@@ -20701,7 +20701,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.41</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20718,7 +20718,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.41</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20735,7 +20735,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.41</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20752,7 +20752,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.41</Price>
+		<Price>1.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20786,7 +20786,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.64</Price>
+		<Price>2.47</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -21126,7 +21126,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.17</Price>
+		<Price>17.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21144,7 +21144,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.17</Price>
+		<Price>17.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21161,7 +21161,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.33</Price>
+		<Price>22.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21256,6 +21256,23 @@
 		<Quantity>28</Quantity>
 	</product>
 	<product>
+		<ID>799130211</ID>
+		<Name>Esperanza Επιτραπέζια Εστία Εμαγιέ Διπλή Λευκή 2500W (1x1500W, 1x1000W) EKH07W</Name>
+		<Product_Link>https://www.skroutz.gr/s/12636245/Esperanza-EKH007W-Epitrapezia-Estia-Emagie-Dipli-Leyki-EKH007W.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/012636/12636245/xlarge_20200310170528_esperanza_ekh007w.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.71</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Επιτραπέζιες Εστίες</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EKH07W</MPN>
+		<Description>Εμαγιέ Εστία  Η εστία Esperanza είναι εμαγιέ, δηλαδή η κλασική εστία όπου διαθέτει τη θερμική αντίσταση από κάτω και η επιφάνεια γύρω της είναι από επίστρωση σμάλτου, η οποία προκύπτει από την εφαρμογή του σμάλτου (γυαλί) επάνω σε μέταλλο.  Είναι κατάλληλη για χρήση με όλα τα είδη σκευών, ενώ η εμαγιέ επιφάνειά της είναι ανθεκτική στις υψηλές θερμοκρασίες και δεν καταστρέφεται από τη σταθερή έκθεση τους. Περιστροφικοί διακόπτες  Ο χειρισμός για την επιλογή των επιθυμητών θερμοκρασιών και ρυθμίσεων γίνεται μέσω περιστροφικών διακοπτών, οι οποίοι λειτουργούν ανεξάρτητα μεταξύ τους.  Κάθε διακόπτης μπορεί να ορίσει έως και 5 διαφορετικές θερμοκρασίες. Διαστάσεις &amp; ισχύς ζωνών μαγειρέματος:  Διαθέτει 2 ζώνες μαγειρέματος με διάμετρο 15,5 cm η αριστερή και 18,8 η δεξιά, ενώ η συνολική τους ισχύς είναι 2500 W. Ασφάλεια  Η εστία διαθέτει προστασία από υπερθέρμανση, για μέγιστη ασφάλεια κατά το μαγείρεμα.  Με τις φωτεινές λυχνίες της θα μπορείτε να αντιλαμβάνεστε άμεσα πότε είναι σε λειτουργία κάποια από τις ζώνες μαγειρέματος. Ιδανική για τα ταξίδια και το εξοχικό  Ο απλός σχεδιασμός της ταιριάζει σε κάθε κουζίνα και το εύχρηστο μέγεθος καθιστά εύκολη τη μεταφορά είτε για κάμπινγκ, είτε για διακοπές είτε για μετακόμιση.</Description>
+		<Barcode>5901299930670</Barcode>
+		<Quantity>8</Quantity>
+	</product>
+	<product>
 		<ID>799130301</ID>
 		<Name>Esperanza Φριτέζα Falafel Black/Inox EKG010</Name>
 		<Product_Link>https://www.skroutz.gr/s/26264914/Esperanza-EKG010-Friteza-3lt-Asimi.html</Product_Link>
@@ -21280,7 +21297,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.27</Price>
+		<Price>12.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21297,7 +21314,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.58</Price>
+		<Price>14.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21416,7 +21433,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.95</Price>
+		<Price>13.72</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21518,7 +21535,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.71</Price>
+		<Price>22.7</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Ηλεκτρικές Εντομοπαγίδες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21535,7 +21552,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.87</Price>
+		<Price>20.51</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Οικιακοί Ανεμιστήρες &gt; Ανεμιστήρες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -21661,7 +21678,7 @@
 		<MPN>EBS019</MPN>
 		<Description>Η σύγχρονη ψηφιακή ζυγαριά, της εταιρίας Esperanza, σας επιτρέπει να ελέγχετε το βάρος του μωρού σας. Η τακτική εξέταση του βάρους και της ανάπτυξης του μωρού σας βοηθά στην παρακολούθηση της σωστής ανάπτυξής του. Η ζυγαριά μπορεί να ζυγίσει μέχρι και 20 κιλά.  Η μεγάλη οθόνη υγρών κρυστάλλων κάνει εύκολη την ανάγνωση των αποτελεσμάτων ζύγισης. Η ζυγαριά είναι επίσης εξοπλισμένη με λειτουργίες TARE και HOLD για εύκολο ζύγισμα, όταν το παιδί σας μετακινείται. Το εργονομικό της σχήμα εξασφαλίζει την άνεση και την ασφάλεια του παιδιού σας όταν το ζυγίζετε.      Ακριβής ζύγιση     Βάρος: 0.03 - 20kg     Κλίμακα διαίρεσης: 0.01kg     Λειτουργία TARE (απόβαρο)     Λειτουργία HOLD (για πιο ακριβείς μετρήσεις όταν κινείται το μωρό)     Μεγάλη οθόνη LCD: 60x25mm     Μονάδα μέτρησης: KG / LB / ST     Τροφοδοσία: 2 x AAA μπαταρία (δεν περιλαμβάνονται)     Ένδειξη χαμηλής μπαταρίας και υπερφόρτωσης     Αυτόματη και χειροκίνητη απενεργοποίηση     Θερμοκρασία εργασίας: 0° C - 40° C     Διαστάσεις: 54.5x32x3cm</Description>
 		<Barcode>5901299954935</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 	</product>
 	<product>
 		<ID>799500101</ID>
@@ -22141,40 +22158,6 @@
 		<Quantity>36</Quantity>
 	</product>
 	<product>
-		<ID>799511515</ID>
-		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Μαύρο 1m (WDC-092) 250601</Name>
-		<Product_Link>https://www.skroutz.gr/s/33363434/WK-WDC-092-Regular-USB-2-0-to-micro-USB-Cable-Mayro-1m.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/033363/33363434/20220110155938_wk_wdc_092_regular_usb_2_0_to_micro_usb_cable_mayro_1m.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.3</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1716</MPN>
-		<Description>Καλώδιο WDC-092 Full Speed Pro, ιδανικό για γρήγορη φόρτιση και ταχύτητα μεταφοράς δεδομένων. Διαθέτει δυνατότητα φόρτισης και μετάδοσης δεδομένων 2 σε 1.  Χαρακτηριστικά:      Υλικό: PE εσωτερικά, PVC εξωτερικά     Έξοδος: 2.4A Max     Βάρος: 36g     Μήκος: 1000mm  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικό και είναι αποτελεσματικό για τη χρήση που του κάνεις.</Description>
-		<Barcode>6941027606780</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>799511516</ID>
-		<Name>WK Charging-Data Cable USB to to micro USB 2.4A Λευκό 1m (WDC-092) 250602</Name>
-		<Product_Link>https://www.skroutz.gr/s/33363479/WK-WDC-092-Regular-USB-2-0-to-micro-USB-Cable-Leyko-1m.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/033363/33363479/20240710154148_wk_wdc_092_regular_usb_2_0_to_micro_usb_cable_leyko_1m.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.3</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
-		<Manufacturer>WK</Manufacturer>
-		<MPN>1717</MPN>
-		<Description>Καλώδιο WK Full Speed Pro USB to Micro-USB 1m Λευκό WDC-092, κατάλληλο για φόρτιση και μεταφορά δεδομένων.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικό και είναι αποτελεσματικό για τη χρήση που του κάνεις.</Description>
-		<Barcode>6941027606773</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>7995115201</ID>
 		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Type-C 1M 3A Μαύρο NB280-58736</Name>
 		<Product_Link>https://www.skroutz.gr/s/57567264/XO-Nb280-USB-2-0-Cable-USB-C-male-USB-A-Mayro-1m-16-005-0347.html</Product_Link>
@@ -22182,7 +22165,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.62</Price>
+		<Price>0.6531079999999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22199,7 +22182,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.62</Price>
+		<Price>0.6531079999999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22216,7 +22199,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.18</Price>
+		<Price>1.235226</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22233,7 +22216,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.18</Price>
+		<Price>1.235226</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22250,7 +22233,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.89</Price>
+		<Price>4.074826</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22267,7 +22250,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.69</Price>
+		<Price>0.7240979999999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22284,7 +22267,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.67</Price>
+		<Price>0.6673059999999998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22301,7 +22284,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.78</Price>
+		<Price>1.859938</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22318,7 +22301,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.78</Price>
+		<Price>1.859938</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22335,7 +22318,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.49</Price>
+		<Price>0.511128</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -22352,7 +22335,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.49</Price>
+		<Price>0.511128</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -24708,7 +24691,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Χυμός λεμονιού της εταιρίας John Top, που θα δώσει έξτρα γεύση και νοστιμιά σε κάθε φαγητό. Τον χυμό του λεμονιού τον χρησιμοποιούμε σε κρέατα, ψάρια, χόρτα, όσπρια, γλυκά του κουταλιού, μαρμελάδες, λικέρ και οπουδήποτε θέλουμε να ενισχύσουμε τη γεύση ή την αντισηψία.</Description>
 		<Barcode>5202737900218</Barcode>
-		<Quantity>2361</Quantity>
+		<Quantity>2371</Quantity>
 	</product>
 	<product>
 		<ID>84021</ID>
@@ -25882,7 +25865,7 @@
 		<MPN>888-30356</MPN>
 		<Description>Κλασικό κρουασάν 150 γραμμαρίων γεμισμένο με πλούσια κρέμα κακάο και κρέμα πραλίνας φουντουκιού.  Με αφράτη, ζύμη και γεμάτη γέμιση αποτελεί ιδανικό πρωινό στο χέρι. Τα κρουασάν Replay αποτελούν μια εξαιρετική επιλογή για κάθε στιγμή της ημέρας, γεμάτα γεύση και άρωμα!</Description>
 		<Barcode>5301000230356</Barcode>
-		<Quantity>81</Quantity>
+		<Quantity>80</Quantity>
 	</product>
 	<product>
 		<ID>8910101</ID>
