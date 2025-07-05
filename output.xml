@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-07-05 12:05</created_at>
+	<created_at>2025-07-05 12:30</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -71,7 +71,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ξανθιά, θολή μπίρα από την καρδιά της Βαυαρίας, η οποία αποτελεί σήμερα συνώνυμο της Weiss μπίρας. Παράγεται σύμφωνα με τον αυστηρό γερμανικό νόμο περί αγνότητας των υλικών του 1516 και περιέχει μόνο νερό, βύνη, λυκίσκο και μαγιά. Δεν παστεριώνεται, γι’ αυτό και δεν περιέχει πρόσθετα και συντηρητικά. Η παραδοσιακή επαναζύμωση που υφίσταται στη φιάλη την κάνει ιδιαίτερα αναζωογονητική. Έχει φρουτώδη, ξηρή καθαρή γεύση, πικάντικη επίγευση και άρωμα φρούτων και μαγιάς.</Description>
 		<Barcode>4002103248248</Barcode>
-		<Quantity>174</Quantity>
+		<Quantity>162</Quantity>
 	</product>
 	<product>
 		<ID>31085</ID>
@@ -322,7 +322,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>53</Quantity>
+		<Quantity>52</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -1183,7 +1183,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
 		<Barcode>5201946911268</Barcode>
-		<Quantity>979</Quantity>
+		<Quantity>978</Quantity>
 	</product>
 	<product>
 		<ID>130319</ID>
@@ -1237,7 +1237,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανάλαφρη δροσιά του φυσικού μεταλλικού νερού με κάθε γουλιά της εκρηκτικής Βίκος Σόδας. Η σύνθεσή της εξασφαλίζει χωνευτικές ιδιότητες και μοναδική γεύση, χαρακτηριστικά που την καθιστούν ιδανική για αναζωογόνηση μετά τα γεύματα.</Description>
 		<Barcode>5201946911213</Barcode>
-		<Quantity>535</Quantity>
+		<Quantity>532</Quantity>
 	</product>
 	<product>
 		<ID>13034</ID>
@@ -1255,7 +1255,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>244</Quantity>
+		<Quantity>241</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1273,7 +1273,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα χωρίς ανθρακικό είναι η απαλή και γλυκιά γεύση που αγαπούν όλοι, μεγάλοι και μικροί. Με αυθεντικό χυμό από ελληνικά, ολόφρεσκα πορτοκάλια και την καθαρότητα του φυσικού μεταλλικού νερού, κάθε γουλιά είναι και μια δροσιστική απόλαυση.</Description>
 		<Barcode>5201946910261</Barcode>
-		<Quantity>451</Quantity>
+		<Quantity>448</Quantity>
 	</product>
 	<product>
 		<ID>130349</ID>
@@ -1309,7 +1309,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<Barcode>5201946910292</Barcode>
-		<Quantity>76</Quantity>
+		<Quantity>73</Quantity>
 	</product>
 	<product>
 		<ID>130359</ID>
@@ -1345,7 +1345,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Βυσσινάδα μετουσιώνει τη φρεσκάδα από τα «παλιά» σε γεύση. Το πλούσια φρουτώδες άρωμα των επιλεγμένων βύσσινων, σε αρμονία με το φυσικό διοξείδιο και την αγνότητα του μεταλλικού νερού, δημιουργούν μια γλυκιά εμπειρία που μυρίζει παράδοση.</Description>
 		<Barcode>5201946910445</Barcode>
-		<Quantity>375</Quantity>
+		<Quantity>372</Quantity>
 	</product>
 	<product>
 		<ID>13037</ID>
@@ -1363,7 +1363,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Barcode>5201946911404</Barcode>
-		<Quantity>247</Quantity>
+		<Quantity>244</Quantity>
 	</product>
 	<product>
 		<ID>13038</ID>
@@ -1614,7 +1614,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908000020</Barcode>
-		<Quantity>1046</Quantity>
+		<Quantity>1036</Quantity>
 	</product>
 	<product>
 		<ID>17052</ID>
@@ -1650,7 +1650,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>184</Quantity>
+		<Quantity>174</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -1704,7 +1704,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000051</Barcode>
-		<Quantity>2339</Quantity>
+		<Quantity>2329</Quantity>
 	</product>
 	<product>
 		<ID>17060</ID>
@@ -1758,7 +1758,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908110019</Barcode>
-		<Quantity>1053</Quantity>
+		<Quantity>1051</Quantity>
 	</product>
 	<product>
 		<ID>17072</ID>
@@ -2117,7 +2117,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>1116</Quantity>
+		<Quantity>1080</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2151,7 +2151,7 @@
 		<MPN>1306</MPN>
 		<Description>Φυσικό μεταλλικό νερό Τεμάχια : 6 Όγκος Τεμαχίου : 1.5lt  Οδηγίες Φύλαξης **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
 		<Barcode>5201946013115</Barcode>
-		<Quantity>1774</Quantity>
+		<Quantity>1710</Quantity>
 	</product>
 	<product>
 		<ID>20401</ID>
@@ -2168,7 +2168,7 @@
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345108</Barcode>
-		<Quantity>465</Quantity>
+		<Quantity>454</Quantity>
 	</product>
 	<product>
 		<ID>20403</ID>
@@ -2202,7 +2202,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<Barcode>5201005080024</Barcode>
-		<Quantity>11384</Quantity>
+		<Quantity>11368</Quantity>
 	</product>
 	<product>
 		<ID>20601</ID>
@@ -2271,7 +2271,7 @@
 		<MPN>929</MPN>
 		<Description>Προστατευμένο μέσα στα πετρώματα της πηγής του, το ανθρακούχο φυσικό μεταλλικό νερό ΔΟΥΜΠΙΑ παρουσιάζει διαχρονικά σταθερή ποιότητα και πληροί τις αυστηρές απαιτήσεις της νομοθεσίας των φυσικών μεταλλικών νερών, όσον αφορά τα φυσικοχημικά και μικροβιολογικά χαρακτηριστικά του.  Από την περίφημη πηγή των Αγίων Αποστόλων στον Πολύγυρο της Χαλκιδικής, είναι το πρώτο Ελληνικό γαστρονομικό νερό της αγοράς με υψηλή περιεκτικότητα σε ασβέστιο, μαγνήσιο και άλλα πολύτιμα μέταλλα.  Αγωγιμότητα (20°): 1655 μS/cm Ολική Σκληρότητα: 98,49° F Στερεό Υπόλειμμα (180°): 1,25 g/L</Description>
 		<Barcode>5206167001002</Barcode>
-		<Quantity>148</Quantity>
+		<Quantity>124</Quantity>
 	</product>
 	<product>
 		<ID>21501031</ID>
@@ -2343,7 +2343,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το Perrier, το Φυσικό Μεταλλικό νερό με προσθήκη διοξειδίου του άνθρακα, έχει καθιερωθεί ως την απόλυτα υγιεινή εναλλακτική επιλογή! Με τις 50 εκατομμύρια φυσαλίδες ανά λίτρο, σε δροσίζει όλη την διάρκεια της ημέρας!</Description>
 		<Barcode>3179730011369</Barcode>
-		<Quantity>741</Quantity>
+		<Quantity>717</Quantity>
 	</product>
 	<product>
 		<ID>22005</ID>
@@ -2611,7 +2611,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413040181</Barcode>
-		<Quantity>439</Quantity>
+		<Quantity>433</Quantity>
 	</product>
 	<product>
 		<ID>40104</ID>
@@ -5201,7 +5201,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Η Sangria είναι το παραδοσιακό ποτό της Ισπανίας, παρασκευάζεται από κόκκινο κρασί και φυσικά εκχυλίσματα φρούτων χωρίς συντηρητικά και χρωστικές. Σκούρο κόκκινο χρώμα και δροσερή γεύση. Σερβίρεται παγωμένη, είναι το απόλυτο ποτό του καλοκαιριού.</Description>
 		<Barcode>8410261151625</Barcode>
-		<Quantity>80</Quantity>
+		<Quantity>78</Quantity>
 	</product>
 	<product>
 		<ID>55952</ID>
@@ -6097,7 +6097,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<Barcode>080432402931</Barcode>
-		<Quantity>118</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>55051</ID>
@@ -6114,7 +6114,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<Barcode>5000267024202</Barcode>
-		<Quantity>72</Quantity>
+		<Quantity>71</Quantity>
 	</product>
 	<product>
 		<ID>550531</ID>
@@ -6184,7 +6184,7 @@
 		<MPN>1169002</MPN>
 		<Description>Η αυθεντική ρωσική βότκα Stolichnaya είναι διπλής απόσταξης και φιλτράρεται τέσσερις φορές σύμφωνα με την παραδοσιακή ρωσική μέθοδο. Έχει ισορροπημένη, μεταξένια γεύση και παράγεται από επιλεγμένα σιτηρά ανώτερης ποιότητας.  Ο σίτος και το νερό διυλίζονται τριπλά με χρήση φιλτραρίσματος χαλαζία και ενεργού άνθρακα ώστε να δημιουργηθεί το τελικό απόσταγμα της Stolichnaya.</Description>
 		<Barcode>4750021001376</Barcode>
-		<Quantity>546</Quantity>
+		<Quantity>543</Quantity>
 	</product>
 	<product>
 		<ID>55108</ID>
@@ -6273,7 +6273,7 @@
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
 		<Barcode>5000289925440</Barcode>
-		<Quantity>129</Quantity>
+		<Quantity>126</Quantity>
 	</product>
 	<product>
 		<ID>553012</ID>
@@ -6361,7 +6361,7 @@
 		<MPN>1499</MPN>
 		<Description>To Beefeater London είναι ένα premium dry τζιν με κρυστάλλινη όψη που παρασκευάζεται στο Λονδίνο, στο αποστακτήριο του Kennington. Οι νότες αρκεύθου, μπαχαρικών και φρούτων είναι ένας συνδυασμός που έχει ως αποτέλεσμα ένα απόσταγμα αρωματικό και με καθαρή γεύση.</Description>
 		<Barcode>5000329002209</Barcode>
-		<Quantity>64</Quantity>
+		<Quantity>63</Quantity>
 	</product>
 	<product>
 		<ID>55305</ID>
@@ -6484,7 +6484,7 @@
 		<MPN>1529</MPN>
 		<Description>Παρασκευασμένο για πρώτη φορά το 1862, το ρούμι Bacardi είναι το αυθεντικό, εύκολο στην ανάμειξη, ελαφρύ ρούμι που παλαιώνει για ένα με δύο χρόνια σε επιλεγμένα δρύινα βαρέλια.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5010677012782</Barcode>
-		<Quantity>260</Quantity>
+		<Quantity>258</Quantity>
 	</product>
 	<product>
 		<ID>554014</ID>
@@ -7088,7 +7088,7 @@
 		<MPN>1213001</MPN>
 		<Description>Χρησιμοποιείται σε Cocktails, ροφήματα, καφέ, ζαχαροπλαστική, μαγειρική Έντονες νότες από γινωμένες φράουλες Μεσογείου Για πιό φυσική γεύση και αντίληψη ο πουρές έχει τα κουκούτσια της φράουλας</Description>
 		<Barcode>3052910033125</Barcode>
-		<Quantity>8</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>55823</ID>
@@ -20983,7 +20983,7 @@
 		<MPN>E-0342</MPN>
 		<Description>Περιλαμβάνεται Lion battery     Επαναφορτιζόμενη     1200mah μπαταρία     Περιλαμβάνεται USB καλώδιο φόρτισης</Description>
 		<Barcode>5203642103428</Barcode>
-		<Quantity>7</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>797511122</ID>
@@ -24610,7 +24610,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το ρύζι Basmati σε συσκευασία 500 γραμμαρίων είναι ιδανικό για δημιουργία απολαυστικών ασιατικών φαγητών. Με το μακρύ, λεπτό κόκκο του και το ιδιαίτερο άρωμά του, προσφέρει μια γεύση και μια αίσθηση που δεν συγκρίνεται εύκολα με άλλους τύπους ρυζιού. Ιδανικό για πιλάφι, σερβίρεται ως πλευρικό ή βασικό πιάτο, και συνοδεύει τέλεια ποικίλα κρέατα, ψάρια και λαχανικά.</Description>
 		<Barcode>8212006200567</Barcode>
-		<Quantity>553</Quantity>
+		<Quantity>548</Quantity>
 	</product>
 	<product>
 		<ID>810171</ID>
@@ -25207,114 +25207,6 @@
 		<Quantity>93</Quantity>
 	</product>
 	<product>
-		<ID>84201</ID>
-		<Name>Πιπέρι Μαύρο Βιετνάμ Τριμμένο σε συσκευασία Doypack 1000gr</Name>
-		<Product_Link>https://votana-shop.gr/proion/mpaxarika/piperi-mayro-skoni-1kg/</Product_Link>
-		<Image_Link>https://i.imgur.com/CZSFj5W.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1342</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Το μαύρο πιπέρι προέρχεται από τις χώρες τις Ασίας και το φυτό του ξεπερνά τα 8 μέτρα σε ύψος. Έχει θερμαντική δράση στον οργανισμό και είναι καλύτερο να χρησιμοποιείται φρεσκοτριμμένο. Το πιπέρι είναι το μπαχαρικό αυτό που, όταν ήρθε στην Ευρώπη, άλλαξε εντελώς την κουζίνα του Δυτικού κόσμου τόσο πολύ όσο κανένα άλλο. Χρησιμοποιείται ως πρώτη ύλη αλλαντοποιίας, και στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μαύρο πιπέρι με δυνατή και πλούσια γεύση.</Description>
-		<Barcode>5213006251146</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>84211</ID>
-		<Name>Σκόρδο Σκόνη Κίνας σε συσκευασία Doypack 1000gr</Name>
-		<Product_Link>https://www.ola-bio.gr/skordo-skoni-vio-chyma-1-kg</Product_Link>
-		<Image_Link>https://i.imgur.com/8QW4Yhu.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>4.47</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1343</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Σκόνη σκόρδου - ιδανική για μαγειρική χρήση, προσφέρει έντονη γεύση και άρωμα σε κάθε πιάτο. Χρησιμοποιήστε το σε σούπες, σάλτσες, μαρινάδες, κρέατα και λαχανικά για να απογειώσετε τη γεύση τους. Κατάλληλο για οικιακή και επαγγελματική χρήση.</Description>
-		<Barcode>5213006250828</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>84231</ID>
-		<Name>Μπαχάρι Μεξικού Τριμμένο σε συσκευασία Doypack 1000gr</Name>
-		<Product_Link>https://thrakiotis.gr/proion/mpachari-se-skoni/</Product_Link>
-		<Image_Link>https://i.imgur.com/WhcK2NW.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>12.75</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1344</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Το μπαχάρι καλλιεργείται στην Κεντρική Αμερική. Είναι ένα μπαχαρικό με ιδιαίτερο και έντονο άρωμα και καυτερή γεύση. Συνδυάζεται με πιπέρι, κανέλα, γαρίφαλο και μοσχοκάρυδο και χρησιμοποιείται στην αλλαντοποιία, την ποτοποιία και στα φαγητά, δίνοντας μια ξεχωριστή γεύση σε σάλτσες, κρεατικά και ψάρια. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπαχάρι με ξεχωριστό άρωμα.</Description>
-		<Barcode>5213006250767</Barcode>
-		<Quantity>4</Quantity>
-	</product>
-	<product>
-		<ID>84242</ID>
-		<Name>Μπούκοβο Γλυκό σε συσκευασία Doypack 1000gr</Name>
-		<Product_Link>https://elmika-eshop.gr/%CE%BC%CF%80%CE%BF%CF%85%CE%BA%CE%BF%CE%B2%CE%BF-%CE%B3%CE%BB%CF%85%CE%BA%CE%BF</Product_Link>
-		<Image_Link>https://i.imgur.com/Zd61Mde.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>8.2</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1345</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Το μπούκοβο είναι ένα μπαχαρικό που προέρχεται από την Μεσόγειο, και αποτελείται από αποξηραμένες νιφάδες πιπεριάς οι οποίες αναδεικνύουν τα φαγητά, κυρίως κρεατικά, σούπες και σαλάτες, όταν θέλουμε να τους δώσουμε μια ξεχωριστή, δυνατή γεύση. Επίσης χρησιμοποιείται ως πρώτη ύλη στην αλλαντοποιία. Το δεύτερο όνομά του είναι «μεσογειακό τσίλι», αλλά μπορείτε να το βρείτε και επεξεργασμένο στην γλυκιά παραλλαγή του. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπούκοβο καυτερό και γλυκό, και τα δύο, με έντονη και γεμάτη γεύση.</Description>
-		<Barcode>5213006251115</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>84271</ID>
-		<Name>Κιτρινόριζα (Κουρκουμάς) Σκόνη Ινδίας σε συσκευασία Doypack 1000gr</Name>
-		<Product_Link>https://healthymarket.gr/product/koyrkoymas-kitrinoriza-skoni/</Product_Link>
-		<Image_Link>https://i.imgur.com/GSgMzkx.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.37</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1346</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Η τριμμένη κιτρινόριζα χρησιμοποιείται στις κουζίνες της Νοτίου Ασίας και της Μέσης Ανατολής, ως συστατικό σε μείγματα κάρι. Η πιο διαδεδομένη χρήση της είναι ως ένα από τα βασικά συστατικά της μουστάρδας.</Description>
-		<Barcode>5213006252075</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>84272</ID>
-		<Name>Μουστάρδα Σκόνη Ινδίας σε συσκευασία Doypack 1000gr</Name>
-		<Product_Link>https://mpaxaraki.gr/moustarda-skoni</Product_Link>
-		<Image_Link>https://i.imgur.com/AcXZDdG.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>5.85</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1347</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Σκόνη μουστάρδας - ιδανική για μαγειρική και επαγγελματική χρήση. Προσθέστε την σε σάλτσες, μαρινάδες, κρέατα και ντρέσινγκ για έντονη γεύση και αρωματική ένταση. Χρησιμοποιείται ευρέως στην παρασκευή μουστάρδας και άλλων καρυκευμάτων.</Description>
-		<Barcode>5213006250873</Barcode>
-		<Quantity>3</Quantity>
-	</product>
-	<product>
 		<ID>84276</ID>
 		<Name>Macao Κουκουνάρι 15gr</Name>
 		<Product_Link>https://e-xpressdelivery.com/product/india-koukounari-15gr-fakelos/</Product_Link>
@@ -25331,96 +25223,6 @@
 		<Description>Κουκουνάρι - πλούσιο σε θρεπτικά συστατικά και ιδανικό για χρήση σε σαλάτες, ζυμαρικά, σάλτσες και αρτοσκευάσματα. Προσθέτει τραγανή υφή και μοναδική γεύση σε κάθε πιάτο.</Description>
 		<Barcode>5203209010497</Barcode>
 		<Quantity>30</Quantity>
-	</product>
-	<product>
-		<ID>84303</ID>
-		<Name>Πάπρικα Καπνιστή σε συσκευασία Doypack 40gr</Name>
-		<Product_Link>https://www.sklavenitis.gr/trofima-pantopoleioy/mpacharika-alatia-xidia-zomoi/mpacharika/mccormick-paprika-kapnisti-40gr-1465832/</Product_Link>
-		<Image_Link>https://i.imgur.com/AX2k8B7.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.04</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1349</MPN>
-		<Weight>0.04 kg</Weight>
-		<Description>Η καπνιστή πάπρικα προέρχεται από πιπεριές που έχουν περάσει από διαδικασία καπνίσματος πριν κονιορτοποιηθούν.</Description>
-		<Barcode>5213006252327</Barcode>
-		<Quantity>7</Quantity>
-	</product>
-	<product>
-		<ID>84331</ID>
-		<Name>Μπαχάρι Σκόνη σε συσκευασία Doypack 30gr</Name>
-		<Product_Link>https://amichailidis.com.gr/product/kagia-mpachari-trimmeno-fakelo-30gr-s24/</Product_Link>
-		<Image_Link>https://i.imgur.com/u4L7wCe.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.77</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1350</MPN>
-		<Weight>0.03 kg</Weight>
-		<Description>Το μπαχάρι καλλιεργείται στην Κεντρική Αμερική. Είναι ένα μπαχαρικό με ιδιαίτερο και έντονο άρωμα και καυτερή γεύση. Συνδυάζεται με πιπέρι, κανέλα, γαρίφαλο και μοσχοκάρυδο και χρησιμοποιείται στην αλλαντοποιία, την ποτοποιία και στα φαγητά, δίνοντας μια ξεχωριστή γεύση σε σάλτσες, κρεατικά και ψάρια. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπαχάρι με ξεχωριστό άρωμα.</Description>
-		<Barcode>5213006252266</Barcode>
-		<Quantity>16</Quantity>
-	</product>
-	<product>
-		<ID>84332</ID>
-		<Name>Μπαχάρι Ολόκληρο σε συσκευασία Doypack 30gr</Name>
-		<Product_Link>https://www.metisesoula.gr/product/%CE%BC%CF%80%CE%B1%CF%87%CE%AC%CF%81%CE%B9-%CE%AC%CE%BA%CE%BF%CF%80%CE%BF/</Product_Link>
-		<Image_Link>https://i.imgur.com/DltzJ6Y.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.77</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1351</MPN>
-		<Weight>0.03 kg</Weight>
-		<Description>Το μπαχάρι καλλιεργείται στην Κεντρική Αμερική. Είναι ένα μπαχαρικό με ιδιαίτερο και έντονο άρωμα και καυτερή γεύση. Συνδυάζεται με πιπέρι, κανέλα, γαρίφαλο και μοσχοκάρυδο και χρησιμοποιείται στην αλλαντοποιία, την ποτοποιία και στα φαγητά, δίνοντας μια ξεχωριστή γεύση σε σάλτσες, κρεατικά και ψάρια. Στα “ΜΠΑΧΑΡΙΚΑ ΑΠΟΣΤΟΛΟΥ” θα βρείτε μπαχάρι με ξεχωριστό άρωμα.</Description>
-		<Barcode>5213006252273</Barcode>
-		<Quantity>5</Quantity>
-	</product>
-	<product>
-		<ID>84391</ID>
-		<Name>Μείγμα Καρυκευμάτων για BBQ σε συσκευασία Doypack 40gr</Name>
-		<Product_Link>https://www.thanopoulos.gr/el/meigmata/4608-anatoli-meigma-gia-psistaria-meigma-mpaxarikon-40g-5201589012278.html</Product_Link>
-		<Image_Link>https://i.imgur.com/FKqRFQ1.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.83</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1352</MPN>
-		<Weight>0.04 kg</Weight>
-		<Description>Μείγμα για BBQ - ένας συνδυασμός μπαχαρικών και αρωματικών για τέλεια μαρινάδα κρεάτων και ψητών. Ιδανικό για να προσθέσετε έντονη, καπνιστή γεύση σε μπριζόλες, κοτόπουλο, ψάρια και λαχανικά.</Description>
-		<Barcode>5213006253102</Barcode>
-		<Quantity>35</Quantity>
-	</product>
-	<product>
-		<ID>84392</ID>
-		<Name>Μείγμα Καρυκευμάτων για Κοτόπουλο σε συσκευασία Doypack 40gr</Name>
-		<Product_Link>https://www.abconline.gr/CHICKEN-SPICE-MIX-40G-33619</Product_Link>
-		<Image_Link>https://i.imgur.com/01KFzsH.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.83</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Μπαχαρικά &amp; Μυρωδικά</Category_Path>
-		<Manufacturer>ΑΠΟΣΤΟΛΟΥ</Manufacturer>
-		<MPN>1353</MPN>
-		<Weight>0.04 kg</Weight>
-		<Description>Μείγμα για κοτόπουλο - ειδικά σχεδιασμένο για να ενισχύσει τη γεύση του κοτόπουλου. Περιέχει αρωματικά βότανα και μπαχαρικά που χαρίζουν πλούσιο άρωμα και νοστιμιά σε ψητά, τηγανητά ή μαγειρευτά πιάτα.</Description>
-		<Barcode>5213006252006</Barcode>
-		<Quantity>31</Quantity>
 	</product>
 	<product>
 		<ID>85001</ID>
