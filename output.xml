@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-08-07 16:05</created_at>
+	<created_at>2025-08-07 16:58</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -231,7 +231,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>184</Quantity>
+		<Quantity>148</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -1054,7 +1054,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>3695</Quantity>
+		<Quantity>3694</Quantity>
 	</product>
 	<product>
 		<ID>130318</ID>
@@ -5079,7 +5079,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>59.11</Price>
+		<Price>59.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Σαμπάνιες</Category_Path>
 		<Manufacturer>MOET</Manufacturer>
@@ -5097,7 +5097,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.34</Price>
+		<Price>7.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>LEGGENDA</Manufacturer>
@@ -5115,7 +5115,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.74</Price>
+		<Price>8.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>MARTINI</Manufacturer>
@@ -5133,7 +5133,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.83</Price>
+		<Price>2.639170182</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>DON SIMON</Manufacturer>
@@ -5151,7 +5151,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.66</Price>
+		<Price>3.876747160000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>CRUZ GARCIA</Manufacturer>
@@ -5169,7 +5169,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.72</Price>
+		<Price>9.826062994</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>Sandeman</Manufacturer>
@@ -5186,7 +5186,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.0079156</Price>
+		<Price>4.05296294</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
@@ -5203,7 +5203,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.74825462</Price>
+		<Price>12.891539813</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ισίδωρου Αρβανίτη</Manufacturer>
@@ -5220,7 +5220,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.42214332</Price>
+		<Price>3.460606818</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΕΠΟΜ</Manufacturer>
@@ -5237,7 +5237,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.20674862</Price>
+		<Price>11.332707913</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΕΠΟΜ</Manufacturer>
@@ -5245,6 +5245,22 @@
 		<Description>Στα στενά σοκάκια της Μυτιλήνης όπου ο αέρας μοσχοβολούσε από αρωματικά βότανα, γεννήθηκε το Ούζο ΜΙΝΙ Μυτιλήνης.  17 μυστικές συνταγές συνδυάστηκαν σε μία, που κρύβει μέσα της την απέραντη γνώση και εμπειρία των δημιουργών της.  Με ρίζες βαθιά στη γη της Μυτιλήνης, το Ούζο ΜΙΝΙ Μυτιλήνης ταξιδεύει σε κάθε γωνιά της Ελλάδας, σε κάθε τόπο όπου υπάρχει Έλληνας, σε στεριά και θάλασσα...</Description>
 		<Barcode>5201304100013</Barcode>
 		<Quantity>26</Quantity>
+	</product>
+	<product>
+		<ID>51501</ID>
+		<Name>Ούζο Βαρβαγιάννη 46% Μπλε 200ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5269425/Varvagianni-Ouzo-46-200ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005269/5269425/xlarge_20210210125255_varvagianni_ouzo_mple_200ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.45</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Βαρβαγιάννη</Manufacturer>
+		<MPN>1421103</MPN>
+		<Description>Το γλυκό άρωμα του γλυκάνισου και των βοτάνων δίνουν στο κλασικό ούζο Βαρβαγιάννη Μπλε ευχάριστη και απαλή γεύση. Πέντε γενιές της οικογένειας Βαρβαγιάννη δημιουργούν με αγάπη και γνώση, το κλασικό ούζο Μπλε, με σεβασμό στην παράδοση που απαιτεί την 100% απόσταξη του ούζου και με την οικογενειακή συνταγή που έφερε ο Ευστάθιος Βαρβαγιάννης το 1860 από τη Ρωσία. Γνήσιο απόσταγμα γλυκάνισου και αρωματικών φυτών, που παράγεται στους 46% Vol. με το μοναδικό νερό του Πλωμαρίου. Το φημισμένο και αγνό Ούζο Βαρβαγιάννη Μπλε έχει ευχάριστο άρωμα, διάφανο χρώμα και απαλή γεύση που χαρίζει στον ουρανίσκο αισθήσεις από ανοιξιάτικη αύρα και ηλιόλουστη θάλασσα.</Description>
+		<Barcode>5201319103047</Barcode>
 	</product>
 	<product>
 		<ID>51801</ID>
@@ -5271,7 +5287,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.2597187032</Price>
+		<Price>1.27543626058</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5289,7 +5305,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.1374522196</Price>
+		<Price>2.16303514444</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5307,7 +5323,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.0224057564</Price>
+		<Price>4.067615959859999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5325,7 +5341,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.70971697</Price>
+		<Price>12.85366019783</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5343,7 +5359,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.2443036432</Price>
+		<Price>1.2501831838</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5361,7 +5377,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.0896655336</Price>
+		<Price>2.11330840683</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5379,7 +5395,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.9252908784</Price>
+		<Price>3.969721316539999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5397,7 +5413,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.365961132</Price>
+		<Price>12.50557303456</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5415,7 +5431,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.313632771652495</Price>
+		<Price>1.32839746931723</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5433,7 +5449,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.128188175497584</Price>
+		<Price>2.152108144352622</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5451,7 +5467,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.471825004911432</Price>
+		<Price>4.522086497797347</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5469,7 +5485,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.293593193652495</Price>
+		<Price>1.30813265461723</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5487,7 +5503,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.108148597497584</Price>
+		<Price>2.131843329652622</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5505,7 +5521,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.394749704911431</Price>
+		<Price>4.444144902797347</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5523,7 +5539,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.588195584450883</Price>
+		<Price>5.651004628253917</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5541,7 +5557,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>47.44524242099999</Price>
+		<Price>47.97850763415001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5558,7 +5574,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.07</Price>
+		<Price>2.090225273937421</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5576,7 +5592,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2</Price>
+		<Price>2.026460619064506</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5594,7 +5610,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.179207759971639</Price>
+		<Price>1.192461575220164</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5612,7 +5628,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.026138056437508</Price>
+		<Price>2.048911023491824</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5630,7 +5646,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.166875711971639</Price>
+		<Price>1.179990920020164</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5648,7 +5664,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.986058900437508</Price>
+		<Price>2.008381394091824</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5666,7 +5682,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.32</Price>
+		<Price>4.894732166</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5684,7 +5700,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.496161059504</Price>
+		<Price>1.5129773008296</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5702,7 +5718,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.20511081984</Price>
+		<Price>5.263614146816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5710,7 +5726,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<Barcode>5202207622015</Barcode>
-		<Quantity>313</Quantity>
+		<Quantity>309</Quantity>
 	</product>
 	<product>
 		<ID>52851</ID>
@@ -5720,7 +5736,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.466718294904</Price>
+		<Price>1.4832036115396</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5738,7 +5754,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.08179033984</Price>
+		<Price>5.138907594816</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΗΔΩΝΙΚΟ</Manufacturer>
@@ -5756,7 +5772,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.843334776699999</Price>
+		<Price>4.897771888204999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
@@ -5774,7 +5790,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.7647179707</Price>
+		<Price>4.818271461305</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΜΠΑΜΠΑΤΖΙΜ</Manufacturer>
@@ -5792,7 +5808,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.32211886608</Price>
+		<Price>1.336978943992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
@@ -5826,7 +5842,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.34593703568</Price>
+		<Price>4.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΚΑΛΑΪΤΖΗ</Manufacturer>
@@ -5843,7 +5859,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.26815478</Price>
+		<Price>19.484720997</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Johnnie Walker</Manufacturer>
@@ -5860,7 +5876,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.24070752</Price>
+		<Price>19.057736607</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Cutty Sark</Manufacturer>
@@ -5877,7 +5893,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.6488715</Price>
+		<Price>18.858477225</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
@@ -5894,7 +5910,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.26955874</Price>
+		<Price>17.463661551</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Grant's</Manufacturer>
@@ -5911,7 +5927,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.5229019</Price>
+		<Price>17.719852185</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Ballantine's</Manufacturer>
@@ -5928,7 +5944,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.33852788</Price>
+		<Price>19.555885062</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Dewar's</Manufacturer>
@@ -5945,7 +5961,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.32445326</Price>
+		<Price>19.541652249</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>HAIG</Manufacturer>
@@ -5962,7 +5978,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.99933304</Price>
+		<Price>21.235356996</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>JAMESON</Manufacturer>
@@ -5979,7 +5995,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.11403594</Price>
+		<Price>18.317630331</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Teacher's</Manufacturer>
@@ -5996,7 +6012,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.42227362</Price>
+		<Price>20.651811663</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Bushmills</Manufacturer>
@@ -6013,7 +6029,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.30897468</Price>
+		<Price>21.548478882</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Tullamore</Manufacturer>
@@ -6030,7 +6046,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>29.64</Price>
+		<Price>29.97</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>CHIVAS</Manufacturer>
@@ -6040,6 +6056,22 @@
 		<Quantity>102</Quantity>
 	</product>
 	<product>
+		<ID>5505002</ID>
+		<Name>Chivas Regal Royal Salute 21 YO The Signature Blend</Name>
+		<Product_Link>https://www.skroutz.gr/s/6130662/Chivas-Regal-Whisky-Skotias-Blended-21-Eton-se-Kouti-40-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/006130/6130662/xlarge_20230922161928_chivas_regal_royal_salute_21_year_old_ruby_flagon_oyiski_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>139.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>CHIVAS</Manufacturer>
+		<MPN>5505002-</MPN>
+		<Description>Χαρακτηρίζεται ως ο αδιαφιλονίκητος ηγέτης στην κατηγορία των ουίσκι άνω των 21 ετών. Οι γλυκές νότες κρέμας και λεβάντας σε συνδυασμό με ίχνη φρέσκων αχλαδιών και πικάντικων φουντουκιών ελευθερώνουν τις αισθήσεις και μας προσκαλούν σε μία απαράμιλλη γευστική εμπειρία. Το βαθύ χρυσό κεχριμπαρί χρώμα του απεικονίζει την ένταση της καπνιστής δρύινης γεύσης του, η οποία ενισχύεται από ένα ισχυρό άρωμα λουλουδιών, αφήνοντας στον ουρανίσκο ένα βελούδινο και κρεμώδες τελείωμα.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>5000299211243</Barcode>
+	</product>
+	<product>
 		<ID>55051</ID>
 		<Name>Johnnie Walker Ουίσκι Σκωτίας Blended Black Label 12 Ετών 40% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4782329/Johnnie-Walker-Black-Label-Oyiski-700ml.html</Product_Link>
@@ -6047,7 +6079,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>30.23</Price>
+		<Price>30.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>JOHNNIE WALKER</Manufacturer>
@@ -6064,7 +6096,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.07</Price>
+		<Price>24.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
@@ -6082,7 +6114,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>26.29</Price>
+		<Price>26.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Ποτά</Category_Path>
 		<Manufacturer>JACK DANIELS</Manufacturer>
@@ -6100,7 +6132,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.79</Price>
+		<Price>17.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Ποτά</Category_Path>
 		<Manufacturer>Absolut</Manufacturer>
@@ -6117,7 +6149,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.92</Price>
+		<Price>18.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Ποτά</Category_Path>
 		<Manufacturer>Stolichnaya</Manufacturer>
@@ -6134,7 +6166,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.03</Price>
+		<Price>17.22</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>FILANDIA</Manufacturer>
@@ -6152,7 +6184,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.15</Price>
+		<Price>13.3</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>LITHUANIAN AMBER</Manufacturer>
@@ -6170,7 +6202,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>44.81</Price>
+		<Price>45.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>OLMECA</Manufacturer>
@@ -6188,7 +6220,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.42</Price>
+		<Price>23.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>EL JIMADOR</Manufacturer>
@@ -6206,7 +6238,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.55</Price>
+		<Price>16.74</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>GORDONS</Manufacturer>
@@ -6223,7 +6255,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.55</Price>
+		<Price>17.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>GORDONS</Manufacturer>
@@ -6241,7 +6273,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.32</Price>
+		<Price>22.829432052</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>TANQUERAY</Manufacturer>
@@ -6258,7 +6290,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>35.59</Price>
+		<Price>38.37166384800001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>TANQUERAY</Manufacturer>
@@ -6276,7 +6308,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.85</Price>
+		<Price>23.101888758</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>TANQUERAY</Manufacturer>
@@ -6294,7 +6326,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.34</Price>
+		<Price>19.555885062</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BEEFEATER</Manufacturer>
@@ -6311,7 +6343,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.56</Price>
+		<Price>23.825728962</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BOMBAY</Manufacturer>
@@ -6328,7 +6360,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>25.7</Price>
+		<Price>25.9867994360436</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BOMBAY</Manufacturer>
@@ -6345,7 +6377,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.3</Price>
+		<Price>36.70903814256801</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BOMBAY</Manufacturer>
@@ -6363,7 +6395,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.6</Price>
+		<Price>21.85</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>THE BLUE BEETLE</Manufacturer>
@@ -6381,7 +6413,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.62</Price>
+		<Price>17.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BICKENS</Manufacturer>
@@ -6399,7 +6431,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.56</Price>
+		<Price>26.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BACARDI</Manufacturer>
@@ -6434,7 +6466,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22</Price>
+		<Price>22.249795998304</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>MOUNT GAY</Manufacturer>
@@ -6452,7 +6484,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>27.52</Price>
+		<Price>27.825149415</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>RON VARADERO</Manufacturer>
@@ -6470,7 +6502,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.65</Price>
+		<Price>19.87171796</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>MATUSALEM</Manufacturer>
@@ -6488,7 +6520,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.17</Price>
+		<Price>20.39453602527456</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BRUGAL</Manufacturer>
@@ -6506,7 +6538,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.49</Price>
+		<Price>21.73484431648085</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>BRUGAL</Manufacturer>
@@ -6524,7 +6556,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.85</Price>
+		<Price>37.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>DIPLOMATICO</Manufacturer>
@@ -6542,7 +6574,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9</Price>
+		<Price>9.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ARTSPITZ</Manufacturer>
@@ -6560,7 +6592,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.7</Price>
+		<Price>10.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>MARTINI</Manufacturer>
@@ -6578,7 +6610,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.22</Price>
+		<Price>1.24</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>UNDERBERG</Manufacturer>
@@ -6596,7 +6628,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.9</Price>
+		<Price>15.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>VANTANA</Manufacturer>
@@ -6614,7 +6646,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.95</Price>
+		<Price>12.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>VANTANA</Manufacturer>
@@ -6632,7 +6664,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.38</Price>
+		<Price>17.577524055</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>DISARONNO</Manufacturer>
@@ -6649,7 +6681,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9</Price>
+		<Price>9.100528407499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>AMARETTO</Manufacturer>
@@ -6667,7 +6699,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9</Price>
+		<Price>9.100528407499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>AMARETTO</Manufacturer>
@@ -6685,7 +6717,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>25.7</Price>
+		<Price>25.985727773</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΠΟΛΥΚΑΛΑΣ</Manufacturer>
@@ -6703,7 +6735,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.24</Price>
+		<Price>13.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>LUCAS BOIS</Manufacturer>
@@ -6721,7 +6753,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.96</Price>
+		<Price>11.08</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>DUBONNET</Manufacturer>
@@ -6739,7 +6771,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.26</Price>
+		<Price>20.483051166</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>GREEN FAIRY</Manufacturer>
@@ -6757,7 +6789,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.38</Price>
+		<Price>17.58016568203663</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>FRANGELICO</Manufacturer>
@@ -6775,7 +6807,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.23</Price>
+		<Price>14.388018437</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Mavi</Manufacturer>
@@ -6792,7 +6824,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.34</Price>
+		<Price>14.503236447</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Passoa</Manufacturer>
@@ -6802,24 +6834,6 @@
 		<Quantity>11</Quantity>
 	</product>
 	<product>
-		<ID>555511</ID>
-		<Name>EOLIKI MENTA ΠΡΑΣΙΝΗ 25%Vol 700ML</Name>
-		<Product_Link>https://www.skroutz.gr/s/54216473/Eoliki-Liker-700ml.html</Product_Link>
-		<Image_Link>https://www.skroutz.gr/s/54216473/Eoliki-Liker-700ml.html</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>8</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>EOLIKI</Manufacturer>
-		<MPN>1222</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Eoliki Menta Πράσινη 25% Vol 700ml είναι ένα λικέρ με έντονη γεύση δροσερής μέντας και ζωηρό πράσινο χρώμα. Ιδανικό για να απολαύσετε σκέτο με πάγο, ως συστατικό σε κοκτέιλ, ή ως γαρνιτούρα σε γλυκά και επιδόρπια, προσφέρει μια αναζωογονητική και αρωματική εμπειρία.</Description>
-		<Barcode>5201304300338</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>55561</ID>
 		<Name>VOLARE BLUE CURACAO 700ml</Name>
 		<Product_Link>https://www.wine-searcher.com/find/volpare+blue+curacao+liqueur+italy/1/europe</Product_Link>
@@ -6827,7 +6841,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9</Price>
+		<Price>9.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>VOLARE</Manufacturer>
@@ -6845,7 +6859,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9</Price>
+		<Price>9.1</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>VOLARE</Manufacturer>
@@ -6856,24 +6870,6 @@
 		<Quantity>1</Quantity>
 	</product>
 	<product>
-		<ID>55572</ID>
-		<Name>VOLARE ΡΟΔΑΚΙΝΟ ΛΙΚΕΡ 700ml</Name>
-		<Product_Link>https://caskcartel.com/products/volare-peach-fruit-liqueur-700ml</Product_Link>
-		<Image_Link>https://caskcartel.com/cdn/shop/products/volare-peach-liqueur_700x.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>VOLARE</Manufacturer>
-		<MPN>1206</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Volare Ροδάκινο Λικέρ 700ml είναι ένα λικέρ με πλούσια και αρωματική γεύση ώριμου ροδάκινου. Ιδανικό για την παρασκευή δροσιστικών κοκτέιλ, όπως το Bellini, ή για απόλαυση σκέτο με πάγο. Η έντονη γεύση φρούτου προσδίδει ζωντάνια σε κάθε ποτό ή επιδόρπιο.</Description>
-		<Barcode>8004747008710</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>559023</ID>
 		<Name>ΚΑΛΛΙΚΟΥΝΗΣ ΣΙΡΟΠΙ ΓΙΑ ΚΟΚΤΕΙΛ ΜΕ ΓΕΥΣΗ ΓΡΕΝΑΔΙΝΗ 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22757115/Marie-Brizard-Siropi-gia-Kokteil-me-Geysi-Grenadini-700ml.html</Product_Link>
@@ -6881,7 +6877,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.79</Price>
+		<Price>1.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>ΚΑΛΛΙΚΟΥΝΗΣ</Manufacturer>
@@ -6899,7 +6895,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>10.62</Price>
+		<Price>10.772933535</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -6916,7 +6912,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -6934,7 +6930,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -6952,7 +6948,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -6969,7 +6965,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -6986,7 +6982,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>11.63</Price>
+		<Price>11.798927205</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -7003,7 +6999,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>17.53</Price>
+		<Price>17.7900428475</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -7020,7 +7016,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>17.53</Price>
+		<Price>17.7900428475</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -7037,7 +7033,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>17.53</Price>
+		<Price>17.7900428475</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
 		<Manufacturer>MONIN</Manufacturer>
@@ -7694,7 +7690,7 @@
 		<MPN>0629</MPN>
 		<Description>Ξυραφάκια μιας χρήσεως από ανοξείδωτο ατσάλι, μονής λεπίδας, με επικάλυψη πολυμερούς και χρωμίου. Προσαρμοσμένο για ευαίσθητες επιδερμίδες. Με λευκή πολυεστερική σταθερή κεφαλή.</Description>
 		<Barcode>5201313008652</Barcode>
-		<Quantity>227</Quantity>
+		<Quantity>226</Quantity>
 	</product>
 	<product>
 		<ID>62052</ID>
@@ -10486,7 +10482,7 @@
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
 		<Barcode>5203650710286</Barcode>
-		<Quantity>2162</Quantity>
+		<Quantity>2161</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -11218,7 +11214,7 @@
 		<MPN>101105086</MPN>
 		<Description>Περιγραφή   Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες ακόμη και σε χαμηλές θερμοκρασίες χάρη στα ένζυμα και στη δράση των οπτικών λαπριντικών που υπάρχουν στη σύνθεση του προϊόντος τα υφάσματα είναι πιο καθαρά και φωτεινά. Είναι ιδανικό για την απομάκρυνση ενζυμικών και σωματιδιακών λεκέδων. Πλεονεκτήματα       Αφαιρεί σκληρούς λεκέδες ακόμη και σε χαμηλές θερμοκρασίες και σύντομο κύκλο πλύσης     Βιολογική δράση: περιέχει ένζυμα που είναι ιδιαίτερα αποτελεσματικά συστατικά στην αφαίρεση λεκέδων  Οδηγίες χρήσης       Μην υπερφορτώνετε το πλυντήριο ρούχων σας.     Ελέγχετε πάντα την ετικέτα φροντίδας του υφάσματος και ακολουθήστε τις οδηγίες πλύσης.     Ξεχωρίστε τον ιματισμό σας σε λευκό, ανοιχτόχρωμο και έγχρωμο.     Για μάλλινα και μεταξωτά ρούχα που πλένονται στο πλυντήριο, συνιστούμε να χρησιμοποιείτε ένα ειδικό προϊόν.     Ελέγχετε πάντα τη σταθερότητα του χρώματος πριν από την προεπεξεργασία των λεκέδων με καθαρό υγρό.     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία.</Description>
 		<Barcode>7615400818112</Barcode>
-		<Quantity>252</Quantity>
+		<Quantity>246</Quantity>
 	</product>
 	<product>
 		<ID>712321</ID>
@@ -18062,7 +18058,7 @@
 		<MPN>1570</MPN>
 		<Description>Αντικολλητικό χαρτί κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 20εκ.    Μήκος(εκατοστά): 20εκ.    Τεμάχια: 25τμχ</Description>
 		<Barcode>5202054473563</Barcode>
-		<Quantity>129</Quantity>
+		<Quantity>125</Quantity>
 	</product>
 	<product>
 		<ID>78931</ID>
@@ -23392,7 +23388,7 @@
 		<MPN>1563</MPN>
 		<Description>Power bank SILICON POWER QS58    Χωρητικότητα: 20000mAh    Είσοδος USB-C: 5V/2.5A, 9V/2A (PD), 12V/1.5A    Έξοδος USB 1: 5V/3A, 9V/2A, 12V/1.5A    Έξοδος USB 2: 5V/3A, 9V/2A, 12V/1.5A    Έξοδος USB-C: 5V/3A, 9V/2.2A, 12V/1.6A    Συνολική έξοδος: 5V/3A Max    Χρόνος φόρτισης power bank: ~6 ώρες    Υλικό: ABS + PC    Διαστάσεις: ~120 x 72 x 30mm    Βάρος: ~315g    Χρώμα: Μαύρο</Description>
 		<Barcode>4713436149354</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995396701</ID>
@@ -26670,7 +26666,7 @@
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<Barcode>5202546009379</Barcode>
-		<Quantity>1048</Quantity>
+		<Quantity>1047</Quantity>
 	</product>
 	<product>
 		<ID>99002</ID>
@@ -26778,7 +26774,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
 		<Barcode>8007520011549</Barcode>
-		<Quantity>1263</Quantity>
+		<Quantity>1239</Quantity>
 	</product>
 	<product>
 		<ID>99101</ID>
