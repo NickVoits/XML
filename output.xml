@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-08-12 16:05</created_at>
+	<created_at>2025-08-12 16:58</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -231,7 +231,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>847</Quantity>
+		<Quantity>846</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -357,7 +357,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<Barcode>5201275610672</Barcode>
-		<Quantity>138</Quantity>
+		<Quantity>133</Quantity>
 	</product>
 	<product>
 		<ID>11035</ID>
@@ -446,7 +446,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171331237</Barcode>
-		<Quantity>185</Quantity>
+		<Quantity>183</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -464,7 +464,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
 		<Barcode>5201171331220</Barcode>
-		<Quantity>167</Quantity>
+		<Quantity>164</Quantity>
 	</product>
 	<product>
 		<ID>11532</ID>
@@ -482,7 +482,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>131</Quantity>
+		<Quantity>129</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -500,7 +500,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
 		<Barcode>5201171331244</Barcode>
-		<Quantity>111</Quantity>
+		<Quantity>105</Quantity>
 	</product>
 	<product>
 		<ID>11541</ID>
@@ -659,7 +659,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000283870</Barcode>
-		<Quantity>92</Quantity>
+		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>1202186</ID>
@@ -2058,7 +2058,7 @@
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345108</Barcode>
-		<Quantity>1211</Quantity>
+		<Quantity>1181</Quantity>
 	</product>
 	<product>
 		<ID>20403</ID>
@@ -2735,7 +2735,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100189</Barcode>
-		<Quantity>945</Quantity>
+		<Quantity>941</Quantity>
 	</product>
 	<product>
 		<ID>40422</ID>
@@ -5194,7 +5194,7 @@
 		<MPN>1420</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Αλκοολικός Βαθμός: 40%    Ποσότητα: 200ml    Χώρα Προέλευσης: Ελλάδα    Παραγωγός: Ισίδωρος Αρβανίτης</Description>
 		<Barcode>5202413002014</Barcode>
-		<Quantity>1179</Quantity>
+		<Quantity>1155</Quantity>
 	</product>
 	<product>
 		<ID>51303</ID>
@@ -5297,7 +5297,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000424</Barcode>
-		<Quantity>493</Quantity>
+		<Quantity>301</Quantity>
 	</product>
 	<product>
 		<ID>52102</ID>
@@ -5315,7 +5315,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>2265</Quantity>
+		<Quantity>2169</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5369,7 +5369,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000417</Barcode>
-		<Quantity>1371</Quantity>
+		<Quantity>1203</Quantity>
 	</product>
 	<product>
 		<ID>52152</ID>
@@ -5387,7 +5387,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>2125</Quantity>
+		<Quantity>2005</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5902,7 +5902,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<Barcode>5010314700003</Barcode>
-		<Quantity>118</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>55004</ID>
@@ -5970,7 +5970,7 @@
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
 		<Barcode>5000281002538</Barcode>
-		<Quantity>88</Quantity>
+		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>55008</ID>
@@ -6055,7 +6055,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<Barcode>080432402931</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>58</Quantity>
 	</product>
 	<product>
 		<ID>5505002</ID>
@@ -6089,7 +6089,7 @@
 		<MPN>1496</MPN>
 		<Description>Κάθε μπουκάλι Johnnie Walker Black Label επεξεργάζεται επί δύο δεκαετίες και περιέχει ουίσκι από τα πιο επιλεγμένα αποστακτήρια της Σκωτίας, παλαιωμένο στα καλύτερα βαρέλια.</Description>
 		<Barcode>5000267024202</Barcode>
-		<Quantity>197</Quantity>
+		<Quantity>194</Quantity>
 	</product>
 	<product>
 		<ID>550531</ID>
@@ -6248,7 +6248,7 @@
 		<MPN>1497</MPN>
 		<Description>Το Gordon’s είναι το πρώτο London Dry Gin με την αυθεντική Λονδρέζικη μυστική συνταγή από το 1769, η ποιότητά του χαρακτηρίζεται και από τη μεγάλη περιεκτικότητα σε κέδρο, χαρίζοντάς του μοναδική αυθεντική αναζωογονητική γεύση. Κατά τη διαδικασία επιλογής των βοτάνων, 9 στους 10 καρπούς κέδρου απορρίπτονται, ενώ κατά την απόσταξη, χρησιμοποιούνται ολόκληρα βότανα, όχι εκχυλίσματα.</Description>
 		<Barcode>5000289925440</Barcode>
-		<Quantity>58</Quantity>
+		<Quantity>57</Quantity>
 	</product>
 	<product>
 		<ID>553012</ID>
@@ -7658,7 +7658,7 @@
 		<MPN>1535001</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Ανταλλακτικές Κεφαλές     Με 5 Λεπίδες     Με Λεπίδα Ακριβείας στο Πίσω Μέρος     Με Λιπαντική Ταινία που Ξεθωριάζει     Για Απαλό Ξύρισμα</Description>
 		<Barcode>8700216331579</Barcode>
-		<Quantity>192</Quantity>
+		<Quantity>193</Quantity>
 	</product>
 	<product>
 		<ID>62051</ID>
@@ -13452,7 +13452,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
 		<Barcode>5205376018993</Barcode>
-		<Quantity>2097</Quantity>
+		<Quantity>2096</Quantity>
 	</product>
 	<product>
 		<ID>75201</ID>
@@ -16222,7 +16222,7 @@
 		<MPN>E-1810wh</MPN>
 		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
 		<Barcode>5203642118101</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>6</Quantity>
 	</product>
 	<product>
 		<ID>7715006102</ID>
@@ -17380,7 +17380,7 @@
 		<MPN>0674</MPN>
 		<Description>Πλαστικό σκεύος μιας χρήσης χωρητικότητας 1000ml με αποσπώμενο καπάκι, ιδανικό για συσκευασία ζεστών φαγητών. Μπορεί να χρησιμοποιηθεί για να ζεσταθεί σε φούρνο μικροκυμμάτων. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
 		<Barcode>5200425302986</Barcode>
-		<Quantity>418</Quantity>
+		<Quantity>420</Quantity>
 	</product>
 	<product>
 		<ID>785211</ID>
@@ -18947,7 +18947,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -18964,7 +18964,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -18981,7 +18981,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -18998,7 +18998,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19015,7 +19015,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19032,7 +19032,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19049,7 +19049,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19066,7 +19066,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19083,7 +19083,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19100,7 +19100,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19117,7 +19117,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19134,7 +19134,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.96</Price>
+		<Price>1.9897003668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Αρχειοθέτησης &gt; Κλασέρ</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19151,7 +19151,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.19</Price>
+		<Price>0.1891111775553</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Χαρτοταινίες Ταμειακής</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19168,7 +19168,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.27836746223104</Price>
+		<Price>0.286895572541578</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Χαρτοταινίες Ταμειακής</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19185,7 +19185,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.03</Price>
+		<Price>1.04838408111437</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Χαρτοταινίες Ταμειακής</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -19202,7 +19202,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.49</Price>
+		<Price>2.543379748</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19219,7 +19219,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.35</Price>
+		<Price>5.464441827</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>ARIA TRADE</Manufacturer>
@@ -19236,7 +19236,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.3</Price>
+		<Price>7.453250051</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19253,7 +19253,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.3</Price>
+		<Price>7.453250051</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>ARIA TRADE</Manufacturer>
@@ -19270,7 +19270,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.3</Price>
+		<Price>7.453250051</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19287,7 +19287,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.3</Price>
+		<Price>7.453250051</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19304,7 +19304,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.95</Price>
+		<Price>11.182265471</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19321,7 +19321,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.95</Price>
+		<Price>11.182265471</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19338,7 +19338,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.95</Price>
+		<Price>11.182265471</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19356,7 +19356,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.48</Price>
+		<Price>14.786980377</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>ARIA TRADE</Manufacturer>
@@ -19374,7 +19374,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.69</Price>
+		<Price>21.126306591</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19392,7 +19392,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>42.85</Price>
+		<Price>43.74421934999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικος Φωτισμός &gt; Χριστουγεννιάτικα Λαμπάκια</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19409,7 +19409,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.73</Price>
+		<Price>4.823694506944445</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>ARIA TRADE</Manufacturer>
@@ -19426,7 +19426,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.42</Price>
+		<Price>14.71689370666667</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19443,7 +19443,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.8</Price>
+		<Price>37.55345290666666</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>ARIA TRADE</Manufacturer>
@@ -19460,7 +19460,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>55.64</Price>
+		<Price>56.77422356666666</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19477,7 +19477,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>221.48</Price>
+		<Price>225.98678375</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19494,7 +19494,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>218.93</Price>
+		<Price>223.3883932</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19511,7 +19511,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>100.61</Price>
+		<Price>102.6560065853046</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19528,7 +19528,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>134.04</Price>
+		<Price>136.769316140256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19545,7 +19545,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>182.1086109124024</Price>
+		<Price>185.8153160005502</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19562,7 +19562,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>272.81630457992</Price>
+		<Price>278.3693071493729</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19579,7 +19579,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>219.2048338657125</Price>
+		<Price>223.6666090061943</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -19596,7 +19596,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>280.5372388810993</Price>
+		<Price>286.2473961634241</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
 		<Manufacturer>THIREA</Manufacturer>
@@ -20395,7 +20395,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.84</Price>
+		<Price>5.9513607335</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Πρίζες &amp; Διακόπτες&gt; Διακόπτες Τοίχου</Category_Path>
 		<Manufacturer>Sonoff</Manufacturer>
@@ -20412,7 +20412,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.69</Price>
+		<Price>3.728849136</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ηλεκτρολογικά &amp; Αυτοματισμοί &gt; Πολύπριζα &amp; Ταφ</Category_Path>
 		<Manufacturer>LIME</Manufacturer>
@@ -20429,7 +20429,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.07</Price>
+		<Price>5.34291975</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ηλεκτρολογικά &amp; Αυτοματισμοί &gt; Πολύπριζα &amp; Ταφ</Category_Path>
 		<Manufacturer>LIME</Manufacturer>
@@ -20446,7 +20446,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.72</Price>
+		<Price>6.02138575</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ηλεκτρολογικά &amp; Αυτοματισμοί &gt; Πολύπριζα &amp; Ταφ</Category_Path>
 		<Manufacturer>LIME</Manufacturer>
@@ -20463,7 +20463,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.33489</Price>
+		<Price>17.6217485</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ηλεκτρολογικά Είδη &gt; Μπαλαντέζες</Category_Path>
 		<Manufacturer>LIME</Manufacturer>
@@ -20480,7 +20480,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.30369</Price>
+		<Price>24.7058685</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ηλεκτρολογικά Είδη &gt; Μπαλαντέζες</Category_Path>
 		<Manufacturer>LIME</Manufacturer>
@@ -20497,7 +20497,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>37.80574</Price>
+		<Price>38.43135100000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ηλεκτρολογικά Είδη &gt; Μπαλαντέζες</Category_Path>
 		<Manufacturer>LIME</Manufacturer>
@@ -20514,7 +20514,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>62.70182179333295</Price>
+		<Price>63.73941421802689</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ηλεκτρολογικά Είδη &gt; Μπαλαντέζες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20548,7 +20548,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.2823073047088</Price>
+		<Price>1.29883430013512</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20565,7 +20565,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.9500256219975</Price>
+		<Price>1.975158493359625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20575,23 +20575,6 @@
 		<Quantity>387</Quantity>
 	</product>
 	<product>
-		<ID>7975002</ID>
-		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες AA 1.5V 4τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/27859797/Eurolamp-Extreme-Alkalikes-Mpataries-AA-1-5V-4tmch.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/027859/27859797/20210419125306_eurolamp_extreme_aa_4tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.3229686984928</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1611</MPN>
-		<Description>Αλκαλικές μπαταρίες της Eurolamp μεγέθους ΑΑ, ιδανικές για τηλεχειριστήρια, φακούς κι άλλες οικιακές μικροσυσκευές.</Description>
-		<Barcode>5207227115370</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>79750021</ID>
 		<Name>Eurolamp Extreme Αλκαλικές Μπαταρίες AA 1.5V 8 τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/27859801/Eurolamp-Extreme-Alkalikes-Mpataries-AA-1-5V-8tmch.html</Product_Link>
@@ -20599,7 +20582,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.950034295503</Price>
+		<Price>1.97516727865345</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20616,7 +20599,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.4408156014751001</Price>
+		<Price>0.4464970456988651</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Μπαταρίες Ρολογιών</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20633,7 +20616,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.4408156014751001</Price>
+		<Price>0.4464970456988651</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Μπαταρίες Ρολογιών</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20650,7 +20633,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.4408156014751001</Price>
+		<Price>0.4464970456988651</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Μπαταρίες Ρολογιών</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -20667,7 +20650,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9443648836285714</Price>
+		<Price>0.9565363140300001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -20684,7 +20667,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.017619123628571</Price>
+		<Price>1.03073469003</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -20701,7 +20684,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.496906790685714</Price>
+		<Price>1.51619964786</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -20718,7 +20701,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.660205915909091</Price>
+		<Price>1.681603451022727</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -20735,7 +20718,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.471428795909091</Price>
+		<Price>2.503281763022727</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>PANASONIC</Manufacturer>
@@ -20752,7 +20735,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.95</Price>
+		<Price>0.9632287670874999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>Maxell</Manufacturer>
@@ -20769,7 +20752,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1</Price>
+		<Price>1.0090531344875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>Maxell</Manufacturer>
@@ -20786,7 +20769,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.32</Price>
+		<Price>1.3399677088</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>Varta</Manufacturer>
@@ -20803,7 +20786,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.43</Price>
+		<Price>1.4442576484</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Μπαταρίες &amp; Αξεσουάρ &gt; Αλκαλικές Μπαταρίες</Category_Path>
 		<Manufacturer>Energizer</Manufacturer>
@@ -20820,7 +20803,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.47</Price>
+		<Price>1.494769625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20837,7 +20820,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.47</Price>
+		<Price>1.494769625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20854,7 +20837,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.47</Price>
+		<Price>1.494769625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20871,7 +20854,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.47</Price>
+		<Price>1.494769625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -20888,7 +20871,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.27</Price>
+		<Price>11.269175826288</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Entac</Manufacturer>
@@ -20905,7 +20888,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.47</Price>
+		<Price>2.50417876</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -20922,7 +20905,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.43</Price>
+		<Price>2.4322891338</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Entac</Manufacturer>
@@ -20939,7 +20922,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.98</Price>
+		<Price>4.977080608656</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Εξαρτήματα Εργαλείων&gt;Φακοί Φωτισμού</Category_Path>
 		<Manufacturer>Entac</Manufacturer>
@@ -20956,7 +20939,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.550414079999998</Price>
+		<Price>6.658032191999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20973,7 +20956,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.550414079999998</Price>
+		<Price>6.658032191999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20990,7 +20973,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.1123096</Price>
+		<Price>11.29487604</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21007,7 +20990,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.1123096</Price>
+		<Price>11.29487604</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21024,7 +21007,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.1880176</Price>
+		<Price>8.32254024</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21041,7 +21024,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.1880176</Price>
+		<Price>8.32254024</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21058,7 +21041,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.697168</Price>
+		<Price>11.8893432</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21075,7 +21058,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.697168</Price>
+		<Price>11.8893432</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21092,7 +21075,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.697168</Price>
+		<Price>11.8893432</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21109,7 +21092,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.45</Price>
+		<Price>4.526835970111111</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21126,7 +21109,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.45</Price>
+		<Price>4.526835970111111</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21143,7 +21126,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.89</Price>
+		<Price>7.01</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εξωτερικού Χώρου&gt; Ηλιακά Φωτιστικά</Category_Path>
 		<Manufacturer>Modee Lighting</Manufacturer>
@@ -21262,7 +21245,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.58</Price>
+		<Price>17.7723</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21280,7 +21263,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.58</Price>
+		<Price>17.7723</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21297,7 +21280,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.79</Price>
+		<Price>24.1297056</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21348,7 +21331,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.39</Price>
+		<Price>5.44757668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt;Συσκευές Επεξεργασίας Τροφίμων &gt; Ζυγαριές Κουζίνας</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21365,7 +21348,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.39</Price>
+		<Price>5.44757668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt;Συσκευές Επεξεργασίας Τροφίμων &gt; Ζυγαριές Κουζίνας</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21382,7 +21365,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.99</Price>
+		<Price>13.13354338942464</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Τοστιέρες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -21399,7 +21382,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.52</Price>
+		<Price>19.73611094</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Επιτραπέζιες Εστίες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21416,7 +21399,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.75</Price>
+		<Price>17.94534014</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Επιτραπέζιες Εστίες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21433,7 +21416,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>33.31</Price>
+		<Price>33.67946764</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Φριτέζες Λαδιού</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21450,7 +21433,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.25</Price>
+		<Price>12.389832</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21467,14 +21450,14 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.76</Price>
+		<Price>14.928732</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-2461</MPN>
 		<Description>Ηλεκτρικό μπρίκι μεταλλικό για 8 φλυτζάνια με ενδεικτική λυχνία στη βάση,εξαιρετικής αισθητικής.      Με χερούλι που δεν καίει.     Λάμπα on-off.     Με αποσπώμενη βάση.     Από ανοξείδωτο ατσάλι.     Καλυμμένη αντίσταση.     Δυνατότητα περιστροφής 360°.</Description>
 		<Barcode>5203642124614</Barcode>
-		<Quantity>58</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>7991711</ID>
@@ -21501,7 +21484,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.51</Price>
+		<Price>19.72349166666667</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21518,7 +21501,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.62</Price>
+		<Price>18.83077681333333</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21535,7 +21518,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.03</Price>
+		<Price>7.10892</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21552,7 +21535,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.04</Price>
+		<Price>7.119251128888888</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21569,14 +21552,14 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.46</Price>
+		<Price>7.54199992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt;Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες Αυγών</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKE001</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας, από την εταιρία Esperanza, μπορεί να βράσει, αυγά, γρήγορα και εύκολα. Διαθέτει 7 θέσεις για το βράσιμο των αυγών, χωρίς να χρειάζεται παρακολούθηση.  7 θέσεις για βράσιμο αυγών Διάφανο καπάκι Ενδεικτική λυχνία λειτουργίας Κουμπί ON / OFF Αυτόματη απενεργοποίηση όταν τα αυγά είναι έτοιμα Τροφοδοσία: 230 V, 50 Hz Κατανάλωση ισχύος: 350 W Μήκος καλωδίου τροφοδοσίας: 55 cm</Description>
 		<Barcode>5901299954188</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>799175101</ID>
@@ -21586,7 +21569,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.1</Price>
+		<Price>15.27151171</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt;Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Μηχανές Ποπ-Κορν</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21603,7 +21586,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.47</Price>
+		<Price>17.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Καφετιέρες Φίλτρου</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -21637,7 +21620,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.59</Price>
+		<Price>7.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Σιδερώματος &gt; Σίδερα Ταξιδίου</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21654,7 +21637,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.7429130480555</Price>
+		<Price>12.90526694140848</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -21671,7 +21654,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.72</Price>
+		<Price>13.89775725</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21688,7 +21671,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.98116890553446</Price>
+		<Price>18.2102619526142</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -21698,40 +21681,6 @@
 		<Quantity>9</Quantity>
 	</product>
 	<product>
-		<ID>7992003</ID>
-		<Name>Eurolamp Θερμάστρα Χαλαζία με Θερμοστάτη 2800W έως 30m² Μαύρη</Name>
-		<Product_Link>https://www.skroutz.gr/s/25019051/Eurolamp-300-41402-Sompa-CHalazia-me-THermostati-2800W.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/025019/25019051/20240212162838_eurolamp_300_41402_sompa_chalazia_me_thermostati_2800w.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>39.40377904086651</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1627</MPN>
-		<Description>Τάση Τροφοδοσίας (V): 220-240V    Ονομαστική Ισχύς (W): 2800W    Συχνότητα Λειτουργίας (Hz): 50-60Hz    Βαθμός Στεγανότητας (IP): IP20    Καθαρό Βάρος Προϊόντος (kg): 2.9kg    Ύψος: 52cm    Πλάτος: 19.5cm    Μήκος: 48.5cm    Χρώμα Προϊόντος: Μαυρο     Υλικό Κατασκευής Προϊόντος: Πλαστικο &amp; Αλουμινιο    Διακόπτης Ασφαλείας: Ναι     Θερμοστάτης: Ναι    Θερμαντικό Στοιχείο: Λάμπα Χαλαζία    Κάλυψη Χώρου: 30m²    Λαβές Μεταφοράς: Ναι</Description>
-		<Barcode>5207227106866</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7992021</ID>
-		<Name>Eurolamp 920-29677 Κεραμική Σόμπα Υγραερίου 4200W Οβάλ με Αερόθερμο 1500W και Regulator Μαύρη</Name>
-		<Product_Link>https://www.skroutz.gr/s/48121475/Eurolamp-920-29677-Sompa-Ygraeriou-4200W-Mayri-xx.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/048121/48121475/20231228160516_eurolamp_920_29677_sompa_ygraeriou_4200w_mayri_xx.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>91.14560186919076</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Υγραερίου Εσωτερικού Χώρου</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1664</MPN>
-		<Description>ΣΟΜΠΑ ΥΓΡΑΕΡΙΟΥ ΜΑΥΡΗ 4.2KW ΟΒΑΛ ΜΕ ΑΕΡΟΘΕΡΜΟ 1500W, TURBO FAN ΚΑΙ REGULATOR    Ονομαστική Ισχύς: 1.5/2.9/4.2kW    Συχνότητα Λειτουργίας: 50Hz    Καθαρό Βάρος Προϊόντος: 10,05kg    Μεικτό Βάρος Προϊόντος: 11,20kg    Ταχύτητες: 2 επιλογές έντασης αερόθερμου 750W / 1500W και 1 Turbo Fan    Διαστάσεις: Ύψος 72cm, Πλάτος 39cm, Μήκος 42cm    Στάθμη Έντασης Ήχου: 0dB    Χρώμα: Μαύρο    Υλικό Κατασκευής: Χάλυβας με Ηλεκτροστατική Πούδρα    Διακόπτης Ασφαλείας: Ναι    Θερμοστάτης: Ρυθμιζόμενος    Θερμαντικό Στοιχείο: 3 Κεραμικές Πλάκες    Κάλυψη Χώρου: 20-100m²    Λαβές Μεταφοράς: Ναι    Ροδάκια για Εύκολη Μετακίνηση: Ναι    Κιβωτοποίηση: 1 τεμ    Εγγύηση: 2 Χρόνια    Πιστοποιητικά: Ναι    Ένδειξη CE: Ναι    Κατανάλωση: 110/210/305g/h    Γενικές Πληροφορίες: Πιεζοηλεκτρική Ανάφλεξη    Γενικές Πληροφορίες: Σύστημα Αποφυγής Εξάντλησης του Οξυγόνου    Γενικές Πληροφορίες: Σύστημα Προστασίας από Αστοχία Ανάφλεξης    Γενικές Πληροφορίες: Με ενσωματωμένο αερόθερμο και Turbo Fan λειτουργία για επιπλέον θέρμανση</Description>
-		<Barcode>5207227258374</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>7992025</ID>
 		<Name>Eurolamp Σόμπα Μανιτάρι Υγραερίου με Απόδοση 13kW  έως 20m² Μαύρη</Name>
 		<Product_Link>https://www.skroutz.gr/s/13028307/Eurolamp-Sompa-Manitari-Ygraeriou-me-Apodosi-13-5kW-147-29600.html</Product_Link>
@@ -21739,7 +21688,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>115.8680795506161</Price>
+		<Price>117.3443223656956</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Θέρμανση Επαγγελματικών Χώρων &gt; Σόμπες / Θερμάστρες Εξωτερικού Χώρου</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -21756,7 +21705,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>68.54</Price>
+		<Price>69.42362399051851</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Ποιότητας Αέρα &gt; Υγραντήρες - Ιονιστές</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21773,7 +21722,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.54</Price>
+		<Price>20.86331054422222</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Ηλεκτρικές Εντομοπαγίδες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21790,7 +21739,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.47</Price>
+		<Price>13.63962588281481</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Ηλεκτρικές Εντομοπαγίδες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21800,23 +21749,6 @@
 		<Quantity>23</Quantity>
 	</product>
 	<product>
-		<ID>799220101</ID>
-		<Name>Eurolamp Φ10 Ανεμιστηράκι Χειρός USB 4 σε 1 Επαναφορτιζόμενο 2200mAh, Power Bank, Φακός και Bluetooth Ηχείο Μαύρο 300-20521</Name>
-		<Product_Link>https://www.skroutz.gr/s/35661314/Eurolamp-F10-Anemistiraki-CHeiros-USB-Epanafortizomeno-2200mAh-me-Power-Bank-kai-Fotismo-Mayro.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/035661/35661314/xlarge_20230704171058_eurolamp_f10_anemistiraki_cheiros_usb_epanafortizomeno_2200mah_me_power_bank_kai_fotismo_mayro.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.51</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Οικιακοί Ανεμιστήρες &gt; Ανεμιστήρες</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>300-20521</MPN>
-		<Description>Επαναφορτιζόμενος ανεμιστήρας χειρός 4 σε 1, σε μαύρο χρώμα και σύνδεση USB. Περιέχει ηχείο Bluetooth για αναπαραγωγή μουσικής και LED φακό, ενώ λειτουργεί και σαν Power Bank. Διαθέτει 4 φτερωτές με διάμετρο Φ10, 3 σκάλες με μέγιστη ταχύτητα περιστροφής 3700rpm και απόδοση 8W. Ενσωματωμένη μπαταρία li-ion χωρητικότητας 2200mAh και αυτονομίας έως 4.5 ώρες. Καθαρό βάρος 0.38kg, ήχος λειτουργίας έως 30dB. Εγγύηση 2 έτη by Eurolamp.     Τάση Τροφοδοσίας (V): DC5V     Ονομαστική Ισχύς (W): 8W     Ταχύτητες: 3     Ύψος : 235mm     Διάμετρος: Φ10     Πλάτος : 40mm     Μήκος: 37mm     Στροφές : 2400/3300/3700     Αριθμός Φτερωτών: 4     Λυχνία Ένδειξης Λειτουργίας: 4 LED     Τύπος Μπαταρίας: 18650 li-ion battery     Χρόνος Φόρτισης Μπαταρίας: 1.5-2.5 hours     Αυτονομία Μπαταρίας: 2.5-4.5hours     Τύπος Σύνδεσης: USB / Micro USB     Φώτα: LED     Ηχείο / Bluethooth Speaker     Power Bank     Φακός LED / Lamp LED</Description>
-		<Barcode>5207227150142</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>799220300</ID>
 		<Name>Ανεμιστήρας Ορθοστάτης 45W Διαμέτρου 41cm, 3 Ταχυτήτων με Περιστροφή Λευκός E-2702</Name>
 		<Product_Link>https://www.skroutz.gr/s/23235142/Sidirela-E-2702-Anemistiras-Orthostatis-50W-Diametrou-40cm-Black.html#reviews</Product_Link>
@@ -21824,7 +21756,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.11</Price>
+		<Price>18.3434874</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Οικιακοί Ανεμιστήρες &gt; Ανεμιστήρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21841,7 +21773,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>39.95</Price>
+		<Price>40.4613362636</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Οικιακοί Ανεμιστήρες &gt; Ανεμιστήρες</Category_Path>
 		<Manufacturer>EUROLAMP</Manufacturer>
@@ -21875,7 +21807,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>41</Price>
+		<Price>41.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Οικιακοί Ανεμιστήρες &gt; Ανεμιστήρες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21892,7 +21824,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.63</Price>
+		<Price>13.81246895294444</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt;Διαγνωστικά Όργανα&gt;Οξύμετρα</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21909,7 +21841,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.97</Price>
+		<Price>23.281068944</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt;Διαγνωστικά Όργανα&gt;Οξύμετρα</Category_Path>
 		<Manufacturer>ControlBios</Manufacturer>
@@ -21926,7 +21858,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.53</Price>
+		<Price>13.70804964081481</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt;Διαγνωστικά Όργανα&gt;Πιεσόμετρα</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21943,7 +21875,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.26</Price>
+		<Price>22.56516042066667</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt;Κατ' οίκον Νοσηλεία&gt;Νεφελοποιητές</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21960,7 +21892,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>26.15</Price>
+		<Price>26.49956244614814</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt;Κατ' οίκον Νοσηλεία&gt;Νεφελοποιητές</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21977,7 +21909,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.13</Price>
+		<Price>21.410959348</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Βρεφικά&gt;Φροντίδα &amp; Υγιεινή Μωρού&gt;Βρεφοζυγοί</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21994,7 +21926,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.67</Price>
+		<Price>6.74393902</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt; Διαγνωστικά Όργανα&gt; Ζυγαριές Μπάνιου</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -22011,7 +21943,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.41</Price>
+		<Price>13.55730285</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Ηλεκτρικές Θερμοφόρες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -22028,7 +21960,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>68.96</Price>
+		<Price>69.8874044</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά&gt; Διαγνωστικά Όργανα&gt; Μετρητές Αλκοόλ</Category_Path>
 		<Manufacturer>Baseus</Manufacturer>
@@ -23866,7 +23798,7 @@
 		<MPN>16.006.0047</MPN>
 		<Description>Βάση κινητού αυτοκινήτου C60 της εταιρείας XO. Η βάση στηρίζεται με βεντούζα άρα μπορεί να τοποθετηθεί στο ταμπλό ή το παρμπρίζ του αυτοκινήτου. Η στήριξη της συσκεύης στη βάση γίνεται με ρυθμιζόμενα άγκιστρα.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτησή της στο αυτοκίνητο και είναι ποιοτική κατασκευή.</Description>
 		<Barcode>6920680872596</Barcode>
-		<Quantity>191</Quantity>
+		<Quantity>192</Quantity>
 	</product>
 	<product>
 		<ID>799551160</ID>
@@ -24681,7 +24613,7 @@
 		<MPN>VLD-750</MPN>
 		<Description>Χαρακτηριστικά:      Συμπαγές μέγεθος     Εξαιρετικός έλεγχος μικροεπεξεργαστή για υψηλή αξιοπιστία     Boost και buck AVR για σταθεροποίηση τάσης     Αυτόματη επανεκκίνηση κατά την αποκατάσταση του AC     Προσομοιωμένο ημιτονοειδές     Λειτουργία φόρτισης εκτός λειτουργίας     Λειτουργία ψυχρής εκκίνησης     Θύρα επικοινωνίας USB     Προστασία RJ-11/RJ45     Οθόνη LCD  Επισκόπηση:  Η σειρά VLD παρέχει ολοκληρωμένη προστασία και υψηλή πυκνότητα ισχύος σε μικρή και οικονομική συσκευασία. Σε σύγκριση με τους παραδοσιακούς πύργους UPS ίδιου μεγέθους, το UPS VLD είναι πιο συμπαγές και προσφέρει μεγαλύτερη ολοκληρωμένη προστασία ενάντια σε υπερτάσεις και αιχμές. Εξοπλισμένο με σταθεροποιητή τάσης, αυτό το UPS θα συνεχίσει να παρέχει καθαρή και σταθερή ενέργεια σε συνδεδεμένο εξοπλισμό, ενώ ο ενσωματωμένος ελεγκτής μικροεπεξεργαστή εγγυάται υψηλή αξιοπιστία, ιδανικό για κάθε οικιακή ή μικρή επαγγελματική εφαρμογή.</Description>
 		<Barcode>5201964092017</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>79980102</ID>
@@ -25840,7 +25772,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<Barcode>6111260550366</Barcode>
-		<Quantity>2464</Quantity>
+		<Quantity>2444</Quantity>
 	</product>
 	<product>
 		<ID>85228</ID>
