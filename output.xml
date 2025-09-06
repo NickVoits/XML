@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-06 16:21</created_at>
+	<created_at>2025-09-06 16:51</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -1415,7 +1415,7 @@
 		<Weight>0.3 kg</Weight>
 		<Description>•32 mg/100 ml καφεΐνη•Βιταμίνες Β2, Β3, Β5, Β6, Β12•Δεν περιέχει συντηρητικά•Φιλική για το περιβάλλον συσκευασία</Description>
 		<Barcode>5999884034469</Barcode>
-		<Quantity>11116</Quantity>
+		<Quantity>11086</Quantity>
 	</product>
 	<product>
 		<ID>15201</ID>
@@ -2735,7 +2735,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100189</Barcode>
-		<Quantity>578</Quantity>
+		<Quantity>570</Quantity>
 	</product>
 	<product>
 		<ID>40422</ID>
@@ -12548,7 +12548,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>95</Quantity>
+		<Quantity>94</Quantity>
 	</product>
 	<product>
 		<ID>740510102</ID>
@@ -15917,7 +15917,7 @@
 		<MPN>E-3294</MPN>
 		<Description>Παπουτσοθήκη-μικροέπιπλο δαπέδου με μεταλλική βάση και ξύλινη επιφάνεια.</Description>
 		<Barcode>5203642132947</Barcode>
-		<Quantity>39</Quantity>
+		<Quantity>38</Quantity>
 	</product>
 	<product>
 		<ID>770012111</ID>
@@ -18961,7 +18961,7 @@
 		<MPN>LP03080</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Μέγεθος: Α3     Πάχος: 80 micron     Συσκευασία: 100 τεμάχια</Description>
 		<Barcode>5207146013818</Barcode>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>7932010241</ID>
@@ -18995,7 +18995,7 @@
 		<MPN>LP04080</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης κατάλληλα για κάθε συσκευή πλαστικοποίησης. Με τα δίφυλλα πλαστικοποίησης της εταιρείας Typotrust, έχετε αποτέλεσμα και αντοχή στον χρόνο.</Description>
 		<Barcode>5207146013795</Barcode>
-		<Quantity>25</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>7932010251</ID>
@@ -26746,7 +26746,7 @@
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<Barcode>5202546009133</Barcode>
-		<Quantity>109</Quantity>
+		<Quantity>108</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
