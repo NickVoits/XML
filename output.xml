@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-13 17:05</created_at>
+	<created_at>2025-09-13 17:11</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -2024,7 +2024,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>1146</Quantity>
+		<Quantity>1114</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -9561,7 +9561,7 @@
 		<MPN>0019</MPN>
 		<Description>Ένα αφρόλουτρο που σας προσφέρει μια απολαυστική εμπειρία κατά το μπάνιο. Η φόρμουλά του είναι εμπλουτισμένη με το αισθησιακό άρωμα του σύκου, προσφέροντας ένα αίσθημα φρεσκάδας και ευεξίας. Καθαρίζει απαλά την επιδερμίδα σας, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<Barcode>3800024015878</Barcode>
-		<Quantity>516</Quantity>
+		<Quantity>513</Quantity>
 	</product>
 	<product>
 		<ID>67011</ID>
@@ -10153,7 +10153,7 @@
 		<MPN>1080</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>5202054467739</Barcode>
-		<Quantity>216</Quantity>
+		<Quantity>215</Quantity>
 		<Size>M</Size>
 	</product>
 	<product>
@@ -14283,7 +14283,7 @@
 		<MPN>0076</MPN>
 		<Description>Αρωματικές σακούλες απορριμμάτων, της εταιρείας Softline, γίγας, κατάλληλες τόσο για επαγγελματική, όσο και για οικιακή χρήση. Διαθέτουν κορδόνι, το οποίο βοηθά στην εύκολη μεταφορά και στο κλείσιμο. Έχουν ευχάριστο άρωμα, το οποίο καλύπτει τις δυσάρεστες οσμές των απορριμμάτων. Η συσκευασία περιλαμβάνει 10 σακούλες.</Description>
 		<Barcode>5200128643140</Barcode>
-		<Quantity>557</Quantity>
+		<Quantity>556</Quantity>
 	</product>
 	<product>
 		<ID>760100151</ID>
@@ -18619,7 +18619,7 @@
 		<Weight>0.24 kg</Weight>
 		<Description>Μπλοκ ζωγραφικής με χαρούμενα ξεχωριστά εξώφυλλα σχεδιασμένα για τους δημιουργούς της καρδιάς μας! Το κάθε μπλοκ έχει 40 φύλλα και είναι από εξαιρετικής ποιότητας χαρτί 70γρ. κατάλληλο για τις ζωγραφιές των μικρών μας φίλων! Έχει μονό μεταλλικό σπιράλ. Εσωτερικά έχει μία σελίδα αυτοκόλλητα σε διάφορα σχέδια και σχήματα. Είναι το ιδανικό μπλοκ για μολύβι, ξυλομπογιά, παστέλ και μαρκαδόρους!</Description>
 		<Barcode>5200000042412</Barcode>
-		<Quantity>18</Quantity>
+		<Quantity>16</Quantity>
 	</product>
 	<product>
 		<ID>79061</ID>
@@ -26179,6 +26179,73 @@
 		<Description>Μείγμα φρούτων της εταιρείας Lipton με συνδυασμό μήλου και κανέλας, Δεν περιέχει καφεινή ή τεΐνη.</Description>
 		<Barcode>5063270103852</Barcode>
 		<Quantity>9</Quantity>
+	</product>
+	<product>
+		<ID>880110101</ID>
+		<Name>Ruffles Πατατάκια Κυματιστά με Αλάτι 400gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/25570162/Ruffles-Patatakia-me-Alati-400gr.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/062889/62889930/xlarge_20220803102713_8b5cda8e.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.47</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Πατατάκια</Category_Path>
+		<Manufacturer>Ruffles</Manufacturer>
+		<MPN>340058807</MPN>
+		<Description>Κυματιστά πατατάκια Ruffles με αλάτι. Συστατικά Πατάτες, αραβοσιτέλαιο, αλάτι.</Description>
+		<Barcode>5201024774709</Barcode>
+	</product>
+	<product>
+		<ID>880110102</ID>
+		<Name>Ruffles Πατατάκια Κυματιστά με Γεύση Ρίγανη 400gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/27597438/Ruffles-Chips-me-Geysi-Rigani-400gr.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/027597/27597438/xlarge_20210311114819_ruffles_rigani_400gr.jpeg</Image_Link>
+		<Additional>https://youtu.be/mXK02AjSZVc</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.47</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Πατατάκια</Category_Path>
+		<Manufacturer>Ruffles</Manufacturer>
+		<MPN>340058632</MPN>
+		<Description>Κυματιστά πατατάκια Ruffles με ρίγανη. Συστατικά Πατάτες, αραβοσιτέλαιο, γεύση ρίγανης [κρεμμύδι, μαϊντανός, σκόρδο, ρίγανη (0,04%), ορός γάλακτος σε σκόνη (περιέχει πρωτείνη γάλακτος, λακτόζη), φρυγανιά σε σκόνη (περιέχει γλουτένη από σιτάρι), δεξτρόζη, ενισχυτικό γεύσης (όξινο γλουταμινικό νάτριο), ρυθμιστής οξύτητας (κιτρικό οξύ), αρωματικές ύλες (περιέχουν λάδι από σπόρους σέλινου)], αλάτι.</Description>
+		<Barcode>5201024775706</Barcode>
+	</product>
+	<product>
+		<ID>880110103</ID>
+		<Name>Ruffles Πατατάκια Κυματιστά με Γεύση BBQ 400gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/23722434/Ruffles-Chips-me-Geysi-BBQ-400gr.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/023722/23722434/xlarge_20200622134904_ruffles_barbecue_400gr.jpeg</Image_Link>
+		<Additional>https://youtu.be/SprfbxMzoJs</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.47</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Πατατάκια</Category_Path>
+		<Manufacturer>Ruffles</Manufacturer>
+		<MPN>340058786</MPN>
+		<Description>Κυματιστά πατατάκια Ruffles με bbq. Συστατικά Πατάτες, αραβοσιτέλαιο, γεύση μπάρμπεκιου [ζάχαρη, αρωματικές ύλες (περιέχουν ΣΟΓΙΑ), φρυγανιά (περιέχει γλουτένη από ΣΙΤΑΡΙ), ενισχυτικό γεύσης (όξινο γλουταμινικό νάτριο), δεξτρόζη, πάπρικα σε σκόνη, κρεμμύδι σε σκόνη, ντομάτα σε σκόνη, σκόρδο σε σκόνη, ρυθμιστές οξύτητας (κιτρικό οξύ, μηλικό οξύ), φοινικέλαιο, χρωστικές (εκχύλισμα πάπρικας, εναμμώνιο θειώδες καραμελόχρωμα), αρτύματα καπνιστών τροφίμων], αλάτι.</Description>
+		<Barcode>5201024776703</Barcode>
+	</product>
+	<product>
+		<ID>880110301</ID>
+		<Name>Doritos Nachos με Γεύση Τυρί 420gr</Name>
+		<Product_Link>https://www.skroutz.gr/s/24027663/Doritos-Nachos-me-Geysi-Tyri-420gr.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/024027/24027663/xlarge_20210318173935_doritos_nacho_420gr.jpeg</Image_Link>
+		<Additional>https://youtu.be/1WG4Rhl5XAw</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>2.47</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Πατατάκια</Category_Path>
+		<Manufacturer>Doritos</Manufacturer>
+		<MPN>340058802</MPN>
+		<Description>Καλαμπόκι(68,7%), αραβοσιτέλαιο, γεύση τυριού[μαλτοδεξτρίνη, ορός ΓΑΛΑΚΤΟΣ σε σκόνη, ΣΙΤΑΛΕΥΡΟ, αλάτι, τυρί σε σκόνη από ΓΑΛΑ(0,7%), ντομάτα σε σκόνη, αρωματικές ύλες(περιέχουν ΓΑΛΑ), κρεμμύδι σε σκόνη, βούτυρο ΓΑΛΑΚΤΟΣ σε σκόνη, χλωριούχο κάλιο, ενισχυτικό γεύσης(όξινο γλουταμινικό νάτριο), σκόρδο σε σκόνη, πρωτεϊνη ΓΑΛΑΚΤΟΣ, δεξτρόζη, ρυθμιστές οξύτητας(γαλακτικό οξύ, κιτρικό οξύ), χρωστικές(εκχύλισμα πάπρικας, αννάτο, απλό καραμελόχρωμα), μπαχαρικά, ζάχαρη, αποβουτυρωμένο ΓΑΛΑ σε σκόνη].   Κατασκευαστής Πατατάκια Doritos Χαρακτηριστικά Χαρακτηριστικά ΓεύσηΤυρί Πρόσθετα Χαρακτηριστικά ΦούρνουΌχι ΚυματιστάΌχι NachosΝαι ΠρωτεΐνηςΌχι ΚάνναβηςΌχι Ολικής ΆλεσηςΌχι Χωρίς ΑλάτιΌχι Διατροφικές Επιλογές Βιολογικό ΠροϊόνΌχι Χωρίς Προσθήκη ΖάχαρηςΌχι Χωρίς ΓλουτένηΌχι VeganΌχι Ποσότητα Βάρος420 gr Τεμάχια1 τμχ</Description>
+		<Barcode>5201024653684</Barcode>
 	</product>
 	<product>
 		<ID>88506</ID>
