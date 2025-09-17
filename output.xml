@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-17 16:05</created_at>
+	<created_at>2025-09-17 16:49</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -141,7 +141,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<Barcode>75041670</Barcode>
-		<Quantity>922</Quantity>
+		<Quantity>898</Quantity>
 	</product>
 	<product>
 		<ID>32021</ID>
@@ -1289,7 +1289,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703172</Barcode>
-		<Quantity>173</Quantity>
+		<Quantity>172</Quantity>
 	</product>
 	<product>
 		<ID>14022</ID>
@@ -2025,7 +2025,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>2245</Quantity>
+		<Quantity>2244</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2127,7 +2127,7 @@
 		<MPN>10160</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα.</Description>
 		<Barcode>1520162701990</Barcode>
-		<Quantity>896</Quantity>
+		<Quantity>892</Quantity>
 	</product>
 	<product>
 		<ID>20602</ID>
@@ -9137,7 +9137,7 @@
 		<MPN>1377</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201143756365</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>66502</ID>
@@ -11275,23 +11275,6 @@
 		<MPN>1269</MPN>
 		<Description>Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες από την πρώτη κιόλας πλύση, χαρίζοντας στα ρούχα σας καθαριότητα. Είναι ιδανικό και για χρωματιστά ρούχα καθώς δεν περιέχει λευκαντικούς παράγοντες στη σύνθεσή του. Κατάλληλο απορρυπαντικό για καθημερινούς λεκέδες καθώς διαλύεται πιο εύκολα στην πλύση διεισδύοντας γρηγορότερα στην καρδιά του λεκέ.</Description>
 		<Barcode>8720181012570</Barcode>
-		<Quantity>624</Quantity>
-	</product>
-	<product>
-		<ID>712322</ID>
-		<Name>Skip Limpieza Profunda / Deep Clean Υγρό Απορρυπαντικό Ρούχων 3.825lt (85 Μεζούρες)</Name>
-		<Product_Link>https://www.skroutz.gr/s/57655645/Skip-Limpieza-Profunda-Deep-Clean-Ygro-Aporrypantiko-Rouchon-3-825lt-85-Mezoures.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/057655/57655645/20241220103608_skip_limpieza_profunda_ygro_aporrypantiko_rouchon_3_825lt_85_mezoures.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>10.26</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Απορρυπαντικά Ρούχων</Category_Path>
-		<Manufacturer>SKIP</Manufacturer>
-		<MPN>9999</MPN>
-		<Description>Το υγρό απορρυπαντικό ρούχων Limpieza Profunda / Deep Clean της Skip μαλακώνει τις ίνες των ρούχων και δεν αφήνει υπολείμματα. Χρησιμοποιείται για λιπαρούς λεκέδες, όπως λάδι, τρόφιμα. Μπορεί να εφαρμοστεί τοπικά, απευθείας πάνω σε λεκέδες πριν από την πλύση. Βρέχετε το ύφασμα, ρίχνετε ελάχιστη ποσότητα υγρού πάνω στον λεκέ, το αφήνετε μέχρι να μαλακώσει και μετά βάζετε το ρούχο στο πλυντήριο. Τοποθετήστε το στην ειδική θήκη ή κατευθείαν μέσα στον κάδο του πλυντηρίου σας. Διαρκεί για 85 πλύσεις με τη δοσολογία να ορίζεται ως εξής, 1 μεζούρα, ή αλλιώς 1 καπάκι, για 4 με 5kg ρούχα, 1 1/2 καπάκι για 6 με 8kg ρούχα και 1/2 καπάκι είναι αρκετό για το πλύσιμο στο χέρι, σε κάθε πλύση.</Description>
-		<Barcode>8720181413285</Barcode>
 		<Quantity>624</Quantity>
 	</product>
 	<product>
@@ -17134,7 +17117,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6531155221499999</Price>
+		<Price>0.6220147829999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17151,7 +17134,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1818280877</Price>
+		<Price>1.162897203</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17168,7 +17151,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.08852587025</Price>
+		<Price>1.027676598</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17185,7 +17168,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1818280877</Price>
+		<Price>1.1223310215</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17202,7 +17185,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.71676080108</Price>
+		<Price>1.62264726</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17219,7 +17202,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.59235784448</Price>
+		<Price>1.3657281105</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17236,7 +17219,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.1770517405</Price>
+		<Price>2.0688752565</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17253,7 +17236,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.90336523598</Price>
+		<Price>1.730823744</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17270,7 +17253,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.71676080108</Price>
+		<Price>1.568559018</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17287,7 +17270,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.71676080108</Price>
+		<Price>1.568559018</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17304,7 +17287,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.7416413924</Price>
+		<Price>1.62264726</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17321,7 +17304,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.4306340009</Price>
+		<Price>1.4198163525</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτήρια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17338,7 +17321,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.6172384358</Price>
+		<Price>1.62264726</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17372,7 +17355,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.9904473056</Price>
+		<Price>2.16352968</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B Επαγγελματικά &gt; Είδη Σερβιρίσματος &gt; Ποτήρια Πισίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17389,7 +17372,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.3014546971</Price>
+		<Price>2.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτηροθήκες μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17406,7 +17389,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.167499046099999</Price>
+		<Price>3.72</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Ποτηροθήκες μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17423,7 +17406,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.976118263999999</Price>
+		<Price>5.030206506</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17440,7 +17423,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.3684325226</Price>
+		<Price>1.487426655</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17457,7 +17440,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.0766394846</Price>
+		<Price>10.249721859</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17474,7 +17457,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.2344768716</Price>
+		<Price>3.51573573</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17491,7 +17474,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.401975917699999</Price>
+		<Price>7.572353879999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17508,7 +17491,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.0526487839</Price>
+		<Price>2.2311399825</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17525,7 +17508,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.397199570499998</Price>
+		<Price>8.5865084175</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17542,7 +17525,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.3636561754</Price>
+		<Price>2.569191495</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17559,7 +17542,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.172384358</Price>
+		<Price>16.361693205</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17576,7 +17559,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.478506437599999</Price>
+		<Price>4.867941779999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Καπάκια Συσκευασιών Τροφίμων μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17593,7 +17576,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.03147146</Price>
+		<Price>5.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17610,7 +17593,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.3695229725</Price>
+		<Price>6.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17627,7 +17610,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.421081306499999</Price>
+		<Price>3.4481254275</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17644,7 +17627,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.727312350799999</Price>
+		<Price>5.003162385</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17661,7 +17644,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.215371482799999</Price>
+		<Price>7.572353879999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17678,7 +17661,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.086192179</Price>
+		<Price>8.113236299999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17695,7 +17678,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.344550786599998</Price>
+		<Price>6.896250855</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17712,7 +17695,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.842162612999998</Price>
+		<Price>7.437133275</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17729,7 +17712,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.454624701599998</Price>
+		<Price>10.27676598</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17763,7 +17746,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.1223310215</Price>
+		<Price>1.05</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17780,7 +17763,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.3129048225</Price>
+		<Price>2.97</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17899,7 +17882,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.3280238488799999</Price>
+		<Price>0.3</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Party &gt; Είδη Party για Σερβίρισμα</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17910,13 +17893,13 @@
 	</product>
 	<product>
 		<ID>78622</ID>
-		<Name>Πιάτα Χάρτινα μιας Χρήσης Λευκά 23cm 10τμχ ΕΜ7296</Name>
+		<Name>Πιάτα Χάρτινα μιας Χρήσης Λευκά 23cm 10τμχ ΕΜ7298</Name>
 		<Product_Link>https://www.thanopoulos.gr/el/piata/56113-thalassinos-piata-xartina-leuka-stroggula-23ek-10tem-5202054472986.html</Product_Link>
 		<Image_Link>https://www.thanopoulos.gr/1054454-large_default/thalassinos-piata-xartina-leuka-stroggula-23ek-10tem.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.57604188096</Price>
+		<Price>0.54</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Party &gt; Είδη Party για Σερβίρισμα</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17933,7 +17916,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17951,7 +17934,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17969,7 +17952,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -17987,7 +17970,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18005,7 +17988,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18023,7 +18006,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18041,7 +18024,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18059,7 +18042,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.841688058196</Price>
+		<Price>2.799066523499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18128,7 +18111,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.325161929</Price>
+		<Price>1.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18145,7 +18128,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.784911986</Price>
+		<Price>1.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18213,7 +18196,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.8394988914</Price>
+		<Price>0.7899243300000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18230,7 +18213,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.315632591</Price>
+		<Price>1.375557885</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18247,7 +18230,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.87947513</Price>
+		<Price>1.974810825</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -18264,7 +18247,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.452864613000001</Price>
+		<Price>6.333014025000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -24225,7 +24208,7 @@
 		<MPN>43305064</MPN>
 		<Description>Το Tech-Protect Ultraboost είναι μια πρακτική και ευέλικτη συσκευή που σας επιτρέπει να διαβάζετε εύκολα κάρτες μνήμης σε διάφορες συσκευές. Διαθέτει θύρα USB-C και USB-A 3.0, η οποία παρέχει ένα ευρύ φάσμα επιλογών σύνδεσης.  Συμβατό με φορητούς υπολογιστές, υπολογιστές και tablet. Μπορεί επίσης να χρησιμοποιηθεί με κάμερες και smartphone. Η συσκευή ανάγνωσης υποστηρίζει τους ακόλουθους τύπους καρτών μνήμης: MicroSD, MicroSDXC, SDHC, SDXC, κάρτες SD.  Μπορεί να διαβάσει κάρτες SD/TF με ταχύτητα από 3,0 έως 5 Gb/s, εξασφαλίζοντας γρήγορη μεταφορά δεδομένων. Είναι επίσης δυνατή η ταυτόχρονη ανάγνωση διαφορετικών καρτών μνήμης, κάτι που είναι πολύ βολικό και εξοικονομεί χρόνο.  *Οι θύρες USB-A και USB-C δεν μπορούν να χρησιμοποιηθούν ταυτόχρονα. Παρακαλούμε δώστε προσοχή στη σωστή σύνδεση. **Κατά τη σύνδεση σε κινητή συσκευή, βεβαιωθείτε ότι το τηλέφωνο/tablet σας με θύρα USB-C υποστηρίζει τη λειτουργία OTG. ***Για τηλέφωνα Samsung/Google/LG , τα αρχεία στην κάρτα μνήμης πρέπει να έχουν μορφοποίηση FAT32/EXFAT. Δεν υποστηρίζεται NTFS.  ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ ΠΡΟΪΟΝΤΟΣ: - 100% Πρωτότυπο - Συσκευασμένο στην αρχική του συσκευασία - Κατασκευασμένο από αλουμίνιο - Αναγνώστης καρτών: MicroSD, MicroSDXC, SDHC, SDXC, κάρτες SD - Ταχύτητα ανάγνωσης κάρτας SD/TF 3.0 έως 5Gb/s - Υποδοχή USB-A / USB-C  ΤΟ ΣΕΤ ΠΕΡΙΛΑΜΒΑΝΕΙ: 1 x Συσκευή ανάγνωσης καρτών Tech-Protect UltraBoost</Description>
 		<Barcode>9490713934685</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>59</Quantity>
 	</product>
 	<product>
 		<ID>79962605</ID>
@@ -24756,7 +24739,7 @@
 	</product>
 	<product>
 		<ID>79980101</ID>
-		<Name>Power On UPS Line-Interactive 750VA με 2 Schuko Πρίζες VLD-750</Name>
+		<Name>Power On UPS Line-Interactive 750VA με 2 Schuko Πρίζες VLD-750 με οθόνη</Name>
 		<Product_Link>https://www.skroutz.gr/s/3901842/Power-On-VLD-750-UPS-Line-Interactive-750VA-me-2-Schuko-Prizes.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_images/034475/34475506/xlarge_20200916153033_5afcd355.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -24773,7 +24756,7 @@
 	</product>
 	<product>
 		<ID>79980102</ID>
-		<Name>Power On UPS Line-Interactive 950VA με 2 Schuko Πρίζες VLD-950</Name>
+		<Name>Power On UPS Line-Interactive 950VA με 2 Schuko Πρίζες VLD-950 με οθόνη</Name>
 		<Product_Link>https://www.skroutz.gr/s/4007849/Power-On-VLD-950-UPS-Line-Interactive-950VA-me-2-Schuko-Prizes.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/055224/55224434/xlarge_20220119170407_d8bbf1cc.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -24787,6 +24770,60 @@
 		<Description>ο VLD-950 UPS Line-Interactive 950VA με 2 Schuko Πρίζες της Power On είναι ένα Tower UPS με 2 πρίζες τύπου Schuko. Η λειτουργία του είναι (VI) Line-Interactive που προσαρμόζει την τάση εξόδου συνεχώς μέσω αυτόματου ρυθμιστή τάσης προστατεύοντας από αυξομειώσεις της τάσης και διακοπές του ρεύματος.</Description>
 		<Barcode>5201964092024</Barcode>
 		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>79980103</ID>
+		<Name>Power On UPS Line-Interactive 1200VA με 2 Schuko Πρίζες VLD-1200 με οθόνη</Name>
+		<Product_Link>https://www.skroutz.gr/s/4007970/Power-On-VLD-1200-UPS-Line-Interactive-1200VA-600W-me-4-Schuko-Prizes.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/050926/50926745/xlarge_20211015092350_75c3478a.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_main_images/004007/4007970/xlarge_20210226135123_power_on_vld_1200.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>122.9691345773846</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία UPS &amp; Αξεσουάρ&gt;UPS</Category_Path>
+		<Manufacturer>POWER ON</Manufacturer>
+		<MPN>VLD-1200</MPN>
+		<Description>To UPS της POWER ON VLD-1200, είναι μια ισχυρή λύση για την προστασία των ηλεκτρονικών σου συσκευών από διακοπές ρεύματος.  Ο σχεδιασμός Line Interactive του παρέχει αποτελεσματική διόρθωση ισχύος, διορθώνοντας μικρές διακυμάνσεις τάσης χωρίς την ανάγκη για εναλλαγή σε μπαταρία. Εξοπλισμένο με μια προσομοιωμένη κυματομορφή ημιτόνου (Simulated sine wave) εξασφαλίζει σταθερή παροχή ισχύος, ενώ η μπαταρία 12V/7AH εγγυάται αξιόπιστη παροχή ενέργειας. Με είσοδο 230V και δύο πρίζες εξόδου Schuko, ενσωματώνεται άψογα στο σύστημά σου. Παρέχει την ευκολία σύνδεσης, συμπεριλαμβανομένης μιας διεπαφής USB και προστασίας RJ45/RJ11.  Παρακολούθησε την κατάσταση του UPS σου εύκολα μέσω της οθόνης LCD, που σου επιτρέπει να έχεις άμεση εικόνα της λειτουργίας του. Επένδυσε στο POWER ON UPS 1200VA VLD-1200 για να έχεις μια αδιάκοπη παραγωγικότητα χωρίς άγχος για την συσκευή σου κατά την διακοπή ρεύματος.</Description>
+		<Barcode>5201964092031</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>79980104</ID>
+		<Name>Power On UPS Line-Interactive 1600VA με 2 Schuko Πρίζες VLD-1600 με οθόνη</Name>
+		<Product_Link>https://www.skroutz.gr/s/3901844/Power-On-VLD-1600-UPS-Line-Interactive-1600VA-me-4-Schuko-Prizes.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/055225/55225695/xlarge_20220119170952_58cfb0f6.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_main_images/003901/3901844/xlarge_20220119170951_power_on_vld_1600_ups_line_interactive_1600va_me_4_schuko_prizes.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>177.7536204934996</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία UPS &amp; Αξεσουάρ&gt;UPS</Category_Path>
+		<Manufacturer>POWER ON</Manufacturer>
+		<MPN>VLD-1600</MPN>
+		<Description>Το UPS της POWER ON VLD-1600, μια αξιόπιστη λύση Line Interactive, που παρέχει ισχύ 1600VA με είσοδο 230V. Με τέσσερις εξόδους Schuko, ενσωματώνεται άψογα στο σύστημά σου.  Παρέχει σταθερή ενέργεια με προσομοιωμένη κυματομορφή ημίτονου (Simulated sine wave), υποστηριζόμενη από διπλές μπαταρίες 12V/9AH για μεγαλύτερη αξιοπιστία. Απόλαυσε γρήγορες μεταβάσεις με χρόνο μεταφοράς εξασφαλίζοντας ομαλή μετάβαση στην εφεδρική ισχύ κατά τη διάρκεια απρόσμενων διακοπών ρεύματος.  Παρέχει επιλογές σύνδεσης όπως διεπαφή USB και προστασία RJ45/RJ11. Παρακολούθησε εύκολα την κατάσταση του UPS μέσω της οθόνης LCD, εξασφαλίζοντας αδιάκοπη διαχείριση ενέργειας και προστασία της συσκευής σου.</Description>
+		<Barcode>5201964092048</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>79980105</ID>
+		<Name>Power On UPS Line-Interactive 2000VA με 2 Schuko Πρίζες VLD-2000 με οθόνη</Name>
+		<Product_Link>https://www.skroutz.gr/s/4008073/Power-On-VLD-2000-UPS-Line-Interactive-2000VA-me-4-Schuko-Prizes.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_images/050926/50926752/xlarge_20211015092351_acfc6e29.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_main_images/004008/4008073/xlarge_20211015092350_power_on_vld_2000_ups_line_interactive_2000va_me_4_schuko_prizes.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>216.6794394338971</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία UPS &amp; Αξεσουάρ&gt;UPS</Category_Path>
+		<Manufacturer>POWER ON</Manufacturer>
+		<MPN>VLD-2000</MPN>
+		<Description>Το UPS της POWER ON VLD-2000, μια αξιόπιστη λύση Line Interactive, που παρέχει ισχύ 2000VA με είσοδο 230V. Με τέσσερις εξόδους Schuko, ενσωματώνεται άψογα στο σύστημά σου.  Παρέχει σταθερή ενέργεια με προσομοιωμένη κυματομορφή ημίτονου (Simulated sine wave), υποστηριζόμενη από διπλές μπαταρίες 12V/10AH για μεγαλύτερη αξιοπιστία. Απόλαυσε γρήγορες μεταβάσεις με χρόνο μεταφοράς εξασφαλίζοντας ομαλή μετάβαση στην εφεδρική ισχύ κατά τη διάρκεια απρόσμενων διακοπών ρεύματος.  Παρέχει επιλογές σύνδεσης όπως διεπαφή USB και προστασία RJ45/RJ11. Παρακολούθησε εύκολα την κατάσταση του UPS μέσω της οθόνης LCD, εξασφαλίζοντας αδιάκοπη διαχείριση ενέργειας και προστασία της συσκευής σου.</Description>
+		<Barcode>5201964092055</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79981108</ID>
@@ -26979,7 +27016,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>210</Quantity>
+		<Quantity>209</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
