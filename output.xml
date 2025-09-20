@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-20 16:05</created_at>
+	<created_at>2025-09-20 16:54</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -641,7 +641,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000283900</Barcode>
-		<Quantity>347</Quantity>
+		<Quantity>346</Quantity>
 	</product>
 	<product>
 		<ID>120218</ID>
@@ -9239,7 +9239,7 @@
 		<MPN>1383</MPN>
 		<Description>Μόνιμη κρέμα βαφή με υγρή Κερατίνη για 50% ένταση μεγαλύτερης διάρκειας και λάμψη. Το κουτί περιέχει κρέμα βαφή 50ml, οξειδωτικό γαλάκτωμα 50ml (1:1), μάσκα περιποίησης 10ml και 1 ζευγάρι γάντια.</Description>
 		<Barcode>5201395646612</Barcode>
-		<Quantity>33</Quantity>
+		<Quantity>31</Quantity>
 	</product>
 	<product>
 		<ID>66505</ID>
@@ -10714,7 +10714,7 @@
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<Barcode>5202995004628</Barcode>
-		<Quantity>1725</Quantity>
+		<Quantity>1723</Quantity>
 	</product>
 	<product>
 		<ID>70322</ID>
@@ -19072,7 +19072,7 @@
 		<MPN>LP04125</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης Typotrast για την προστασία των εγγράφων σας. Κατάλληλο για όλες τις μηχανές πλαστικοποίησης.      Μέγεθος A4 (216x303mm)     125 microns     100 τεμάχια     Διάφανο αποτέλεσμα     Εύκαμπτα     Εγγράψιμα     Στρογγυλεμένες γωνίες     Aδιάβροχα</Description>
 		<Barcode>5207146013931</Barcode>
-		<Quantity>73</Quantity>
+		<Quantity>71</Quantity>
 	</product>
 	<product>
 		<ID>7932010242</ID>
@@ -21777,7 +21777,24 @@
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1189</MPN>
+		<MPN>E-1189-BL</MPN>
+		<Description>Ηλεκτρικό μπρίκι της εταιρείας Sidirela, με ισχύ 800 Watt. Το ηλεκτρικό μπρίκι προετοιμάζει τον ελληνικό καφέ πιο γρήγορα και εύκολα σε σχέση με ένα συμβατικό μπρίκι. Διαθέτει χωρητικότητα 500 ml και μπορεί να παράξει έως και 6 μονά φλιτζάνια ελληνικού καφέ.</Description>
+		<Barcode>5203642111898</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799170111</ID>
+		<Name>Sidirela Ηλεκτρικό Μπρίκι 800W με Χωρητικότητα 500ml Γκρι E-1189</Name>
+		<Product_Link>https://www.skroutz.gr/s/40629151/Sidirela-E-1189-Ilektriko-Mpriki-800W-me-CHoritikotita-500ml-Gri.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/040629/40629151/xlarge_20230210100332_sidirela_e_1189_1_ilektriko_mpriki_800w_me_choritikotita_500ml_gri.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.389832</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>E-1189-GR</MPN>
 		<Description>Ηλεκτρικό μπρίκι της εταιρείας Sidirela, με ισχύ 800 Watt. Το ηλεκτρικό μπρίκι προετοιμάζει τον ελληνικό καφέ πιο γρήγορα και εύκολα σε σχέση με ένα συμβατικό μπρίκι. Διαθέτει χωρητικότητα 500 ml και μπορεί να παράξει έως και 6 μονά φλιτζάνια ελληνικού καφέ.</Description>
 		<Barcode>5203642111898</Barcode>
 		<Quantity>60</Quantity>
@@ -23500,7 +23517,7 @@
 		<MPN>PR231-51454</MPN>
 		<Description>Το power bank της XO έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο.      Χωρητικότητα: 10000 mAh     Ισχύς: 33 Watt     Wh: 37 Wh     Ένδειξη με Led: Ναι  Θύρες εισόδου:      Θύρα Type-C, (max): 5V-3A, 9V-2A, (18W).  Θύρες Εξόδου:      Wireless charging, (max): 5W, 7.5W, 10W, 15W.     Θύρα Type-C usb, (max): 5V-3A, 9V-2.22A,12V-1.67A, (20W).  Πρωτόκολλο φόρτισης:      Θύρα εισόδου Type-C: QC2.0/QC3.0/AFC/FCP/PD2.0/PD3.0.     Θύρα εξόδου Type-C: QC2.0/QC3.0/AFC/FCP/PD2.0/PD3.0.     Υλικό: ABS+PC, επιβραδυντικό υλικό πυρκαγιάς τύπου V0.     Χρώμα: Μαύρο.     Βάρος: 200 ±5gr.     Διαστάσεις, (Μήκος x Πλάτος x Πάχος): 100 x 68 x 20 mm.</Description>
 		<Barcode>6920680851454</Barcode>
-		<Quantity>4</Quantity>
+		<Quantity>3</Quantity>
 	</product>
 	<product>
 		<ID>799519111</ID>
@@ -24515,7 +24532,7 @@
 		<MPN>RA7F25</MPN>
 		<Description>3 Μπάντες FM/AM/SW     Λειτουργία Bluetooth     Υποδοχές USB (MP3) / SD      Solar Panel Φόρτισης 100mA     Επαναφορτιζόμενη Μπαταρία 1200mAh     Ρεύματος-Μπαταρίας-Ηλιακό     Διαστάσεις: 17,5x7,5x10cm</Description>
 		<Barcode>8011000026671</Barcode>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>799650501</ID>
@@ -25336,7 +25353,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μακαρόνια τριβελάκι απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
 		<Barcode>5201013005081</Barcode>
-		<Quantity>126</Quantity>
+		<Quantity>123</Quantity>
 	</product>
 	<product>
 		<ID>83123</ID>
@@ -26998,7 +27015,7 @@
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
 		<Barcode>5202546009133</Barcode>
-		<Quantity>76</Quantity>
+		<Quantity>67</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
