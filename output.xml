@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-23 16:05</created_at>
+	<created_at>2025-09-23 16:55</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -303,7 +303,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>223</Quantity>
+		<Quantity>222</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -482,7 +482,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>478</Quantity>
+		<Quantity>475</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -10714,7 +10714,7 @@
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<Barcode>5202995004628</Barcode>
-		<Quantity>1714</Quantity>
+		<Quantity>1713</Quantity>
 	</product>
 	<product>
 		<ID>70322</ID>
@@ -10799,7 +10799,7 @@
 		<MPN>0112</MPN>
 		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση με διακριτικό άρωμα φρεσκάδας. Η σύνθεση τους προσφέρει αποτελεσματική δράση κατά των μικροβίων, χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα.Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007033</Barcode>
-		<Quantity>980</Quantity>
+		<Quantity>979</Quantity>
 	</product>
 	<product>
 		<ID>70422</ID>
@@ -10816,7 +10816,7 @@
 		<MPN>0583</MPN>
 		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα με διακριτικό άρωμα. - Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007026</Barcode>
-		<Quantity>350</Quantity>
+		<Quantity>345</Quantity>
 	</product>
 	<product>
 		<ID>70901</ID>
@@ -12875,7 +12875,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6105205793194444</Price>
+		<Price>0.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>MADONA</Manufacturer>
@@ -13565,7 +13565,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
 		<Barcode>5205376018993</Barcode>
-		<Quantity>1962</Quantity>
+		<Quantity>1960</Quantity>
 	</product>
 	<product>
 		<ID>75201</ID>
@@ -13752,7 +13752,7 @@
 		<MPN>Ε-0922</MPN>
 		<Description>Κερί Αφιέρωσης - Μνήμης Ηλεκτρονικό Διάρκειας 100 Ημερών με Μπαταρία και Διάσταση 6x9x15 εκ.</Description>
 		<Barcode>5203642109222</Barcode>
-		<Quantity>59</Quantity>
+		<Quantity>57</Quantity>
 	</product>
 	<product>
 		<ID>75231</ID>
@@ -13873,7 +13873,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Εξαίρετο κάρβουνο από σκληρό ξύλο με μεγάλη διάρκεια. Είναι η ιδανική επιλογή για όσους εκτιμούν την παράδοση και επιθυμούν να προσθέσουν έναν παραδοσιακό χαρακτήρα στο ψήσιμό τους. Με τα παραδοσιακά ξυλοκάρβουνα, μπορείτε να δημιουργήσετε την τέλεια φλόγα και την ιδανική θερμοκρασία για να αναδείξετε τη γεύση των ψητών σας εδεσμάτων.</Description>
 		<Barcode>5200116050097</Barcode>
-		<Quantity>587</Quantity>
+		<Quantity>582</Quantity>
 	</product>
 	<product>
 		<ID>75352</ID>
@@ -15770,23 +15770,6 @@
 		<Description>Μεταλλικό ορθογώνιο τρόλεϊ διαστάσεων 58x37x88εκ με πλαστικά ράφια πολλαπλών χρήσεων 3 θέσεων,μεγάλης αντοχής με ρόδες.  Ιδανικό για να αποθηκεύετε και να οργανώνετε τα ποτά σας.</Description>
 		<Barcode>5203642139212</Barcode>
 		<Quantity>1</Quantity>
-	</product>
-	<product>
-		<ID>77001103032</ID>
-		<Name>Μεταλλικό Στρόγγυλο Τρόλεϊ  με Πλαστικά Ράφια Πολλαπλών Χρήσεων 2 Θέσεων μεγάλης αντοχής  με ρόδες σε Χρώμα Λευκό/Φυσικό Μ48xΠ48xΥ52cm E-3953</Name>
-		<Product_Link>https://www.skroutz.gr/s/33229448/Strogylo-Voithitiko-Trapezaki-Metalliko-me-Rodes-Leyko-Fysiko-E-3953-M48xP48xY51-5ek.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/033229/33229448/fixedratio_20220323132409_strogylo_voithitiko_trapezaki_metalliko_me_rodes_leyko_fysiko_e_3953_m48xp48xy51_5ek.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>18.85761</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-3953</MPN>
-		<Description>Τρόλεϊ “Βar”      Σχήμα: στρογγυλό     Πλαστικά ράφια πολλαπλών χρήσεων 2 θέσεων     Μεγάλης αντοχής με ρόδες     Διαστάσεις: 48x48x52cm</Description>
-		<Barcode>5203642139533</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>77001103033</ID>
@@ -18620,7 +18603,7 @@
 		<Weight>0.24 kg</Weight>
 		<Description>Μπλοκ ζωγραφικής με χαρούμενα ξεχωριστά εξώφυλλα σχεδιασμένα για τους δημιουργούς της καρδιάς μας! Το κάθε μπλοκ έχει 40 φύλλα και είναι από εξαιρετικής ποιότητας χαρτί 70γρ. κατάλληλο για τις ζωγραφιές των μικρών μας φίλων! Έχει μονό μεταλλικό σπιράλ. Εσωτερικά έχει μία σελίδα αυτοκόλλητα σε διάφορα σχέδια και σχήματα. Είναι το ιδανικό μπλοκ για μολύβι, ξυλομπογιά, παστέλ και μαρκαδόρους!</Description>
 		<Barcode>5200000042412</Barcode>
-		<Quantity>15</Quantity>
+		<Quantity>13</Quantity>
 	</product>
 	<product>
 		<ID>79061</ID>
@@ -18761,7 +18744,7 @@
 		<Weight>0.37 kg</Weight>
 		<Description>• Διαστάσεις: 9x9cm• Αριθμός φύλλων: 550</Description>
 		<Barcode>5203358001681</Barcode>
-		<Quantity>127</Quantity>
+		<Quantity>125</Quantity>
 	</product>
 	<product>
 		<ID>79096</ID>
@@ -25964,7 +25947,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<Barcode>6111260550359</Barcode>
-		<Quantity>3919</Quantity>
+		<Quantity>3899</Quantity>
 	</product>
 	<product>
 		<ID>852261</ID>
@@ -26283,7 +26266,7 @@
 		<MPN>340058807</MPN>
 		<Description>Κυματιστά πατατάκια Ruffles με αλάτι. Συστατικά Πατάτες, αραβοσιτέλαιο, αλάτι.</Description>
 		<Barcode>5201024774709</Barcode>
-		<Quantity>13</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>880110102</ID>
