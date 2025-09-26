@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-26 16:05</created_at>
+	<created_at>2025-09-26 16:44</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -1558,7 +1558,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
 		<Barcode>5202908000068</Barcode>
-		<Quantity>3557</Quantity>
+		<Quantity>3395</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -1666,7 +1666,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
 		<Barcode>5202908110019</Barcode>
-		<Quantity>682</Quantity>
+		<Quantity>670</Quantity>
 	</product>
 	<product>
 		<ID>17072</ID>
@@ -5350,7 +5350,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1480</Quantity>
+		<Quantity>1408</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5422,7 +5422,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>1333</Quantity>
+		<Quantity>1261</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -5619,7 +5619,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Εκλεκτό απόσταγμα που έχει κάνει τον Τύρναβο γνωστό στα πέρατα του κόσμου. Ένα κορυφαίο τσίπουρο, από την εξαιρετική ποικιλία σταφυλιών Μοσχάτο Μαύρο Τυρνάβου, που αναδύει αρώματα λουλουδιών και κυρίως τριαντάφυλλου, χαρακτηριστικό αυτής της μοναδικής τοπικής ποικιλίας.</Description>
 		<Barcode>520237120064</Barcode>
-		<Quantity>207</Quantity>
+		<Quantity>183</Quantity>
 	</product>
 	<product>
 		<ID>52352</ID>
@@ -7709,7 +7709,7 @@
 		<MPN>0575</MPN>
 		<Description>Ξυραφάκια υψηλής ποιότητας από ανοξείδωτο ατσάλι μονής λεπίδας με επικάλυψη πολυμερούς και χρωμίου. Στενή και σταθερή κεφαλή που φτάνει με ακρίβεια στις ευαίσθητες περιοχές τις επιδερμίδας. Περιέχει προστατευτική μπάρα από ανοξείδωτο ατσάλι και μαύρη πολυεστερική λαβή, μεγαλύτερη για καλύτερο έλεγχο στο ξύρισμα.</Description>
 		<Barcode>3086125705416</Barcode>
-		<Quantity>722</Quantity>
+		<Quantity>721</Quantity>
 	</product>
 	<product>
 		<ID>62061</ID>
@@ -8407,23 +8407,6 @@
 		<Description>Μια πολύ δυνατή αντισηπτική λύση που χρησιμοποιείται για τον καθαρισμό και την απολύμανση των χεριών και των επιφανειών. Η υψηλή περιεκτικότητα αλκοόλης την καθιστά ιδιαίτερα αποτελεσματική στον εξειδικευμένο καθαρισμό, εξουδετέρωση μικροβίων και απολύμανση. Χρησιμοποιείται συνήθως σε εργαστηριακό περιβάλλον, κλινικές, νοσοκομεία, και άλλα ιατρικά περιβάλλοντα όπου απαιτείται υψηλό επίπεδο υγιεινής και απολύμανσης. Πριν από τη χρήση, βεβαιωθείτε ότι η λοσιόν απλώνεται ομοιόμορφα και αφήνετε να στεγνώσει εντελώς.</Description>
 		<Barcode>5206991134600</Barcode>
 		<Quantity>219</Quantity>
-	</product>
-	<product>
-		<ID>64212</ID>
-		<Name>Herbarium Gel Καθαρισμού Χεριών 70% με Αντλία 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/22947617/EGBrands-Herbarium-Gel-Katharismou-CHerion-70-me-Antlia-500ml.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/022947/22947617/20210225093651_egbrands_herbarium_gel_katharismou_cherion_70_me_antlia_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
-		<Price>2.55</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Προσωπική Υγιεινή &gt; Αντισηπτικά Χεριών</Category_Path>
-		<Manufacturer>EGBrands</Manufacturer>
-		<MPN>1073</MPN>
-		<Description>Αντισηπτικό τζελ χεριών της εταιρείας EGBrands με αντλία, το οποίο περιέχει αλκοόλη σε ποσοστό 70% που εξουδετερώνει αποτελεσματικά πολλά είδη παθογόνων μικροοργανισμών, συμπεριλαμβανομένων ιών και βακτηρίων.</Description>
-		<Barcode>5202399414030</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>64302</ID>
@@ -10422,7 +10405,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>9911</Quantity>
+		<Quantity>9893</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -10543,7 +10526,7 @@
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<Barcode>5200100281667</Barcode>
-		<Quantity>354</Quantity>
+		<Quantity>342</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -10577,7 +10560,7 @@
 		<MPN>0519</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 33 Χ 33 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650102703</Barcode>
-		<Quantity>773</Quantity>
+		<Quantity>737</Quantity>
 	</product>
 	<product>
 		<ID>702071</ID>
@@ -12608,7 +12591,7 @@
 		<MPN>1505</MPN>
 		<Description>Εύκολο σύστημα σφουγγαρίσματος με πεντάλ για καθαριότητα χωρίς κόπο.Απομακρύνει πάνω από το 99% των βακτηρίων &amp; ιών μόνο με νερό* (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας). *Απομακρύνει Ecoli &amp; S.aureus βακτήρια και BCoV ιούς από ξύλινα δάπεδα και κεραμικά πλακάκια.</Description>
 		<Barcode>4023103208476</Barcode>
-		<Quantity>368</Quantity>
+		<Quantity>367</Quantity>
 	</product>
 	<product>
 		<ID>740510102</ID>
@@ -12693,7 +12676,7 @@
 		<MPN>1116001</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Σπογγοπετσέτα     Απορροφητική     Σε Ρολό     Κόβεται στις Επιθυμητές Διαστάσεις     Μήκος: 1.5m</Description>
 		<Barcode>5201815153706</Barcode>
-		<Quantity>102</Quantity>
+		<Quantity>101</Quantity>
 	</product>
 	<product>
 		<ID>742010151</ID>
@@ -13308,7 +13291,7 @@
 		<MPN>1757</MPN>
 		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
 		<Barcode>5200138990050</Barcode>
-		<Quantity>268</Quantity>
+		<Quantity>261</Quantity>
 	</product>
 	<product>
 		<ID>74944</ID>
@@ -14046,7 +14029,7 @@
 		<MPN>0530</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 28x33cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500127</Barcode>
-		<Quantity>2130</Quantity>
+		<Quantity>2129</Quantity>
 	</product>
 	<product>
 		<ID>75813</ID>
@@ -14063,7 +14046,7 @@
 		<MPN>0409</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεγάλου μεγέθους της εταιρείας Elef σε διάσταση 28x43cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500134</Barcode>
-		<Quantity>2093</Quantity>
+		<Quantity>2092</Quantity>
 	</product>
 	<product>
 		<ID>758200101</ID>
@@ -14675,7 +14658,7 @@
 		<MPN>HSR60B</MPN>
 		<Description>Κρεμάστρα δαπέδου κατασκευασμένη από μεταλλικό υλικό. Διαθέτει μεταλλικούς σωλήνες, εξασφαλίζοντας αντοχή και σταθερότητα, με μέγιστο βάρος τα 110kg. Είναι εξοπλισμένη με 2 ράγες, επιπρόσθετο ράφι στο κάτω μέρος για παπούτσια και 4 πλαστικές και περιστρεφόμενες ρόδες 360° με φρένα ασφάλισης για εύκολη μετακίνηση.</Description>
 		<Barcode>6955880369768</Barcode>
-		<Quantity>56</Quantity>
+		<Quantity>54</Quantity>
 	</product>
 	<product>
 		<ID>76204</ID>
@@ -15658,7 +15641,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.1357369</Price>
+		<Price>24.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Σαλονιού&gt; Τραπεζάκια Σαλονιού</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -15698,7 +15681,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-4548-2</MPN>
 		<Description>Τα βοηθητικά τραπεζάκια σαλονιού της εταιρείας Sidirela είναι ιδανικά για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού  προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων.  Είναι τετράγωνα σετ 2 τεμαχίων, αποθηκεύεται το ένα κάτω από το άλλο και αποτελείται από μέταλλο και μοριοσανίδα σε μαύρο και μπεζ χρώμα.    Διαστάσεις 1ου τραπεζιού:      Μήκος: 37,5εκ.     Πλάτος: 37,5εκ.     Ύψος: 40εκ.   Διαστάσεις 2ου τραπεζιού:      Μήκος: 33,5εκ.     Πλάτος: 33,5εκ.     Ύψος: 36εκ.</Description>
-		<Barcode>5203642145480</Barcode>
+		<Barcode>5203642145481</Barcode>
 		<Quantity>4</Quantity>
 	</product>
 	<product>
@@ -15745,7 +15728,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>57.1595112</Price>
+		<Price>64.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -15832,7 +15815,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>92.0251368</Price>
+		<Price>98.16</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Γραφείου&gt; Γραφεία</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -15885,7 +15868,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.6061752</Price>
+		<Price>20.33</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Έπιπλα Εισόδου</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -16073,7 +16056,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.3</Price>
+		<Price>27.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Διακοσμητικά Δαπέδου&gt; Καλόγεροι</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -16176,7 +16159,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>67.74</Price>
+		<Price>81.29</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Γραφείου&gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -16251,7 +16234,7 @@
 		<MPN>Ε-1355</MPN>
 		<Description>Ανοξείδωτο Φαρμακείο Τοίχου με γυάλινο πορτάκι αμμοβολης και κλειδαριά.      Διαστάσεις: 30cm x 30cm</Description>
 		<Barcode>5203642113557</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>7715006011</ID>
@@ -17090,7 +17073,7 @@
 		<MPN>780210</MPN>
 		<Description>Η σειρά καλαμακιών ONE BY ONE προσφέρει μια οικολογική επιλογή για τα αγαπημένα σας ποτά. Αυτά τα καλάμια κατασκευασμένα από χάρτινο υλικό είναι ιδανικά για χρήση σε διάφορες περιστάσεις, από πάρτι μέχρι καθημερινές στιγμές.  Κάθε πακέτο περιλαμβάνει 100 τεμάχια, εξασφαλίζοντας ότι θα έχετε πάντα διαθέσιμα καλαμάκια για εσάς και τους καλεσμένους σας. Το πολύχρωμο σχέδιο τους προσθέτει μια ευχάριστη πινελιά σε κάθε ποτό, κάνοντάς τα μια ελκυστική επιλογή για κάθε γιορτή ή περίσταση.  Φιλικά προς το περιβάλλον, αυτά τα καλαμάκια είναι ιδανικά για μια βιώσιμη ζωή. Η χρήση χάρτινου υλικού βοηθά στη μείωση της πλαστικής ρύπανσης. Η ποικιλία χρωμάτων θα ενθουσιάσει μικρούς και μεγάλους.</Description>
 		<Barcode>6425092000181</Barcode>
-		<Quantity>3418</Quantity>
+		<Quantity>3417</Quantity>
 	</product>
 	<product>
 		<ID>78101</ID>
@@ -18407,7 +18390,7 @@
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<Barcode>5207243085343</Barcode>
-		<Quantity>2152</Quantity>
+		<Quantity>2148</Quantity>
 	</product>
 	<product>
 		<ID>78991111</ID>
@@ -19826,6 +19809,23 @@
 		<Quantity>10</Quantity>
 	</product>
 	<product>
+		<ID>796800300</ID>
+		<Name>Χριστουγεννιάτικο Χιονισμένο δέντρο Olympus Snowy σε παραδοσιακή γραμμή ύψους 300cm, 2924 κλαδιά, μέγιστη διάμετρος 175cm HBSZ-118J</Name>
+		<Product_Link>https://www.skroutz.gr/s/20444683/CHristougenniatiko-Dentro-Olympus-Snowy-CHionismeno-300ek-me-2924-Kladia-HBSZ-118J.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/020444/20444683/fixedratio_20220510173826_christougenniatiko_dentro_olympus_snowy_prasino_300ek_me_metalliki_vasi_hbsz_118j.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/051402/51402003/fixedratio_20220510173829_dd18ee2e.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>313.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Χριστουγεννιάτικα &gt; Χριστουγεννιάτικα Δέντρα</Category_Path>
+		<Manufacturer>THIREA</Manufacturer>
+		<MPN>HBSZ-118J</MPN>
+		<Description>Χριστουγεννιάτικο δέντρο Olympus Snowy σε παραδοσιακή γραμμή ύψους 3,00m με μεταλλική βάση. Διαθέτει 2924 tips από πράσινο mixed PVC και Needle με χιόνι (βαμμένο).      Ύψος: 3,00m     Μεταλλική βάση     Ενσωματωμένα κλαδιά (autobranch)     2924 tips από πράσινο mixed PVC και Needle με χιόνι</Description>
+		<Quantity>2</Quantity>
+	</product>
+	<product>
 		<ID>7971001</ID>
 		<Name>Eurolamp Κοινή Λάμπα LED 4,9W για Ντουί E27 6500K 175-250V Ψυχρό Λευκό 480lm (147-77000)</Name>
 		<Product_Link>https://www.skroutz.gr/s/26550965/Eurolamp-Lampa-LED-gia-Ntoui-E27-kai-Schima-A60-PSychro-Leyko-480lm-147-77000.html</Product_Link>
@@ -20435,7 +20435,7 @@
 		<MPN>1600</MPN>
 		<Description>Το θερμό χρώμα που διαθέτει η λάμπα είναι πιο κοντά σε αυτό της φωτιάς το οποίο θα προσδώσει μια ζεστή αίσθηση στο χώρο που θα σας βοηθήσει να χαλαρώσετε.    Ισχύς: 7W    Τάση: 220V    Lumen: 630lm    Χρώμα: Θερμό Λευκό    Εφαρμογή: E27    Σχήμα: G45</Description>
 		<Barcode>5207227113703</Barcode>
-		<Quantity>96</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>7971501</ID>
@@ -20962,7 +20962,7 @@
 		<MPN>1776001</MPN>
 		<Description>Αλκαλικές μπαταρίες Maxell AAA κατάλληλες για τηλεχειριστήρια, ρολόγια, φακούς, αριθμομηχανές κ.ά.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
 		<Barcode>4902580164010</Barcode>
-		<Quantity>211</Quantity>
+		<Quantity>208</Quantity>
 	</product>
 	<product>
 		<ID>7975032</ID>
@@ -21441,23 +21441,6 @@
 		<Quantity>15</Quantity>
 	</product>
 	<product>
-		<ID>7991001</ID>
-		<Name>Kleenair BS7 Σακούλες Σκούπας 5τμχ Συμβατή με Σκούπα Bosch / Siemens</Name>
-		<Product_Link>https://www.skroutz.gr/s/11579719/Kleenair-BS7-Sakoules-Skoupas-5tmch-Symvati-me-Skoupa-Bosch-Siemens.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/011579/11579719/20200619153626_kleenair_bs7.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Καθαρισμού &gt; Σακούλες Σκούπας</Category_Path>
-		<Manufacturer>KLEENAIR</Manufacturer>
-		<MPN>1517</MPN>
-		<Description>Σακούλες Ηλεκτρικής Σκούπας BS7 BOSCH / SIEMENS D/E/F/G/H.</Description>
-		<Barcode>8710881345610</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>7991002</ID>
 		<Name>Kleenair XX3 Σακούλες Σκούπας 5τμχ Συμβατή με Σκούπα Gruppe / Samsung / Severin</Name>
 		<Product_Link>https://www.skroutz.gr/s/11579713/Kleenair-XX3-Sakoules-Skoupas-5tmch-Symvati-me-Skoupa-Gruppe-Samsung-Severin.html</Product_Link>
@@ -21490,40 +21473,6 @@
 		<Description>Η συσκευασία περιλαμβάνει 5 υφασμάτινες σακούλες και 1 φίλτρο.</Description>
 		<Barcode>8710881495520</Barcode>
 		<Quantity>11</Quantity>
-	</product>
-	<product>
-		<ID>7991004</ID>
-		<Name>Kleenair PH6 Σακούλες Σκούπας 5τμχ Συμβατή με Σκούπα Philips / AEG</Name>
-		<Product_Link>https://www.skroutz.gr/s/11579711/Kleenair-PH6-Sakoules-Skoupas-5tmch-Symvati-me-Skoupa-Philips-AEG.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/011579/11579711/20201130163443_kleenair_sakoules_skoupas_ph6_5tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Καθαρισμού &gt; Σακούλες Σκούπας</Category_Path>
-		<Manufacturer>KLEENAIR</Manufacturer>
-		<MPN>1520</MPN>
-		<Description>Η συσκευασία περιλαμβάνει 5 ανταλλακτικές σακούλες σκούπας και 1 φίλτρο.</Description>
-		<Barcode>8710881516034</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7991101</ID>
-		<Name>Gruppe Μιξεράκι Χειρός Ρεύματος 30W με 2 Ταχύτητες Μαύρο</Name>
-		<Product_Link>https://www.skroutz.gr/s/15917830/Gruppe-PDH007-Frapediera-CHeiros-Reymatos-30W-me-2-Tachytites-Mayri.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/015917/15917830/20231123122449_gruppe_pdh007_frapediera_cheiros_reymatos_30w_me_2_tachytites_mayri.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>8.9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
-		<Manufacturer>GRUPPE</Manufacturer>
-		<MPN>1521</MPN>
-		<Description>Το μίξερ χειρός Gruppe Designed in Greece PDH007 ξεχωρίζει για την ομορφιά και την κομψότητά του. Είναι ιδιαίτερα εργονομικό και παράλληλα λεπτό και κομψό. Βασική διαφορά του είναι ο μεταλλικός κονέκτορας που του δίνει μεγαλύτερη αντοχή.</Description>
-		<Barcode>5206684006139</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7991102</ID>
@@ -21593,40 +21542,6 @@
 		<Description>Επιτραπέζια φραπεδιέρα 2 ταχυτήτων απο την Sidirela.  Διαθέτει πλαστικό ποτήρι με δοσομετρητή 450ml.  Ποιότητα:      Πλαστική βάση     Πλαστικό ποτήρι     Aνοξείδωτος αναδευτήρας</Description>
 		<Barcode>5203642127059</Barcode>
 		<Quantity>8</Quantity>
-	</product>
-	<product>
-		<ID>799112101</ID>
-		<Name>Bosch Ραβδομπλέντερ με Πλαστική Ράβδο 450W Λευκό/Kόκκινο MSM64010</Name>
-		<Product_Link>https://www.skroutz.gr/s/3433738/Bosch-MSM64010-Ravdomplenter-me-Plastiki-Ravdo-450W-Leyko.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_images/052170/52170614/xlarge_20211110134810_d3e9d7a3.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>27.99</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Επεξεργασίας Τροφίμων &gt; Ραβδομπλέντερ</Category_Path>
-		<Manufacturer>Bosch</Manufacturer>
-		<MPN>MSM64010</MPN>
-		<Description>Ράβδος μπλέντερ MSM64010 ισχύος 450 Watt με μοναδικό σύστημα τεσσάρων λεπίδων QuattroBlade που καθιστά εύκολη την πολτοποίηση, την ανάμειξη και το ψιλοκόψιμο. Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί καθαρίζεται εύκολα. Εύκολη εξαγωγή της ράβδου από το σώμα της συσκευής. Εξαγωγή της ράβδου σε λίγα μόλις δευτερόλεπτα. Μετά την χρήση αφαιρέστε τη ράβδο με ένα απλό 'κλικ' και καθαρίστε τη στο νεροχύτη ή στο πλυντήριο πιάτων. Ο καθημερινός βοηθός με δυνατό μοτέρ Ο άνετος τρόπος για υπέροχες σπιτικές σούπες βελουτέ, dips, dressings, ακόμα και για δροσιστικά cocktails με θρυμματισμένο πάγο. Με το ισχυρό μοτέρ και τα πολυλειτουργικά εξαρτήματα έχετε τέλεια αποτελέσματα πολύ γρήγορα - ακόμα και όταν θέλετε να αλέσετε τυριά ή βότανα. Ο αθόρυβος και χαμηλών κραδασμών κινητήρας κάνει την επεξεργασία φαγητού διασκεδαστική και εύκολη υπόθεση, σε χρόνο μηδέν. Εύκολη πολτοποίηση υλικών με μία σταθερή ταχύτητα επεξεργασία, συν ταχύτητα Turbo. Πολτοποιήστε και επεξεργαστείτε υλικά με εύκολο τρόπο, απολαμβάνοντας τέλεια αποτελέσματα σε λίγο χρόνο με το πάτημα ενός κουμπιού. Η ράβδος μπλέντερ θα κάνει τη σκληρή δουλειά χάρη στη συνεχή σταθερή ταχύτητα λειτουργίας. Αν χρειαστείτε επιπλέον δύναμη, απλώς επιλέξτε την ταχύτητα Turbo.</Description>
-		<Barcode>4242002678108</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7991201</ID>
-		<Name>Gruppe Πολυκόπτης Multi 300W με Δοχείο 500ml White</Name>
-		<Product_Link>https://www.skroutz.gr/s/12788998/Gruppe-PDH401-2PL-Polykoptis-Multi-300W-me-Docheio-500ml-White.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/012788/12788998/20200316165713_gruppe_pdh401_2pl_white.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>14.8</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Επεξεργασίας Τροφίμων &gt; Πολυκόπτες Multi</Category_Path>
-		<Manufacturer>GRUPPE</Manufacturer>
-		<MPN>1523</MPN>
-		<Description>Το multi της Gruppe PDH-401-2PL αποτελεί πολύτιμο βοηθό στην κουζίνα. Με ισχύ 300W μπορεί να αλέθει τροφές εύκολα και γρήγορα.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι εύκολο στη χρήση.</Description>
-		<Barcode>5206684005460</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799120201</ID>
@@ -21798,23 +21713,6 @@
 		<Description>Ηλεκτρικό μπρίκι μεταλλικό για 8 φλυτζάνια με ενδεικτική λυχνία στη βάση,εξαιρετικής αισθητικής.      Με χερούλι που δεν καίει.     Λάμπα on-off.     Με αποσπώμενη βάση.     Από ανοξείδωτο ατσάλι.     Καλυμμένη αντίσταση.     Δυνατότητα περιστροφής 360°.</Description>
 		<Barcode>5203642124614</Barcode>
 		<Quantity>58</Quantity>
-	</product>
-	<product>
-		<ID>7991711</ID>
-		<Name>Gruppe HHB8702D Inox Βραστήρας 1.7lt 2200W Ασημί</Name>
-		<Product_Link>https://www.skroutz.gr/s/26987482/Gruppe-HHB8702D-Inox-Vrastiras-1-7lt-2200W-Asimi.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/026987/26987482/20220715164440_gruppe_hhb8702d_inox_vrastiras_1_7lt_2200w_inox.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>28.9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
-		<Manufacturer>GRUPPE</Manufacturer>
-		<MPN>1696</MPN>
-		<Description>Βασικά χαρακτηριστικά:      Χωρητικότητα : 1,7 λίτρα     Περιστρεφόμενη βάση 360 μοίρες     Λειτουργία boil dry protection  Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί έχει καλή ποιότητα υλικών και βράζει γρήγορα το νερό.</Description>
-		<Barcode>5206684007778</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799171101</ID>
@@ -23090,7 +22988,7 @@
 		<MPN>16.005.0345</MPN>
 		<Description>Μοντέλο: XO NB280  Τύπος Καλωδίου: Καλώδιο Δεδομένων Type-C  Μήκος: 1M  Ρεύμα: 3A  Χρώμα: Λευκό</Description>
 		<Barcode>6920680858699</Barcode>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>7995116031</ID>
@@ -23192,7 +23090,7 @@
 		<MPN>16.002.0065</MPN>
 		<Description>XO-EP57      Τύπος ακουστικών: πλαστικό στο αυτί     Διάμετρος βύσματος: 3,5 mm     Αρχή ήχου: κινούμενο πηνίο     Διάμετρος κέρατος: 10 (φmm)     Μήκος σύρματος: TPE main wire 2.3/4C TPE tail wire 1.5/2C TPE round wire L=1.20M±0.03M     Διαθέσιμα χρώματα: μαύρο, λευκό, κόκκινο     Λειτουργία προϊόντος: αναπαραγωγή/παύση, απάντηση/κλείσιμο, παρατεταμένο πάτημα για απόρριψη του 3S, διπλό κλικ στο κουμπί αναπαραγωγής για το επόμενο τραγούδι, τριπλό κλικ στο κουμπί αναπαραγωγής για το προηγούμενο τραγούδι     Υλικό προϊόντος: Υλικό σύρματος TPE, υλικό ABS     Διαμόρφωση προϊόντος: συνηθισμένο ηχείο, καλώδιο TPE</Description>
 		<Barcode>6920680831050</Barcode>
-		<Quantity>46</Quantity>
+		<Quantity>43</Quantity>
 	</product>
 	<product>
 		<ID>7995123121</ID>
@@ -25138,7 +25036,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεσόσπερμο ρύζι με κρυσταλλιζέ – λευκό χρώμα. Οι κόκκοι αυτού του ρυζιού τείνουν να προσκολλώνται μεταξύ τους κατά τη διάρκεια του μαγειρέματος και γι’αυτό ενδείκνυται για σούπες και γλυκά όπως το ρυζόγαλο.</Description>
 		<Barcode>5212006201205</Barcode>
-		<Quantity>148</Quantity>
+		<Quantity>147</Quantity>
 	</product>
 	<product>
 		<ID>81014</ID>
@@ -25965,7 +25863,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<Barcode>6111260550366</Barcode>
-		<Quantity>2212</Quantity>
+		<Quantity>2211</Quantity>
 	</product>
 	<product>
 		<ID>85228</ID>
