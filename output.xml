@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-09-30 16:05</created_at>
+	<created_at>2025-09-30 16:44</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -3013,7 +3013,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.784307665686153</Price>
+		<Price>6.88</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΜΠΟΥΤΑΡΗ</Manufacturer>
@@ -3030,7 +3030,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.483724379284002</Price>
+		<Price>8.48</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΜΠΟΥΤΑΡΗ</Manufacturer>
@@ -4331,7 +4331,7 @@
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<Barcode>5200111580735</Barcode>
-		<Quantity>535</Quantity>
+		<Quantity>532</Quantity>
 	</product>
 	<product>
 		<ID>47291101</ID>
@@ -5141,7 +5141,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
 		<Barcode>8052190350061</Barcode>
-		<Quantity>282</Quantity>
+		<Quantity>281</Quantity>
 	</product>
 	<product>
 		<ID>58108</ID>
@@ -7179,7 +7179,7 @@
 		<MPN>0622</MPN>
 		<Description>Οδοντόβουρτσα με μέτρια σκληρότητα της εταιρείας Colgate, η οποία καθαρίζει αποτελεσματικά τα δόντια και τα ούλα από υπολείμματα τροφίμων, βακτήρια και πλάκα, ενώ μπορεί να χρησιμοποιηθεί και από άτομα που συγκεντρώνουν σε μικρό χρονικό διάστημα μετά τον καθαρισμό οδοντική πέτρα.</Description>
 		<Barcode>6001067004943</Barcode>
-		<Quantity>3062</Quantity>
+		<Quantity>3061</Quantity>
 	</product>
 	<product>
 		<ID>60103</ID>
@@ -8117,7 +8117,7 @@
 		<MPN>640110102-2</MPN>
 		<Description>Καθαρή βαζελίνη που προστατεύει και κλειδώνει την υγρασία για ενυδάτωση και ανάπλαση.  Οφέλη "Κλειδώνει" την υγρασία, θρέφοντας και προστατεύοντας το ξηρό δέρμα Επιταχύνει τη φυσική αποκατάσταση του δέρματος και συμβάλλει στην ανάπλασή του Προστατεύει από ηλιακά εγκαύματα και σκασίματα λόγω κρύου Κατάλληλη για πολύ ξηρό δέρμα, για δέρμα με κνησμό ή ξηρότητα λόγω εκζέματος Υποαλλεργική και μη φαγεσωρογόνα φόρμουλα</Description>
 		<Barcode>42182634</Barcode>
-		<Quantity>242</Quantity>
+		<Quantity>241</Quantity>
 	</product>
 	<product>
 		<ID>64021</ID>
@@ -8321,7 +8321,7 @@
 		<MPN>0283</MPN>
 		<Description>Το οινόπνευμα είναι ένα πολύ χρήσιμο εργαλείο μέσα στο σπίτι και οι χρήσεις του είναι αμέτρητες.</Description>
 		<Barcode>5202737801010</Barcode>
-		<Quantity>1681</Quantity>
+		<Quantity>1680</Quantity>
 	</product>
 	<product>
 		<ID>64161</ID>
@@ -9511,7 +9511,7 @@
 		<MPN>0063</MPN>
 		<Description>Ένα αφρόλουτρο που αναζωογονεί την επιδερμίδα σας και προσφέρει μια αίσθηση πολυτέλειας και άνεσης κατά το μπάνιο. Η απαλή φόρμουλα του πλούσια αρωματισμένη με βανίλια αφήνει ένα ευχάριστο άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<Barcode>3800024015892</Barcode>
-		<Quantity>337</Quantity>
+		<Quantity>335</Quantity>
 	</product>
 	<product>
 		<ID>67003</ID>
@@ -10119,7 +10119,7 @@
 		<MPN>1079</MPN>
 		<Description>Γάντια νιτριλίου μιας χρήσεως, μη αποστειρωμένα, χωρίς latex, σε μαύρο χρώμα. Αντοχή έναντι χημικών ουσιών. Αμφιδέξια. Γενικής χρήσης για ιατρικές εξετάσεις, εργαστήρια, καθώς και για οικιακή χρήση. Κατάλληλα για επαφή με τρόφιμα.Τα άκρα δακτύλου έχουν ελαφρώς ανάγλυφη υφή.</Description>
 		<Barcode>5202054467746</Barcode>
-		<Quantity>286</Quantity>
+		<Quantity>285</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -10475,7 +10475,7 @@
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>2172</Quantity>
+		<Quantity>2171</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -10663,7 +10663,7 @@
 		<MPN>0190</MPN>
 		<Description>Χαρτομάντηλα της εταιρίας Selpak, 4 φύλλων απαλά και ανθεκτικά, υψηλής απορροφητικότητας. Απαραίτητος σύμμαχος στην περίοδο των κρυολογημάτων και των ανοιξιάτικων αλλεργιών.</Description>
 		<Barcode>8690530051331</Barcode>
-		<Quantity>364</Quantity>
+		<Quantity>363</Quantity>
 	</product>
 	<product>
 		<ID>70311</ID>
@@ -10697,7 +10697,7 @@
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<Barcode>5202995004628</Barcode>
-		<Quantity>1694</Quantity>
+		<Quantity>1692</Quantity>
 	</product>
 	<product>
 		<ID>70322</ID>
@@ -11364,7 +11364,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το Vanish Hand Shampoo μπορεί να χρησιμοποιηθεί στα χαλιά και τις ταπετσαρίες, για να αφαιρέσει τη βαθιά βρωμιά και τη σκόνη. Tο Vanish Hand Shampoo είναι κατάλληλο για χρήση σε μεγάλες περιοχές του χαλιού, με σκοπό να διαλύσει και να αφαιρέσει ακόμα και τους πιο επίμονους στεγνούς λεκέδες και σκόνη. Το πλούσιο, αφρώδες σαμπουάν εξουδετερώνει επίσης τις δυσάρεστες οσμές, κάνοντας το χαλί και την ταπετσαρία σας να μυρίζουν καθαριότητα &amp; φρεσκάδα έναντι μόνο σκουπίσματος με ηλεκτρική σκούπα.</Description>
 		<Barcode>5011417536322</Barcode>
-		<Quantity>94</Quantity>
+		<Quantity>93</Quantity>
 	</product>
 	<product>
 		<ID>71301</ID>
@@ -11381,7 +11381,7 @@
 		<MPN>1619</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Ενισχυτικό Πλύσης    Κατάλληλο για Πλυντήριο Ρούχων    Κατάλληλο για Πλύσιμο στο Χέρι    Σε Σκόνη</Description>
 		<Barcode>5200250700001</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>71302</ID>
@@ -11621,7 +11621,7 @@
 		<MPN>1103</MPN>
 		<Description>Υγρό απορρυπαντικό για πιάτα AVA με απαλή υφή, εμπλουτισμένο με εκχύλισμα χαμομηλιού. Ξεβγάζεται εύκολα χωρίς να αφήνει κατάλοιπα χρησιμοποιώντας λιγότερο νερό.</Description>
 		<Barcode>5201321037729</Barcode>
-		<Quantity>513</Quantity>
+		<Quantity>512</Quantity>
 	</product>
 	<product>
 		<ID>72041</ID>
@@ -11774,7 +11774,7 @@
 		<MPN>1765</MPN>
 		<Description>Απορρυπαντικό γενικής χρήσης, πολυκαθαριστική δράση με μέγιστη αποτελεσματικότητα.  Ιδανικό για:  - Δύσκολους Λεκέδες  - Σκληρή βρωμιά  - Καθαριότητα  - Οικονομία</Description>
 		<Barcode>5201321941927</Barcode>
-		<Quantity>408</Quantity>
+		<Quantity>407</Quantity>
 	</product>
 	<product>
 		<ID>72111</ID>
@@ -11927,7 +11927,7 @@
 		<MPN>1112</MPN>
 		<Description>Το Viakal Classic είναι ιδανικό για να αφαιρείτε ακόμη και τα πιο επίμονα άλατα και για να καθαρίζετε τα υπολείμματα σαπουνιού και τα στίγματα νερού στο μπάνιο και την κουζίνα σας. Η συχνή χρήση του Viakal προλαμβάνει την επανεμφάνιση των αλάτων. Η ειδική σύνθεσή του σέβεται τις επιφάνειες και βοηθά στην αποφυγή επανεμφάνισης των αλάτων.</Description>
 		<Barcode>8001090574602</Barcode>
-		<Quantity>1018</Quantity>
+		<Quantity>1017</Quantity>
 	</product>
 	<product>
 		<ID>72251</ID>
@@ -12614,7 +12614,7 @@
 	</product>
 	<product>
 		<ID>740510101</ID>
-		<Name>Vileda Περιστρεφόμενη Αυτοστιβόμενη Σετ Κουβάς με Σφουγγαρίστρα Turbo Smart</Name>
+		<Name>Vileda Περιστρεφόμενη Αυτοστιβόμενη Σετ Κουβάς με Σφουγγαρίστρα Turbo Smart 173861</Name>
 		<Product_Link>https://www.skroutz.gr/s/22961590/Vileda-Peristrefomeni-Aytostivomeni-Set-Kouvas-me-Sfougaristra-Turbo-Smart.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/022961/22961590/20211025100102_vileda_set_kouvas_me_sfougaristra_turbo_smart.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -12631,7 +12631,7 @@
 	</product>
 	<product>
 		<ID>740510102</ID>
-		<Name>Vileda Περιστρεφόμενη Ανταλλακτικό Σφουγγαρίστρα με Μικροίνες Turbo Smart Refill</Name>
+		<Name>Vileda Περιστρεφόμενη Ανταλλακτικό Σφουγγαρίστρα με Μικροίνες Turbo Smart Refill 152623</Name>
 		<Product_Link>https://www.skroutz.gr/s/24230922/Vileda-Peristrefomeni-Antallaktiko-Sfougaristra-me-Mikroines-Easy-Wring-Clean-Turbo.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024230/24230922/xlarge_20250311165918_vileda_antallaktiko_sfougaristras_me_mikroines_easy_wring_clean_turbo_152624.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -12647,8 +12647,44 @@
 		<Quantity>259</Quantity>
 	</product>
 	<product>
+		<ID>740510111</ID>
+		<Name>Vileda Σετ Κουβάς με Επίπεδη Σφουγγαρίστρα-Παρκετέζα Μικροινών Ultramax Set box 155737</Name>
+		<Product_Link>https://www.skroutz.gr/s/22809633/Vileda-Set-Kouvas-me-Sfougaristra-me-Mikroines-Ultramax-Set-box-140910.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/022809/22809633/xlarge_20220128131317_vileda_set_kouvas_me_sfougaristra_ultramax_set_box_140910.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/055539/55539099/xlarge_20220128131322_0965670f.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.52</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
+		<Manufacturer>VILEDA</Manufacturer>
+		<MPN>155737</MPN>
+		<Description>ουβάς χωρητικότητας 10Lt  - Πανί 100% μικροϊνών που προσφέρουν  απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)  - Αποδοτικό στύψιμο για να στεγνώνει το πάτωμα πιο γρήγορα  - Μπορεί να χρησιμοποιηθεί για στεγνό ή βρεγμένο καθάρισμα αφού λειτουργεί ως παρκετέζα καθώς και ως σφουγγαρίστρα</Description>
+		<Barcode>4023103143890</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>740510112</ID>
+		<Name>Vileda Ανταλλακτικό Σφουγγαρίστρα-Παρκετέζα με Μικροίνες Ultramax 2 in 1 155747</Name>
+		<Product_Link>https://www.skroutz.gr/s/22812004/Vileda-Antallaktiko-Parketeza-me-Mikroines-Ultramax-Microfibre-2-in-1-155747.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/022812/22812004/xlarge_20201013123136_vileda_sfougaristra_ultramax_2_in_1_155747.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/107906/107906619/xlarge_20250311165658_621d751a.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.78</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
+		<Manufacturer>VILEDA</Manufacturer>
+		<MPN>155747</MPN>
+		<Description>Με νέα σύνθεση από 100% μικροΐνες που προσφέρουν μέγιστη απορροφητικότητα και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό.  Οι λευκές μικροΐνες εξασφαλίζουν τέλεια καθαριότητα για πάτωμα που αστράφτει. Οι κόκκινες μικροΐνες χαρίζουν βαθύ καθαρισμό και απομακρύνουν ακόμα και την πιο επίμονη βρωμιά. Είναι κατάλληλο για όλους τους τύπους πατώματος. Πλένεται στο πλυντήριο στους 60°C.</Description>
+		<Barcode>4023103201262</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>740510201</ID>
-		<Name>Vileda Σφουγγαρίστρα-Παρκετέζα με Σπρέι Ψεκασμού και Μικροίνες Spray Max 1-2</Name>
+		<Name>Vileda Σφουγγαρίστρα-Παρκετέζα με Σπρέι Ψεκασμού και Μικροίνες Spray Max 1-2 173502</Name>
 		<Product_Link>https://www.skroutz.gr/s/23485304/Vileda-Sfougaristra-Parketeza-me-Sprei-PSekasmou-kai-Mikroines-SprayMax-1-2-166144.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_images/034050/34050397/xlarge_20200812165241_7458ad5a.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -12665,7 +12701,7 @@
 	</product>
 	<product>
 		<ID>740510202</ID>
-		<Name>Vileda Ανταλλακτικό Σφουγγαρίστρας-Παρκετέζας με Σπρέι Ψεκασμού Refill Spray Max 1-2</Name>
+		<Name>Vileda Ανταλλακτικό Σφουγγαρίστρας-Παρκετέζας με Σπρέι Ψεκασμού Refill Spray Max 1-2 168648</Name>
 		<Product_Link>https://www.skroutz.gr/s/23494118/Vileda-Antallaktiko-Sfougaristras-me-Sprei-PSekasmou-Refill-SprayMax-152923.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_images/107906/107906568/xlarge_20250311165655_e352c7dc.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -12953,7 +12989,7 @@
 		<MPN>Ε-1656</MPN>
 		<Description>Σύρμα μαλλί ιδανικό για την καθαριότητα όλων των σκευών της κουζίνας.  Η συσκευασία περιέχει 6 τεμάχια.</Description>
 		<Barcode>5203642116565</Barcode>
-		<Quantity>144</Quantity>
+		<Quantity>143</Quantity>
 	</product>
 	<product>
 		<ID>74253</ID>
@@ -13480,7 +13516,7 @@
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<Barcode>4012425171216</Barcode>
-		<Quantity>16207</Quantity>
+		<Quantity>16204</Quantity>
 	</product>
 	<product>
 		<ID>751311</ID>
@@ -13497,7 +13533,7 @@
 		<MPN>1620</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλουν στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστοι. Σημαντικό πλεονέκτημα τους είναι το γεγονός πως δεν αφήνουν οσμή, ενώ διακρίνονται για την ασφαλή τους χρήση.    Τεμάχια: 48τμχ</Description>
 		<Barcode>5207043000614</Barcode>
-		<Quantity>1829</Quantity>
+		<Quantity>1828</Quantity>
 	</product>
 	<product>
 		<ID>751312</ID>
@@ -13514,7 +13550,7 @@
 		<MPN>1620001</MPN>
 		<Description>Λευκά Προσάναμμα κηροζίνης σε 48 κομμάτια για να ανάβετε εύκολα και γρήγορα τα κάρβουνα και τα ξύλα.</Description>
 		<Barcode>5200148360072</Barcode>
-		<Quantity>2800</Quantity>
+		<Quantity>2799</Quantity>
 	</product>
 	<product>
 		<ID>75132</ID>
@@ -13548,7 +13584,7 @@
 		<MPN>0601</MPN>
 		<Description>Προσάναμμα το οποίο είναι ιδανικό για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλει στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστο.</Description>
 		<Barcode>3800022501618</Barcode>
-		<Quantity>100</Quantity>
+		<Quantity>99</Quantity>
 	</product>
 	<product>
 		<ID>75134</ID>
@@ -13566,7 +13602,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Καθαριστικός κορμός κατάλληλος για τον καθαρισμό της καμινάδας του τζακιού. Θα σας βοηθήσει να απομακρύνετε από τα τοιχώματα της καμινάδας σας καπνιά και επικαθήσεις. Έτσι η κυκλοφορία του αέρα θα είναι καλύτερη και το τζάκι σας πιο αποδοτικό. Επιπλέον με τον τακτικό καθαρισμό της καμινάδας σας μειώνεται ο κίνδυνος αυτανάφλεξής της, κάνοντάς την πιο ασφαλή αλλά και λειτουργική.</Description>
 		<Barcode>3800022501731</Barcode>
-		<Quantity>99</Quantity>
+		<Quantity>98</Quantity>
 	</product>
 	<product>
 		<ID>75141</ID>
@@ -13980,7 +14016,7 @@
 		<MPN>3301822</MPN>
 		<Description>Πλαστική παγοθήκη 12 θέσεων. Κατασκευασμένη από ανθεκτικό στη χρήση υλικό.</Description>
 		<Barcode>5202707005295</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>75800101</ID>
@@ -14048,7 +14084,7 @@
 		<MPN>0331</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 24x17cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500110</Barcode>
-		<Quantity>717</Quantity>
+		<Quantity>715</Quantity>
 	</product>
 	<product>
 		<ID>75812</ID>
@@ -14065,7 +14101,7 @@
 		<MPN>0530</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 28x33cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500127</Barcode>
-		<Quantity>2124</Quantity>
+		<Quantity>2123</Quantity>
 	</product>
 	<product>
 		<ID>75813</ID>
@@ -14388,7 +14424,7 @@
 		<MPN>E-0759</MPN>
 		<Description>Πλαστικά μανταλάκια για ρούχα σε σετ 24τμχ με 4 διαφορετικά χρώματα.</Description>
 		<Barcode>5203642107594</Barcode>
-		<Quantity>87</Quantity>
+		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>762011</ID>
@@ -14422,7 +14458,7 @@
 		<MPN>E-2496</MPN>
 		<Description>Μανταλάκια ρούχων με σιλικόνη για να μην αφήνει σημάδι στα ρούχα. Διαθέτουν ανοξείδωτο ελατήριο, σετ 10 τμχ σε διάφορα Χρώματα.</Description>
 		<Barcode>5203642124966</Barcode>
-		<Quantity>52</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>76201151</ID>
@@ -14986,7 +15022,7 @@
 		<MPN>E-30461</MPN>
 		<Description>Το ψαλίδι κουζίνας της εταιρείας Sidirela με μήκος 21cm, είναι κατάλληλο για καθημερινή χρήση, σε όλες τις βασικές εργασίες προετοιμασίας φαγητού. Ιδανικό να τεμαχίσει φρούτα, λαχανικά, κρέας και άλλα, άμεσα και γρήγορα.</Description>
 		<Barcode>5203642130462</Barcode>
-		<Quantity>44</Quantity>
+		<Quantity>43</Quantity>
 	</product>
 	<product>
 		<ID>762206002</ID>
@@ -15156,7 +15192,7 @@
 		<MPN>1431</MPN>
 		<Description>Το δοχείο φαγητού της εταιρείας Cyclops είναι κατασκευασμένο από πλαστικό, ένα υλικό που το κάνει ελαφρύ και πρακτικό.Χωρητικότητα: 2100mlΚατάλληλο για ΜικροκύματαΜήκος: 26.5cmΠλάτος: 18.5cm</Description>
 		<Barcode>5202707007084</Barcode>
-		<Quantity>19</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>762421</ID>
@@ -15177,7 +15213,7 @@
 	</product>
 	<product>
 		<ID>76243</ID>
-		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Τετράγωνο Βεραμάν Κατάλληλο για Φούρνο Μικροκυμάτων 3τμχ</Name>
+		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Τετράγωνο Μπλε Κατάλληλο για Φούρνο Μικροκυμάτων 3τμχ</Name>
 		<Product_Link>https://www.cyclops.gr/site/product/%CE%A6%CE%B1%CE%B3%CE%B7%CF%84%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%BF-%CE%A4%CE%B5%CF%84%CF%81%CE%AC%CE%B3%CF%89%CE%BD%CE%BF-%CF%83%CE%B5%CF%84-3-%CF%84%CE%B5%CE%BC-?prdId=00331091</Product_Link>
 		<Image_Link>https://i.imgur.com/KrooKDU.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -15360,7 +15396,7 @@
 		<MPN>1450</MPN>
 		<Description>Σαλατιέρα της εταιρείας Cyclops σε μπλε χρώμα, ιδανική λύση για το καθημερινό σας τραπέζι χάρη στο ελαφρύ και ανθεκτικό υλικό της. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Μήκος: 27.5cmΠλάτος: 27.5cmΎψος: 13.1cm</Description>
 		<Barcode>5202707060232</Barcode>
-		<Quantity>18</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>763122</ID>
@@ -15962,7 +15998,7 @@
 		<MPN>LSB054C01</MPN>
 		<Description>Η παπουτσοθήκη της εταιρείας Vasagle διαθέτει τον κατάλληλο χώρο για την οργάνωση, αποθήκευση και προστασία των παπουτσιών σας και είναι μεταλλικής κατασκευής, προσφέροντας ανθεκτικότητα και στιβαρότητα.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στην φωτογραφία. Τεχνικά χαρακτηριστικά:      Στιβαρός ατσάλινος σκελετός.     Ρυθμιζόμενα πόδια.     Εξοπλισμένη με 2 ράφια για παπούτσια.     Κάθισμα από λείο τεχνητό δέρμα με σφουγγάρι 25D πάχους 8εκ.     Μέγιστο βάρος καθίσματος: 135kg.</Description>
 		<Barcode>0194343193557</Barcode>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7700120951</ID>
@@ -16116,7 +16152,7 @@
 		<MPN>RDT114W01</MPN>
 		<Description>Τουαλέτα κρεβατοκάμαρας με καθρέπτη από την εταιρεία Vasagle, κατασκευασμένη από MDF ξύλο. Περιμετρικά στον καθρέπτη, υπάρχουν 9 ρυθμιζόμενοι λαμπτήρες, οι οποίοι δημιουργούν επαρκή φωτισμό για το μακιγιάζ σας. Περιλαμβάνει 3 ανοιχτές θήκες και 2 συρτάρια για την οργάνωση κοσμημάτων ή άλλων αντικειμένων.  Ιδανική λύση για την τακτοποίηση προϊόντων ομορφιάς και καθημερινών χρήσεων.  Το προϊόν έρχεται αμοντάριστο και συνοδεύεται από οδηγίες συναρμολόγησης.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία. Χαρακτηριστικά:      Από MDF ξύλο     2 συρτάρια     3 ανοιχτές θήκες     Ορθογώνιος καθρέπτης     9 ρυθμιζόμενοι λαμπτήρες     Διαστάσεις: 80 x 40 x 145 cm</Description>
 		<Barcode>0194343107776</Barcode>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>7700130102</ID>
@@ -16544,7 +16580,7 @@
 		<MPN>E-3443</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134439</Barcode>
-		<Quantity>129</Quantity>
+		<Quantity>128</Quantity>
 	</product>
 	<product>
 		<ID>772100104</ID>
@@ -18240,7 +18276,7 @@
 		<MPN>1777</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.  Χαρακτηριστικά      Μήκος(μέτρα): 20μ.     Πλάτος: 29εκ.</Description>
 		<Barcode>5202054036195</Barcode>
-		<Quantity>172</Quantity>
+		<Quantity>171</Quantity>
 	</product>
 	<product>
 		<ID>78902</ID>
@@ -18257,7 +18293,7 @@
 		<MPN>1566</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036201</Barcode>
-		<Quantity>212</Quantity>
+		<Quantity>211</Quantity>
 	</product>
 	<product>
 		<ID>78911</ID>
@@ -18479,6 +18515,23 @@
 		<Description>Ταινία εύθραυστον φάρδος 5cm και μήκους 60 μέτρων.</Description>
 		<Barcode>5203642115308</Barcode>
 		<Quantity>535</Quantity>
+	</product>
+	<product>
+		<ID>790100101</ID>
+		<Name>Sidirela Σετ Φαλτσέτες σε δύο Μεγέθη με Ανταλλακτικές Λεπίδες σε Συσκευασία blister Ε-2766</Name>
+		<Product_Link>https://www.skroutz.gr/s/32486689/Sidirela-Set-Kopidia-Faltsetes-me-Plastiko-Soma-E-2766.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/032486/32486689/xlarge_20211119152156_sidi_home_e_2766.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.39</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt;Εξοπλισμός Γραφείου &gt; Χαρτοκόπτες, Κοπίδια</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-2766</MPN>
+		<Description>Σετ φαλτσέτες σε δύο μεγέθη, μαζί με ανταλλακτικές λεπίδες. Συσκευασία blister.</Description>
+		<Barcode>5203642127660</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79001</ID>
@@ -24707,7 +24760,7 @@
 		<Manufacturer>ATC</Manufacturer>
 		<MPN>03.005.0164</MPN>
 		<Description>Τηλεχειριστήριο Universal για Samsung Smart IR-1312.</Description>
-		<Quantity>182</Quantity>
+		<Quantity>181</Quantity>
 	</product>
 	<product>
 		<ID>79966202</ID>
