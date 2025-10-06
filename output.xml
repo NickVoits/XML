@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-10-06 16:05</created_at>
+	<created_at>2025-10-06 16:33</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -231,7 +231,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>245</Quantity>
+		<Quantity>244</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -2025,7 +2025,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>2302</Quantity>
+		<Quantity>2300</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -8611,7 +8611,7 @@
 		<MPN>0037</MPN>
 		<Description>Το TEO Soap Luscious Vanilla είναι ένα σαπούνι που περιέχει εκλεπτυσμένο άρωμα βανίλιας. Με την απαλή του σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Η αρωματική νότα της βανίλιας δημιουργεί μια ευχάριστη αίσθηση φρεσκάδας και ευεξίας κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<Barcode>3800024014369</Barcode>
-		<Quantity>4410</Quantity>
+		<Quantity>4413</Quantity>
 	</product>
 	<product>
 		<ID>65502</ID>
@@ -8628,7 +8628,7 @@
 		<MPN>0422</MPN>
 		<Description>Το TEO Soap Ylang Ylang είναι ένα σαπούνι που περιέχει το αρωματικό έλαιο Ylang Ylang. Με την απαλή του σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Το Ylang Ylang είναι γνωστό για τις αναζωογονητικές και ηρεμιστικές του ιδιότητες, προσφέροντας μια αίσθηση χαλάρωσης και ευεξίας κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<Barcode>3800024014390</Barcode>
-		<Quantity>4791</Quantity>
+		<Quantity>4794</Quantity>
 	</product>
 	<product>
 		<ID>65503</ID>
@@ -8645,7 +8645,7 @@
 		<MPN>0999</MPN>
 		<Description>Το TEO Soap Midnight Jasmine είναι ένα σαπούνι με το αρωματικό άρωμα του γιασεμιού. Με μια απαλή σύνθεση, καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Το άρωμα του Midnight Jasmine δημιουργεί μια αίσθηση ευεξίας και χαλάρωσης κατά τη χρήση. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<Barcode>3800024014376</Barcode>
-		<Quantity>3629</Quantity>
+		<Quantity>3632</Quantity>
 	</product>
 	<product>
 		<ID>65504</ID>
@@ -8662,7 +8662,7 @@
 		<MPN>0618</MPN>
 		<Description>Το TEO Soap Irresistible Fig είναι ένα σαπούνι με το αρωματικό άρωμα του φρούτου σύκου, δημιουργώντας μια εκλεπτυσμένη αίσθηση φρεσκάδας και ευεξίας. Η απαλή του σύνθεση καθαρίζει απαλά το δέρμα, αφήνοντάς το απαλό και ενυδατωμένο. Ιδανικό για καθημερινή χρήση, προσφέρει μια απολαυστική εμπειρία περιποίησης.</Description>
 		<Barcode>3800024014383</Barcode>
-		<Quantity>5634</Quantity>
+		<Quantity>5637</Quantity>
 	</product>
 	<product>
 		<ID>65511</ID>
@@ -9631,7 +9631,7 @@
 		<MPN>1255</MPN>
 		<Description>Αφρόλουτρο που μετατρέπει την καθημερινή ρουτίνα σε μία πολύτιμη εμπειρία ενώ με το δελεαστικό του άρωμα ταξιδεύει στην Ανατολή. Με έλαιο Argan ενυδατώνει και αφήνει το δέρμα απαλό και βελούδινο.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>8008970005621</Barcode>
-		<Quantity>18</Quantity>
+		<Quantity>22</Quantity>
 	</product>
 	<product>
 		<ID>67026</ID>
@@ -9648,7 +9648,7 @@
 		<MPN>1256</MPN>
 		<Description>Το έλαιο Tsubaki που λαμβάνεται πιέζοντας τους σπόρους του φυτού Camellia japonica, χρησιμοποιείται παραδοσιακά στην Ιαπωνία για τη θεραπεία του δέρματος. Είναι από μόνο του μαλακτικό, ενυδατικό και αντι-οξειδωτικό. Έντονο και αισθησιακό άρωμα του είναι εμπλουτισμένη με φρέσκα και ανθισμένα Παιωνία.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και αφήνει απαλό το δέρμα σου.</Description>
 		<Barcode>8008970039190</Barcode>
-		<Quantity>22</Quantity>
+		<Quantity>25</Quantity>
 	</product>
 	<product>
 		<ID>67091</ID>
@@ -9920,7 +9920,7 @@
 		<MPN>1767</MPN>
 		<Description>Η κρέμα Arnica leg therapy, με Arnica &amp; Tea Tree oil είναι ιδανική για μώλωπες, και μυϊκούς πόνους. Ανακουφίζει και δροσίζει τα κουρασμένα και πρησμένα πόδια από την έντονη άσκηση και ορθοστασία, έχει πολύ ωραίο άρωμα.</Description>
 		<Barcode>5201008110202</Barcode>
-		<Quantity>38</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>67231</ID>
@@ -10476,7 +10476,7 @@
 		<MPN>RK.T2.2X330G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point διαθέτει δύο φύλλα και μικρό περφορέ. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού και στον καθημερινό σας βίο.</Description>
 		<Barcode>5200100280394</Barcode>
-		<Quantity>946</Quantity>
+		<Quantity>930</Quantity>
 	</product>
 	<product>
 		<ID>70102</ID>
@@ -13638,7 +13638,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Το παραφινέλαιο της εταιρείας River Hellas είναι ένα διαυγές και άοσμο ελαιώδες υγρό, το οποίο καίγεται αργά και δεν καπνίζει αν ρυθμιστεί χαμηλά το φυτίλι της λάμπας ή της λυχνίας. Κατάλληλο για χρήση σε λάμπες πετρελαίου.</Description>
 		<Barcode>5205376018993</Barcode>
-		<Quantity>1902</Quantity>
+		<Quantity>1901</Quantity>
 	</product>
 	<product>
 		<ID>75201</ID>
@@ -15128,23 +15128,6 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>76232</ID>
-		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Ορθογώνιο Κοραλί Κατάλληλο για Φούρνο Μικροκυμάτων 1650ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/20252459/Cyclops-Fresco-Docheio-Fagitou-Plastiko-Roz-Katallilo-gia-Fourno-Mikrokymaton-1650ml-003301864.html</Product_Link>
-		<Image_Link>https://www.cyclops.gr/prd_images/003301864-1.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.4</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Οργάνωση &amp; Αποθήκευση Κουζίνας &gt; Δοχεία Φαγητού</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1425</MPN>
-		<Description>Το δοχείο φαγητού της εταιρείας Cyclops είναι κατασκευασμένο από πλαστικό, ένα υλικό που το κάνει ελαφρύ και πρακτικό.  Χωρητικότητα: 1650ml Κατάλληλο για Μικροκύματα Μήκος: 20.8cm Πλάτος: 13.5cm</Description>
-		<Barcode>5202707006520</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>76233</ID>
 		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Μακρόστενο Φούξια 3τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/31021690/Cyclops-Fresco-Docheio-Fagitou-Plastiko-Fouxia-Katallilo-gia-Fourno-Mikrokymaton-003301877F-3tmch.html</Product_Link>
@@ -15177,23 +15160,6 @@
 		<Description>Βασικά χαρακτηριστικά:Χωρητικότητα: 0.55Lt /1.1Lt /2.1LΚατάλληλο για φούρνο μικροκυμάτωνΥλικό Κατασκευής: ΠλαστικόΜε καπάκι</Description>
 		<Barcode>5202707007640</Barcode>
 		<Quantity>27</Quantity>
-	</product>
-	<product>
-		<ID>76241</ID>
-		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Τετράγωνο Βεραμάν Κατάλληλο για Φούρνο Μικροκυμάτων 1100ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/40158848/Cyclops-Fresco-Docheio-Fagitou-Plastiko-Veraman-Katallilo-gia-Fourno-Mikrokymaton-1100ml-003301871V.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/040158/40158848/fixedratio_20221228152732_cyclops_fresco_docheio_fagitou_plastiko_veraman_katallilo_gia_fourno_mikrokymaton_1100ml_003301871v.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.9012992575999998</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Οργάνωση &amp; Αποθήκευση Κουζίνας &gt; Δοχεία Φαγητού</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1429</MPN>
-		<Description>Το δοχείο φαγητού της εταιρείας Cyclops είναι κατασκευασμένο από πλαστικό, ένα υλικό που το κάνει ελαφρύ και πρακτικό.Χωρητικότητα: 1100mlΚατάλληλο για ΜικροκύματαΜήκος: 15.8cmΠλάτος: 15.8cm</Description>
-		<Barcode>5202707007091</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>762411</ID>
@@ -15432,23 +15398,6 @@
 		<Description>Σαλατιέρα της εταιρείας Cyclops σε μπλε χρώμα, ιδανική λύση για το καθημερινό σας τραπέζι χάρη στο ελαφρύ και ανθεκτικό υλικό της. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Μήκος: 27.5cmΠλάτος: 27.5cmΎψος: 13.1cm</Description>
 		<Barcode>5202707060232</Barcode>
 		<Quantity>17</Quantity>
-	</product>
-	<product>
-		<ID>763122</ID>
-		<Name>Cyclops Πιάτο Ρηχό Πλαστικό Πράσινο με Διάμετρο 23cm</Name>
-		<Product_Link>https://www.skroutz.gr/s/37240068/Piato-Richo-Plastiko-Prasino-me-Diametro-23cm.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/037240/37240068/fixedratio_20220720135227_piato_richo_plastiko_prasino_me_diametro_23cm.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.7601319039999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πιάτα &amp; Σερβίτσια &gt; Πιάτα Σερβιρίσματος</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1452</MPN>
-		<Description>Πιάτο ρηχό το οποίο αποτελεί το πιο βασικό είδος πιάτου αφού το χρησιμοποιούμε συνηθέστερα μέσα στη μέρα μας. Μπορείτε να σερβίρετε οποιοδήποτε είδος φαγητού, και έχει το κατάλληλο μέγεθος για να χωρέσει κάθε κυρίως γεύμα με την αντίστοιχη γαρνιτούρα.Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χρώμα: Πράσινο</Description>
-		<Barcode>5202707003925</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>763132</ID>
@@ -18175,7 +18124,7 @@
 		<MPN>Ε-1074</MPN>
 		<Description>Σακούλες market βιοδιασπώμενες, φιλικές προς το περιβάλλον, δεν υπόκεινται σε περιβαλλοντικά τέλη. Διαστάσεις:  Μήκος: 40cm Πλάτος: 30cm Πλαστικές σακούλες τύπου φανελάκι. Διαθέτουν 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας και είναι ιδανικές για χρήση σε καταστήματα λιανικής πώλησης, όπως super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
 		<Barcode>5203642110747</Barcode>
-		<Quantity>51</Quantity>
+		<Quantity>52</Quantity>
 	</product>
 	<product>
 		<ID>788400103</ID>
@@ -19098,6 +19047,24 @@
 		<Quantity>1186</Quantity>
 	</product>
 	<product>
+		<ID>793100501</ID>
+		<Name>Esperanza Volcano Καταστροφέας Εγγράφων Strip Cut 5 Φύλλων με Κάδο 10lt EN101</Name>
+		<Product_Link>https://www.skroutz.gr/s/40858795/Esperanza-Katastrofeas-Egrafon-Strip-Cut-5-Fyllon-me-Kado-10lt-EN101.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/040858/40858795/xlarge_20230512100734_esperanza_katastrofeas_egrafon_strip_cut_5_fyllon_me_kado_10lt_101_01_000131.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/075933/75933225/xlarge_20230512100734_c5f19c27.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B&gt;Μηχανές Γραφείου &gt; Καταστροφείς Εγγράφων</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EN101</MPN>
+		<Description>Ο καταστροφέας εγγράφων Esperanza BLADE καταστρέφει αποτελεσματικά έως και 5 φύλλα χαρτιού μεγέθους A4 (80 g/m²) ταυτόχρονα, μετατρέποντάς τα σε λωρίδες πλάτους 7 mm. Σχεδιασμένος για ασφάλεια και ανθεκτικότητα, ο καταστροφέας διαθέτει κλείδωμα ασφαλείας και διακόπτη θερμικής υπερφόρτωσης. Ο συμπαγής σχεδιασμός του περιλαμβάνει ένα ευρύχωρο καλάθι απορριμμάτων 10 λίτρων, εξασφαλίζοντας τόσο την άνεση όσο και την ασφαλή απόρριψη των εγγράφων.</Description>
+		<Barcode>5901299900536</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>79320101</ID>
 		<Name>Esperanza Πλαστικοποιητής Infinity Επιτραπέζιος για A4 EFL001</Name>
 		<Product_Link>https://www.skroutz.gr/s/15345384/Esperanza-Plastikopoiitis-Infinity-Epitrapezios-gia-A4-EFL001.html</Product_Link>
@@ -19122,7 +19089,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.746405016</Price>
+		<Price>22.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B&gt;Μηχανές Γραφείου &gt; Πλαστικοποιητές</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -21720,6 +21687,24 @@
 		<Quantity>38</Quantity>
 	</product>
 	<product>
+		<ID>799120203</ID>
+		<Name>Esperanza Ψηφιακή Ζυγαριά Κουζίνας 1gr/5kg Bamboo EKS005</Name>
+		<Product_Link>https://www.skroutz.gr/s/16987614/Esperanza-EKS005-PSifiaki-Zygaria-Kouzinas-1gr-5kg-Kafe.html#sofos-entrypoint</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/016987/16987614/xlarge_20200214135345_esperanza_eks005.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/050975/50975987/xlarge_20211015175825_6cecad00.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.58</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt;Συσκευές Επεξεργασίας Τροφίμων &gt; Ζυγαριές Κουζίνας</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EKS005</MPN>
+		<Description>Η ψηφιακή ζυγαριά κουζίνας, από την εταιρία Esperanza, διαθέτει επιφάνεια από ξύλο μπαμπού και μεγάλη οθόνη LCD για εύκολη χρήση. Εξοπλισμένη με ένδειξη απόβαρου και υπερφόρτωσης και μέγιστο βάρος ζύγισης τα 5 Kg. Είναι κατάλληλη για ζύγιση όλων των ξηρών και υγρών συστατικών και τροφίμων.  Αισθητήρας ακριβής μέτρησης Επιφάνεια από μπαμπού Ένδειξη υπερφόρτωσης Ένδειξη χαμηλής μπαταρίας Μεγάλη οθόνη LCD 4 μονάδες μέτρησης: g / lb / oz / kg Ακρίβεια: 1 g Τροφοδοσία: 3 μπαταρίες ΑΑΑ Βάρος: 358 g</Description>
+		<Barcode>5901299917510</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7991301</ID>
 		<Name>Eurolamp Τοστιέρα για 2 Τοστ 800W Μαύρη</Name>
 		<Product_Link>https://www.skroutz.gr/s/31416404/Eurolamp-300-70022-Tostiera-gia-2-Tost-800W-Mayri.html</Product_Link>
@@ -21804,6 +21789,24 @@
 		<Description>Η φριτέζα, από την εταιρία Esperanza, διαθέτει ισχύ 2000 W, χωρητικότητα 3 λίτρα και ρυθμιζόμενο θερμοστάτη που σας επιτρέπει να ρυθμίσετε τη σωστή θερμοκρασία για το τηγάνισμα των αγαπημένων σας πιάτων. Έχει ευρύχωρο καλάθι με μη θερμαινόμενη λαβή, αντιολισθητικά πόδια και καλώδιο μήκους 90 cm. Τεχνικά Χαρακτηριστικά      Χωρητικότητα: 3 λίτρα     Αντιολησθητικά πόδια     Συμπαγής ανοξείδωτη κατασκευή     Θερμοστάτης για έλεγχο θερμοκρασίας     Ευρύχωρο καλάθι με μη θερμαινόμενη λαβή     Μήκος καλωδίου: 90 cm     Τροφοδοσία: 220 - 240 V / 50-60 Hz     Ισχύς: 2000W     Βάρος: 2.3 κιλά</Description>
 		<Barcode>5901299954416</Barcode>
 		<Quantity>111</Quantity>
+	</product>
+	<product>
+		<ID>799140101</ID>
+		<Name>Esperanza Ατμομάγειρας με 3 Επίπεδα Μαγειρέματος 7.5lt EKG009</Name>
+		<Product_Link>https://www.skroutz.gr/s/17617189/Esperanza-EKG009-Atmomageiras-me-3-Epipeda-Mageirematos-7-5lt.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/017617/17617189/xlarge_20250924112758_esperanza_ekg009_atmomageiras_me_3_epipeda_mageirematos_7_5lt.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/030509/30509460/xlarge_20200213164326_9aef2210.jpeg https://d.scdn.gr/images/sku_images/079749/79749601/xlarge_20230714110307_ff2a36aa.jpeg https://b.scdn.gr/images/sku_images/079749/79749594/xlarge_20230714110307_3cf08eda.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.82</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Ατμομάγειρες</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>EKG009</MPN>
+		<Description>Ο ατμομάγειρας από την Esperanza, ισχύος 400 W με βάση από ανοξείδωτο ατσάλι και χρονοδιακόπτη 60 λεπτών, δε θα πρέπει να λείπει από την κουζίνα.  Είναι ιδανικός για γρήγορο και υγιεινό μαγείρεμα με ατμό, διατηρώντας όλα τα θρεπτικά συστατικά και τις βιταμίνες των τροφίμων. Έτσι, σε κάθε φαγητό που θα ετοιμάζετε, πάντα θα διατηρούνται η γεύση και οι βιταμίνες του.   Πλήρη γεύματα χωρίς περιορισμούς Τα τρία επίπεδα σας προσφέρουν μεγάλη χωρητικότητα με συνολικό όγκο 7.5 λίτρων, για την παράλληλη προετοιμασία πολλών διαφορετικών πιάτων ταυτόχρονα, όπως για παράδειγμα των λαχανικών, του κρέατος, του ψαριού, των αυγών ή του ρυζιού.  Χάρη στον χρονοδιακόπτη με διάρκεια έως και 60 λεπτά, δε χρειάζεται πλέον να παρακολουθείτε το μαγείρεμα σας.   Εξαρτήματα και σχεδιασμός Διαθέτει έναν κάδο για το μαγείρεμα του ρυζιού, και η βάση είναι κατασκευασμένη από ανοξείδωτο ατσάλι, για μεγαλύτερη αντοχή στον χρόνο.   Ο καθαρισμός του είναι πανεύκολος, αφού όλα τα εξαρτήματα (εκτός της βάσης) πλένονται στο πλυντήριο πιάτων.    Χαρακτηριστικά 3 διαφανή αφαιρούμενα καλάθια 7.5 Lt Ξεχωριστές λαβές στο κάθε καλάθι Αποσπώμενο καπάκι Διακόπτης ενεργοποίησης / απενεργοποίησης με φωτεινή ένδειξη Αντιολισθητική Βάση 3 επίπεδα μαγειρέματος Ισχύς: 400W Μπολ ρυζιού: Ναι Χρονόμετρο: 60 λεπτά Υλικό: Inox - Πλαστικό Κατασκευαστής Esperanza - Ατμομάγειρες Esperanza Χαρακτηριστικά Κωδικός ΠροϊόντοςEKG009 Χαρακτηριστικά Ισχύς400 W Επίπεδα Μαγειρέματος3 Συνολική Χωρητικότητα7,5 lt Δυνατότητες &amp; Λειτουργίες με ΜπλέντερΌχι</Description>
+		<Barcode>5901299954355</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79917011</ID>
@@ -22419,7 +22422,7 @@
 		<MPN>EBS019</MPN>
 		<Description>Η σύγχρονη ψηφιακή ζυγαριά, της εταιρίας Esperanza, σας επιτρέπει να ελέγχετε το βάρος του μωρού σας. Η τακτική εξέταση του βάρους και της ανάπτυξης του μωρού σας βοηθά στην παρακολούθηση της σωστής ανάπτυξής του. Η ζυγαριά μπορεί να ζυγίσει μέχρι και 20 κιλά.  Η μεγάλη οθόνη υγρών κρυστάλλων κάνει εύκολη την ανάγνωση των αποτελεσμάτων ζύγισης. Η ζυγαριά είναι επίσης εξοπλισμένη με λειτουργίες TARE και HOLD για εύκολο ζύγισμα, όταν το παιδί σας μετακινείται. Το εργονομικό της σχήμα εξασφαλίζει την άνεση και την ασφάλεια του παιδιού σας όταν το ζυγίζετε.      Ακριβής ζύγιση     Βάρος: 0.03 - 20kg     Κλίμακα διαίρεσης: 0.01kg     Λειτουργία TARE (απόβαρο)     Λειτουργία HOLD (για πιο ακριβείς μετρήσεις όταν κινείται το μωρό)     Μεγάλη οθόνη LCD: 60x25mm     Μονάδα μέτρησης: KG / LB / ST     Τροφοδοσία: 2 x AAA μπαταρία (δεν περιλαμβάνονται)     Ένδειξη χαμηλής μπαταρίας και υπερφόρτωσης     Αυτόματη και χειροκίνητη απενεργοποίηση     Θερμοκρασία εργασίας: 0° C - 40° C     Διαστάσεις: 54.5x32x3cm</Description>
 		<Barcode>5901299954935</Barcode>
-		<Quantity>85</Quantity>
+		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>799400211</ID>
