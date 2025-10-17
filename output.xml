@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-10-17 16:05</created_at>
+	<created_at>2025-10-17 16:27</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -446,7 +446,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171331237</Barcode>
-		<Quantity>303</Quantity>
+		<Quantity>301</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -1055,7 +1055,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>713</Quantity>
+		<Quantity>710</Quantity>
 	</product>
 	<product>
 		<ID>130318</ID>
@@ -2127,7 +2127,7 @@
 		<MPN>10160</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα.</Description>
 		<Barcode>1520162701990</Barcode>
-		<Quantity>484</Quantity>
+		<Quantity>974</Quantity>
 	</product>
 	<product>
 		<ID>20602</ID>
@@ -2144,7 +2144,7 @@
 		<MPN>10180</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
 		<Barcode>5201627000939</Barcode>
-		<Quantity>147</Quantity>
+		<Quantity>1267</Quantity>
 	</product>
 	<product>
 		<ID>20603</ID>
@@ -2161,7 +2161,7 @@
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
 		<Barcode>5201627019955</Barcode>
-		<Quantity>704</Quantity>
+		<Quantity>1292</Quantity>
 	</product>
 	<product>
 		<ID>21501011</ID>
@@ -2645,7 +2645,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100318</Barcode>
-		<Quantity>576</Quantity>
+		<Quantity>575</Quantity>
 	</product>
 	<product>
 		<ID>40421</ID>
@@ -2663,7 +2663,7 @@
 		<Weight>5 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ προσφέρει ένα δροσιστικό και φρουτώδες ροζέ κρασί με αρώματα φρούτων και λουλουδιών. Με το φωτεινό του χρώμα και την ευχάριστη γεύση του, αποτελεί μια εξαιρετική επιλογή για να απολαύσετε απολαυστικές στιγμές απόλαυσης με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100325</Barcode>
-		<Quantity>102</Quantity>
+		<Quantity>101</Quantity>
 	</product>
 	<product>
 		<ID>40425</ID>
@@ -12312,7 +12312,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.8346626522</Price>
+		<Price>1.994198535</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12329,7 +12329,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9852817946999999</Price>
+		<Price>1.0709584725</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12346,7 +12346,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.2310403857</Price>
+		<Price>2.4250438975</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12363,7 +12363,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0419071852</Price>
+		<Price>1.13250781</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12381,7 +12381,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.9</Price>
+		<Price>3.899766023999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -12398,7 +12398,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.574185855899999</Price>
+		<Price>1.7110715825</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12415,7 +12415,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.574185855899999</Price>
+		<Price>1.7110715825</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12432,7 +12432,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7248049983999999</Price>
+		<Price>0.78783152</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12440,6 +12440,22 @@
 		<Description>Φαράσι σε πράσινο χρώμα της εταιρείας Cyclops, κατάλληλο για την περισυλλογή των απορριμμάτων κατά το σκούπισμα. Είναι κατασκευασμένο από πλαστικό, ένα υλικό ιδιαίτερα ανθεκτικό και οικονομικό. Διαθέτει λάστιχο για να διευκολύνει τη συλλογή της σκόνης και των μικρών ρύπων καθώς και τη συγκράτησή τους μέσα σε αυτό.</Description>
 		<Barcode>5202707004878</Barcode>
 		<Quantity>70</Quantity>
+	</product>
+	<product>
+		<ID>740160111</ID>
+		<Name>Cyclops Φαράσι Ορθοπεδικό Γκρι 83cm 00330426</Name>
+		<Product_Link>https://www.skroutz.gr/s/53549604/Cyclops-Farasi-Plastiko-me-Lasticho-Kontari-Gri-23-5x27-7x83ek-00330426.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/053549/53549604/xlarge_20240516164954_cyclops_farasi_plastiko_me_lasticho_kontari_gri_23_5x27_7x83ek_00330426.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.62</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>330426</MPN>
+		<Description>Φαράσι με κοντάρι ανθεκτικό, με εργονομική λαβή, κλήση σάρωσης και μηχανισμό περίσφιξης στο κοντάρι της σκούπας, για ευκολότερη αποθήκευση. Ιδανικό για οικιακή αλλά και επαγγελματική χρήση.</Description>
+		<Barcode>5202707001686</Barcode>
 	</product>
 	<product>
 		<ID>740350101</ID>
@@ -12478,6 +12494,89 @@
 		<Quantity>100</Quantity>
 	</product>
 	<product>
+		<ID>740400101</ID>
+		<Name>Cyclops Κοντάρι Ξύλινο με Λούστρο 120cm Χοντρή Βίδα 00100141</Name>
+		<Product_Link>https://www.skroutz.gr/s/31025800/Cyclops-Kontari-apo-Xylo-120cm-00100141.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/031025/31025800/xlarge_20210915165150_cyclops_kontari_xylino_1_20m_00100141.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/050290/50290020/xlarge_20210929104440_402a5db9.jpeg, https://b.scdn.gr/images/sku_images/115636/115636772/xlarge_20250819125326_b2ac35d3.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.1694374125</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Διάφορα Αξεσουάρ Καθαρισμού</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>100141</MPN>
+		<Description>Κοντάρι Ξύλινο με λούστρο 1,20μ.</Description>
+		<Barcode>5202707988833</Barcode>
+	</product>
+	<product>
+		<ID>710400102</ID>
+		<Name>Cyclops Κοντάρι Μεταλλικό με Επένδυση 130cm Χοντρή Βίδα 00100132</Name>
+		<Product_Link>https://www.skroutz.gr/s/58060578/Kyklops-Kontari-Metalliko-Ependedymeno-CHontri-Vida.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/058060/58060578/xlarge_20241219170035_kyklops_kontari_metalliko_ependedymeno_chontri_vida.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.812451255</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Διάφορα Αξεσουάρ Καθαρισμού</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>100132</MPN>
+		<Description>Κοντάρι Μεταλλικό με Επένδυση 130cm</Description>
+		<Barcode>5202707989854</Barcode>
+	</product>
+	<product>
+		<ID>740400103</ID>
+		<Name>Cyclops Κοντάρι Χρωμίου 130cm Χοντρή Βίδα 00100124</Name>
+		<Product_Link>https://www.skroutz.gr/s/22809601/Cyclops-CHontri-Vida-Kontari-apo-Anoxeidoto-Atsali-130cm-00100124.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/022809/22809601/xlarge_20200415131826_cyclops_kontari_inox_1_30_chondri_vida_00100124.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/031998/31998895/xlarge_20200415131826_4df599a5.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.4894939675</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Διάφορα Αξεσουάρ Καθαρισμού</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>100124</MPN>
+		<Description>Κοντάρι μεταλλικό, με χοντρό σπείρωμα, σε χρωμέ απόχρωση, για οικιακές σφουγγαρίστρες και σκούπες, ύψους 130 cm.</Description>
+		<Barcode>5202707990065</Barcode>
+	</product>
+	<product>
+		<ID>7404001031</ID>
+		<Name>Cyclops Κοντάρι Χρωμίου 130cm Χοντρή-Ψιλή Βίδα 001001261</Name>
+		<Product_Link>https://www.skroutz.gr/s/55320372/Cyclops-48529-Kontari-1-3m.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/055320/55320372/xlarge_20240805104511_48529_kontari_1_3m.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.649522245</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Διάφορα Αξεσουάρ Καθαρισμού</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>1001261</MPN>
+		<Description>Αυτό το κοντάρι έχει μήκος 1.3 μέτρα, παρέχοντας σου την ιδανική επιλογή για διάφορες εφαρμογές. Η κατασκευή του προσφέρει ανθεκτικότητα και σταθερότητα, κάνοντάς το ιδανικό για τις ανάγκες σου.  Μήκος: 1.3 μέτρα</Description>
+		<Barcode>5202707016215</Barcode>
+	</product>
+	<product>
+		<ID>740400104</ID>
+		<Name>Cyclops Κοντάρι Πτυσσόμενο 83-153cm Ψιλή Βίδα 00100498 (Κατάλληλο για Αράχνες)</Name>
+		<Product_Link>https://www.skroutz.gr/s/22809687/Cyclops-Ptyssomeno-Kontari-apo-Metallo-153cm-00100498.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/022809/22809687/xlarge_20220213115508_cyclops_kontari_ptyssomeno_1_53_00100498.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/056181/56181351/xlarge_20220213115508_d2bf97b1.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.4156347625</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Διάφορα Αξεσουάρ Καθαρισμού</Category_Path>
+		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
+		<MPN>100498</MPN>
+		<Description>Κοντάρι πτυσσόμενο, μεταλλικό, με ψιλό σπείρωμα, σε κόκκινη απόχρωση, ύψους 153 cm, για οικιακές σφουγγαρίστρες, Αράχνες και σκούπες.</Description>
+		<Barcode>5202707000856</Barcode>
+	</product>
+	<product>
 		<ID>74040</ID>
 		<Name>Κουβάς Πλαστικός Κουβάς με Στίφτη Irma Χωρητικότητας 13 lit</Name>
 		<Product_Link>https://www.skroutz.gr/s/53446701/Kouvas-Plastikos-Kouvas-13-Ltr-oval-stiftis-Irma-10-01590-CHoritikotitas-13lt-Mov.html</Product_Link>
@@ -12485,7 +12584,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.022335375</Price>
+		<Price>2.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Κουβάδες</Category_Path>
 		<Manufacturer>IRMA</Manufacturer>
@@ -12502,7 +12601,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.544749445299999</Price>
+		<Price>3.85</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
@@ -12587,7 +12686,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.45</Price>
+		<Price>3.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -12623,7 +12722,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.78</Price>
+		<Price>3.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -12657,7 +12756,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.61</Price>
+		<Price>4.81</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -13453,7 +13552,7 @@
 	</product>
 	<product>
 		<ID>75131</ID>
-		<Name>ΠΡΟΣΑΝΑΜΜΑ 48 ΤΕΜ</Name>
+		<Name>Κύβοι Προσανάμματος Goldfire 48τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/24147331/Kyvoi-Prosanammatos-Goldfire-48tmch.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024147/24147331/20200724120852_prosanamma_goldfire_48tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -14462,23 +14561,6 @@
 		<Quantity>82</Quantity>
 	</product>
 	<product>
-		<ID>76202</ID>
-		<Name>ΜΥΓΟΣΚΟΤΩΣΤΡΑ ΤΕΤΡΑΓΩΝΗ ΜΠΛΕ</Name>
-		<Product_Link>https://www.skroutz.gr/s/48903801/Cyclops-Mygoskotostra-00330200.html</Product_Link>
-		<Image_Link>https://beautyfree.gr/38087-large_default/-.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.25368174944</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Διάφορα Οικιακά Είδη</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>00330200</MPN>
-		<Description>•Τετράγωνη Μυγοσκοτώστρα•Υλικό: Πλαστικό•Ελαφριά Κατασκευή</Description>
-		<Barcode>5202707000658</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>76202101</ID>
 		<Name>Πλαστική Τετράγωνη Μυγοσκοτώστρα 44cm 1τμχ Τυχαία Επιλογή Χρωμάτων E-1430</Name>
 		<Product_Link>https://www.skroutz.gr/s/58020123/Sidirela-Mygoskotostra-44cm.html</Product_Link>
@@ -14494,40 +14576,6 @@
 		<Description>Πλαστικές τετράγωνες μυγοσκοτώστρες  πολύ ανθεκτικές σε 2 χρώματα.</Description>
 		<Barcode>5203642114301</Barcode>
 		<Quantity>495</Quantity>
-	</product>
-	<product>
-		<ID>76203</ID>
-		<Name>Cyclops Κρεμάστρα Ρούχων Πλαστική Ενισχυμένη Περιστρεφόμενη Μπεζ  3τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24418669/Cyclops-Kremastra-Rouchon-se-Kokkino-CHroma-3tmch.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/024418/24418669/20220906122816_cyclops_kremastra_rouchon_se_kokkino_chroma_3tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.698761715</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>00330130</MPN>
-		<Description>•Υλικό Κατασκευής: Πλαστικό•Με περιστρεφόμενο γάντζο•Σπαστή</Description>
-		<Barcode>5202707000634</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7620301</ID>
-		<Name>Cyclops Κρεμάστρα Ρούχων Πλαστική Ενισχυμένη Περιστρεφόμενη Γκρι  3τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/58137050/Cyclops-Kremastra-Rouchon-Gri-00330130-3tmch.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/058137/58137050/xlarge_20241230104041_cyclops_kremastra_rouchon_gri_00330130_3tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.698761715</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>330131</MPN>
-		<Description>Η κρεμάστρα ρούχων της εταιρείας Cyclops σας βοηθάει να οργανώνετε την ντουλάπα σας και παράλληλα να εξοικονομείτε επιπλέον χώρο. Είναι κατασκευασμένη από πλαστικό, ένα υλικό ελαφρύ που συνήθως χρησιμοποιείται για μπλούζες, φορέματα, πουκάμισα και άλλα.</Description>
-		<Barcode>5202707000634</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>762030101</ID>
@@ -15424,7 +15472,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.92</Price>
+		<Price>1.06</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Προϊόντα Οικιακής Χρήσης&gt; Συλλέκτες Υγρασίας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15441,7 +15489,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9</Price>
+		<Price>1.04</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Προϊόντα Οικιακής Χρήσης&gt; Συλλέκτες Υγρασίας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15458,7 +15506,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.8035881504000001</Price>
+		<Price>0.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Αποθήκευση Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15821,7 +15869,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>107.71536675</Price>
+		<Price>135.74</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Γραφείου&gt; Καρέκλες Γραφείου</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
