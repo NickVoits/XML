@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-10-21 11:16</created_at>
+	<created_at>2025-10-21 11:23</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -5763,7 +5763,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
 		<Barcode>5202207620516</Barcode>
-		<Quantity>547</Quantity>
+		<Quantity>523</Quantity>
 	</product>
 	<product>
 		<ID>52802</ID>
@@ -12513,7 +12513,7 @@
 		<Quantity>56</Quantity>
 	</product>
 	<product>
-		<ID>710400102</ID>
+		<ID>740400102</ID>
 		<Name>Cyclops Κοντάρι Μεταλλικό με Επένδυση 130cm Χοντρή Βίδα 00100132</Name>
 		<Product_Link>https://www.skroutz.gr/s/58060578/Kyklops-Kontari-Metalliko-Ependedymeno-CHontri-Vida.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/058060/58060578/xlarge_20241219170035_kyklops_kontari_metalliko_ependedymeno_chontri_vida.jpeg</Image_Link>
@@ -12527,6 +12527,7 @@
 		<MPN>100132</MPN>
 		<Description>Κοντάρι Μεταλλικό με Επένδυση 130cm</Description>
 		<Barcode>5202707989854</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>740400103</ID>
