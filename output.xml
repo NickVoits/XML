@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-03 16:38</created_at>
+	<created_at>2025-11-03 16:39</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -18439,6 +18439,7 @@
 		<MPN>ΠΡ7421</MPN>
 		<Description>Ρολό χαρτί ψησίματος αντικολλητικό Θαλασσινός,σε κουτί, 8m x 38cm.</Description>
 		<Barcode>5202054034214</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>78922</ID>
