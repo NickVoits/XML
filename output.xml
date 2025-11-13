@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-13 13:44</created_at>
+	<created_at>2025-11-13 14:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -303,7 +303,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>170</Quantity>
+		<Quantity>169</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -339,7 +339,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>129</Quantity>
+		<Quantity>128</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -10575,7 +10575,7 @@
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
 		<Barcode>5200100281667</Barcode>
-		<Quantity>103</Quantity>
+		<Quantity>101</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -10592,7 +10592,7 @@
 		<MPN>0343</MPN>
 		<Description>Χαρτοπετσέτα φαγητού λευκή 28 Χ 28 μονόφυλλη για επαγγελματική χρήση, απαλή και απορροφητική από μαλακό χαρτί.</Description>
 		<Barcode>5203650101409</Barcode>
-		<Quantity>2581</Quantity>
+		<Quantity>2579</Quantity>
 	</product>
 	<product>
 		<ID>70204</ID>
@@ -17799,7 +17799,7 @@
 		<MPN>1693</MPN>
 		<Description>Ιδανικά για μεταφορά τροφίμων, αλλά και για ψήσιμο σε φούρνους έως 220 βαθμούς.     Τα σκεύη αλουμινίου - ταψάκια - παράγονται στην Ιταλία.     Με υψηλές προδιαγραφές ποιότητας και υγιεινής.     Έχουν ειδικά καλούπια με νεύρα και ως εκ τούτου, έχουν μεγαλύτερες αντοχές.</Description>
 		<Barcode>5202054213510</Barcode>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>785051</ID>
@@ -18158,7 +18158,7 @@
 		<MPN>1775</MPN>
 		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
 		<Barcode>5214002309763</Barcode>
-		<Quantity>1548</Quantity>
+		<Quantity>1542</Quantity>
 	</product>
 	<product>
 		<ID>78621</ID>
