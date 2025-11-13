@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-13 16:05</created_at>
+	<created_at>2025-11-13 16:32</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -4953,7 +4953,7 @@
 	</product>
 	<product>
 		<ID>47951</ID>
-		<Name>Τυρνάβου Κρασί Ρόδοινος Μοσχάτο Τυρνάβου Λευκό Ημίγλυκο 750ml</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Κρασί Ρόδοινος Μοσχάτο Τυρνάβου Λευκό Ημίγλυκο 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/15619319/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Leyko-Imiglyko-750ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/015619/15619319/xlarge_20211018163914_tyrnavou_rodoinos_leyko_750ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -4970,7 +4970,7 @@
 	</product>
 	<product>
 		<ID>47952</ID>
-		<Name>Τυρνάβου Κρασί Ροδοινος Μοσχάτο Τυρνάβου Ροζέ Ημίγλυκο 750ml</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Κρασί Ροδοινος Μοσχάτο Τυρνάβου Ροζέ Ημίγλυκο 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/15607237/Tyrnavou-Krasi-Rodoinos-Moschato-Tyrnavou-Roze-Imiglyko-750ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/015607/15607237/20200204124530_tyrnavou_rodoinos_roze_750ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -4984,7 +4984,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Ρόδοινος από Μοσχάτο Αμβούργου με φωτεινό ροδί χρώμα, έντονα αρωματικός χαρακτήρας που ελευθερώνει μυρωδιές τριαντάφυλλου, ευγενική μύτη, πικάντικη γεύση και απαλή επίγευση.</Description>
 		<Barcode>5202037000045</Barcode>
-		<Quantity>80</Quantity>
+		<Quantity>79</Quantity>
 	</product>
 	<product>
 		<ID>47980</ID>
@@ -5367,7 +5367,7 @@
 	</product>
 	<product>
 		<ID>52101</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265103/Apostolakis-Tsipouro-me-glykaniso-50ml.html</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%B1%CE%BA%CE%B7-%CE%BC%CE%B5-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5385,7 +5385,7 @@
 	</product>
 	<product>
 		<ID>52102</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17910830/Apostolakis-Tsipouro-Me-Glykaniso-42-100ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000233_1-1000x1000.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5403,7 +5403,7 @@
 	</product>
 	<product>
 		<ID>52103</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269196/Apostolakis-Tsipouro-me-glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://www.cavakalomenidis.gr/wp-content/uploads/2023/06/Tsipouro-Apostolakis-With-Anise-200ml.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5421,7 +5421,7 @@
 	</product>
 	<product>
 		<ID>52104</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 700ml ΜΕ ΓΛΥΚΑΝΙΣΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο με Γλυκάνισο 42% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17419159/Apostolakis-Tsipouro-Me-Glykaniso-42-700ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/017419/17419159/20200504104314_apostolakis_me_glykaniso_tsipouro_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5439,7 +5439,7 @@
 	</product>
 	<product>
 		<ID>52151</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265102/Apostolakis-Tsipouro-choris-glykaniso-50ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-50.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5457,7 +5457,7 @@
 	</product>
 	<product>
 		<ID>52152</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/17911194/Apostolakis-Tsipouro-CHoris-Glykaniso-42-100ml.html</Product_Link>
 		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5201064000219_1-1000x1000.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5475,7 +5475,7 @@
 	</product>
 	<product>
 		<ID>52153</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269192/Apostolakis-Tsipouro-choris-glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/005269/5269192/20210210125058_apostolakis_tsipouro_choris_glykaniso_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5493,7 +5493,7 @@
 	</product>
 	<product>
 		<ID>52154</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΠΟΣΤΟΛΑΚΗ 700ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΣΟ</Name>
+		<Name>Αποστολάκη Τσίπουρο Χωρίς Γλυκάνισο 40% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5374422/Apostolakis-Tsipouro-choris-glykaniso-700ml.html</Product_Link>
 		<Image_Link>https://citydrinks.gr/wp-content/uploads/2022/04/APOSTOLAKI-TSIPOURO-700.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5511,7 +5511,7 @@
 	</product>
 	<product>
 		<ID>522011</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤσιλιλήΤσίπουρο με Γλυκάνισο 42% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5265109/Tsililis-me-Glykaniso-Tsipouro-42-50ml.html</Product_Link>
 		<Image_Link>https://greekdeligoods.com/wp-content/uploads/2023/10/tsipouro-tsili-me-glykaniso-50ml-1.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5529,7 +5529,7 @@
 	</product>
 	<product>
 		<ID>52202</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤσιλιλήΤσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23808123/Tsililis-me-Glykaniso-Tsipouro-42-100ml.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/4/146246.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5547,7 +5547,7 @@
 	</product>
 	<product>
 		<ID>52203</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤσιλιλήΤσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269205/Tsililis-Tsipouro-Tsilili-me-glykaniso-200ml.html</Product_Link>
 		<Image_Link>https://phiali.gr/wp-content/uploads/2020/11/1174.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5565,7 +5565,7 @@
 	</product>
 	<product>
 		<ID>52251</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 50ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤσιλιλήΤσίπουρο Χωρίς Γλυκάνισο 41% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22328201/Tsililis-CHoris-glykaniso-Tsipouro-50ml.html</Product_Link>
 		<Image_Link>https://kalavrytinos.gr/media/catalog/product/cache/b74c79dcd84bc1c7fd49e5b6b6d0ff1d/t/s/tsilili-tsipouro-50ml_hvwmq5x6sh3sqsjn.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5583,7 +5583,7 @@
 	</product>
 	<product>
 		<ID>52252</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤσιλιλήΤσίπουρο Χωρίς Γλυκάνισο 41% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23808154/Tsililis-CHoris-Glykaniso-Tsipouro-100ml.html</Product_Link>
 		<Image_Link>https://cdn.themart.gr/media/catalog/product/cache/3c4069c6220baa84889eb8256eee9ac8/1/1/114118.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5601,7 +5601,7 @@
 	</product>
 	<product>
 		<ID>52253</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΣΙΛΙΛΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>ΤσιλιλήΤσίπουρο Χωρίς Γλυκάνισο 41% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269201/Tsililis-CHoris-Glykaniso-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://www.cavamoutafi.gr/wp-content/uploads/products/tsipouro/tsipouro-tsilili-xoris-glykaniso.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5619,7 +5619,7 @@
 	</product>
 	<product>
 		<ID>52263</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΑΓΙΟΝΕΡΙ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Τσιλιλή Αγιονέρι Παλαιωμένο Τσίπουρο χωρίς Γλυκάνισο 40% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/13336430/Tsililis-Agioneri-Palaiomeno-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://cavagreco.gr/image/cache/catalog/products/spirits/tsipouro/palaiomeno/Agioneri%20Tsipouro%20200ml-1080x1080.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5637,7 +5637,7 @@
 	</product>
 	<product>
 		<ID>52271</ID>
-		<Name>Τσιλιλής Τσίπουρο χωρίς Γλυκάνισο Dark Cave 5 Ετών 41% 700ml</Name>
+		<Name>Τσιλιλή Dark Cave Τσίπουρο χωρίς Γλυκάνισο 5 Ετών 41% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5352687/Tsililis-Tsipouro-choris-Glykaniso-Dark-Cave-5-Eton-41-700ml.html#reviews</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/005352/5352687/xlarge_20211026171114_tsililis_dark_cave_palaiomeno_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5654,7 +5654,7 @@
 	</product>
 	<product>
 		<ID>52302</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/20022697/Tyrnavou-Me-Glykaniso-Tsipouro-42-100ml.html</Product_Link>
 		<Image_Link>https://www.cavarokos.gr/image/cache/catalog/product/4120-1200x1200.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5672,7 +5672,7 @@
 	</product>
 	<product>
 		<ID>52352</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΤΥΡΝΑΒΟΥ 100ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Α.Ο.Σ. Τυρνάβου Τσίπουρο χωρίς Γλυκάνισο 40% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/20022660/Tyrnavou-CHoris-glykaniso-Tsipouro-100ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/020022/20022660/20210210124802_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5690,7 +5690,7 @@
 	</product>
 	<product>
 		<ID>52401</ID>
-		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Με Γλυκάνισο Τσίπουρο 50ml</Name>
+		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Με Γλυκάνισο 42% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/24698168/Neas-Agchialou-THessaliko-me-Glykaniso-Tsipouro-40-50ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5708,7 +5708,7 @@
 	</product>
 	<product>
 		<ID>52402</ID>
-		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Με Γλυκάνισο Τσίπουρο 100ml</Name>
+		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Με Γλυκάνισο 42% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/24698171/Neas-Agchialou-THessaliko-Me-Glykaniso-Tsipouro-100ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/024698/24698168/20200910174800_neas_agchialou_thessaliko_me_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5726,7 +5726,7 @@
 	</product>
 	<product>
 		<ID>52451</ID>
-		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Χωρίς Γλυκάνισο Τσίπουρο 50ml</Name>
+		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Χωρίς Γλυκάνισο 40% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/24672677/Neas-Agchialou-THessaliko-CHoris-Glykaniso-Tsipouro-50ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5744,7 +5744,7 @@
 	</product>
 	<product>
 		<ID>52452</ID>
-		<Name>Αγροτικός Οινοποιητικός Συνεταιρισμός Νέας Αγχιάλου "Η Δήμητρα" Θεσσαλικό Χωρίς Γλυκάνισο Τσίπουρο 100ml</Name>
+		<Name>Α.Ο.Σ. Νέας Αγχιάλου "Η Δήμητρα" Τσίπουρο Θεσσαλικό Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<Product_Link>https://www.ab.gr/el/eshop/Kava-anapsyktika-nera-xiroi-karpoi/Pota/Tsipoyro/APERITIF-ChORIS-GLYKANISO-100ML/p/7103955</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/024672/24672677/20200909132528_neas_agchialou_thessaliko_choris_glykaniso_tsipouro_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5816,7 +5816,7 @@
 	</product>
 	<product>
 		<ID>52851</ID>
-		<Name>Κτήμα Κώστα Λαζαρίδη Ηδωνικό Χωρίς Γλυκάνισο Τσίπουρο 50ml</Name>
+		<Name>Κτήμα Κώστα Λαζαρίδη Ηδωνικό Χωρίς Γλυκάνισο Τσίπουρο 40% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/10626908/Ktima-Kosta-Lazaridi-Idoniko-CHoris-Glykaniso-Tsipouro-50ml.html</Product_Link>
 		<Image_Link>https://www.cavatheodoridis.gr/images/uploads/cava-theodoridis-%CE%B7%CE%B4%CF%89%CE%BD%CE%B9%CE%BA%CE%BF-%CF%87%CF%89%CF%81%CE%B9%CF%83-%CE%B3%CE%BB%CF%85%CE%BA%CE%B1%CE%BD%CE%B9%CF%83%CE%BF-50-premium.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5834,7 +5834,7 @@
 	</product>
 	<product>
 		<ID>52852</ID>
-		<Name>Κτήμα Κώστα Λαζαρίδη Ηδωνικό Χωρίς Γλυκάνισο Τσίπουρο 200ml</Name>
+		<Name>Κτήμα Κώστα Λαζαρίδη Ηδωνικό Χωρίς Γλυκάνισο Τσίπουρο 40% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5269238/Ktima-Kosta-Lazaridi-Idoniko-CHoris-Glykaniso-Tsipouro-200ml.html</Product_Link>
 		<Image_Link>https://www.kavakonstantakopoulos.gr/images/thumbs/0000491.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5888,7 +5888,7 @@
 	</product>
 	<product>
 		<ID>53101</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 50ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Καλαϊτζή Τσίπουρο με Γλυκάνισο 42% 50ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/39781068/Kalaitzi-Tsipouro-me-Glykaniso-42-50ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/039781/39781068/20221201092609_kalaitzi_tsipouro_me_glykaniso_42_50ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5905,7 +5905,7 @@
 	</product>
 	<product>
 		<ID>53103</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 200ml ΜΕ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Καλαϊτζή Τσίπουρο με Γλυκάνισο 42% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/31866726/Kalaitzi-Tsipouro-me-Glykaniso-42-200ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/031866/31866726/20211021160647_kalaitzi_tsipouro_me_glykaniso_42_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5922,7 +5922,7 @@
 	</product>
 	<product>
 		<ID>53153</ID>
-		<Name>ΤΣΙΠΟΥΡΟ ΚΑΛΑΪΤΖΗ 200ml ΧΩΡΙΣ ΓΛΥΚΑΝΙΣΟ</Name>
+		<Name>Καλαϊτζή Τσίπουρο Χωρίς Γλυκάνισο 40% 200ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/31866646/Kalaitzi-Tsipouro-choris-Glykaniso-40-200ml.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/031866/31866646/20211021160546_kalaitzi_tsipouro_choris_glykaniso_40_200ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -6176,22 +6176,20 @@
 		<Quantity>53</Quantity>
 	</product>
 	<product>
-		<ID>550531</ID>
-		<Name>FAMOUS GROUSE ΤΗΕ BLACK GROUSE 700ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/4902159/Famous-Grouse-The-Black-Grouse-Oyiski-700ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/004902/4902159/the-black-grouse.jpg</Image_Link>
+		<ID>550581</ID>
+		<Name>Jameson Black Barrel Blended Whisky Ιρλανδίας 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/12068416/Jameson-Black-Barrel-Blended-Whisky-Irlandias-40-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/012068/12068416/xlarge_20170530151744_jameson_black_barrel_oyiski_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.34</Price>
+		<Price>32.71</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>FAMOUS GROUSE</Manufacturer>
-		<MPN>1168</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το διάσημο Grouse Smoky Black μετονομάστηκε από το Black Grouse στα τέλη του 2015, ένα νέο όνομα και μια υπέροχη συσκευασία το καθιστούν ένα εξαιρετικό ουίσκι.</Description>
-		<Barcode>5010314070304</Barcode>
-		<Quantity>0</Quantity>
+		<Manufacturer>JAMESON</Manufacturer>
+		<MPN>550581-01</MPN>
+		<Description>Το Jameson Black Barrel είναι ένα μείγμα από grain ουίσκι μικρών παρτίδων ωριμασμένο σε ένα συνδυασμό βαρελιών αμερικανικών δρυών, sherry &amp;  bourbon. Φρουτώδες με μύτη πλούσια από νότες τροπικών φρούτων,καρύδας &amp; δημητριακών. Γεύση πυκνή και γεμάτη στον ουρανίσκο, με έντονη, λιπαρή κρέμα και καρύδια. Φινίρισμα μακρύ  με νότες κανέλας και μοσχοκάρυδου.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
+		<Barcode>5011007024000</Barcode>
 	</product>
 	<product>
 		<ID>55081</ID>
@@ -9747,7 +9745,7 @@
 		<MPN>1006</MPN>
 		<Description>Κρέμα σώματος που ενυδατώνει, θρέφει και συσφίγγει την περιοχή εφαρμογής. Η φόρμουλά της εμπεριέχει ελαιόλαδο και βάλσαμο, συστατικά που παρέχουν αντιοξειδωτική δράση ενώ ταυτοχρόνως αναζωογονούν, ανανεώνουν και αποτρέπουν την πρόωρη γήρανση της επιδερμίδας. Είναι δερματολογικά ελεγμένη και κατάλληλη για όλες τις ηλικίες και τους τύπους δέρματος.</Description>
 		<Barcode>5208005110037</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>29</Quantity>
 	</product>
 	<product>
 		<ID>67103</ID>
@@ -9883,7 +9881,7 @@
 		<MPN>1265</MPN>
 		<Description>Η κρέμα χεριών Bio, της εταιρείας Aroma, χάρη στην ενυδατική της δράση, καταπραΰνει και προστατεύει τα ξηρά, σκασμένα και ταλαιπωρημένα χέρια από οικιακές και επαγγελματικές δραστηριότητες ή το κρύο, προσφέροντας απαλή αίσθηση και ενυδάτωση στα χέρια. Ακόμα, στη σύνθεσή της περιέχει Aloe Vera, ένα συστατικό που ενυδατώνει σε βάθος και θρέφει την επιδερμίδα. Προστατεύει από τη ξηρότητα και χαρίζει ελαστικότητα.Τα χέρια επανορθώνονται και ανακτούν την απαλότητά τους ενώ ταυτόχρονα η επιδερμίδα προστατεύεται καλύτερα από τις μελλοντικές εξωτερικές επιθέσεις.•Δράση: Ενυδάτωση•Συστατικό: Aloe VeraΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και απορροφάται εύκολα.</Description>
 		<Barcode>5208005100427</Barcode>
-		<Quantity>3</Quantity>
+		<Quantity>27</Quantity>
 	</product>
 	<product>
 		<ID>67211</ID>
@@ -9917,7 +9915,7 @@
 		<MPN>1267</MPN>
 		<Description>Η κρέμα χεριών και νυχιών Bio Hand &amp; Nail, της εταιρείας Aroma, χάρη στην ενυδατική και αναπλαστική της δράση, επανορθώνει και προστατεύει τα ξηρά, σκασμένα και ταλαιπωρημένα χέρια. Ακόμα, στη σύνθεσή της περιέχει ουρία, ένα συστατικό που δρα κατά της ξηρότητας και του έντονου κνησμού. Η κερατολυτική, μαλακτική, αντιβακτηριακή και ενυδατική δράση που προσφέρει στην κεράτινη στιβάδα της επιδερμίδας την καθιστούν σύμμαχο για ένα ταλαιπωρημένο και πολύ ξηρό δέρμα. Με την χρήση ουρίας το δέρμα αποκτά ξανά την ελαστικότητα του και ενισχύεται ενάντια στους αλλεργιογόνους παράγοντες που μπορούν να επιτείνουν το πρόβλημα και να ερεθίσουν ακόμη περισσότερο μία ευαίσθητη και εύθραυστη επιδερμίδα.Τα χέρια επανορθώνονται και ανακτούν την απαλότητά τους ενώ ταυτόχρονα η επιδερμίδα προστατεύεται καλύτερα από τις μελλοντικές εξωτερικές επιθέσεις.•Δράση: Ανάπλαση, Ενυδάτωση•Συστατικό: ΟυρίαΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5208005110181</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>67213</ID>
@@ -22088,7 +22086,7 @@
 		<MPN>EKH011</MPN>
 		<Description>Επαγωγική Εστία  Ο τύπος της είναι επαγωγική, θερμαίνεται δηλαδή μόνο το κάτω μέρος από το σκεύος και όχι όλη η εστία, με αποτέλεσμα η περιβάλλουσα περιοχή να παραμένει κρύα στην αφή. Χρησιμοποιεί λιγότερη ενέργεια σε σχέση με τους υπόλοιπους τύπους εστιών και ο χρόνος μαγειρέματος μειώνεται στο μισό. Ενδεικτικά, το νερό βράζει σε λιγότερο από 90 δευτερόλεπτα.  Ο καθαρισμός της είναι πανεύκολος, αφού η περιοχή γύρω από το σκεύος παραμένει κρύα, άρα οτιδήποτε χυθεί δεν θερμαίνεται και δεν κολλάει στην επιφάνεια.  Απαραίτητη προϋπόθεση για αυτόν τον τύπο εστιών είναι ότι τα σκεύη πρέπει να είναι συμβατά για επαγωγικές εστίες, δηλαδή κατασκευασμένα από ανοξείδωτο ατσάλι ή χυτοσίδηρο, καθώς δεν μπορούμε να χρησιμοποιήσουμε όλα τα είδη σκευών. Τέλος, αν έχετε μικρά παιδιά θεωρείται η πιο ασφαλής επιλογή. Χειρισμός αφής  Ο χειρισμός για την επιλογή των επιθυμητών θερμοκρασιών και ρυθμίσεων γίνεται ψηφιακά και μέσω αφής.  Όλες οι επιλογές βρίσκονται ενσωματωμένες στην επιφάνεια, συνεπώς το μόνο που χρειάζεται για να ξεκινήσετε το μαγείρεμα, είναι μερικά απαλά αγγίγματα με το δάχτυλό σας.  Στην ψηφιακή οθόνη της μπορείτε να βλέπετε ανά πάσα στιγμή τις τρεχουσες ρυθμίσεις σας. Επιφάνεια μαγειρέματος  Διαθέτει μεγάλη επιφάνεια μαγειρέματος διαμέτρου από 14 έως 22 cm. Μπορεί να αναπτύξει θερμοκρασίες από 80°C έως 270°C.  Πρόκειται για μία έξυπνη εστία που προειδοποιεί στην περίπτωση χρήσης ακατάλληλου ή πολύ μικρού σκεύους.  Οι 5 προεπιλεγμένες λειτουργίες θα σας βοηθήσουν στην παρασκευή οποιουδήποτε φαγητού επιθυμείτε. Χρονοδιακόπτης  Ηλεκτρονικός χρονοδιακόπτης που τερματίζει αυτόματα την λειτουργία της εστίας, στο τέλος του επιθυμητού χρόνου μαγειρέματος. Ιδανική για τα ταξίδια και το εξοχικό  Ο απλός σχεδιασμός της ταιριάζει σε κάθε κουζίνα και το εύχρηστο μέγεθος καθιστά εύκολη τη μεταφορά είτε για κάμπινγκ, είτε για διακοπές είτε για μετακόμιση.      Διαστάσεις: 28 x 36 x 7 cm</Description>
 		<Barcode>5901299963869</Barcode>
-		<Quantity>90</Quantity>
+		<Quantity>85</Quantity>
 	</product>
 	<product>
 		<ID>799130211</ID>
@@ -22811,7 +22809,7 @@
 		<MPN>ECN001</MPN>
 		<Description>Συσκευή εισπνοής και νεφελοποίησης με συμπαγή σχεδίαση από την Esperanza, η οποία απελευθερώνει αποτελεσματικά τις δόσεις εισπνεόμενων φάρμακων, βοηθώντας στην ανακούφιση των συμπτωμάτων του βήχα, του κρυολογήματος της γρίπης και της ρινικής αποσυμφόρησης. Χαρακτηριστικά      Ισχύς: 220V, 50 Hz     Ρεύμα: 0,8Α     Χωρητικότητα φαρμάκου: 10ml     Επίπεδο ήχου ≤ 65dBA     Μέσος ρυθμός νεφελοποίησης: ≤ 0,4ml     Εύρος πίεσης συμπιεστή: 29-55Psi     Εύρος πίεσης λειτουργίας: 9-19Psi  Περιεχόμενα Συσκευασίας      Νεφελοποιητής     Δύο μάσκες διαφορετικών μεγεθών     Επιστόμιο</Description>
 		<Barcode>5901299914007</Barcode>
-		<Quantity>100</Quantity>
+		<Quantity>99</Quantity>
 	</product>
 	<product>
 		<ID>799400152</ID>
