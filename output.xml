@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-18 16:05</created_at>
+	<created_at>2025-11-18 16:44</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -2025,7 +2025,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>4417</Quantity>
+		<Quantity>4402</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2357,7 +2357,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό κρασί που ξεχωρίζει για την καθαρή και φρέσκια γεύση του. Παράγεται από προσεκτικά επιλεγμένες ελληνικές ποικιλίες σταφυλιών, προσφέροντας ένα δροσιστικό προφίλ με νότες λευκών φρούτων και λουλουδιών. Είναι ιδανικό για να συνοδεύσει ελαφριά γεύματα, όπως ψάρια, θαλασσινά και σαλάτες, και σερβίρεται καλύτερα δροσερό.</Description>
 		<Barcode>15202548505012</Barcode>
-		<Quantity>508</Quantity>
+		<Quantity>496</Quantity>
 	</product>
 	<product>
 		<ID>40052</ID>
@@ -2411,7 +2411,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ελληνικό ροζέ κρασί με ζωηρό χρώμα και αρωματικό προφίλ. Παράγεται από επιλεγμένες ελληνικές ποικιλίες σταφυλιών και χαρακτηρίζεται από φρουτώδεις νότες, όπως κόκκινα φρούτα και φράουλα, με μια απαλή, ημίγλυκη γεύση. Είναι ιδανικό για να συνοδεύσει ελαφριά πιάτα, όπως σαλάτες, ζυμαρικά και πιάτα με βάση τα λαχανικά. Σερβίρεται καλύτερα δροσερό, προσφέροντας μια ευχάριστη και δροσερή εμπειρία γεύσης.</Description>
 		<Barcode>15202548505319</Barcode>
-		<Quantity>168</Quantity>
+		<Quantity>156</Quantity>
 	</product>
 	<product>
 		<ID>40061</ID>
@@ -6775,6 +6775,38 @@
 		<Quantity>4</Quantity>
 	</product>
 	<product>
+		<ID>55203</ID>
+		<Name>Jose Cuervo Especial Tequila 38% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/48332451/Jose-Cuervo-Especial-Tequila-38-700ml-TE9900114.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/048332/48332451/xlarge_20250517174224_jose_cuervo_tekila_especial_38_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>22.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Jose Cuervo</Manufacturer>
+		<MPN>55203-01</MPN>
+		<Description>H Jose Cuervo Especial Silver παράγεται 100% από μπλε αγαύη τεκίλα και ωριμάζει σε βαρέλια από λευκή δρυ.</Description>
+		<Barcode>7501035042308</Barcode>
+	</product>
+	<product>
+		<ID>55204</ID>
+		<Name>Jose Cuervo Gold Especial Tequila 3 Ετών 38% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5345841/Jose-Cuervo-Gold-Especial-Tequila-3-Eton-38-700ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/005345/5345841/xlarge_20200215210815_jose_cuervo_gold_especial_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>23.56</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Jose Cuervo</Manufacturer>
+		<MPN>55204-01</MPN>
+		<Description>Στη μύτη έχει ξυλώδη αρώματα με νότες ξηρών καρπών, ήπια μπαχαρικά, αποξηραμένα βότανα, ψημένη αγαύη και μέλι. Στη γεύση είναι απαλή και γλυκιά με κρεμώδη αίσθηση. Τα αρώματα γίνονται πιο αισθητά στο στόμα με την επίγευση να αποτελείται από μπαχαρένιο χαρακτήρα.  Τρόπος Σερβιρίσματος Κατάλληλη βάση για ένα Μαργαρίτα cocktail.</Description>
+		<Barcode>7501035042131</Barcode>
+	</product>
+	<product>
 		<ID>552061</ID>
 		<Name>el JimadorReposado Tequila 2 Ετών 38% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5438842/el-Jimador-Reposado-Tekila-700ml.html</Product_Link>
@@ -6791,6 +6823,118 @@
 		<Description>Η El Jimador Reposado είναι μια τεκίλα 100% αγαύης που παραμένει 3 μήνες στο βαρέλι πριν την εμφιάλωση. Ένας πλούσιος συνδυασμός μπαχαρικών, φρούτων, ξύλου, βανίλιας και ψημένων φουντουκιών. Απαλή επίγευση βανίλιας με λεπτές και πικάντικες νότες.</Description>
 		<Barcode>7501145269107</Barcode>
 		<Quantity>18</Quantity>
+	</product>
+	<product>
+		<ID>552090</ID>
+		<Name>Herradura Plata Premium Tequila 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/16252056/Herradura-Plata-Premium-Tequila-40-700ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/016252/16252056/xlarge_20210210145058_herradura_plata_premium_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>36.67795910100001</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Herradura</Manufacturer>
+		<MPN>55209-01</MPN>
+		<Description>Η Tequila Herradura Plata παλαιώνει για 40 ημέρες, κάτι το οποίο είναι εμφανές από τα αρώματα ψημένης αγαύης και αποξηραμένων βοτάνων που διακρίνονται σε αυτήν. Στη μύτη έχει αρώματα κέδρου και ψημένης αγαύης, μαζί με κάποιες νότες μελιού και αποξηραμένων βοτάνων.</Description>
+		<Barcode>7501145233375</Barcode>
+	</product>
+	<product>
+		<ID>552091</ID>
+		<Name>Herradura Reposado Tequila 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5369588/Herradura-Reposado-Tequila-40-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/005369/5369588/xlarge_20201012090434_herradura_reposado_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>37.44981670367368</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Herradura</Manufacturer>
+		<MPN>55209-02</MPN>
+		<Description>Παλαιώνεται σε δρύινα βαρέλια, και θεωρείται από πολλούς ειδικούς της τεκίλα η καλύτερη σύνθεση δρυός και αγαύης.</Description>
+		<Barcode>7501145233382</Barcode>
+	</product>
+	<product>
+		<ID>55211</ID>
+		<Name>Patron Silver Tequila 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5691292/Patron-Silver-Tequila-40-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005691/5691292/xlarge_20200406143851_patron_silver_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>51.31769676435781</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Patron</Manufacturer>
+		<MPN>55209-03</MPN>
+		<Description>Η Patron Silver είναι μια από τις ultra-premium τεκίλες. Παράγεται από 100% μπλε αγαύη σε μικρές παρτίδες και κάθε φιάλη είναι αριθμημένη στο χέρι. Μια απαλή τεκίλα με φρέσκα αρώματα αγαύης και εσπεριδοειδών.</Description>
+		<Barcode>721733000739</Barcode>
+	</product>
+	<product>
+		<ID>55212</ID>
+		<Name>Patron Reposado Tequila 12 Ετών 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5691290/Patron-Reposado-Tequila-12-Eton-40-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005691/5691290/xlarge_20200525130929_patron_reposado_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>57.98960397468001</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Patron</Manufacturer>
+		<MPN>55209-04</MPN>
+		<Description>Η Patron Reposado είναι μια ωραία αλλαγή για τους πότες της τεκίλας που θέλουν λίγη περισσότερη πολυπλοκότητα και την ομαλότητα στην γεύση. Παλαιώνει σε δρύινα βαρέλια για πάνω από δύο μήνες, που συνδυάζει τη φρέσκια, καθαρή γεύση της Patron Silver με την δρύινη γεύση της Patron Anejo.  Η ισορροπία της φρέσκιας αγαύης και ξύλου δρυός με διακριτικές νότες φρούτων, εσπεριδοειδή και νότες από μέλι είναι μια εξαιρετική τεκίλα για να καταναλωθεί σκέτη ή για ένα premium cocktail. Όπως και οι άλλοι ομόλογοί του Patron, κάθε μπουκάλι Patron Reposado είναι μοναδικό, κατασκευασμένο από ανακυκλωμένο γυαλί και ειναι αριθμημένες με το χέρι.  Παράγεται από 100% μπλε αγαύη με τριπλή απόσταξη και εμφιαλώνεται σε χειροποίητη φιάλη από φυσητό γυαλί. Πρόκειται για μια ultra premiym tequila, με μαλακιά και γλυκιά γεύση.    Γευσιγνωστικά Χαρακτηριστικά Χρώμα: Στο χρώμα καθαρό και φωτεινό, με ελαφρώς κεχριμπάρι.  Μύτη: Στο αρωμα από ξύλο βελανιδιάς, φρέσκο αγαύη και μια νότα εσπεριδοειδών.  Γεύση: Στοη γεύση ομαλή και γλυκιά. Εξαιρετική ισορροπία φρέσκου ξύλου, αγαύης και βελανιδιάς, με νότες φρούτων, εσπεριδοειδών και μέλι.  Τελείωμα: Φινίρισμα ελαφρύ και λουλουδένιο, με νότες βανίλιας.</Description>
+		<Barcode>721733000722</Barcode>
+	</product>
+	<product>
+		<ID>55213</ID>
+		<Name>PatronAnejo Tequila 12 Ετών 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5691289/Patron-Anejo-Tequila-12-Eton-40-700ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/005691/5691289/xlarge_20200316164023_patron_anejo_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>62.36420991804781</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Patron</Manufacturer>
+		<MPN>55209-05</MPN>
+		<Description>Η Patron Anejo είναι ένα χαρμάνι από μοναδικά παλαιωμένες τεκίλες 100% μπλε αγαύης, που μένουν σε λευκά δρύινα βαρέλια για 12 μήνες το λιγότερο. Με πορτοκαλί – χρυσό χρώμα και γεύση αρωμάτων ξύλου βελανιδιάς, βανίλιας, σταφίδας και ίχνη εσπεριδοειδών.</Description>
+		<Barcode>721733000715</Barcode>
+	</product>
+	<product>
+		<ID>55216</ID>
+		<Name>Cazadores Blanco Tequila 12 Ετών 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5692265/Cazadores-Blanco-Tequila-12-Eton-40-700ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/005692/5692265/xlarge_20210210144025_cazadores_blanco_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>27.4658733630036</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Cazadores</Manufacturer>
+		<MPN>55209-06</MPN>
+		<Description>Η Tequila Cazadores προέρχεται από 100% μπλε Αγαύη. Για την διαδικασία παραγωγής πραγματοποιείται διπλή απόσταξη, διπλή ζύμωση και προσεκτική διαδικασία ωρίμανσης. Η Cazadores Blanco είναι μια τεκίλα χωρίς παλαίωση. Η τεκίλα στην πιο αγνή της μορφή, για να αναδεικνύεται η ένταση και οι πραγματικές γεύσεις της αγαύης καθώς και η φυσική της γλυκύτητα. Στη μύτη διακρίνονται νότες εσπεριδοειδών και τροπικών φρούτων. Σερβίρεται σκέτη σε χαμηλό ποτήρι με lime είτε σε σφηνάκι και φυσικά μπορεί να αποτελέσει βάση για πολλά ευφάνταστα κοκτέιλ.  Το 1922, ένας σκληρά εργαζόμενος αγρότης στο Arandas του Μεξικού περνούσε τις νύχτες του αναπτύσσοντας κρυφά μια συνταγή υψηλής ποιότητας τεκίλας για να μοιραστεί με την οικογένεια και τους φίλους. Ωστόσο το όραμα του ολοένα και μεγάλωνε και έφτασε στη δημιουργία της "Cazadores". Επέλεξε το ελάφι ως το τέλειο έμβλημα για τη νέα συνταγή του εμπνευσμένος από ένα μεγαλοπρεπές ελάφι που παρατήρησε να περιφέρεται στα χωράφια της γαλάζιας αγαύης στην ορεινή πόλη Arandas στο Jalisco του Μεξικού.</Description>
+		<Barcode>7501008660027</Barcode>
+	</product>
+	<product>
+		<ID>55217</ID>
+		<Name>Cazadores Reposado Tequila 12 Ετών 40% 700ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/5692266/Cazadores-Reposado-Tequila-12-Eton-40-700ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/005692/5692266/xlarge_20211026170640_cazadores_reposado_tekila_700ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>29.8510081655436</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
+		<Manufacturer>Cazadores</Manufacturer>
+		<MPN>55209-07</MPN>
+		<Description>Μια τεκίλα απαράμιλλης ομαλότητας και ποιότητας. Αποστάζεται από προσεκτικά επιλεγμένα φυτά μπλε αγαύης και ωριμάζει σε δρύινα βαρέλια για δέκα χρόνια.  Υπέροχα ξηρό και γήινο τελείωμα με νότες από βότανα και μια ραφινάτη γλυκύτητα από τροπικά φρούτα. Η πιο δημοφιλής τεκίλα του Οίκου Cazadores. Πολυβραβευμένη και παλαιωμένη, με πολύ ελκυστικό χαρακτήρα!</Description>
+		<Barcode>7501008660034</Barcode>
 	</product>
 	<product>
 		<ID>55301</ID>
@@ -6845,7 +6989,7 @@
 	</product>
 	<product>
 		<ID>553021</ID>
-		<Name>TANQUERAY TEN GIN 700ml</Name>
+		<Name>Tanqueray Ten London Dry Gin 47% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/23243745/Tanqueray-Ten-Tzin-47-700ml.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/023243/23243745/20200914160924_tanqueray_ten_tzin_700ml.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -11603,7 +11747,7 @@
 		<Manufacturer>SAVEX</Manufacturer>
 		<MPN>0423</MPN>
 		<Weight>1.3 kg</Weight>
-		<Description>Μαλακτικό ρούχων που παρέχει επιπλέον απαλότητα και φρεσκάδα στα ρούχα σας, ενώ ταυτόχρονα τα καθαρίζει.</Description>
+		<Description>Απορρυπαντικό ρούχων που παρέχει επιπλέον απαλότητα και φρεσκάδα στα ρούχα σας, ενώ ταυτόχρονα τα καθαρίζει.</Description>
 		<Barcode>3800024025372</Barcode>
 		<Quantity>173</Quantity>
 	</product>
@@ -19541,7 +19685,7 @@
 		<MPN>EFL003</MPN>
 		<Description>Ο πλαστικοποιητής Infinity της Esperanza είναι ιδανικός για την προστασία σημαντικών εγγράφων ή φωτογραφιών εύκολα και γρήγορα.  Είναι κατασκευασμένος από πλαστικό υψηλής ποιότητας, υποστηρίζει λειτουργίες θερμής και ψυχρής πλαστικοποίησης και προστασία απο υπερθέρμανση.  Για έγγραφα μεγέθους έως Α3 με ταχύτητα πλαστικοποίησης 250mm/λεπτό και μέγιστο χρόνο προθέρμανσης περίπου 5 λεπτά. Τεχνικά Χαρακτηριστικά:      Ισχύς: 265W     Τροφοδοσία: 220-240V     Συχνότητα: 50Hz     Συμβατό πάχος φύλλων: 80-125 microns     Μέγιστη διάσταση φύλλου: 210 x 297 mm (A4)     Χρόνος προθέρμανσης:: περίπου 5 λεπτά     Ταχύτητα πλαστικοποίησης: 250mm/λεπτό     Μέγιστο πλάτος φύλλου: 240mm     Μέγιστο πάχος φύλλου: 0.6mm     Αριθμός ρολών: 2     Υλικό: πλαστικό (ABS)     Μήκος καλωδίου: περίπου 154 cm     Διαστάσεις: 345 x 140 x 65 mm     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
 		<Barcode>5901299949443</Barcode>
-		<Quantity>104</Quantity>
+		<Quantity>103</Quantity>
 	</product>
 	<product>
 		<ID>7932010231</ID>
@@ -19575,7 +19719,7 @@
 		<MPN>LP03080</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Μέγεθος: Α3     Πάχος: 80 micron     Συσκευασία: 100 τεμάχια</Description>
 		<Barcode>5207146013818</Barcode>
-		<Quantity>52</Quantity>
+		<Quantity>51</Quantity>
 	</product>
 	<product>
 		<ID>7932010241</ID>
@@ -19592,7 +19736,7 @@
 		<MPN>LP04125</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης Typotrast για την προστασία των εγγράφων σας. Κατάλληλο για όλες τις μηχανές πλαστικοποίησης.      Μέγεθος A4 (216x303mm)     125 microns     100 τεμάχια     Διάφανο αποτέλεσμα     Εύκαμπτα     Εγγράψιμα     Στρογγυλεμένες γωνίες     Aδιάβροχα</Description>
 		<Barcode>5207146013931</Barcode>
-		<Quantity>85</Quantity>
+		<Quantity>84</Quantity>
 	</product>
 	<product>
 		<ID>7932010242</ID>
@@ -22390,7 +22534,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<Barcode>5901299949849</Barcode>
-		<Quantity>206</Quantity>
+		<Quantity>205</Quantity>
 	</product>
 	<product>
 		<ID>7991711011</ID>
@@ -24272,7 +24416,7 @@
 		<MPN>16.001.0178</MPN>
 		<Description>Μοντέλο: XO-PR251  Όνομα προϊόντος: Τράπεζα τροφοδοσίας διπλής εισόδου/εξόδου  Υλικό προϊόντος: ABS+PC  Οθόνη: Οθόνη φωτός LED      Είσοδος USB-C / Micro: 5V/2A     Έξοδος USB1/ USB2: 5V/2.1A     Έξοδος USB1+USB2: 5V/2.1A (MAX)     Χωρητικότητα: 10000 mAh     Ονομαστική χωρητικότητα: 5500mAh (5V-2,1A)     Χρώμα προϊόντος: Μαύρο, λευκό     Βάρος προϊόντος: 240+15g     Μέγεθος προϊόντος: 143,7*68,2*16,3mm     Μέγεθος συσκευασίας: 93*175*25mm     Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0</Description>
 		<Barcode>6920680860487</Barcode>
-		<Quantity>82</Quantity>
+		<Quantity>81</Quantity>
 	</product>
 	<product>
 		<ID>7995191018</ID>
