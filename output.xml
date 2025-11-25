@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-11-25 16:05</created_at>
+	<created_at>2025-11-25 16:30</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -231,7 +231,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>345</Quantity>
+		<Quantity>343</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -339,7 +339,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>139</Quantity>
+		<Quantity>137</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -1020,7 +1020,7 @@
 		<Weight>9 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910353</Barcode>
-		<Quantity>106</Quantity>
+		<Quantity>105</Quantity>
 	</product>
 	<product>
 		<ID>130211</ID>
@@ -1055,7 +1055,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Όταν η φυσική πηγή συναντά την αποκλειστική συνταγή Βίκος, αναδύεται μια αυθεντική ελληνική γεύση. Με έναν αέρα ανατροπής και με βάση το φυσικό μεταλλικό νερό, κάθε γουλιά υπόσχεται ασύγκριτη απόλαυση. Δίψασες για κάτι αληθινό; Βρες το στη Βίκος Cola Κλασική!</Description>
 		<Barcode>5201946910339</Barcode>
-		<Quantity>651</Quantity>
+		<Quantity>648</Quantity>
 	</product>
 	<product>
 		<ID>130318</ID>
@@ -1289,7 +1289,7 @@
 		<Weight>2 kg</Weight>
 		<Description>H κορυφαία μάρκα Soda στη Ελλάδα, διακρίνεται για την εξαιρετική της ποιότητα, τη δυνατή γεύση της και το έντονο ανθρακικό. Η #1 προτίμηση των Ελλήνων καταναλωτών, αλλά και των ειδικών, αποτελεί διαχρονικά, την εγγυημένη επιλογή για την συνοδεία ή ολοκλήρωση ενός γεύματος, την ανάδειξη της γεύσης ενός ποτού, ακόμη και για την δροσιστική απόλαυση που προσφέρει ως αναψυκτικό.</Description>
 		<Barcode>5201309703172</Barcode>
-		<Quantity>967</Quantity>
+		<Quantity>966</Quantity>
 	</product>
 	<product>
 		<ID>14022</ID>
@@ -2447,7 +2447,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000017</Barcode>
-		<Quantity>1022</Quantity>
+		<Quantity>1016</Quantity>
 	</product>
 	<product>
 		<ID>40072</ID>
@@ -2465,7 +2465,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000000</Barcode>
-		<Quantity>180</Quantity>
+		<Quantity>170</Quantity>
 	</product>
 	<product>
 		<ID>40073</ID>
@@ -7839,6 +7839,22 @@
 		<Quantity>452</Quantity>
 	</product>
 	<product>
+		<ID>60009</ID>
+		<Name>Colgate Οδοντόκρεμα 50ml με Γεύση Bubble Fruit για 2+ χρονών</Name>
+		<Product_Link>https://www.skroutz.gr/s/7857038/Colgate-Odontokrema-50ml-me-Geysi-Bubble-Fruit-gia-2-chronon.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/051215/51215305/xlarge_20211021092232_2834ea4c.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόκρεμες</Category_Path>
+		<Manufacturer>COLGATE</Manufacturer>
+		<MPN>6009-01</MPN>
+		<Description>Η παιδική οδοντόκρεμα Colgate Junior 2-5 Bubble Fruit τώρα και σε mini travel size συσκευασία των 50ml. Χάρις στο μικρό και βολικό της μέγεθος, χωράει σε κάθε τσάντα και νεσεσέρ.  Διατηρεί το φυσικό pH στη στοματική κοιλότητα Ενισχύει το σμάλτο των δοντιών Προλαμβάνει την τερηδόνα Αφαιρεί την οδοντική πλάκα</Description>
+		<Barcode>6920354812866</Barcode>
+	</product>
+	<product>
 		<ID>60101</ID>
 		<Name>Colgate Extra Clean Οδοντόβουρτσα Medium Λευκή-Ροζ</Name>
 		<Product_Link>https://www.skroutz.gr/s/23497111/Colgate-Extra-Clean-Medium-Mple.html</Product_Link>
@@ -8023,7 +8039,7 @@
 		<MPN>1039</MPN>
 		<Description>Σερβιέτες με φτερά Ultra Normal Plus από την εταιρεία Always, κατασκευασμένες από απορροφητικό υλικό ώστε να προσφέρουν ασφάλεια κατά τις δύσκολες μέρες της περιόδου. Χάρη στα φτερά που διαθέτουν, αποτρέπουν τη μετακίνηση της σερβιέτας και προστατεύουν από τυχόν διαρροές. Κατάλληλες για γυναικές με μέτρια ροή, για να προσφέρουν μεγαλύτερη άνεση και προστασία. Με φτερά. Ποσότητα: 10τμχ</Description>
 		<Barcode>4015400706953</Barcode>
-		<Quantity>542</Quantity>
+		<Quantity>536</Quantity>
 	</product>
 	<product>
 		<ID>61052</ID>
@@ -8040,7 +8056,7 @@
 		<MPN>1040</MPN>
 		<Description>Σερβιέτες με φτερά που προσφέρουν προστασία από τις διαρροές, εφαρμόζουν στο σώμα και εξουδετερώνουν τις οσμές.</Description>
 		<Barcode>4015400759119</Barcode>
-		<Quantity>562</Quantity>
+		<Quantity>556</Quantity>
 	</product>
 	<product>
 		<ID>61053</ID>
@@ -8057,7 +8073,7 @@
 		<MPN>1041</MPN>
 		<Description>Σερβιέτες με μακρύ μήκος, φτερά και σύστημα προστασίας Flex &amp; Fit που προσφέρει απαλότητα, ευελιξία και έως 100% προστασία από διαρροές. Μέγεθος 3 κατάλληλο για τις ημέρες με ελαφριά, μέτρια και έντονη ροή και για εσώρουχα M, L, XL+.</Description>
 		<Barcode>4015400759140</Barcode>
-		<Quantity>1182</Quantity>
+		<Quantity>1176</Quantity>
 	</product>
 	<product>
 		<ID>61061</ID>
@@ -11404,7 +11420,7 @@
 		<MPN>1672001</MPN>
 		<Description>Τα μωρομάντηλα BabyCare Sensitive Plus σχεδιάστηκαν για τον απαλό καθημερινό καθαρισμό του βρεφικού δέρματος. Mε εκχύλισμα αλόης και Βιταμίνη Ε, καθαρίζουν και περιποιούνται το ευαίσθητο βρεφικό δέρμα, ενώ βοηθούν στην προστασία του από ερεθισμούς και συγκάματα.  Χαρακτηριστικά      96% αγνό νερό.     Λοσιόν με κυρίως φυσικά συστατικά.     Επιλεγμένα εκχυλίσματα.     Μαντήλι που περιέχει φυτικές ίνες.     Κλινικά ελεγμένα με άριστα αποτελέσματα.     Εμποτισμένα έως και 30% περισσότερο για πραγματική φροντίδα στο βρεφικό δέρμα.     Σε συσκευασία των 864 τμχ (54 τμχ x 16 πακέτα).</Description>
 		<Barcode>5201263078439</Barcode>
-		<Quantity>2075</Quantity>
+		<Quantity>2067</Quantity>
 	</product>
 	<product>
 		<ID>70403</ID>
@@ -17205,7 +17221,6 @@
 		<Category_Path>Σπίτι - Κήπος&gt; Σκάλες&gt; Σκάλες Απλές</Category_Path>
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>77000194-03</MPN>
-		<Description>ΣΚΑΛΑ ΜΕΤΑΛΛΙΚΗ 3+1 VIOSARP  Μήκος: 140,00 εκ. Πλάτος: 34,00 εκ. Ύψος: 140,00 εκ.</Description>
 		<Barcode>5206753000143</Barcode>
 		<Quantity>0</Quantity>
 	</product>
@@ -17222,7 +17237,6 @@
 		<Category_Path>Σπίτι - Κήπος&gt; Σκάλες&gt; Σκάλες Απλές</Category_Path>
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>77000194-06</MPN>
-		<Description>ΣΚΑΛΑ ΜΕΤΑΛΛΙΚΗ 6+1 VIOSARP  Μήκος: 215,00 εκ. Πλάτος: 40,00 εκ. Ύψος: 215,00 εκ.</Description>
 		<Barcode>5206753000174</Barcode>
 		<Quantity>0</Quantity>
 	</product>
@@ -18083,7 +18097,7 @@
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<Barcode>7449138607</Barcode>
-		<Quantity>799</Quantity>
+		<Quantity>789</Quantity>
 	</product>
 	<product>
 		<ID>78012</ID>
@@ -18355,7 +18369,7 @@
 		<MPN>0980</MPN>
 		<Description>Ποτήρι πλαστικό διάφανο 50 τεμαχίωνΧωρητικότητα 200ml.</Description>
 		<Barcode>5203124503005</Barcode>
-		<Quantity>523</Quantity>
+		<Quantity>516</Quantity>
 	</product>
 	<product>
 		<ID>78131</ID>
@@ -18901,7 +18915,7 @@
 		<MPN>1774</MPN>
 		<Description>Κουτάλι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
 		<Barcode>5214002309770</Barcode>
-		<Quantity>1607</Quantity>
+		<Quantity>1602</Quantity>
 	</product>
 	<product>
 		<ID>78615103</ID>
@@ -18918,7 +18932,7 @@
 		<MPN>1775</MPN>
 		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
 		<Barcode>5214002309763</Barcode>
-		<Quantity>1542</Quantity>
+		<Quantity>1537</Quantity>
 	</product>
 	<product>
 		<ID>78621</ID>
@@ -18935,7 +18949,7 @@
 		<MPN>0001</MPN>
 		<Description>• 10 τεμάχια• Διάμετρος: 18cm</Description>
 		<Barcode>5202054472962</Barcode>
-		<Quantity>502</Quantity>
+		<Quantity>497</Quantity>
 	</product>
 	<product>
 		<ID>78622</ID>
@@ -18952,7 +18966,7 @@
 		<MPN>0138</MPN>
 		<Description>• 10 τεμάχια• Διάμετρος: 23cm</Description>
 		<Barcode>5202054472986</Barcode>
-		<Quantity>360</Quantity>
+		<Quantity>355</Quantity>
 	</product>
 	<product>
 		<ID>78801</ID>
@@ -19249,7 +19263,7 @@
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036188</Barcode>
-		<Quantity>189</Quantity>
+		<Quantity>184</Quantity>
 	</product>
 	<product>
 		<ID>78901012</ID>
@@ -19266,7 +19280,7 @@
 		<MPN>1777</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.  Χαρακτηριστικά      Μήκος(μέτρα): 20μ.     Πλάτος: 29εκ.</Description>
 		<Barcode>5202054036195</Barcode>
-		<Quantity>225</Quantity>
+		<Quantity>218</Quantity>
 	</product>
 	<product>
 		<ID>78902</ID>
@@ -25430,7 +25444,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.4065712316</Price>
+		<Price>5.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Storage &gt; Κάρτες Μνήμης</Category_Path>
 		<Manufacturer>Philips</Manufacturer>
@@ -25438,6 +25452,24 @@
 		<Description>Βασικά χαρακτηριστικά:      Bus Speed UHS-I     Speed Class 10     UHS Speed Class U3     V30  Ιδανική για χρήση σε smartphone, tablet και άλλες συσκευές. Περιλαμβάνει αντάπτορα micro SD για σύνδεση σε βιντεοκάμερες και υπολογιστές.</Description>
 		<Barcode>8720039511859</Barcode>
 		<Quantity>11</Quantity>
+	</product>
+	<product>
+		<ID>799620103</ID>
+		<Name>Philips microSDXC 128GB Class 10 U1 UHS-I με αντάπτορα (FM12MP45B/00) (PHIFM12MP45B-00)</Name>
+		<Product_Link>https://www.skroutz.gr/s/19300301/Philips-microSDXC-128GB-Class-10-U1-UHS-I-me-antaptora.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/019300/19300301/xlarge_20190704111854_philips_microsdxc_128gb_class_10_u1_with_adapter.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/074135/74135412/xlarge_20230411144448_8847ca5d.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.77</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Storage &gt; Κάρτες Μνήμης</Category_Path>
+		<Manufacturer>Philips</Manufacturer>
+		<MPN>FM12MP45B/00</MPN>
+		<Description>Βασικά χαρακτηριστικά:  Bus Speed UHS-I Speed Class 10 UHS Speed Class U1 Ιδανική για χρήση σε smartphone, tablet και άλλες συσκευές. Περιλαμβάνει αντάπτορα micro SD για σύνδεση σε βιντεοκάμερες και υπολογιστές.</Description>
+		<Barcode>8719274666998</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7996210064</ID>
@@ -26289,7 +26321,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.24</Price>
+		<Price>6.72</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία&gt;Gadgets&gt;Writing Tablets</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -26306,7 +26338,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.24</Price>
+		<Price>6.72</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία&gt;Gadgets&gt;Writing Tablets</Category_Path>
 		<Manufacturer>XO</Manufacturer>
