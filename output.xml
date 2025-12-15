@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-15 16:05</created_at>
+	<created_at>2025-12-15 16:58</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -17,7 +17,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
 		<Barcode>5201261231843</Barcode>
-		<Quantity>24</Quantity>
+		<Quantity>19</Quantity>
 	</product>
 	<product>
 		<ID>310239</ID>
@@ -3097,7 +3097,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.489179544996</Price>
+		<Price>11.15283733368143</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
@@ -3114,7 +3114,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.826724938104</Price>
+		<Price>11.45426536972687</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
@@ -3131,7 +3131,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.652239393328</Price>
+		<Price>14.87044977824191</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
@@ -3148,7 +3148,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>26.328540662424</Price>
+		<Price>23.51138681154464</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
@@ -3165,7 +3165,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.951876248464</Price>
+		<Price>12.45902548987835</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
@@ -3182,7 +3182,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.951876248464</Price>
+		<Price>12.45902548987835</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΑΒΑΝΤΙΣ</Manufacturer>
@@ -3665,7 +3665,7 @@
 		<MPN>1784</MPN>
 		<Description>Χαρμάνι των καλύτερων αμπελώνων του κτήματος, 44 ετών, πιστοποιημένοι βιολογικοί. Έντονα αρώματα φρέσκων μαύρων και κόκκινων φρούτων του δάσους, βιολέτας, βοτάνων αλλά και κομψής φυτικότητας.  Στο στόμα η οξύτητα είναι υψηλή, με στιβαρές αλλά στρογγυλές τανίνες, για το Γη και Ουρανός που ωρίμασε σε δρύινα γαλλικά βαρέλια 500lt 2ης - 3ης χρήσης για 18 μήνες.</Description>
 		<Barcode>5200363504169</Barcode>
-		<Quantity>42</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>47011</ID>
@@ -4006,7 +4006,7 @@
 		<MPN>1328</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888160100</Barcode>
-		<Quantity>396</Quantity>
+		<Quantity>390</Quantity>
 	</product>
 	<product>
 		<ID>47093</ID>
@@ -4476,7 +4476,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.4</Price>
+		<Price>19.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΝΤΟΥΓΚΟΣ</Manufacturer>
@@ -5557,7 +5557,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>1009</Quantity>
+		<Quantity>769</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -8977,6 +8977,24 @@
 		<Quantity>56</Quantity>
 	</product>
 	<product>
+		<ID>602100101</ID>
+		<Name>Viosarp Οδοντικό Νήμα με Λαβή 50τμχ DF50F</Name>
+		<Product_Link>https://www.skroutz.gr/s/48929253/Viosarp-Odontiko-Nima-me-Lavi-50tmch.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/086735/86735378/xlarge_20231222102055_09e903ee.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753042013_3.jpg?itok=xkewa6Io</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.13</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντικά Νήματα</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>DF50F</MPN>
+		<Description>Οδοντικό νήμα σε διχάλες με λαβή για εύκολο κράτημα με επίθεμα αντίχειρα για καλύτερο έλεγχο. Γλιστρά εύκολα μεταξύ των δοντιών και δεν χαλάει, σπάει ή χαλαρώνει εύκολα. Επίσης, διαθέτει λαιμό σε γωνία για να προσφέρει πρόσβαση στα πίσω δόντια.</Description>
+		<Barcode>5206753042013</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>61001</ID>
 		<Name>Every Day All Cotton Normal Σερβιετάκια 20τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/7652544/Every-Day-All-Cotton-Normal-Servietakia-20tmch.html</Product_Link>
@@ -10814,7 +10832,7 @@
 		<MPN>1287</MPN>
 		<Description>Ultrex Men Legend by CR7 με την υπογραφή του Ronaldo. Κατά της πιτυρίδας και της λιπαρότητας, είναι ειδικά σχεδιασμένο για το ανδρικό τριχωτό της κεφαλής που είναι πιο αδύναμο και πιο επιρρεπές στην απώλεια πρωτεϊνών.</Description>
 		<Barcode>8710847997471</Barcode>
-		<Quantity>199</Quantity>
+		<Quantity>189</Quantity>
 	</product>
 	<product>
 		<ID>66501</ID>
@@ -14135,6 +14153,24 @@
 		<Quantity>2</Quantity>
 	</product>
 	<product>
+		<ID>740160121</ID>
+		<Name>Viosarp Φαράσι Μεταλλικό με Κοντάρι Γαλβανιζέ Ασημί Μ34xΠ27xΥ76cm VC1000</Name>
+		<Product_Link>https://www.skroutz.gr/s/27781090/Viosarp-Farasi-Metalliko-me-Kontari-Galvanize-Asimi-34x27x76ek-VC1000.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/027781/27781090/xlarge_20210322103805_viosarp_farasi_me_kontari_alouminiou.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753018223.jpg?itok=1rsdlSRN https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753018223_1.jpg?itok=ASs9RlD3</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.82</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket&gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού&gt; Φαράσια</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>VC1000</MPN>
+		<Description>Φαράσι της εταιρείας Viosarp, μεταλλικό γαλβανιζέ με κοντάρι για ξεκούραστη χρήση. Ιδανικό για τη συλλογή σκουπιδιών τόσο στον βιομηχανικό όσο και στον οικιακό τομέα. Κατάλληλο για μάζεμα σκοιπιδιών, χώματα και μπάζα.   Διαστάσεις: Μήκος: 34cm Πλάτος: 27cm Ύψος: 76cm</Description>
+		<Barcode>5206753018223</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>740350101</ID>
 		<Name>Sidirela Σφουγγαρίστρα Μicrofiber “Super” 30cm 200gr (Διάφορα Χρώματα) E-2491</Name>
 		<Product_Link>https://www.skroutz.gr/s/54882514/Sidirela-Sfougaristra-E-2491-Diafora-CHromata.html</Product_Link>
@@ -14187,6 +14223,24 @@
 		<Description>Κοντάρι Ξύλινο με λούστρο 1,20μ.</Description>
 		<Barcode>5202707988833</Barcode>
 		<Quantity>78</Quantity>
+	</product>
+	<product>
+		<ID>74040010101</ID>
+		<Name>Viosarp Κοντάρι από Ξύλο Φυσικό 130cm Χοντρή Βίδα</Name>
+		<Product_Link>https://www.skroutz.gr/s/22824178/Viosarp-Kontari-apo-Xylo-Fysiko-130cm-017172.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/022824/22824178/xlarge_20220222164518_viosarp_kontari_xylino_fysiko_130cm_017172.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_thumb/public/products/5206753017172_0.jpg.webp?itok=OVfNymqQ https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753017172_1.jpg?itok=c324O_AR</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Διάφορα Αξεσουάρ Καθαρισμού</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>74040010-101</MPN>
+		<Description>Κοντάρι ξύλινο με μήκος 1,3m και εξαιρετικής αντοχής.</Description>
+		<Barcode>5206753017172</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>740400102</ID>
@@ -15029,6 +15083,24 @@
 		<Description>Παγίδα για μύγες σε χάρτινη κορδέλα με επικάλυψη κόλλας. Διατηρεί την κολλητική της ικανότητα για αρκετό διάστημα, χωρίς να ξεραίνεται και δεν επηρεάζεται από την υγρασία.</Description>
 		<Barcode>6957809410117</Barcode>
 		<Quantity>89</Quantity>
+	</product>
+	<product>
+		<ID>749311102</ID>
+		<Name>Viosarp Glue Pit Παγίδα για Κατσαρίδες με Κολλητική Επιφάνεια 6τμχ VC469</Name>
+		<Product_Link>https://www.skroutz.gr/s/25868825/Viosarp-Glue-Pit-Pagida-gia-Katsarides-me-Kollitiki-Epifaneia-6tmch-VC469.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/025868/25868825/xlarge_20201126161138_viosarp_pagida_cockroach_glue_pit_6tmch.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753013082_0.jpg?itok=_4ZMbGUb https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753013082_1.jpg?itok=QjP16HW1 https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753013082_2.jpg?itok=Uptagc4C</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος Απωθητικά &amp; Παγίδες&gt; Εντομοκτόνα &amp; Εντομοαπωθητικά Χώρου</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>VC469</MPN>
+		<Description>Κόλλα σε πιατάκι για κατσαρίδες, οι οποίες περνώντας από το σημείο εφαρμογής παγιδεύονται, με αποτέλεσμα την εξολόθρευσή τους.</Description>
+		<Barcode>5206753013082</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>74941</ID>
@@ -16556,6 +16628,24 @@
 		<Quantity>46</Quantity>
 	</product>
 	<product>
+		<ID>762070101</ID>
+		<Name>Viosarp Πλαστική Σακούλα Κορνέ Ζαχαροπλαστικής 50τμχ VC2678</Name>
+		<Product_Link>https://www.skroutz.gr/s/51516790/Viosarp-Sakoula-Korne-Zacharoplastikis-Plastiki-50tmch-VC2678.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/051516/51516790/xlarge_20240321113757_viosarp_sakoula_korne_zacharoplastikis_plastiki_50tmch_vc2678.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753044031_0.jpg?itok=nz94td2t https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753044031_1.jpg?itok=Bw0Wf40u</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.54</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Ζαχαροπλαστικής &gt; Κορνέ Ζαχαροπλαστικής</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>VC2678</MPN>
+		<Description>Κορνέ σακούλα 50 Τεμαχίων, φτιαγμένη από καλής ποιότητας πλαστικό. Διαστάσεις: 24,50 πλάτος x 36 ύψος cm. Ιδανικό για τις ζαχαροπλαστικές σας δημιουργίες.</Description>
+		<Barcode>5206753044031</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>76207</ID>
 		<Name>Cyclops Θήκη Ταξιδίου Οδοντόβουρτσας Πλαστική Μπλε</Name>
 		<Product_Link>https://www.skroutz.gr/s/27750182/Cyclops-00410050-00410050-THiki-Taxidiou-Odontovourtsas-Plastiki-Mple.html</Product_Link>
@@ -17648,6 +17738,24 @@
 		<Quantity>24</Quantity>
 	</product>
 	<product>
+		<ID>767300201</ID>
+		<Name>Viosarp Ανταλλακτικό για Ρολό Καθαρισμού 60 Φύλλων</Name>
+		<Product_Link>https://www.skroutz.gr/s/28621665/Viosarp-Antallaktiko-gia-Rolo-Katharismou-VC024.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/028621/28621665/xlarge_20210428114955_viosarp_antallaktiko_rolo_rouchon_gigas_vc024.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/117599/117599513/xlarge_20250926164555_c3fa363d.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.53</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket&gt; Είδη Οικιακής Χρήσης&gt; Ρολά για Τρίχες</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>7673002-01</MPN>
+		<Description>Ανταλλακτικό ρολό καθαρισμού για ρούχα, χαλιά, σαλόνια, καθίσματα αυτοκινήτου, δάπεδα και κατοικίδια. Αφαιρεί σκόνες, χνούδια και τρίχες μόνο με ένα πέρασμα.</Description>
+		<Barcode>5206753025740</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>76730101</ID>
 		<Name>Sidirela Πλαστική Θήκη Αποθήκευσης για Παπούτσια Μαύρη 27x10.5x18.5cm Ε-3401</Name>
 		<Product_Link>https://www.skroutz.gr/s/26146421/Sidirela-Plastiki-THiki-Apothikeysis-gia-Papoutsia-se-Mayro-CHroma-27x10-5x18-5cm-E-3401.html</Product_Link>
@@ -18674,13 +18782,31 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>32.36</Price>
+		<Price>32.13</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Διακοσμητικά Δαπέδου&gt; Καλόγεροι</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>RCR16BX</MPN>
 		<Description>Θα το λατρέψετε! Δεν έχετε πού να τακτοποιήσετε τα ακατάστατα ρούχα σας πεταμένα στον καναπέ; Αυτό το δέντρο για την είσοδο θα σας βοηθήσει να ξεφύγετε από αυτό το χάος! Με μια απλή τριγωνική σιλουέτα, αυτή η ραφιέρα διαθέτει 6 κομψούς γάντζους και δύο στιβαρά ράφια - κρατήστε τα πράγματά σας μακριά.  Σταθερότητα Πρώτα: Κατασκευασμένο από ατσάλινο σκελετό και χοντρή μοριοσανίδα, το δέντρο παλτών διαθέτει ανώτερη ανθεκτικότητα και σταθερότητα. Τριγωνική βάση για πρόσθετη σταθερότητα. Κάθε γάντζο αντέχει έως και 11 λίβρες, κάθε ράφι 22 λίβρες.  Σχεδιασμός για επιπλέον αποθηκευτικό χώρο: Δύο τριγωνικά ράφια με μια εντυπωσιακή ρουστίκ καφέ επιφάνεια στολίζουν την τούρτα της ραφιέρας, προσφέροντας παράλληλα επιπλέον αποθηκευτικό χώρο. Μπορείτε να προσθέσετε ένα φυτό σε γλάστρα για να ζωντανέψετε τα πάντα.  Μινιμαλιστικό Στυλ: Αυτή η μινιμαλιστική κρεμάστρα δημιουργεί έναν γαλήνιο και οργανωμένο χώρο με χώρο για να αναπνέετε στο σπίτι σας. Ανοίξτε την πόρτα και βγάλτε το βαρύ παλτό, χαλαρώστε και ξεκουραστείτε στο τέλος της ημέρας.  Τι αποκτάτε: Μια βάση κρεμάστρας σε βιομηχανικό στιλ με 6 λείους γάντζους και δύο τριγωνικά ράφια αποθήκευσης, μια τσάντα με αξεσουάρ και εύκολες οδηγίες - δώστε στο σπίτι σας μια οργανωμένη και κομψή εμφάνιση.  Προδιαγραφές:  Χρώμα: Ρουστίκ Καφέ Υλικό: Μοριοσανίδα, Χάλυβας Μέγεθος: 19,5"Β x 19,5"Π x 70,5"Υ (49,5 x 49,5 x 179 εκ.) Βάρος: 7,3 λίβρες (3,3 κιλά) Χωρητικότητα φορτίου κάθε γάντζου: 5 κιλά (11 λίβρες) Χωρητικότητα κάθε ραφιού: 10 κιλά (22 λίβρες) Περιεχόμενα συσκευασίας:  1 x Ράφι ρούχων 1 x οδηγίες</Description>
 		<Barcode>0194343053875</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7700123104</ID>
+		<Name>Viosarp Viosarp Καλόγερος Ξύλινος 8 θέσεων σε Φυσικό Χρώμα 42x42x175cm WR4435</Name>
+		<Product_Link>https://www.skroutz.gr/s/57570742/Viosarp-Kalogeros-Xylinos-Mpez-5206753046806-42x42x175cm.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/104741/104741365/fixedratio_20241120142419_84f949d4.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753046806.jpg?itok=04kbS7ff</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>23.37</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Διακοσμητικά Δαπέδου&gt; Καλόγεροι</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>WR4435</MPN>
+		<Description>Ο καλόγερος της Viosarp φέρνει φυσική ζεστασιά και στυλ στον χώρο σας. Κατασκευασμένος από ξύλινο υλικό, συνδυάζει ανθεκτικότητα με φυσική ομορφιά. Με ύψος 175 εκατοστά, προσφέρει άφθονο χώρο για να κρεμάσετε ρούχα και αξεσουάρ, διατηρώντας τον χώρο σας οργανωμένο και τακτοποιημένο.  Οι χρήστες που τον έχουν αγοράσει τον ξεχωρίζουν κυρίως γιατί είναι σταθερή/στιβαρή κατασκευή.</Description>
+		<Barcode>5206753046806</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -19012,6 +19138,24 @@
 		<Quantity>74</Quantity>
 	</product>
 	<product>
+		<ID>7715006015</ID>
+		<Name>Viosarp Καλάθι Απλύτων Πλαστικό με Καπάκι Γκρι 45x37.5x57cm Μ-170</Name>
+		<Product_Link>https://www.skroutz.gr/s/29591380/Viosarp-M-170-Kalathi-Aplyton-Plastiko-me-Kapaki-45x37-5x57cm-Gri.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029591/29591380/fixedratio_20230809104943_viosarp_m_170_kalathi_aplyton_plastiko_me_kapaki_45by37_5x57cm_gri.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/081118/81118984/fixedratio_20230809104943_c705e8ed.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>13.15</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>Μ-170</MPN>
+		<Description>Περιγραφή Καλάθι απλύτων της εταιρείας Viosarp, το οποίο αποτελεί ιδανική λύση για να έχετε πάντα τακτοποιημένα τα άπλυτα ρούχα σας. Μπορείτε να το τοποθετήσετε στο μπάνιο σας, κοντά στο πλυντήριο ή οπουδήποτε σας βολεύει ώστε να έχετε εύκολη πρόσβαση.  Καπάκι Διαθέτει καπάκι ώστε τα ρούχα σας να μένουν κρυμμένα και μακριά από αδιάκριτα βλέμματα, ενώ παράλληλα αποτρέπεται η διάχυση άσχημων οσμών στον χώρο.  Υλικό κατασκευής Κατασκευάζεται από πλαστικό, το οποίο αποτελεί μία πολύ πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι πολύ ανθεκτικό στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.</Description>
+		<Barcode>5206753026686</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7715006021</ID>
 		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Διπλό Υφασμάτινο Κάδο 73x33x72cm Γκρι BLH201G01</Name>
 		<Product_Link>https://www.skroutz.gr/s/43081909/Vasagle-BLH201G01-Kalathi-Aplyton-Yfasmatino-73x33x72cm-Brown-Grey.html</Product_Link>
@@ -19220,6 +19364,40 @@
 		<Quantity>10</Quantity>
 	</product>
 	<product>
+		<ID>771501113</ID>
+		<Name>Viosarp Απλώστρα Μεταλλική Βιδωτή για Τοίχο ή Μπαλκόνι 40cm</Name>
+		<Product_Link>https://www.skroutz.gr/s/29651273/Viosarp-Aplostra-Vidoti-apo-Metallo-gia-to-Mpalkoni-40cm.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/051497/51497524/xlarge_20211029101329_96a92779.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>11.72</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Απλώστρες</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>771501-112</MPN>
+		<Description>Βασικά χαρακτηριστικά:  Κατάλληλη για όλα τα κάγκελα Υλικό: Μέταλλο</Description>
+		<Barcode>5206753000655</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>771501114</ID>
+		<Name>Viosarp Απλώστρα Γαλβανιζέ Κρεμαστή για Μπαλκόνι 92x62cm</Name>
+		<Product_Link>https://www.skroutz.gr/s/26463452/Viosarp-Aplostra-Kremasti-apo-Metallo-gia-to-Mpalkoni-92x62cm.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/026463/26463452/xlarge_20210104143050_viosarp_aplostra_mpalkoniou_alouminiou.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.82</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Απλώστρες</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>771501-113</MPN>
+		<Description>Βασικά χαρακτηριστικά:  Υλικό Κατασκευής: Γαλβανιζέ Τύπος: Κρεμαστή Κατάλληλη για μπαλκόνι Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι σταθερή και μετακινείται εύκολα.</Description>
+		<Barcode>5200105310164</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>771501121</ID>
 		<Name>Sidirela Xenia Πτυσσόμενη Απλώστρα Δαπέδου Αλουμινίου με Βάρος 1600gr και Μήκος Απλώματος 10m E-2059</Name>
 		<Product_Link>https://www.skroutz.gr/s/23021087/Sidirela-Ptyssomeni-Aplostra-Dapedou-apo-Alouminio-me-Mikos-Aplomatos-10m-E-2059.html</Product_Link>
@@ -19289,6 +19467,60 @@
 		<Description>Επιτραπέζια σιδερώστρα πασκαρό με ειδικό πλέγμα. Είναι πτυσσόμενη και ιδιαίτερα χρηστική για μικρούς χώρους και ιδανική για το σιδέρωμα μανικιών. Επιφάνεια σιδερώματος: 53x12cm</Description>
 		<Barcode>5203642127240</Barcode>
 		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>771505101</ID>
+		<Name>Viosarp Microfiber Θήκη Πλυσίματος Πλυντηρίου για Παπούτσια 40x19cm VC3166</Name>
+		<Product_Link>https://www.skroutz.gr/s/63301695/thiki-plysimatos-papoutsion-plyntiriou-microfiber-vc3166-40x19cm.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/063301/63301695/xlarge_20251001135224_thiki_plysimatos_papoutsion_plyntiriou_microfiber_vc3166_40x19cm.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_0.jpg?itok=AKjvoqeI https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_1.jpg?itok=VImHJcZy https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_2.jpg?itok=FkE1Ghc5 https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753050278_3.jpg?itok=rhmO_wag</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.97</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>VC3166</MPN>
+		<Description>Αυτή η θήκη πλυσίματος παπουτσιών είναι ιδανική για τη φροντίδα και τον καθαρισμό των υποδημάτων σας στο πλυντήριο. Με διάσταση 40x19 cm, προσφέρει ένα ασφαλές και αποτελεσματικό περιβάλλον κατά τη διάρκεια του πλυσίματος, εξασφαλίζοντας ότι τα παπούτσια σας δεν θα φθαρούν ή παραμορφωθούν. Είναι κατάλληλη για διάφορους τύπους παπουτσιών, κάνοντάς την έναν πολύτιμο βοηθό στην καθημερινή σας φροντίδα για την καθαριότητα των υποδημάτων.  Κατάλληλη και για πλύσιμο εσωρούχων στο πλυντήριο. Διαστάσεις: 40x19 cm.</Description>
+		<Barcode>5206753050278</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>771505102</ID>
+		<Name>Viosarp Δίχτυ Πλυντηρίου για Εσώρουχα 50x60cm VC1176-1</Name>
+		<Product_Link>https://www.skroutz.gr/s/29476366/Viosarp-Dichty-Plyntiriou-gia-Esoroucha-50x60cm-VC1176-1.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029476/29476366/xlarge_20210615104220_viosarp_dichty_plyntiriou_vc1176_1.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_0.jpg?itok=r-nXL0Ed https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_1.jpg?itok=lebdK7QD https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_2.jpg?itok=m-xqlQWx https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_3.jpg?itok=1T9rvkIy https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_4.jpg?itok=MT_141WC https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_5.jpg?itok=F2RptH8U</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.22</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>VC1176-1</MPN>
+		<Description>Βασικά χαρακτηριστικά:  Διαθέτει Φερμουάρ Κατάλληλο για Εσώρουχα Διαστάσεις: 50x60cm</Description>
+		<Barcode>5206753022527</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>771505103</ID>
+		<Name>Viosarp Δίχτυ Πλυντηρίου για Εσώρουχα 30x40cm VC1176</Name>
+		<Product_Link>https://www.skroutz.gr/s/32363976/Viosarp-Dichty-Plyntiriou-gia-Esoroucha-30x40cm-VC1176.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/029476/29476366/xlarge_20210615104220_viosarp_dichty_plyntiriou_vc1176_1.jpeg</Image_Link>
+		<Additional>https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_0.jpg?itok=r-nXL0Ed https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_1.jpg?itok=lebdK7QD https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_2.jpg?itok=m-xqlQWx https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_3.jpg?itok=1T9rvkIy https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_4.jpg?itok=MT_141WC https://viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753022527_5.jpg?itok=F2RptH8U</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.01</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>VC1176</MPN>
+		<Description>Βασικά χαρακτηριστικά:  Διαθέτει Φερμουάρ Κατάλληλο για Εσώρουχα Διαστάσεις: 30x40cm</Description>
+		<Barcode>5206753020370</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>77002</ID>
@@ -19411,7 +19643,7 @@
 		<MPN>E-3442</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134422</Barcode>
-		<Quantity>310</Quantity>
+		<Quantity>309</Quantity>
 	</product>
 	<product>
 		<ID>772100103</ID>
@@ -25538,7 +25770,7 @@
 		<MPN>ECN001</MPN>
 		<Description>Συσκευή εισπνοής και νεφελοποίησης με συμπαγή σχεδίαση από την Esperanza, η οποία απελευθερώνει αποτελεσματικά τις δόσεις εισπνεόμενων φάρμακων, βοηθώντας στην ανακούφιση των συμπτωμάτων του βήχα, του κρυολογήματος της γρίπης και της ρινικής αποσυμφόρησης. Χαρακτηριστικά      Ισχύς: 220V, 50 Hz     Ρεύμα: 0,8Α     Χωρητικότητα φαρμάκου: 10ml     Επίπεδο ήχου ≤ 65dBA     Μέσος ρυθμός νεφελοποίησης: ≤ 0,4ml     Εύρος πίεσης συμπιεστή: 29-55Psi     Εύρος πίεσης λειτουργίας: 9-19Psi  Περιεχόμενα Συσκευασίας      Νεφελοποιητής     Δύο μάσκες διαφορετικών μεγεθών     Επιστόμιο</Description>
 		<Barcode>5901299914007</Barcode>
-		<Quantity>213</Quantity>
+		<Quantity>212</Quantity>
 	</product>
 	<product>
 		<ID>799400152</ID>
