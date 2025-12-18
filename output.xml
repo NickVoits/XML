@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-18 16:28</created_at>
+	<created_at>2025-12-18 16:30</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -30747,24 +30747,5 @@
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
 		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>=COUNTBLANK(A2:A1777)</ID>
-		<Name>=COUNTBLANK(B2:B1777)</Name>
-		<Product_Link>=COUNTBLANK(C2:C1777)</Product_Link>
-		<Image_Link>=COUNTBLANK(D2:D1777)</Image_Link>
-		<Additional>=COUNTBLANK(E2:E1777)</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>=COUNTBLANK(F2:F1777)</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>=COUNTBLANK(G2:G1777)</ΤΕΜΑΧΙΑ>
-		<VAT>=COUNTBLANK(H2:H1777)</VAT>
-		<Price>=COUNTBLANK(I2:I1777)</Price>
-		<Availability>=COUNTBLANK(J2:J1777)</Availability>
-		<Category_Path>=COUNTBLANK(K2:K1777)</Category_Path>
-		<Manufacturer>=COUNTBLANK(L2:L1777)</Manufacturer>
-		<MPN>=COUNTBLANK(M2:M1777)</MPN>
-		<Weight>=COUNTBLANK(N2:N1777)</Weight>
-		<Description>=COUNTBLANK(O2:O1777)</Description>
-		<Barcode>=COUNTBLANK(P2:P1777)</Barcode>
-		<Quantity>=COUNTBLANK(Q2:Q1777)</Quantity>
 	</product>
 </mywebstore>
