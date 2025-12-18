@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-18 16:25</created_at>
+	<created_at>2025-12-18 16:28</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -5452,7 +5452,7 @@
 		<Quantity>43</Quantity>
 	</product>
 	<product>
-		<ID>520100102</ID>
+		<ID>52100102</ID>
 		<Name>Καρδάση Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/19999037/Kardasi-Tyrnavou-Tsipouro-me-Glykaniso-42-100ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/019999/19999037/xlarge_20210210124802_kardasi_tyrnavou_me_glykaniso_tsipouro_100ml.jpeg</Image_Link>
@@ -5466,9 +5466,10 @@
 		<MPN>520100-102</MPN>
 		<Description>Στο Τσίπουρο αυτό, οι σπόροι του γλυκάνισου και του μάραθου, προστίθενται κατά τη δεύτερη φάση της επαναπόσταξης. Διάφανο, με ντελικάτο αρωματικό χαρακτήρα, αρκετά φρέσκο, με βοτανικές και ανθικές πινελιές. Στόμα αιχμηρό, αλλά ισορροπημένο, πικάντικο με χαρακτηριστική τη γλύκα του γλυκάνισου και στην επίγευση. Πίνεται με κρύο νερό ή πάγο συνοδευόμενο με δροσερές σαλάτες και ποικιλίες θαλασσινών.</Description>
 		<Barcode>5200106350725</Barcode>
+		<Quantity>912</Quantity>
 	</product>
 	<product>
-		<ID>520100112</ID>
+		<ID>52100112</ID>
 		<Name>Καρδάση Τσίπουρο Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/19999057/Kardasi-Tyrnavou-Tsipouro-choris-Glykaniso-40-100ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/019999/19999057/xlarge_20210210124802_kardasi_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image_Link>
@@ -5482,6 +5483,7 @@
 		<MPN>520100-112</MPN>
 		<Description>Το Τσίπουρο Καρδάσης χωρίς γλυκάνισο, είναι το πρωτογενές απόσταγμα των στεμφύλων της ποικιλίας μαύρο Μοσχάτο Τυρνάβου. Τα πρώτα κλάσματα της απόσταξης, (κεφαλές) και τα τελευταία (ουρές), απομακρύνονται.  Το κυρίως σώμα (καρδιά), επαναποστάζεται αργά σε χαμηλή θερμοκρασία. Έτσι το απόσταγμα διατηρεί αναλλοίωτα το άρωμα και το χαρακτήρα του σταφυλιού από το οποίο προέρχεται.  Σερβίρετε σκέτο στους 12-15oc. Συνοδεύεται από ποικιλίες γήινων μεζέδων της ελληνικής κουζίνας όπως, κρεατικά με καυτερή σάλτσα, χωριάτικο λουκάνικο με πιπεριές, πικάντικες σαλάτες τουρσί κ.α.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα. Γευσιγνωστικά Χαρακτηριστικά      Άρωμα: Εκτός από το κυρίαρχο άρωμα του μοσχάτου μπορείτε να αναγνωρίσετε αρώματα ανοιξιάτικων ρόδων, βατόμουρου, εσπεριδοειδών, ροδάκινου.     Γεύση: Η γεύση του είναι απαλή και η επίγευση του μακρά και ευχάριστα αρωματική.</Description>
 		<Barcode>5200106350732</Barcode>
+		<Quantity>408</Quantity>
 	</product>
 	<product>
 		<ID>52101</ID>
@@ -30745,5 +30747,24 @@
 		<Description>Υγρή τροφή γάτας σε κονσέρβα από την Morando κατάλληλη για ενήλικες γάτες.      Με βιταμίνες, ωμέγα 3, ασβέστιο και φώσφορο      Συμβάλλει στην υγεία των οστών, των δοντιών, του δέρματος, του τριχώματος καθώς και της μυϊκής μάζας</Description>
 		<Barcode>8007520012225</Barcode>
 		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>=COUNTBLANK(A2:A1777)</ID>
+		<Name>=COUNTBLANK(B2:B1777)</Name>
+		<Product_Link>=COUNTBLANK(C2:C1777)</Product_Link>
+		<Image_Link>=COUNTBLANK(D2:D1777)</Image_Link>
+		<Additional>=COUNTBLANK(E2:E1777)</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>=COUNTBLANK(F2:F1777)</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>=COUNTBLANK(G2:G1777)</ΤΕΜΑΧΙΑ>
+		<VAT>=COUNTBLANK(H2:H1777)</VAT>
+		<Price>=COUNTBLANK(I2:I1777)</Price>
+		<Availability>=COUNTBLANK(J2:J1777)</Availability>
+		<Category_Path>=COUNTBLANK(K2:K1777)</Category_Path>
+		<Manufacturer>=COUNTBLANK(L2:L1777)</Manufacturer>
+		<MPN>=COUNTBLANK(M2:M1777)</MPN>
+		<Weight>=COUNTBLANK(N2:N1777)</Weight>
+		<Description>=COUNTBLANK(O2:O1777)</Description>
+		<Barcode>=COUNTBLANK(P2:P1777)</Barcode>
+		<Quantity>=COUNTBLANK(Q2:Q1777)</Quantity>
 	</product>
 </mywebstore>
