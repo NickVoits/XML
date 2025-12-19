@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-19 16:05</created_at>
+	<created_at>2025-12-19 16:38</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -4214,6 +4214,127 @@
 		<Quantity>358</Quantity>
 	</product>
 	<product>
+		<ID>47105101</ID>
+		<Name>Κτήμα Κώστα Λαζαρίδη Κρασί Chateau Julia Chardonnay Λευκό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4707545/Ktima-Kosta-Lazaridi-Krasi-Chateau-Julia-Chardonnay-Leyko-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/004707/4707545/xlarge_20200314140628_ktima_kosta_lazaridi_ch_teau_julia_chardonnay_leyko_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.91151234671875</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
+		<MPN>47105-101</MPN>
+		<Description>Λευκός οίνος από σταφύλια ποικιλίας Chardonnay, με διαυγές, αχυρόξανθο χρώμα και πρασινωπές αντανακλάσεις. Στη μύτη έχει ζωηρά αρώματα λουλουδιών και φρούτων, με το γιασεμί, τον ανανά και τη μπανάνα να πρωταγωνιστούν, σε φόντο εσπεριδοειδών.   Δροσιστική οξύτητα, που συνδυάζεται με τη δομή και φρουτώδη αρώματα στόματος και επίμονο τελείωμα.   Συνοδεύει όστρακα, ψάρια με μυρωδικά ή ελαφρές σάλτσες, λευκά κρέατα και ημίσκληρα τυριά.</Description>
+		<Barcode>5202207127015</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>47105102</ID>
+		<Name>Κτήμα Κώστα Λαζαρίδη Κρασί Domaine Μαλαγουζιά Λευκό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/14146122/Ktima-Kosta-Lazaridi-Krasi-Domaine-Malagouzia-Leyko-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/014146/14146122/xlarge_20200314141400_ktima_kosta_lazaridi_domaine_costa_lazaridi_malagouzia_leyko_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.77077012464625</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
+		<MPN>47105-102</MPN>
+		<Description>Ξηρό κρασί Μαλαγουζιά από το Κτήμα Λαζαρίδη, με λαμπερό, κιτρινοπράσινο χρώμα. Είναι έντονο με φυτικές και τερπενικές νύξεις σε φόντο λευκών λουλουδιών και λευκόσαρκων φρούτων. Στο στόμα είναι στρογγυλό και γεμάτο, με δροσιστική οξύτητα και φρεσκάδα. Γευστικά έντονο, με μακρύ τελείωμα που κυριαρχείται από αρώματα ροδάκινου και βερίκοκου.</Description>
+		<Barcode>5202207177010</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>47105103</ID>
+		<Name>Κτήμα Κώστα Λαζαρίδη Κρασί Αμέθυστος Sauvignon Blanc/Ασύρτικο Λευκό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4707382/Ktima-Kosta-Lazaridi-Krasi-Amethystos-Leyko-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/004707/4707382/xlarge_20200314140804_ktima_kosta_lazaridi_amethystos_leyko_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>11.87859135898125</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
+		<MPN>47105-103</MPN>
+		<Description>Το κοσμοπολίτικο Sauvignon Blanc και το αιγαιοπελαγίτικο Ασύρτικο, οι δυο λευκές ποικιλίες που πρώτος ο Κώστας Λαζαρίδης φύτεψε στον αμπελώνα της Δράμας, διαμορφώνουν το χαρακτήρα αυτού του κρασιού.  Ποικιλιακή Σύνθεση: Sauvignon Blanc 85%, Ασύρτικο 15% Αλκοολικός Τίτλος: 13% Vol.</Description>
+		<Barcode>5202207107017</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>47105202</ID>
+		<Name>Κτήμα Κώστα Λαζαρίδη Κρασί Domaine Merlot/Grenache Rouge/Αγιωργίτικο Ροζέ Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/7125316/Ktima-Kosta-Lazaridi-Krasi-Domaine-Roze-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/007125/7125316/xlarge_20200204121342_ktima_kosta_lazaridi_domaine_costa_lazaridi_merlot_roze_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.77077012464625</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
+		<MPN>47105-202</MPN>
+		<Description>Καθαρό ωχρό του σολομού. Μύτη με εκφραστικά αρώματα κόκκινων φρούτων όπως φράουλα και raspberry μαζί με μια αίσθηση φρεσκάδας που μοιάζει με ξύσμα λεμονιού και καραμέλα. Στο στόμα ελαφρύ, δροσιστικό, τραγανό, ότι ακριβώς θα περίμενες βλέποντας το σερβιρισμένο στο ποτήρι. Θα μπορούσε να αποτελέσει μια πραγματική εξαιρετική εναλλακτική σε όσους αγαπούν τις ροζέ Προβηγκίες, αλλά από μόνο του και χωρίς σύγκριση είναι ένα απολαυστικό ροζέ κρασί.</Description>
+		<Barcode>5202207317010</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>47105301</ID>
+		<Name>Κτήμα Κώστα Λαζαρίδη Κρασί Chateau Julia Merlot Ερυθρό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4707546/Ktima-Kosta-Lazaridi-Krasi-Chateau-Julia-Merlot-Erythro-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/004707/4707546/xlarge_20211026085235_ktima_kosta_lazaridi_krasi_erythro_xiro_chateau_julia_750ml.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/059323/59323115/xlarge_20220421173551_65b877bb.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.07611728540625</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
+		<MPN>47105-301</MPN>
+		<Description>Το Merlot Chateau Julia από το Κτήμα Costa Lazaridi, είναι ένας ερυθρός οίνος, παλαιωμένος για 12 μήνες σε δρύινα γαλλικά βαρέλια, εκ των οποίων το 40% είναι νέα.  Στα αρώματά του απαντώνται αυτά του φραγκοστάφυλου, της μαρμελάδας κεράσι, τα σοκολατάκια μέντας, του μελάνιου αλλά και του κέδρου. Σαρκώδες, πλούσιο, σχεδόν πληθωρικό, με άφθονο φρούτο που υποστηρίζει τις καλά ενσωματωμένες τανίνες. Η υψηλή παρουσία της αλκοόλης ισορροπεί με την οξύτητα και εκφράζεται κυρίως ως γλύκα και όγκος. Μακριά επίγευση σε σοκολατένιους τόνους.  Συνοδεύει ιδανικά κόκκινα κρέατα ψητά ή μαγειρευτά, καθώς και τυριά.</Description>
+		<Barcode>5202207427016</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>47105304</ID>
+		<Name>Κτήμα Κώστα Λαζαρίδη Βιολογικό Κρασί Οινότρια Γη Cabernet Sauvignon/Αγιωργίτικο Ερυθρό Ξηρό 750ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/4718888/Ktima-Kosta-Lazaridi-Viologiko-Krasi-Oinotria-Gi-Erythro-Xiro-750ml.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/004718/4718888/xlarge_20200314140204_ktima_kosta_lazaridi_oinotria_gi_cabernet_sauvignon_agiorgitiko_erythro_750ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.17488024861875</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
+		<MPN>47105-304</MPN>
+		<Description>Το Αγιωργίτικο μαλακώνει την ένταση του Cabernet Sauvignon, χωρίς να αλλοιώνει τα βασικά χαρακτηριστικά του, όπως αυτά διαμορφώνονται στο ιδιαίτερο εδαφοκλιματικό περιβάλλον του βιολογικού αμπελώνα μας.  Ποικιλιακή σύνθεση: Cabernet Sauvignon 90%, Αγιωργίτικο 10%  Αλκοολικός τίτλος: 14% Vol.</Description>
+		<Barcode>5202207547011</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
+		<ID>47105501</ID>
+		<Name>Κτήμα Κώστα Λαζαρίδη Βαλσάμικο Ξίδι Aceto Botanico Red Seal 250ml</Name>
+		<Product_Link>https://www.skroutz.gr/s/23496065/Ktima-Kosta-Lazaridi-Valsamiko-Xidi-Aceto-Botanico-Red-Seal-250ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/034156/34156825/xlarge_20200824144052_28bea616.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_main_images/023496/23496065/xlarge_20200824144053_ktima_kosta_lazaridi_aceto_botanico_red_seal_250ml.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>10.329209877375</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κτήμα Κώστα Λαζαρίδη</Manufacturer>
+		<MPN>47105-501</MPN>
+		<Description>Το βαλσάμικο ξίδι Botanico Red Seal της εταιρίας Κτήμα Κώστα Λαζαρίδη χαρακτηρίζεται από την υψηλή συμπύκνωση και τα πολύπλοκα αρώματα. Έχει συμπαγή, σκούρα απόχρωση και πλούσιο άρωμα καφέ, σταφίδας και φρούτων. Είναι πυκνό και λιπαρό με την εντύπωση της οξύτητας να υποχωρεί και τη συμπυκνωμένη γλύκα να κερδίζει έδαφος.</Description>
+		<Barcode>5202207712518</Barcode>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
 		<ID>47106101</ID>
 		<Name>Nico Lazaridi Κρασί Μαγικό Βουνό Sauvignon Blanc Λευκό Ξηρό 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/4707555/Nico-Lazaridi-Krasi-Magiko-Vouno-Sauvignon-Blanc-Leyko-Xiro-750ml.html</Product_Link>
@@ -4364,7 +4485,7 @@
 		<MPN>1634</MPN>
 		<Description>Το Variere Ροζέ, από τους Ορεινούς Αμπελώνες Λαλίκου, είναι ένα άμεσο, χαρούμενο, καθόλου ελιτίστικο και πάνω από όλα απολαυστικό ροζέ κρασί.</Description>
 		<Barcode>5206283001009</Barcode>
-		<Quantity>224</Quantity>
+		<Quantity>222</Quantity>
 	</product>
 	<product>
 		<ID>47251</ID>
@@ -4381,7 +4502,7 @@
 		<MPN>1335</MPN>
 		<Description>Βασικά χαρακτηριστικά:    •Χώρα: Ελλάδα / Περιοχή: Νεμέα    •Ημιαφρώδες / Ημίγλυκο    •Αγιωργίτικο, Syrah, Μοσχοφίλερο    •Αλκοόλ: 11,5% v/v    •Σερβίρεται στους 8-10°C</Description>
 		<Barcode>5200111580735</Barcode>
-		<Quantity>1625</Quantity>
+		<Quantity>1622</Quantity>
 	</product>
 	<product>
 		<ID>47291101</ID>
@@ -5452,7 +5573,7 @@
 		<Quantity>43</Quantity>
 	</product>
 	<product>
-		<ID>52100102</ID>
+		<ID>520100102</ID>
 		<Name>Καρδάση Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/19999037/Kardasi-Tyrnavou-Tsipouro-me-Glykaniso-42-100ml.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/019999/19999037/xlarge_20210210124802_kardasi_tyrnavou_me_glykaniso_tsipouro_100ml.jpeg</Image_Link>
@@ -5469,7 +5590,7 @@
 		<Quantity>912</Quantity>
 	</product>
 	<product>
-		<ID>52100112</ID>
+		<ID>520100112</ID>
 		<Name>Καρδάση Τσίπουρο Χωρίς Γλυκάνισο 40% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/19999057/Kardasi-Tyrnavou-Tsipouro-choris-Glykaniso-40-100ml.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/019999/19999057/xlarge_20210210124802_kardasi_tyrnavou_choris_glykaniso_tsipouro_100ml.jpeg</Image_Link>
@@ -17977,7 +18098,7 @@
 		<MPN>ST003</MPN>
 		<Description>Κουτί αποθήκευσης  που διατίθεται σε διαφανές χρώμα με δύο ασφάλειες. Για την προστασία των αντικειμένων σας, το οποίο αποτελεί μία πρακτική λύση για την αποθήκευση των διαφόρων αντικειμένων καθημερινής χρήσης, αλλά και για τη φύλαξη πραγμάτων που δεν χρησιμοποιείτε συχνά.  Εξοικονομεί χώρο στο δωμάτιο, την αποθήκη, την κουζίνα σας, διατηρώντας το οργανωμένο και τακτοποιημένο.   Μήκος : 30,00cm Πλάτος : 20,00cm Ύψος : 12,00cm</Description>
 		<Barcode>5206753003090</Barcode>
-		<Quantity>19</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>767302154</ID>
@@ -19677,7 +19798,7 @@
 		<MPN>E-3442</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
 		<Barcode>5203642134422</Barcode>
-		<Quantity>304</Quantity>
+		<Quantity>302</Quantity>
 	</product>
 	<product>
 		<ID>772100103</ID>
@@ -21702,7 +21823,7 @@
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
 		<Barcode>5207243085343</Barcode>
-		<Quantity>1421</Quantity>
+		<Quantity>1401</Quantity>
 	</product>
 	<product>
 		<ID>78991111</ID>
@@ -21719,7 +21840,7 @@
 		<MPN>E-0444</MPN>
 		<Description>Ταινία συσκευασίας  σε Καφέ χρώμα, με πλάτος 48 χιλιοστά και μήκος 50 μέτρα. Ιδανική για διάφορες χρήσεις, προσφέρει ασφάλεια στην μεταφορά των αντικειμένων σας και είναι κατάλληλη για μετακομίσεις, μεταφορικές εταιρίες, συσκευαστήρια, κατασκευές και άλλου είδους εργασίες. Διατίθεται ανά τεμάχιο.  Βασικά χαρακτηριστικά      Τύπος: Θορυβώδης     Πλάτος: 48mm     Μήκος: 50m</Description>
 		<Barcode>5203642104449</Barcode>
-		<Quantity>1189</Quantity>
+		<Quantity>1179</Quantity>
 	</product>
 	<product>
 		<ID>78991119</ID>
@@ -21736,7 +21857,7 @@
 		<MPN>E-1530</MPN>
 		<Description>Ταινία εύθραυστον φάρδος 5cm και μήκους 60 μέτρων.</Description>
 		<Barcode>5203642115308</Barcode>
-		<Quantity>790</Quantity>
+		<Quantity>775</Quantity>
 	</product>
 	<product>
 		<ID>790100101</ID>
@@ -24993,7 +25114,7 @@
 		<MPN>ΕKS002K</MPN>
 		<Description>Η ζυγαρία της Esperanza είναι κατάλληλη για την κουζίνα. Το μικρό της μέγεθος είναι ιδανικό για εύκολη αποθήκευση. Είναι κατασκευασμένη από γυαλί σε μοντέρνο design. Διαθέτει ψηφιακό κέντρο ελέγχου και μπορεί να ζυγίσει εως 5kg. Είναι κατάλληλο για τη ζύγιση όλων των ξηρών και υγρών τροφίμων.      Μεγάλη οθόνη LCD: 53 * 21.6mm      Μέγεθος προϊόντος: 20.5 * 16.5 * 2cm      Εξοπλισμένη με μέτρηση υψηλής ακρίβειας.      Μέγιστη μέτρηση βάρους: 5000g      Διαίρεση: 1g      Τέσσερις μονάδες μέτρησης: g / lb / oz / kg      Λειτουργία απόβαρου      Ένδειξη υπερφόρτωσης      Ένδειξη χαμηλής μπαταρίας</Description>
 		<Barcode>5901299914151</Barcode>
-		<Quantity>31</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>799120202</ID>
@@ -25135,6 +25256,24 @@
 		<Quantity>105</Quantity>
 	</product>
 	<product>
+		<ID>799130302</ID>
+		<Name>Esperanza Φριτέζα Αέρος με Γυάλινο Αποσπώμενο Κάδο 8lt Air Fryer Patate al Forno Black/Inox ΕΚΑ005</Name>
+		<Product_Link>https://www.skroutz.gr/s/61997558/esperanza-air-fryer-8lt-mayro.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/061997/61997558/xlarge_20250804114537_esperanza_air_fryer_8lt.jpeg</Image_Link>
+		<Additional>https://b2b.esperanza.pl/zdjecie-produktu/02/EKA005 https://b2b.esperanza.pl/zdjecie-produktu/03/EKA005 https://b2b.esperanza.pl/zdjecie-produktu/04/EKA005 https://b2b.esperanza.pl/zdjecie-produktu/05/EKA005</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>56.35</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Μαγειρέματος &gt; Air Fryers</Category_Path>
+		<Manufacturer>Esperanza</Manufacturer>
+		<MPN>ΕΚΑ005</MPN>
+		<Description>Με μια ματιά Η Esperanza Air Fryer 1600W με κάδο 8 λίτρων σου επιτρέπει να μαγειρεύεις υγιεινά και γρήγορα με ελάχιστο λάδι, εύκολο καθάρισμα και πλήρη έλεγχο θερμοκρασίας μέσω ψηφιακής οθόνης.  Η Φριτέζα που Κάνει τη Ζωή σου Πιο Εύκολη Η Esperanza Air Fryer 1600W είναι η ιδανική σου επιλογή για υγιεινό και οικονομικό μαγείρεμα. Με κάδο 8 λίτρων, μπορείς να ετοιμάσεις εύκολα γεύματα για ζευγάρια ή μικρές οικογένειες.  Λιγότερο λάδι, περισσότερη γεύση Μαγείρεψε όλα σου τα αγαπημένα πιάτα – από πατάτες μέχρι κοτόπουλο και λαχανικά – με μόλις 1-2 κουταλιές λάδι. Υγιεινό και νόστιμο χωρίς περιττές θερμίδες!  Καθαριότητα χωρίς μπελά Ο αποσπώμενος κάδος κάνει τον καθαρισμό παιχνιδάκι. Λίγο νεράκι, λίγο σαπούνι, και είσαι έτοιμος για το επόμενο γεύμα!  Έλεγξε τη θερμοκρασία όπως θες Ο ρυθμιζόμενος θερμοστάτης σου δίνει απόλυτο έλεγχο της θερμοκρασίας, ενώ η ψηφιακή οθόνη σου δείχνει χρόνο και θερμοκρασία για εύκολο και ακριβές μαγείρεμα. Η μέθοδος ανοίγματος με τον κάδο κάνει τη χρήση παιχνιδάκι.  Γιατί να το επιλέξεις; Ισχύς: 1600W Χωρητικότητα: 8 λίτρα Κατάλληλη για ζευγάρια ή μικρές οικογένειες Μαγείρεμα με 1-2 κουταλιές λάδι Αποσπώμενος κάδος για εύκολο καθάρισμα Ρυθμιζόμενος θερμοστάτης &amp; ψηφιακή οθόνη Μέθοδος ανοίγματος με τον κάδο για ευκολία</Description>
+		<Barcode>5901299965542</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799140101</ID>
 		<Name>Esperanza Ατμομάγειρας με 3 Επίπεδα Μαγειρέματος 7.5lt EKG009</Name>
 		<Product_Link>https://www.skroutz.gr/s/17617189/Esperanza-EKG009-Atmomageiras-me-3-Epipeda-Mageirematos-7-5lt.html</Product_Link>
@@ -25218,7 +25357,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<Barcode>5901299949849</Barcode>
-		<Quantity>219</Quantity>
+		<Quantity>218</Quantity>
 	</product>
 	<product>
 		<ID>7991711011</ID>
@@ -25788,7 +25927,7 @@
 		<MPN>ECO001</MPN>
 		<Description>Παλμικό οξύμετρο δακτύλου που μετράει τα επίπεδα κορεσμού του οξυγόνου στο αίμα και τους καρδιακούς παλμούς.  Διαθέτει μεγάλη και έγχρωμη οθόνη με 4 μετρήσεις και είναι ιδανικό για τα άτομα με καρδιακή ανεπάρκεια, χρόνιες παθήσεις, βρογχικό άσθμα και άπνοια ύπνου. Χαρακτηριστικά:      SpO2 Εύρος μέτρησης: 35% - 99%     Ακρίβεια: 70% - 100% ± 3%     Εύρος μέτρησης Καρδιακών Παλμών: 30bpm - 240bpm     Λήψη δεδομένων 3 δευτερόλεπτα μετά την τοποθέτηση του δαχτύλου     Μπαταρία: 2 x ΑΑΑ 1.5V - 3V     Κατανάλωση: ≤40mA</Description>
 		<Barcode>5901299917541</Barcode>
-		<Quantity>176</Quantity>
+		<Quantity>175</Quantity>
 	</product>
 	<product>
 		<ID>799400102</ID>
@@ -25884,7 +26023,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.410959348</Price>
+		<Price>17.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Βρεφικά&gt;Φροντίδα &amp; Υγιεινή Μωρού&gt;Βρεφοζυγοί</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
