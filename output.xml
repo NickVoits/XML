@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-21 14:05</created_at>
+	<created_at>2025-12-21 14:16</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -2520,42 +2520,6 @@
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
 		<Barcode>5203413040181</Barcode>
 		<Quantity>516</Quantity>
-	</product>
-	<product>
-		<ID>40104</ID>
-		<Name>Α.Ο.Σ.Νέας Αγχιάλου Δήμητρα Ερυθρό Ξηρό σε Πλαστική Φιάλη Pet 1500ml</Name>
-		<Product_Link>https://edt-shop.gr/krasia-kokkina/10350-agchialoy-dhmhtra-erythros-xhros-pet-6x1-5lt.html</Product_Link>
-		<Image_Link>https://cdn.mymarket.gr/images/styles/original/07_04_21/e6e0bf19-e2ae-42d6-acee-ed95187be80b_E1.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.443926700530909</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
-		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
-		<MPN>0436</MPN>
-		<Weight>1.5 kg</Weight>
-		<Description>Το Δήμητρα Ερυθρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα πλούσιο και γεμάτο ερυθρό κρασί με εκλεπτυσμένη γεύση και αρώματα μούρων και μπαχαρικών. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Barcode>5203413030182</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>40105</ID>
-		<Name>Α.Ο.Σ.Νέας Αγχιάλου Δήμητρα Ερυθρό Ημίγλυκο σε Πλαστική Φιάλη Pet 1500ml</Name>
-		<Product_Link>https://edt-shop.gr/krasia-kokkina/10351-agchialoy-dhmhtra-hmiglykos-erythros-pet-6x1-5lt.html</Product_Link>
-		<Image_Link>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP1_UlT2iJLKXqCZVXpnYxAY8eipAAFg4s_7d-_qMpjg&amp;s</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.574454534661818</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
-		<Manufacturer>ΔΗΜΗΤΡΑ</Manufacturer>
-		<MPN>0038</MPN>
-		<Weight>1.5 kg</Weight>
-		<Description>Το Δήμητρα Ημίγλυκο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα γλυκό και αρωματικό κρασί με φρουτώδεις νότες και ελαφρώς γλυκιές αποχρώσεις. Με την απαλή του γεύση και το φωτεινό του χρώμα, αποτελεί μια ιδανική επιλογή για χαλαρές στιγμές απόλαυσης.</Description>
-		<Barcode>5203413010610</Barcode>
-		<Quantity>2</Quantity>
 	</product>
 	<product>
 		<ID>40221</ID>
@@ -14291,23 +14255,6 @@
 		<Quantity>63</Quantity>
 	</product>
 	<product>
-		<ID>740160111</ID>
-		<Name>Cyclops Φαράσι Ορθοπεδικό Γκρι 83cm 00330426</Name>
-		<Product_Link>https://www.skroutz.gr/s/53549604/Cyclops-Farasi-Plastiko-me-Lasticho-Kontari-Gri-23-5x27-7x83ek-00330426.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/053549/53549604/xlarge_20240516164954_cyclops_farasi_plastiko_me_lasticho_kontari_gri_23_5x27_7x83ek_00330426.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>2.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>330426</MPN>
-		<Description>Φαράσι με κοντάρι ανθεκτικό, με εργονομική λαβή, κλήση σάρωσης και μηχανισμό περίσφιξης στο κοντάρι της σκούπας, για ευκολότερη αποθήκευση. Ιδανικό για οικιακή αλλά και επαγγελματική χρήση.</Description>
-		<Barcode>5202707001686</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>740160121</ID>
 		<Name>Viosarp Φαράσι Μεταλλικό με Κοντάρι Γαλβανιζέ Ασημί Μ34xΠ27xΥ76cm VC1000</Name>
 		<Product_Link>https://www.skroutz.gr/s/27781090/Viosarp-Farasi-Metalliko-me-Kontari-Galvanize-Asimi-34x27x76ek-VC1000.html</Product_Link>
@@ -21069,14 +21016,14 @@
 	</product>
 	<product>
 		<ID>785301500</ID>
-		<Name>Θαλασσινός Βαρέως Τύπου Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml Διάφανο 50τμχ ΕΜ6229</Name>
+		<Name>Θαλασσινός Βαρέως Τύπου Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml Διάφανο 100τμχ ΕΜ6229</Name>
 		<Product_Link>https://www.thalassinos.com.gr/%CF%83%CE%BA%CE%B5%CF%8D%CE%B7-%CE%B4%CE%B9%CE%B1%CF%86%CE%B1%CE%BD%CE%AE-%CF%80%CE%BB%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AC-and-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF%CE%BA%CF%85%CE%BC%CE%AC%CF%84%CF%89%CE%BD/pet-1500.html</Product_Link>
 		<Image_Link>https://www.thalassinos.com.gr/image/cache/data/products/EM.6229-1-1100x1100.jpg</Image_Link>
 		<Additional>https://www.thalassinos.com.gr/image/cache/data/products/EM.6229-2-1100x1100.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.86</Price>
+		<Price>17.71</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -21620,23 +21567,6 @@
 		<Description>Αλουμινόχαρτο κατάλληλο για την συσκευασία τροφίμων.     Για επαγγελματική ή οικιακή χρήση.     Μήκος: 100m    Πλάτος: 30cm</Description>
 		<Barcode>5202054032272</Barcode>
 		<Quantity>373</Quantity>
-	</product>
-	<product>
-		<ID>78921</ID>
-		<Name>Softline Fresher Αντικολλητικό Χαρτί 8m x 38cm</Name>
-		<Product_Link>https://www.skroutz.gr/s/26446350/Softline-Fresher-Antikollitiko-CHarti-8m-x-38cm.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/026446/26446350/20201231141036_softline_fresher_antikollitiko_charti_8mx38cm.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.9272077308</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
-		<Manufacturer>SOFTLINE</Manufacturer>
-		<MPN>1568</MPN>
-		<Description>Αντικολλητικό χαρτί της εταιρίας Softline Fresher, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Μήκος(μέτρα): 8μ.    Πλάτος: 38εκ.</Description>
-		<Barcode>5201062008965</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>789211</ID>
