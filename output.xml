@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2025-12-24 16:05</created_at>
+	<created_at>2025-12-24 16:34</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -1271,7 +1271,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε το Βίκος Tonic με τη δροσιστική φρεσκάδα του φυσικού μεταλλικού νερού και την προσθήκη φυσικού διοξειδίου πηγής. Το πλούσιο άρωμα κινίνης και η διακριτική, ισορροπημένη του γλυκύτητα απογειώνουν τη γεύση, ώστε να το απολαμβάνεις στο αγαπημένο σου ποτό ή και σκέτο.</Description>
 		<Barcode>5201946910483</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>14021</ID>
@@ -6344,7 +6344,7 @@
 		<MPN>1495</MPN>
 		<Description>Ουίσκι με άρωμα εκχυλίσματων άγριων βοτάνων, ρείκι, μελιού και φρούτων οπωρώνα. Έχει γεύση στρογγυλεμένη και κρεμώδης με μια γεμάτη, πλούσια γεύση μελιού και ώριμων αχλαδιών, βανίλιας, φουντουκιού και καραμελωμένου βουτύρου.</Description>
 		<Barcode>080432402931</Barcode>
-		<Quantity>74</Quantity>
+		<Quantity>64</Quantity>
 	</product>
 	<product>
 		<ID>5505002</ID>
@@ -6867,7 +6867,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>40.008437343</Price>
+		<Price>41.913601026</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Grey Goose</Manufacturer>
@@ -6884,7 +6884,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>39.66684983100001</Price>
+		<Price>41.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>Belvedere</Manufacturer>
@@ -15253,7 +15253,7 @@
 		<MPN>1757</MPN>
 		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
 		<Barcode>5200138990050</Barcode>
-		<Quantity>357</Quantity>
+		<Quantity>356</Quantity>
 	</product>
 	<product>
 		<ID>74944</ID>
@@ -25270,7 +25270,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<Barcode>5901299949849</Barcode>
-		<Quantity>196</Quantity>
+		<Quantity>195</Quantity>
 	</product>
 	<product>
 		<ID>7991711011</ID>
