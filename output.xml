@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-01-08 16:05</created_at>
+	<created_at>2026-01-08 16:25</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -14218,6 +14218,40 @@
 		<Description>Φαράσι της εταιρείας Viosarp, μεταλλικό γαλβανιζέ. Ιδανικό για τη συλλογή σκουπιδιών τόσο στον βιομηχανικό όσο και στον οικιακό τομέα. Κατάλληλο για μάζεμα στάχτης, χώματα και μπάζα. Διαθέτει μία οπή στη λαβή του για εκρέμασμα στον τοίχο.  Διαστάσεις: Μήκος: 37cm Πλάτος: 32cm Ύψος: 4cm</Description>
 		<Barcode>5206753001812</Barcode>
 		<Quantity>61</Quantity>
+	</product>
+	<product>
+		<ID>740160103</ID>
+		<Name>Viosarp Φαράσι Πλαστικό με Λάστιχο Κουμπωτό σε Διάφορα Χρώματα Νο153</Name>
+		<Product_Link>https://www.skroutz.gr/s/26807887/Viosarp-Farasi-Plastiko-me-Lasticho-Portokali.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/076872/76872747/xlarge_20230605122034_94ed3dd0.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.87</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket&gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού&gt; Φαράσια</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>Νο153</MPN>
+		<Description>Φαράσι χειρός της εταιρείας Viosarp από ανθεκτικό πλαστικό με λάστιχο, κατάλληλο για εσωτερικούς και εξωτερικους χώρους.</Description>
+		<Barcode>5206753001157</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>740160112</ID>
+		<Name>Viosarp Φαράσι Ορθοπεδικό με Λάστιχο 89cm σε Διάφορα Χρώματα Νο314</Name>
+		<Product_Link>https://www.skroutz.gr/s/27781404/Viosarp-Farasi-Plastiko-me-Lasticho-Kontari-Kokkino-24ek.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/027781/27781404/xlarge_20210322104158_viosarp_farasi_orthostatiko_kokkino.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.93</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket&gt; Απορρυπαντικά, Χαρτικά &amp; Είδη Καθαρισμού&gt; Φαράσια</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>Νο314</MPN>
+		<Description>Ορθοστατικό φαράσι με λάστιχο &amp; κοντάρι. Λόγω του μεγάλου κονταριού που διαθέτει, το μάζεμα των σκουπιδιών γίνεται παιχνίδι, μιάς και δεν χρειάζεται να σκύβετε για να τα μαζεύετε.</Description>
+		<Barcode>5206753018322</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>740160121</ID>
