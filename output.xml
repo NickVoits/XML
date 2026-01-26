@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-01-26 16:05</created_at>
+	<created_at>2026-01-26 16:33</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -463,7 +463,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
 		<Barcode>5201171331237</Barcode>
-		<Quantity>154</Quantity>
+		<Quantity>153</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -499,7 +499,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Φτιαγμένη με τη μυστική συνταγή ενός αιώνα από φρέσκα ζουμερά Λεμόνια, η Λεμονάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις μια ηλιόλουστη μέρα, είτε χαλαρώνεις με τους φίλους σου, η Λεμονάδα είναι η επιλογή που δε χάνει ποτέ.</Description>
 		<Barcode>5201171331213</Barcode>
-		<Quantity>75</Quantity>
+		<Quantity>73</Quantity>
 	</product>
 	<product>
 		<ID>11535</ID>
@@ -6225,7 +6225,7 @@
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
 		<Barcode>5010314700003</Barcode>
-		<Quantity>84</Quantity>
+		<Quantity>82</Quantity>
 	</product>
 	<product>
 		<ID>55004</ID>
@@ -9076,7 +9076,7 @@
 		<MPN>DF50F</MPN>
 		<Description>Οδοντικό νήμα σε διχάλες με λαβή για εύκολο κράτημα με επίθεμα αντίχειρα για καλύτερο έλεγχο. Γλιστρά εύκολα μεταξύ των δοντιών και δεν χαλάει, σπάει ή χαλαρώνει εύκολα. Επίσης, διαθέτει λαιμό σε γωνία για να προσφέρει πρόσβαση στα πίσω δόντια.</Description>
 		<Barcode>5206753042013</Barcode>
-		<Quantity>104</Quantity>
+		<Quantity>99</Quantity>
 	</product>
 	<product>
 		<ID>61001</ID>
@@ -11393,7 +11393,7 @@
 		<MPN>0063</MPN>
 		<Description>Ένα αφρόλουτρο που αναζωογονεί την επιδερμίδα σας και προσφέρει μια αίσθηση πολυτέλειας και άνεσης κατά το μπάνιο. Η απαλή φόρμουλα του πλούσια αρωματισμένη με βανίλια αφήνει ένα ευχάριστο άρωμα που διαρκεί. Καθαρίζει απαλά την επιδερμίδα, αφήνοντάς την απαλή και ενυδατωμένη. Κατάλληλο για καθημερινή χρήση και για όλους τους τύπους δέρματος.</Description>
 		<Barcode>3800024015892</Barcode>
-		<Quantity>295</Quantity>
+		<Quantity>291</Quantity>
 	</product>
 	<product>
 		<ID>67003</ID>
@@ -12287,7 +12287,7 @@
 		<MPN>PS.T3.90G.10</MPN>
 		<Description>Το PRO SOFT χαρτί υγείας είναι τριστρώτες και παρέχεται σε πακέτο των 10 τεμαχίων. Είναι σχεδιασμένο για να προσφέρει απαλή και αποτελεσματική καθαριότητα καθώς και άνετη αίσθηση κατά τη χρήση.</Description>
 		<Barcode>5203650102833</Barcode>
-		<Quantity>1421</Quantity>
+		<Quantity>1422</Quantity>
 	</product>
 	<product>
 		<ID>70012</ID>
@@ -12339,7 +12339,7 @@
 		<MPN>PS.RK.T2.600G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για χρήση στην κουζίνα για διάφορες εργασίες καθαρισμού.</Description>
 		<Barcode>5200100281643</Barcode>
-		<Quantity>1504</Quantity>
+		<Quantity>1503</Quantity>
 	</product>
 	<product>
 		<ID>70103</ID>
@@ -12561,7 +12561,7 @@
 		<MPN>1531</MPN>
 		<Description>Το πακέτο περιέχει 90 2φύλλα χαρτομάντιλα.</Description>
 		<Barcode>5202995004628</Barcode>
-		<Quantity>651</Quantity>
+		<Quantity>653</Quantity>
 	</product>
 	<product>
 		<ID>70322</ID>
@@ -12629,7 +12629,7 @@
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
 		<Barcode>3800500148076</Barcode>
-		<Quantity>991</Quantity>
+		<Quantity>989</Quantity>
 	</product>
 	<product>
 		<ID>70421</ID>
@@ -12783,7 +12783,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>2204</Quantity>
+		<Quantity>2206</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -12855,7 +12855,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Μαλακτικό ρούχων με άρωμα Thalasso Therapy το οποίο αφήνει στα ρούχα έντονο άρωμα καθαριότητας και φρεσκάδας.</Description>
 		<Barcode>8008970055251</Barcode>
-		<Quantity>254</Quantity>
+		<Quantity>256</Quantity>
 	</product>
 	<product>
 		<ID>71026</ID>
@@ -13264,7 +13264,7 @@
 		<MPN>E-2683</MPN>
 		<Description>Χρωμοπροστασία η οποία προσφέρει εξαιρετική βοήθεια σε κάθε σας πλύση. Το πακέτο περιέχει 12 φύλλα.</Description>
 		<Barcode>5203642126830</Barcode>
-		<Quantity>52</Quantity>
+		<Quantity>54</Quantity>
 	</product>
 	<product>
 		<ID>71321</ID>
@@ -13672,7 +13672,7 @@
 		<MPN>1110</MPN>
 		<Description>Απολυμαντικό καθαριστικό gel για τη λεκάνη της τουαλέτας. Μοναδικός λαιμός, φτάνει καλύτερα, καθαρίζει καλύτερα.</Description>
 		<Barcode>5000204164466</Barcode>
-		<Quantity>524</Quantity>
+		<Quantity>523</Quantity>
 	</product>
 	<product>
 		<ID>72221</ID>
@@ -13689,7 +13689,7 @@
 		<MPN>0556</MPN>
 		<Description>Είναι σχεδιασμένο για να αφαιρεί την αντίσταση και την αλάτωση που σχηματίζεται στις επιφάνειες του μπάνιου, όπως τα πλακάκια, οι κρεμάστρες, οι μπαταρίες και τα νιπτήρες. Η σύνθεσή του είναι εξαιρετικά αποτελεσματική στην απομάκρυνση των αλάτων και των αποθέσεων από τις επιφάνειες, αφήνοντας τις λαμπερές και καθαρές. Χρησιμοποιείται εύκολα: απλά απλώστε το καθαριστικό στις επιφάνειες, αφήστε το να δράσει για λίγα λεπτά, και στη συνέχεια ξεβγάλτε με άφθονο νερό. Μετά τη χρήση, οι επιφάνειες θα είναι καθαρές και λαμπερές, χωρίς υπολείμματα αλάτων.</Description>
 		<Barcode>3800024014543</Barcode>
-		<Quantity>138</Quantity>
+		<Quantity>137</Quantity>
 	</product>
 	<product>
 		<ID>72231</ID>
@@ -14305,7 +14305,7 @@
 		<MPN>E-2491</MPN>
 		<Description>Η σφουγγαρίστρα Sidirela E-2491 είναι ιδανική για τον καθαρισμό του σπιτιού σας. Διατίθεται σε διάφορα χρώματα, προσφέροντας επιλογές που ταιριάζουν με την αισθητική σας.  Αυτή η σφουγγαρίστρα είναι κατασκευασμένη για να αποδίδει αποτελεσματικά κατά τον καθαρισμό δαπέδων, ενώ χάρη στον σχεδιασμό της παρέχει ευκολία στη χρήση.  Κατάλληλη για ποικιλία επιφανειών, συνδυάζοντας λειτουργικότητα και στυλ. Έρχεται σε τεμάχιο, προσφέροντας όλα όσα χρειάζεται για μια ολοκληρωμένη εμπειρία καθαρισμού. Με την σφουγγαρίστρα αυτή, το σκούπισμα και το σφουγγάρισμα γίνονται πιο ευχάριστα και αποτελεσματικά, κάνοντάς την τον κατάλληλο σύμμαχο για το σπίτι σας.</Description>
 		<Barcode>5203642124911</Barcode>
-		<Quantity>338</Quantity>
+		<Quantity>339</Quantity>
 	</product>
 	<product>
 		<ID>740350102</ID>
@@ -14860,7 +14860,7 @@
 		<MPN>0473</MPN>
 		<Description>Σφουγγάρι κουζίνας της εταιρείας Madona, το οποίο αποτελεί ιδανική επιλογή για το πλύσιμο των πιάτων σας. Θα σας βοηθήσει να απομακρύνετε λεκέδες και λίπη ώστε τα σκεύη σας να παραμένουν καθαρά. Μετά από κάθε χρήση θα πρέπει να το καθαρίζετε ώστε να απομακρύνονται βρωμιές αλλά και μικρόβια.</Description>
 		<Barcode>5204170300570</Barcode>
-		<Quantity>939</Quantity>
+		<Quantity>938</Quantity>
 	</product>
 	<product>
 		<ID>74242</ID>
@@ -15270,7 +15270,7 @@
 		<MPN>1757</MPN>
 		<Description>Οι ετοιμόχρηστες ποντικοπαγίδες PETRORAT Glue Mouse Trap περιέχουν μια ισχυρή, ημιδιάφανη, μη τοξική κόλλα που χρησιμοποιείται εντός του πλαστικού δισκίου κατά κύριο λόγο για την παγίδευση των ποντικών και των αρουραίων.</Description>
 		<Barcode>5200138990050</Barcode>
-		<Quantity>331</Quantity>
+		<Quantity>330</Quantity>
 	</product>
 	<product>
 		<ID>74944</ID>
@@ -15390,7 +15390,7 @@
 		<MPN>1124</MPN>
 		<Description>•Μη αναγωμόσιμοι  •Χρησιμοποιούν αέριο•Διαστάσεις : 8.5cm x 2.5cm (maxi)•Με πέτρα και λάμα ασφαλείας•Κατασκευάζονται στη Γαλλία</Description>
 		<Barcode>70330600065</Barcode>
-		<Quantity>908</Quantity>
+		<Quantity>886</Quantity>
 	</product>
 	<product>
 		<ID>75112</ID>
@@ -15424,7 +15424,7 @@
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<Barcode>4012425171216</Barcode>
-		<Quantity>4354</Quantity>
+		<Quantity>4351</Quantity>
 	</product>
 	<product>
 		<ID>751311</ID>
@@ -15492,7 +15492,7 @@
 		<MPN>0601</MPN>
 		<Description>Προσάναμμα το οποίο είναι ιδανικό για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο. Επιπλέον θα συμβάλλει στο να διατηρείται η φλόγα αναμμένη και σταθερή για αρκετή ώρα αφού είναι βραδύκαυστο.</Description>
 		<Barcode>3800022501618</Barcode>
-		<Quantity>82</Quantity>
+		<Quantity>80</Quantity>
 	</product>
 	<product>
 		<ID>75134</ID>
@@ -16009,7 +16009,7 @@
 		<MPN>0331</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 24x17cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500110</Barcode>
-		<Quantity>554</Quantity>
+		<Quantity>552</Quantity>
 	</product>
 	<product>
 		<ID>75812</ID>
@@ -16128,7 +16128,7 @@
 		<MPN>0287</MPN>
 		<Description>•Μεγάλες Σακούλες•Με Κορδόνι Δεσίματος•Σε Μαύρο Χρώμα•Αντοχής</Description>
 		<Barcode>5200128643089</Barcode>
-		<Quantity>2541</Quantity>
+		<Quantity>2542</Quantity>
 	</product>
 	<product>
 		<ID>760100103</ID>
@@ -16264,7 +16264,7 @@
 		<MPN>1781</MPN>
 		<Description>Σακούλες απορριμμάτων για καλαθάκια μπάνιου, γραφείου και μικρούς κάδους.  Εξαιρετικής αντοχής.</Description>
 		<Barcode>5202054512316</Barcode>
-		<Quantity>9510</Quantity>
+		<Quantity>9513</Quantity>
 	</product>
 	<product>
 		<ID>760100152</ID>
@@ -16461,7 +16461,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.992367</Price>
+		<Price>19.088622</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16478,7 +16478,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>27.433419</Price>
+		<Price>25.3454481</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16496,7 +16496,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.9</Price>
+		<Price>25.021648512</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16513,7 +16513,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.8269725</Price>
+		<Price>15.907185</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16530,7 +16530,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>29.543682</Price>
+		<Price>29.693412</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16547,7 +16547,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.840261</Price>
+		<Price>28.986426</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16564,7 +16564,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.882104</Price>
+		<Price>16.967664</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16831,7 +16831,7 @@
 		<MPN>0400</MPN>
 		<Description>Οι οδοντογλυφίδες με σελοφάν προσφέρουν αποτελεσματικό και βολικό τρόπο για τον καθαρισμό των δοντιών σας. Με το σελοφάν που καλύπτει κάθε οδοντογλυφίδα, μπορείτε να διατηρείτε την υγιεινή στο στόμα σας ακόμα και όταν βρίσκεστε καθοδόν. Το πακέτο με 1000 τεμάχια εξασφαλίζει μακράς διαρκείας προμήθεια για τις καθημερινές σας ανάγκες υγιεινής του στόματος.</Description>
 		<Barcode>5202054212858</Barcode>
-		<Quantity>72</Quantity>
+		<Quantity>71</Quantity>
 	</product>
 	<product>
 		<ID>762100101</ID>
@@ -17765,7 +17765,7 @@
 		<MPN>7673001-01</MPN>
 		<Description>Το κόκκαλο για παπούτσια της Viosarp, είναι κατασκευασμένο από μέταλλο και επομένως είναι πολύ πιο ανθεκτικό από τα αντίστοιχα ξύλινα ή πλαστικά κόκαλα της αγοράς. Επιλέξτε το επιθυμητό ύψος που σας ταιριάζει.</Description>
 		<Barcode>5206753004844</Barcode>
-		<Quantity>85</Quantity>
+		<Quantity>84</Quantity>
 	</product>
 	<product>
 		<ID>767300102</ID>
@@ -18144,7 +18144,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.1432075</Price>
+		<Price>14.46</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Έπιπλα Σαλονιού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18231,7 +18231,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>72.64</Price>
+		<Price>58.67</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Σαλονιού&gt; Τραπεζάκια Σαλονιού</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18444,7 +18444,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>110.63</Price>
+		<Price>101.19</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Γραφείου&gt; Γραφεία</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18628,7 +18628,7 @@
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LBS73X</MPN>
 		<Description>Καλώς ορίσατε στο σπίτι: Μην αφήσετε μια άδεια, βαρετή είσοδο να σας περιμένει μόλις περάσετε το κατώφλι. Προσθέστε αυτό το παπουτσοθήκη με ζεστά ρουστίκ καφέ πάνελ και μαύρη μεταλλική κατασκευή, κρεμάστε μια κρεμάστρα από πάνω και η είσοδός σας θα έχει μια άλλη γεύση.  Μακρύτερα, Μεγαλύτερα, Πιο Τακτοποιημένα: Χάρη στο μήκος των 73 cm, τα 2 ράφια είναι αρκετά ευρύχωρα για να οργανώσετε 6-8 ζευγάρια παπούτσια. Μπορείτε επίσης να αφήσετε την τσάντα εργασίας σας και άλλα αξεσουάρ στο πάνω ράφι και να δημιουργήσετε μια τακτοποιημένη είσοδο.  Κατασκευασμένο για να αντέχει: Κατασκευασμένο από στιβαρό ατσάλινο σκελετό και μοριοσανίδα, το στιβαρό παπούτσι αντέχει έως και 90 κιλά. Γιατί λοιπόν να μην καθίσετε άνετα ενώ δένετε τα παπούτσια σας ή περιμένετε τους άλλους να ετοιμαστούν;  Ξεφορτωθείτε τις ανησυχίες σας: Δεν είστε καλοί στη συναρμολόγηση; Δεν υπάρχει πρόβλημα. Έχουμε συσκευάσει δύο κομμάτια—αριθμημένα εξαρτήματα και εύκολες οδηγίες—για να σας βοηθήσουμε να το ολοκληρώσετε βήμα προς βήμα. Απλώς ακολουθήστε τα και θα θαυμάζετε τον νέο σας πάγκο παπουτσιών πριν το καταλάβετε.  Τι Παίρνετε: Ένα παπουτσοθήκη με 2 ράφια από πλέγμα, εικονογραφημένες οδηγίες, μια τσάντα συναρμολόγησης και ένα συναρπαστικό σχέδιο από τη συλλογή BRYCE της VASAGLE για να δώσετε στην είσοδο, το σαλόνι και το υπνοδωμάτιό σας μια μοντέρνα πινελιά.  Προδιαγραφές: - Χρώμα: Ρουστίκ Καφέ, Μαύρο - Υλικό: Μοριοσανίδα, Ατσάλι - Μέγεθος προϊόντος: 73 x 30 x 45 εκ. (Μ x Π x Υ) - Βάρος προϊόντος: 8 kg - Μέγιστη στατική ικανότητα φορτίου καθίσματος: 90 kg - Μέγιστη στατική ικανότητα φορτίου ανά ράφι με πλέγμα: 5 kg  Περιεχόμενα συσκευασίας: - 1 x Πάγκος παπουτσιών - 1 x Κιτ αξεσουάρ - 1 x Οδηγίες</Description>
-		<Barcode>0194343045085</Barcode>
+		<Barcode>0194343234151</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -18692,7 +18692,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.9529</Price>
+		<Price>19.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18710,7 +18710,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>40.16</Price>
+		<Price>34.24</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -20297,7 +20297,7 @@
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<Barcode>7449138607</Barcode>
-		<Quantity>710</Quantity>
+		<Quantity>709</Quantity>
 	</product>
 	<product>
 		<ID>78012</ID>
@@ -21601,7 +21601,7 @@
 		<MPN>1569</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας HOMie, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 38εκ.    Μήκος(εκατοστά): 42εκ.    Τεμάχια: 18τμχ</Description>
 		<Barcode>5202887031831</Barcode>
-		<Quantity>419</Quantity>
+		<Quantity>418</Quantity>
 	</product>
 	<product>
 		<ID>78927</ID>
@@ -22231,7 +22231,7 @@
 		<Weight>0.25 kg</Weight>
 		<Description>Κόλλα σχολική / παιδική από την Typotrust σε μορφή gel 35ml για εύκολη εφαρμογή. Αποτελεί ασφαλή επιλογή για χρήση από παιδιά σε χειροτεχνίες στο σχολείο αλλά και στο σπίτι. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
 		<Barcode>5203358052027</Barcode>
-		<Quantity>67</Quantity>
+		<Quantity>66</Quantity>
 	</product>
 	<product>
 		<ID>79241</ID>
@@ -22265,7 +22265,7 @@
 		<MPN>0010</MPN>
 		<Description>Κόλλα στιγμής από την Jip σε μορφή gel για εύκολη εφαρμογή. Έχει ισχυρή δράση σε άμεσο χρονικό διάστημα. Για την εφαρμογή της, οι επιφάνειες πρέπει να είναι καθαρές και στεγνές. Απλώνεται στην μία μόνο επιφάνεια και στη συνέχεια εφαρμόζουμε πίεση για 10 έως 30 δευτερόλεπτα μέχρι να στεγνώσει. Είναι κατάλληλη για μεγάλο εύρος εφαρμογών. Κολλάει ξύλο, υλικά με βάση το ξύλο, πλαστικό, μέταλλο, γυαλί, πορσελάνη, κεραμικό, δέρμα, καουτσούκ, τσόχα, φελλό, υφάσματα, χαρτόνι, χαρτί και πολλά άλλα.</Description>
 		<Barcode>3800085107734</Barcode>
-		<Quantity>174</Quantity>
+		<Quantity>173</Quantity>
 	</product>
 	<product>
 		<ID>79244</ID>
@@ -25271,7 +25271,7 @@
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
 		<Barcode>5901299949849</Barcode>
-		<Quantity>215</Quantity>
+		<Quantity>214</Quantity>
 	</product>
 	<product>
 		<ID>7991711011</ID>
@@ -25722,7 +25722,7 @@
 		<MPN>EHP003</MPN>
 		<Description>Ο ιονιστής - καθαριστής αέρα, από την εταιρία Esperanza, χάρη στο πρωτοποριακό και προηγμένο φίλτρο 4 σταδίων, σταματά μέχρι 99.97% των ατμοσφαιρικών ρύπων, όπως αλλεργιογόνα, γύρη, σκόνη και αιωρούμενα σωματίδια. Μπορεί να απορροφήσει φορμαλδεΰδη, βενζόλια, ξυλόλιο, TVOC, άλλα επιβλαβή αέρια και δυσάρεστες οσμές.  Ο ιονιστής - καθαριστής, απελευθερώνει αρνητικά ιόντα τα οποία φορτίζουν θετικά τα αιωρούμενα σωματίδια και τα εξουδετερώνει. Το προ-φίλτρο σκόνης, συγκρατεί σχετικά μεγάλα σωματίδια σκόνης και τρίχες κατοικίδιων, το φίλτρο HEPA (H11), είναι αποτελεσματικό ενάντια στα μικρά σωματίδια της σκόνης, όπως καπνός τσιγάρου, γύρη και σωματίδια σκόνης από την καθημερινή οικιακή χρήση, ενώ το φίλτρο ενεργού άνθρακα είναι αποτελεσματικό στον καπνό, καθώς και σε μια ευρεία ποικιλία από επιβλαβή αέρια και οσμές.  Χαρακτηριστικά:      CADR (ρυθμός παροχής καθαρού αέρα): 190 m³ / h     Για χώρους έως 50 m2     Αρνητικό μέγεθος ιόντων: 5 εκατομμύρια / cm³     Φίλτρο 4 σταδίων: προ-φίλτρο, φίλτρο υψηλής απόδοσης HEPA (H11), φίλτρο ενεργού άνθρακα &amp; φίλτρο ψυχρού καταλύτη     Μέθοδος καθαρισμού αέρα: Φίλτρο 4 σταδίων και Γεννήτρια αρνητικών ιόντων     Μεγάλη οθόνη LCD με κουμπί αφής ON / OFF     Τηλεχειριστήριο     Ανεμιστήρας 3 ταχυτήτων     3 επιλογές λειτουργίας: smart, manual &amp; sleep mode     Ρυθμιζόμενος χρονοδιακόπτης: 1 - 12 ώρες     Θόρυβος ≤ 50db     Μήκος καλωδίου: 1.5 m     Τροφοδοσία: 220-240 V - 50/60 Hz     Διαστάσεις φίλτρου: 35.5 x 25.4 x 2.8 cm     Διαστάσεις: 33 x 20 x 50.5 cm     Ισχύς συντήρησης (Λειτουργία αδράνειας, ταχύτητα ανεμιστήρα 1/2/3): (30W / 30W / 36W / 43W)</Description>
 		<Barcode>5901299955314</Barcode>
-		<Quantity>43</Quantity>
+		<Quantity>42</Quantity>
 	</product>
 	<product>
 		<ID>799210501</ID>
@@ -25927,7 +25927,7 @@
 		<MPN>ECN002</MPN>
 		<Description>Εκνεφωτής που συμβάλλει στη θεραπεία του άσθματος, των αλλεργιών και άλλων αναπνευστικών διαταραχών.  Χαρακτηριστικά Επιτρέπει αποτελεσματικά την παροχή αερολυμένων δόσεων με κλινική ακρίβεια.  Εξαιρετικά εύκολο στη χρήση, απλώς πατήστε ένα κουμπί για να ξεκινήσετε. Αποτελεσματικό, ανθεκτικό και αθόρυβο στη χρήση.  Συμπεριλαμβάνει δύο μάσκες διαφορετικών μεγεθών και επιπλέον επιστόμιο που επιτρέπει τη χρήση του νεφελοποιητή σε βρέφη και παιδιά. Τεχνικά Χαρακτηριστικά Ισχύς: 220V, 50 Hz Ρεύμα: 0,8Α Χωρητικότητα φαρμάκου: 10 ml Μέγεθος σωματιδίων: 0,5 έως 10 um Επίπεδο ήχου ≤ 55 dBA Μέσος ρυθμός νεφελοποίησης ≤ 0,4 ml / λεπτό Εύρος πίεσης συμπιεστή: 29 έως 55 Psi (200 έως 380 KPa / 2 έως 3,8 bar) Εύρος πίεσης λειτουργίας: 9 έως 19 Psi (60 έως 130KPa / 0,6 έως 1,3 bar) Εύρος ροής λίτρου ≤ 8L / Min Εύρος θερμοκρασίας λειτουργίας: 10o C έως 40o C Εύρος λειτουργίας υγρασίας: 10 έως 95% RH Εύρος θερμοκρασίας αποθήκευσης: -20o C έως 70o C  Περιεχόμενα Συσκευασίας Νεφελοποιητής Ακροστόμιο 2 μάσκες διαφορετικών μεγεθών (ενηλίκων και βρεφική/παιδική)</Description>
 		<Barcode>5901299914946</Barcode>
-		<Quantity>156</Quantity>
+		<Quantity>155</Quantity>
 	</product>
 	<product>
 		<ID>799400161</ID>
@@ -26200,6 +26200,24 @@
 		<MPN>16.006.0011</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Έξοδος 2.4A  Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε Lightning με μήκος 1 μέτρο.</Description>
 		<Barcode>6920680871346</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799510503</ID>
+		<Name>XO Φορτιστής 2.4A με Θύρα USB-A και Καλώδιο Lightning  Λευκός L99-27923</Name>
+		<Product_Link>https://www.skroutz.gr/s/37745489/XO-Fortistis-me-THyra-USB-A-kai-Kalodio-Lightning-Leykos-L99.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/037745/37745489/xlarge_20240129092707_xo_fortistis_me_thyra_usb_a_kai_kalodio_lightning_leykos_l99.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/066138/66138118/xlarge_20221017170718_4ad6a2e5.jpeg https://d.scdn.gr/images/sku_images/066138/66138125/xlarge_20221017170718_1367fcc8.jpeg https://a.scdn.gr/images/sku_images/066138/66138114/xlarge_20221017170718_a24bc140.jpeg https://d.scdn.gr/images/sku_images/066138/66138106/xlarge_20221017170718_b4d9b1cd.jpeg https://d.scdn.gr/images/sku_images/066138/66138105/xlarge_20221017170718_a989920b.jpeg https://d.scdn.gr/images/sku_images/087625/87625962/xlarge_20240129092708_5aae7d09.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.95</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>L99-27923</MPN>
+		<Description>Φορτιστής τοίχου XO L99 με καλώδιο Lightning NB103 2.4A (λευκό)  Ρεύμα εισόδου: AC 110-240V, 50/60 Hz, 0.3A Ρεύμα εξόδου: DC 5V/2.4A Υλικό: ABS Διαστάσεις: 75 x 37 x 22.5 mm Βάρος: 30 g Μήκος καλωδίου: 1 m Διεπαφή καλωδίου: USB-A προς Lightning Ο φορτιστής διαθέτει προηγμένο PWM chip που παρακολουθεί και ρυθμίζει τη ροή του ρεύματος, εξασφαλίζοντας βέλτιστες συνθήκες φόρτισης και ελαχιστοποιώντας τον κίνδυνο υπερθέρμανσης, υπερτάσης ή υπερφόρτωσης.  Συμπεριλαμβάνεται φορτιστής τοίχου και καλώδιο USB-A προς Lightning.</Description>
+		<Barcode>6920680827923</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -26805,6 +26823,24 @@
 		<Quantity>62</Quantity>
 	</product>
 	<product>
+		<ID>7995115302</ID>
+		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 2,4A Λευκό NB230-33412</Name>
+		<Product_Link>https://www.skroutz.gr/s/48442404/XO-USB-A-to-Lightning-Cable-60W-Leyko-1m-XO-NB230I-W.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/048442/48442404/xlarge_20240708173050_xo_usb_a_to_lightning_cable_60w_leyko_1m_xo_nb230i_w.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/4/7/4/5/8/c/omax.bg-xo-nb230-box.jpg https://cdn.omax.bg/images/products/full/4/7/4/5/7/c/skyphone.bg-cable-xo-nb230-2.jpeg https://cdn.omax.bg/images/products/full/4/7/4/5/7/c/skyphone.bg-cable-xo-nb230-3.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.63</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>NB230-33412</MPN>
+		<Description>Καλώδιο Lightning  Μήκος: 1 m Βάρος: 21.5±2g Υλικό: Ελαστικό Χρώμα: Λευκό Λειτουργία: Υποστήριξη φόρτισης + μετάδοσης δεδομένων (480Mbps), QUICK CHARGE, 2.4A Σημείωση: Είδος καλωδίου: LIGHTNING</Description>
+		<Barcode>6920680833412</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>79951153021</ID>
 		<Name>XO Καλώδιο Φόρτισης/Δεδομένων Type-Α σε Lightning 1M 2,1A Λευκό NB212-27848</Name>
 		<Product_Link>https://www.skroutz.gr/s/37048479/XO-NB212-USB-to-Lightning-Cable-Leyko-1m-16-005-0189.html</Product_Link>
@@ -26814,7 +26850,7 @@
 		<VAT>24</VAT>
 		<Price>0.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>NB212-27848</MPN>
 		<Description>Καλώδιο USB XO NB212 2.1A για Lightning, μήκους 1 μέτρου και βάρους περίπου 27,5±2g.  Υλικό:      Εξωτερική φόρμα: 60P / 35P     Υλικό συνδέσεων: σύντομη σώμα 24HPBT υλικό / λευκός πυρήνας     Πυρήνας: OD: 3.8 / 4C (30*0.1*2C + 10*0.1*2C) / PVC στρογγυλό χαλκό μίγμα χαλκού 2.1A (ΜΕΓΙΣΤΟ)  Λειτουργία: Υποστήριξη φόρτισης και μετάδοσης δεδομένων.  Μοντέλο παραγωγής: Micro / Lightning / TYPE-C  Χρώματα διαθέσιμα: θαλασσί / ροζ / απαλό πράσινο / μαύρο / λευκό</Description>
@@ -26831,7 +26867,7 @@
 		<VAT>24</VAT>
 		<Price>1.8952687</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>16.005.0304</MPN>
 		<Description>Όνομα προϊόντος: JANUS SERIES DATA CABLES  Μοντέλο: XO-NB-Q265A  Υλικό: PVC  Λειτουργία: Φόρτιση + μετάδοση δεδομένων  Μήκος γραμμής: 1000mm  Χρώμα: Μαύρο      Διεπαφή καλωδίου δεδομένων: Type-C σε iP (Q265A)     Ισχύς: 27W (Q265A) / 60W (Q265B)  Μέγεθος συσκευασίας: 80*160*25mm  Πυρήνας σύρματος: (55/0,08BS+250D)*2C+, (16/0,08BS+250D)*3C</Description>
@@ -26848,7 +26884,7 @@
 		<VAT>24</VAT>
 		<Price>1.8952687</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Lightning</Category_Path>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>16.005.0305</MPN>
 		<Description>Καλώδιο XO NB-Q265A PD με υποδοχές USB-C και Lightning. Το καλώδιο έχει σχεδιαστεί για να εξασφαλίσει μέγιστη άνεση κατά τη διάρκεια της καθημερινής χρήσης. Επιτρέπει τη μέγιστη δυνατή φόρτιση για συμβατές συσκευές. Κατασκευασμένο από ελαστική σιλικόνη για μεγαλύτερη αντοχή στην καθημερινή χρήση.</Description>
@@ -27077,6 +27113,24 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>799513102</ID>
+		<Name>XO HF TWS Bluetooth Handsfree Ακουστικά με Θήκη Φόρτισης Λευκά X33-56763</Name>
+		<Product_Link>https://www.skroutz.gr/s/50819806/XO-X33-Tws-In-ear-Bluetooth-Handsfree-Akoustika-me-THiki-Fortisis-Leyka.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/050819/50819806/xlarge_20240227160739_x33_tws_in_ear_bluetooth_handsfree_akoustika_leyka.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/5/5/0/1/4/c/omax.bg-xo-x33-white.jpg https://cdn.omax.bg/images/products/full/5/5/0/1/4/c/skyphone.bg-xo-tws-x33-white-2.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/4/c/skyphone.bg-xo-tws-x33-white-3.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/4/c/skyphone.bg-xo-tws-x33-white-4.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/4/c/skyphone.bg-xo-tws-x33-white-5.jpeg https://cdn.omax.bg/images/products/full/5/5/0/1/0/c/skyphone.bg-xo-tws-x33-1.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.31</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Handsfree Ακουστικά</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>X33-56763</MPN>
+		<Description>Υποστηρίζουν την τεχνολογία TWS (True Wireless Stereo), επιτρέποντας τα ακουστικά να συνδέονται μεταξύ τους για τη δημιουργία ενός ασύρματου στερεοφωνικού συνόλου. Η φορητή θήκη με ενσωματωμένη μπαταρία, εκτός από τη λειτουργία φόρτισης, επιτρέπει την ασφαλή αποθήκευση των ακουστικών στην τσέπη, την τσάντα ή το σακίδιο. Απελευθερώστε τα χέρια σας και απολαύστε μουσική ή διαδικτυακό ραδιόφωνο κατά την εργασία, τη βόλτα, την προπόνηση ή την οδήγηση. Τα ακουστικά XO X33 TWS αποτελούν ιδανική λύση για χρήστες smartphone, υπολογιστών, notebooks, tablets και άλλων συσκευών με δυνατότητα Bluetooth. Είναι συμβατά με τις περισσότερες συσκευές Android και iOS. Διαθέτουν επίσης μικρόφωνο, καθιστώντας εύκολη την πραγματοποίηση φωνητικών κλήσεων. Η διάρκεια κλήσεων/ακρόασης μουσικής με πλήρη φόρτιση είναι περίπου 240 λεπτά (ανάλογα με τη στάθμη έντασης), χάρη στη χρήση της ενεργειακά αποδοτικής τεχνολογίας Bluetooth 5.3.</Description>
+		<Barcode>6920680856763</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7995141</ID>
 		<Name>NSP BN550 Earbud Bluetooth Handsfree Ακουστικά με Αντοχή στον Ιδρώτα και Θήκη Φόρτισης Λευκά</Name>
 		<Product_Link>https://www.skroutz.gr/s/48803506/NSP-BN550-Earbud-Bluetooth-Handsfree-Akoustika-me-Antochi-ston-Idrota-kai-THiki-Fortisis-Leyka.html</Product_Link>
@@ -27126,7 +27180,7 @@
 		<MPN>S1906905</MPN>
 		<Description>Τα ακουστικά Astro 2 είναι η ιδανική επιλογή για εκείνους που αναζητούν άνεση και απόδοση κατά τη διάρκεια των προπονήσεων. Χάρη στην τεχνολογία αγωγιμότητας οστών, μπορείτε να απολαμβάνετε τη μουσική σας ενώ παραμένετε ενήμεροι για το περιβάλλον σας. Προσφέροντας έως και 7 ώρες αυτονομίας με μια μόνο φόρτιση, είναι σχεδιασμένα για ασφαλή και άνετη εφαρμογή, είτε βρίσκεστε στο γυμναστήριο είτε τρέχετε σε ανοιχτούς χώρους. Όποιο και αν είναι το σπορ σας, τα Astro 2 είναι ο αξιόπιστος σύντροφός σας.</Description>
 		<Barcode>8427542137940</Barcode>
-		<Quantity>22</Quantity>
+		<Quantity>21</Quantity>
 	</product>
 	<product>
 		<ID>799514111</ID>
@@ -27250,20 +27304,21 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>799515111</ID>
-		<Name>XO FM Transmitter Φορτιστής Αυτοκινήτου Bluetooth Led Type-A/Type-C (BCC08) 16.006.0187</Name>
-		<Product_Link>https://www.skroutz.gr/s/40608298/XO-FM-Transmitter-Aytokinitou-BCC08-me-Bluetooth-Type-C-USB-16-006-0187.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/040608/40608298/xlarge_20230208134544_xo_fm_transmitter_aytokinitou_bcc08_me_bluetooth_16_006_0187.jpeg</Image_Link>
+		<ID>799515112</ID>
+		<Name>XO FM Transmitter Αυτοκινήτου με Bluetooth, Led και Φορτιστής με 2 Type-A και 1 Type-C Μαύρο BCC09</Name>
+		<Product_Link>https://www.skroutz.gr/s/41007950/XO-FM-Transmitter-Aytokinitou-BCC09-me-Bluetooth-16-006-0202.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/041007/41007950/xlarge_20230329091312_xo_fm_transmitter_aytokinitou_me_bluetooth_bcc09.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-2.jpeg https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-4.jpeg https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-5.jpeg https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-6.jpeg https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-7.jpeg https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-8.jpeg https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-9.jpeg https://cdn.omax.bg/images/products/full/4/6/8/7/5/c/skyphone.bg-mp3-wireless-bcc09-black-10.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.309733800000001</Price>
+		<Price>8.04</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto &gt; Car Audio &gt; FM Transmitters Αυτοκινήτου</Category_Path>
 		<Manufacturer>XO</Manufacturer>
-		<MPN>20.001.0187</MPN>
-		<Description>Συσκευή FM Transmitter BCC08 της εταιρείας XO για εύκολη και γρήγορη αναπαραγωγή μουσικής σε οποιοδήποτε στερεοφωνικό αυτοκινήτου που διαθέτει ραδιόφωνο, χωρίς επιπρόσθετες ενέργειες. Επιλέξτε μια κενή συχνότητα που δεν εκπέμπει κάποιος ενεργός ραδιοφωνικός σταθμός και συγχρονίστε τη συσκευή FM Transmitter και το στερεοφωνικό σας στην ίδια συχνότητα, για να ακούτε μουσική από τα ηχεία του αυτοκινήτου. Υποστηρίζει αναπαραγωγή μουσικής κατευθείαν από το κινητό μέσω της λειτουργίας Bluetooth, ενώ παράλληλα διαθέτει θύρα USB για φόρτιση του smartphone σας. Τέλος, τροφοδοτείται με ρεύμα από τον αναπτήρα του αυτοκινήτου.  Χαρακτηριστικά:      Απόσταση μετάδοσης: 5 έως 10 μέτρα     Συχνότητα FM: 87.5-108 MHZ     USB Type C: 5V/3.1A     USB 2: 5V/1A</Description>
-		<Barcode>6920680835485</Barcode>
+		<MPN>BCC09</MPN>
+		<Description>Συσκευή FM Transmitter BCC09 της εταιρείας XO για εύκολη και γρήγορη αναπαραγωγή μουσικής σε οποιοδήποτε στερεοφωνικό αυτοκινήτου που διαθέτει ραδιόφωνο, χωρίς επιπρόσθετες ενέργειες.  Επιλέξτε μια κενή συχνότητα που δεν εκπέμπει κάποιος ενεργός ραδιοφωνικός σταθμός και συγχρονίστε τη συσκευή FM Transmitter και το στερεοφωνικό σας στην ίδια συχνότητα, για να ακούτε μουσική από τα ηχεία του αυτοκινήτου. Υποστηρίζει Bluetooth ώστε να μπορείτε να αναπαράγετε ασύρματα μουσική από το κινητό. Τέλος, τροφοδοτείται με ρεύμα από τον αναπτήρα του αυτοκινήτου  * Ασύρματος πομπός MP3 με φωτισμό περιβάλλοντος και φορτιστής αυτοκινήτου XO BCC09. * Τροφοδοσία μέσω 12-24V DC από τον αναπτήρα του αυτοκινήτου. * Ποιότητα ήχου χωρίς απώλειες κατά την αναπαραγωγή. Υψηλή ανάλυση, υψηλή απόδοση, στερεοφωνικός ήχος. * Διαθέσιμες θύρες:    - USB-1 (5V/3.1A);    - USB (5V/3.1A, Ανάγνωση μνήμης USB Flash);    - USB-C (5V/3, 9V/2.77A, 25W);    - Δίσκος U / κάρτα TF. * Ισχύς: 25W (μέγ.) * Μέγιστο ρεύμα: 3.1A. * Έξυπνο τσιπ για την κατανομή της τάσης ανάλογα με τη συσκευή που είναι συνδεδεμένη. * Εύρος συχνοτήτων: 87.5~108MHz. * Έκδοση Bluetooth: 5.0. * Εύρος μετάδοσης: 5-10 m. * Υλικό: ABS. * Οθόνη LED * Κουμπιά πολλαπλών λειτουργιών για απάντηση/τερματισμό, απόρριψη κλήσεων, ρύθμιση έντασης, έναρξη/παύση/επόμενο τραγούδι. * Ενσωματωμένο μικρόφωνο για πραγματοποίηση κλήσεων. * Πλήρες σετ προστασιών ασφαλείας - έναντι υπερέντασης, υπερθέρμανσης, υπερφόρτισης, βραχυκυκλώματος και άλλων. * Υποστηρίζει MP3, FLAC, APE και άλλες μορφές χωρίς απώλειες, αναπαράγει διάφορες μορφές ήχου. * Μέγεθος: 100 x 145 x 40 mm. * Εγγύηση: 12 μήνες.</Description>
+		<Barcode>6920680835492</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -27299,6 +27354,24 @@
 		<MPN>CM816 / 45297</MPN>
 		<Description>Η Φορητή Συσκευή Εντοπισμού BT UGREEN CM816 είναι ένα αξεσουάρ που επιτρέπει τον εντοπισμό πολύτιμων αντικειμένων, ιδανικό για χρήστες συσκευών Apple. Λειτουργεί στο οικοσύστημα Apple FMN και συνεργάζεται με την ενσωματωμένη εφαρμογή “Find” για εύκολη και γρήγορη χρήση.  Κύρια χαρακτηριστικά:  Συμβατότητα: με συσκευές iOS 14.5/iPadOS 14.5, macOS 12.5 ή νεότερη έκδοση. Υλικό Κατασκευής: πλαστικό και μεταλλικό. Χρώμα: γκρι. Χωρητικότητα Μπαταρίας: 225mAh. Μέγεθος Μπαταρίας: CR2032. Έκδοση Bluetooth: 5.2. Αυτονομία Μπαταρίας: &gt;12 μήνες. Διαστάσεις Κιβωτίου: 480x380x280 mm. Η συσκευή ενημερώνει και μεταδίδει τη θέση της μέσω ενεργών Apple συσκευών, παρέχοντας πρόσβαση στη θέση του αντικειμένου ανά πάσα στιγμή. Επιπλέον, διαθέτει ανθεκτικό περίβλημα και ενσωματωμένο κλειδί για εύκολη τοποθέτηση σε τσάντες, κλειδιά ή άλλα αντικείμενα.</Description>
 		<Barcode>6941876242979</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799515302</ID>
+		<Name>XO Apple Find My GPS Smart Locator/Smart Tracker Anti-loss / MFi Certificated σε Μέγεθος Κάρτας LP05</Name>
+		<Product_Link>https://www.skroutz.gr/s/59903186/xo-lp05-apple-find-my-tracker-mayro-epanafortizomeno.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/116542/116542688/xlarge_20250902152146_9e095ef3.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/5/7/5/4/0/c/skyphone.bg-xo-smart-locator-lp05-4.jpeg https://cdn.omax.bg/images/products/full/5/7/5/4/0/c/skyphone.bg-xo-smart-locator-lp05.jpeg https://cdn.omax.bg/images/products/full/5/7/5/4/0/c/skyphone.bg-xo-smart-locator-lp05-3.jpeg https://cdn.omax.bg/images/products/full/5/7/5/4/0/c/skyphone.bg-xo-smart-locator-lp05-5.jpeg https://cdn.omax.bg/images/products/full/5/7/5/4/0/c/skyphone.bg-xo-smart-locator-lp05-6.jpeg https://cdn.omax.bg/images/products/full/5/7/5/4/0/c/skyphone.bg-xo-smart-locator-lp05-7.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>13.55</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ Κινητών &gt; Bluetooth Trackers</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>LP05</MPN>
+		<Description>Ο εντοπιστής XO LP05 είναι μια συσκευή για την παρακολούθηση της τοποθεσίας αντικειμένων. Ασφαλίστε το πορτοφόλι, τα κλειδιά, την τσάντα ή άλλα πολύτιμα αντικείμενα. Ο εντοπιστής είναι πλήρως συμβατός με την εφαρμογή FindMy. Διαθέτει μπαταρία CR2032 που μπορεί να αντικατασταθεί από τον χρήστη. Η διάρκεια ζωής της μπαταρίας είναι περίπου 1 έτος.  Έλεγχος τοποθεσίας μέσω της εφαρμογής; Λειτουργία κατά της απώλειας: όταν ο εντοπιστής απομακρύνεται πέρα από μια ορισμένη απόσταση, η εφαρμογή στέλνει μια υπενθύμιση; Ενεργοποίηση ηχητικού σήματος μέσω της εφαρμογής.  * Λεπτός ιχνηλάτης LP05 σε μέγεθος κάρτας. * Ο σχεδιασμός και η λειτουργικότητά του είναι προσαρμοσμένοι για απρόσκοπτη ενσωμάτωση με την εφαρμογή Find My της Apple. * Χωρητικότητα μπαταρίας 100 mAh (φόρτιση με μαγνητικό καλώδιο) * Χρόνος αναμονής: 3-4 μήνες. * Απόσταση σύνδεσης Bluetooth: 10M. * Απόσταση τοποθέτησης: Απεριόριστη. * Υλικό: PVC. * Διαστάσεις: 85 x 54 x 1,8 mm. * Βάρος: 12 g. * Εγγύηση: 12 μήνες.</Description>
+		<Barcode>6920680858422</Barcode>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -27387,6 +27460,42 @@
 		<Description>Ψάχνετε για ένα αξιόπιστο και αποτελεσματικό power bank που μπορεί να φορτίζει τον φορητό υπολογιστή, το smartphone και άλλες συσκευές σας ταυτόχρονα; Το Wozinsky K65+ 65W είναι μια ισχυρή πηγή ενέργειας 30000mAh που παρέχει μακροχρόνια ισχύ εν κινήσει, στην εργασία και κάθε μέρα. Με την τεχνολογία PD 65W, μπορείτε ακόμη και να φορτίζετε φορητούς υπολογιστές, ενώ το έξυπνο σύστημα διαχείρισης ενέργειας φροντίζει για την ασφάλεια των συσκευών σας. Τρεις θύρες - δύο USB-C και μία USB-A - σας επιτρέπουν να τροφοδοτείτε πολλές συσκευές ταυτόχρονα, ενώ η ψηφιακή οθόνη ενημερώνει για το υπόλοιπο επίπεδο ενέργειας. Η στιβαρή κατασκευή και ο μοντέρνος σχεδιασμός καθιστούν το power bank ιδανική επιλογή για απαιτητικούς χρήστες.  Προσδιορισμός:  Μάρκα: Wozinsky Μοντέλο: Wozinsky K65+ Χωρητικότητα μπαταρίας: 30000mAh (3.7V/111Wh) Ονομαστική χωρητικότητα: 18000mAh (5V/2A) Μπαταρία: Πολυμερές λιθίου Μέγιστη ισχύς: 65 W Είσοδος USB-C1/C2: 5V-3A, 9V-3A, 12V-3A, 15V-3A, 20V-3A Έξοδος USB-C1/C2: 5V-3A, 9V-3A, 12V-3A, 15V-3A, 20V-3.25A Έξοδος USB-A: 5V-3A, 5V-5A, 9V-2.22A, 12V-1.67A Διαστάσεις προϊόντος: 58 x 58 x 115 mm Χρώμα: γκρι Τα σημαντικότερα πλεονεκτήματα του Powerbank Wozinsky K65+:  Τεράστια χωρητικότητα 30000mAh: Μεγάλος χρόνος λειτουργίας και δυνατότητα φόρτισης συσκευών πολλές φορές χωρίς πρόσβαση σε πρίζα. Υποστηρίζει φόρτιση PD 65W: Ικανό να τροφοδοτεί φορητούς υπολογιστές, tablet και άλλες απαιτητικές συσκευές. Τρεις θύρες φόρτισης: Φορτίστε τρεις συσκευές ταυτόχρονα χάρη στις 2 θύρες USB-C και 1 θύρες USB-A. Ψηφιακή οθόνη: Ακριβής έλεγχος του επιπέδου φόρτισης της μπαταρίας. Προηγμένη προστασία: Το έξυπνο τσιπ που ελέγχει τη θερμοκρασία και την τάση εξασφαλίζει ασφαλή χρήση.</Description>
 		<Barcode>5907769364457</Barcode>
 		<Quantity>27</Quantity>
+	</product>
+	<product>
+		<ID>7995191111</ID>
+		<Name>Ugreen Power Bank 20000mAh 130W με Θύρα USB-A και 2 Θύρες USB-C Quick Charge 3.0 Space Gray PB721 / 35524B</Name>
+		<Product_Link>https://www.skroutz.gr/s/56696238/Ugreen-PB721-Power-Bank-20000mAh-130W-me-THyra-USB-A-kai-2-THyres-USB-C-Quick-Charge-3-0-Polychromo.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/056696/56696238/xlarge_20241022164021_ugreen_pb721_power_bank_20000mah_130w_me_thyra_usb_a_kai_2_thyres_usb_c_quick_charge_3_0_polychromo.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/103050/103050722/xlarge_20241007154448_2f32ddb5.jpeg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-2.jpg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-3.jpg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-4.jpg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-5.jpg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-6.jpg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-7.jpg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-8.jpg https://cdn.omax.bg/images/products/full/5/8/0/9/0/c/omax.bg-ugreen-power-bank-nexode-130w-9.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>58.8814775</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>PB721 / 35524B</MPN>
+		<Description>* Εξωτερική μπαταρία UGREEN PB721/35524B; * Χωρητικότητα: 20.000 mAh; * Μέγιστη ισχύς: 130W; * Διεπαφή εισόδου: - USB-C1: 5V/3A 9V/3A 12V/3A 15V/3A 20V/3.25A 65W Μέγ. * Διεπαφή εξόδου: - USB-C1: 5V/3A 9V/3A 12V/3A 15V/3A 20V/5A 100W Μέγ. - USB-C2: 10V/2.25A 5V/3A 9V/3A 12V/2.5A 30W Μέγ. - USB-A: 5V/3A 9V/2A 12V/1.5A 10V/2.25A 22.5W; * Ισχύς εξόδου: 5V/6A, 9V/6A, 12V/5.5A, 15V/3A, 20V/5A. * Υποστηριζόμενα πρωτόκολλα γρήγορης φόρτισης: - USB-C1/C2: PD3.0/ PD2.0/ PPS/ SCP/ QC3.0/ QC2.0/ FCP/ AFC/ APPLE 5V2.4A/ BC1.2. - USB-A: SCP/ QC3.0/QC2.0/ FCP/AFC/ APPLE 5V2.4A/ BC1.2. * Προστασία από υπερφόρτιση, υπερφόρτιση, υπέρταση, υπερφόρτωση, βραχυκύκλωμα. * Το σετ περιλαμβάνει Type-C - Type-C.</Description>
+		<Barcode>6941876242924</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7995191112</ID>
+		<Name>Ugreen Power Bank 25000mAh 200W με Θύρα USB-A και 2 Θύρες USB-C Quick Charge 3.0 Space Gray PB722 / 35525B</Name>
+		<Product_Link>https://www.skroutz.gr/s/56696332/Ugreen-PB722-Power-Bank-25000mAh-200W-me-THyra-USB-A-kai-2-THyres-USB-C-Quick-Charge-3-0-Polychromo.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/056696/56696332/xlarge_20241007154611_ugreen_pb722_power_bank_25000mah_200w_me_thyra_usb_a_kai_2_thyres_usb_c_quick_charge_3_0_polychromo.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/103050/103050916/xlarge_20241007154614_eaac4f05.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-2.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-3.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-4.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-5.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-6.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-7.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-8.jpeg https://cdn.omax.bg/images/products/full/5/8/3/2/6/c/omax.bg-ugreen-power-bank-pb722-35525b-9.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>71.376725</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>PB722 / 35525B</MPN>
+		<Description>* UGREEN PB722/35525B Power Bank; * Χωρητικότητα: 25.000 mAh; * Μέγιστη ισχύς: 200W; * Διεπαφή εισόδου:   - USB-C1/2: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A, 65W μέγ.; * Διεπαφή εξόδου:   - USB-C1: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 28V/5A, 140W μέγ.;   - USB-C2: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 100W μέγ.;   - USB-A: 5V/3A, 9V/2A, 12V/1.5A, 10V/2.25A, 22.5W; * Υποστηριζόμενα πρωτόκολλα γρήγορης εκκίνησης:   - USB-C: PD3.0/PD2.0/PPS/QC4+/QC3.0/QC2.0/AFC/APPLE 5V2.4A/BC1.2.   - USB-A: SCP/QC3.0/QC2.0/FCP/AFC/APPLE 5V2.4A/BC1.2. * Οθόνη LED. * Προστασία από υπερφόρτιση, υπερβολική εκφόρτιση, υπέρταση, υπερφόρτωση, βραχυκύκλωμα. * Το κιτ περιέχει καλώδιο Type-C - Type-C. * Μέγεθος: 131 x 54 x 50,8 mm. * Βάρος: 592 g.</Description>
+		<Barcode>6941876242931</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799519501</ID>
@@ -27618,6 +27727,60 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>799551101</ID>
+		<Name>Ugreen Βάση Γραφείου για Κινητό Αναδιπλούμενη και Ρυθμιζόμενη Space Gray LP263 / 80708</Name>
+		<Product_Link>https://www.skroutz.gr/s/27134929/Ugreen-Foldable-Multi-Angle-Phone-Stand-Vasi-Grafeiou-gia-Kinito-se-Gri-chroma.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/027134/27134929/xlarge_20210215132548_ugreen_foldable_multi_angle_phone_stand_gri.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/5/9/5/9/9/c/omax.bg-ugreen-lp263-2.jpg https://cdn.omax.bg/images/products/full/5/9/5/9/9/c/omax.bg-ugreen-lp263-3.jpg https://cdn.omax.bg/images/products/full/5/9/5/9/9/c/omax.bg-ugreen-lp263-4.jpg https://cdn.omax.bg/images/products/full/5/9/5/9/9/c/omax.bg-ugreen-lp263-5.jpg https://cdn.omax.bg/images/products/full/5/9/5/9/9/c/omax.bg-ugreen-lp263-6.jpg https://cdn.omax.bg/images/products/full/5/9/5/9/9/c/omax.bg-ugreen-lp263-7.jpg https://b.scdn.gr/images/sku_images/041899/41899435/xlarge_20210318173029_7f1f0f38.jpeg https://d.scdn.gr/images/sku_images/041899/41899431/xlarge_20210318173028_deb54b25.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.443142499999999</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>LP263 / 80708</MPN>
+		<Description>* Η UGREEN LP263 (80708) είναι μια κομψή και σταθερή βάση smartphone από αλουμίνιο, σχεδιασμένη για άνετη προβολή και χρήση κινητών συσκευών. * Ο πτυσσόμενος σχεδιασμός και η ρυθμιζόμενη γωνία την καθιστούν ιδανική για το σπίτι, το γραφείο ή τα ταξίδια. * Συμβατότητα: Κατάλληλη για smartphone με μέγεθος από 4,7" έως 7,9" και πάχος έως 12 mm (συμπεριλαμβανομένης της θήκης). * Υλικό: Κατασκευασμένο από αλουμίνιο υψηλής ποιότητας για αντοχή και κομψή εμφάνιση. * Ρυθμιζόμενη γωνία: Σας επιτρέπει να ρυθμίσετε τη γωνία για βέλτιστη άνεση προβολής. * Πτυσσόμενος σχεδιασμός: Συμπαγής και εύκολη στη μεταφορά, ιδανική για ταξίδια. * Αντιολισθητικά μαξιλαράκια σιλικόνης: Αποτρέπουν την ολίσθηση και προστατεύουν τη συσκευή από γρατσουνιές. * Οπή καλωδίου: Διευκολύνει τη φόρτιση κατά τη χρήση. * Διαστάσεις: 120 x 100 x 76 mm. * Βάρος: 233 g. * Χρώμα: Γκρι.</Description>
+		<Barcode>6957303887088</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799551103</ID>
+		<Name>Ugreen Βάση Γραφείου για Κινητό Αναδιπλούμενη και Ρυθμιζόμενη Μαύρη LP247 / 80903</Name>
+		<Product_Link>https://www.skroutz.gr/s/28385727/Ugreen-LP247-Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/028385/28385727/xlarge_20210419162645_ugreen_adjustable_desktop_smartphone_tablet_stand_mayro.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-2.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-3.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-4.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-5.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-6.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-7.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-8.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-9.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-10.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-11.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-12.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-13.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-14.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-16.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-17.jpg https://cdn.omax.bg/images/products/full/5/9/6/0/3/c/omax.bg-ugreen-lp247-black-18.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.754971749999999</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>LP247 / 80903</MPN>
+		<Description>* Η UGREEN LP247 (80704) είναι μια συμπαγής και κομψή ρυθμιζόμενη βάση smartphone, σχεδιασμένη για βολική προβολή και χρήση κινητών συσκευών. * Με την ρυθμιζόμενη κατασκευή και τον πτυσσόμενο σχεδιασμό της, είναι ιδανική για το σπίτι, το γραφείο ή τα ταξίδια. * Συμβατότητα: Κατάλληλη για συσκευές με διαγώνιο 4,7" έως 7,9" και πάχος έως 12 mm (συμπεριλαμβανομένης της θήκης). * Ρυθμιζόμενη γωνία: Έως 100°, επιτρέποντας τη βέλτιστη γωνία θέασης. * Ρυθμιζόμενο ύψος: Δύο επίπεδα ύψους για προσαρμογή της θέσης. * Υλικά: Κατασκευασμένη από υψηλής ποιότητας πλαστικό ABS με αντιολισθητικά μαξιλαράκια σιλικόνης για σταθερότητα και προστασία από γρατσουνιές. * Συμπαγείς διαστάσεις: 84 x 110,29 x 26,8 mm, εύκολη στη μεταφορά και αποθήκευση. * Πτυσσόμενος σχεδιασμός: Κάνει εύκολη τη μεταφορά και την αποθήκευση, ιδανική για ταξίδια. * Οπή καλωδίου: Κάνει τη φόρτιση κατά τη χρήση ευκολότερη.</Description>
+		<Barcode>6957303889037</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>799551122</ID>
+		<Name>Ugreen Βάση Γραφείου για Tablet από 4" έως 12"  Αναδιπλούμενη Μαύρη LP115 / 50748</Name>
+		<Product_Link>https://www.skroutz.gr/s/26874403/Ugreen-Multi-Angle-Vasi-Tablet-Grafeiou-eos-8-9-se-Mayro-chroma.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/026874/26874403/xlarge_20210201120840_ugreen_multi_angle_mayro.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/038313/38313051/xlarge_20210201120842_8c149a74.jpeg https://b.scdn.gr/images/sku_images/038313/38313045/xlarge_20210201120841_68b8e8c2.jpeg https://a.scdn.gr/images/sku_images/038313/38313042/xlarge_20210201120840_878e683b.jpeg https://c.scdn.gr/images/sku_images/038313/38313048/xlarge_20210201120841_33f370dd.jpeg https://d.scdn.gr/images/sku_images/038313/38313046/xlarge_20210201120841_452e6f65.jpeg https://c.scdn.gr/images/sku_images/038313/38313044/xlarge_20210201120841_0f248293.jpeg https://cdn.omax.bg/images/products/full/5/9/6/0/1/c/omax.bg-ugreen-lp115-black-7.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.36299225</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt;  Tablets &amp; Αξεσουάρ &gt; Βάσεις Tablet</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>LP115 / 50748</MPN>
+		<Description>* Η UGREEN LP115 είναι μια καθολική πτυσσόμενη βάση για smartphones και tablet, σχεδιασμένη για άνετη προβολή και χρήση κινητών συσκευών. * Με τον ρυθμιζόμενο σχεδιασμό και το συμπαγές μέγεθός της, είναι ιδανική για το σπίτι, το γραφείο ή τα ταξίδια. * Συμβατότητα: Κατάλληλη για συσκευές με διαγώνιο 4 έως 12 ίντσες και πάχος έως 14 mm (συμπεριλαμβανομένης της θήκης). * Ρυθμιζόμενη γωνία: Από 15° έως 100°, επιτρέποντας τη βέλτιστη γωνία θέασης. * Υλικά: Κατασκευασμένη από υψηλής ποιότητας πλαστικό ABS με αντιολισθητικά μαξιλαράκια σιλικόνης για σταθερότητα και προστασία από γρατσουνιές. * Συμπαγείς διαστάσεις: 118 x 108 x 45 mm, εύκολη στη μεταφορά και αποθήκευση. * Πτυσσόμενος σχεδιασμός: Κάνει εύκολη τη μεταφορά και την αποθήκευση, ιδανική για ταξίδια. * Κατάλληλη για παρακολούθηση βίντεο, βιντεοκλήσεις, ανάγνωση και άλλες δραστηριότητες hands-free.</Description>
+		<Barcode>6957303857487</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799551151</ID>
 		<Name>XO Μεταλλική 360° Περιστρεφόμενη Επιτραπέζια Βάση Κινητού Μαύρη C151-59177</Name>
 		<Product_Link>https://www.skroutz.gr/s/55660347/Vasi-Grafeiou-gia-Kinito-se-Mayro-chroma-C151.html</Product_Link>
@@ -27625,7 +27788,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.6309875</Price>
+		<Price>1.639187</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -27642,7 +27805,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.4607975</Price>
+		<Price>1.4696095414</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -27659,7 +27822,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.013647499999999</Price>
+		<Price>4.0338254</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -27676,7 +27839,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.42</Price>
+		<Price>3.4351658</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -27693,7 +27856,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.41</Price>
+		<Price>4.43649525</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>Joyroom</Manufacturer>
@@ -27710,7 +27873,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.3612525</Price>
+		<Price>3.3781506</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -27727,14 +27890,32 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.42</Price>
+		<Price>5.43571515</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Αξεσουάρ  Κινητών &gt; Βάσεις Στήριξης Κινητών</Category_Path>
+		<Category_Path>Auto - Moto&gt; Αξεσουάρ Καμπίνας &gt; Βάσεις Κινητών &amp; Tablet Αυτοκινήτου</Category_Path>
 		<Manufacturer>Baseus</Manufacturer>
 		<MPN>SUCX140012</MPN>
 		<Description>Σταθερή βάση στήριξης για smartphones που μπορεί να τοποθετηθεί σε οποιαδήποτε ομαλή επιφάνεια. Διαθέτει ενσωματωμένους μαγνήτες που παρέχουν ισχυρό και ασφαλές κράτημα της συσκευής. Δυνατότητα περιστροφής 360º που επιτρέπει στο smartphone να ρυθμιστεί σε οποιαδήποτε γωνία θέασης. Χρώμα: Μαύρο /Ασημί. Στην συσκευασία περιλαμβάνονται:  1x μαγνητική βάση στήριξης, 1x μικρή μεταλλική πλάτη, 1x μεγάλη μεταλλική πλάτη &amp; 1x ανταλλακτικό αυτοκόλλητο 3Μ.   Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτησή της στο αυτοκίνητο και είναι ποιοτική κατασκευή.</Description>
 		<Barcode>6932172627058</Barcode>
 		<Quantity>101</Quantity>
+	</product>
+	<product>
+		<ID>799551202</ID>
+		<Name>Joyroom  Μαγνητική Βάση Κινητού Αυτοκινήτου Ασύρματης Φόρτισης MagSafe Συμβατό με iPhone Μαύρο JR-ZS240</Name>
+		<Product_Link>https://www.skroutz.gr/s/26634298/Joyroom-Vasi-Kinitou-Aytokinitou-JR-ZS240-me-Magniti-kai-Asyrmati-Fortisi.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_images/116793/116793980/xlarge_20250904143728_ae403f0e.jpeg</Image_Link>
+		<Additional>https://static1.eu.hurtel.com/hpeciai/71ea25400483721440bc4d8b2916969f/eng_pm_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_13.jpg https://static2.eu.hurtel.com/hpeciai/af4978633ab33d140580fde5af9b9afe/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_15.jpg https://static4.eu.hurtel.com/hpeciai/6f87841fe099f92a19becefc1a161eaf/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_2.jpg https://static3.eu.hurtel.com/hpeciai/8e32c638a5f3f2803c4a3c5d3ac7f687/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_14.jpg https://static2.eu.hurtel.com/hpeciai/f6d41228506b9db9ad0eabd422472e01/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_3.jpg https://static4.eu.hurtel.com/hpeciai/d5013a80d72b229b1b7496c3af45e3ce/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_4.jpg https://static2.eu.hurtel.com/hpeciai/9024b16153431a54cbcfb1dc62f464c5/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_5.jpg https://static3.eu.hurtel.com/hpeciai/9817961c7d69d9b3c9c071fe70c29a54/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_6.jpg https://static5.eu.hurtel.com/hpeciai/91ed37b7b0d995ce18c808ec1430b090/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_7.jpg https://static4.eu.hurtel.com/hpeciai/90c0f760e260a969a29aecd18842b225/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_8.jpg https://static1.eu.hurtel.com/hpeciai/53b457f367d0cdb9a5c1a4b238169718/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_9.jpg https://static5.eu.hurtel.com/hpeciai/c9f28dbe14f081cdc5e6bd530fe2d6cc/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_10.jpg https://static4.eu.hurtel.com/hpeciai/86288897696e3efbe257383829aa8d00/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_11.jpg https://static3.eu.hurtel.com/hpeciai/d5d4e169027560d244e6ecb7c9da2e81/eng_pl_Joyroom-Car-Magnetic-Holder-Qi-Wireless-Inductive-Charger-15W-MagSafe-Compatible-for-iPhone-Black-JR-ZS240-71620_12.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.19</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Auto - Moto&gt; Αξεσουάρ Καμπίνας &gt; Βάσεις Κινητών &amp; Tablet Αυτοκινήτου</Category_Path>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>JR-ZS240</MPN>
+		<Description>Μαγνητική βάση αυτοκινήτου Joyroom Ασύρματος επαγωγικός φορτιστής Qi 15W (συμβατός με MagSafe για iPhone) (JR-ZS240)  Η βάση αυτοκινήτου Joyroom JR-ZS240 με δυνατότητα ασύρματης φόρτισης MagSafe είναι ένα gadget που κάθε οδηγός θα εκτιμήσει. Ο καθολικός σχεδιασμός της σημαίνει ότι ταιριάζει στους περισσότερους αεραγωγούς σε διάφορα οχήματα, γεγονός που μεταφράζεται σε εξαιρετικά απλή εγκατάσταση. Η δυνατότητα περιστροφής 360° εξασφαλίζει την τέλεια τοποθέτηση του τηλεφώνου ώστε να ταιριάζει στις ανάγκες του χρήστη. Η βάση είναι ιδανική για συσκευές Apple που διαθέτουν ασύρματη λειτουργία MagSafe. Ωστόσο, το μόνο που χρειάζεται να κάνετε είναι να αγοράσετε μια ειδική θήκη με ενσωματωμένο μαγνητικό μάτι για να αξιοποιήσετε πλήρως τις δυνατότητες που προσφέρει ο εξοπλισμός.  Προσδιορισμός:  Μάρκα: Joyroom Τύπος: Βάση αυτοκινήτου με ασύρματο φορτιστή MagSafe Είσοδος: 5V/2A 9V/2A 12V/1.5A Έξοδος: 5W/7.5W/10W/15W (ΜΕΓΙΣΤΗ) Διεπαφή εισόδου: USB-C Προβλεπόμενη χρήση: Κινητά τηλέφωνα με μαγνητική θήκη, μεγέθη που κυμαίνονται από 4,7 έως 6,7 ίντσες Μέγεθος: 60x82 χιλ. Καθαρό βάρος: 86 γρ. Μικτό βάρος: 148 γρ. Υλικό: ABS + PC Απόσταση φόρτισης: ≤8MM Επιλογή ρύθμισης: Γωνία 360° Το σετ περιέχει:  1x Βάση αυτοκινήτου με ασύρματο φορτιστή MagSafe 1x καλώδιο USB - USB-C</Description>
+		<Barcode>6941237133236</Barcode>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799551301</ID>
@@ -28237,6 +28418,24 @@
 		<Quantity>11</Quantity>
 	</product>
 	<product>
+		<ID>799631502</ID>
+		<Name>Ugreen Θήκη Προστασίας Hard Disk SSD Case Travel Bag 20,3x12,9x7,2 cm Γκρι LP152 / 50903</Name>
+		<Product_Link>https://www.skroutz.gr/s/26025347/Ugreen-THiki-Prostasias-Hard-Disk-SSD-Case-Travel-Bag-20-3-x-12-9-x-7-2-cm-Gri-50903.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/026025/26025347/xlarge_20201203125508_ugreen_hard_disk_ssd_case_travel_bag.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/065401/65401199/xlarge_20220930151127_f169dd90.jpeg https://cdn.omax.bg/images/products/full/5/9/6/4/2/c/omax.bg-ugreen-lp152-2.jpg https://cdn.omax.bg/images/products/full/5/9/6/4/2/c/omax.bg-ugreen-lp152-3.jpg https://cdn.omax.bg/images/products/full/5/9/6/4/2/c/omax.bg-ugreen-lp152-4.jpg https://cdn.omax.bg/images/products/full/5/9/6/4/2/c/omax.bg-ugreen-lp152-5.jpg https://cdn.omax.bg/images/products/full/5/9/6/4/2/c/omax.bg-ugreen-lp152-7.jpg https://cdn.omax.bg/images/products/full/5/9/6/4/2/c/omax.bg-ugreen-lp152-8.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>11.48</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Σκληροί Δίσκοι &gt; Αξεσουάρ Σκληρών Δίσκων</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>LP152 / 50903</MPN>
+		<Description>Η συμπαγής θήκη είναι με διπλές στρώσεις. Μια δικτυωτή τσέπη με φερμουάρ προσφέρει ασφαλή χώρο για διαβατήριο, κάρτα επιβίβασης, πιστωτική κάρτα, τροφοδοτικό, βούρτσα, κονσίλερ. Μπορεί να χρησιμοποιηθεί ως διάταξη οργάνωσης καλωδίων ή υποδοχή κάρτας. Το μεσαίο διαμέρισμα επεκτείνει μια μεγάλη δικτυωτή τσέπη εύκολης πρόσβασης και δύο μικρές τσέπες για τηλέφωνο, κάρτες SD, δίσκο U, κραγιόν, βερνίκι νυχιών κ.λπ. Η εύκαμπτη ζώνη σάς επιτρέπει να προσαρμόσετε τη διαίρεση του χώρου ανάλογα με το μέγεθος των συσκευών.  * Η UGREEN LP152 είναι μια συμπαγής και εξαιρετικά πρακτική θήκη ταξιδιού σχεδιασμένη για την οργάνωση και την προστασία ηλεκτρονικών αξεσουάρ. * Με διπλή θήκη, σκληρό περίβλημα EVA και μαλακό εσωτερικό στρώμα, συνδυάζει ανθεκτικότητα και ευκολία για καθημερινή χρήση. * Διαστάσεις: 20,3 × 12,9 × 7,2 cm - αρκετά ευρύχωρη για καλώδια, μνήμη, powerbank, ακουστικά κ.λπ. * Υλικά: αδιάβροχο σκληρό ύφασμα EVA + Oxford με επένδυση από σουέτ για κορυφαία προστασία και αίσθηση ποιότητας. * Διπλή εσωτερική δομή: τσέπη από πλέγμα με φερμουάρ και ρυθμιζόμενο διαμέρισμα με ιμάντα Velcro για οργάνωση αξεσουάρ. * Ανθεκτική δερμάτινη λαβή και μεταλλικό καραμπίνερ για εύκολη μεταφορά ή κρέμασμα σε τσάντα. * Βάρος: ~208g - ελαφριά και εύκολη στην τοποθέτηση σε σακίδιο πλάτης ή βαλίτσα. * Το εξωτερικό στρώμα EVA + Oxford παρέχει προστασία από νερό, σκόνη και κραδασμούς, ενώ το σουέτ στο εσωτερικό αποτρέπει τις γρατσουνιές. * Συμβατό με: τροφοδοτικά, εξωτερικούς δίσκους, ακουστικά, καλώδια, κάρτες μνήμης, προσαρμογείς και άλλα.</Description>
+		<Barcode>6957303859030</Barcode>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7996316131</ID>
 		<Name>XO Τσάντα χειρός για Laptop 13" κατά του πιτσιλίσματος και ανθεκτική στη φθορά με Βελούδινη Επένδυση σε Μαύρο χρώμα CB01-49604</Name>
 		<Product_Link>https://www.skroutz.gr/s/48886578/XO-THiki-gia-Laptop-13-se-Mayro-chroma-16-001-0101.html</Product_Link>
@@ -28261,7 +28460,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.6232275</Price>
+		<Price>6.39</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία&gt; Laptops &amp; Αξεσουάρ&gt; Τσάντες Laptop</Category_Path>
 		<Manufacturer>XO</Manufacturer>
@@ -28944,7 +29143,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεσόσπερμο ρύζι με μεγάλους λευκούς κόκκους και έντονο γαλακτερό χρώμαστο κέντρο του. Η βασική ιδιότητα του ρυζιού αυτού είναι η μεγάλη ικανότητα του να απορροφά τα λίπη απελευθερώνοντας παράλληλα το άμυλο του κάνοντας το κατάλληλο για φαγητά φούρνου αλλά και ριζότο.</Description>
 		<Barcode>5212006201007</Barcode>
-		<Quantity>223</Quantity>
+		<Quantity>224</Quantity>
 	</product>
 	<product>
 		<ID>81012</ID>
@@ -29016,7 +29215,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Το ρύζι Basmati σε συσκευασία 500 γραμμαρίων είναι ιδανικό για δημιουργία απολαυστικών ασιατικών φαγητών. Με το μακρύ, λεπτό κόκκο του και το ιδιαίτερο άρωμά του, προσφέρει μια γεύση και μια αίσθηση που δεν συγκρίνεται εύκολα με άλλους τύπους ρυζιού. Ιδανικό για πιλάφι, σερβίρεται ως πλευρικό ή βασικό πιάτο, και συνοδεύει τέλεια ποικίλα κρέατα, ψάρια και λαχανικά.</Description>
 		<Barcode>8212006200567</Barcode>
-		<Quantity>153</Quantity>
+		<Quantity>155</Quantity>
 	</product>
 	<product>
 		<ID>810171</ID>
@@ -29034,7 +29233,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Ένα υψηλής ποιότητας λευκό ρύζι με φίνο άρωμα γιασεμιού, ιδανικό για ασιατικές συνταγές. Χαρακτηρίζεται από ελαφριά, αφράτη υφή και μοναδική γεύση που συνοδεύει τέλεια κρέατα, λαχανικά και θαλασσινά. Προέρχεται από την Ταϋλάνδη, όπου το ρύζι Jasmine καλλιεργείται παραδοσιακά.</Description>
 		<Barcode>5212006200659</Barcode>
-		<Quantity>10</Quantity>
+		<Quantity>11</Quantity>
 	</product>
 	<product>
 		<ID>83101</ID>
@@ -29268,7 +29467,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Το αναπλήρωμα ξύδιου John Top σε συσκευασία 400ml είναι ιδανικό για χρήση στη μαγειρική και στην παρασκευή σάλτσων, μαριναδών, σαλατών και dressings. Με το χαρακτηριστικό άρωμα και την έντονη γεύση του, προσδίδει ξεχωριστή γεύση στα φαγητά σας. Είναι ιδανικό για να δώσει μια ευχάριστη οξύτητα και αναδεικνύει τα αρώματα των υλικών που χρησιμοποιείτε.</Description>
 		<Barcode>5202737200547</Barcode>
-		<Quantity>958</Quantity>
+		<Quantity>957</Quantity>
 	</product>
 	<product>
 		<ID>84011</ID>
@@ -29376,7 +29575,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Ψιλό θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 200 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270000014</Barcode>
-		<Quantity>115</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>84102</ID>
@@ -29914,7 +30113,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Lancheon meat από κοτόπουλο που μπορεί να προστεθεί στο sandwich, στο κολατσιό στο σχολείο, αλλά και στη μαγειρική ως πρώτη ύλη.</Description>
 		<Barcode>8705253502503</Barcode>
-		<Quantity>226</Quantity>
+		<Quantity>225</Quantity>
 	</product>
 	<product>
 		<ID>85236</ID>
