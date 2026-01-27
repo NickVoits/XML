@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-01-27 10:48</created_at>
+	<created_at>2026-01-27 11:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -248,7 +248,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>380</Quantity>
+		<Quantity>377</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -2161,7 +2161,7 @@
 		<MPN>10180</MPN>
 		<Description>Η δημοφιλής φιάλη Ζαγόρι σε συσκευασία 0,5 L. Οι μοναδικές αρμονικές καμπύλες και τα ανάγλυφα χαρακτηριστικά σε ατομική συσκευασία. Για να απολαμβάνουμε την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι, σε κάθε στιγμή της ημέρας.</Description>
 		<Barcode>5201627000939</Barcode>
-		<Quantity>1556</Quantity>
+		<Quantity>1572</Quantity>
 	</product>
 	<product>
 		<ID>20603</ID>
@@ -26752,7 +26752,7 @@
 		<MPN>16.005.0348</MPN>
 		<Description>Μοντέλο: XO NB280  Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C  Μήκος: 1M  Ρεύμα: 3A  Χρώμα: Λευκό</Description>
 		<Barcode>6920680858729</Barcode>
-		<Quantity>114</Quantity>
+		<Quantity>110</Quantity>
 	</product>
 	<product>
 		<ID>7995115211</ID>
@@ -26820,7 +26820,7 @@
 		<MPN>16.005.0341</MPN>
 		<Description>Μοντέλο: XO NB280  Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Lightning  Μήκος: 1M  Ρεύμα: 3A  Χρώμα: Μαύρο</Description>
 		<Barcode>6920680858675</Barcode>
-		<Quantity>62</Quantity>
+		<Quantity>58</Quantity>
 	</product>
 	<product>
 		<ID>7995115302</ID>
