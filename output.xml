@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-01-28 16:05</created_at>
+	<created_at>2026-01-28 16:24</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -267,24 +267,6 @@
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
 		<Quantity>1116</Quantity>
-	</product>
-	<product>
-		<ID>110118</ID>
-		<Name>Κλιάφα Πορτοκαλάδα Χωρίς Ανθρακικό 1500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/50268767/Portokalada-choris-anthrakiko-Kliafa-1-5-lt-0-20euro.html</Product_Link>
-		<Image_Link>https://www.kmkike.gr/wp-content/uploads/2022/12/KLIAFAS-MPLE-1.5-1.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.21</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΚΛΙΑΦΑ</Manufacturer>
-		<MPN>0133</MPN>
-		<Weight>1.5 kg</Weight>
-		<Description>Αναψυκτικό με γεύση πορτοκάλι, χωρίς ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Barcode>5201275001692</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>11012</ID>
@@ -2984,6 +2966,22 @@
 		<Quantity>561</Quantity>
 	</product>
 	<product>
+		<ID>57502</ID>
+		<Name>Κάναβα Ρούσσος Νάμα Ερυθρό Γλυκό Σαντορίνης 375ml Αηδάνι / Μαντηλαριά / Ασύρτικο</Name>
+		<Product_Link>https://www.skroutz.gr/s/4796040/Kanava-Roussos-Krasi-Nama-Erythro-Xiro-Santorinis-375ml.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/004796/4796040/xlarge_20240418150337_kanava_roussos_krasi_nama_erythro_xiro_santorinis_375ml.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.88</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>Κάναβα Ρούσσος</Manufacturer>
+		<MPN>ΚΡ-57502</MPN>
+		<Description>Υπερώριμος τρυγητός, λιάσιμο 15 ημερών και ελεγχόμενη ζύμωση. Προέρχεται από λιαστά σταφύλια των εκλεκτών ποικιλιών της Σαντορίνης Μαντηλαριά, Αηδάνι, Ασύρτικο, Αθήρι και Μαυράθηρο. Μέσα του κλείνει μια γλυκιά υπέροχη γεύση (λιαστό), ένα πλούσιο άρωμα και ένα λαμπερό βαθυκόκκινο χρώμα. Προορίζεται κυρίως για το μυστήριο της θείας κοινωνίας αλλά μπορεί να σερβιριστεί και σαν ένας φινετσάτος επιδόρπιος οίνος.</Description>
+		<Barcode>5205373000021</Barcode>
+	</product>
+	<product>
 		<ID>581611</ID>
 		<Name>Τσιλιλής Αφρώδης Οίνος Bianconero Λευκό Ημίξηρο 200ml  Μοσχάτο Αμβούργου</Name>
 		<Product_Link>https://www.skroutz.gr/s/4719053/Tsililis-Krasi-Bianconero-Moschato-Amvourgou-Leyko-Imixiro-Afrodes-200ml.html</Product_Link>
@@ -5362,24 +5360,6 @@
 		<Quantity>35</Quantity>
 	</product>
 	<product>
-		<ID>58032</ID>
-		<Name>Σαμπάνια Moet &amp; Chandon Ice Imperial Ημίξηρη Λευκή 750ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/4711828/Moet-Chandon-Sampania-Ice-Imperial-Imixiri-Leyki-750ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/004711/4711828/20151201125909_moet_chandon_ice_imperial_leykos.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>59.78</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Σαμπάνιες</Category_Path>
-		<Manufacturer>MOET</Manufacturer>
-		<MPN>1164</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Η Moët Ice Impérial έχει δημιουργηθεί από τον Chef De Cave Benoît Gouez στη Γαλλία και είναι η πρώτη σαμπάνια που δημιουργήθηκε για να καταναλώνεται με πάγο. Έχει χρυσαφένιες αποχρώσεις και δυναμικά αρώματα στα οποία κυριαρχούν οι νότες από μάνγκο, γκουάβα, νεκταρινιού και ροδάκινου.</Description>
-		<Barcode>3185370457030</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>58104</ID>
 		<Name>Marco Bianco Leggenda Moscato D'Asti Λευκό Ημίγλυκο Ημιαφρώδες 750ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/7244152/Marco-Bianco-Leggenda-Moscato-D-Asti-Leyko-750ml.html</Product_Link>
@@ -5612,7 +5592,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.27543626058</Price>
+		<Price>1.3863437615</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5630,7 +5610,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.16303514444</Price>
+		<Price>2.351125157</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5648,7 +5628,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.067615959859999</Price>
+		<Price>4.421321695500001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5666,7 +5646,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.85366019783</Price>
+		<Price>13.97136978025</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5684,7 +5664,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.2501831838</Price>
+		<Price>1.358894765</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5702,7 +5682,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.11330840683</Price>
+		<Price>2.29707435525</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5720,7 +5700,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.07</Price>
+		<Price>4.4226772015</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5738,7 +5718,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.78</Price>
+		<Price>13.88936166725</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΑΠΟΣΤΟΛΑΚΗ</Manufacturer>
@@ -5756,7 +5736,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.32839746931723</Price>
+		<Price>1.44391029273612</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5774,7 +5754,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.152108144352622</Price>
+		<Price>2.33924798299198</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5792,7 +5772,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.522086497797347</Price>
+		<Price>4.915311410649291</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5810,7 +5790,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.30813265461723</Price>
+		<Price>1.421883320236119</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5828,7 +5808,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.131843329652622</Price>
+		<Price>2.31722101049198</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5846,7 +5826,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.444144902797347</Price>
+		<Price>4.83059228564929</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5864,7 +5844,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.651004628253917</Price>
+		<Price>6.142396335058605</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5875,23 +5855,6 @@
 		<Quantity>100</Quantity>
 	</product>
 	<product>
-		<ID>52271</ID>
-		<Name>Τσιλιλή Dark Cave Τσίπουρο χωρίς Γλυκάνισο 5 Ετών 41% 700ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/5352687/Tsililis-Tsipouro-choris-Glykaniso-Dark-Cave-5-Eton-41-700ml.html#reviews</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/005352/5352687/xlarge_20211026171114_tsililis_dark_cave_palaiomeno_700ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>47.97850763415001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
-		<MPN>1779</MPN>
-		<Description>Το παλαιωμένο τσίπουρο Dark Cave από την αποσταγματοποιία Τσιλιλή παράγεται από φρέσκα ζυμωμένα στέμφυλα σταφυλιών υψηλής ποιότητας της Θεσσαλίας.  Αποστάζεται σε μικρούς ασυνεχείς χάλκινους άμβυκες μέσω μιας αργής, υπομονετικής διαδικασίας για να διατηρηθούν και αναδειχθούν τα φρέσκα και γλυκά αρώματα.  Η διαδικασία της ωρίμανσης γίνεται σε προσεκτικά επιλεγμένα γαλλικά και αμερικανικά δρύινα βαρέλια, όπου προηγουμένως έχουν φιλοξενηθεί ερυθροί οίνοι καθώς και Vinsanto, για τουλάχιστον πέντε χρόνια.  Το αποτέλεσμα είναι ένα απόσταγμα με εύρος από μελωμένα ποικιλιακά αρώματα, όπως αποξηραμένα δαμάσκηνα, σταφίδες, φλούδες περγαμόντου, πικάντικα αρώματα όπως βανίλια, σοκολάτα και μοσχοκάρυδο, σε συνδυασμό με ένα ρωμαλέο αλλά μαλακό σώμα, απαλό τελείωμα και φινετσάτη αρωματική επίγευση.  Για να απολαύσετε το δυναμικό, πολύπλοκο χαρακτήρα του καταναλώστε το μόνο του.</Description>
-		<Barcode>5202548107233</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>52302</ID>
 		<Name>Α.Ο.Σ. Τυρνάβου Τσίπουρο με Γλυκάνισο 42% 100ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/20022697/Tyrnavou-Me-Glykaniso-Tsipouro-42-100ml.html</Product_Link>
@@ -5899,7 +5862,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.15</Price>
+		<Price>2.33512264958664</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5917,7 +5880,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.08</Price>
+		<Price>2.26581324211608</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΥΡΝΑΒΟΥ</Manufacturer>
@@ -5935,7 +5898,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.192461575220164</Price>
+		<Price>1.296153886108874</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5953,7 +5916,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.048911023491824</Price>
+		<Price>2.227077199447634</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5971,7 +5934,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.179990920020164</Price>
+		<Price>1.282598826108874</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -5989,7 +5952,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.008381394091824</Price>
+		<Price>2.183023254447634</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΘΕΣΣΑΛΙΚΟ</Manufacturer>
@@ -8874,23 +8837,6 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>55823</ID>
-		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Μάνγκο 1000ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/22751141/Monin-Poures-gia-Kokteil-me-Geysi-Mango-1000ml.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/022751/22751141/xlarge_20200410130340_monin_poures_mango_1000ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>17.7900428475</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Υλικά Κοκτέιλ</Category_Path>
-		<Manufacturer>MONIN</Manufacturer>
-		<MPN>1213002</MPN>
-		<Description>Ο πουρές της εταιρείας Monin, αντικαθιστά τα φρέσκα φρούτα και ενσωματώνει τη γεύση τους στα κοκτέιλ μας. Έχει παχύρρευστη υφή και δίνει μια βελούδινη αίσθηση στο κοκτέιλ. Το μάνγκο είναι ένα από τα πιό συνήθη φρούτα που βρίσκουμε στα τροπικά μέρη. Τα μάνγκο είναι εξίσου νόστιμα σκέτα ή σε φρουτοσαλάτες. Η πορτοκαλοκίτρινη σάρκα τους είναι γλυκιά, ζουμερή και ιδιαίτερα αρωματική. Το Monin Mango Purée αποδίδει τη μοναδική γεύση του φρούτου και είναι ιδανικό για πολλά ροφήματα.  Παρασκευάζεται από συμπυκνωμένο πολτό από μάνγκο και στη συνέχεια προστίθεται η ζάχαρη και το οξύ για να δημιουργήσουν ένα ισορροπημένο προφίλ οξύτητας και γλυκύτητας. Είναι ιδανικός για παρασκευή cocktail, smoothie, γρανίτας, topping, και προϊόντα ζαχαροπλαστικής και μαγειρικής. Δεν απαιτείται ψύξη. Φυλάσσεται σε θερμοκρασία δωματίου, μακριά από θερμότητα και άμεσο ηλιακό φως.    Σερβίρεται Σε ποτήρι tumbler με πάγο. Χρησιμοποιείται σε cocktails, mocktails, ροφήματα, καφές, ζαχαροπλαστική, μαγειρική.</Description>
-		<Barcode>3052910033149</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>55824</ID>
 		<Name>Monin Πουρές για Κοκτέιλ με Γεύση Φρούτα του Πάθους 1000ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22751112/Monin-Poures-gia-Kokteil-me-Geysi-Frouta-tou-Pathous-1000ml.html</Product_Link>
@@ -8915,7 +8861,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.197585374826389</Price>
+		<Price>1.205050336284722</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόκρεμες</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -8932,7 +8878,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.260725802826389</Price>
+		<Price>1.268584340284722</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόκρεμες</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -8949,7 +8895,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.197585374826389</Price>
+		<Price>1.205050336284722</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόκρεμες</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -8966,7 +8912,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.418576872826389</Price>
+		<Price>1.427419350284722</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόκρεμες</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -8983,7 +8929,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.95</Price>
+		<Price>0.9509143202847221</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόκρεμες</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -9000,7 +8946,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7212916948611111</Price>
+		<Price>0.7257877540277777</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόβουρτσες Απλές</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -9017,7 +8963,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7844321228611111</Price>
+		<Price>0.7893217580277776</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόβουρτσες Απλές</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -9034,7 +8980,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7212916948611111</Price>
+		<Price>0.7257877540277777</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντόβουρτσες Απλές</Category_Path>
 		<Manufacturer>COLGATE</Manufacturer>
@@ -9069,7 +9015,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.13</Price>
+		<Price>1.14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Προϊόντα Στοματικής Υγιεινής &gt; Οδοντικά Νήματα</Category_Path>
 		<Manufacturer>Viosarp</Manufacturer>
@@ -9086,7 +9032,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.151192263280864</Price>
+		<Price>1.158368040521605</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -9103,7 +9049,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.151192263280864</Price>
+		<Price>1.158368040521605</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -9120,7 +9066,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.516354546430041</Price>
+		<Price>1.525806505751029</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -9137,7 +9083,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.23301436162037</Price>
+		<Price>2.246933508009259</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -9154,7 +9100,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.23301436162037</Price>
+		<Price>2.246933508009259</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -9171,7 +9117,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.23301436162037</Price>
+		<Price>2.246933508009259</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>EVERYDAY</Manufacturer>
@@ -9188,7 +9134,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.5391165634</Price>
+		<Price>1.5487104062</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>ALWAYS</Manufacturer>
@@ -9205,7 +9151,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.539752034696297</Price>
+		<Price>1.549349838607408</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>ALWAYS</Manufacturer>
@@ -9222,7 +9168,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.5411754904</Price>
+		<Price>1.5507821672</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Σερβιέτες</Category_Path>
 		<Manufacturer>ALWAYS</Manufacturer>
@@ -9239,7 +9185,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.462411329238096</Price>
+		<Price>2.477760385809524</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Προσωπικής Υγιεινής &gt; Ταμπόν</Category_Path>
 		<Manufacturer>O.B.</Manufacturer>
@@ -9447,7 +9393,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.711380939434524</Price>
+		<Price>1.722048565327381</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -9464,7 +9410,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.030259301145833</Price>
+		<Price>2.042914605520833</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -9481,7 +9427,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.5390001455</Price>
+		<Price>2.5548266065</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -9498,7 +9444,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.045919810380953</Price>
+		<Price>2.058672732095238</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -9515,7 +9461,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.270649612083288</Price>
+		<Price>9.328436759039676</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -9532,7 +9478,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.943149218</Price>
+		<Price>12.017594974</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -9549,7 +9495,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.89909110778278</Price>
+		<Price>22.03559567315944</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>GILLETTE</Manufacturer>
@@ -9566,7 +9512,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9</Price>
+		<Price>0.9036330895000002</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>BIC</Manufacturer>
@@ -9583,7 +9529,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.24</Price>
+		<Price>1.242925059619048</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
 		<Manufacturer>BIC</Manufacturer>
@@ -9591,23 +9537,6 @@
 		<Description>Ξυραφάκια υψηλής ποιότητας από ανοξείδωτο ατσάλι μονής λεπίδας με επικάλυψη πολυμερούς και χρωμίου. Στενή και σταθερή κεφαλή που φτάνει με ακρίβεια στις ευαίσθητες περιοχές τις επιδερμίδας. Περιέχει προστατευτική μπάρα από ανοξείδωτο ατσάλι και μαύρη πολυεστερική λαβή, μεγαλύτερη για καλύτερο έλεγχο στο ξύρισμα.</Description>
 		<Barcode>3086125705416</Barcode>
 		<Quantity>504</Quantity>
-	</product>
-	<product>
-		<ID>62061</ID>
-		<Name>Bic Twin Lady Ξυραφάκια Σώματος μιας Χρήσης με 2 Λεπίδες &amp; Λιπαντική Ταινία για Ευαίσθητες Επιδερμίδες 6τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/16876067/Bic-Twin-Lady-Xyrafakia-Somatos-mias-CHrisis-me-2-Lepides-Lipantiki-Tainia-gia-Eyaisthites-Epidermides-6tmch.html</Product_Link>
-		<Image_Link>https://www.cosmeticconnection.co.za/cdn/shop/products/bic-bic-lady-disposable-razor-2-blades-6-s-33327313453206.jpg?v=1655459741</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.567861472016666</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Ξύρισμα &amp; Αποτρίχωση &gt; Ξυραφάκια</Category_Path>
-		<Manufacturer>BIC</Manufacturer>
-		<MPN>0135</MPN>
-		<Description>Ξυριστική μηχανή Bic Twin Lady είναι ένα αποκλειστικό προϊόν ποιότητας για την περιποίηση του σώματος. Άριστης ποιότητας ανοξείδωτο ατσάλι 2 λεπίδων για βαθύ ξύρισμα. Φτάνει πιο εύκολα στα ευαίσθητα σημεία του σώματος. Ελαφριά και μικρή σε μήκος πολυεστερική λαβή. Καλύτερο κράτημα και έλεγχος στο ξύρισμα.</Description>
-		<Barcode>3086123493056</Barcode>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>62101</ID>
@@ -11461,7 +11390,7 @@
 		<MPN>1253</MPN>
 		<Description>Το αφρόλουτρο της Dove με κρεμώδη υφή, προσφέρει θρέψη ενώ παράλληλα περιέχει καθαριστικούς παράγοντες που φροντίζουν το δέρμα.Οδηγίες Χρήσης:• Εφαρμόστε μικρή ποσότητα σε βρεγμένο δέρμα• Ξεπλύνετε καλά• Αποφύγετε την επαφή με τα μάτια• Μόνο για εξωτερική χρήση</Description>
 		<Barcode>8720181047084</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>193</Quantity>
 	</product>
 	<product>
 		<ID>67021</ID>
@@ -11478,7 +11407,7 @@
 		<MPN>1254</MPN>
 		<Description>Αφροντούς, με έντονα αρώματα από μόσχο και κεχριμπάρι να δένουν αρμονικά, χαϊδεύει το δέρμα αφήνοντας μια μεθυστική αίσθηση που διαρκεί.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>8008970011158</Barcode>
-		<Quantity>0</Quantity>
+		<Quantity>99</Quantity>
 	</product>
 	<product>
 		<ID>67022</ID>
@@ -13088,7 +13017,7 @@
 		<MPN>101105086</MPN>
 		<Description>Περιγραφή   Το Skip Active Clean αντιμετωπίζει τους δύσκολους λεκέδες ακόμη και σε χαμηλές θερμοκρασίες χάρη στα ένζυμα και στη δράση των οπτικών λαπριντικών που υπάρχουν στη σύνθεση του προϊόντος τα υφάσματα είναι πιο καθαρά και φωτεινά. Είναι ιδανικό για την απομάκρυνση ενζυμικών και σωματιδιακών λεκέδων. Πλεονεκτήματα       Αφαιρεί σκληρούς λεκέδες ακόμη και σε χαμηλές θερμοκρασίες και σύντομο κύκλο πλύσης     Βιολογική δράση: περιέχει ένζυμα που είναι ιδιαίτερα αποτελεσματικά συστατικά στην αφαίρεση λεκέδων  Οδηγίες χρήσης       Μην υπερφορτώνετε το πλυντήριο ρούχων σας.     Ελέγχετε πάντα την ετικέτα φροντίδας του υφάσματος και ακολουθήστε τις οδηγίες πλύσης.     Ξεχωρίστε τον ιματισμό σας σε λευκό, ανοιχτόχρωμο και έγχρωμο.     Για μάλλινα και μεταξωτά ρούχα που πλένονται στο πλυντήριο, συνιστούμε να χρησιμοποιείτε ένα ειδικό προϊόν.     Ελέγχετε πάντα τη σταθερότητα του χρώματος πριν από την προεπεξεργασία των λεκέδων με καθαρό υγρό.     Μην το χρησιμοποιείτε σε μετάξι και μαλλί.     Ακολουθήστε τις συστάσεις δοσολογίας που αναγράφονται στη συσκευασία.</Description>
 		<Barcode>7615400818112</Barcode>
-		<Quantity>103</Quantity>
+		<Quantity>102</Quantity>
 	</product>
 	<product>
 		<ID>712321</ID>
@@ -14240,7 +14169,7 @@
 	<product>
 		<ID>740160103</ID>
 		<Name>Viosarp Φαράσι Πλαστικό με Λάστιχο Κουμπωτό σε Διάφορα Χρώματα Νο153</Name>
-		<Product_Link>https://www.skroutz.gr/s/26807887/Viosarp-Farasi-Plastiko-me-Lasticho-Portokali.html</Product_Link>
+		<Product_Link>https://www.viosarp.gr/el/product/farasi-plastiko-me-lastiho-no153-viosarp-0</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/076872/76872747/xlarge_20230605122034_94ed3dd0.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
@@ -15424,7 +15353,7 @@
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<Barcode>4012425171216</Barcode>
-		<Quantity>4177</Quantity>
+		<Quantity>4175</Quantity>
 	</product>
 	<product>
 		<ID>751311</ID>
@@ -16872,7 +16801,7 @@
 	<product>
 		<ID>762100112</ID>
 		<Name>Sidirela Φόρμα Μαγειρέματος Σιλικόνης για Air Fryer Καφέ 22.5x22.5x5.5cm  Ε-4510</Name>
-		<Product_Link>https://www.skroutz.gr/s/55841977/Sidirela-Forma-Mageirematos-gia-Air-Fryer-Mpez-22-5x22-5x5-5ek-E-4510.html</Product_Link>
+		<Product_Link>https://www.sidirela.gr/eidi-kouzinas/organosi-axesoyar-koyzinas/forma-silikonis-air-fryer-tetragoni/?attribute_pa_kivotologio=48tmch-kiv-2</Product_Link>
 		<Image_Link>https://www.sidirela.gr/uploads/2024/05/e-4510-99-41-forma-antikollitiki-air-fryer-tetragoni-web.jpg</Image_Link>
 		<Additional>https://www.sidirela.gr/uploads/2024/05/e-4510-99-forma-antikollitiki-air-fryer-tetragoni-web.jpg https://www.sidirela.gr/uploads/2024/05/e-4510-99-41-forma-antikollitiki-air-fryer-tetragoni-web.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -25264,7 +25193,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.69</Price>
+		<Price>18.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -25535,7 +25464,7 @@
 	<product>
 		<ID>799200111</ID>
 		<Name>Sidirela Θερμάστρα χαλαζία 2200W με 4 Λάμπες και αυτόματη απενεργοποίηση σε περίπτωση μη ορθής θέσης για 20m² έως 30m² Μαύρη E-3907</Name>
-		<Product_Link>https://www.skroutz.gr/s/39636860/Sidirela-E-3907-Sompa-CHalazia-me-THermostati-2400W.html</Product_Link>
+		<Product_Link>https://www.sidirela.gr/eidi-kouzinas/ilektrikes-syskeyes/thermastra-lava-2200w/?attribute_pa_kivotologio=4tmch-kiv</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_images/113523/113523991/xlarge_20250701112346_636dcbdf.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
