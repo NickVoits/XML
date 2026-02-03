@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-03 11:23</created_at>
+	<created_at>2026-02-03 11:24</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -29104,24 +29104,6 @@
 		<Description>Τα χταποδάκια MIDI σε πικάντικη σάλτσα, σε συσκευασία των 185 γραμμαρίων, προσφέρουν μια νόστιμη και γευστική εμπειρία. Είναι τεμαχισμένα, βρασμένα και τυλιγμένα σε μια πικάντικη σάλτσα που προσδίδει πλούσια γεύση και αρωματικότητα. Είναι ιδανικά για σερβίρισμα ως ορεκτικό ή συνοδευτικό πιάτο σε μεσογειακά γεύματα. Το συγκεκριμένο προϊόν προσφέρει ευκολία στη χρήση και μπορεί να απολαυστεί ως γευστική επιλογή για διάφορες περιστάσεις.</Description>
 		<Barcode>3859888140219</Barcode>
 		<Quantity>399</Quantity>
-	</product>
-	<product>
-		<ID>85262</ID>
-		<Name>Margaret Φασόλια Γίγαντες σε Σάλτσα 280gr</Name>
-		<Product_Link>https://www.katerinasmarket.gr/index.php?route=product/product&amp;product_id=173</Product_Link>
-		<Image_Link>https://www.katerinasmarket.gr/image/cache/catalog/prod/catalog/fasolia-gigantes-se-salata-margaret-280gr-1280x1280h.png</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>2.1162710625</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
-		<Manufacturer>MARGARET</Manufacturer>
-		<MPN>0438</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Μια γευστική εμπειρία με πλούσια αρώματα και γεύσεις. Τα φασόλια γίγαντες είναι επιλεγμένα και τυλιγμένα σε μια εύκολα απολαυστική σάλτσα, προσφέροντας μια νόστιμη και θρεπτική επιλογή. Μπορούν να χρησιμοποιηθούν ως συνοδευτικό πιάτο σε μεσογειακές διατροφικές επιλογές ή να προστεθούν σε σούπες και σαλάτες για περισσότερη γεύση και θρεπτική αξία.</Description>
-		<Barcode>5201051093378</Barcode>
-		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>85271</ID>
