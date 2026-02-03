@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-03 10:23</created_at>
+	<created_at>2026-02-03 11:23</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -248,7 +248,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>322</Quantity>
+		<Quantity>315</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -266,7 +266,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>318</Quantity>
+		<Quantity>306</Quantity>
 	</product>
 	<product>
 		<ID>11012</ID>
@@ -284,7 +284,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275001708</Barcode>
-		<Quantity>84</Quantity>
+		<Quantity>72</Quantity>
 	</product>
 	<product>
 		<ID>11031</ID>
@@ -553,7 +553,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000000439</Barcode>
-		<Quantity>3180</Quantity>
+		<Quantity>3162</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -640,7 +640,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000283900</Barcode>
-		<Quantity>989</Quantity>
+		<Quantity>988</Quantity>
 	</product>
 	<product>
 		<ID>120218</ID>
@@ -658,7 +658,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
 		<Barcode>5449000283870</Barcode>
-		<Quantity>211</Quantity>
+		<Quantity>210</Quantity>
 	</product>
 	<product>
 		<ID>1202186</ID>
@@ -748,7 +748,7 @@
 		<Weight>0.4 kg</Weight>
 		<Description>Η Fanta Πορτοκαλάδα περιέχει 20% χυμό πορτοκαλιού, αρώματα φυσικού πορτοκαλιού και ανθρακικό.</Description>
 		<Barcode>5449000018281</Barcode>
-		<Quantity>38</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>12025</ID>
@@ -1108,7 +1108,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Με διακριτικές νότες φρέσκου λεμονιού στο άρωμα και τη γεύση της, φυσικό μεταλλικό νερό και προσθήκη φυσικού διοξειδίου πηγής, η Βίκος Γκαζόζα ξυπνά τις αισθήσεις. Γεύσου τη διαφορά, με την αποκλειστική συνταγή μας που δίνει μια νέα διάσταση στην κλασική γεύση της γκαζόζας.</Description>
 		<Barcode>5201946910315</Barcode>
-		<Quantity>266</Quantity>
+		<Quantity>263</Quantity>
 	</product>
 	<product>
 		<ID>13033</ID>
@@ -1144,7 +1144,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η Βίκος Πορτοκαλάδα είναι ένας συνδυασμός καθαρού, φυσικού μεταλλικού νερού, φυσικού χυμού εκλεκτών πορτοκαλιών, με αρωματική φρουτώδη γεύση, και προσθήκη διοξειδίου πηγής. Απόλαυσε την ισορροπημένη σύνθεση της από φυσική γλυκύτητα και διακριτική οξύτητα που ξεχωρίζει.</Description>
 		<Barcode>5201946910247</Barcode>
-		<Quantity>777</Quantity>
+		<Quantity>774</Quantity>
 	</product>
 	<product>
 		<ID>130341</ID>
@@ -1198,7 +1198,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Βυθίσου στην φρεσκάδα του φυσικού χυμού από λεμόνια και του φυσικού μεταλλικού νερού που μόνο η Βίκος Λεμονάδα μπορεί να προσφέρει. Κάθε γουλιά της σε ταξιδεύει στην εξοχή, με το πλούσιο άρωμα των φρεσκοστυμμένων λεμονιών και την έντονη γλυκόξινη γεύση που θυμίζει πάντα καλοκαίρι.</Description>
 		<Barcode>5201946910292</Barcode>
-		<Quantity>523</Quantity>
+		<Quantity>520</Quantity>
 	</product>
 	<product>
 		<ID>130359</ID>
@@ -1791,7 +1791,7 @@
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
 		<Barcode>5202908000167</Barcode>
-		<Quantity>396</Quantity>
+		<Quantity>384</Quantity>
 	</product>
 	<product>
 		<ID>17080</ID>
@@ -1920,60 +1920,6 @@
 		<Quantity>92</Quantity>
 	</product>
 	<product>
-		<ID>18101</ID>
-		<Name>Life Earl Grey Ice Tea Λεμόνι Χωρίς Ανθρακικό Χωρίς Ζάχαρη 500ml</Name>
-		<Product_Link>https://www.e-fresh.gr/el/ice-tea-lemoni-life-tsai-500-ml</Product_Link>
-		<Image_Link>https://www.market-in.gr/Images/Products/89046754_1.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.3</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>LIFE</Manufacturer>
-		<MPN>0236</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Ένα δροσιστικό και αρωματικό ρόφημα που συνδυάζει το φρέσκο άρωμα του τσαγιού με τη φρεσκάδα του λεμονιού. Ιδανικό για να αναζωογονήσει τις αισθήσεις σας και να σας προσφέρει ένα ευχάριστο δροσιστικό ποτό σε κάθε περίσταση. Χωρίς προσθήκη ζάχαρης.</Description>
-		<Barcode>5201037404945</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>18102</ID>
-		<Name>Life Ceylon Μπουκάλι Ice Tea Ροδάκινο Χωρίς Ανθρακικό Χωρίς Ζάχαρη 500ml</Name>
-		<Product_Link>https://www.mymarket.gr/life-tsai-rodakino-0-500m</Product_Link>
-		<Image_Link>https://cdn.mymarket.gr/images/styles/original/21_06_21/9857c9cd-2956-4d5a-9679-28f05478ac27_E1.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.3</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>LIFE</Manufacturer>
-		<MPN>0829</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Ένα δροσιστικό και γευστικό ρόφημα που συνδυάζει τη φρεσκάδα του τσαγιού με το γλυκό άρωμα του ροδακινιού. Με φυσική γεύση και αναζωογονητική παρουσία, αποτελεί ιδανική επιλογή για μια δροσιστική απόλαυση σε κάθε στιγμή της ημέρας. Χωρίς προσθήκη ζάχαρης.</Description>
-		<Barcode>5201037404938</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>18103</ID>
-		<Name>Life Μπουκάλι Ice Tea Matcha με Πράσινο Μήλο &amp; Δυόσμος Χωρίς Ανθρακικό Χωρίς Ζάχαρη 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/43961066/Life-Tsai-Matcha-Dyosmos-0-500ml.html?product_id=163156596</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/043961/43961066/20230710155401_life_tsai_matcha_dyosmos_0_500ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.3</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>LIFE</Manufacturer>
-		<MPN>0809</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Ένα εκλεπτυσμένο ρόφημα με την προσθήκη matcha, μιας ιδιαίτερα δημοφιλούς μορφής πράσινου τσαγιού που προέρχεται από την Ιαπωνία. Το matcha περιέχει υψηλή περιεκτικότητα σε αντιοξειδωτικά και άλλες ευεργετικές ενώσεις. Η ισορροπημένη γεύση του συνδυάζεται με τη φυσική γλυκύτητα του τσαγιού, προσφέροντας μια εναλλακτική και υγιεινή επιλογή που ενισχύει την ενέργεια και την ευεξία. Χωρίς προσθήκη ζάχαρης.</Description>
-		<Barcode>5201037405010</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>18301</ID>
 		<Name>Yamas Ice Tea με Λεμόνι και Μέλι 355ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/54166622/Yamas-Ice-Tea-Lemoni-CHoris-Anthrakiko-Mpoukali-355ml.html</Product_Link>
@@ -2024,7 +1970,7 @@
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
 		<Barcode>5201946010022</Barcode>
-		<Quantity>925</Quantity>
+		<Quantity>904</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2041,7 +1987,7 @@
 		<MPN>130501</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό «Βίκος» εμφιαλώνεται κατευθείαν στην ομώνυμη πηγή, στα παρθένα και προστατευόμενα Ζαγοροχώρια. Έχει αναγνωρισθεί σαν φυσικό μεταλλικό νερό κατάλληλο για δίαιτα πτωχή σε νάτριο, με χαμηλή περιεκτικότητα σε άλατα.  Χάρη στην ισορροπημένη σύστασή του (με χαμηλή περιεκτικότητα σε άλατα και υψηλή σε ασβέστιο) θεωρείται ότι συμβάλει στην καλή λειτουργία του οργανισμού, ενώ είναι κατάλληλο σε όσους ακολουθούν δίαιτα πτωχή σε νάτριο. Οδηγίες Φύλαξης  Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
 		<Barcode>5201946011128</Barcode>
-		<Quantity>1271</Quantity>
+		<Quantity>1255</Quantity>
 	</product>
 	<product>
 		<ID>20203</ID>
@@ -2075,7 +2021,7 @@
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
 		<Barcode>5200040345108</Barcode>
-		<Quantity>1226</Quantity>
+		<Quantity>1225</Quantity>
 	</product>
 	<product>
 		<ID>20403</ID>
@@ -2109,7 +2055,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<Barcode>5201005080024</Barcode>
-		<Quantity>4411</Quantity>
+		<Quantity>4406</Quantity>
 	</product>
 	<product>
 		<ID>20601</ID>
@@ -2177,7 +2123,7 @@
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία.</Description>
 		<Barcode>5200116720020</Barcode>
-		<Quantity>3193</Quantity>
+		<Quantity>3192</Quantity>
 	</product>
 	<product>
 		<ID>21501011</ID>
@@ -2751,7 +2697,7 @@
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Λευκός προσφέρει ένα δροσιστικό και φρουτώδες λευκό κρασί, με αρώματα λουλουδιών και φρούτων. Με την φρέσκια και ελαφριά του γεύση, αποτελεί την ιδανική επιλογή για να απολαύσετε απολαυστικές στιγμές με φίλους και οικογένεια.</Description>
 		<Barcode>5201214100189</Barcode>
-		<Quantity>569</Quantity>
+		<Quantity>567</Quantity>
 	</product>
 	<product>
 		<ID>40422</ID>
@@ -5293,22 +5239,6 @@
 		<Quantity>4</Quantity>
 	</product>
 	<product>
-		<ID>499001121</ID>
-		<Name>Keskor Ξύλινο Σταντ Πάγκου-Δαπέδου Προβολής Εμφιαλωμένων Κρασιών 14 Θέσεων 42Χ22Χ85cm Χάρτης/Κερασί 40704</Name>
-		<Product_Link>https://www.skroutz.gr/s/46248014/Keskor-Epidapedia-Mpoukalothiki-Xylini-Kafe-42x22x85ek-40704.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/046248/46248014/fixedratio_20230920140707_keskor_epidapedia_mpoukalothiki_xylini_kafe_42x22x85ek_40704.jpeg</Image_Link>
-		<Additional>https://c.scdn.gr/images/sku_images/082662/82662452/fixedratio_20230920140710_3af67db0.jpeg</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>58.20869999999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Ποτών &gt; Κάβες Ποτών</Category_Path>
-		<Manufacturer>Keskor</Manufacturer>
-		<MPN>40704</MPN>
-		<Description>Η μπουκαλοθήκη της Keskor είναι μια εξαιρετική επιλογή για κάθε χώρο. Είναι κατασκευασμένη από ξύλο, προσδίδοντας μια φυσική και ζεστή αίσθηση στο περιβάλλον σας. Με επιδαπέδια τοποθέτηση, είναι ιδανική για να την τοποθετήσετε σε οποιοδήποτε δωμάτιο της επιλογής σας.  Αυτή η μπουκαλοθήκη διαθέτει ένα έπιπλο, προσφέροντας αρκετό χώρο για τα αγαπημένα σας ποτά και κρασιά, ενώ το καφέ χρώμα της ταιριάζει τέλεια με πολλές διακοσμητικές κατηγορίες.      Υλικό: Ξύλινη     Τοποθέτηση: Επιδαπέδια     Έπιπλο: 1     Χρώμα: Καφέ</Description>
-	</product>
-	<product>
 		<ID>499001122</ID>
 		<Name>Keskor Ξύλινο Σταντ Πάγκου-Δαπέδου Προβολής Εμφιαλωμένων Κρασιών 14 Θέσεων 42Χ22Χ85cm Καφέ/Κερασί 40703</Name>
 		<Product_Link>https://www.skroutz.gr/s/46248015/Keskor-Epidapedia-Mpoukalothiki-Xylini-Kafe-42x22x85ek-40703.html#description</Product_Link>
@@ -7267,41 +7197,6 @@
 		<Quantity>28</Quantity>
 	</product>
 	<product>
-		<ID>553051</ID>
-		<Name>Bombay Sapphire Sunset Τζιν 43% 700ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/32247182/Bombay-Sapphire-Distillery-Sapphire-Sunset-Tzin-43-700ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/032247/32247182/20211109165632_bombay_sapphire_distillery_sapphire_sunset_tzin_43_700ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>25.9867994360436</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>BOMBAY</Manufacturer>
-		<MPN>1516</MPN>
-		<Description>Αυτή η ειδική έκδοση τζιν από το Bombay Sapphire είναι εμπνευσμένη από την ήπια ζέστη και την πορτοκαλί λάμψη του ήλιου όταν δύει, καθώς η μέρα γίνεται νύχτα. Ένα αρωματικό τζιν, με πικάντικες σημειώσεις και νότες εσπεριδοειδών – μια μοναδική έκφραση της κλασικής συνταγής Bombay Sapphire που δημιουργήθηκε στο αποστακτήριο Laverstoke Mill.</Description>
-		<Barcode>7640175743284</Barcode>
-		<Quantity>3</Quantity>
-	</product>
-	<product>
-		<ID>553052</ID>
-		<Name>Bombay Sapphire Lemon London Dry Gin 47% 700ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/44484720/Bombay-Sapphire-Distillery-Tzin-Lemon-47-700ml.html</Product_Link>
-		<Image_Link>https://www.oakcava.gr/wp-content/uploads/2023/05/BOMBAY-PREMIER-CRU.png</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>36.70903814256801</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>BOMBAY</Manufacturer>
-		<MPN>1176</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Χειροποίητο τζιν μικρής παραγωγής, φόρος τιμής στα παγκοσμίου φήμης εσπεριδοειδή της Μούρθια, είναι αρωματισμένο με λεμόνια Murcian Fino βιώσιμης καλλιέργειας, μανταρίνια και γλυκά πορτοκάλια, που διαλέγονται όψιμα, αποφλοιώνονται με το χέρι και στη συνέχεια αφήνονται να στεγνώσουν φυσικά κάτω από τον ήλιο της Μεσογείου για να προσφέρουν τα πιο ποιοτικά αρωματικά έλαιά τους.</Description>
-		<Barcode>7640175743642</Barcode>
-		<Quantity>2</Quantity>
-	</product>
-	<product>
 		<ID>55307</ID>
 		<Name>Finsbury London Dry Gin 37.5% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5460809/Finsbury-London-Dry-Gin-37-5-700ml.html</Product_Link>
@@ -8095,22 +7990,6 @@
 		<Quantity>35</Quantity>
 	</product>
 	<product>
-		<ID>557022</ID>
-		<Name>Metaxa 5* Brandy 38% 200ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/5296793/Metaxa-5-Brandy-38-200ml.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/005296/5296793/xlarge_20200413112751_metaxa_5_200ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>5.77396757784</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>Metaxa</Manufacturer>
-		<MPN>55700-022</MPN>
-		<Description>Το Μetaxa 5*, δημιουργείται από αποστάγματα παλαιότερα των 5 ετών, και έχει βραβευθεί με πολλά μετάλλια και διακρίσεις διεθνώς. Χρώμα βαθύ μελί, άρωμα ελαφρώς καπνισμένο και ισορροπημένο με νότες μελιού, φρούτων, ελαφριάς δρυός, ανθέων τριαντάφυλλου με γεύση βελούδινη, απαλή και φρουτώδης, με μια ελαφριά επίγευση ξύλου.</Description>
-		<Barcode>5202795120016</Barcode>
-	</product>
-	<product>
 		<ID>55703</ID>
 		<Name>Metaxa 7* Brandy 7 Ετών 40% 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/5305681/Metaxa-7-Brandy-7-Eton-40-700ml.html</Product_Link>
@@ -8731,24 +8610,6 @@
 		<Quantity>16</Quantity>
 	</product>
 	<product>
-		<ID>55571</ID>
-		<Name>Volare Vanilla Λικέρ 20% 700ml</Name>
-		<Product_Link>https://drinkstore.ie/products/volare-vanilla-700ml</Product_Link>
-		<Image_Link>https://drinkstore.ie/cdn/shop/products/volare_vanilla_bottiglia_1024x.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>9.1</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
-		<Manufacturer>VOLARE</Manufacturer>
-		<MPN>1205</MPN>
-		<Weight>0.8 kg</Weight>
-		<Description>Το Volare Βανίλια Λικέρ 700ml είναι ένα λικέρ με πλούσια και κρεμώδη γεύση βανίλιας, ιδανικό για να προσθέσει γλυκιά και αρωματική νότα σε κοκτέιλ ή να καταναλωθεί σκέτο με πάγο. Χάρη στην ισορροπημένη γεύση του, αποτελεί εξαιρετική επιλογή για δημιουργικές μίξεις ποτών και επιδόρπιων.</Description>
-		<Barcode>8004747007621</Barcode>
-		<Quantity>2</Quantity>
-	</product>
-	<product>
 		<ID>55902</ID>
 		<Name>Marie Brizard Σιρόπι για Κοκτέιλ με Γεύση Γρεναδίνη 700ml</Name>
 		<Product_Link>https://www.skroutz.gr/s/22757115/Marie-Brizard-Siropi-gia-Kokteil-me-Geysi-Grenadini-700ml.html</Product_Link>
@@ -9157,7 +9018,7 @@
 		<MPN>1040</MPN>
 		<Description>Σερβιέτες με φτερά που προσφέρουν προστασία από τις διαρροές, εφαρμόζουν στο σώμα και εξουδετερώνουν τις οσμές.</Description>
 		<Barcode>4015400759119</Barcode>
-		<Quantity>501</Quantity>
+		<Quantity>489</Quantity>
 	</product>
 	<product>
 		<ID>61053</ID>
@@ -9174,7 +9035,7 @@
 		<MPN>1041</MPN>
 		<Description>Σερβιέτες με μακρύ μήκος, φτερά και σύστημα προστασίας Flex &amp; Fit που προσφέρει απαλότητα, ευελιξία και έως 100% προστασία από διαρροές. Μέγεθος 3 κατάλληλο για τις ημέρες με ελαφριά, μέτρια και έντονη ροή και για εσώρουχα M, L, XL+.</Description>
 		<Barcode>4015400759140</Barcode>
-		<Quantity>1114</Quantity>
+		<Quantity>1102</Quantity>
 	</product>
 	<product>
 		<ID>61061</ID>
@@ -9329,24 +9190,6 @@
 		<Description>Περιγραφή Πάνες ειδικά σχεδιασμένες για την επιδερμίδα του μωρού σας, με μεταξένια απαλότητα και 3 κανάλια, που απορροφούν την υγρασία γρήγορα, αφήνοντας την επιδερμίδα στεγνή. Η πάνα διαθέτει δείκτη υγρασίας που αλλάζει χρώμα και σας λέει πότε χρειάζεται αλλαγή το μωρό σας. Τα Pampers συνιστώνται από την Ελληνική Εταιρεία Παιδιατρικής Δερματολογίας.  Απαλό Απορροφητικό Στρώμα με Καρδούλες Χαρίζει ακόμα πιο απαλή αίσθηση στο δερματάκι του μωρού, απομακρύνοντας την υγρασία.   Απαλά σαν Πούπουλο Με απαλά σαν πούπουλο υλικά, που αγκαλιάζουν ανάλαφρα τη βρεφική επιδερμίδα.   Σχήμα που δεν Πιέζει τον Αφαλό Προστατεύει την ευαίσθητη κοιλίτσα του μωρού σας, χάρη στο περίγραμμα που εφαρμόζει τέλεια.   Με Απαλές και Ελαστικές Επιφάνειες Απαλές και ελαστικές περιμετρικά, για απόλυτη άνεση.   Κανάλια που Επιτρέπουν την Κυκλοφορία του Αέρα Αξεπέραστη στεγνότητα με υλικά που αναπνέουν, και προστασία έως και 12 ώρες.   Δείκτης Υγρασίας Σας ειδοποιεί για πιθανή ανάγκη αλλαγής της πάνας.</Description>
 		<Barcode>4015400465447</Barcode>
 		<Quantity>146</Quantity>
-	</product>
-	<product>
-		<ID>61114</ID>
-		<Name>PUFIES Trends Value τμχ  No4 Maxi (7-14kg) 52pcs</Name>
-		<Product_Link>https://kidsbox.gr/ednoraktni-peleni-pufies-trusted-trends-maxi-4-banana-leaves-baby-value-pack-52-broya-8908.html</Product_Link>
-		<Image_Link>https://kidsbox.gr/10225-product_default_new/ednoraktni-peleni-pufies-trusted-trends-maxi-4-banana-leaves-baby-value-pack-52-broya-8908.jpg?15525105</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>7.350766459883438</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Φροντίδα &amp; Υγιεινή Μωρού &gt; Πάνες</Category_Path>
-		<Manufacturer>PUFIES TRENDS</Manufacturer>
-		<MPN>0710</MPN>
-		<Weight>1.6 kg</Weight>
-		<Description>Πάνες Pufies Trusted Trends Maxi 4, Banana leaves baby Value Pack 52 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
-		<Barcode>3800024027857</Barcode>
-		<Quantity>247</Quantity>
 	</product>
 	<product>
 		<ID>61114+</ID>
@@ -10317,7 +10160,7 @@
 		<MPN>61801</MPN>
 		<Description>Το Υγρό Κρεμοσάπουνο Irresistible Fig από την Teo χαρίζει στην επιδερμίδα απαλή φροντίδα, χάρη στο πρόσθετο θρεπτικό έλαιο γλυκού αμυγδάλου . Της παρέχει την απαραίτητη ενυδάτωση και της χαρίζει βελούδινη απαλότητα. Το άρωμα των σύκων με ζεστές ξυλώδεις νότες χαϊδεύει τις αισθήσεις και δημιουργεί μια αίσθηση άνεσης.</Description>
 		<Barcode>3800024013096</Barcode>
-		<Quantity>200</Quantity>
+		<Quantity>196</Quantity>
 	</product>
 	<product>
 		<ID>65051</ID>
@@ -10454,23 +10297,6 @@
 		<Description>Σαπούνι  το οποίο χάρη στη βιοδιασπώμενη σύνθεσή του φροντίζει απαλά όλη την οικογένεια. Είναι δερματολογικά ελεγμένο για να νιώθετε ασφάλεια. Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
 		<Barcode>5201109601623</Barcode>
 		<Quantity>516</Quantity>
-	</product>
-	<product>
-		<ID>65512</ID>
-		<Name>Papoutsanis Pure Olive Πράσινο Σαπούνι 125gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/4309344/Papoutsanis-Pure-Olive-Prasino-Sapouni-125gr.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_images/098071/98071283/20240613161524_a4c920f2.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
-		<Price>0.5460649625</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Περιποίηση Σώματος &gt; Προϊόντα Καθαρισμού Σώματος</Category_Path>
-		<Manufacturer>PAPOUTSANIS</Manufacturer>
-		<MPN>1014</MPN>
-		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης.</Description>
-		<Barcode>5201109655022</Barcode>
-		<Quantity>571</Quantity>
 	</product>
 	<product>
 		<ID>655120101</ID>
@@ -12044,7 +11870,7 @@
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
 		<Barcode>5200100281629</Barcode>
-		<Quantity>11459</Quantity>
+		<Quantity>11450</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -15149,7 +14975,7 @@
 		<MPN>1123</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Μήκος: 6cm•Mε παιδική ασφάλεια•Χώρα παραγωγής: Γαλλία</Description>
 		<Barcode>70330600072</Barcode>
-		<Quantity>1102</Quantity>
+		<Quantity>1052</Quantity>
 	</product>
 	<product>
 		<ID>75102</ID>
@@ -16979,23 +16805,6 @@
 		<Quantity>22</Quantity>
 	</product>
 	<product>
-		<ID>762311</ID>
-		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Μακρόστενο Βεραμάν Κατάλληλο για Φούρνο Μικροκυμάτων 1200ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/40129399/Cyclops-Fresco-Docheio-Fagitou-Plastiko-Veraman-Katallilo-gia-Fourno-Mikrokymaton-1200ml-8300993780017.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/040129/40129399/fixedratio_20221223144006_cyclops_fresco_docheio_fagitou_plastiko_veraman_katallilo_gia_fourno_mikrokymaton_1200ml_8300993780017.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>1.0641846656</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Οργάνωση &amp; Αποθήκευση Κουζίνας &gt; Δοχεία Φαγητού</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1424</MPN>
-		<Description>Το δοχείο φαγητού της εταιρείας Cyclops είναι κατασκευασμένο από πλαστικό, ένα υλικό που το κάνει ελαφρύ και πρακτικό.Χωρητικότητα: 1200mlΚατάλληλο για ΜικροκύματαΜήκος: 21.4cmΠλάτος: 15.2cm</Description>
-		<Barcode>5202707007053</Barcode>
-		<Quantity>8</Quantity>
-	</product>
-	<product>
 		<ID>76233</ID>
 		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Μακρόστενο Φούξια 3τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/31021690/Cyclops-Fresco-Docheio-Fagitou-Plastiko-Fouxia-Katallilo-gia-Fourno-Mikrokymaton-003301877F-3tmch.html</Product_Link>
@@ -17096,23 +16905,6 @@
 		<Description>Το Cyclops Fresco Δοχείο Φαγητού είναι ένα πρακτικό σετ 3 τεμαχίων σε βεραμάν χρώμα, ιδανικό για καθημερινή χρήση. Είναι κατασκευασμένο από ανθεκτικό πλαστικό, κατάλληλο για φούρνο μικροκυμάτων, προσφέροντας ευκολία στη θέρμανση και αποθήκευση φαγητού. Με μοντέρνο σχεδιασμό και εύκολη καθαριότητα, αποτελεί μια εξαιρετική επιλογή για το σπίτι ή το γραφείο.</Description>
 		<Barcode>5202707007244</Barcode>
 		<Quantity>1</Quantity>
-	</product>
-	<product>
-		<ID>762431</ID>
-		<Name>Cyclops Fresco Δοχείο Φαγητού Πλαστικό Τετράγωνο Φούξια Κατάλληλο για Φούρνο Μικροκυμάτων 3τμχ</Name>
-		<Product_Link>https://www.cyclops.gr/site/product/%CE%A6%CE%B1%CE%B3%CE%B7%CF%84%CE%BF%CE%B4%CE%BF%CF%87%CE%B5%CE%AF%CE%BF-%CE%A3%CF%84%CF%81%CE%BF%CE%B3%CE%B3%CF%85%CE%BB%CF%8C-%CF%83%CE%B5%CF%84-3-%CF%84%CE%B5%CE%BC-?prdId=00331093&amp;extLang=</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_images/086904/86904125/fixedratio_20231229172049_b122a5fa.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>2.8342060992</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Οργάνωση &amp; Αποθήκευση Κουζίνας &gt; Δοχεία Φαγητού</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1434</MPN>
-		<Description>Το Cyclops Fresco Δοχείο Φαγητού είναι ένα πρακτικό σετ 3 τεμαχίων σε φούξια χρώμα, ιδανικό για καθημερινή χρήση. Είναι κατασκευασμένο από ανθεκτικό πλαστικό, κατάλληλο για φούρνο μικροκυμάτων, προσφέροντας ευκολία στη θέρμανση και αποθήκευση φαγητού. Με μοντέρνο σχεδιασμό και εύκολη καθαριότητα, αποτελεί μια εξαιρετική επιλογή για το σπίτι ή το γραφείο.</Description>
-		<Barcode>5202707007244</Barcode>
-		<Quantity>18</Quantity>
 	</product>
 	<product>
 		<ID>763031</ID>
@@ -17300,23 +17092,6 @@
 		<Description>Ποτήρι νερού της εταιρείας Cyclops, κατάλληλο για νερό, χυμούς, γάλα και οποιοδήποτε άλλο ρόφημα. Μπορεί επίσης να χρησιμοποιηθεί στην καθημερινότητα σαν μονάδα μέτρησης υγρών που προσθέτουμε στις μαγειρικές δημιουργίες.• Είναι πλαστικό και αποτελεί μία πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι εύκολο στο πλύσιμο, χωρίς να έχει υψηλές απαιτήσεις καθαρισμού. Φυσικά το μεγάλο πλεονέκτημα του πλαστικού είναι η υψηλή αντοχή του στον χρόνο και τις φθορές.Χωρητικότητα: 500mlΧρώμα: Ροζ</Description>
 		<Barcode>5202707004649</Barcode>
 		<Quantity>8</Quantity>
-	</product>
-	<product>
-		<ID>763222</ID>
-		<Name>Cyclops Ποτήρι Νερού από Πλαστικό Πράσινο 500ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/53873007/Cyclops-Potiri-Nerou-apo-Plastiko-se-Prasino-CHroma-500ml-003301676.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/053873/53873007/fixedratio_20240527150539_cyclops_potiri_nerou_apo_plastiko_se_prasino_chroma_500ml_003301676_1tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.8578631488000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Είδη Σερβιρίσματος &gt; Ποτήρια</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>1461</MPN>
-		<Description>Ετοιμάστε τα αγαπημένα ροφήματα των παιδιών σας ή των φίλων σας και σερβίρετέ τα σε ποτήρια της ελληνικής εταιρίας Cyclops σε όμορφα απαλά παστέλ χρώματα.Ανακαλύψτε όλη την συλλογή</Description>
-		<Barcode>5202707004649</Barcode>
-		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>762400102</ID>
@@ -19995,23 +19770,6 @@
 		<Quantity>2</Quantity>
 	</product>
 	<product>
-		<ID>77011</ID>
-		<Name>Spitishop Harold Σετ Γάντι &amp; Πιάστρα Κουζίνας Υφασμάτινο σε Γκρι Χρώμα 2τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/52217749/Flamingo-Ganti-Kouzinas-Yfasmatino-Gri.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/052217/52217749/20240723160839_flamingo_ganti_kouzinas_yfasmatino_gri.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.88</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Λευκά Είδη Κουζίνας &gt; Γάντια/Πιάστρες Κουζίνας</Category_Path>
-		<Manufacturer>FLAMINGO</Manufacturer>
-		<MPN>1126</MPN>
-		<Description>Το γάντι φούρνου της εταιρείας Flamingo είναι κατάλληλο για την προστασία των χεριών και του καρπού σας από τις υψηλές θερμοκρασίες και τις καυτές επιφάνειες, όπως φούρνοι, εστίες μαγειρέματος, σκεύη μαγειρικής και σερβιρίσματος και την ασφαλή μεταφορά τους.Φροντίδα: Συνιστάται πλύσιμο στο πλυντήριο ρούχων και να στεγνώνει φυσικά, καθώς η χρήση στεγνωτηρίου μπορεί να αλλοιώσει την υφή του υφάσματος. Δεν ενδείκνυται η χρήση χλωρίου ή λευκαντικού. Αποφύγετε το στεγνό καθάρισμα.Συμβουλευτείτε πάντα τις οδηγίες του κατασκευαστή.</Description>
-		<Barcode>3574387566031</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>77012</ID>
 		<Name>Kipper Harold Σετ Γάντι &amp; Πιάστρα Κουζίνας Υφασμάτινο σε Κόκκινο Χρώμα 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/52217750/Flamingo-Ganti-Kouzinas-Yfasmatino-Kokkino.html</Product_Link>
@@ -20398,7 +20156,7 @@
 		<MPN>1675</MPN>
 		<Description>Καλαμάκια πλαστικά ίσια freddo επαναχρησιμοποιούμενα (έως 50 φορές πλύση)     Συσκευασμένο κάθε καλαμάκι ξεχωριστά    Διαστάσεις: 18cmx4mm</Description>
 		<Barcode>7449138607</Barcode>
-		<Quantity>702</Quantity>
+		<Quantity>699</Quantity>
 	</product>
 	<product>
 		<ID>78012</ID>
@@ -20500,7 +20258,7 @@
 		<MPN>0782</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 240ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<Barcode>5206970002050</Barcode>
-		<Quantity>109</Quantity>
+		<Quantity>104</Quantity>
 	</product>
 	<product>
 		<ID>78104</ID>
@@ -20619,7 +20377,7 @@
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
 		<Barcode>15202054457515</Barcode>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>78111</ID>
@@ -20636,7 +20394,7 @@
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>3800206611195</Barcode>
-		<Quantity>357</Quantity>
+		<Quantity>355</Quantity>
 	</product>
 	<product>
 		<ID>78119</ID>
@@ -20653,7 +20411,7 @@
 		<MPN>0332</MPN>
 		<Description>• Καπάκι πομπέ 504-505• Χρώμα: Διάφανο• Διατίθεται σε συσκευασία 100 τεμαχίων• Συμβατό με τα ποτήρια: OC-12.00.514, OC-12.00.518</Description>
 		<Barcode>19088104065</Barcode>
-		<Quantity>260</Quantity>
+		<Quantity>259</Quantity>
 	</product>
 	<product>
 		<ID>78121</ID>
@@ -21013,7 +20771,7 @@
 		<Quantity>17</Quantity>
 	</product>
 	<product>
-		<ID>78525</ID>
+		<ID>785251</ID>
 		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1250ml Διάφανο 50τμχ ΕΜ6862</Name>
 		<Product_Link>https://www.skroutz.gr/s/24027747/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-1250ml-Diafano-50tmch-FT-GD208-1250.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024027/24027747/xlarge_20200715124648_lux_plast_diafano_ft_gd208_1250_pet_1250ml_50tmch.jpeg</Image_Link>
@@ -21027,24 +20785,7 @@
 		<MPN>0557</MPN>
 		<Description>• Μιας χρήσεως• Σκεύος παραλληλόγραμμο• Πλαστικό διάφανο• Ενσωματωμένο καπάκι</Description>
 		<Barcode>5200425301033</Barcode>
-		<Quantity>24</Quantity>
-	</product>
-	<product>
-		<ID>785262</ID>
-		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml Διάφανο 50τμχ ΕΜ7220</Name>
-		<Product_Link>https://www.skroutz.gr/s/50446345/THalassinos-Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-1500ml-Diafano-50tmch-EM6229.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/050446/50446345/xlarge_20240213124911_thalassinos_plastiko_skeyos_mias_chrisis_pet_me_ensomatomeno_kapaki_kai_choritikotita_1500ml_diafano_50tmch_em6229.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>7.49066175</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
-		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
-		<MPN>ΕΜ7220</MPN>
-		<Description>Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml. Διάφανο.      Τύπος: Σκεύος μιας Χρήσης     Υλικό: PET     Χωρητικότητα: 1500ml     Συσκευασία: 50 τεμάχια</Description>
-		<Barcode>5202054472207</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>30</Quantity>
 	</product>
 	<product>
 		<ID>78527</ID>
@@ -21062,23 +20803,6 @@
 		<Description>• Κατασκευασμένο από πλαστικό• Τετράγωνος σχεδιασμός• Ενσωματωμένο καπάκι• Μιας χρήσεως</Description>
 		<Barcode>5202054468637</Barcode>
 		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>78528</ID>
-		<Name>Πλαστικό Σκεύος Σαλάτας μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 750ml Διάφανο 50τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/24027294/Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-750ml-Diafano-50tmch-FT-718.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/024027/24027294/xlarge_20200715122716_ft_718_pet_750ml_50tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.823986166999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
-		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
-		<MPN>0903</MPN>
-		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 750ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία σαλάτας. Η συσκευασία περιλαμβάνει 50 τεμάχια.</Description>
-		<Barcode>8682611010825</Barcode>
-		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>785300750</ID>
@@ -21617,7 +21341,7 @@
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036188</Barcode>
-		<Quantity>290</Quantity>
+		<Quantity>278</Quantity>
 	</product>
 	<product>
 		<ID>78901012</ID>
@@ -23868,91 +23592,6 @@
 		<Quantity>73</Quantity>
 	</product>
 	<product>
-		<ID>7972001</ID>
-		<Name>Eurolamp Λαμπάκι Νυκτός 5W για Ντουί Ε14 220-240V Διάφανο (147-88180)</Name>
-		<Product_Link>https://www.skroutz.gr/s/12515882/Eurolamp-Lampa-Pyraktoseos-5W-gia-Ntoui-E14-147-88180.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/012515/12515882/20200610164931_eurolamp_pyraktoseos_e14_5w_147_88180.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.33969189672</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1601</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Εφαρμογή Λαμπτήρα: E14    Ισχύς: 5W    Τάση: 220-240V    Είδος: Νυκτός</Description>
-		<Barcode>5206139000590</Barcode>
-		<Quantity>96</Quantity>
-	</product>
-	<product>
-		<ID>7972002</ID>
-		<Name>Eurolamp Λαμπάκι Νυκτός 5W για Ντουί Ε14 220-240V Κόκκινο (147-88182)</Name>
-		<Product_Link>https://www.skroutz.gr/s/12516236/Eurolamp-Lampaki-Nyktos-5W-gia-Ntoui-E14-147-88182.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/012516/12516236/20201207164354_eurolamp_pyraktoseos_e14_5w_147_88182.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.33969189672</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1602</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Ισχύς: 5W    Εφαρμογή Λαμπτήρα: E14    Είδος: Νυκτός</Description>
-		<Barcode>5206139000064</Barcode>
-		<Quantity>20</Quantity>
-	</product>
-	<product>
-		<ID>7972003</ID>
-		<Name>Eurolamp Λαμπάκι Νυκτός 5W για Ντουί Ε14 220-240V Κίτρινο (147-88183)</Name>
-		<Product_Link>https://www.skroutz.gr/s/12516230/Eurolamp-Lampaki-Nyktos-5W-gia-Ntoui-E14-147-88183.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/012516/12516230/20201221171311_eurolamp_pyraktoseos_e14_5w_147_88183.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.33969189672</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1603</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Ισχύς: 5W    Εφαρμογή Λαμπτήρα: E14    Είδος: Νυκτός</Description>
-		<Barcode>5206139000736</Barcode>
-		<Quantity>73</Quantity>
-	</product>
-	<product>
-		<ID>7972004</ID>
-		<Name>Eurolamp Λαμπάκι Νυκτός 5W για Ντουί Ε14 220-240V Πράσινο (147-88184)</Name>
-		<Product_Link>https://www.skroutz.gr/s/12515835/Eurolamp-Lampaki-Nyktos-5W-gia-Ntoui-E14-147-88184.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/012515/12515835/20211020161838_eurolamp_lampa_iodinis_5w_gia_ntoui_e14_147_88184.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.33969189672</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1604</MPN>
-		<Description>Βασικά χαρακτηριστικά:    Ισχύς: 5W    Εφαρμογή Λαμπτήρα: E14    Είδος: Νυκτός</Description>
-		<Barcode>5206139000743</Barcode>
-		<Quantity>26</Quantity>
-	</product>
-	<product>
-		<ID>7972005</ID>
-		<Name>Eurolamp Λαμπάκι Νυκτός 5W για Ντουί Ε14 220-240V Μπλε (147-88185)</Name>
-		<Product_Link>https://www.skroutz.gr/s/12516229/Eurolamp-Lampa-Pyraktoseos-5W-gia-Ntoui-E14-147-88185.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/012516/12516229/20170727164913_76b24966.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.33969189672</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Λάμπες &gt; Λάμπες Ειδικών Χρήσεων</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>1605</MPN>
-		<Description>Τάση Τροφοδοσίας: 220-240V    Ονομαστική Ισχύς: 5W    Συχνότητα Λειτουργίας: 50/60Hz    Βαθμός Στεγανότητας: IP20    Διάρκεια Ζωής: 1000h    Θερμοκρασία Λειτουργίας °C: -30°C - +45°C    Ενεργειακή Κλάση: E    Ντουί Λαμπτήρα: E14    Σχήμα Λαμπτήρα: T23    Ρύθμιση Έντασης: Ναι    Διάμετρος: 20mm    Ύψος: 53mm    Υλικό Προϊόντος: Γυαλί &amp; Βάση Αλουμινίου    Χρώμα Καλύμματος: Μπλε    Πιστοποιητικά: Ναι    Ένδειξη CE: Ναι</Description>
-		<Barcode>5206139000750</Barcode>
-		<Quantity>28</Quantity>
-	</product>
-	<product>
 		<ID>7972041</ID>
 		<Name>Eurolamp Λαμπάκι Φούρνου 15W για Ντουί Ε14 220-240V Διάφανο (147-88095)</Name>
 		<Product_Link>https://www.skroutz.gr/s/12515929/Eurolamp-Lampaki-Fournou-15W-gia-Ntoui-E14-147-88095.html</Product_Link>
@@ -25600,22 +25239,6 @@
 		<Description>Ονομαστική Ισχύς (W):60     Βάρος (kg):4,7     Τηλεχειριστήριο     Χρονοδιακόπτης:Ναι (Ώρες Λειτουργίας Χρονοδιακόπτη:7,5h)     Ταχύτητες: 3     Ρυθμιζόμενο Ύψος: 110cm-129cm     Διάμετρος: Φ50     Στάθμη Έντασης Ήχου σε dB:60dB     Υλικό Κατασκευής Προϊόντος: Πλαστικό     Υλικό Κατασκευής Φτερωτών: Πλαστικό     Αριθμός Φτερωτών: 5     Τύπος Βάσης:Στρόγγυλη     Τύπος Πλέγματος: Γραμμωτό     Λυχνία Ένδειξης Λειτουργίας     Περιστρεφόμενος     Ρυθμιζόμενη Γωνία Αέρα: 60     Αθόρυβη Λειτουργία     3 λειτουργίες: Κανονική λειτουργία, Λειτουργία Υπνου, Λειτουργία Natural</Description>
 		<Barcode>5207227282003</Barcode>
 		<Quantity>3</Quantity>
-	</product>
-	<product>
-		<ID>799220302</ID>
-		<Name>Eurolamp Ανεμιστήρας με Ορθοστάτη 3 σε 1 ύψη DC Motor 25W Διαμέτρου 45cm με Πλήκτρα Αφής και Τηλεχειριστήριο 300-20006</Name>
-		<Product_Link>https://www.skroutz.gr/s/34834192/Eurolamp-300-20006-Anemistiras-Orthostatis-3-se-1-25W-Diametrou-45cm-me-Tilecheiristirio.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/034834/34834192/xlarge_20220606170600_eurolamp_300_20006_anemistiras_orthostatis_3_se_1_25w_diametrou_45cm_me_tilecheiristirio.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>64.97</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Οικιακοί Ανεμιστήρες &gt; Ανεμιστήρες</Category_Path>
-		<Manufacturer>EUROLAMP</Manufacturer>
-		<MPN>300-20006</MPN>
-		<Description>Ανεμιστήρας με ορθοστάτη Platinum Series, 3 σε 1 ύψη σε λευκό χρώμα. 3 επιλογές ύψους: 70cm, 100cm, 130cm. Χρησιμοποιεί DC MOTOR, ένα μοτέρ που είναι μικρότερο,ελαφρύτερο, αθόρυβο, φιλικό προς το περιβάλλον και καταναλώνει έως 50% λιγότερη ενέργεια. Ικανότητα απομακρυσμένης χρήσης με τηλεχειριστήριο, αυτόματης περιστροφής 90°, ρύθμισης κλίσης έως 45° και χρονοδιακόπτη έως 18 ώρες. Διαθέτει 5 φτερωτές διαμέτρου Φ45, LED οθόνη αφής, 24 ταχύτητες με μέγιστη περιστροφη 2100rpm και απόδοση 25W. Καθαρό βάρος 5.8kg, αθόρυβη λειτουργία έως 46dB. Εγγύηση 5 έτη by Eurolamp.     Τάση Τροφοδοσίας: 220-240 V     Ονομαστική Ισχύς: 25 W     Συχνότητα Λειτουργίας: 50/60 Hz     Καθαρό Βάρος Προϊόντος: 5,8 κιλά     Μεικτό Βάρος Προϊόντος: 6,7 κιλά     Τηλεχειριστήριο     Χρονοδιακόπτης     Ώρες Λειτουργίας Χρονοδιακόπτη: 18     Ταχύτητες: 24     Ύψος : 130 εκ.     Ρυθμιζόμενο Ύψος: 3 διαφορετικά ύψη / 70-100-130εκ.     Διάμετρος: Φ45 εκ.     Στροφές : 2100 rpm     Στάθμη Έντασης Ήχου: 46dB     Χρώμα Προϊόντος: Λευκό/ White     Υλικό Κατασκευής Προϊόντος: ABS     Υλικό Κατασκευής Φτερωτών: Πλαστικό     Αριθμός Φτερωτών: 5     Τύπος Βάσης: Στρογγυλή     Τύπος Πλέγματος: Γραμμωτό     Λυχνία Ένδειξης Λειτουργίας     Οθόνη Led     Περιστρεφόμενος: 90°     Ρυθμιζόμενη Γωνία Αέρα: 45°     Τύπος Σύνδεσης: Φις / Plug     Αθόρυβη Λειτουργία     Εγγύηση Eurolamp: 5 Χρόνια     Πιστοποιητικά: CE/GS/ROHS</Description>
-		<Barcode>5207227149818</Barcode>
 	</product>
 	<product>
 		<ID>799220501</ID>
@@ -28692,24 +28315,6 @@
 		<Quantity>858</Quantity>
 	</product>
 	<product>
-		<ID>80311</ID>
-		<Name>Λαϊφ Λευκή Ζάχαρη Άχνη 300gr</Name>
-		<Product_Link>https://froutomania.gr/product/zachari-achni-laif-300gr/</Product_Link>
-		<Image_Link>https://cdn.mymarket.gr/images/styles/original/23_02_22/6ec2ceb3-bfff-45b7-a3d9-6b36f29e0a30_E1.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.76</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τρόφιμα &amp; Ροφήματα &gt; Ζάχαρη &amp; Υποκατάστατα</Category_Path>
-		<Manufacturer>ΛΑΪΦ</Manufacturer>
-		<MPN>0983</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Η Λάιφ Ζάχαρη Αχνη 300gr είναι ιδανική για γλυκά και γεμίσεις. Η μικροκρυσταλλική της μορφή την καθιστά εύκολη στο να διαλυθεί και να αναμειχθεί σε κάθε συνταγή. Κατάλληλη για οικιακή χρήση και ζαχαροπλαστική.</Description>
-		<Barcode>5200108100533</Barcode>
-		<Quantity>100</Quantity>
-	</product>
-	<product>
 		<ID>804100101</ID>
 		<Name>Μύλοι Τρικάλων Αλεύρι Σιταριού για όλες τις Χρήσεις 1kg</Name>
 		<Product_Link>https://trikalamills.gr/product/flour-for-every-use-1k/</Product_Link>
@@ -28872,168 +28477,6 @@
 		<Quantity>11</Quantity>
 	</product>
 	<product>
-		<ID>83101</ID>
-		<Name>FAMIGLIA Νο 6 ΣΠΑΓΓΕΤΙ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22874775/Famiglia-Spaghetti-No6-500gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/022874/22874775/xlarge_20210304123906_famiglia_spaghetti_no6_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0611</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Από 100% ελληνικά σκληρά στάριαΧρόνος βρασμού 7-8 λεπτά</Description>
-		<Barcode>5201013005029</Barcode>
-		<Quantity>1860</Quantity>
-	</product>
-	<product>
-		<ID>83102</ID>
-		<Name>FAMIGLIA Νο 10 ΣΠΑΓΓΕΤΙΝΙ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22645442/Famiglia-Spaghetti-No10-500gr.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/022645/22645442/xlarge_20210304122756_famiglia_makaronia_no10_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0229</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μέγεθος μακαρονιού: Νο10Από 100% ελληνικά σκληρά στάρια</Description>
-		<Barcode>5201013005012</Barcode>
-		<Quantity>760</Quantity>
-	</product>
-	<product>
-		<ID>83103</ID>
-		<Name>FAMIGLIA Νο 2 ΠΑΣΤΙΤΣΙΟ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22645448/Famiglia-Spaghetti-No2-500gr.html</Product_Link>
-		<Image_Link>https://captain-hellas.gr/media/catalog/product/cache/7f8f0dadd9024ab92d0921af5c41888f/P/a/Page_377.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0525</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μακαρόνια Νο2 ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
-		<Barcode>5201013005043</Barcode>
-		<Quantity>690</Quantity>
-	</product>
-	<product>
-		<ID>83104</ID>
-		<Name>FAMIGLIA Νο 5 BUCATINI 500 gr</Name>
-		<Product_Link>https://www.karilakis.gr/shop/famiglia-bucatini-%CF%80%CE%B1%CF%83%CF%84%CE%B9%CF%84%CF%83%CE%B9%CE%BF-n5-500g</Product_Link>
-		<Image_Link>https://www.karilakis.gr/shop/image/cache/catalog/other_products/5201013005074-550x550.webp</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0776</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μακαρόνια Νο5 ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
-		<Barcode>5201013005074</Barcode>
-		<Quantity>160</Quantity>
-	</product>
-	<product>
-		<ID>83111</ID>
-		<Name>FAMIGLIA ΚΡΙΘΑΡΑΚΙ ΜΕΤΡΙΟ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22645459/Famiglia-Kritharaki-Metrio-500gr.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/022645/22645459/xlarge_20210304123907_famiglia_kritharaki_metrio_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0048</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Κριθαράκι μέτριο ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
-		<Barcode>5201013005067</Barcode>
-		<Quantity>851</Quantity>
-	</product>
-	<product>
-		<ID>83112</ID>
-		<Name>FAMIGLIA ΚΡΙΘΑΡΑΚΙ ΧΟΝΤΡΟ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22645487/Famiglia-Kritharaki-CHondro-500gr.html</Product_Link>
-		<Image_Link>https://www.24hr.gr/static/uploads/products/1060/800-01-Famiglia-ellinika-zymarika-kritharaki-xondro-500gr.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0971</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Χοντρό κριθαράκι της εταιρίας Famiglia, για να φτιάξετε ένα γρήγορο γεύμα ή ένα έδεσμα γαστρονομίας!</Description>
-		<Barcode>5201013005036</Barcode>
-		<Quantity>1162</Quantity>
-	</product>
-	<product>
-		<ID>83121</ID>
-		<Name>FAMIGLIA ΚΟΦΤΟ ΜΑΚΑΡΟΝΑΚΙ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22645428/Famiglia-Kofto-500gr.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/022645/22645428/xlarge_20230529121838_famiglia_kofto_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0781</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μακαρόνια κοφτά ελληνικής παραγωγής από την εταιρεία Famiglia.</Description>
-		<Barcode>5201013005050</Barcode>
-		<Quantity>298</Quantity>
-	</product>
-	<product>
-		<ID>83122</ID>
-		<Name>FAMIGLIA ΒΙΔΕΣ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22679414/Famiglia-Vides-500gr.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/022679/22679414/xlarge_20210304123140_famiglia_vides_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0369</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μακαρόνια τριβελάκι απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
-		<Barcode>5201013005081</Barcode>
-		<Quantity>737</Quantity>
-	</product>
-	<product>
-		<ID>83123</ID>
-		<Name>FAMIGLIA ΠΕΝΝΕΣ ΡΙΓΕ 500 gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/22645468/Famiglia-Penes-500gr.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/022645/22645468/xlarge_20220704114840_famiglia_penes_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.62</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Ζυμαρικά</Category_Path>
-		<Manufacturer>FAMIGLIA</Manufacturer>
-		<MPN>0926</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Μακαρόνια πέννες απο την εταιρία Famiglia, φτιαγμένα από 100% ελληνικά στάρια. Κατάλληλα για διάφορες συνταγές, από τις πιο απλές έως και τις πιο πρωτότυπες.</Description>
-		<Barcode>5201013005128</Barcode>
-		<Quantity>605</Quantity>
-	</product>
-	<product>
 		<ID>83124</ID>
 		<Name>FAMIGLIA ΦΙΔΕΣ 500 gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/22874453/Famiglia-Fides-500gr.html</Product_Link>
@@ -29160,24 +28603,6 @@
 		<Quantity>74</Quantity>
 	</product>
 	<product>
-		<ID>84022</ID>
-		<Name>Knorr Κύβοι Μαγειρικής Ζωμός Κότας 10gr 12τμχ</Name>
-		<Product_Link>https://www.skroutz.gr/s/22822015/Knorr-Kyvoi-Mageirikis-Zomos-Kotas-10gr-12tmch.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/022822/22822015/20210318180439_knorr_kyvoi_mageirikis_zomos_kotas_12tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.69</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος Τυποποιημένα &gt; Προϊόντα Μαγειρικής &gt; Υλικά Μαγειρικής</Category_Path>
-		<Manufacturer>KNORR</Manufacturer>
-		<MPN>1510</MPN>
-		<Weight>0.2 kg</Weight>
-		<Description>Ο Knorr Κύβος Κότας είναι φτιαγμένος από ζωμό κότας, μπαχαρικά και μυρωδικά, χωρίς συντηρητικά και τεχνητές χρωστικές και δίνει στις συνταγές σας πλούσια γεύση.</Description>
-		<Barcode>8711200400393</Barcode>
-		<Quantity>28</Quantity>
-	</product>
-	<product>
 		<ID>84023</ID>
 		<Name>Knorr Κύβοι Μαγειρικής Ζωμός Λαχανικών 10gr 12τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/22822018/Knorr-Kyvoi-Mageirikis-Zomos-Lachanikon-10gr-12tmch.html</Product_Link>
@@ -29193,7 +28618,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Οι Knorr Κύβοι Λαχανικών είναι φτιαγμένοι από λαχανικά όπως τομάτα, κρεμμύδι, πράσο και καρότο, μπαχαρικά και μυρωδικά, χωρίς συντηρητικά και τεχνητές χρωστικές και δίνουν πλούσια γεύση.</Description>
 		<Barcode>5201080102713</Barcode>
-		<Quantity>12</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>84101</ID>
@@ -29212,24 +28637,6 @@
 		<Description>Ψιλό θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 200 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270000014</Barcode>
 		<Quantity>111</Quantity>
-	</product>
-	<product>
-		<ID>84102</ID>
-		<Name>Γλάρος Αλάτι Θαλασσινό 400gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/23155699/Glaros-Alati-THalassino-400gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/023155/23155699/xlarge_20200513180411_glaros_alati_400gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.72398746875</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
-		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
-		<MPN>0799</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 400 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
-		<Barcode>5203270000021</Barcode>
-		<Quantity>195</Quantity>
 	</product>
 	<product>
 		<ID>84103</ID>
@@ -29286,60 +28693,6 @@
 		<Quantity>3</Quantity>
 	</product>
 	<product>
-		<ID>84112</ID>
-		<Name>Γλάρος Αλάτι Θαλασσινό Ψιλό 1000gr</Name>
-		<Product_Link>https://eblokomarket.gr/alati/488742-alati-magiriko-se-sakoula-glaros-1-kg-5203270010051.html</Product_Link>
-		<Image_Link>https://eblokomarket.gr/13903-thickbox_default/alati-magiriko-se-sakoula-glaros-1-kg.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.8751496875</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
-		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
-		<MPN>0091</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 1 κιλού. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
-		<Barcode>5203270010051</Barcode>
-		<Quantity>194</Quantity>
-	</product>
-	<product>
-		<ID>84121</ID>
-		<Name>Γλάρος Αλάτι Θαλασσινό Ημίχονδρο 1000gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/23155697/Glaros-Alati-THalassino-Imichondro-1000gr.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/023155/23155697/xlarge_20200513180344_glaros_alati_thalassino_imichondro_1000gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.7160315625</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
-		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
-		<MPN>0150</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Θαλασσινό ημίχονδρο αλάτι της εταιρείας Γλάρος σε συσκευασία 1000 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
-		<Barcode>5203270011058</Barcode>
-		<Quantity>132</Quantity>
-	</product>
-	<product>
-		<ID>84122</ID>
-		<Name>Γλάρος Αλάτι Θαλασσινό Χονδρό 1000gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/23155702/Glaros-Alati-THalassino-CHondro-1000gr.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/023155/23155702/xlarge_20200513180429_glaros_alati_thalassino_chondro_1000gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.7160315625</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
-		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
-		<MPN>0411</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Θαλασσινό χονδρό αλάτι Νο2 της εταιρείας Γλάρος σε συσκευασία 1000 γραμμαρίων. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
-		<Barcode>5203270011065</Barcode>
-		<Quantity>115</Quantity>
-	</product>
-	<product>
 		<ID>84131</ID>
 		<Name>Γλάρος Χονδρό Θαλασσινό Αλάτι 5000gr</Name>
 		<Product_Link>https://casaline.gr/product/alati-glaros-mageiriko-5kila/</Product_Link>
@@ -29356,42 +28709,6 @@
 		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 5 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
 		<Barcode>5203270000052</Barcode>
 		<Quantity>6</Quantity>
-	</product>
-	<product>
-		<ID>84132</ID>
-		<Name>Γλάρος Χονδρό Θαλασσινό Αλάτι 12000gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/30285400/Glaros-Alati-THalassino-12000gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/030285/30285400/xlarge_20210730113304_glaros_alati_thalassino_12000gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>7.95590625</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
-		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
-		<MPN>0049</MPN>
-		<Weight>12 kg</Weight>
-		<Description>Θαλασσινό αλάτι της εταιρείας Γλάρος σε συσκευασία 12 κιλών. Η συγκομιδή του γίνεται από την εξάτμιση θαλασσινού νερού και είναι σχετικά πιο χοντρό από το επιτραπέζιο αλάτι. Θα πρέπει να σημειωθεί ότι περιέχει (ανάλογα με τη θάλασσα από την οποία προέρχεται) και διαφορετικά μέταλλα όπως ψευδάργυρο, σίδηρο κάλιο κ.λπ. Αυτή η περιεκτικότητα οδηγεί και στη διαφορετική και χαρακτηριστική γεύση που έχει το θαλασσινό αλάτι.</Description>
-		<Barcode>5203270030080</Barcode>
-		<Quantity>5</Quantity>
-	</product>
-	<product>
-		<ID>84151</ID>
-		<Name>Γλάρος Αλάτι Θαλασσινό Μεσολογγίου Ψιλό 400gr</Name>
-		<Product_Link>https://eblokomarket.gr/alati/488747-alati-psilo-mesolongiou-glaros-400-gr-5203270000236.html</Product_Link>
-		<Image_Link>https://eblokomarket.gr/13913-thickbox_default/alati-psilo-mesolongiou-glaros-400-gr.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.113826875</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Αλάτι</Category_Path>
-		<Manufacturer>ΓΛΑΡΟΣ</Manufacturer>
-		<MPN>0217</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Το ψιλό αλάτι Μεσολογγίου Γλάρος σε βαζάκι 400gr είναι ιδανικό για πολλαπλές χρήσεις στη μαγειρική και στην τραπεζοκρεβατιά. Το αλάτι αυτό προέρχεται από την περιοχή του Μεσολογγίου και διακρίνεται για την ποιότητά του και την εκλεκτή γεύση. Με το λεπτό του κόκκο, αποτελεί απαραίτητο συστατικό στην παρασκευή φαγητών και γευστικών πιάτων, προσθέτοντας έντονη γεύση και αρωματικότητα.</Description>
-		<Barcode>5203270000236</Barcode>
-		<Quantity>121</Quantity>
 	</product>
 	<product>
 		<ID>84152</ID>
@@ -29463,40 +28780,6 @@
 		<Weight>25 kg</Weight>
 		<Description>Περιγραφή Αλάτι Αποσκληρυντή Ταμπλέτα Γλάρος Διαμάντι 25Kg  Πρόκειται για ανακρυσταλλωμένο αλάτι υψηλής καθαρότητας (χαμηλή περιεκτικότητα σε μαγνήσιο και ασβέστιο) το οποίο συμπιέζεται σε πρέσα ώστε να δημιουργηθούν τα δισκία.  Το αλάτι αποσκληρυντή ταμπλέτα Γλάρος Διαμάντι 25Kg χρησιμοποιείται σε όλους τους αποσκληρυντές του εμπορίου καθώς και σε αυτούς που θα βρείτε στο e-shop μας ακολουθώντας τον παρακάτω σύνδεσμο:  Αποσκληρυντές νερού  Το αλάτι σε μορφή ταμπλέτα έχει υψηλό βαθμό καθαρότητας σε αντίθεση με το κοινό αλάτι.  Παράγεται απο ορυκτό αλάτι ύψιστου βαθμού καθαρότητας. Δεν σχηματίζει κρούστα (δεν πετρώνει) όπως το κοινό αλάτι, με αποτέλεσμα να αποφεύγεται η δημιουργία ακόρεστου διαλύματος άλμης, το οποίο δεν μπορεί να χρησιμοποιηθεί για την αναγέννηση της ρητίνης. Οι ταμπλέτες είναι ευδιάλυτες καθώς και καθαρές από χημικά χωρίς να προκαλούν μόλυνση. Το κυλινδρικό τους σχήμα, επιτρέπει την πλήρη παραγωγή άλμης και αποτρέπει την συσσωμάτωση (στερεοποίηση).  √ Εγγυημένο ποσοστό χλωριούχου νατρίου.  Το αλάτι μπορεί να χρησιμοποιηθεί σε κάθε είδους οικιακή συσκευή που χρησιμοποιεί αλάτι για την απομάκρυνση ( πλυντήρια πιάτων, ρούχων κ.τ.λ.) με εξαιρετικά αποτελέσματα.  μεγαλύτερη διάρκεια ζωής του αποσκληρυντή και των ρητινών, λιγότερα service, καλύτερη απόδοση και διάρκεια αποσκλυρηνσης (σε σχέση με τα κοινά αλάτια), έλλειψη αδιάλυτων, πουριού, μέγιστη περιεκτικότητα σε ClNa, μη δημιουργία ιζημάτων και κατάλοιπων.  Χρήση: Αποσκλυρηντες νερού, πλυντήρια αυτοκινήτων, σε νοσοκομεία μονάδες τεχνητού νεφρού, την αποστείρωση, στα χειρουργία κ.ο.κ.  Το αλάτι σε μορφή ταμπλέτας έχει υψηλό βαθμό καθαρότητας 99,99% σε αντίθεση με το κοινό αλάτι. Δεν αφήνει υπολείμματα. Διαλύεται καλύτερα σε σχέση με τα κοινά αλάτια του εμπορίου χάρη στην καθαρότητα του αλλά και το σχήμα του. Το κυλινδρικό σχήμα, επιτρέπει την πλήρη παραγωγή άλμης και αποτρέπει την συσσωμάτωση (στερεοποίηση). Σταθερή ολική διάλυση χωρίς υπολείμματα ιζημάτων. Μέγιστη απόδοση της ρητίνης. Μέγιστη προστασία του συστήματος αποσκλήρυνσης. Δεν περιέχουν επιβλαβή συστατικά, είναι πλήρως διαλυτό και ανθεκτικό. Προδιαγραφές – Αλάτι Αποσκληρυντή Ταμπλέτα Γλάρος Διαμάντι 25Kg Ναι, υπάρχει διαφορά όταν πρόκειται για το είδος του αλατιού που χρησιμοποιείτε στον αποσκληρυντή νερού σας. Υπάρχουν πολλά διαφορετικά είδη αλατιού διαθέσιμα στην αγορά σήμερα, αλλά τι επιλέγετε;  Όταν το αλάτι δεν είναι καθαρό, δημιουργεί μια βρώμικη “λάσπη” στο κάτω μέρος του αποσκληρυντή σας. Αυτό δεν είναι ένα καλό είδος αλατιού. Αυτή η βρώμικη λάσπη μπορεί να εισέλθει σε βαλβίδες, σωληνάκια  και διάφορα άλλα σημαντικά μέρη του αποσκληρυντή σας, δημιουργώντας συσσώρευση ακαθαρσιών και οδηγώντας έτσι σε άλλα προβλήματα.  Το αλάτι καλής ποιότητας πρέπει να είναι φωτεινό, λευκό και στερεό. Δεν πρέπει να σπάει, να πολτοποιείτε ή να έχει γκριζωπό χρώμα. Επιλέγοντας άλατα καλής ποιότητας, όπως το αλάτι που φέρει το εμπορικό σήμα της Γλάρος, θα παρατείνετε τη διάρκεια ζωής του αποσκληρυντή σας.  ⇒ Δοκιμάστε το και θα δείτε τα αποτελέσματα.  (i) Πως χρησιμοποιείται το αλάτι στους αποσκληρυντές νερού  Οι αποσκληρυντές νερού λειτουργούν σε χρονική και ογκομετρική βάση με την παραγωγή μαλακού νερού σε προκαθορισμένη ημέρα και ώρα εκτελώντας τη διαδικασία της “αναγέννησης”. Έχουν την δυνατότητα μέσω ιοντοανταλλαγής να μετατρέπουν το σκληρό σε μαλακό νερό.  Η  “αναγέννηση” περιλαμβάνει τα ακόλουθα στάδια:  Αποσκλήρυνση είναι η διαδικασία απομάκρυνσης ιόντων ασβεστίου (Ca++) και μαγνησίου (Mg++) από το νερό. Τα άλατα είναι σε γενικές γραμμές ανεπιθύμητα επειδή αλλοιώνουν το νερό και δημιουργούν επικαθήσεις στις συσκευές του σπιτιού. Έτσι, χρησιμοποιούμε μία κατιονική ρητίνη σε κύκλο νατρίου, η οποία δεσμεύει τα ιόντα ασβεστίου και μαγνησίου και τα ανταλλάσσει με νάτριο και κάλλιο.  Όταν εξαντλείται πρέπει να κάνουμε αναγέννηση. Αυτό το πετυχαίνουμε αν αναμίξουμε την κατιονική ρητίνη με κορεσμένο διάλυμα νατρίου (NaCl – Αλάτι αποσκληρυντή). Τα συστήματα αυτά αποτελούνται από το δοχείο όπου μπαίνει η ρητίνη, την αυτόματη βαλβίδα ελέγχου και το δοχείο όπου πραγματοποιείται η ανάμιξη.</Description>
 		<Quantity>29</Quantity>
-	</product>
-	<product>
-		<ID>85001</ID>
-		<Name>Ρέα Passata Συμπυκνωμένος Χυμός Τομάτας 500gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/31864178/Rea-Saltsa-Mageirikis-Ntomata-500gr.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/031864/31864178/xlarge_20220218104510_rea_saltsa_mageirikis_ntomata_500gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>0.653020785</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Σάλτσες &amp; Dressings</Category_Path>
-		<Manufacturer>REA</Manufacturer>
-		<MPN>0077</MPN>
-		<Weight>0.5 kg</Weight>
-		<Description>Ο τοματοχυμός πασσάτα απο την εταιρία Ρέα ελαφριάς συμπύκνωσης . Δεν περιέχει γλουτένη και άλλα αλλεργιογόνα ,έχει πολύ χαμηλή περιεκτικότητα σε αλάτι και είναι ιδανική για όλες τις γαστρονομικές δημιουργίες σας.</Description>
-		<Barcode>5202908500018</Barcode>
-		<Quantity>3091</Quantity>
-	</product>
-	<product>
-		<ID>85201</ID>
-		<Name>Frescon Γλυκό Καλαμπόκι 340gr</Name>
-		<Product_Link>https://www.skroutz.gr/s/27824543/Frescon-Kalampoki-340gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/027824/27824543/xlarge_20230418094926_frescon_kalampoki_340gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>1.009552937065972</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Τυποποιημένα Προϊόντα Μαγειρικής &gt; Τρόφιμα Μακράς Συντήρησης</Category_Path>
-		<Manufacturer>Frescon</Manufacturer>
-		<MPN>1020101</MPN>
-		<Description>Καλαμπόκι της εταιρίας Frescon, ιδανικό για σαλάτες και για πιάτα stir fry με νουντλς, λαχανικά, κρέας και θαλασσινά.  Συστατικά:      Καλαμπόκι super sweet 82,5%     Νερό 15,2%     Ζάχαρη 1,8%     Αλάτι 0,5%  Διατροφική αξία Ανά 100γρ στραγγισμένου προϊόντος:      Ενέργεια: 535,9kj/128kcal     Λιπαρά: 1,6g     - Κορεσμένα: 0,5g     Υδατάνθρακες: 23,6g     - Σάκχαρα: 5,2g     Εδωδιμές ίνες: 3,8g     Πρωτεΐνες: 4,7g     Αλάτι: 0,35g  ΑΠΟΘΉΚΕΥΣΗ: Διατηρείται σε σκιερό και ξηρό περιβάλλον. Μετά το άνοιγμα διατηρείται στο ψυγείο στους 4oC το μέγιστο, σε σκεύος κατάλληλο για τρόφιμα και καταναλώνεται εντός 48 ωρών το μέγιστο.</Description>
-		<Barcode>5200128642075</Barcode>
 	</product>
 	<product>
 		<ID>852011</ID>
@@ -29640,7 +28923,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<Barcode>6111260550359</Barcode>
-		<Quantity>2175</Quantity>
+		<Quantity>2155</Quantity>
 	</product>
 	<product>
 		<ID>852261</ID>
@@ -29894,57 +29177,6 @@
 		<Quantity>18</Quantity>
 	</product>
 	<product>
-		<ID>87911</ID>
-		<Name>Lipton Μαύρο Τσάι με Άρωμα Καραμέλα &amp; Βανίλια Πυραμίδα (20x1,7gr)</Name>
-		<Product_Link>https://www.skroutz.gr/s/57570938/Lipton-Mayro-Tsai-20-Fakelakia-1-7gr-me-Aroma-Karamela-Vanilia.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/057570/57570938/20241120143129_lipton_mayro_tsai_20_fakelakia_1_7gr_me_aroma_karamela_vanilia.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>2.82</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Καφέδες &amp; Ροφήματα &gt; Τσάι</Category_Path>
-		<Manufacturer>LIPTON</Manufacturer>
-		<MPN>1746</MPN>
-		<Description>Το μαύρο τσάι της εταιρείας Lipton έχει μεγάλη περιεκτικότητα καφεΐνης και παρασκευάζεται από τα φύλλα ενός θάμνου που ονομάζεται Camellia sinensis. Παράγει ένα σκούρο, χάλκινο χρώμα και έχει πιο δυνατή, πιο έντονη γεύση από άλλα είδη τσαγιού.</Description>
-		<Barcode>5063270110034</Barcode>
-		<Quantity>12</Quantity>
-	</product>
-	<product>
-		<ID>87912</ID>
-		<Name>Lipton Μαύρο Τσάι με Άρωμα Φρούτα Του Δάσους Πυραμίδα (20x1,7gr)</Name>
-		<Product_Link>https://www.skroutz.gr/s/15552282/Lipton-Mayro-Tsai-Frouta-Tou-Dasous-20-Fakelakia-8gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/015552/15552282/20180802181203_lipton_frouta_tou_dasous_20_fakelakia.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>2.82</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Καφέδες &amp; Ροφήματα &gt; Τσάι</Category_Path>
-		<Manufacturer>LIPTON</Manufacturer>
-		<MPN>1747</MPN>
-		<Description>Μαύρο τσάι σε συνδυασμό με φρούτα του δάσους: βατόμουρο, φράουλα, φραμπουάζ, κεράσι και κόκκινο φραγκοστάφυλλο.</Description>
-		<Barcode>5063270109557</Barcode>
-		<Quantity>12</Quantity>
-	</product>
-	<product>
-		<ID>87931</ID>
-		<Name>Lipton Αφέψημα Μήλο Κανέλα Πυραμίδα (20x2,2gr)</Name>
-		<Product_Link>https://www.skroutz.gr/s/49357042/Lipton-Afepsima-Milo-Kanela-Lipton-20-pyramides-x-2-2-g.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/049357/49357042/20240118192748_lipton_afepsima_milo_kanela_lipton_20_pyramides_x_2_2_g.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>2.68</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Καφέδες &amp; Ροφήματα &gt; Τσάι</Category_Path>
-		<Manufacturer>LIPTON</Manufacturer>
-		<MPN>1748</MPN>
-		<Description>Μείγμα φρούτων της εταιρείας Lipton με συνδυασμό μήλου και κανέλας, Δεν περιέχει καφεινή ή τεΐνη.</Description>
-		<Barcode>5063270103852</Barcode>
-		<Quantity>11</Quantity>
-	</product>
-	<product>
 		<ID>880110101</ID>
 		<Name>Ruffles Πατατάκια Κυματιστά με Αλάτι 400gr</Name>
 		<Product_Link>https://www.skroutz.gr/s/25570162/Ruffles-Patatakia-me-Alati-400gr.html</Product_Link>
@@ -30136,22 +29368,6 @@
 		<Quantity>17</Quantity>
 	</product>
 	<product>
-		<ID>8910201</ID>
-		<Name>Johny Bee Καραμέλες Κουφετάκια 16gr σε διάφορες γεύσεις Dr. Lab Mini Candy Soccer 70τμχ 151-00084</Name>
-		<Product_Link>https://www.skroutz.gr/s/34969637/X-treme-70-Karameles-16gr.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_images/058288/58288807/xlarge_20220331103759_8fcc1318.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>30.773662546875</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Καραμέλες, Γλειφιτζούρια &amp; Τσίχλες</Category_Path>
-		<Manufacturer>Johny Bee</Manufacturer>
-		<MPN>151-00084</MPN>
-		<Description>Johny Bee Dr. Lab Mini Candy Soccer (Συσκευασία 70 τεμαχίων)  Ετοιμαστείτε για γλυκό παιχνίδι με το Johny Bee Dr. Lab Mini Candy Soccer!  Αυτά τα μικρά ζαχαρωτά καραμελάκια σε κουτάκι περιέχονται μέσα σε δοχείο σε σχήμα μπάλας ποδοσφαίρου &amp; είναι ιδανικά για παιδιά που αγαπούν τις γευστικές εκπλήξεις.      Ιδανικό για Παιδιά: Μια διασκεδαστική λιχουδιά που συνδυάζει γεύση και θεματικό design     Συσκευασία 70 Τεμαχίων: Ιδανικό για παιδικά πάρτι, αθλητικές εκδηλώσεις και δώρα     Εμπνευσμένο από το Ποδόσφαιρο: Το display έχει σχέδιο μπάλας, κάνοντας την κατανάλωση ακόμη πιο διασκεδαστική  Το Johny Bee Dr. Lab Mini Candy Soccer είναι η τέλεια επιλογή για μικρούς λάτρεις του ποδοσφαίρου που θέλουν να απολαύσουν μια γλυκιά και παιχνιδιάρικη εμπειρία!</Description>
-		<Barcode>5904688000084</Barcode>
-	</product>
-	<product>
 		<ID>8910202</ID>
 		<Name>Johny Bee Καραμελάκια Μηχανή Νερού 20gr σε διάφορες γεύσεις Water Machine 15τμχ 320-31216</Name>
 		<Product_Link>https://www.skroutz.gr/s/53579061/Johny-Bee-Karameles-0-010-320-15tmch-20gr.html</Product_Link>
@@ -30240,22 +29456,6 @@
 		<Quantity>15</Quantity>
 	</product>
 	<product>
-		<ID>8910301</ID>
-		<Name>Johny Bee Ζελεδάκια Φρούτων 18gr σε διάφορες γεύσεις Juicy Gummy Fruit Mix 18gr 60τμχ 341-31803</Name>
-		<Product_Link>https://www.skroutz.gr/s/58706266/Zeledakia-18379-60tmch.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/058706/58706266/xlarge_20250210134052_zeledakia_18379_60tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>20.1735863125</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Καραμέλες, Γλειφιτζούρια &amp; Τσίχλες</Category_Path>
-		<Manufacturer>Johny Bee</Manufacturer>
-		<MPN>341-31803</MPN>
-		<Description>Ανακάλυψε μια απολαυστική εμπειρία με τα JOHNY BEE 3D Juicy Gummy Fruit Mix! Αυτά τα ζουμερά, τρισδιάστατα ζελεδάκια σε σχήματα φρούτων δεν είναι μόνο ένας υπέροχος γλυκός πειρασμός, αλλά και μια έκρηξη γεύσης που θα ενθουσιάσει μικρούς και μεγάλους.  Χαρακτηριστικά Προϊόντος:  Τρισδιάστατη Σχεδίαση: Κάθε ζελεδάκι έχει μοναδικό τρισδιάστατο σχήμα φρούτων, προσφέροντας μια οπτικά ελκυστική εμπειρία. Έκρηξη Γεύσης : Τα ζελεδάκια είναι γεμάτα με την πλούσια γεύση φρέσκων φρούτων, που λιώνουν στο στόμα, προσφέροντας μια ζουμερή και γλυκιά απόλαυση. Ιδανικό για party: Το προϊόν περιέχει 60 ζελεδάκια, καθιστώντας το ιδανικό για πάρτι, εκδηλώσεις ή απλώς για να το απολαμβάνετε με φίλους και οικογένεια. Συσκευασία Δώρου: Με την ελκυστική και διασκεδαστική του συσκευασία, είναι μια εξαιρετική επιλογή για δώρο ή κέρασμα. Ασφαλής και Υγιεινή Συσκευασία: Κάθε ζελεδάκι είναι προσεκτικά συσκευασμένο για να διατηρεί τη φρεσκάδα και την ποιότητά του.  Ιδανικό για:      Παιδικά πάρτι και γιορτές.     Γρήγορη και γλυκιά απόλαυση στην καθημερινότητα.     Δώρο σε παιδιά ή φίλους που αγαπούν τα ζαχαρωτά.  Χάρισε στον εαυτό σου και στους αγαπημένους σου μια μικρή, γλυκιά στιγμή απόλαυσης με τα JOHNY BEE 3D Juicy Gummy Fruit Mix. Δοκίμασέ τα σήμερα και απόλαυσε τη γεύση των πραγματικών φρούτων σε κάθε δαγκωνιά!</Description>
-		<Barcode>5904917031803</Barcode>
-	</product>
-	<product>
 		<ID>8910302</ID>
 		<Name>Johny Bee Ζελεδάκια Τηγανιτές Πατάτες 45gr Gummy Fries 12τμχ 380-32336</Name>
 		<Product_Link>https://www.sweetland.gr/product/johny-bee-gummy-fries-12-tem/</Product_Link>
@@ -30341,40 +29541,6 @@
 		<Quantity>9</Quantity>
 	</product>
 	<product>
-		<ID>8910501</ID>
-		<Name>Johny Bee Τσίχλα με Τατουάζ 5gr Monster Gum 200τμχ 177-02018</Name>
-		<Product_Link>https://www.skroutz.gr/s/58706268/Tsichles-18385-200tmch.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/058706/58706268/xlarge_20250210134052_tsichles_18385_200tmch.jpeg</Image_Link>
-		<Additional>https://www.sweetland.gr/wp-content/uploads/2024/08/monster-1-300x300.png</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>10.99929640625</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Καραμέλες, Γλειφιτζούρια &amp; Τσίχλες</Category_Path>
-		<Manufacturer>Johny Bee</Manufacturer>
-		<MPN>177-02018</MPN>
-		<Description>Το JOHNY BEE Monster Gum Tattoo είναι ένα διασκεδαστικό προϊόν τσίχλας που συνοδεύεται από αυτοκόλλητα τατουάζ με θέμα “τέρατα”.  Κάθε συσκευασία περιέχει 200 τεμάχια τσίχλας, καθιστώντας το ιδανικό για καταστήματα και παιδικές εκδηλώσεις. Τα παιδιά μπορούν να απολαύσουν τη γεύση της τσίχλας και να διασκεδάσουν με τα αυτοκόλλητα τατουάζ που περιλαμβάνονται, τα οποία μπορούν να κολλήσουν στο δέρμα τους για επιπλέον διασκέδαση.  Το προϊόν προσφέρει μια μοναδική εμπειρία που συνδυάζει την απόλαυση της τσίχλας με την έξτρα διασκέδαση των τατουάζ. Το Monster Gum Tattoo είναι ελκυστικό για τα παιδιά που λατρεύουν τα διαδραστικά και παιχνιδιάρικα γλυκίσματα.</Description>
-		<Barcode>6931925802018</Barcode>
-	</product>
-	<product>
-		<ID>8910502</ID>
-		<Name>Johny Bee Τσίχλα Ρολάκι με Τατουάζ 18gr Mini Roll &amp; Tattoo 30τμχ 150-07975</Name>
-		<Product_Link>https://www.skroutz.gr/s/47773552/Johny-Bee-Tsichles-30tmch-18gr.html</Product_Link>
-		<Image_Link>https://www.sweetland.gr/wp-content/uploads/2024/08/mini-roll-disp-300x300.png</Image_Link>
-		<Additional>https://www.sweetland.gr/wp-content/uploads/2024/08/mini-roll-pcs-300x300.png</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>16.86576203125</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Snacks &gt; Καραμέλες, Γλειφιτζούρια &amp; Τσίχλες</Category_Path>
-		<Manufacturer>Johny Bee</Manufacturer>
-		<MPN>150-07975</MPN>
-		<Description>Johny Bee Mini Roll &amp; Tattoo (Συσκευασία 30 τεμαχίων)  Το Johny Bee Mini Roll &amp; Tattoo προσφέρει διπλή διασκέδαση, με μία τσιχλόφουσκα ρολάκι και ένα μοναδικό τατουάζ σε κάθε συσκευασία!  Τα παιδιά θα λατρέψουν το συνδυασμό της γλυκιάς γεύσης και του παιχνιδιού, δημιουργώντας τη δική τους προσωρινή συλλογή τατουάζ.      Ιδανικό για Παιδιά: Γλυκιά απόλαυση με μια διασκεδαστική πινελιά     Συσκευασία 30 Τεμαχίων: Τέλειο για πάρτι, σχολικές εκδηλώσεις και δωράκια     Συνοδεύεται με Τατουάζ: Κάθε ρολάκι τσίχλας περιλαμβάνει ένα παιδικό τατουάζ, προσφέροντας επιπλέον διασκέδαση  Με το Johny Bee Mini Roll &amp; Tattoo, η απόλαυση γίνεται πιο διασκεδαστική και δημιουργική, δίνοντας στα παιδιά γεύση και στυλ σε κάθε συσκευασία!</Description>
-		<Barcode>6939495507975</Barcode>
-	</product>
-	<product>
 		<ID>99001</ID>
 		<Name>Θρέψις Motion 20kg Ξηρά Τροφή για Ενήλικους Σκύλους με Κοτόπουλο (Συντήρησης με 21 Πρωτείνες 7 Λιπαρά)</Name>
 		<Product_Link>https://www.bestprice.gr/item/2157238719/threpsis-motion-20kg.html</Product_Link>
@@ -30390,7 +29556,7 @@
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
 		<Barcode>5202546009379</Barcode>
-		<Quantity>813</Quantity>
+		<Quantity>811</Quantity>
 	</product>
 	<product>
 		<ID>99002</ID>
@@ -30447,24 +29613,6 @@
 		<Quantity>1588</Quantity>
 	</product>
 	<product>
-		<ID>9902201</ID>
-		<Name>Morando Miglior Υγρή Τροφή Σκύλου με Βοδινό σε Κονσέρβα 405γρ.</Name>
-		<Product_Link>https://www.skroutz.gr/s/48537029/Morando-Miglior-Ygri-Trofi-Skylou-me-Vodino-se-Konserva-405gr.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/048537/48537029/20231201144639_morando_miglior_ygri_trofi_skylou_me_vodino_se_konserva_405gr.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.6562073449814815</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Είδη για Σκύλους &gt; Υγρή Τροφή Σκύλων</Category_Path>
-		<Manufacturer>MORANDO</Manufacturer>
-		<MPN>1755</MPN>
-		<Weight>0.4 kg</Weight>
-		<Description>Σύνθεση μελετημένη ώστε να εξασφαλίζει τα απαραίτητα βασικά θρεπτικά συστατικά για την ευεξία του σκύλου σας, όπως τα ωμέγα 3 λιπαρά, το ασβέστιο και ο φώσφορος.      Γερά οστά και δόντια     Υγιές δέρμα     Στιλπνό τρίχωμα     Πιο σφριγηλή μυϊκή μάζα</Description>
-		<Barcode>8007520011204</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>99031</ID>
 		<Name>Morando Miglior Cane Υγρή Τροφή Σκύλου με Γαλοπούλα και Κοτόπουλο σε Κονσέρβα 1250γρ.</Name>
 		<Product_Link>https://www.skroutz.gr/s/35875660/Morando-Miglior-Cane-Ygri-Trofi-Skylou-me-Galopoula-kai-Kotopoulo-se-Konserva-1250gr.html</Product_Link>
@@ -30516,7 +29664,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>1245</Quantity>
+		<Quantity>1237</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
