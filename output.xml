@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-03 12:05</created_at>
+	<created_at>2026-02-03 12:13</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -266,7 +266,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275001678</Barcode>
-		<Quantity>306</Quantity>
+		<Quantity>294</Quantity>
 	</product>
 	<product>
 		<ID>11012</ID>
@@ -284,7 +284,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275001708</Barcode>
-		<Quantity>72</Quantity>
+		<Quantity>66</Quantity>
 	</product>
 	<product>
 		<ID>11031</ID>
@@ -2055,7 +2055,7 @@
 		<MPN>13082</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό ΑΥΡΑ κατέχει μια ξεχωριστή παρουσία στην καρδιά όλων των Ελλήνων πάνω από 25 χρόνια, με δράση από το 1989. Είμαστε ένα 100% φυσικό μεταλλικό νερό, εξαιρετικής ποιότητας, που έρχεται απευθείας από την καρδιά των Αχαϊκών Βουνών και εμφιαλώνεται στην περιοχή του Αιγίου, κάτω από συνθήκες αυστηρών ελέγχων, με τα υψηλότερα πρότυπα ποιότητας και χωρίς να υφίσταται επιπλέον επεξεργασία. Η άριστη ποιότητά του διασφαλίζεται μέσω της πλήρους καθετοποίησης της παραγωγικής διαδικασίας και της πιστοποίησης των εγκαταστάσεων από τον ανεξάρτητο φορέα Lloyd’s.</Description>
 		<Barcode>5201005080024</Barcode>
-		<Quantity>4400</Quantity>
+		<Quantity>4390</Quantity>
 	</product>
 	<product>
 		<ID>20601</ID>
@@ -2409,7 +2409,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό λευκό κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000017</Barcode>
-		<Quantity>679</Quantity>
+		<Quantity>667</Quantity>
 	</product>
 	<product>
 		<ID>40072</ID>
@@ -2427,7 +2427,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
 		<Barcode>5203413000000</Barcode>
-		<Quantity>798</Quantity>
+		<Quantity>786</Quantity>
 	</product>
 	<product>
 		<ID>40073</ID>
@@ -2445,7 +2445,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Ένα ημιξηρό ερυθρό κρασί σε συσκευασία PET. Με πλούσια αρώματα και εκλεπτυσμένη γεύση, προσφέρει μια ευχάριστη εμπειρία απόλαυσης και αναψυχής.</Description>
 		<Barcode>5203413000024</Barcode>
-		<Quantity>882</Quantity>
+		<Quantity>864</Quantity>
 	</product>
 	<product>
 		<ID>40101</ID>
@@ -2499,7 +2499,7 @@
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
 		<Barcode>5202037115015</Barcode>
-		<Quantity>469</Quantity>
+		<Quantity>457</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -5548,7 +5548,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
 		<Barcode>5201064000233</Barcode>
-		<Quantity>1345</Quantity>
+		<Quantity>1321</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5620,7 +5620,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
 		<Barcode>5201064000219</Barcode>
-		<Quantity>1773</Quantity>
+		<Quantity>1653</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -20788,6 +20788,23 @@
 		<Quantity>30</Quantity>
 	</product>
 	<product>
+		<ID>785262</ID>
+		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml Διάφανο 50τμχ ΕΜ7220</Name>
+		<Product_Link>https://www.skroutz.gr/s/50446345/THalassinos-Plastiko-Skeyos-mias-CHrisis-PET-me-Ensomatomeno-Kapaki-kai-CHoritikotita-1500ml-Diafano-50tmch-EM6229.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/050446/50446345/xlarge_20240213124911_thalassinos_plastiko_skeyos_mias_chrisis_pet_me_ensomatomeno_kapaki_kai_choritikotita_1500ml_diafano_50tmch_em6229.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.49066175</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Πλαστικά (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>ΕΜ7220</MPN>
+		<Description>Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 1500ml. Διάφανο.      Τύπος: Σκεύος μιας Χρήσης     Υλικό: PET     Χωρητικότητα: 1500ml     Συσκευασία: 50 τεμάχια</Description>
+		<Barcode>5202054472207</Barcode>
+		<Quantity>12</Quantity>
+	</product>
+	<product>
 		<ID>78527</ID>
 		<Name>Θαλασσινός Πλαστικό Σκεύος μιας Χρήσης PET με Ενσωματωμένο Καπάκι και Χωρητικότητα 2000ml Διάφανο 50τμχ ΕΜ6863</Name>
 		<Product_Link>https://www.skroutz.gr/s/59779819/docheio-fag-orthog-2000ml-50t-kapaki.html</Product_Link>
@@ -24416,7 +24433,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.0273962</Price>
+		<Price>7.668294733440001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εξωτερικού Χώρου&gt; Ηλιακά Φωτιστικά</Category_Path>
 		<Manufacturer>Modee Lighting</Manufacturer>
@@ -24434,7 +24451,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.2801974</Price>
+		<Price>13.40506348184</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εξωτερικού Χώρου&gt; Ηλιακά Φωτιστικά</Category_Path>
 		<Manufacturer>Modee Lighting</Manufacturer>
@@ -29610,7 +29627,7 @@
 		<Weight>1.3 kg</Weight>
 		<Description>Υγρή τροφή από την Morando, κατάλληλη για σκύλους όλων των ηλικιών. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες. Βοηθάει στην καλύτερη ενυδάτωση του οργανισμού τους καθώς περιέχει περισσότερο νερό και λόγω της μαλακής υφής της, συνιστάται για σκύλους με προβλήματα μάσησης.Μπορείτε να επιλέξετε τη συγκεκριμένη τροφή ανεξάρτητα από τη φυλή, καθώς ενδείκνυται για όλα τα μεγέθη σκύλων.    Συσκευασία: Κονσέρβα    Συστατικά: Γαλοπούλα, Κοτόπουλο    Ποσότητα: 1τμχ    Βάρος: 1250gr</Description>
 		<Barcode>8007520011549</Barcode>
-		<Quantity>668</Quantity>
+		<Quantity>656</Quantity>
 	</product>
 	<product>
 		<ID>99101</ID>
