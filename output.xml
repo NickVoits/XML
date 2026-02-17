@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-17 16:05</created_at>
+	<created_at>2026-02-17 16:57</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -248,7 +248,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>579</Quantity>
+		<Quantity>578</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -302,7 +302,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
 		<Barcode>5201275610375</Barcode>
-		<Quantity>580</Quantity>
+		<Quantity>579</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -338,7 +338,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
 		<Barcode>5201275610276</Barcode>
-		<Quantity>695</Quantity>
+		<Quantity>694</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -3353,7 +3353,7 @@
 		<MPN>1317002</MPN>
 		<Description>Η ετικέτα Όβηλος, από το Κτήμα Βιβλία Χώρα είναι ένα κρασί με αρωματικό πλούτο και τέλεια ισορροπία μεταξύ φρεσκάδας και βαρελιού.   Έχει λαμπερό κίτρινο χρώμα µε ελαφρές πράσινες ανταύγειες, και είναι το πάντρεμα δύο μοναδικών και συνάμα τόσο διαφορετικών μεταξύ τους ποικιλιών, του γαλλικού Semillon με το ελληνικό Ασύρτικο.   Εκφραστική και πολύπλοκη μύτη με αρώματα τροπικών φρούτων (ανανά, μάνγκο), ροδάκινου, βερίκοκου και βοτάνων. Γεμάτο σώμα με πλούσιο φρούτο και εξαιρετική ισορροπία. Μεγάλης διάρκειας επίγευση.   Σερβίρεται δροσερό και ταιριάζει ιδανικά με θαλασσινά και πιάτα ασιατικής κουζίνας.</Description>
 		<Barcode>5200101710050</Barcode>
-		<Quantity>13</Quantity>
+		<Quantity>7</Quantity>
 	</product>
 	<product>
 		<ID>462741</ID>
@@ -3966,7 +3966,7 @@
 		<MPN>1329</MPN>
 		<Description>Η Παράγκα του Κυρ-Γιάννη, είναι ένα κρασί με έντονα αλλά εκλεπτυσμένα αρώματα από γιασεμί, λευκόσαρκο ροδάκινο και βερίκοκο, τυπικά της Μαλαγουζιάς.</Description>
 		<Barcode>5203888070027</Barcode>
-		<Quantity>187</Quantity>
+		<Quantity>181</Quantity>
 	</product>
 	<product>
 		<ID>470935</ID>
@@ -4938,7 +4938,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.27265745685227</Price>
+		<Price>11.56672678181364</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -4955,7 +4955,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.13427503928409</Price>
+		<Price>18.42834436424546</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -4972,7 +4972,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.27265745685227</Price>
+		<Price>11.56672678181364</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -4989,7 +4989,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.23311962326137</Price>
+		<Price>13.52718894822273</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5927,7 +5927,7 @@
 		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
 		<Barcode>5202207610517</Barcode>
-		<Quantity>1037</Quantity>
+		<Quantity>941</Quantity>
 	</product>
 	<product>
 		<ID>52852</ID>
@@ -11762,7 +11762,7 @@
 		<MPN>E-3292</MPN>
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.  Με πιστοποίηση CE.</Description>
 		<Barcode>5203642308915</Barcode>
-		<Quantity>127</Quantity>
+		<Quantity>125</Quantity>
 		<Size>XL</Size>
 	</product>
 	<product>
@@ -11780,7 +11780,7 @@
 		<MPN>E-3291</MPN>
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.  Με πιστοποίηση CE.</Description>
 		<Barcode>5203642208918</Barcode>
-		<Quantity>189</Quantity>
+		<Quantity>187</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -11798,7 +11798,7 @@
 		<MPN>E-0891</MPN>
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.  Με πιστοποίηση CE.</Description>
 		<Barcode>5203642108911</Barcode>
-		<Quantity>40</Quantity>
+		<Quantity>38</Quantity>
 		<Size>M</Size>
 	</product>
 	<product>
@@ -11816,7 +11816,7 @@
 		<MPN>E-3290</MPN>
 		<Description>Γάντια εργασίας νιτριλίου, ανθεκτικά για πολλές χρήσεις.  Με πιστοποίηση CE.</Description>
 		<Barcode>5203642508919</Barcode>
-		<Quantity>159</Quantity>
+		<Quantity>157</Quantity>
 		<Size>S</Size>
 	</product>
 	<product>
@@ -12212,7 +12212,7 @@
 		<MPN>0112</MPN>
 		<Description>Μαντηλάκια μιας χρήσης εμποτισμένα με αιθυλική αλκοόλη και ήπια αντιβακτηριδιακή δράση με διακριτικό άρωμα φρεσκάδας. Η σύνθεση τους προσφέρει αποτελεσματική δράση κατά των μικροβίων, χωρίς να ερεθίζουν και να ξηραίνουν την επιδερμίδα.Ελεγμένα βάσει των ευρωπαϊκών προτύπων EN1650, EN1276, EN1040, EN1499 και ΕΝ 14476.</Description>
 		<Barcode>5201263007033</Barcode>
-		<Quantity>763</Quantity>
+		<Quantity>757</Quantity>
 	</product>
 	<product>
 		<ID>70422</ID>
@@ -12332,7 +12332,7 @@
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
 		<Barcode>8008970055206</Barcode>
-		<Quantity>2104</Quantity>
+		<Quantity>2103</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -12725,7 +12725,7 @@
 		<MPN>1652</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
 		<Barcode>8006540734902</Barcode>
-		<Quantity>124</Quantity>
+		<Quantity>123</Quantity>
 	</product>
 	<product>
 		<ID>71282</ID>
@@ -12781,24 +12781,6 @@
 		<Quantity>271</Quantity>
 	</product>
 	<product>
-		<ID>71305</ID>
-		<Name>Rex Hellas Λευκαντικό Λουλάκι Υγρό 250ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/22521579/Rex-Hellas-Leykantiko-Loulaki-Ygro-250ml.html</Product_Link>
-		<Image_Link>https://www.bazar100.gr/images/uploads//dimitriou%20rex/0001056019.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.0618986125</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
-		<Manufacturer>REX HELLAS</Manufacturer>
-		<MPN>0974</MPN>
-		<Weight>0.3 kg</Weight>
-		<Description>Το λευκαντικό ρούχων της εταιρείας Rex Hellas ενισχύει τη δράση του απορρυπαντικού καθώς εισχωρεί στις ίνες των ρούχων και εξασφανίζει τους λεκέδες που αντιστέκονται στο απορρυπαντικό. Χαρίζει λευκότητα και λάμψη στα ρούχα σας. Μην το ρίχνετε κατευθείαν πάνω στα υφάσματα. Δεν συνίσταται για μάλλινα και μεταξωτά.Οδηγίες Χρήσης: Ελέγχετε πάντα τη θερμοκρασία πλυσίματος στην ετικέτα ρούχων.Προφυλάξεις: Μακριά από παιδιά.</Description>
-		<Barcode>5200250700308</Barcode>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>71311001</ID>
 		<Name>Sidirela Χρωμοπαγίδα με Μαλακτικό 12 Φύλλα E-2683</Name>
 		<Product_Link>https://www.skroutz.gr/s/32631223/Sidirela-12-CHromopagides-kai-Malaktiko-2-Se-1.html</Product_Link>
@@ -12806,7 +12788,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.772641024</Price>
+		<Price>0.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -13102,7 +13084,7 @@
 		<MPN>0628</MPN>
 		<Description>Το Tuboflo ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις μόνο με την προσθήκη κρύου νερού.</Description>
 		<Barcode>55201314051652</Barcode>
-		<Quantity>2391</Quantity>
+		<Quantity>2386</Quantity>
 	</product>
 	<product>
 		<ID>72102</ID>
@@ -14220,7 +14202,7 @@
 		<MPN>1116</MPN>
 		<Description>Απορροφητική σπογγοπετσέτα Wettex. Απορροφάει έως και 15 φορές το βάρος του Σε 4 διαφορετικά σχέδια και χρώματα.</Description>
 		<Barcode>8001940004846</Barcode>
-		<Quantity>167</Quantity>
+		<Quantity>162</Quantity>
 	</product>
 	<product>
 		<ID>742010101</ID>
@@ -14512,7 +14494,7 @@
 		<MPN>2796</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Συρμάτινο     Κατάλληλο για Όλα τα Σκεύη     Καθαρίζει τους Δύσκολους Λεκέδες     Βάρος 20gr</Description>
 		<Barcode>5213014890337</Barcode>
-		<Quantity>110</Quantity>
+		<Quantity>105</Quantity>
 	</product>
 	<product>
 		<ID>74250150</ID>
@@ -14529,7 +14511,7 @@
 		<MPN>6024</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Συρμάτινο     Κατάλληλο για Όλα τα Σκεύη     Καθαρίζει τους Δύσκολους Λεκέδες     Βάρος 50gr</Description>
 		<Barcode>5213014890344</Barcode>
-		<Quantity>73</Quantity>
+		<Quantity>70</Quantity>
 	</product>
 	<product>
 		<ID>74252</ID>
@@ -14546,7 +14528,7 @@
 		<MPN>E-1655</MPN>
 		<Description>Συρματάκι ιδανικό για την κουζίνα αλλά και για λείανση επιφανειών.</Description>
 		<Barcode>5203642116558</Barcode>
-		<Quantity>163</Quantity>
+		<Quantity>158</Quantity>
 	</product>
 	<product>
 		<ID>74252113</ID>
@@ -15474,7 +15456,7 @@
 		<MPN>1274</MPN>
 		<Description>Παγοκυψέλες σε σακούλα, σετ 10 τεμαχίων, για 280 παγάκια συνολικά.</Description>
 		<Barcode>5203399600034</Barcode>
-		<Quantity>484</Quantity>
+		<Quantity>479</Quantity>
 	</product>
 	<product>
 		<ID>75800101</ID>
@@ -15542,7 +15524,7 @@
 		<MPN>0331</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 24x17cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500110</Barcode>
-		<Quantity>550</Quantity>
+		<Quantity>545</Quantity>
 	</product>
 	<product>
 		<ID>75812</ID>
@@ -15559,7 +15541,7 @@
 		<MPN>0530</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 28x33cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
 		<Barcode>5200369500127</Barcode>
-		<Quantity>1654</Quantity>
+		<Quantity>1649</Quantity>
 	</product>
 	<product>
 		<ID>75813</ID>
@@ -16265,21 +16247,76 @@
 		<Quantity>43</Quantity>
 	</product>
 	<product>
-		<ID>76205</ID>
-		<Name>Cyclops Αντλία Λαδιού Κουζίνας Χειροκίνητη από Πλαστικό Μπλε</Name>
-		<Product_Link>https://www.skroutz.gr/s/50776453/Cyclops-Antlia-Ladiou-Kouzinas-apo-Plastiko-330398.html</Product_Link>
-		<Image_Link>https://www.bazaar-online.gr/image/cache/catalog/product-upload/5202707989823_1-1000x1000.jpg</Image_Link>
+		<ID>762050101</ID>
+		<Name>Sidirela Αντλία Λαδιού Κουζίνας Χειροκίνητη από Πλαστικό Μήκους 45cm Ε-1750 Μπλε</Name>
+		<Product_Link>https://www.skroutz.gr/s/40606134/Sidirela-Antlia-Ladiou-Kouzinas-CHeirokiniti-apo-Plastiko-E-1750-Mikous-45cm-Mple.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/040606/40606134/xlarge_20230208120147_sidirela_antlia_ladiou_kouzinas_apo_plastiko_cheirokiniti_e_1750_0_mikous_45cm_mple.jpeg</Image_Link>
+		<Additional>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.0477369269</Price>
+		<Price>2.24</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εργαλεία Κουζίνας &gt; Αντλίες Λαδιού &amp; Νερού</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>00330398</MPN>
-		<Description>Αντλία λαδιού Νο1, πλαστική, από την εταιρεία Κύκλωψ.</Description>
-		<Barcode>5202707989823</Barcode>
-		<Quantity>0</Quantity>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1750</MPN>
+		<Description>Περιγραφή Η Sidirela προσφέρει μια πρακτική και εύχρηστη αντλία λαδιού κουζίνας, ιδανική για καθημερινή χρήση. Σχεδιασμένη από ανθεκτικό πλαστικό, εξασφαλίζει μακροχρόνια χρήση. Είναι χειροκίνητη, γεγονός που την καθιστά πολύ εύκολη στη χρήση, χωρίς την ανάγκη ηλεκτρικής τροφοδοσίας. Με μήκος 45 εκ., έχει ιδανικές διαστάσεις για να χωράει σε κάθε κουζίνα.  Η αντλία είναι κατάλληλη για την παροχή λαδιού, κάνοντάς την ιδανική για διάφορες μαγειρικές εφαρμογές. Το υλικό από το οποίο είναι κατασκευασμένη, το πλαστικό, την καθιστά ελαφριά και ευκολόχρηστη. Η τροφοδοσία της είναι χειρός, προσφέροντας έλεγχο και άμεση εφαρμογή κατά τη διάρκεια της χρήσης.</Description>
+		<Barcode>5203642117500</Barcode>
+		<Color>Μπλε</Color>
+	</product>
+	<product>
+		<ID>762050102</ID>
+		<Name>Sidirela Αντλία Λαδιού Κουζίνας Χειροκίνητη από Πλαστικό Μήκους 45cm Ε-1750 Κόκκινη</Name>
+		<Product_Link>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Image_Link>
+		<Additional>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.24</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εργαλεία Κουζίνας &gt; Αντλίες Λαδιού &amp; Νερού</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1750</MPN>
+		<Description>Περιγραφή Η Sidirela προσφέρει μια πρακτική και εύχρηστη αντλία λαδιού κουζίνας, ιδανική για καθημερινή χρήση. Σχεδιασμένη από ανθεκτικό πλαστικό, εξασφαλίζει μακροχρόνια χρήση. Είναι χειροκίνητη, γεγονός που την καθιστά πολύ εύκολη στη χρήση, χωρίς την ανάγκη ηλεκτρικής τροφοδοσίας. Με μήκος 45 εκ., έχει ιδανικές διαστάσεις για να χωράει σε κάθε κουζίνα.  Η αντλία είναι κατάλληλη για την παροχή λαδιού, κάνοντάς την ιδανική για διάφορες μαγειρικές εφαρμογές. Το υλικό από το οποίο είναι κατασκευασμένη, το πλαστικό, την καθιστά ελαφριά και ευκολόχρηστη. Η τροφοδοσία της είναι χειρός, προσφέροντας έλεγχο και άμεση εφαρμογή κατά τη διάρκεια της χρήσης.</Description>
+		<Barcode>5203642117500</Barcode>
+		<Color>Κόκκινη</Color>
+	</product>
+	<product>
+		<ID>762050103</ID>
+		<Name>Sidirela Αντλία Λαδιού Κουζίνας Χειροκίνητη από Πλαστικό Μήκους 45cm Ε-1750 Πράσινη</Name>
+		<Product_Link>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Image_Link>
+		<Additional>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.24</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εργαλεία Κουζίνας &gt; Αντλίες Λαδιού &amp; Νερού</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1750</MPN>
+		<Description>Περιγραφή Η Sidirela προσφέρει μια πρακτική και εύχρηστη αντλία λαδιού κουζίνας, ιδανική για καθημερινή χρήση. Σχεδιασμένη από ανθεκτικό πλαστικό, εξασφαλίζει μακροχρόνια χρήση. Είναι χειροκίνητη, γεγονός που την καθιστά πολύ εύκολη στη χρήση, χωρίς την ανάγκη ηλεκτρικής τροφοδοσίας. Με μήκος 45 εκ., έχει ιδανικές διαστάσεις για να χωράει σε κάθε κουζίνα.  Η αντλία είναι κατάλληλη για την παροχή λαδιού, κάνοντάς την ιδανική για διάφορες μαγειρικές εφαρμογές. Το υλικό από το οποίο είναι κατασκευασμένη, το πλαστικό, την καθιστά ελαφριά και ευκολόχρηστη. Η τροφοδοσία της είναι χειρός, προσφέροντας έλεγχο και άμεση εφαρμογή κατά τη διάρκεια της χρήσης.</Description>
+		<Barcode>5203642117500</Barcode>
+		<Color>Πράσινη</Color>
+	</product>
+	<product>
+		<ID>762050104</ID>
+		<Name>Sidirela Αντλία Λαδιού Κουζίνας Χειροκίνητη από Πλαστικό Μήκους 45cm Ε-1750 Ροζ</Name>
+		<Product_Link>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Product_Link>
+		<Image_Link>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Image_Link>
+		<Additional>https://www.sidirela.gr/uploads/2020/01/antlia-ladioy.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.24</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Εργαλεία Κουζίνας &gt; Αντλίες Λαδιού &amp; Νερού</Category_Path>
+		<Manufacturer>SIDIRELA</Manufacturer>
+		<MPN>Ε-1750</MPN>
+		<Description>Περιγραφή Η Sidirela προσφέρει μια πρακτική και εύχρηστη αντλία λαδιού κουζίνας, ιδανική για καθημερινή χρήση. Σχεδιασμένη από ανθεκτικό πλαστικό, εξασφαλίζει μακροχρόνια χρήση. Είναι χειροκίνητη, γεγονός που την καθιστά πολύ εύκολη στη χρήση, χωρίς την ανάγκη ηλεκτρικής τροφοδοσίας. Με μήκος 45 εκ., έχει ιδανικές διαστάσεις για να χωράει σε κάθε κουζίνα.  Η αντλία είναι κατάλληλη για την παροχή λαδιού, κάνοντάς την ιδανική για διάφορες μαγειρικές εφαρμογές. Το υλικό από το οποίο είναι κατασκευασμένη, το πλαστικό, την καθιστά ελαφριά και ευκολόχρηστη. Η τροφοδοσία της είναι χειρός, προσφέροντας έλεγχο και άμεση εφαρμογή κατά τη διάρκεια της χρήσης.</Description>
+		<Barcode>5203642117500</Barcode>
+		<Color>Ροζ</Color>
 	</product>
 	<product>
 		<ID>76206</ID>
@@ -18804,7 +18841,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.663623968</Price>
+		<Price>13.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά Πρώτες Βοήθειες&gt;Κουτιά Πρώτων Βοηθειών</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20257,7 +20294,7 @@
 		<MPN>0773</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διαθέτει διπλή επένδυση χαρτιού, με αποτέλεσμα να κρατάει το ρόφημα ζεστό χωρίς να μεταφέρεται η υψηλή θερμοκρασία στα χέρια. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 25 τεμαχίων.</Description>
 		<Barcode>5202054467555</Barcode>
-		<Quantity>41</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>78105</ID>
@@ -20342,7 +20379,7 @@
 		<MPN>0857</MPN>
 		<Description>Καπάκια πιστοποιημένα,κατασκευασμένα με άριστες προδιαγραφές,προστατέυοντας το περιεχόμενο από αλλιώσεις και διαρροές.Μεταφέρετε με ασφάλεια το ρόφημα σας.</Description>
 		<Barcode>15202054457515</Barcode>
-		<Quantity>11</Quantity>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>78111</ID>
@@ -20359,7 +20396,7 @@
 		<MPN>0665</MPN>
 		<Description>Κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 300ml. Διατίθενται σε διάφανο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
 		<Barcode>3800206611195</Barcode>
-		<Quantity>324</Quantity>
+		<Quantity>319</Quantity>
 	</product>
 	<product>
 		<ID>78119</ID>
@@ -20376,7 +20413,7 @@
 		<MPN>0332</MPN>
 		<Description>• Καπάκι πομπέ 504-505• Χρώμα: Διάφανο• Διατίθεται σε συσκευασία 100 τεμαχίων• Συμβατό με τα ποτήρια: OC-12.00.514, OC-12.00.518</Description>
 		<Barcode>19088104065</Barcode>
-		<Quantity>254</Quantity>
+		<Quantity>252</Quantity>
 	</product>
 	<product>
 		<ID>78121</ID>
@@ -21323,7 +21360,7 @@
 		<MPN>1565</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036188</Barcode>
-		<Quantity>263</Quantity>
+		<Quantity>258</Quantity>
 	</product>
 	<product>
 		<ID>78901012</ID>
@@ -21357,7 +21394,7 @@
 		<MPN>1566</MPN>
 		<Description>Αλουμινόχαρτο για να προστατεύσετε το φαγητό που μαγειρεύετε, αποθηκεύετε ή μεταφέρετε, από το φως και τις οσμές.</Description>
 		<Barcode>5202054036201</Barcode>
-		<Quantity>165</Quantity>
+		<Quantity>160</Quantity>
 	</product>
 	<product>
 		<ID>78911</ID>
@@ -21649,7 +21686,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>• Αριθμός φύλλων : 50• Τύπος φύλλων : Ριγέ• Βάρος φύλλου : 70gr• Διαστάσεις : 17x25 cm</Description>
 		<Barcode>5200000041392</Barcode>
-		<Quantity>258</Quantity>
+		<Quantity>246</Quantity>
 	</product>
 	<product>
 		<ID>79011</ID>
@@ -22532,7 +22569,7 @@
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<Barcode>5203358500344</Barcode>
-		<Quantity>2509</Quantity>
+		<Quantity>2437</Quantity>
 	</product>
 	<product>
 		<ID>7949903</ID>
@@ -25359,7 +25396,7 @@
 		<MPN>ECN001</MPN>
 		<Description>Συσκευή εισπνοής και νεφελοποίησης με συμπαγή σχεδίαση από την Esperanza, η οποία απελευθερώνει αποτελεσματικά τις δόσεις εισπνεόμενων φάρμακων, βοηθώντας στην ανακούφιση των συμπτωμάτων του βήχα, του κρυολογήματος της γρίπης και της ρινικής αποσυμφόρησης. Χαρακτηριστικά      Ισχύς: 220V, 50 Hz     Ρεύμα: 0,8Α     Χωρητικότητα φαρμάκου: 10ml     Επίπεδο ήχου ≤ 65dBA     Μέσος ρυθμός νεφελοποίησης: ≤ 0,4ml     Εύρος πίεσης συμπιεστή: 29-55Psi     Εύρος πίεσης λειτουργίας: 9-19Psi  Περιεχόμενα Συσκευασίας      Νεφελοποιητής     Δύο μάσκες διαφορετικών μεγεθών     Επιστόμιο</Description>
 		<Barcode>5901299914007</Barcode>
-		<Quantity>76</Quantity>
+		<Quantity>74</Quantity>
 	</product>
 	<product>
 		<ID>799400152</ID>
@@ -25650,7 +25687,7 @@
 		<MPN>16.006.0012</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Έξοδος 2.4A  Με δυο εξόδους USB-A για παράλληλη φόρτιση συσκευών. Περιλαμβάνει καλώδιο USB-A σε USB-C με μήκος 1 μέτρο.</Description>
 		<Barcode>6920680871322</Barcode>
-		<Quantity>62</Quantity>
+		<Quantity>61</Quantity>
 	</product>
 	<product>
 		<ID>799510502</ID>
@@ -26339,7 +26376,7 @@
 		<MPN>16.005.0344</MPN>
 		<Description>Μοντέλο: XO NB280  Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C  Μήκος: 1M  Ρεύμα: 3A  Χρώμα: Μαύρο</Description>
 		<Barcode>6920680858705</Barcode>
-		<Quantity>21</Quantity>
+		<Quantity>20</Quantity>
 	</product>
 	<product>
 		<ID>7995115402</ID>
@@ -27073,7 +27110,7 @@
 		<MPN>LP247 / 80903</MPN>
 		<Description>* Η UGREEN LP247 (80704) είναι μια συμπαγής και κομψή ρυθμιζόμενη βάση smartphone, σχεδιασμένη για βολική προβολή και χρήση κινητών συσκευών. * Με την ρυθμιζόμενη κατασκευή και τον πτυσσόμενο σχεδιασμό της, είναι ιδανική για το σπίτι, το γραφείο ή τα ταξίδια. * Συμβατότητα: Κατάλληλη για συσκευές με διαγώνιο 4,7" έως 7,9" και πάχος έως 12 mm (συμπεριλαμβανομένης της θήκης). * Ρυθμιζόμενη γωνία: Έως 100°, επιτρέποντας τη βέλτιστη γωνία θέασης. * Ρυθμιζόμενο ύψος: Δύο επίπεδα ύψους για προσαρμογή της θέσης. * Υλικά: Κατασκευασμένη από υψηλής ποιότητας πλαστικό ABS με αντιολισθητικά μαξιλαράκια σιλικόνης για σταθερότητα και προστασία από γρατσουνιές. * Συμπαγείς διαστάσεις: 84 x 110,29 x 26,8 mm, εύκολη στη μεταφορά και αποθήκευση. * Πτυσσόμενος σχεδιασμός: Κάνει εύκολη τη μεταφορά και την αποθήκευση, ιδανική για ταξίδια. * Οπή καλωδίου: Κάνει τη φόρτιση κατά τη χρήση ευκολότερη.</Description>
 		<Barcode>6957303889037</Barcode>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>799551122</ID>
