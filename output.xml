@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-02-18 16:05</created_at>
+	<created_at>2026-02-18 16:40</created_at>
 	<product>
 		<ID>31023</ID>
 		<Name>Άλφα Μπύρα Lager Κουτί 6x330ml</Name>
@@ -70,7 +70,7 @@
 		<MPN>1193001</MPN>
 		<Description>Απαλό άρωμα λυκίσκου και δροσιστική γεύση που συνδυάζεται ιδανικά με λάιμ. Τα αρώματα εσπεριδοειδών ταιριάζουν πάρα πολύ με την μπύρα γενικώς και θα μπορούσε κάποιος που του αρέσει πολύ το άρωμα και η γεύση του λάιμ να το προσθέτει σχεδόν σε ολες τις lager και όχι μόνο στις Μεξικάνικες!</Description>
 		<Barcode>52103049</Barcode>
-		<Quantity>203</Quantity>
+		<Quantity>179</Quantity>
 	</product>
 	<product>
 		<ID>31082</ID>
@@ -141,7 +141,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
 		<Barcode>75041670</Barcode>
-		<Quantity>720</Quantity>
+		<Quantity>672</Quantity>
 	</product>
 	<product>
 		<ID>33007</ID>
@@ -248,7 +248,7 @@
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
 		<Barcode>5202382900083</Barcode>
-		<Quantity>560</Quantity>
+		<Quantity>558</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -356,7 +356,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
 		<Barcode>5201275610672</Barcode>
-		<Quantity>161</Quantity>
+		<Quantity>160</Quantity>
 	</product>
 	<product>
 		<ID>11035</ID>
@@ -2311,7 +2311,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.17</Price>
+		<Price>2.362657435159714</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2329,7 +2329,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.22</Price>
+		<Price>2.414019553315361</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2347,7 +2347,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.22</Price>
+		<Price>2.414019553315361</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -2365,7 +2365,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.22</Price>
+		<Price>2.465381671471007</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Κρασιά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -3608,7 +3608,7 @@
 		<MPN>1784</MPN>
 		<Description>Χαρμάνι των καλύτερων αμπελώνων του κτήματος, 44 ετών, πιστοποιημένοι βιολογικοί. Έντονα αρώματα φρέσκων μαύρων και κόκκινων φρούτων του δάσους, βιολέτας, βοτάνων αλλά και κομψής φυτικότητας.  Στο στόμα η οξύτητα είναι υψηλή, με στιβαρές αλλά στρογγυλές τανίνες, για το Γη και Ουρανός που ωρίμασε σε δρύινα γαλλικά βαρέλια 500lt 2ης - 3ης χρήσης για 18 μήνες.</Description>
 		<Barcode>5200363504169</Barcode>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 	</product>
 	<product>
 		<ID>47011</ID>
@@ -8983,7 +8983,7 @@
 		<MPN>1040</MPN>
 		<Description>Σερβιέτες με φτερά που προσφέρουν προστασία από τις διαρροές, εφαρμόζουν στο σώμα και εξουδετερώνουν τις οσμές.</Description>
 		<Barcode>4015400759119</Barcode>
-		<Quantity>489</Quantity>
+		<Quantity>483</Quantity>
 	</product>
 	<product>
 		<ID>61053</ID>
@@ -10534,7 +10534,7 @@
 		<MPN>1373001</MPN>
 		<Description>Το σαμπουάν Pantene Pro-V Αναδόμηση &amp; Προστασία καταπολεμά τα σημάδια φθοράς και περιποιείται τα ταλαιπωρημένα ή ξηρά μαλλιά, προσφέροντας απαλά μαλλιά που λάμπουν από υγεία.  Οφέλη      Αντιστρέφει άμεσα τα σημάδια φθοράς, όπως η έλλειψη απαλότητας και λάμψης.     Επαναφέρει τη δύναμη της τρίχας ενάντια στη φθορά απο το styling και προλαμβάνει τη δημιουργία ψαλίδας     Προσδίδει υγιή λάμψη &amp; απαλότητα στα μαλλιά σας.     Για αδύναμα ή ταλαιπωρημένα μαλλιά     Για ορατά υγιή, λαμπερά μαλλιά  Οδηγίες Χρήσης  Κάντε ελαφρύ μασάζ σε βρεγμένα μαλλιά για να δημιουργήσετε αφρό. Ξεβγάλτε. Συστατικά  Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xylenesulfonate, Sodium Lauryl Sulfate, Glycol Distearate, Sodium Chloride, Stearyl Alcohol, Fragrance, Dimethiconol, Cetyl Alcohol, Dimethicone, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Tea-dodecylbenzenesulfonate, Tetrasodium Edta, Trideceth-10, Trisodium Ethylenediamine Disuccinate, Panthenol, Panthenyl Ethyl Ether, Methylchloroisothiazolinone, Yellow 5, Methylisothiazolinone, Red 33</Description>
 		<Barcode>8001841267111</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>66051</ID>
@@ -14426,7 +14426,7 @@
 		<MPN>173352</MPN>
 		<Description>Βασικά Χαρακτηριστικά 1. 1. Σύνθεση  Το σφουγγαράκι αποτελείται από 36% ίνες πολυεστέρα, 46% χαλύβδινο σύρμα και 18% πολυουρεθάνη δημιουργώντας μια ειδική δομή από ανοξείδωτο ατσάλι. Αυτός ο αρμονικός συνδυασμός είναι ανθεκτικός, αφαιρεί χωρίς κόπο τους επίμονους λεκέδες και δεν σκουριάζει. 2. 2. Απόλυτη Υγιεινή  Το μεταλλικό σφουγγαράκι PowerInox μπορεί να ξεπλυθεί και να καθαριστεί σχολαστικά με νερό. Χάρη στην συμπαγή δομή του, τα υπολείμματα τροφών καθαρίζονται εύκολα και δεν παραμένουν στις ίνες όπως στα κοινά σύρματα. Έτσι το σφουγγάρι σας διατηρείται καθαρό και υγιεινό για περισσότερο. 3. 3. Αποτελεσματικός Καθαρισμός  Για τον καθαρισμό επίμονων λεκέδων, καμένων λαδιών ή υπολειμμάτων τροφίμων, αγοράστε το ειδικό σφουγγάρι PowerInox από ανοξείδωτο ατσάλι και καθαρίστε γρήγορα και εύκολα τη βρωμιά.</Description>
 		<Barcode>4023103172036</Barcode>
-		<Quantity>2896</Quantity>
+		<Quantity>2886</Quantity>
 	</product>
 	<product>
 		<ID>74250101</ID>
@@ -14973,7 +14973,7 @@
 		<MPN>0800</MPN>
 		<Description>Κύβοι προσανάμματος οι οποίοι είναι ιδανικοί για να ανάψετε φωτιά με χρήση ξύλων ή κάρβουνων, εύκολα και χωρίς κόπο.</Description>
 		<Barcode>4012425171216</Barcode>
-		<Quantity>2941</Quantity>
+		<Quantity>2939</Quantity>
 	</product>
 	<product>
 		<ID>751311</ID>
@@ -21708,7 +21708,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>• Μέγεθος: Β5• Δέσιμο: Καρφίτσα• Αριθμός φύλλων: 50• Διαστάσεις: 17x25cm</Description>
 		<Barcode>5203358040345</Barcode>
-		<Quantity>211</Quantity>
+		<Quantity>209</Quantity>
 	</product>
 	<product>
 		<ID>79012</ID>
@@ -21726,7 +21726,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>•Μέγεθος: Β5•Αριθμός φύλλων: 50•Πλαστικό εξώφυλλο•Διχάρακο</Description>
 		<Barcode>5200000040432</Barcode>
-		<Quantity>49</Quantity>
+		<Quantity>48</Quantity>
 	</product>
 	<product>
 		<ID>79013</ID>
@@ -21780,7 +21780,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>•Τύπος Φύλλου: Ριγέ•Αριθμός Φύλλων: 50•Δέσιμο: Καρφίτσα•Βάρος Φύλλου: 70gr•Διαστάσεις: 17x25 cm</Description>
 		<Barcode>5200000040623</Barcode>
-		<Quantity>18</Quantity>
+		<Quantity>14</Quantity>
 	</product>
 	<product>
 		<ID>79022</ID>
@@ -21798,7 +21798,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>•Τύπος Φύλλου: Ριγέ•Αριθμός Φύλλων: 50•Δέσιμο: Καρφίτσα•Βάρος Φύλλου: 70gr•Διαστάσεις: 17x25 cm</Description>
 		<Barcode>5200000040630</Barcode>
-		<Quantity>2</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79061</ID>
@@ -21886,7 +21886,7 @@
 		<MPN>4601-1</MPN>
 		<Description>Το σπιράλ σημειωματάριο Micro είναι πολύ πρακτικό χάρη στο μικρό του μέγεθος, το δέσιμο σπιράλ και τη ριγέ γραμμογράφηση που σας επιτρέπουν να κρατάτε άνετα τις απαραίτητες σημειώσεις! Κάθε σεμειωματάριο διαθέτει 80 φύλλα και σκληρό οπισθόφυλλο για να μπορείς να γράφεις σταθερά. Έχει 2 θέματα, εξώφυλλο από χαρτί Pressboard και διατίθεται σε πάκετο 12 τεμαχίων.</Description>
 		<Barcode>5200000460117</Barcode>
-		<Quantity>30</Quantity>
+		<Quantity>28</Quantity>
 	</product>
 	<product>
 		<ID>79088</ID>
@@ -21973,7 +21973,7 @@
 		<MPN>SP01082-05</MPN>
 		<Description>Μολύβι γραφίτη της εταιρείας Typotrust. Διαθέτει τον πιο συνηθισμένο τύπο μύτης, με μέση σκληρότητα HB, ιδανικό για γράψιμο και γραμμικό σχέδιο. Διατίθεται σε σετ 12 τεμαχίων.</Description>
 		<Barcode>5207146015027</Barcode>
-		<Quantity>164</Quantity>
+		<Quantity>152</Quantity>
 	</product>
 	<product>
 		<ID>79182</ID>
@@ -22025,7 +22025,7 @@
 		<Weight>0.04 kg</Weight>
 		<Description>• Κατάλληλη για χειροτεχνίες και κολάζ• Μη τοξική• Κατάλληλη για χρήση στο σχολείο, στο σπίτι και στο γραφείο•Δεν ξεκολλάει και δεν αφήνει ίχνη• Με καπάκι ασφαλείας για να μη στεγώνει• Καθαρίζεται πολύ εύκολα με νερό</Description>
 		<Barcode>8802946508389</Barcode>
-		<Quantity>74</Quantity>
+		<Quantity>71</Quantity>
 	</product>
 	<product>
 		<ID>79213</ID>
@@ -22095,7 +22095,7 @@
 		<Weight>0.2 kg</Weight>
 		<Description>Έχει μήκος 10m και πάχος 5mm για διόρθωση μίας μονής γραμμής τυπωμένου κειμένου. Δεν αφήνει ίχνη ή σκιάσεις στις φωτοτυπίες, είναι κατάλληλο για τους περισσότερους τύπους χαρτιού. Πραγματοποιεί στεγνή διόρθωση δινοντάς σας τη δυνατότητα άμεσου γραψίματος ή δακτυλογράφησης επάνω στο έγγραφο που διορθώσατε.</Description>
 		<Barcode>4716493650016</Barcode>
-		<Quantity>85</Quantity>
+		<Quantity>84</Quantity>
 	</product>
 	<product>
 		<ID>793100101</ID>
@@ -22573,7 +22573,7 @@
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
 		<Barcode>5203358500344</Barcode>
-		<Quantity>2437</Quantity>
+		<Quantity>2365</Quantity>
 	</product>
 	<product>
 		<ID>7949903</ID>
@@ -23069,7 +23069,7 @@
 		<MPN>1575</MPN>
 		<Description>Λάμπα LED με απόδοση φωτεινότητας 810 lumen και διάμετρο 60mm, για τοποθέτηση σε φωτιστικά με εφαρμογή E27.</Description>
 		<Barcode>5207227112621</Barcode>
-		<Quantity>60</Quantity>
+		<Quantity>65</Quantity>
 	</product>
 	<product>
 		<ID>7971004</ID>
@@ -23103,7 +23103,7 @@
 		<MPN>147-77004</MPN>
 		<Description>Λάμπα LED με απόδοση φωτεινότητας 1521 lumen και διάμετρο 60mm, για τοποθέτηση σε φωτιστικά με εφαρμογή E27. Χαρακτηριστικά  Είναι κατασκευασμένη από πλαστικό με ψύκτρα αλουμινίου και μέσο χρόνο ζωής 25.000 ώρες. Κατά την λειτουργία της θα προσθέτει στο χώρο ψυχρό λευκό φως (6500K).</Description>
 		<Barcode>5207227112683</Barcode>
-		<Quantity>5</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7971011</ID>
@@ -23375,7 +23375,7 @@
 		<MPN>1589</MPN>
 		<Description>Ισχύς: 5W    Τάση: 220V    Lumen: 400lm    Χρώμα: Ψυχρό Λευκό    Εφαρμογή: E14    Σχήμα: C37</Description>
 		<Barcode>5207227113345</Barcode>
-		<Quantity>42</Quantity>
+		<Quantity>36</Quantity>
 	</product>
 	<product>
 		<ID>7971102</ID>
@@ -23392,7 +23392,7 @@
 		<MPN>1590</MPN>
 		<Description>Η συγκεκριμένη λάμπα αν τοποθετηθεί μόνη της είναι ικανή να φωτίσει επαρκώς ένα μικρό χώρο, περίπου 6 τ.μ.. Μπορεί να αντικαταστήσει μια πυρακτώσεως από 50 μέχρι 58 watt ή μια αλογόνου από 30 μέχρι 34 watt, διατηρώντας το ίδιο επίπεδο φωτεινότητας στο χώρο.</Description>
 		<Barcode>5207227113437</Barcode>
-		<Quantity>20</Quantity>
+		<Quantity>14</Quantity>
 	</product>
 	<product>
 		<ID>7971111</ID>
@@ -26919,7 +26919,7 @@
 		<MPN>PB722 / 35525B</MPN>
 		<Description>* UGREEN PB722/35525B Power Bank; * Χωρητικότητα: 25.000 mAh; * Μέγιστη ισχύς: 200W; * Διεπαφή εισόδου:   - USB-C1/2: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A, 65W μέγ.; * Διεπαφή εξόδου:   - USB-C1: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 28V/5A, 140W μέγ.;   - USB-C2: 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 100W μέγ.;   - USB-A: 5V/3A, 9V/2A, 12V/1.5A, 10V/2.25A, 22.5W; * Υποστηριζόμενα πρωτόκολλα γρήγορης εκκίνησης:   - USB-C: PD3.0/PD2.0/PPS/QC4+/QC3.0/QC2.0/AFC/APPLE 5V2.4A/BC1.2.   - USB-A: SCP/QC3.0/QC2.0/FCP/AFC/APPLE 5V2.4A/BC1.2. * Οθόνη LED. * Προστασία από υπερφόρτιση, υπερβολική εκφόρτιση, υπέρταση, υπερφόρτωση, βραχυκύκλωμα. * Το κιτ περιέχει καλώδιο Type-C - Type-C. * Μέγεθος: 131 x 54 x 50,8 mm. * Βάρος: 592 g.</Description>
 		<Barcode>6941876242931</Barcode>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>799519501</ID>
@@ -27676,7 +27676,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.621599189</Price>
+		<Price>17.94</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; WiFi Extenders</Category_Path>
 		<Manufacturer>Mercusys</Manufacturer>
@@ -27693,7 +27693,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.4834860232</Price>
+		<Price>22.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; WiFi Extenders</Category_Path>
 		<Manufacturer>TP-LINK</Manufacturer>
@@ -28480,7 +28480,7 @@
 		<Weight>0.5 kg</Weight>
 		<Description>Μακρύσπερμο ρύζι που παίρνει το χρυσαφένιο χρώμα από τα συστατικά του εξωτερικού φλοιού του, κατά την υγροθερμική επεξεργασία, ο οποίος απομακρύνεται στη συνέχεια. Θεωρείται ιδανικό για πιλάφι λόγω του ότι παραμένει σπυρωτό.</Description>
 		<Barcode>5212006201304</Barcode>
-		<Quantity>465</Quantity>
+		<Quantity>459</Quantity>
 	</product>
 	<product>
 		<ID>81013</ID>
@@ -29001,7 +29001,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
 		<Barcode>6111260550359</Barcode>
-		<Quantity>1811</Quantity>
+		<Quantity>1801</Quantity>
 	</product>
 	<product>
 		<ID>852261</ID>
@@ -29019,7 +29019,7 @@
 		<Weight>0.1 kg</Weight>
 		<Description>Σαρδέλες της εταιρίας Josiane, για να απολαμβάνετε το αγαπημένο σας έδεσμα όποια στιγμή της ημέρας το επιθυμείτε! Τρώγονται σαν συνοδευτικός ψαρομεζές, αλλά συνδυάζονται τέλεια με ρύζι δημιουργώντας ένα χορταστικό κυρίως γεύμα. Συσκευασία των 125γρ.</Description>
 		<Barcode>6111260550366</Barcode>
-		<Quantity>643</Quantity>
+		<Quantity>633</Quantity>
 	</product>
 	<product>
 		<ID>85228</ID>
@@ -29724,7 +29724,7 @@
 		<Weight>2 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 2kg</Description>
 		<Barcode>5202546009140</Barcode>
-		<Quantity>1148</Quantity>
+		<Quantity>1146</Quantity>
 	</product>
 	<product>
 		<ID>99122</ID>
