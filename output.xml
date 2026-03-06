@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-06 16:05</created_at>
+	<created_at>2026-03-06 16:56</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -640,7 +640,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2361</Quantity>
+		<Quantity>2362</Quantity>
 	</product>
 	<product>
 		<ID>120218</ID>
@@ -658,7 +658,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>628</Quantity>
+		<Quantity>627</Quantity>
 	</product>
 	<product>
 		<ID>1202186</ID>
@@ -9530,7 +9530,7 @@
 		<Manufacturer>NIVEA</Manufacturer>
 		<MPN>1055</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Διακριτικό Άρωμα•48 Ώρες Προστασία•Δερματολογικά Ελεγμένο•Σύνθεση Χωρίς Αιθυλική ΑλκοόληΑποσμητικό σώματος πρωτοποριακής σύνθεσης με πολύτιμα εκχυλίσματα μαργαριταριού για ομοιόμορφο χρωματικό τόνο και απαλή επιδερμίδα, αποτελεσματικό στην προστασία από τον ιδρώτα και την κακοσμία.</Description>
-		<Quantity>165</Quantity>
+		<Quantity>164</Quantity>
 	</product>
 	<product>
 		<ID>63012</ID>
@@ -9564,7 +9564,7 @@
 		<Manufacturer>NOXZEMA</Manufacturer>
 		<MPN>1245</MPN>
 		<Description>Αποσμητικό σώματος με άρωμα της Noxzema σε μορφή roll-on. Καταπολεμά την κακοσμία, αντιμετωπίζοντας τα βακτήρια και τους μικροοργανισμούς που την προκαλούν. Τα βασικά ενεργά συστατικά του αποτελούνται κυρίως από παράγωγα φαινόλης, αιθανόλης και αιθέριων ελαίων, τα οποία εμποδίζουν τον βακτηριδιακό πολλαπλασιασμό χωρίς, ωστόσο, να εμποδίζουν την έκκριση ιδρώτα.•Φύλο: Γυναίκα•Περιοχή Χρήσης: Σώμα•Τύπος: Roll-On</Description>
-		<Quantity>33</Quantity>
+		<Quantity>32</Quantity>
 	</product>
 	<product>
 		<ID>63031</ID>
@@ -9598,7 +9598,7 @@
 		<Manufacturer>OLD SPICE</Manufacturer>
 		<MPN>1059</MPN>
 		<Description>Αποσμητικό σε μορφή στικ που αρωματίζει διακριτικά με την κλασική μυρωδιά Old Spice.</Description>
-		<Quantity>63</Quantity>
+		<Quantity>62</Quantity>
 	</product>
 	<product>
 		<ID>63051</ID>
@@ -11395,7 +11395,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.884166258688</Price>
+		<Price>2.98197504</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11413,7 +11413,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.884166258688</Price>
+		<Price>2.98197504</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11431,7 +11431,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.884166258688</Price>
+		<Price>2.98197504</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11449,7 +11449,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>2.884166258688</Price>
+		<Price>2.98197504</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11468,7 +11468,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.05768925</Price>
+		<Price>2.984304708</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -11487,7 +11487,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.05768925</Price>
+		<Price>2.984304708</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -11506,7 +11506,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.05768925</Price>
+		<Price>2.984304708</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -11525,7 +11525,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.05768925</Price>
+		<Price>2.984304708</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -15935,23 +15935,6 @@
 		<Quantity>9489</Quantity>
 	</product>
 	<product>
-		<ID>760100152</ID>
-		<Barcode>5200128640378</Barcode>
-		<Name>Softline Fresher Αρωματικές Σακούλες Απορριμάτων 50x50cm 30τμχ Λευκές</Name>
-		<Product_Link>https://beautyfree.gr/el/diafora-gia-to-spiti/3048-softline-50x50-30-5200128640378.html</Product_Link>
-		<Image_Link>https://beautyfree.gr/32902-large_default/softline-50x50-30.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.551311564</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Είδη Καθαρισμού &amp; Οικιακής Χρήσης &gt; Σακούλες Απορριμμάτων</Category_Path>
-		<Manufacturer>SOFTLINE</Manufacturer>
-		<MPN>0891</MPN>
-		<Description>Οι σακούλες απορριμμάτων Softline με διαστάσεις 50x50cm είναι ιδανικές για την καθημερινή διαχείριση των απορριμμάτων στο σπίτι ή στο γραφείο. Με ποιοτική κατασκευή και ανθεκτικότητα, αυτές οι λευκές σακούλες παρέχουν αξιόπιστη προστασία από διαρροές και αντέχουν στην καθημερινή χρήση. Κάθε συσκευασία περιλαμβάνει 30 τεμάχια.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>760200101</ID>
 		<Barcode>0194343035376</Barcode>
 		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι Γκρι με Πεντάλ 30lt LTB03GS</Name>
@@ -16220,7 +16203,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.74380784</Price>
+		<Price>14</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16237,7 +16220,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.248722632</Price>
+		<Price>19.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16289,7 +16272,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.37925664</Price>
+		<Price>20.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16306,7 +16289,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.87022672</Price>
+		<Price>20.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16323,7 +16306,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.21671808</Price>
+		<Price>12.73</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Ντουλάπας</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16340,7 +16323,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>35.2682288</Price>
+		<Price>33.69576</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Δαπέδου</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16357,7 +16340,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.6160592</Price>
+		<Price>35.942144</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Δαπέδου</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -16381,24 +16364,6 @@
 		<MPN>HSR60B</MPN>
 		<Description>Κρεμάστρα δαπέδου κατασκευασμένη από μεταλλικό υλικό. Διαθέτει μεταλλικούς σωλήνες, εξασφαλίζοντας αντοχή και σταθερότητα, με μέγιστο βάρος τα 110kg. Είναι εξοπλισμένη με 2 ράγες, επιπρόσθετο ράφι στο κάτω μέρος για παπούτσια και 4 πλαστικές και περιστρεφόμενες ρόδες 360° με φρένα ασφάλισης για εύκολη μετακίνηση.</Description>
 		<Quantity>49</Quantity>
-	</product>
-	<product>
-		<ID>762033121</ID>
-		<Barcode>0194343234373</Barcode>
-		<Name>Vasagle Κρεμάστρα Δαπέδου από Μέταλλο και Ξύλο με 3 Ράφια, Βάση για Παλτά, Γάντζους για Κασκόλ, Τσάντες και Ομπρέλες, σε Ρουστίκ Καφέ και Μαύρο Χρώμα, 45x45x181cm LCR80X</Name>
-		<Product_Link>https://www.skroutz.gr/s/23778780/Vasagle-Kremastra-Dapedou-apo-Xylo-se-Kafe-CHroma-45x45x181cm-LCR80X.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/023778/23778780/fixedratio_20200625132615_vasagle_kalogeros_metallikos_lcr80x.jpeg</Image_Link>
-		<Additional>https://b.scdn.gr/images/sku_images/066241/66241247/fixedratio_20221019084541_e680ad8b.jpeg https://a.scdn.gr/images/sku_images/066241/66241245/fixedratio_20221019084541_37103751.jpeg https://b.scdn.gr/images/sku_images/066241/66241246/fixedratio_20221019084541_f0284037.jpeg https://b.scdn.gr/images/sku_images/066241/66241244/fixedratio_20221019084541_cbd83cb5.jpeg https://a.scdn.gr/images/sku_images/066241/66241248/fixedratio_20221019084541_d7abfe71.jpeg</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>40.434912</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Δαπέδου</Category_Path>
-		<Manufacturer>Vasagle</Manufacturer>
-		<MPN>LCR80X</MPN>
-		<Description>Ο καλόγερος, από την εταιρία VASAGLE, είναι κατασκευασμένος από ανθεκτικό σιδερένιο σκελετό και μοριοσανίδες σε ρουστίκ καφέ απόχρωση. Ο καλόγερος διαθέτει 8 άγκιστρα για να κρεμάσετε μπουφάν, παλτό, ζακέτες, ακόμα και καπέλα, καθώς και 3 ράφια. Τα καπάκια στις άκρες των αγκίστρων προφυλάσσουν τα ρούχα σας από πιθανά σκισίματα.  Χαρακτηριστικά:  Σιδερένιος σκελετός 3 ράφια από μοριοσανίδα 8 άγκιστρα για μπουφάν, παλτό, ή και καπέλα Εύκολος καθαρισμό Μέγιστο βάρος: 10 Kg Διαστάσεις: 45 x 45 x 181 cm</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>76204</ID>
@@ -18125,7 +18090,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>58.96758</Price>
+		<Price>50.54</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Σαλονιού&gt; Τραπεζάκια Σαλονιού</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18161,7 +18126,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>135.625434</Price>
+		<Price>103.33</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Σαλονιού&gt; Τραπεζάκια Σαλονιού</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18232,7 +18197,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>84.0147616</Price>
+		<Price>75.82</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροέπιπλα &gt; Σκαμπό</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18348,42 +18313,6 @@
 		<Quantity>13</Quantity>
 	</product>
 	<product>
-		<ID>7700113101</ID>
-		<Barcode>0194343059280</Barcode>
-		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Μαύρο Χρώμα LBC072B01</Name>
-		<Product_Link>https://www.skroutz.gr/s/48906277/Goniako-Rafi-Toichou-LBC072B01-Mayro-20x20x127-5ek.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/048906/48906277/fixedratio_20231220132821_goniako_rafi_toichou_lbc072b01_mayro_20x20x127_5ek.jpeg</Image_Link>
-		<Additional>https://a.scdn.gr/images/sku_images/086694/86694917/fixedratio_20231220132833_6674dbec.jpeg https://d.scdn.gr/images/sku_images/086694/86694881/fixedratio_20231220132823_44d5a3b4.jpeg https://c.scdn.gr/images/sku_images/086694/86694891/fixedratio_20231220132825_9d77b12f.jpeg https://b.scdn.gr/images/sku_images/086694/86694900/fixedratio_20231220132827_a658ad0a.jpeg https://a.scdn.gr/images/sku_images/086694/86694906/fixedratio_20231220132830_f5865061.jpeg https://d.scdn.gr/images/sku_images/086694/86694912/fixedratio_20231220132832_84a7d8eb.jpeg</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>19.1644635</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
-		<Manufacturer>Vasagle</Manufacturer>
-		<MPN>LBC072B01</MPN>
-		<Description>Κομψό γωνιακό ράφι: Οργανώστε και εκθέστε τα βιβλία και άλλα διακοσμητικά σας με αυτό το νέο και μοναδικό γωνιακό ράφι  Μεγιστοποιήστε τον χώρο του δωματίου σας: Με απόσταση 20 cm μεταξύ κάθε ραφιού, αυτή η ραφιέρα αποθήκευσης 5 επιπέδων είναι ιδανική για φυτά, παιχνίδια και άλλα διακοσμητικά. Με μέγεθος 20 x 20 x 127,5 cm, μπορείτε να τη χρησιμοποιήσετε ακόμη και σε μικρά δωμάτια.  Κατασκευασμένο για να διαρκεί: Οι σανίδες από επεξεργασμένο ξύλο με πάχος 15 mm μπορούν να αντέξουν έως και 6 κιλά για κάθε ράφι. Εξαρτήματα αγκύρωσης για μεγάλη σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.  Κομψό &amp; Πρακτικό: Μοναδικό σχήμα ζιγκ-ζαγκ και καμπυλωτά ράφια, αισθητικά ευχάριστα και χωρίς χτυπήματα για παιδιά. Ανοιχτό ράφι για εύκολη μεταφορά, ιδανικό για σαλόνια, υπνοδωμάτια ή γραφείο.  Τι παίρνετε: Ένα γωνιακό ράφι με λεπτομερείς οδηγίες για εύκολη εγκατάσταση και έναν συναρπαστικό τρόπο για να τοποθετήσετε διακοσμητικά χρησιμοποιώντας τον γωνιακό χώρο στον τοίχο.  Προδιαγραφές: - Χρώμα: Μαύρο - Υλικό: Μοριοσανίδα με επένδυση μελαμίνης - Μέγεθος προϊόντος: 20 x 20 x 127,5 cm (Μ x Π x Υ) - Βάρος προϊόντος: 4,5 kg - Μέγιστη στατική χωρητικότητα ανά ράφι: 15 kg  Περιεχόμενα συσκευασίας: - 1 x Γωνιακό ράφι - 1 x Τσάντα αξεσουάρ - 1 x Οδηγίες (EN, DE, ES, FR, IT)</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7700113102</ID>
-		<Barcode>0194343059303</Barcode>
-		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Λευκό Χρώμα LBC72WT</Name>
-		<Product_Link>https://www.skroutz.gr/s/53358347/Goniako-Rafi-Toichou-LBC20WT-White-20x20x127-5ek.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/053358/53358347/fixedratio_20240510105556_goniako_rafi_toichou_songmics_6955880333899_white_20x20x127_5ek.jpeg</Image_Link>
-		<Additional>https://b.scdn.gr/images/sku_images/095580/95580872/fixedratio_20240510105558_816a545f.jpeg https://d.scdn.gr/images/sku_images/095580/95580881/fixedratio_20240510105600_3981bcfd.jpeg https://a.scdn.gr/images/sku_images/095580/95580905/fixedratio_20240510105607_3dec9e40.jpeg https://a.scdn.gr/images/sku_images/095580/95580921/fixedratio_20240510105608_a1c6593b.jpeg https://b.scdn.gr/images/sku_images/095580/95580930/fixedratio_20240510105610_fee6080b.jpeg https://c.scdn.gr/images/sku_images/095580/95580944/fixedratio_20240510105612_aba49cf4.jpeg</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>19.1644635</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
-		<Manufacturer>Vasagle</Manufacturer>
-		<MPN>LBC72WT</MPN>
-		<Description>Κομψό γωνιακό ράφι: Οργανώστε και εκθέστε τα βιβλία και άλλα διακοσμητικά σας με αυτό το νέο και μοναδικό γωνιακό ράφι  Μεγιστοποιήστε τον χώρο του δωματίου σας: Με απόσταση 20 cm μεταξύ κάθε ραφιού, αυτή η ραφιέρα αποθήκευσης 5 επιπέδων είναι ιδανική για φυτά, παιχνίδια και άλλα διακοσμητικά. Με μέγεθος 20 x 20 x 127,5 cm, μπορείτε να τη χρησιμοποιήσετε ακόμη και σε μικρά δωμάτια.  Κατασκευασμένο για να διαρκεί: Οι σανίδες από επεξεργασμένο ξύλο με πάχος 15 mm μπορούν να αντέξουν έως και 6 κιλά για κάθε ράφι. Εξαρτήματα αγκύρωσης για μεγάλη σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.  Κομψό &amp; Πρακτικό: Μοναδικό σχήμα ζιγκ-ζαγκ και καμπυλωτά ράφια, αισθητικά ευχάριστα και χωρίς χτυπήματα για παιδιά. Ανοιχτό ράφι για εύκολη μεταφορά, ιδανικό για σαλόνια, υπνοδωμάτια ή γραφείο.  Τι παίρνετε: Ένα γωνιακό ράφι με λεπτομερείς οδηγίες για εύκολη εγκατάσταση και έναν συναρπαστικό τρόπο για να τοποθετήσετε διακοσμητικά χρησιμοποιώντας τον γωνιακό χώρο στον τοίχο.  Προδιαγραφές: - Χρώμα: Λευκό - Υλικό: Μοριοσανίδα με επένδυση μελαμίνης - Μέγεθος προϊόντος: 20 x 20 x 127,5 cm (Μ x Π x Υ) - Βάρος προϊόντος: 4,5 kg - Μέγιστη στατική χωρητικότητα ανά ράφι: 15 kg  Περιεχόμενα συσκευασίας: - 1 x Γωνιακό ράφι - 1 x Τσάντα αξεσουάρ - 1 x Οδηγίες</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>770011303</ID>
 		<Barcode>0194343046068</Barcode>
 		<Name>Songmics Σετ 2 Ραφιών Τοίχου MDF, σε Ρετρό Στυλ, για Υπνοδωμάτιο, Σαλόνι, Κουζίνα, Διάδρομο, Μέγιστο Βάρος 15 kg/ Έκαστο, 60x20x7cm, σε Ρουστίκ  Καφέ και Μαύρο Χρώμα LWS04NB</Name>
@@ -18393,7 +18322,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.641396</Price>
+		<Price>22.744638</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -18411,13 +18340,49 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.53</Price>
+		<Price>14.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LWS33BX</MPN>
 		<Description>ΩΡΑ ΓΙΑ ΕΚΘΕΣΗ! Αγοράσατε μερικά ωραία διακοσμητικά για να ζωντανέψετε το σπίτι σας, μόνο και μόνο για να διαπιστώσετε ότι όλα καταλήγουν ακόμα σε κουτιά ή ντουλάπια; Ήρθε η ώρα να τοποθετήσετε αυτό το σετ από 3 ράφια τοίχου, να τους προσφέρετε μια σκηνή και να τα εκθέσετε δυνατά και περήφανα.  ΠΡΟΣΘΕΣΤΕ ΜΙΑ ΡΟΥΣΤΙΚΗ ΑΙΣΘΗΣΗ: Ναι, τα αγαπημένα σας συλλεκτικά αντικείμενα πρωταγωνιστούν στην έκθεση, αλλά αυτός είναι και ο λόγος που χρειάζεστε αυτά τα εντυπωσιακά ράφια για να ολοκληρώσετε την εμφάνιση. Ο εντυπωσιακός συνδυασμός ρουστίκ ραφιών και μαύρου πλαισίου θα τονίσει αυτό που εκτίθεται.  ΤΑ ΥΛΙΚΑ ΜΙΛΑΝΕ ΑΠΟ ΤΑ ΜΟΝΑ ΤΟΥΣ: Με ανθεκτικά στηρίγματα από ξύλο και χάλυβα για μακροχρόνια στήριξη, τα επιτοίχια ράφια λειτουργούν άψογα ακόμα και όταν είναι γεμάτα με βιβλία, γλάστρες, μπαχαρικά ή είδη προσωπικής υγιεινής.  ΚΡΑΤΗΣΤΕ ΤΗ ΖΩΗ ΕΥΚΟΛΗ: Η ζωή δεν πρέπει να είναι περίπλοκη, γι' αυτό σχεδιάσαμε τα ράφια τοίχου ώστε να συναρμολογούνται εύκολα με λίγα μόνο βήματα. 2 τρόποι συναρμολόγησης (το μεταλλικό πλαίσιο πάνω ή κάτω) σας προσφέρουν περισσότερες επιλογές, ακόμα και όταν η ζωή δεν είναι τόσο περίπλοκη.  Προδιαγραφές: - Χρώμα: Ρουστίκ Καφέ - Υλικό: Μοριοσανίδα, Μέταλλο - Μέγεθος Μικρού Ραφιού: 30 x 12 x 11 εκ. (Μ x Π x Υ) - Μέγεθος Μεσαίου Ραφιού: 35 x 12 x 11 εκ. (Μ x Π x Υ) - Μέγεθος Μεγάλου Ραφιού: 40 x 12 x 11 εκ. (Μ x Π x Υ) - Βάρος Προϊόντος: 2,5 kg - Στατική Χωρητικότητα Κάθε Ραφιού: 5 kg  Περιεχόμενα Συσκευασίας: - 3 x Ράφι Τοίχου - 1 x Κλειδί Allen - 1 x Τσάντα Αξεσουάρ - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
 		<Quantity>204</Quantity>
+	</product>
+	<product>
+		<ID>7700113101</ID>
+		<Barcode>0194343059280</Barcode>
+		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Μαύρο Χρώμα LBC072B01</Name>
+		<Product_Link>https://www.skroutz.gr/s/48906277/Goniako-Rafi-Toichou-LBC072B01-Mayro-20x20x127-5ek.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/048906/48906277/fixedratio_20231220132821_goniako_rafi_toichou_lbc072b01_mayro_20x20x127_5ek.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/086694/86694917/fixedratio_20231220132833_6674dbec.jpeg https://d.scdn.gr/images/sku_images/086694/86694881/fixedratio_20231220132823_44d5a3b4.jpeg https://c.scdn.gr/images/sku_images/086694/86694891/fixedratio_20231220132825_9d77b12f.jpeg https://b.scdn.gr/images/sku_images/086694/86694900/fixedratio_20231220132827_a658ad0a.jpeg https://a.scdn.gr/images/sku_images/086694/86694906/fixedratio_20231220132830_f5865061.jpeg https://d.scdn.gr/images/sku_images/086694/86694912/fixedratio_20231220132832_84a7d8eb.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.690274</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC072B01</MPN>
+		<Description>Κομψό γωνιακό ράφι: Οργανώστε και εκθέστε τα βιβλία και άλλα διακοσμητικά σας με αυτό το νέο και μοναδικό γωνιακό ράφι  Μεγιστοποιήστε τον χώρο του δωματίου σας: Με απόσταση 20 cm μεταξύ κάθε ραφιού, αυτή η ραφιέρα αποθήκευσης 5 επιπέδων είναι ιδανική για φυτά, παιχνίδια και άλλα διακοσμητικά. Με μέγεθος 20 x 20 x 127,5 cm, μπορείτε να τη χρησιμοποιήσετε ακόμη και σε μικρά δωμάτια.  Κατασκευασμένο για να διαρκεί: Οι σανίδες από επεξεργασμένο ξύλο με πάχος 15 mm μπορούν να αντέξουν έως και 6 κιλά για κάθε ράφι. Εξαρτήματα αγκύρωσης για μεγάλη σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.  Κομψό &amp; Πρακτικό: Μοναδικό σχήμα ζιγκ-ζαγκ και καμπυλωτά ράφια, αισθητικά ευχάριστα και χωρίς χτυπήματα για παιδιά. Ανοιχτό ράφι για εύκολη μεταφορά, ιδανικό για σαλόνια, υπνοδωμάτια ή γραφείο.  Τι παίρνετε: Ένα γωνιακό ράφι με λεπτομερείς οδηγίες για εύκολη εγκατάσταση και έναν συναρπαστικό τρόπο για να τοποθετήσετε διακοσμητικά χρησιμοποιώντας τον γωνιακό χώρο στον τοίχο.  Προδιαγραφές: - Χρώμα: Μαύρο - Υλικό: Μοριοσανίδα με επένδυση μελαμίνης - Μέγεθος προϊόντος: 20 x 20 x 127,5 cm (Μ x Π x Υ) - Βάρος προϊόντος: 4,5 kg - Μέγιστη στατική χωρητικότητα ανά ράφι: 15 kg  Περιεχόμενα συσκευασίας: - 1 x Γωνιακό ράφι - 1 x Τσάντα αξεσουάρ - 1 x Οδηγίες (EN, DE, ES, FR, IT)</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7700113102</ID>
+		<Barcode>0194343059303</Barcode>
+		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Λευκό Χρώμα LBC72WT</Name>
+		<Product_Link>https://www.skroutz.gr/s/53358347/Goniako-Rafi-Toichou-LBC20WT-White-20x20x127-5ek.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/053358/53358347/fixedratio_20240510105556_goniako_rafi_toichou_songmics_6955880333899_white_20x20x127_5ek.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/095580/95580872/fixedratio_20240510105558_816a545f.jpeg https://d.scdn.gr/images/sku_images/095580/95580881/fixedratio_20240510105600_3981bcfd.jpeg https://a.scdn.gr/images/sku_images/095580/95580905/fixedratio_20240510105607_3dec9e40.jpeg https://a.scdn.gr/images/sku_images/095580/95580921/fixedratio_20240510105608_a1c6593b.jpeg https://b.scdn.gr/images/sku_images/095580/95580930/fixedratio_20240510105610_fee6080b.jpeg https://c.scdn.gr/images/sku_images/095580/95580944/fixedratio_20240510105612_aba49cf4.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.690274</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC72WT</MPN>
+		<Description>Κομψό γωνιακό ράφι: Οργανώστε και εκθέστε τα βιβλία και άλλα διακοσμητικά σας με αυτό το νέο και μοναδικό γωνιακό ράφι  Μεγιστοποιήστε τον χώρο του δωματίου σας: Με απόσταση 20 cm μεταξύ κάθε ραφιού, αυτή η ραφιέρα αποθήκευσης 5 επιπέδων είναι ιδανική για φυτά, παιχνίδια και άλλα διακοσμητικά. Με μέγεθος 20 x 20 x 127,5 cm, μπορείτε να τη χρησιμοποιήσετε ακόμη και σε μικρά δωμάτια.  Κατασκευασμένο για να διαρκεί: Οι σανίδες από επεξεργασμένο ξύλο με πάχος 15 mm μπορούν να αντέξουν έως και 6 κιλά για κάθε ράφι. Εξαρτήματα αγκύρωσης για μεγάλη σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.  Κομψό &amp; Πρακτικό: Μοναδικό σχήμα ζιγκ-ζαγκ και καμπυλωτά ράφια, αισθητικά ευχάριστα και χωρίς χτυπήματα για παιδιά. Ανοιχτό ράφι για εύκολη μεταφορά, ιδανικό για σαλόνια, υπνοδωμάτια ή γραφείο.  Τι παίρνετε: Ένα γωνιακό ράφι με λεπτομερείς οδηγίες για εύκολη εγκατάσταση και έναν συναρπαστικό τρόπο για να τοποθετήσετε διακοσμητικά χρησιμοποιώντας τον γωνιακό χώρο στον τοίχο.  Προδιαγραφές: - Χρώμα: Λευκό - Υλικό: Μοριοσανίδα με επένδυση μελαμίνης - Μέγεθος προϊόντος: 20 x 20 x 127,5 cm (Μ x Π x Υ) - Βάρος προϊόντος: 4,5 kg - Μέγιστη στατική χωρητικότητα ανά ράφι: 15 kg  Περιεχόμενα συσκευασίας: - 1 x Γωνιακό ράφι - 1 x Τσάντα αξεσουάρ - 1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7700120801</ID>
@@ -18428,7 +18393,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>79.39</Price>
+		<Price>89.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Έπιπλα Εισόδου</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18463,7 +18428,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>66.16</Price>
+		<Price>62.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Έπιπλα Εισόδου</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18481,7 +18446,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>53.28142049999999</Price>
+		<Price>42.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18499,7 +18464,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>53.28142049999999</Price>
+		<Price>45.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18534,7 +18499,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>77.50024799999998</Price>
+		<Price>63.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -18761,7 +18726,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>32.29177</Price>
+		<Price>27.8</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Διακοσμητικά Δαπέδου&gt; Καλόγεροι</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18788,6 +18753,24 @@
 		<Quantity>83</Quantity>
 	</product>
 	<product>
+		<ID>7700123105</ID>
+		<Barcode>0194343234373</Barcode>
+		<Name>Vasagle Καλόγερος από Μέταλλο και Ξύλο με 3 Ράφια, Βάση για Παλτά, Γάντζους για Κασκόλ, Τσάντες και Ομπρέλες, σε Ρουστίκ Καφέ και Μαύρο Χρώμα, 45x45x181cm LCR80X</Name>
+		<Product_Link>https://www.skroutz.gr/s/23778780/Vasagle-Kremastra-Dapedou-apo-Xylo-se-Kafe-CHroma-45x45x181cm-LCR80X.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/023778/23778780/fixedratio_20200625132615_vasagle_kalogeros_metallikos_lcr80x.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/066241/66241247/fixedratio_20221019084541_e680ad8b.jpeg https://a.scdn.gr/images/sku_images/066241/66241245/fixedratio_20221019084541_37103751.jpeg https://b.scdn.gr/images/sku_images/066241/66241246/fixedratio_20221019084541_f0284037.jpeg https://b.scdn.gr/images/sku_images/066241/66241244/fixedratio_20221019084541_cbd83cb5.jpeg https://a.scdn.gr/images/sku_images/066241/66241248/fixedratio_20221019084541_d7abfe71.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>42.68</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Δαπέδου</Category_Path>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LCR80X</MPN>
+		<Description>Ο καλόγερος, από την εταιρία VASAGLE, είναι κατασκευασμένος από ανθεκτικό σιδερένιο σκελετό και μοριοσανίδες σε ρουστίκ καφέ απόχρωση. Ο καλόγερος διαθέτει 8 άγκιστρα για να κρεμάσετε μπουφάν, παλτό, ζακέτες, ακόμα και καπέλα, καθώς και 3 ράφια. Τα καπάκια στις άκρες των αγκίστρων προφυλάσσουν τα ρούχα σας από πιθανά σκισίματα.  Χαρακτηριστικά:  Σιδερένιος σκελετός 3 ράφια από μοριοσανίδα 8 άγκιστρα για μπουφάν, παλτό, ή και καπέλα Εύκολος καθαρισμό Μέγιστο βάρος: 10 Kg Διαστάσεις: 45 x 45 x 181 cm</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7700130101</ID>
 		<Barcode>0194343107776</Barcode>
 		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Ρυθμιζόμενο Φωτισμό 80x40x145cm RDT114W01</Name>
@@ -18802,7 +18785,7 @@
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>RDT114W01</MPN>
 		<Description>Τουαλέτα κρεβατοκάμαρας με καθρέπτη από την εταιρεία Vasagle, κατασκευασμένη από MDF ξύλο. Περιμετρικά στον καθρέπτη, υπάρχουν 9 ρυθμιζόμενοι λαμπτήρες, οι οποίοι δημιουργούν επαρκή φωτισμό για το μακιγιάζ σας. Περιλαμβάνει 3 ανοιχτές θήκες και 2 συρτάρια για την οργάνωση κοσμημάτων ή άλλων αντικειμένων.  Ιδανική λύση για την τακτοποίηση προϊόντων ομορφιάς και καθημερινών χρήσεων.  Το προϊόν έρχεται αμοντάριστο και συνοδεύεται από οδηγίες συναρμολόγησης.  Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι όπως φαίνεται στη φωτογραφία. Χαρακτηριστικά:      Από MDF ξύλο     2 συρτάρια     3 ανοιχτές θήκες     Ορθογώνιος καθρέπτης     9 ρυθμιζόμενοι λαμπτήρες     Διαστάσεις: 80 x 40 x 145 cm</Description>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 	</product>
 	<product>
 		<ID>7700130102</ID>
@@ -18865,7 +18848,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>150.1988502</Price>
+		<Price>134.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Διακοσμητικά Δαπέδου &gt; Καθρέπτες Δαπέδου</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -18900,7 +18883,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.58907089</Price>
+		<Price>13.12</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Μόδα &gt; Ρολόγια &gt; Θήκες &amp; Κουρδιστήρια Ρολογιών</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -18936,7 +18919,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>53.28142049999999</Price>
+		<Price>45.49</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Γραφείου&gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -19055,7 +19038,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.76327200000001</Price>
+		<Price>35.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -19072,7 +19055,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.76327200000001</Price>
+		<Price>35.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -19142,7 +19125,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>45.247104</Price>
+		<Price>41.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -19159,7 +19142,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>45.247104</Price>
+		<Price>41.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -19604,7 +19587,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3441</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
-		<Quantity>70</Quantity>
+		<Quantity>68</Quantity>
 	</product>
 	<product>
 		<ID>772100102</ID>
@@ -20473,7 +20456,7 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0634</MPN>
 		<Description>Χάρτινο ποτήρι μιας χρήσης κατάλληλο για όλους τους χώρους εστίασης, με χωρητικότητα 380ml. Διατίθενται σε μαύρο χρώμα και σε συσκευασία των 50 τεμαχίων.</Description>
-		<Quantity>120</Quantity>
+		<Quantity>108</Quantity>
 	</product>
 	<product>
 		<ID>781042</ID>
@@ -21191,7 +21174,7 @@
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1773</MPN>
 		<Description>Κουταλάκι γλυκού συσκευασμένο σε διάφανο πλαστικό 11cm επαναχρησιμοποιούμενο. Ιδανικό για παγωτό ή γλυκό. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
-		<Quantity>3041</Quantity>
+		<Quantity>3039</Quantity>
 	</product>
 	<product>
 		<ID>78615102</ID>
@@ -21225,7 +21208,7 @@
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1775</MPN>
 		<Description>Πηρούνι φαγητού συσκευασμένο σε διάφανο πλαστικό 18cm επαναχρησιμοποιούμενο. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
-		<Quantity>1404</Quantity>
+		<Quantity>1402</Quantity>
 	</product>
 	<product>
 		<ID>78621</ID>
@@ -21550,7 +21533,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.791537136</Price>
+		<Price>0.7813892240000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -21567,7 +21550,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.378366392</Price>
+		<Price>1.360695028</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -21584,7 +21567,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.97884284</Price>
+		<Price>1.95347306</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -21601,7 +21584,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.34594428</Price>
+		<Price>6.12986374</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -21642,6 +21625,22 @@
 		<MPN>1569</MPN>
 		<Description>Αντικολλητικό χαρτί της εταιρίας HOMie, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 38εκ.    Μήκος(εκατοστά): 42εκ.    Τεμάχια: 18τμχ</Description>
 		<Quantity>356</Quantity>
+	</product>
+	<product>
+		<ID>789220101</ID>
+		<Barcode>5202054036546</Barcode>
+		<Name>Θαλασσινός Αντικολλητικό Χαρτί Cook σε Φύλλα 42x38cm 18τμχ ΠΡ3654</Name>
+		<Product_Link>https://www.skroutz.gr/s/30515101/Alufix-Antikollitiko-CHarti-Kommeno-se-Fylla-42x38cm.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/030515/30515101/xlarge_20211005135210_alufix_antikollitiko_charti_18_fylla_42x38cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.93</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
+		<Manufacturer>Θαλασσινός</Manufacturer>
+		<MPN>ΠΡ3654</MPN>
+		<Description>Αντικολλητικό χαρτί της εταιρίας Θαλασσινός, κατάλληλο για ψήσιμο φαγητού στο φούρνο ή για παρασκευή γλυκών που μπαίνουν σε ψυγείο ή κατάψυξη.Χαρακτηριστικά    Πλάτος: 38εκ.    Μήκος(εκατοστά): 42εκ.    Τεμάχια: 18τμχ</Description>
 	</product>
 	<product>
 		<ID>78927</ID>
@@ -21722,13 +21721,30 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.67723395</Price>
+		<Price>3.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Είδη Τυλίγματος Τροφίμων (Χονδρική)</Category_Path>
 		<Manufacturer>HANDY</Manufacturer>
 		<MPN>1572</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Διαστάσεις: 29cm x 200m</Description>
 		<Quantity>22</Quantity>
+	</product>
+	<product>
+		<ID>789321</ID>
+		<Barcode>5202054357313</Barcode>
+		<Name>Θαλασσινός Επαγγελματική Μεμβράνη Τροφίμων 29cm x 200m EM6182</Name>
+		<Product_Link>https://www.skroutz.gr/s/30500582/THalassinos-Epagelmatiki-Memvrani-29cm-x-200m-5202054357313.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/030500/30500582/xlarge_20210823152558_epagelmatiki_memvrani_29cm_x_200m_5202054357313.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/049378/49378818/xlarge_20210823152557_b8dafdfb.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.63</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Είδη Τυλίγματος Τροφίμων (Χονδρική)</Category_Path>
+		<Manufacturer>Θαλασσινός</Manufacturer>
+		<MPN>ΕΜ6182</MPN>
+		<Description>Μεμβράνη επαγγελματικής χρήσεως. Εχει έξτρα κολλητικότητα και είναι κατάλληλη για την συσκευασία τροφίμων όπως κρέας, ψάρι, τυρί, ζύμες, γλυκά και συντήρηση φρούτων και λαχανικών και κάθε είδους φρέσκων τροφίμων.</Description>
 	</product>
 	<product>
 		<ID>78951</ID>
@@ -22375,7 +22391,7 @@
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EFL001</MPN>
 		<Description>Ο πλαστικοποιητής Infinity της Esperanza είναι ιδανικός για την προστασία σημαντικών εγγράφων ή φωτογραφιών εύκολα και γρήγορα.  Είναι κατασκευασμένος από πλαστικό υψηλής ποιότητας, υποστηρίζει λειτουργίες θερμής και ψυχρής πλαστικοποίησης και προστασία από υπερθέρμανση.  Για έγγραφα μεγέθους έως Α4 με ταχύτητα πλαστικοποίησης 250mm/λεπτό και μέγιστο χρόνο προθέρμανσης περίπου 5 λεπτά. Τεχνικά Χαρακτηριστικά:      Ισχύς: 265W     Τροφοδοσία: 220-240V     Συχνότητα: 50Hz     Συμβατό πάχος φύλλων: 80-125 microns     Μέγιστη διάσταση φύλλου: 210 x 297 mm (A4)     Χρόνος προθέρμανσης:: περίπου 5 λεπτά     Ταχύτητα πλαστικοποίησης: 250mm/λεπτό     Μέγιστο πλάτος φύλλου: 240mm     Μέγιστο πάχος φύλλου: 0.6mm     Αριθμός ρολών: 2     Υλικό: πλαστικό (ABS)     Μήκος καλωδίου: περίπου 154 cm     Διαστάσεις: 345 x 140 x 65 mm     Στη συσκευασία περιλαμβάνονται 5 φύλλα A4</Description>
-		<Quantity>231</Quantity>
+		<Quantity>230</Quantity>
 	</product>
 	<product>
 		<ID>79320102</ID>
@@ -22460,7 +22476,7 @@
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>LP04080</MPN>
 		<Description>Δίφυλλα πλαστικοποίησης κατάλληλα για κάθε συσκευή πλαστικοποίησης. Με τα δίφυλλα πλαστικοποίησης της εταιρείας Typotrust, έχετε αποτέλεσμα και αντοχή στον χρόνο.</Description>
-		<Quantity>61</Quantity>
+		<Quantity>60</Quantity>
 	</product>
 	<product>
 		<ID>7932010251</ID>
@@ -22546,6 +22562,24 @@
 		<MPN>LP01125</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Πάχος: 125 micron     Διαστάσεις: 90x60mm     Συσκευασία: 100 τεμάχια</Description>
 		<Quantity>12</Quantity>
+	</product>
+	<product>
+		<ID>793201101</ID>
+		<Barcode>5207146009132</Barcode>
+		<Name>Typotrust  Ζελατίνες Γυαλιστερές 40mic για Έγγραφα A4 Τύπου "Π" με 11 Τρύπες 100τμχ FP20140</Name>
+		<Product_Link>https://www.skroutz.gr/s/34903474/Typotrust-Plastikes-Zelatines-gia-Egrafa-Typou-P-A4-me-Trypes-100tmch-202314.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/059712/59712703/xlarge_20220504165052_38922163.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/059712/59712702/xlarge_20220504165052_639fb083.jpeg https://a.scdn.gr/images/sku_main_images/034903/34903474/xlarge_20220504165052_typotrust_plastikes_zelatines_gia_egrafa_typou_p_a4_me_trypes_100tmch_202314.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.33</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Διακόσμηση&gt; Είδη Αρχειοθέτησης &gt; Ζελατίνες Αρχειοθέτησης</Category_Path>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>FP20140</MPN>
+		<Description>Περιγραφή προϊόντος  Οι ενισχυμένες ζελατίνες A4 πάχους 40 microns αποτελούν ιδανική λύση για την οργάνωση και προστασία εγγράφων σε κλασέρ και ντοσιέ. Κατασκευασμένες από διαφανές και ανθεκτικό πλαστικό, επιτρέπουν την εύκολη προβολή των εγγράφων χωρίς να χρειάζεται να τα αφαιρείτε.  Η ενισχυμένη πλευρά με 11 οπές εξασφαλίζει μεγάλη αντοχή στη χρήση και συμβατότητα με τους περισσότερους τύπους κλασέρ και ντοσιέ με 2, 3 ή 4 κρίκους. Το επάνω άνοιγμα επιτρέπει γρήγορη εισαγωγή και αφαίρεση των φύλλων.  Ιδανικές για χρήση σε γραφεία, σχολεία, αρχεία και επαγγελματικούς χώρους όπου απαιτείται σωστή ταξινόμηση και προστασία εγγράφων.  Χαρακτηριστικά  Μέγεθος φύλλου: A4  Πάχος: 40 microns  Υλικό: Διαφανές πλαστικό  Ενισχυμένη πλευρά με 11 οπές  Συμβατές με ντοσιέ και κλασέρ 2, 3 ή 4 κρίκων  Άνοιγμα στο επάνω μέρος  Ιδανικές για αρχειοθέτηση και προστασία εγγράφων  Συσκευασία  1 πακέτο = 100 ζελατίνες</Description>
+		<Quantity>160</Quantity>
 	</product>
 	<product>
 		<ID>7932022005</ID>
@@ -22817,7 +22851,7 @@
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>1681</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
-		<Quantity>2209</Quantity>
+		<Quantity>2197</Quantity>
 	</product>
 	<product>
 		<ID>7949903</ID>
@@ -24765,40 +24799,6 @@
 		<Quantity>15</Quantity>
 	</product>
 	<product>
-		<ID>7991002</ID>
-		<Barcode>8710881771051</Barcode>
-		<Name>Kleenair XX3 Σακούλες Σκούπας 5τμχ Συμβατή με Σκούπα Gruppe / Samsung / Severin</Name>
-		<Product_Link>https://www.skroutz.gr/s/11579713/Kleenair-XX3-Sakoules-Skoupas-5tmch-Symvati-me-Skoupa-Gruppe-Samsung-Severin.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/011579/11579713/20220510100325_kleenair_xx3_sakoules_skoupas_5tmch_symvati_me_skoupa_gruppe_samsung_severin.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Καθαρισμού &gt; Σακούλες Σκούπας</Category_Path>
-		<Manufacturer>KLEENAIR</Manufacturer>
-		<MPN>1518</MPN>
-		<Description>Οι σακούλες σκούπας της Kleenair είναι συμβατές με τους παρακάτω τύπους ηλεκτρικής σκούπας:AFKPS 1800 W, PS 1600 W.5, PS 1600 W.6NE, PS 1600 W.3, PS 1600 W.3NEDELFINQZ13ADIRT DEVILEQU M 7100-3, Allegra M 7000, Allegra M 7100, M 7017-1DOMODO 7250 SELRAMJC 831, JC 862, JC 865, Palazzo, Polo, Tigra, X 802 EGERMATICBS 2000 W.1, 1600WGRUPPE15F, 16ASOLAC896, 917, 919TRISTARJC 802, JC 802 EM, JC 831, JC 862, VCH-4601GRAETZJC 802, HD 101KAMBROOKJaquar PowerSEVERIN7930DELONGHIXTH 170, XTD 3071 EHOME ELECTRONICSDelfin, QZ 13 AD4EVERGLADESEV 1017SAMSUNGSC 5199PRINCESSRed FoxZANUSSI3999VAX430 Silence, C90-43 series, C88-43S E</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>7991003</ID>
-		<Barcode>8710881495520</Barcode>
-		<Name>Kleenair XX1 Σακούλες Σκούπας 5τμχ Συμβατή με Σκούπα AEG / Gruppe / LG / Samsung / Severin</Name>
-		<Product_Link>https://www.skroutz.gr/s/11579685/Kleenair-XX1-Sakoules-Skoupas-5tmch-Symvati-me-Skoupa-AEG-Gruppe-LG-Samsung-Severin.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/011579/11579685/20210817105629_kleenair_xx1_sakoules_skoupas_5tmch.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.9</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Καθαρισμού &gt; Σακούλες Σκούπας</Category_Path>
-		<Manufacturer>KLEENAIR</Manufacturer>
-		<MPN>1519</MPN>
-		<Description>Η συσκευασία περιλαμβάνει 5 υφασμάτινες σακούλες και 1 φίλτρο.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>799111101</ID>
 		<Barcode>5203642128650</Barcode>
 		<Name>Sidirela Φραπεδιέρα Επιτραπέζια 100W με 2 Ταχύτητες σε Μαύρο Χρώμα E-2865</Name>
@@ -25746,7 +25746,7 @@
 		<Manufacturer>Baseus</Manufacturer>
 		<MPN>CRCX060014</MPN>
 		<Description>Ηλεκτρονικό αλκοτέστ της Baseus SafeJourney Pro (γκρι)  Το ηλεκτρονικό αλκοτέστ χωρίς στόμα Baseus SafeJourney Pro είναι ιδανικό για να ελέγξετε αν μπορείτε να μπείτε πίσω από το τιμόνι. Χρειάζονται μόνο 3 δευτερόλεπτα για να επιβεβαιώσετε την ασφάλεια σας. Η συσκευή διαθέτει έναν εξαιρετικά ευαίσθητο αισθητήρα για ακριβή αποτελέσματα με ακρίβεια 0,03 mg.  Ελέγξτε αν η οδήγηση είναι ασφαλής με 4 σωλήνες από ασφαλή υλικά PP, που σας επιτρέπουν να ελέγξετε το επίπεδο αλκοόλ στο αίμα σας χωρίς επαφή. Φυσήξτε από απόσταση 6 εκατοστών για ακριβές αποτέλεσμα.  Η συσκευή υποστηρίζει ένα ή περισσότερους οδηγούς, επιτρέποντας πολλές δοκιμές στη σειρά χωρίς επαναφορά. Η ενσωματωμένη οθόνη LCD δείχνει αν είναι ασφαλές να οδηγήσετε.  Το αλκοτέστ διακρίνεται από υψηλής ποιότητας υλικά με μεταλλικό φινίρισμα, 8 ώρες λειτουργίας και αναγκαία αξεσουάρ για υγιεινή χρήση. Περιλαμβάνονται 4 επιστόμια που πλένονται και δερμάτινη κρεμάστρα για εύκολη μεταφορά.  Η χρήση της συσκευής είναι απλή. Απλώς γυρίστε το κάτω κινητό μέρος και περιμένετε 10 δευτερόλεπτα. Ακολουθήστε τις οδηγίες για ακριβή αποτελέσματα.  Κατασκευαστής: Baseus Μοντέλο: CRCX060014 Υλικό: Κράμα αλουμινίου Διαστάσεις: 152 x 152 x 30 mm Χωρητικότητα μπαταρίας: 470 mAh</Description>
-		<Quantity>1</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>799450101</ID>
@@ -26466,11 +26466,29 @@
 		<VAT>24</VAT>
 		<Price>0.6674820799999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια micro USB</Category_Path>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
 		<Manufacturer>XO</Manufacturer>
 		<MPN>16.005.0348</MPN>
 		<Description>Μοντέλο: XO NB280  Τύπος Καλωδίου: Καλώδιο Δεδομένων Jian Yan Type-C  Μήκος: 1M  Ρεύμα: 3A  Χρώμα: Λευκό</Description>
 		<Quantity>88</Quantity>
+	</product>
+	<product>
+		<ID>7995115203</ID>
+		<Barcode>6941237110428</Barcode>
+		<Name>Joyroom Braided USB 2.0 Καλώδιο Φόρτισης/Δεδομένων USB-Α σε USB-C 100W 1m Μαύρο A34</Name>
+		<Product_Link>https://www.skroutz.gr/s/46891248/Joyroom-Multi-color-Series-Sa34-ac6-USB-2-0-Cable-USB-C-male-USB-A-100W-Mayro-1m.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/046891/46891248/xlarge_20231019131648_joyroom_multi_color_series_sa34_ac6_usb_2_0_cable_usb_c_male_usb_a_100w_mayro_1m.jpeg</Image_Link>
+		<Additional>https://static4.eu.hurtel.com/hpeciai/41b038280e93bc3b70a905d35edcc320/eng_pm_Joyroom-Multi-Color-Series-S-A34-USB-A-USB-C-cable-100W-1m-black-151823_2.jpg https://static3.eu.hurtel.com/hpeciai/3ed659411b07b0694128950d01d19fe2/eng_pm_Joyroom-Multi-Color-Series-S-A34-USB-A-USB-C-cable-100W-1m-black-151823_3.jpg https://static1.eu.hurtel.com/hpeciai/900725377a6ded9041d91ebab0edaf3a/eng_pm_Joyroom-Multi-Color-Series-S-A34-USB-A-USB-C-cable-100W-1m-black-151823_7.jpg https://static3.eu.hurtel.com/hpeciai/471e2b8b410b54682b439b07a75bcaa8/eng_pm_Joyroom-Multi-Color-Series-S-A34-USB-A-USB-C-cable-100W-1m-black-151823_10.jpg https://static2.eu.hurtel.com/hpeciai/16f7fcc92c990d87d64cb16669762058/eng_pm_Joyroom-Multi-Color-Series-S-A34-USB-A-USB-C-cable-100W-1m-black-151823_12.jpg https://static5.eu.hurtel.com/hpeciai/0d7708502beadb7587ed119f6b6a95c7/eng_pm_Joyroom-Multi-Color-Series-S-A34-USB-A-USB-C-cable-100W-1m-black-151823_16.jpg https://b.scdn.gr/images/sku_images/099701/99701745/20240808160516_016f89d4.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.43</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>A34</MPN>
+		<Description>Περιγραφή Το καλώδιο Joyroom Multi-Color Series SA34-AC6 USB-A / USB-C είναι εγγύηση για γρήγορη φόρτιση, εξαιρετική αντοχή και αξιοπιστία. Φορτίζει και μεταφέρει δεδομένα με εντυπωσιακή ταχύτητα 480 Mbps, επιτρέποντάς σας να μεταφέρετε μεγάλα αρχεία σε δευτερόλεπτα. Η αντοχή του είναι αποδεδειγμένη, καθώς μπορεί να αντέξει πάνω από 10.000 διπλώματα.  Τα κυριότερα πλεονεκτήματα του καλωδίου Joyroom Multi-Color Series SA34-AC6:  Επιτρέπει άμεση φόρτιση και συγχρονισμό δεδομένων. Υποστηρίζει ταχύτητες μεταφοράς αρχείων 480 Mbps. Εξαιρετική αντοχή από υλικό ναυλον υψηλής πυκνότητας που είναι ανθεκτικό στη φθορά. Γρήγορη και βολική φόρτιση 100W, ιδανικό για τηλέφωνα Huawei, Honor, Samsung, Oppo, Vivo και άλλες μάρκες. Σχεδιασμένο για μακροχρόνια χρήση, αντέχει πάνω από 10.000 διπλώματα. Ασφαλές και αξιόπιστο, οι θύρες USB-A και USB-C είναι καλυμμένες με αντιοξειδωτική στρώση και έχουν διάρκεια ζωής άνω των 10.000 συνδέσεων. Επιλέγοντας το καλώδιο Joyroom, επενδύετε στην αντοχή και την ποιότητα.</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995115211</ID>
@@ -26522,6 +26540,24 @@
 		<Manufacturer>Joyroom</Manufacturer>
 		<MPN>S-CC100A16</MPN>
 		<Description>Περιγραφή  Αν ψάχνετε για ένα καλώδιο που μπορεί να φορτίσει το τηλέφωνο, το tablet ή τον φορητό υπολογιστή σας, ενώ παράλληλα εμφανίζει την κατάσταση φόρτισης και μεταφέρει δεδομένα ταυτόχρονα, επιλέξτε το καλώδιο Joyroom Prism Series A16. Μπορεί να φορτίσει έως και 100W και να μεταφέρει φωτογραφίες και βίντεο στα 480 Mbps.  Η πλεξούδα του καλωδίου Joyroom είναι κατασκευασμένη από ανθεκτικό νάιλον, καθιστώντας το ανθεκτικό σε στρίψιμο, μπλέξιμο και μηχανικές βλάβες.  USB C 100W - Καλώδιο USB C, μήκους 1,2 μέτρων, με οθόνη LED Joyroom S-CC100A16 σε λευκό φόντο Προσδιορισμός:  Μάρκα: Joyroom Μοντέλο: Joyroom Prism Series A16 S-CC100A16 Συνδέσεις: USB-C USB-C Υποστηριζόμενες λειτουργίες: φόρτιση, μετάδοση δεδομένων Ισχύς: 100W Ταχύτητα μεταφοράς δεδομένων: 480 Mbps Μήκος: 1,2 μ. Υλικό: κράμα αλουμινίου, πλεξούδα νάιλον Χρώμα: μαύρο Βασικά πλεονεκτήματα του καλωδίου Joyroom Prism Series A16 USB-C / USB-C:  Σας επιτρέπει να φορτίζετε το smartphone, το tablet, τον φορητό υπολογιστή ή την κονσόλα παιχνιδιών σας σε πολύ μικρότερο χρόνο. Το καλώδιο υποστηρίζει ισχύ φόρτισης έως και 100W. Μπορείτε εύκολα να παρακολουθείτε τη διαδικασία φόρτισης. Το καλώδιο διαθέτει ενσωματωμένη ψηφιακή οθόνη LED. Ελέγχει την ισχύ φόρτισης. Δεν χρειάζεται να ανησυχείτε για υπερθέρμανση ή υπέρταση. Σας επιτρέπει να μεταφέρετε γρήγορα φωτογραφίες και βίντεο. Έχει υψηλή ταχύτητα μετάδοσης 480 Mbps. Έχει υψηλή αντοχή στη φθορά. Ο πυρήνας είναι τυλιγμένος σε ανθεκτικό νάιλον.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7995115222</ID>
+		<Barcode>6956116748449</Barcode>
+		<Name>Joyroom USB 2.0 Καλώδιο Φόρτισης/Δεδομένων USB-C σε USB-C 100W 1.2m Μωβ  S-CC100A14</Name>
+		<Product_Link>https://www.skroutz.gr/s/44158939/Joyroom-S-CC100A14-USB-2-0-Cable-USB-C-male-USB-C-100W-Mov-1-2m.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/044158/44158939/xlarge_20230714134357_joyroom_usb_2_0_cable_usb_c_male_usb_c_male_100w_mov_1_2m_s_cc100a14.jpeg</Image_Link>
+		<Additional>https://static5.eu.hurtel.com/hpeciai/6579a95a75bb092e660f7c44787e4242/eng_pm_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_2.png https://static5.eu.hurtel.com/hpeciai/135113c71a832e9d78570397c9ed0e6c/eng_pm_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_3.png https://static1.eu.hurtel.com/hpeciai/6118e60cb70437bba8f2673f9a7743f3/eng_pm_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_4.png https://static3.eu.hurtel.com/hpeciai/df59835d2983a7498f801ea0fc760a55/eng_pm_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_5.png https://static1.eu.hurtel.com/hpeciai/fc8446317fd39be2edb1252cb9407c1f/eng_pm_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_6.png https://static3.eu.hurtel.com/hpeciai/6ec17659ddc406c4cadbce1050c27ca8/eng_pm_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_7.png https://static3.eu.hurtel.com/hpeciai/e2220e967e74e70d53752c582b379bcb/eng_pm_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_8.png https://static1.eu.hurtel.com/hpeciai/5b2918874d88a998a92f22dfcde7dac5/eng_pl_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_9.png https://static5.eu.hurtel.com/hpeciai/65978f7d25cfde42d8a171e3de74add9/eng_pl_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_10.png https://static3.eu.hurtel.com/hpeciai/200e590285df6d83d94b9f93d83016f6/eng_pl_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_11.png https://static3.eu.hurtel.com/hpeciai/dab0c6518bf5e179f36ceda03d830bd7/eng_pl_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_12.png https://static3.eu.hurtel.com/hpeciai/96fb222a8d48a27994c00b8160861246/eng_pl_Joyroom-Multi-Color-Series-A14-USB-C-USB-C-100W-Cable-1-2m-Purple-147407_13.png</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια USB Type-C</Category_Path>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>S-CC100A14</MPN>
+		<Description>Περιγραφή Καλώδιο USB C - USB C 100W Joyroom S-CC100A14 - Μωβ  Το καλώδιο Joyroom είναι ιδανικό για τους λάτρεις της γρήγορης φόρτισης. Διαθέτει εντυπωσιακή ισχύ έως και 100 W, επιτρέποντας τη φόρτιση των κινητών σας συσκευών σε χρόνο ρεκόρ.  Τα κυριότερα πλεονεκτήματα του καλωδίου USB C - USB C 100W Joyroom S-CC100A14:  Γρήγορη φόρτιση. Είναι ικανό να τροφοδοτεί συσκευές με ισχύ έως και 100 W. Συμβατό με διάφορες συσκευές. Ενσωματωμένο τσιπ για τη διαχείριση της φόρτισης και της μεταφοράς δεδομένων. Είναι ανθεκτικό, ισχυρό και ταυτόχρονα εύκαμπτο. Εξαιρετική αντοχή σε θραύση. Υποστηρίζει μεταφορά δεδομένων με ταχύτητα 480 Mbps. Άνετο στη χρήση καθημερινά. Έχει ευχάριστη αίσθηση και μήκος 1.2 m. Προδιαγραφές:  Μάρκα: Joyroom Μοντέλο: S-CC100A14 Συνδέσεις: USB-C Υποστηριζόμενες λειτουργίες: φόρτιση, μεταφορά δεδομένων Ικανότητα: έως 100W Μήκος καλωδίου: 1.2m Υλικό: TPE Χρώμα: Μωβ</Description>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -26711,6 +26747,24 @@
 		<MPN>CA1T4-B01</MPN>
 		<Description>Καλώδιο φόρτισης κινητών και τάμπλετ με 4 βύσματα, 1 Micro USB, 1 Lighting και 2 Type-C.</Description>
 		<Quantity>31</Quantity>
+	</product>
+	<product>
+		<ID>7995116043</ID>
+		<Barcode>6956116758622</Barcode>
+		<Name>Joyroom Braided 4in1 USB-A to Lightning / 2 Type-C / micro USB Cable 3.5A 1.2m Μαύρο A18</Name>
+		<Product_Link>https://www.skroutz.gr/s/44506320/Joyroom-S-1T4018A18-Braided-USB-to-Lightning-Type-C-micro-USB-Cable-3-5A-Mayro-1-2m-USB-A.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/044506/44506320/xlarge_20230725173345_joyroom_metatropeas_usb_a_usb_c_lightning_micro_usb_male_se_usb_a_usb_c_lightning_micro_usb_female_hu_6956116758639.jpeg</Image_Link>
+		<Additional>https://static2.eu.hurtel.com/hpeciai/68c9de56a41d51e75dbccc736bb8b653/eng_pm_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_2.jpg https://static4.eu.hurtel.com/hpeciai/1a604e7451344988c99b4362455a104a/eng_pm_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_3.jpg https://static4.eu.hurtel.com/hpeciai/621ce1d44c50e26d500758e2630b72ee/eng_pm_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_5.jpg https://static1.eu.hurtel.com/hpeciai/0b4feaa18b8e7625ca6c80d22b745126/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_4.jpg https://static2.eu.hurtel.com/hpeciai/b0643604b2d1147066349bea089705da/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_6.jpg https://static1.eu.hurtel.com/hpeciai/5d2872e4fe3f879ec825b6d6351aa441/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_7.jpg https://static3.eu.hurtel.com/hpeciai/82b25dc27ea3e38b63f085859de932b5/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_8.jpg https://static3.eu.hurtel.com/hpeciai/fcd41cafc1882cecd49143a3d2d483bf/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_9.jpg https://static2.eu.hurtel.com/hpeciai/89717cf93a876a009770c92c8abd4a02/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_10.jpg https://static5.eu.hurtel.com/hpeciai/2b2297b8284fefe44a41f31887d7207a/eng_pl_Joyroom-Multi-Use-Series-S-A18-4in1-USB-A-USB-C-Lightning-Lightning-micro-USB-cable-1-2m-black-149250_11.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>4.99</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Καλώδια Φόρτισης και Μεταφοράς Δεδομένων &gt; Καλώδια Multi Port</Category_Path>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>A18</MPN>
+		<Description>Περιγραφή Καλώδιο Joyroom 1,2m με 4 άκρα - Lightning / 2x USB-C / micro USB 3.5A S-1T4018A18 είναι ένα καλώδιο USB 4-σε-1 μήκους 1,2 μέτρων που μπορεί να φορτίσει έως και 4 συσκευές ταυτόχρονα. Διαθέτει τρεις δημοφιλείς συνδέσεις: Lightning, 2x USB-C και micro USB. Ένα μόνο καλώδιο που αντικαθιστά 4 άλλα, επιτρέποντάς σας να συνδέσετε εύκολα όλες τις συσκευές σας. Το καλώδιο υποστηρίζει μέγιστο ρεύμα 3.5A.  Η μήκη 120 cm σας επιτρέπει να τοποθετήσετε το τηλέφωνο μακριά από την πρίζα, ενώ η νάιλον πλέξη αποτρέπει την εμπλοκή του. Οι αλουμινένιες θωρακίσεις των βυσμάτων συνδυάζονται με πρόσθετους λεκέδες που προστατεύουν το καλώδιο από ζημιές στα σημεία που λυγίζουν πιο συχνά.  Προδιαγραφές: Τύπος συνδέσεων: USB / Lightning / 2 x USB-C / micro USB Υλικό: αλουμίνιο, νάιλον Μέγιστο συνολικό ρεύμα: 3.5A Μήκος: 1.2m Λειτουργίες: φόρτιση και μεταφορά δεδομένων Πρότυπο USB: USB2.0 Βάρος: 60g Μπορείτε να φορτίσετε 4 τηλέφωνα ταυτόχρονα με το καλώδιο Joyroom. Υπάρχουν συνδέσεις Lightning (φόρτιση και μεταφορά δεδομένων), 2x USB Type C και micro USB (μόνο φόρτιση). Συνδέστε οποιαδήποτε συσκευή με τους παραπάνω τύπους υποδοχών.  Η καλά σχεδιασμένη κατασκευή του καλωδίου παρέχει τη δυνατότητα άνετης χρήσης, ακόμη και όταν η πρίζα είναι σε μεγαλύτερη απόσταση. Το σύστημα έξυπνης διαχείρισης ρυθμίζει το ρεύμα ανάλογα με τη συσκευή, εξασφαλίζοντας βέλτιστη και σταθερή τροφοδοσία ενέργειας.</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7995121</ID>
@@ -27061,6 +27115,24 @@
 		<Quantity>7</Quantity>
 	</product>
 	<product>
+		<ID>799515181</ID>
+		<Barcode>8018417252754</Barcode>
+		<Name>SBS Μονή Ενδοεπικοινωνία για Κράνος Μηχανής με Bluetooth σε Μαύρο Χρώμα</Name>
+		<Product_Link>https://www.skroutz.gr/s/35095842/SBS-Moni-Endoepikoinonia-gia-Kranos-Michanis-me-Bluetooth-EARSETMONOMOTOBTK.html</Product_Link>
+		<Image_Link>https://static2.eu.hurtel.com/hpeciai/0531d8692030ae84343072ecd3f285a4/eng_pm_SBS-TEEARSETMONOMOTOBTK-mono-wireless-headset-for-motorcycle-helmet-black-185915_1.jpg</Image_Link>
+		<Additional>https://static4.eu.hurtel.com/hpeciai/a934505dbade71c4d4caa35524799c0a/eng_pm_SBS-TEEARSETMONOMOTOBTK-mono-wireless-headset-for-motorcycle-helmet-black-185915_8.webp</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>11.99</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Auto - Moto&gt; Αξεσουάρ Μοτοσυκλέτας&gt; Ενδοεπικοινωνία Μηχανής</Category_Path>
+		<Manufacturer>SBS</Manufacturer>
+		<MPN>TEEARSETMONOMOTOBTK</MPN>
+		<Description>Περιγραφή  Τα SBS είναι καινοτόμα ασύρματα ακουστικά σχεδιασμένα ειδικά για μοτοσικλετιστές. Χάρη στην τεχνολογία Multipoint, το σετ επιτρέπει την ταυτόχρονη σύνδεση δύο συσκευών, επιτρέποντάς σας να διαχειρίζεστε τηλεφωνικές κλήσεις από δύο smartphones. Το σετ αποτελεί την ιδανική λύση για άτομα που χρειάζονται άνεση κατά την οδήγηση, προσφέροντας τη δυνατότητα λήψης κλήσεων, ακρόασης μουσικής ή χρήσης πλοήγησης, χωρίς να χρειάζεται να αγγίζουν το τηλέφωνο. Επιπλέον, ο σχεδιασμός του παρέχει αντοχή στις πιτσιλιές, χάρη στο πιστοποιητικό IPX4, το οποίο το καθιστά ανθεκτικό στις μεταβαλλόμενες καιρικές συνθήκες.  Προσδιορισμός:  Μάρκα: SBS Μοντέλο: TEEARSETMONOMOTOBTK Συμβατό: Android, iOS Τύπος σύνδεσης: Ασύρματη Εύρος συχνοτήτων: 20 Hz - 20 kHz Τεχνολογία: Πολλαπλών σημείων Βάρος: 70 γρ. Χρόνος εργασίας: 10 ώρες Χρόνος αναμονής: 100 ώρες Φόρτιση: USB - Micro USB Αντίσταση ηχείου: Τύπος 16 Ohm Αντοχή στη Βροχή: IPX4 Χρώμα: Μαύρο Βασικά χαρακτηριστικά των ακουστικών:  Ασύρματη επικοινωνία: Χάρη στην ασύρματη σύνδεση, δεν χρειάζεται να πιάσετε το τηλέφωνό σας για να απαντήσετε σε μια κλήση ή να αλλάξετε το μουσικό κομμάτι. Ιδανική λύση για μοτοσικλετιστές. Τεχνολογία πολλαπλών σημείων: Το κιτ σάς επιτρέπει να συνδέεστε σε δύο συσκευές ταυτόχρονα, επιτρέποντάς σας να διαχειρίζεστε κλήσεις από δύο smartphone ή συσκευές. Ανθεκτικό στη Βροχή (IPX4): Το σετ είναι ανθεκτικό στη βροχή και τις πιτσιλιές, ώστε να μπορείτε να το χρησιμοποιείτε ακόμα και σε δύσκολες καιρικές συνθήκες. Ρυθμιζόμενο μικρόφωνο με τεχνολογία κατά του θορύβου ανέμου: Το μικρόφωνο παρέχει εξαιρετική ποιότητα κλήσης εξαλείφοντας τον θόρυβο του ανέμου και του περιβάλλοντος, κάτι που είναι εξαιρετικά σημαντικό κατά την οδήγηση. Άνεση χρήσης: Το σετ διαθέτει κουμπιά για τον έλεγχο κλήσεων και μουσικής καθώς και τη δυνατότητα ρύθμισης της έντασης του ήχου, γεγονός που το καθιστά πολύ εύκολο στη χρήση κατά την οδήγηση. Τεχνολογία πολλαπλών σημείων Χάρη στην τεχνολογία Multipoint, μπορείτε να συνδέσετε τα ακουστικά σε δύο συσκευές ταυτόχρονα, επιτρέποντάς σας να διαχειρίζεστε εύκολα κλήσεις από δύο smartphone χωρίς να χρειάζεται να κάνετε εναλλαγή μεταξύ τους.  Αντοχή στη Βροχή Η πιστοποίηση IPX4 διασφαλίζει ότι τα ακουστικά είναι αδιάβροχα, ώστε να μπορείτε να τα χρησιμοποιείτε στη βροχή χωρίς να ανησυχείτε για τυχόν ζημιά.  Άνετος έλεγχος Το σετ είναι εξοπλισμένο με εύχρηστα κουμπιά για την απάντηση κλήσεων, τη ρύθμιση της έντασης του ήχου και την αλλαγή μουσικών κομματιών, κάτι που επιτρέπει την άνετη χρήση κατά την οδήγηση μοτοσικλέτας.  Ρυθμιζόμενο μικρόφωνο με τεχνολογία Anti Wind Noise Το συμπεριλαμβανόμενο μικρόφωνο είναι εξοπλισμένο με τεχνολογία ακύρωσης θορύβου ανέμου, η οποία εγγυάται καθαρή ποιότητα κλήσης χωρίς παρεμβολές που σχετίζονται με την ταχύτητα οδήγησης.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799515211</ID>
 		<Barcode>6932172604271</Barcode>
 		<Name>Baseus USB Bluetooth 5.0 Adapter με Εμβέλεια 20m BA04</Name>
@@ -27069,7 +27141,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.2585720236</Price>
+		<Price>4.2</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Διάφορα Υπολογιστών &gt; Bluetooth Adapters</Category_Path>
 		<Manufacturer>Baseus</Manufacturer>
@@ -27811,7 +27883,7 @@
 		<Manufacturer>MediaRange</Manufacturer>
 		<MPN>MR936</MPN>
 		<Description>Τα MR936 είναι ιδανικό για γρήγορη αποθήκευση και μεταφορά δεδομένων μεταξύ των συσκευών σας. Διαθέτει USB σύνδεση και USB Type-C η οποία μπορεί να χρησιμοποιηθεί κι ως εξωτερική επέκταση αποθήκευσης για την κινητή συσκευή σας. Επιπλέον διαθέτει περίβλημα αλουμινίου για μεγαλύτερη ανθεκτικότητα και προστατευτικά καλύμματα για την προστασία των δύο βυσμάτων από τη σκόνη ενώ είστε εν κινήσει.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ανθεκτικό και αξίζει τα χρήματά του.</Description>
-		<Quantity>14</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>7996210564</ID>
@@ -29335,7 +29407,7 @@
 		<MPN>0498</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Οι σαρδέλες σε φυτικό λάδι προσφέρουν γευστική απόλαυση και θρεπτική αξία. Αυτή η κονσέρβα 125gr περιέχει ποιοτικές σαρδέλες εμποτισμένες σε αρωματικό φυτικό λάδι, που προσθέτει ένα υπέροχο άρωμα και γεύση.</Description>
-		<Quantity>1336</Quantity>
+		<Quantity>1321</Quantity>
 	</product>
 	<product>
 		<ID>852261</ID>
@@ -29657,6 +29729,74 @@
 		<MPN>340058802</MPN>
 		<Description>Καλαμπόκι(68,7%), αραβοσιτέλαιο, γεύση τυριού[μαλτοδεξτρίνη, ορός ΓΑΛΑΚΤΟΣ σε σκόνη, ΣΙΤΑΛΕΥΡΟ, αλάτι, τυρί σε σκόνη από ΓΑΛΑ(0,7%), ντομάτα σε σκόνη, αρωματικές ύλες(περιέχουν ΓΑΛΑ), κρεμμύδι σε σκόνη, βούτυρο ΓΑΛΑΚΤΟΣ σε σκόνη, χλωριούχο κάλιο, ενισχυτικό γεύσης(όξινο γλουταμινικό νάτριο), σκόρδο σε σκόνη, πρωτεϊνη ΓΑΛΑΚΤΟΣ, δεξτρόζη, ρυθμιστές οξύτητας(γαλακτικό οξύ, κιτρικό οξύ), χρωστικές(εκχύλισμα πάπρικας, αννάτο, απλό καραμελόχρωμα), μπαχαρικά, ζάχαρη, αποβουτυρωμένο ΓΑΛΑ σε σκόνη].   Κατασκευαστής Πατατάκια Doritos Χαρακτηριστικά Χαρακτηριστικά ΓεύσηΤυρί Πρόσθετα Χαρακτηριστικά ΦούρνουΌχι ΚυματιστάΌχι NachosΝαι ΠρωτεΐνηςΌχι ΚάνναβηςΌχι Ολικής ΆλεσηςΌχι Χωρίς ΑλάτιΌχι Διατροφικές Επιλογές Βιολογικό ΠροϊόνΌχι Χωρίς Προσθήκη ΖάχαρηςΌχι Χωρίς ΓλουτένηΌχι VeganΌχι Ποσότητα Βάρος420 gr Τεμάχια1 τμχ</Description>
 		<Quantity>93</Quantity>
+	</product>
+	<product>
+		<ID>880110402</ID>
+		<Barcode>5201024519621</Barcode>
+		<Name>Tasty Crunchy Max 100gr 61665</Name>
+		<Product_Link>https://www.skroutz.gr/s/64907242/tasty-garidakia-110gr.html</Product_Link>
+		<Image_Link>https://cdn.mymarket.gr/images/styles/original/23_01_25/6146fe72-dcd8-4e56-9abc-254e61edb022_E1.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τρόφιμα &gt; Snacks &gt; Γαριδάκια &amp; Ποπ Κορν</Category_Path>
+		<Manufacturer>Tasty</Manufacturer>
+		<MPN>61665</MPN>
+		<Description>Τα Tasty Crunchy Max με γεύση τυρί 100gr προσφέρουν μια τραγανή και νόστιμη επιλογή σνακ. Διαθέτουν την χαρακτηριστική γεύση τυριού και είναι δημοφιλή στους καταναλωτές.  Αυτή η συσκευασία έχει βάρος 100 γραμμάρια και είναι κατάλληλη ως σνακ για οποιαδήποτε στιγμή της ημέρας.  Γεύση: τυρί Τραγανή υφή Ιδανικό για συνοδευτικό σε ποτά και διάφορες περιστάσεις</Description>
+		<Quantity>25</Quantity>
+	</product>
+	<product>
+		<ID>880110403</ID>
+		<Barcode>5201024010487</Barcode>
+		<Name>Tasty Φουντούνια 100gr 54548</Name>
+		<Product_Link>https://www.skroutz.gr/s/59011389/Tasty-Snacks-100gr-Fountounia-1-54548.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/059011/59011389/xlarge_20250304161657_tasty_snacks_100gr_fountounia_1_54548.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τρόφιμα &gt; Snacks &gt; Γαριδάκια &amp; Ποπ Κορν</Category_Path>
+		<Manufacturer>Tasty</Manufacturer>
+		<MPN>54548</MPN>
+		<Description>Τα φουντούνια της Tasty αποτελούν αγαπημένα σνακ απο καλαμπόκι με φυστίκι και φουντούκι για μικρούς και μεγάλους, για κάθε στιγμή της ημέρας.  Συστατικά Αραβοσιτάλευρο(52%), φυστικόπαστα(42%), φοινικέλαιο, αλάτι, φουντουκόπαστα(0,9%). Πιθανόν να περιέχει ίχνη από άλλους ξηρούςκαρπούς. Οι αλλεργιογόνοι παράγοντες επισημαίνονται με έντονους χαρακτήρες.</Description>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>880110404</ID>
+		<Barcode>5201024010227</Barcode>
+		<Name>Cheetos Δρακουλίνια 75gr 52923</Name>
+		<Product_Link>https://www.skroutz.gr/s/58680821/Cheetos-Garidakia-Drakoulinia-Tyri-Ntomata-75gr-1-52923.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/058680/58680821/xlarge_20250207145027_cheetos_garidakia_drakoulinia_tyri_ntomata_75gr_1_52923.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τρόφιμα &gt; Snacks &gt; Γαριδάκια &amp; Ποπ Κορν</Category_Path>
+		<Manufacturer>Cheetos</Manufacturer>
+		<MPN>52923</MPN>
+		<Description>Τα διάσημα Δρακουλίνια των Cheetos είναι σνακ αραβοσίτου φτιαγμένο με καλαμπόκι, τυρί και ντομάτα, ψημένο στο φούρνο.  Εμπνευστείτε και απολαύστε τα: σε γευστικό πρωινό, σε λαχταριστό κολατσιό, ως απολαυστικό βραδινό ή ως αρμυρό σνακ. Απολαύστε τα κάθε στιγμή της ημέρας: στο διάλειμμα, στο γήπεδο, στο δρόμο ή στο σπίτι παρέα με τους φίλους σας.</Description>
+		<Quantity>20</Quantity>
+	</product>
+	<product>
+		<ID>880110405</ID>
+		<Barcode>5201024010180</Barcode>
+		<Name>Cheetos Γαριδάκια Lotto Τυρί 80gr 52924</Name>
+		<Product_Link>https://www.skroutz.gr/s/58680822/Cheetos-Garidakia-Lotto-Tyri-80gr-1-52924.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/058680/58680822/xlarge_20250207145027_cheetos_garidakia_lotto_tyri_80gr_1_52924.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>13</VAT>
+		<Price>1.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τρόφιμα &gt; Snacks &gt; Γαριδάκια &amp; Ποπ Κορν</Category_Path>
+		<Manufacturer>Cheetos</Manufacturer>
+		<MPN>52924</MPN>
+		<Description>Τα διάσημα Cheetos Lotto είναι σνακ καλαμποκιού με γεύση τυριού, ψημένα στο φούρνο.</Description>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>8910101</ID>
