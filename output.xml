@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-09 13:05</created_at>
+	<created_at>2026-03-09 13:18</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -248,7 +248,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>216</Quantity>
+		<Quantity>215</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -266,7 +266,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>1842</Quantity>
+		<Quantity>1824</Quantity>
 	</product>
 	<product>
 		<ID>11012</ID>
@@ -302,7 +302,7 @@
 		<MPN>0797</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>368</Quantity>
+		<Quantity>364</Quantity>
 	</product>
 	<product>
 		<ID>110318</ID>
@@ -320,7 +320,7 @@
 		<MPN>0733</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η κλιάφα πορτοκάλι χωρίς ανθρακικό είναι μια δροσιστική και φρουτώδης αναψυκτική επιλογή με γεύση φρέσκου πορτοκαλιού. Απολαμβάνεται ως αναψυκτικό ή συστατικό σε διάφορα κοκτέιλ και μπορεί να προσφέρει μια ευχάριστη δροσιά κατά τις ζεστές μέρες.</Description>
-		<Quantity>58</Quantity>
+		<Quantity>57</Quantity>
 	</product>
 	<product>
 		<ID>11032</ID>
@@ -338,7 +338,7 @@
 		<MPN>0199</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>548</Quantity>
+		<Quantity>547</Quantity>
 	</product>
 	<product>
 		<ID>11033</ID>
@@ -356,7 +356,7 @@
 		<MPN>0015</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ΚΛΙΑΦΑ σόδα είναι μια δροσιστική αναψυκτική με αερισμένο νερό. Έχει ευχάριστη γεύση και αποτελεί δημοφιλή επιλογή για αναζωογόνηση και απόλαυση.</Description>
-		<Quantity>92</Quantity>
+		<Quantity>89</Quantity>
 	</product>
 	<product>
 		<ID>11035</ID>
@@ -374,7 +374,7 @@
 		<MPN>0307</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Κλιάφα Βυσσινάδα είναι μια δροσιστική αναψυκτική από βύσσινα, με φρουτώδη γεύση και αρωματική νότα. Με τον πλούσιο και γλυκό χαρακτήρα των βύσσινων, αποτελεί μια δημοφιλή επιλογή για τους λάτρεις των φρούτων. Ιδανική για να απολαμβάνετε δροσιστικές στιγμές καθ' όλη τη διάρκεια της ημέρας.</Description>
-		<Quantity>425</Quantity>
+		<Quantity>424</Quantity>
 	</product>
 	<product>
 		<ID>11511</ID>
@@ -1970,7 +1970,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1110</Quantity>
+		<Quantity>1040</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2004,7 +2004,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1306</MPN>
 		<Description>Φυσικό μεταλλικό νερό Τεμάχια : 6 Όγκος Τεμαχίου : 1.5lt  Οδηγίες Φύλαξης **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1222</Quantity>
+		<Quantity>1130</Quantity>
 	</product>
 	<product>
 		<ID>20401</ID>
@@ -2427,7 +2427,7 @@
 		<MPN>0429</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Πρόκειται για ένα ημιξηρό ροζέ κρασί σε συσκευασία PET. Με φρουτώδη αρώματα και δροσερή γεύση, αποτελεί μια ευχάριστη επιλογή για απολαυστικές στιγμές και κοινωνικές συναντήσεις.</Description>
-		<Quantity>706</Quantity>
+		<Quantity>700</Quantity>
 	</product>
 	<product>
 		<ID>40073</ID>
@@ -2463,7 +2463,7 @@
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>941</Quantity>
+		<Quantity>929</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2481,7 +2481,7 @@
 		<MPN>0126</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Ροζέ Ημίξηρο σε συσκευασία PET 1,5 λίτρου προσφέρει ένα δροσερό και φρουτώδες ροζέ κρασί με απαλή γεύση και αρώματα κόκκινων φρούτων. Μια ευχάριστη επιλογή για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>414</Quantity>
+		<Quantity>402</Quantity>
 	</product>
 	<product>
 		<ID>40221</ID>
@@ -2786,7 +2786,7 @@
 		<MPN>0793</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Κρασί ΦΙΛΙΚΟΣ Λευκό Ξηρό σε ασκό, από Μοσχάτο Μαύρο Τυρνάβου. Ένα κρασί άριστης και σταθερής ποιότητας, σε πρακτική συσκευασία, που συντηρεί το περιεχόμενό του σε κενό αέρος. Διατηρεί αναλλοίωτη τη γεύση του κρασιού μέχρι το τελευταίο ποτήρι. Διευκολύνει την μεταφορά, την αποθήκευση, την τοποθέτηση στο ψυγείο και το σερβίρισμα. Η συσκευασία του ανακυκλώνεται και είναι φιλική προς το περιβάλλον.</Description>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 	</product>
 	<product>
 		<ID>40523</ID>
@@ -5185,57 +5185,6 @@
 		<MPN>4801003-01</MPN>
 		<Description>Ένα λεπτό αλλά εκφραστικό αρωματικό προφίλ με 0% Αλκοόλ, που αναδεικνύει τις κλασικές νότες Pinot Noir της κοιλάδας του Λίγηρα - κόκκινα φρούτα όπως κόκκινη σταφίδα, φράουλα, κεράσι και μαύρη σταφίδα - που συμπληρώνονται από πιο φρέσκες νότες génépi, μέντας και φύλλων ντομάτας. Το μπουκέτο ενισχύεται από διακριτικές νότες καραμέλας και βανίλιας. Αυτά τα ίδια αρώματα διαπερνούν τον ουρανίσκο, όπου το κρασί αποκαλύπτει μια μέτρια δομή, δροσιστική οξύτητα και ζωντανές αλλά καλά ενσωματωμένες τανίνες.</Description>
 		<Quantity>2</Quantity>
-	</product>
-	<product>
-		<ID>499001101</ID>
-		<Name>Keskor Ξύλινο Σταντ Πάγκου Προβολής Εμφιαλωμένων Κρασιών 10 Θέσεων 38Χ23Χ59cm Χάρτης/Κερασί 40701</Name>
-		<Product_Link>https://www.skroutz.gr/s/46248016/Keskor-Epidapedia-Mpoukalothiki-Xylini-38x23x59ek-40701.html#description</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/046248/46248016/fixedratio_20230920140708_keskor_epidapedia_mpoukalothiki_xylini_38x23x59ek_40701.jpeg</Image_Link>
-		<Additional>https://b.scdn.gr/images/sku_images/082662/82662453/fixedratio_20230920140711_d23fc46c.jpeg</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>47.6253</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Ποτών &gt; Κάβες Ποτών</Category_Path>
-		<Manufacturer>Keskor</Manufacturer>
-		<MPN>40701</MPN>
-		<Description>Η Keskor προσφέρει μια όμορφη και πρακτική επιλογή για την αποθήκευση των ποτών σας με την επιδαπέδια μπουκαλοθήκη της. Κατασκευασμένη από Ξύλινη ύλη, αυτό το έπιπλο συνδυάζει ανθεκτικότητα και αισθητική, κάνοντάς το ιδανικό για κάθε χώρο.  Η τοποθέτηση της είναι επιδαπέδια, επιτρέποντας εύκολη πρόσβαση και σταθερότητα, ενώ η μπουκαλοθήκη διαθέτει 1 τμήμα για την οργάνωση των μπουκαλιών σας. Είναι μια εξαιρετική προσθήκη για το σαλόνι, την κουζίνα ή το κρασάδικο σας.</Description>
-		<Quantity>4</Quantity>
-	</product>
-	<product>
-		<ID>499001122</ID>
-		<Name>Keskor Ξύλινο Σταντ Πάγκου-Δαπέδου Προβολής Εμφιαλωμένων Κρασιών 14 Θέσεων 42Χ22Χ85cm Καφέ/Κερασί 40703</Name>
-		<Product_Link>https://www.skroutz.gr/s/46248015/Keskor-Epidapedia-Mpoukalothiki-Xylini-Kafe-42x22x85ek-40703.html#description</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/046248/46248015/fixedratio_20230920140708_keskor_epidapedia_mpoukalothiki_xylini_kafe_42x22x85ek_40703.jpeg</Image_Link>
-		<Additional>https://c.scdn.gr/images/sku_images/082662/82662455/fixedratio_20230920140712_45555d85.jpeg</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>58.20869999999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Ποτών &gt; Κάβες Ποτών</Category_Path>
-		<Manufacturer>Keskor</Manufacturer>
-		<MPN>40703</MPN>
-		<Description>Η Keskor προτείνει μια κομψή και λειτουργική λύση για την οργάνωση των ποτών σας με την επιδαπέδια μπουκαλοθήκη της. Κατασκευασμένη από ξύλο, προσφέρει ανθεκτικότητα και στυλ για κάθε χώρο.      Η τοποθέτηση είναι επιδαπέδια, ιδανική για να εξοικονομήσετε χώρο και να διατηρήσετε την οργάνωση.     Η μπουκαλοθήκη διαθέτει 1 επιφάνεια, προσφέροντας άπλα για τα αγαπημένα σας μπουκάλια.     Το χρώμα της είναι καφέ, κάνοντάς την να ταιριάζει αρμονικά με διάφορες διακοσμητικές επιλογές.  Αυτή η μπουκαλοθήκη είναι η ιδανική προσθήκη για τον χώρο σας, συνδυάζοντας πρακτικότητα και αισθητική.</Description>
-		<Quantity>1</Quantity>
-	</product>
-	<product>
-		<ID>499001124</ID>
-		<Barcode>0194343025803</Barcode>
-		<Name>Songmics Επιδαπέδια Κάβα Ποτών Ξύλινη για 24 Μπουκάλια με 2 Ράφια και 5 Ποτηροθήκες σε Μαύρο-Καφέ 66x30x100cm KWR028B01</Name>
-		<Product_Link>https://www.skroutz.gr/s/37931787/Songmics-Epidapedia-Kava-Poton-Xylini-gia-24-Mpoukalia-Mayro-Kafe-66x30x100ek.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/037931/37931787/fixedratio_20220906122441_songmics_xylini_epitoichia_kava_poton_gia_24_mpoukalia_66x30x100cm.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>82.97</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Ποτών &gt; Κάβες Ποτών</Category_Path>
-		<Manufacturer>Songmics</Manufacturer>
-		<MPN>KWR028B01</MPN>
-		<Description>Η κάβα από την εταιρία Songmics είναι κατασκευασμένη από υψηλής ποιότητας μπαμπού και ανθεκτικές σανίδες MDF. Ο συνδυασμός μαύρου πλαισίου από μπαμπού και καφέ φινιρίσματος δίνει στην κάβα ένα μοναδικό στυλ.  Διαθέτει:      24 θήκες για μπουκάλια κρασιού     5 μεταλλικές σειρές για 10 ποτήρια κρασιού     2 ράφια  Σημείωση: Αποφύγετε την παρατεταμένη έκθεση στην υγρασία. Μην αγγίζετε ποτέ με αιχμηρά αντικείμενα, τα οποία μπορεί να καταστρέψουν την επιφάνεια του αντικειμένου. Τα παιδιά δεν επιτρέπεται να σκαρφαλώνουν ή να παίζουν με το προϊόν. Προσαρμόστε το προϊόν στον τοίχο με το παρεχόμενο κιτ προστασίας από ανατροπή για ασφάλεια.  Χαρακτηριστικά:      Πλαίσιο από μπαμπού     24 θήκες για μπουκάλια     5 μεταλλικές σειρές για 10 ποτήρια κρασιού     2 ράφια από μοριοσανίδες     Μέγιστο βάρος / ράφι: 15 Kg     Βάρος: 9 Kg     Διαστάσεις: 66 x 30 x 100 cm</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>58001</ID>
@@ -11675,7 +11624,7 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1084</MPN>
 		<Description>Γάντια πολυαιθυλενίου μιας χρήσης σε διάφανο χρώμα, τα οποία έχουν χαλαρή φόρμα για εύκολη εφαρμογή, είναι φιλικά προς το δέρμα και είναι ιδανικά κυρίως για χρήση σε εργασίες που απαιτούν συχνές αλλαγές γαντιών όπως η επαφή με μπογιές, χρώματα ή τρόφιμα.</Description>
-		<Quantity>1774</Quantity>
+		<Quantity>1773</Quantity>
 		<Size>One Size</Size>
 	</product>
 	<product>
@@ -15677,7 +15626,7 @@
 		<Manufacturer>ELEF</Manufacturer>
 		<MPN>0331</MPN>
 		<Description>Οι διαφανείς σακούλες τροφίμων μεσαίου μεγέθους της εταιρείας Elef σε διάσταση 24x17cm, διατηρούν τα τρόφιμα και κρατούν τις μυρωδιές μακρυά.</Description>
-		<Quantity>532</Quantity>
+		<Quantity>531</Quantity>
 	</product>
 	<product>
 		<ID>75812</ID>
@@ -15932,7 +15881,7 @@
 		<Manufacturer>Θαλασσινός</Manufacturer>
 		<MPN>1781</MPN>
 		<Description>Σακούλες απορριμμάτων για καλαθάκια μπάνιου, γραφείου και μικρούς κάδους.  Εξαιρετικής αντοχής.</Description>
-		<Quantity>9487</Quantity>
+		<Quantity>9485</Quantity>
 	</product>
 	<product>
 		<ID>760200101</ID>
@@ -16072,7 +16021,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-0759</MPN>
 		<Description>Πλαστικά μανταλάκια για ρούχα σε σετ 24τμχ με 4 διαφορετικά χρώματα.</Description>
-		<Quantity>182</Quantity>
+		<Quantity>181</Quantity>
 	</product>
 	<product>
 		<ID>76201002</ID>
@@ -16192,7 +16141,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-1430</MPN>
 		<Description>Πλαστικές τετράγωνες μυγοσκοτώστρες  πολύ ανθεκτικές σε 2 χρώματα.</Description>
-		<Quantity>394</Quantity>
+		<Quantity>393</Quantity>
 	</product>
 	<product>
 		<ID>762030101</ID>
@@ -18215,7 +18164,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>31.589775</Price>
+		<Price>32.853366</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Σκαμπό</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -18233,7 +18182,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>56.861595</Price>
+		<Price>58.125186</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Σκαμπό</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -18553,7 +18502,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.4</Price>
+		<Price>17.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -20161,6 +20110,57 @@
 		<Quantity>120</Quantity>
 	</product>
 	<product>
+		<ID>773602201</ID>
+		<Barcode>0194343025803</Barcode>
+		<Name>Songmics Επιδαπέδια Κάβα Ποτών, από Μέταλλο και Ξύλο για 24 Μπουκάλια με 2 Ράφια και 5 Ποτηροθήκες σε Ρουστίκ Καφέ και Μαύρο Χρώμα 66x30x100cm KWR028B01</Name>
+		<Product_Link>https://www.skroutz.gr/s/37931787/Songmics-Epidapedia-Kava-Poton-Xylini-gia-24-Mpoukalia-Mayro-Kafe-66x30x100ek.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/037931/37931787/fixedratio_20220906122441_songmics_xylini_epitoichia_kava_poton_gia_24_mpoukalia_66x30x100cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>75.82</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Ποτών &gt; Κάβες Ποτών</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>KWR028B01</MPN>
+		<Description>Η κάβα από την εταιρία Songmics είναι κατασκευασμένη από υψηλής ποιότητας μπαμπού και ανθεκτικές σανίδες MDF. Ο συνδυασμός μαύρου πλαισίου από μπαμπού και καφέ φινιρίσματος δίνει στην κάβα ένα μοναδικό στυλ.  Διαθέτει:      24 θήκες για μπουκάλια κρασιού     5 μεταλλικές σειρές για 10 ποτήρια κρασιού     2 ράφια  Σημείωση: Αποφύγετε την παρατεταμένη έκθεση στην υγρασία. Μην αγγίζετε ποτέ με αιχμηρά αντικείμενα, τα οποία μπορεί να καταστρέψουν την επιφάνεια του αντικειμένου. Τα παιδιά δεν επιτρέπεται να σκαρφαλώνουν ή να παίζουν με το προϊόν. Προσαρμόστε το προϊόν στον τοίχο με το παρεχόμενο κιτ προστασίας από ανατροπή για ασφάλεια.  Χαρακτηριστικά:      Πλαίσιο από μπαμπού     24 θήκες για μπουκάλια     5 μεταλλικές σειρές για 10 ποτήρια κρασιού     2 ράφια από μοριοσανίδες     Μέγιστο βάρος / ράφι: 15 Kg     Βάρος: 9 Kg     Διαστάσεις: 66 x 30 x 100 cm</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>7736022091</ID>
+		<Name>Keskor Ξύλινο Σταντ Πάγκου Προβολής Εμφιαλωμένων Κρασιών 10 Θέσεων 38Χ23Χ59cm Χάρτης/Κερασί 40701</Name>
+		<Product_Link>https://www.skroutz.gr/s/46248016/Keskor-Epidapedia-Mpoukalothiki-Xylini-38x23x59ek-40701.html#description</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/046248/46248016/fixedratio_20230920140708_keskor_epidapedia_mpoukalothiki_xylini_38x23x59ek_40701.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/082662/82662453/fixedratio_20230920140711_d23fc46c.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>47.6253</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Ποτών &gt; Κάβες Ποτών</Category_Path>
+		<Manufacturer>Keskor</Manufacturer>
+		<MPN>40701</MPN>
+		<Description>Η Keskor προσφέρει μια όμορφη και πρακτική επιλογή για την αποθήκευση των ποτών σας με την επιδαπέδια μπουκαλοθήκη της. Κατασκευασμένη από Ξύλινη ύλη, αυτό το έπιπλο συνδυάζει ανθεκτικότητα και αισθητική, κάνοντάς το ιδανικό για κάθε χώρο.  Η τοποθέτηση της είναι επιδαπέδια, επιτρέποντας εύκολη πρόσβαση και σταθερότητα, ενώ η μπουκαλοθήκη διαθέτει 1 τμήμα για την οργάνωση των μπουκαλιών σας. Είναι μια εξαιρετική προσθήκη για το σαλόνι, την κουζίνα ή το κρασάδικο σας.</Description>
+		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>7736022092</ID>
+		<Name>Keskor Ξύλινο Σταντ Πάγκου-Δαπέδου Προβολής Εμφιαλωμένων Κρασιών 14 Θέσεων 42Χ22Χ85cm Καφέ/Κερασί 40703</Name>
+		<Product_Link>https://www.skroutz.gr/s/46248015/Keskor-Epidapedia-Mpoukalothiki-Xylini-Kafe-42x22x85ek-40703.html#description</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/046248/46248015/fixedratio_20230920140708_keskor_epidapedia_mpoukalothiki_xylini_kafe_42x22x85ek_40703.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/082662/82662455/fixedratio_20230920140712_45555d85.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>58.20869999999999</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Ποτών &gt; Κάβες Ποτών</Category_Path>
+		<Manufacturer>Keskor</Manufacturer>
+		<MPN>40703</MPN>
+		<Description>Η Keskor προτείνει μια κομψή και λειτουργική λύση για την οργάνωση των ποτών σας με την επιδαπέδια μπουκαλοθήκη της. Κατασκευασμένη από ξύλο, προσφέρει ανθεκτικότητα και στυλ για κάθε χώρο.      Η τοποθέτηση είναι επιδαπέδια, ιδανική για να εξοικονομήσετε χώρο και να διατηρήσετε την οργάνωση.     Η μπουκαλοθήκη διαθέτει 1 επιφάνεια, προσφέροντας άπλα για τα αγαπημένα σας μπουκάλια.     Το χρώμα της είναι καφέ, κάνοντάς την να ταιριάζει αρμονικά με διάφορες διακοσμητικές επιλογές.  Αυτή η μπουκαλοθήκη είναι η ιδανική προσθήκη για τον χώρο σας, συνδυάζοντας πρακτικότητα και αισθητική.</Description>
+		<Quantity>1</Quantity>
+	</product>
+	<product>
 		<ID>775100101</ID>
 		<Barcode>5203642118224</Barcode>
 		<Name>Sidirela Λάστιχο Ποτίσματος Ενισχυμένο Blue 1/2" 15m Ε-1822</Name>
@@ -20762,7 +20762,7 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1689</MPN>
 		<Description>Σκεύος αλουμινίου μικρού μεγέθους.      Μέγεθος: U220(R43L)     Διαστάσεις (Μ x B x Y): 205 x 124 x 45mm     Συσκευασία: 100 τεμάχια</Description>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 	</product>
 	<product>
 		<ID>785031</ID>
@@ -20779,7 +20779,7 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1690</MPN>
 		<Description>Το καπάκι από το σκεύος αλουμινίου (μερίδας φαγητού) R-43 έχει διάσταση 19 x 11,5 εκατοστά ύψος.  Το καπάκι έχει κατασκευαστεί έτσι ώστε:      Από την μια πλευρά να είναι χαρτόνι λευκό, δίνοντας τη δυνατότητα σε κάποιον να γράψει ο,τι σχόλιο θέλει.     Από την άλλη πλευρά να είναι επενδυμένο με αλουμίνιο, σφραγίζοντας έτσι αεροστεγώς το φαγητό και κρατώντας το σε σωστή θερμοκρασία.</Description>
-		<Quantity>17</Quantity>
+		<Quantity>16</Quantity>
 	</product>
 	<product>
 		<ID>78504</ID>
@@ -20932,7 +20932,7 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0587</MPN>
 		<Description>Πλαστικό (PET) σκεύος μιας χρήσης χωρητικότητας 750ml με ενσωματωμένο καπάκι, ιδανικό για συσκευασία κρύων φαγητών. Η συσκευασία περιλαμβάνει 100 τεμάχια.</Description>
-		<Quantity>36</Quantity>
+		<Quantity>35</Quantity>
 	</product>
 	<product>
 		<ID>785241</ID>
@@ -25110,7 +25110,7 @@
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKK026</MPN>
 		<Description>Ο ηλεκτρικός βραστήρας διαθέτει δυνατή ισχύ 2200 W, κανάτα από πυρίμαχο γυαλί χωρητικότητας 1.8 Lt, δείκτη στάθμης νερού με πολύχρωμο φωτισμό LED κατά τη διάρκεια βρασμού (5 διαφορετικά χρώματα ανάλογα με την θερμοκρασία του νερού), σβήνει αυτόματα όταν βράσει το νερό και προστασία από την υπερθέρμανση.</Description>
-		<Quantity>155</Quantity>
+		<Quantity>154</Quantity>
 	</product>
 	<product>
 		<ID>7991711011</ID>
@@ -27662,6 +27662,24 @@
 		<Quantity>130</Quantity>
 	</product>
 	<product>
+		<ID>799551251</ID>
+		<Barcode>5907769301568</Barcode>
+		<Name>Wozinsky Βάση Στήριξης Ποδηλάτου-Scooter για Κινητό 4.7-6.8" Μαύρη WBHBK3</Name>
+		<Product_Link>https://www.skroutz.gr/s/33774486/Wozinsky-WBHBK3-Vasi-Stirixis-Podilatou-gia-Kinito-4-7-6-8.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/033774/33774486/xlarge_20220203165947_wozinsky_wbhbk3_vasi_stirixis_podilatou_gia_kinito_4_7_6_8.jpeg</Image_Link>
+		<Additional>https://static5.eu.hurtel.com/hpeciai/6eb9d9078a7b59e38c0456674553edfd/eng_pm_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_14.jpg https://static5.eu.hurtel.com/hpeciai/8c165d320a2d058d72cd4b618a8ae838/eng_pm_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_13.jpg  https://static5.eu.hurtel.com/hpeciai/60eb1a3e5a753764eda1e2d570b834a0/eng_pm_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_12.jpg https://static3.eu.hurtel.com/hpeciai/5986abf29bbe740986ad29222403ddbc/eng_pm_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_11.jpg https://static4.eu.hurtel.com/hpeciai/f2429d1f3b4ac83113afdbc77d51fa0f/eng_pm_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_1.jpg https://static3.eu.hurtel.com/hpeciai/40a8d1984f04d8957692d4778b3e7105/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_2.jpg https://static3.eu.hurtel.com/hpeciai/fc6775cb8c3ea18acf355a89117fcf28/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_4.jpg https://static3.eu.hurtel.com/hpeciai/2b01bac7005cf96021b60cb4d58d6b44/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_17.jpg https://static2.eu.hurtel.com/hpeciai/8d4124634b64d18c528a6911856b05f4/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_18.jpg https://static2.eu.hurtel.com/hpeciai/197d61c09697f7da990551f5dbeba1f9/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_16.jpg https://static4.eu.hurtel.com/hpeciai/7b1c883397c06c962601dcd30e77091e/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_5.jpg https://static5.eu.hurtel.com/hpeciai/b3a71a1c0a163e3ce0bddca0bbc8bd97/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_6.jpg https://static1.eu.hurtel.com/hpeciai/6328b95e7be2733ac86c54a39bb3c470/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_7.jpg https://static1.eu.hurtel.com/hpeciai/7eca22f17063176cd58088c844f18670/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_8.jpg https://static4.eu.hurtel.com/hpeciai/113262ec390e9d7f9272852031230fd6/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_9.jpg https://static1.eu.hurtel.com/hpeciai/680240afe6ad7c25ed310b2557c5d1e6/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_10.jpg https://static3.eu.hurtel.com/hpeciai/286143fb8badf165aa9e5f4e28b72159/eng_pl_Wozinsky-metal-bicycle-phone-holder-scooters-black-WBHBK3-82435_15.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>10.27</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Αθλητισμός - Ψυχαγωγία&gt; Αξεσουάρ Ποδηλάτων &gt; Θήκες &amp; Βάσεις Ποδηλάτου</Category_Path>
+		<Manufacturer>Wozinsky</Manufacturer>
+		<MPN>WBHBK3</MPN>
+		<Description>Μεταλλική θήκη τηλεφώνου για ποδήλατο, σκούτερ Wozinsky - μαύρη (WBHBK3) Άνεση, προσαρμοστικότητα σε διαφορετικά ποδήλατα και σταθερότητα. Η βάση τηλεφώνου Wozinsky WBHBK3 για ποδήλατο ή σκούτερ ταιριάζει σε οποιοδήποτε τύπο τιμονιού με διάμετρο 17-32 mm. Θα κρατήσει το τηλέφωνό σας με ασφάλεια ακόμα και στους πιο δύσκολους δρόμους. Θα σας επιτρέψει επίσης να περιστρέφετε ελεύθερα το smartphone σας 360 μοίρες .  Προσδιορισμός:  Μάρκα : Wozinsky Μοντέλο : WBHBK3 Μέθοδος τοποθέτησης : τιμόνι ποδηλάτου ή σκούτερ με διάμετρο 17-32 mm Συμβατότητα : Smartphones 4,7-6,8 ιντσών Υλικό : κράμα αλουμινίου + ελαστικό μαξιλαράκι Χρώμα : μαύρο  Τα πιο σημαντικά πλεονεκτήματα μιας μεταλλικής βάσης τηλεφώνου για ένα ποδήλατο, σκούτερ Wozinsky WBHBK3: Θα κρατήσει το τηλέφωνό σας σταθερό . Η λαβή σύσφιξης διαθέτει ελαστικά μαξιλαράκια που το προστατεύουν από ζημιές. Μπορείτε να το προσαρμόσετε σε διαφορετικά ποδήλατα . Η βάση τοποθετείται σε τιμόνι με διάμετρο 17-32 mm. Συμβατό με πολλά μοντέλα κινητών τηλεφώνων . Οι σιαγόνες της θήκης ταιριάζουν σε τηλέφωνα με διαγώνιο 4,7-6,8 ίντσες. Θα σας επιτρέψει να ρυθμίσετε το τηλέφωνο σε οποιαδήποτε γωνία . Η λαβή περιστρέφεται 360 μοίρες. Μπορείτε να το στερεώσετε στο τιμόνι εξαιρετικά γρήγορα . Δεν χρειάζεστε εργαλεία για τη συναρμολόγηση. Βάση τηλεφώνου για ποδήλατα και σκούτερ με επιπλέον σταθεροποίηση Η θήκη τηλεφώνου WBHBK3 για ποδήλατο ή σκούτερ παρέχει ασφαλή σταθεροποίηση σε απαιτητικές διαδρομές, ανώμαλους δρόμους και δασικά μονοπάτια . Δεν φοβάται καμία κατάσταση. Η θήκη είναι εξοπλισμένη με ελαστικά μαξιλαράκια που εμποδίζουν το τηλέφωνο να γρατσουνιστεί , σταθεροποιώντας το επιπλέον. Χάρη στην κατασκευή από υλικά υψηλής ποιότητας, θα σας εξυπηρετήσει για μεγάλο χρονικό διάστημα - η λαβή είναι ανθεκτική στις κρούσεις .  Συμβατή βάση τηλεφώνου για ποδήλατο ή σκούτερ Η μεταλλική βάση τηλεφώνου για το ποδήλατο, τα σκούτερ Wozinsky WBHBK3, θα προσαρμοστεί στις απαιτήσεις σας. Είναι συμβατή με όλα τα τιμόνια με διάμετρο 17-32 mm . Έτσι, μπορείτε να την τοποθετήσετε σε ποδήλατα δρόμου, χωματόδρομου, πόλης ή παιδικά ποδήλατα, καθώς και σε σκούτερ. Είναι μια πολύ γενικής χρήσης βάση. Θα κρατάει σφιχτά και με ασφάλεια.  Βάση ποδηλάτου γενικής χρήσης για smartphones Αν ψάχνετε για μια βάση τηλεφώνου γενικής χρήσης για ποδήλατο ή σκούτερ, επιλέξτε την Wozinsky WBHBK3. Οι σιαγόνες της βάσης διευρύνονται σημαντικά, χάρη στην οποία θα ταιριάζουν σε τηλέφωνα με διαγώνιο 4,7-6,8 ίντσες, π.χ. Samsung Galaxy A52, Motorola Moto G20, Huawei P40 Lite E, Xiaomi Redmi 9A ή iPhone 12. Η τοποθέτηση στο τηλέφωνο είναι εξαιρετικά απλή. Το μόνο που έχετε να κάνετε είναι να γυρίσετε το κουμπί και να πιέσετε τις σιαγόνες στο smartphone.  Περιστρέψτε τη βάση τηλεφώνου για το ποδήλατο ή το σκούτερ όπως επιθυμείτε Χάρη στη βάση Wozinsky WBHBK3 , μπορείτε να ρυθμίσετε το τηλέφωνό σας οριζόντια ή κάθετα - όπως θέλετε. Η βάση τηλεφώνου για ποδήλατο ή σκούτερ περιστρέφεται 360 μοίρες ! Η επίτευξη της τέλειας γωνίας θέασης είναι επομένως εξαιρετικά απλή. Αυτή η δυνατότητα σας επιτρέπει να χρησιμοποιείτε το τηλέφωνο άνετα.  Γρήγορη συναρμολόγηση και αποσυναρμολόγηση της βάσης τηλεφώνου για ποδήλατο ή σκούτερ Θα σας πάρει λίγα λεπτά για να τοποθετήσετε τη βάση τιμονιού . Κυριολεκτικά! Επίσης, δεν χρειάζεται να χρησιμοποιήσετε βία. Αυτή είναι μια εξαιρετική λύση για όσους, για παράδειγμα, πηγαίνουν στη δουλειά με ποδήλατο. Ανά πάσα στιγμή, μπορείτε να αποσυναρμολογήσετε τη θήκη τηλεφώνου για το ποδήλατο και το σκούτερ - και να μην ανησυχείτε για κλοπή.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799551301</ID>
 		<Barcode>6957303842896</Barcode>
 		<Name>Ugreen Πτυσσόμενη Βάση για Laptop 8" έως 17" Γκρι LP451 / 40289</Name>
@@ -30199,7 +30217,7 @@
 		<MPN>1026</MPN>
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
-		<Quantity>100</Quantity>
+		<Quantity>98</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
@@ -30235,7 +30253,7 @@
 		<MPN>1028</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Υγρή τροφή γάτας με γαλοπούλα και κοτόπουλο σε κονσέρβα.</Description>
-		<Quantity>3586</Quantity>
+		<Quantity>3581</Quantity>
 	</product>
 	<product>
 		<ID>9912201</ID>
