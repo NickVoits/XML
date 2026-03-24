@@ -21068,7 +21068,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.925169344</Price>
+		<Price>6.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category_Path>
 		<Manufacturer>Viosarp</Manufacturer>
@@ -24908,6 +24908,56 @@
 		<MPN>1682</MPN>
 		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές με πλάτος 80mm και μήκος 65 τρεχούμενα μέτρα. Κατασκευασμένη από άριστης ποιότητας χαρτί.</Description>
 		<Quantity>53</Quantity>
+	</product>
+	<product>
+		<ID>794991101</ID>
+		<Barcode>5203358002503</Barcode>
+		<Name>Typotrust Δελτίο Παραγγελίας Εστιατορίου Μπλοκ Παραγγελιών Διπλότυπο (2x50 Φύλλα) 250</Name>
+		<Product_Link>https://www.skroutz.gr/s/64757409/typotrust-mplok-paragelion-250.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/064757/64757409/xlarge_20251218114329_typotrust_mplok_paragelion_250.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>0.77</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Λογιστικά Έντυπα</Category_Path>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>250</MPN>
+		<Description>Έντυπο παραγγελίας για εστιατόρια  Κωδικός : 250 Διάσταση : 9 x 21 Πολλαπλότητα : 50 x 2 Αντίγραφα : 2 (Λευκό - Κίτρινο) Χαρτί : Αυτογραφικό</Description>
+	</product>
+	<product>
+		<ID>794991102</ID>
+		<Barcode>5203358002282</Barcode>
+		<Name>Typotrust Απόδειξη Είσπραξης Μπλοκ Αποδείξεων Διπλότυπο (2x50 Φύλλα) 228</Name>
+		<Product_Link>https://www.skroutz.gr/s/19126764/Typotrust-Apodeixi-Eispraxis-Mplok-Apodeixeon-Diplotypo-2x50-Fylla-228.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/019126/19126764/xlarge_20190620135539_typotrust_apodeixi_eispraxis_228.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/062926/62926280/xlarge_20220804102251_bc8eed05.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>1.52</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Λογιστικά Έντυπα</Category_Path>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>228</MPN>
+		<Description>Αποδεικτικό είσπραξης ποσού (χωρίς ανάλυση μετρητών ή αξιογράφων).  Διάσταση : 10 x 18 cm Πολλαπλότητα : 50 x 2 Αντίγραφα : 2 (Λευκό - Κίτρινο) Χαρτί : Αυτογραφικό</Description>
+	</product>
+	<product>
+		<ID>794991103</ID>
+		<Barcode>5203358003210</Barcode>
+		<Name>Typotrust Ημερήσιο Δελτίο Δρομολογίων Αριθμημένο Διπλότυπο (2x92 Φύλλα) 321</Name>
+		<Product_Link>https://www.skroutz.gr/s/19147688/Typotrust-Imerisio-Deltio-Imerologion-Arithmimeno-Logistiko-Vivlio-Diplotypo-2x92-Fylla-321.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/019147/19147688/xlarge_20190621142120_imerisio_deltio_imerologion_arithmimeno_321_typotrust.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/052282/52282553/xlarge_20211111182815_6140e990.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.3</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Λογιστικά Έντυπα</Category_Path>
+		<Manufacturer>Typotrust</Manufacturer>
+		<MPN>321</MPN>
+		<Description>Έντυπο επαγγελματικού αυτοκινήτου , ισχύος τριών μηνών με αρίθμηση από το 1 έως το 92  Κωδικός : 321 Διάσταση : 15 X 24 Πολλαπλότητα : 92 X 2 Αντίγραφα : 3 (Λευκό - Κίτρινο) Χαρτί : Αυτογραφικό</Description>
 	</product>
 	<product>
 		<ID>79601</ID>
@@ -29205,6 +29255,24 @@
 		<MPN>PB312</MPN>
 		<Description>Power bank 10.000 mAh με ενδείξεις LED για παρακολούθηση του επιπέδου μπαταρίας.  Χωριτικότητα Μπαταρίας: 10000mAh USB-C Είσοδος: 5V-2.1A USB-A1/A2 Έξοδος: 5V-2.1A Διαστάσεις: 143 x 68 x 16mm Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι ελαφρύ για να το έχεις καθημερινά μαζί σου και είναι μικρό σε όγκο.</Description>
 		<Quantity>33</Quantity>
+	</product>
+	<product>
+		<ID>7995191013</ID>
+		<Barcode>6956116713256</Barcode>
+		<Name>Joyroom Power Bank 10000mAh 12W με 2 Θύρες USB-A και Θύρα USB-C Μαύρο  JR-PBF12</Name>
+		<Product_Link>https://www.skroutz.gr/s/56880597/Joyroom-JR-PBF12-Power-Bank-10000mAh-12W-me-2-THyres-USB-A-kai-THyra-USB-C-Mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/056880/56880597/xlarge_20241016150827_joyroom_power_bank_10000mah_12w_me_2_thyres_usb_a_kai_thyra_usb_c_mayro.jpeg</Image_Link>
+		<Additional>https://static5.eu.hurtel.com/hpeciai/4a19d50c37c47711b4cceac96563e91c/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_2.jpg https://static4.eu.hurtel.com/hpeciai/ebab8c96259d537cfb3be320c2f7ebc9/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_3.jpg https://static5.eu.hurtel.com/hpeciai/52e1959a2723611000267760b6e886cd/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_4.jpg https://static4.eu.hurtel.com/hpeciai/5ecca5a0eda9b077179666db7a2acc9b/eng_pm_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_6.jpg https://static2.eu.hurtel.com/hpeciai/9d0451bbf67ac1f28f83d38a7ff82027/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_8.jpg https://static3.eu.hurtel.com/hpeciai/3985e314e3203b69a171f750a73138a5/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_9.jpg https://static5.eu.hurtel.com/hpeciai/02fb6b5c53574c868b816e9a02303bce/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_10.jpg https://static4.eu.hurtel.com/hpeciai/877585227984daf40cd921b467dbb3b2/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_11.jpg https://static1.eu.hurtel.com/hpeciai/3418e8816f9b5517c58c363648da1ac0/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_12.jpg https://static5.eu.hurtel.com/hpeciai/923c7605f409211fdc05abbfd1b3cc54/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_13.jpg https://static1.eu.hurtel.com/hpeciai/14471d7d8338de7ddcbbd1b8449dbdb3/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_14.jpg https://static3.eu.hurtel.com/hpeciai/16b620a0c76fc78f186729407d97efcc/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_15.jpg https://static2.eu.hurtel.com/hpeciai/4a10320fd1b4b419272ce9b4c10d19d8/eng_pl_Powerbank-Joyroom-JR-PBF12-10000mAh-2-4A-2x-USB-A-1x-USB-C-black-164143_16.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>8.27</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>Joyroom</Manufacturer>
+		<MPN>JR-PBF12</MPN>
+		<Description>Περιγραφή Joyroom JR-PBF12 10000mAh Powerbank με 2 θύρες USB-A και 1 Type-C. Με αυτή τη συμπαγή και αποτελεσματική τράπεζα ισχύος 10.000 mAh, μπορείτε να φορτίσετε πολλές συσκευές ταυτόχρονα. Ιδανικό για χρήση σε ταξίδια ή κατά τη διάρκεια μιας ημέρας στη δουλειά.  Επωνυμία: Joyroom Μοντέλο: JR-PBF12_B Τύπος μπαταρίας: πολυμερές λιθίου Ονομαστική χωρητικότητα: 5800 mAh (5V - 2,4A) Ισχύς: 12 W Χωρητικότητα: 10000 mAh Ρεύμα εισόδου: Type-C: 5V - 2,4A Ρεύμα εξόδου: Type-C: 5V - 2,4A USB-A1: 5V - 2,4A USB-A2: 5V - 2,4A Μέγιστο ρεύμα για πολλές συνδεδεμένες συσκευές: 5 V - 2,4 A Πρότυπα γρήγορης φόρτισης: Γρήγορη φόρτιση, Παράδοση ρεύματος AFC - Samsung Adaptive Fast Charging Υλικό: ABS, πυρίμαχο  Τα σημαντικότερα πλεονεκτήματα του power bank Joyroom JR-PBF12:  Μειώνει τον χρόνο φόρτισης έως και στο μισό . Το power bank Joyroom JR-PBF12 φορτίζει συσκευές δύο φορές πιο γρήγορα, επιτρέποντάς σας να φορτίσετε ένα iPhone 15 Pro κατά 50% σε μόλις 45 λεπτά. Φορτίζει τρεις συσκευές ταυτόχρονα . Διαθέτει τρεις θύρες φόρτισης, συμπεριλαμβανομένης της USB-C, η οποία λειτουργεί ως είσοδος και έξοδος. Παρέχει ολοκληρωμένη προστασία . Εξοπλισμένο με προστατευτικά μέτρα κατά της υπερφόρτισης, της υπερβολικής εκφόρτισης, της υπέρτασης, της υπερθέρμανσης και των βραχυκυκλωμάτων. Είναι ιδανικό για ταξίδια . Είναι συμπαγές και συμμορφώνεται με τα πρότυπα αεροπορίας. Παρέχει μεγάλους χρόνους λειτουργίας μεταξύ των φορτίσεων . Η χωρητικότητά του στα 10.000 mAh σάς επιτρέπει να φορτίζετε μια ποικιλία συσκευών: smartphones, tablet και ασύρματα ακουστικά.</Description>
+		<Quantity>100</Quantity>
 	</product>
 	<product>
 		<ID>799519111</ID>
