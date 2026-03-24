@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-24 17:05</created_at>
+	<created_at>2026-03-24 17:07</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -24924,6 +24924,7 @@
 		<Manufacturer>Typotrust</Manufacturer>
 		<MPN>250</MPN>
 		<Description>Έντυπο παραγγελίας για εστιατόρια  Κωδικός : 250 Διάσταση : 9 x 21 Πολλαπλότητα : 50 x 2 Αντίγραφα : 2 (Λευκό - Κίτρινο) Χαρτί : Αυτογραφικό</Description>
+		<Quantity>55</Quantity>
 	</product>
 	<product>
 		<ID>794991102</ID>
@@ -24941,6 +24942,7 @@
 		<Manufacturer>Typotrust</Manufacturer>
 		<MPN>228</MPN>
 		<Description>Αποδεικτικό είσπραξης ποσού (χωρίς ανάλυση μετρητών ή αξιογράφων).  Διάσταση : 10 x 18 cm Πολλαπλότητα : 50 x 2 Αντίγραφα : 2 (Λευκό - Κίτρινο) Χαρτί : Αυτογραφικό</Description>
+		<Quantity>10</Quantity>
 	</product>
 	<product>
 		<ID>794991103</ID>
@@ -24958,6 +24960,7 @@
 		<Manufacturer>Typotrust</Manufacturer>
 		<MPN>321</MPN>
 		<Description>Έντυπο επαγγελματικού αυτοκινήτου , ισχύος τριών μηνών με αρίθμηση από το 1 έως το 92  Κωδικός : 321 Διάσταση : 15 X 24 Πολλαπλότητα : 92 X 2 Αντίγραφα : 3 (Λευκό - Κίτρινο) Χαρτί : Αυτογραφικό</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79601</ID>
