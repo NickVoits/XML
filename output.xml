@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-30 16:02</created_at>
+	<created_at>2026-03-30 16:22</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -248,7 +248,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>230</Quantity>
+		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -8830,7 +8830,7 @@
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>DF50F</MPN>
 		<Description>Οδοντικό νήμα σε διχάλες με λαβή για εύκολο κράτημα με επίθεμα αντίχειρα για καλύτερο έλεγχο. Γλιστρά εύκολα μεταξύ των δοντιών και δεν χαλάει, σπάει ή χαλαρώνει εύκολα. Επίσης, διαθέτει λαιμό σε γωνία για να προσφέρει πρόσβαση στα πίσω δόντια.</Description>
-		<Quantity>69</Quantity>
+		<Quantity>68</Quantity>
 	</product>
 	<product>
 		<ID>61001</ID>
@@ -10636,7 +10636,7 @@
 		<Manufacturer>ULTREX</Manufacturer>
 		<MPN>1287</MPN>
 		<Description>Ultrex Men Legend by CR7 με την υπογραφή του Ronaldo. Κατά της πιτυρίδας και της λιπαρότητας, είναι ειδικά σχεδιασμένο για το ανδρικό τριχωτό της κεφαλής που είναι πιο αδύναμο και πιο επιρρεπές στην απώλεια πρωτεϊνών.</Description>
-		<Quantity>109</Quantity>
+		<Quantity>105</Quantity>
 	</product>
 	<product>
 		<ID>66501.01</ID>
@@ -17198,6 +17198,7 @@
 		<Product_Link>https://www.skroutz.gr/s/24795425/Sidirela-First-Tapsi-Orthogonio-Alouminiou-me-Emagie-Epistrosi-22x34cm-E-2740.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024795/24795425/fixedratio_20220510233945_sidi_home_tapsi_orthogonio_alouminiou_me_emagie_epistrosi_22x34cm_e_2740.jpeg</Image_Link>
 		<Additional>https://a.scdn.gr/images/sku_images/102856/102856289/fixedratio_20241002112826_692e37c9.jpeg https://c.scdn.gr/images/sku_images/038492/38492070/fixedratio_20220510233947_25b1d5e7.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
 		<Price>6.446118672</Price>
@@ -17215,6 +17216,7 @@
 		<Product_Link>https://www.skroutz.gr/s/24795408/Sidirela-First-Tapsi-Orthogonio-Alouminiou-me-Emagie-Epistrosi-25x38cm-E-2741.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024795/24795425/fixedratio_20220510233945_sidi_home_tapsi_orthogonio_alouminiou_me_emagie_epistrosi_22x34cm_e_2740.jpeg</Image_Link>
 		<Additional>https://a.scdn.gr/images/sku_images/102856/102856289/fixedratio_20241002112826_692e37c9.jpeg https://c.scdn.gr/images/sku_images/038492/38492070/fixedratio_20220510233947_25b1d5e7.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
 		<Price>8.594824896</Price>
@@ -17232,6 +17234,7 @@
 		<Product_Link>https://www.skroutz.gr/s/24795418/Sidirela-First-Tapsi-Orthogonio-Alouminiou-me-Emagie-Epistrosi-28x41cm-E-2742.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024795/24795425/fixedratio_20220510233945_sidi_home_tapsi_orthogonio_alouminiou_me_emagie_epistrosi_22x34cm_e_2740.jpeg</Image_Link>
 		<Additional>https://a.scdn.gr/images/sku_images/102856/102856289/fixedratio_20241002112826_692e37c9.jpeg https://c.scdn.gr/images/sku_images/038492/38492070/fixedratio_20220510233947_25b1d5e7.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
 		<Price>10.982276256</Price>
@@ -17732,7 +17735,7 @@
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LNT52BX</MPN>
 		<Description>Το βοηθητικό τραπεζάκι σαλονιού της εταιρείας Vasagle είναι ιδανικό για τοποθέτηση στο πλάι του καναπέ αλλά και σε διαφορετικά σημεία του σπιτιού προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων. Είναι ορθογώνιο, αποτελείται από μέταλλο και μοριοσανίδα και αντέχει βάρος έως 25 κιλά.</Description>
-		<Quantity>2</Quantity>
+		<Quantity>1</Quantity>
 	</product>
 	<product>
 		<ID>77001101021</ID>
@@ -27356,7 +27359,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.1</Price>
+		<Price>23.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -27442,7 +27445,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.18</Price>
+		<Price>12.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt;Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες Αυγών</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
