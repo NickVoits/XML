@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-03-31 16:05</created_at>
+	<created_at>2026-03-31 16:55</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -266,7 +266,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>4380</Quantity>
+		<Quantity>4350</Quantity>
 	</product>
 	<product>
 		<ID>11012</ID>
@@ -633,7 +633,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.87</Price>
+		<Price>5.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -651,7 +651,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.87</Price>
+		<Price>5.38</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -705,7 +705,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.49</Price>
+		<Price>4.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -723,7 +723,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>5.22</Price>
+		<Price>5.77</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -741,7 +741,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.49</Price>
+		<Price>4.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -759,7 +759,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.17</Price>
+		<Price>4.61</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
 		<Manufacturer>COCA COLA</Manufacturer>
@@ -1317,7 +1317,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.26</Price>
+		<Price>4.235642115492847</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1335,7 +1335,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.42</Price>
+		<Price>4.34333372792135</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1353,7 +1353,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.53</Price>
+		<Price>4.284185854020603</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1371,7 +1371,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>4.53</Price>
+		<Price>4.284185854020603</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1389,7 +1389,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.37</Price>
+		<Price>1.83</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΣΟΥΡΩΤΗ</Manufacturer>
@@ -1970,7 +1970,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1243</Quantity>
+		<Quantity>1213</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2767,7 +2767,7 @@
 		<MPN>0938</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Ο Ασκός Ζίτσα Ροζέ Ημίγλυκο είναι ένα ευχάριστο κρασί με φρουτώδεις νότες και αρώματα λουλουδιών. Το φωτεινό ροζέ χρώμα του ταιριάζει απόλυτα με τη γλυκιά γεύση του, προσφέροντας μια ευχάριστη εμπειρία απόλαυσης. Ιδανικό για να απολαύσετε σε καλή παρέα και ξεχωριστές στιγμές χαλάρωσης.</Description>
-		<Quantity>55</Quantity>
+		<Quantity>54</Quantity>
 	</product>
 	<product>
 		<ID>40432</ID>
@@ -3336,7 +3336,7 @@
 		<Manufacturer>ΚΤΗΜΑ ΒΙΒΛΙΑ ΧΩΡΑ</Manufacturer>
 		<MPN>1316</MPN>
 		<Description>To λευκό του Κτήματος Βιβλία Χώρα αποτελεί ένα αρωματικό και φρέσκο κρασί, φτιαγμένο για όλες τις στιγμές. Παράγεται από το πάντρεµα της αρωματικής ποικιλίας Sauvignon Blanc και του πληθωρικού Ασύρτικου. Το χρώμα του, είναι απαλό πρασινοκίτρινο, µε έντονη διαύγεια. Έντονα αρώματα τροπικών φρούτων, γκρέιπφρουτ, εναλλάσσονται µε νότες εσπεριδοειδών &amp;  λεμονιού. Σερβίρεται στους 10οC και προτείνεται να καταναλωθεί σε 2 χρόνια. Πίνεται σκέτο ως απεριτίφ, ενώ μπορεί να συνοδεύσει εξαιρετικά πλατό τυριών, ριζοτο και θαλασσινά,.</Description>
-		<Quantity>59</Quantity>
+		<Quantity>57</Quantity>
 	</product>
 	<product>
 		<ID>46272</ID>
@@ -3506,7 +3506,7 @@
 		<Manufacturer>ΚΤΗΜΑ ΓΕΡΟΒΑΣΙΛΕΙΟΥ</Manufacturer>
 		<MPN>1321</MPN>
 		<Description>Κρασί της ελληνικής ποικιλίας Μαλαγουζιά με λεμονοπράσινο χρώμα, γευστικές νότες βερίκοκου, ροδάκινου, αχλαδιού, τροπικών φρούτων αλλά και δυόσμου συνδιάζονται με ανθικά αρώματα με κυρίαρχο το τριαντάφυλλο. Στο στόμα είναι ξηρό, με ικανοποιητική οξύτητα, μέτριο σώμα και μακρά επίγευση.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>53</Quantity>
 	</product>
 	<product>
 		<ID>46307</ID>
@@ -3898,7 +3898,7 @@
 		<Manufacturer>ΚΤΗΜΑ ΑΛΦΑ</Manufacturer>
 		<MPN>132701</MPN>
 		<Description>Ξηρό κρασί με χρώμα έντονο ροζέ και ανταύγειες saumon. Μύτη φρουτώδης με πλούσια αρωματική έκφραση και ιδιαίτερα ισορροπημένο στόμα γεμάτο και λιπαρό, με εκφραστική επίγευση. Συνδυάζεται αρμονικά με Ελληνικές γεύσεις, σαλάτες, ζυμαρικά σε ελαφρές κόκκινες σάλτσες, πίτσες, αλλά και με εξωτικές κουζίνες και κρύες σούπες.</Description>
-		<Quantity>107</Quantity>
+		<Quantity>104</Quantity>
 	</product>
 	<product>
 		<ID>47083102</ID>
@@ -4153,7 +4153,7 @@
 		<Manufacturer>LA TOUR MELAS</Manufacturer>
 		<MPN>1527</MPN>
 		<Description>Το "Idylle D' Achinos"  αποτελεί μία από τις καινούργιες δημιουργίες του οινοποιείου La Tour Melas.</Description>
-		<Quantity>90</Quantity>
+		<Quantity>89</Quantity>
 	</product>
 	<product>
 		<ID>47105101</ID>
@@ -4376,7 +4376,7 @@
 		<Manufacturer>Nico Lazaridi</Manufacturer>
 		<MPN>1527006</MPN>
 		<Description>Το Μαύρο Πρόβατο, ένα όνομα εκκεντρικό για ένα προϊόν που τονίζει τη διαφορετικότητα και την ιδιαιτερότητα του. Η νεοκοσμήτικη φιλοσοφία του διαφαίνεται τόσο από το βιδωτό του πώμα,την trendy εμφάνισή του αλλά και την φρεσκάδα που το χαρακτηρίζει. Παράγεται στο Οινοποιείο Μακεδών στον Πλατανότοπο Καβάλας ενώ οι αμπελώνες βρίσκονται σε μικρή απόσταση από το οινοποιείο.  Για το Μαύρο Πρόβατο ερυθρό επιλέξαμε τις ποικιλίες Syrah και Merlot, των οποίων η καλλιέργεια στους πρόποδες του Παγγαίου όρους έχει φέρει πολύ καλά αποτελέσματα.      Ποικιλίες: 60% Syrah, 40% Merlot.     Αμπελώνες: Πρόποδες Παγγαίου Όρους.     Οινοποίηση – Ωρίμανση: Kλασσική οινοποίηση ερυθρού οίνου με παραμονή 4-6 μήνες σε κομμάτια ξύλου δρυός.     Οινολογικές Αναλύσεις: Αλκοολικός Τίτλος: 14,5%, Ολική Οξύτητα: 5,25g/l, Ανάγοντα Σάκχαρα: 2,5 g/l, pH: 3,58   Τύπος: Οίνος Ερυθρός Ξηρός.  Κατηγορία: Προστατευόμενη Γεωγραφική Ένδειξη Παγγαίο.  Ποικιλίες: 60% Syrah, 40% Merlot.  Αμπελώνες: Πρόποδες Παγγαίου Όρους.  Οινοποίηση – Ωρίμαση: Kλασσική οινοποίηση ερυθρού οίνου με παραμονή 4-6 μήνες σε κομμάτια ξύλου δρυός.  Οινολογικές Αναλύσεις: Αλκοολικός Τίτλος: 12,5% Ολική Οξύτητα: 5,75g/l Ανάγοντα Σάκχαρα:  2.3g/l  Οργανοληπτικά Χαρακτηριστικά: Ζωηρό ρουμπινί χρώμα με μωβ ανταύγειες. Έντονα αρώματα ώριμων κόκκινων φρούτων, δαμάσκηνου και νότες πιπεριού. Βελούδινο στόμα, με μαλακές τανίνες και μια αρωματική, φρουτώδη επίγευση.  Φύλαξη – Παλαίωση: Πίνεται ευχάριστα για τα επόμενα 5 χρόνια από τον τρύγο.  Γευστικό ταίριασμα: Σερβίρεται στους 16-18°C, συνοδεύοντας κόκκινα κρέατα, πικάντικα τυριά και πράσινες δροσερές σαλάτες.</Description>
-		<Quantity>17</Quantity>
+		<Quantity>14</Quantity>
 	</product>
 	<product>
 		<ID>47106123</ID>
@@ -5150,7 +5150,7 @@
 		<Manufacturer>Chateau Miraval</Manufacturer>
 		<MPN>180001</MPN>
 		<Description>Chateau Miraval Rosé, από το κτήμα της Προβηγκίας, όπου η ιστορία του ξεκινάει στο Μεσαίωνα και συνεχίζεται στο σήμερα όπου πλέον έγινε περισσότερο γνωστό από τότε που ήρθε στην ιδιοκτησία του ζεύγους Brad Pitt και Angelina Jolie.  Με έντονη μύτη που παραπέμπει σε λευκά λουλούδια, μικρά κόκκινα μούρα, φρεσκοκομμένες φράουλες και ώριμα Morello κεράσια. Στόμα στρογγυλό και απαλό με αρώματα κερασιού, άγριας φράουλας και με ίχνη αλμύρας. Είναι ισορροπημένο, διαρκές και έχει απαλό τελείωμα. Σερβίρεται στους 10-12˚C και ταιριάζει με κάθε μεσογειακό πιάτο.</Description>
-		<Quantity>27</Quantity>
+		<Quantity>26</Quantity>
 	</product>
 	<product>
 		<ID>48004</ID>
@@ -5615,7 +5615,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.44391029273612</Price>
+		<Price>1.479686766810919</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5633,7 +5633,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.33924798299198</Price>
+		<Price>2.398875439783313</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5651,7 +5651,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.915311410649291</Price>
+		<Price>5.034566324231956</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5669,7 +5669,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.421883320236119</Price>
+		<Price>1.457659794310919</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5687,7 +5687,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.31722101049198</Price>
+		<Price>2.376848467283312</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5705,7 +5705,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.83059228564929</Price>
+		<Price>4.949847199231955</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5723,7 +5723,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.142396335058605</Price>
+		<Price>6.26165124864127</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>ΤΣΙΛΙΛΗ</Manufacturer>
@@ -5874,7 +5874,7 @@
 		<MPN>0427</MPN>
 		<Weight>0.05 kg</Weight>
 		<Description>Ο φημισμένος μακεδονικός γλυκάνισος, χαρίζει το φίνο άρωμά του στο Τσίπουρο Ηδωνικό. Η κλασματική απόσταξη εξασφαλίζει την υψηλή καθαρότητα του τελικού προϊόντος. Διαυγές, που αποκτά ένα ελαφρά γαλακτώδες χρώμα αν προστεθεί νερό στο ποτήρι. Κυριαρχούν τα αρώματα του γλυκάνισου, σε διακριτικό φρουτώδες υπόστρωμα. Μαλακό και ευγενικό, με επίμονο, πικάντικο τελείωμα.</Description>
-		<Quantity>324</Quantity>
+		<Quantity>300</Quantity>
 	</product>
 	<product>
 		<ID>52802</ID>
@@ -5910,7 +5910,7 @@
 		<MPN>0483</MPN>
 		<Weight>0.05 kg</Weight>
 		<Description>Tο εκλεκτό αυτό γνήσιο απόσταγμα γίνεται αντάξιο του περήφανου ονόματός του χάρη στην πρωτοποριακή τεχνολογία του υπερσύγχρονου αποστακτηρίου του Kτήματος. H πολλαπλή απόσταξη που πραγματοποιείται μέσα στους χάλκινους άμβυκες εκμηδενίζει τις δύσοσμες ουσίες, προστατεύοντας παράλληλα το ευαίσθητο άρωμα του αποστάγματος. Tο αποτέλεσμα είναι ένα τσίπουρο με φρουτώδη χαρακτήρα εκλεκτών ποικιλιών χωρίς γλυκάνισο.</Description>
-		<Quantity>674</Quantity>
+		<Quantity>530</Quantity>
 	</product>
 	<product>
 		<ID>52852</ID>
@@ -6134,7 +6134,7 @@
 		<Manufacturer>HAIG</Manufacturer>
 		<MPN>1493</MPN>
 		<Description>Το Haig γεννήθηκε το 1627 στο Stirling, από το πρώτο αποστακτήριο της Σκωτίας. Ο John Haig ήταν αυτός που για πρώτη φορά έδωσε όνομα σε σκωτσέζικο ουίσκι. Είναι ένα παραδοσιακό ουίσκυ που ο αυθεντικός του χαρακτήρας  αντανακλάται στη γεύση του.</Description>
-		<Quantity>96</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>55008</ID>
@@ -6605,7 +6605,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.99</Price>
+		<Price>17.990275632</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Ποτά</Category_Path>
 		<Manufacturer>Absolut</Manufacturer>
@@ -6622,7 +6622,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.12</Price>
+		<Price>18.2664605217024</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Ποτά</Category_Path>
 		<Manufacturer>Stolichnaya</Manufacturer>
@@ -7102,7 +7102,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.26</Price>
+		<Price>16.34</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>TANQUERAY</Manufacturer>
@@ -10367,23 +10367,6 @@
 		<Quantity>130</Quantity>
 	</product>
 	<product>
-		<ID>66011</ID>
-		<Barcode>3800024022333</Barcode>
-		<Name>Teo Sea Treasures 2in1 Minerals Σαμπουάν Βαθύ Καθαρισμού 400ml</Name>
-		<Product_Link>https://market.com.mk/shampoo-teo-volume-400ml</Product_Link>
-		<Image_Link>https://www.marketival.com/image/cache/products/%D1%88%D0%B0%D0%BC%D0%BF%D0%BE%D0%B0%D0%BD-%D0%B8-%D0%B1%D0%B0%D0%BB%D1%81%D0%B0%D0%BC-2in1-teo-sea-treasures-minerals-400-%D0%BC%D0%BB.-550x550.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.7544662974999998</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
-		<Manufacturer>TEO</Manufacturer>
-		<MPN>0119</MPN>
-		<Description>Ένα σαμπουάν 2 σε 1 που συνδυάζει βαθιό καθαρισμό και ενυδάτωση των μαλλιών. Εμπλουτισμένο με αρώματα θαλάσσια και ορυκτά, αυτό το σαμπουάν βοηθά στην αναζωογόνηση και ενίσχυση των μαλλιών, προσφέροντας τους απαραίτητα θρεπτικά συστατικά για ένα υγιές και λαμπερό αποτέλεσμα. Η σύνθεσή του παρέχει επίσης απαλό καθαρισμό και αφήνει τα μαλλιά απαλά και εύκολα στο χτένισμα. Κατάλληλο για καθημερινή χρήση.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>66021</ID>
 		<Barcode>3600520288710</Barcode>
 		<Name>L'Oreal Paris Elvive Color Vive Σαμπουάν για Διατήρηση Χρώματος για Βαμμένα Μαλλιά 400ml</Name>
@@ -10535,40 +10518,6 @@
 		<MPN>0323</MPN>
 		<Description>Το νέο SYOSS Colorist με την τεχνολογία Slon Protect Anti-fade που σχεδιάστηκε και δοκιμάστηκε από κομμωτές, προστατεύει σε διάρκεια το χρώμα των μαλλιών σας και το διατηρεί λαμπερό συγκριτικά με βαμμένα μαλλιά που δεν έχουν λάβει θεραπεία. Για όμορφα μαλλιά σαν να βγήκατε μόλις από το κομμωτήριο – κάθε μέρα.</Description>
 		<Quantity>80</Quantity>
-	</product>
-	<product>
-		<ID>66052</ID>
-		<Barcode>5201143149242</Barcode>
-		<Name>SYOSS Shampoo 750ml REPAIR</Name>
-		<Product_Link>https://www.skroutz.gr/s/4973419/Syoss-Repair-Shampoo-750ml.html</Product_Link>
-		<Image_Link>https://www.cleanshop.gr/wp-content/uploads/2021/11/036701412.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.819897585422223</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
-		<Manufacturer>SYOSS</Manufacturer>
-		<MPN>0445</MPN>
-		<Description>Για ξηρές, καταπονημένες τρίχες. Η θεραπεία επισκευής σαμπουάν Syoss γεμίζει βαθιά τα κύτταρα τρίχας. Επιπλέον, επισκευάζει τις υπάρχουσες βλάβες των τελευταίων ετών. Αποκαθιστά τα μαλλιά και αυξάνει την ανθεκτικότητα των μαλλιών και βοηθά στην πρόληψη μελλοντικών βλαβών.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>66053</ID>
-		<Barcode>5201143149266</Barcode>
-		<Name>SYOSS Shampoo 750ml VOLUME</Name>
-		<Product_Link>https://www.skroutz.gr/s/5535981/Syoss-Volume-Lift-Shampoo-750ml.html</Product_Link>
-		<Image_Link>https://www.galeriedebeaute.gr/Images/Products/5201143149266_01.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
-		<Price>3.819897585422223</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
-		<Manufacturer>SYOSS</Manufacturer>
-		<MPN>0127</MPN>
-		<Description>Το σαμπουάν Syoss Shampoo Volume χαρίζει όγκο που διαρκεί έως 48 ώρες. Bοηθά τα μαλλιά να διατηρούνται δυνατά και υγιή.</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>66061</ID>
@@ -11028,40 +10977,6 @@
 		<MPN>1252</MPN>
 		<Description>Περιποιητικό κρεμώδες αφρόλουτρο που προσφέρει στην επιδερμίδα φρεσκάδα και απαλότητα.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και διαρκεί ικανοποιητικά το άρωμά του.</Description>
 		<Quantity>203</Quantity>
-	</product>
-	<product>
-		<ID>67022</ID>
-		<Barcode>8008970005621</Barcode>
-		<Name>Tesori d'Oriente Hammam Κρέμώδες Αφρόλουτρο 250ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/7510588/Tesori-d-Oriente-Hammam-Kremodes-Afroloutro-250ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/007510/7510588/20200317162532_tesori_d_oriente_hammam_shower_cream_250ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
-		<Price>2.232945977442529</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
-		<Manufacturer>TESORI</Manufacturer>
-		<MPN>1255</MPN>
-		<Description>Αφρόλουτρο που μετατρέπει την καθημερινή ρουτίνα σε μία πολύτιμη εμπειρία ενώ με το δελεαστικό του άρωμα ταξιδεύει στην Ανατολή. Με έλαιο Argan ενυδατώνει και αφήνει το δέρμα απαλό και βελούδινο.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>67026</ID>
-		<Barcode>8008970039190</Barcode>
-		<Name>Tesori d'Oriente Japanese Rituals Κρέμώδες Αφρόλουτρο 250ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/12457753/Tesori-d-Oriente-Japanese-Rituals-Kremodes-Afroloutro-250ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/012457/12457753/20230719100313_tesori_d_oriente_japanese_rituals_kremodes_afroloutro_250ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>6</VAT>
-		<Price>2.232945977442529</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Φροντίδα Σώματος &gt; Αφρόλουτρα</Category_Path>
-		<Manufacturer>TESORI</Manufacturer>
-		<MPN>1256</MPN>
-		<Description>Το έλαιο Tsubaki που λαμβάνεται πιέζοντας τους σπόρους του φυτού Camellia japonica, χρησιμοποιείται παραδοσιακά στην Ιαπωνία για τη θεραπεία του δέρματος. Είναι από μόνο του μαλακτικό, ενυδατικό και αντι-οξειδωτικό. Έντονο και αισθησιακό άρωμα του είναι εμπλουτισμένη με φρέσκα και ανθισμένα Παιωνία.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και αφήνει απαλό το δέρμα σου.</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>67091</ID>
@@ -13734,23 +13649,6 @@
 		<Quantity>23</Quantity>
 	</product>
 	<product>
-		<ID>740160101</ID>
-		<Barcode>5202707004878</Barcode>
-		<Name>Cyclops Φαράσι Κουμπωτό με Λάστιχο 003301791</Name>
-		<Product_Link>https://www.skroutz.gr/s/22794505/Cyclops-Clip-Farasi-Plastiko-me-Lasticho-Prasino-33-2x23x7-2ek-003301627.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_main_images/022794/22794505/xlarge_20220222171609_cyclops_farasi_clip_003301627.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>0.7918243200000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
-		<Manufacturer>ΚΥΚΛΩΨ</Manufacturer>
-		<MPN>03301791</MPN>
-		<Description>Φαράσι σε πράσινο χρώμα της εταιρείας Cyclops, κατάλληλο για την περισυλλογή των απορριμμάτων κατά το σκούπισμα. Είναι κατασκευασμένο από πλαστικό, ένα υλικό ιδιαίτερα ανθεκτικό και οικονομικό. Διαθέτει λάστιχο για να διευκολύνει τη συλλογή της σκόνης και των μικρών ρύπων καθώς και τη συγκράτησή τους μέσα σε αυτό.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>740160102</ID>
 		<Barcode>5206753001812</Barcode>
 		<Name>Viosarp Φαράσι Μεταλλικό Γαλβανιζέ Μ37xΠ32xΥ4cm VC2058</Name>
@@ -15053,7 +14951,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6560588125</Price>
+		<Price>0.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Θέρμανση &amp; Κλιματισμός &gt; Καύσιμες Ύλες</Category_Path>
 		<Manufacturer>GOLDFIRE</Manufacturer>
@@ -19309,7 +19207,7 @@
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>RCR010B01</MPN>
 		<Description>[Αεράκι για συναρμολόγηση] Αυτή η κρεμάστρα ρούχων έχει σχεδιαστεί με ενσωματωμένα σπειροειδή εξαρτήματα και δεν απαιτεί επιπλέον εργαλεία για τη συναρμολόγηση. Απλώς στρίψτε τα άγκιστρα στη θέση τους ακολουθώντας τις σαφείς οδηγίες που παρέχονται και είστε έτοιμοι!  [Διαρκής Αντοχή, Λεία Επιφάνεια] Κατασκευασμένο από ανθεκτικό καουτσούκ ξύλο και επικαλυμμένο με τριπλή στρώση βαφής, αυτό το ανεξάρτητο δέντρο παλτών είναι ανθεκτικό στην ποιότητά του και προσφέρει μια λεία, φιλική προς τα ρούχα επιφάνεια  [3 Επιλογές Ύψους] Η ρυθμιζόμενη κρεμάστρα ρούχων, με 3 ξεχωριστές επιλογές ύψους, καλύπτει μια ποικιλία αναγκών των χρηστών. Είναι η ιδανική επιλογή για κάθε μέλος της οικογένειας, βελτιστοποιώντας τη χρήση και προσαρμόζοντας την εύκολα στον τρόπο ζωής σας.  [Σταθερή και Αξιόπιστη] Η κρεμάστρα ρούχων διαθέτει έναν στιβαρό κύριο στύλο διαμέτρου 4 cm, ο οποίος συνδέεται σταθερά με τα κλαδιά. Υποστηριζόμενη από μια σταθερή τετράγωνη βάση, στέκεται σταθερά και αντέχει με σιγουριά έως και 24 κιλά συνολικά, χωρώντας 3 κιλά ανά γάντζο.  [Πολυχρηστική Κομψότητα] Με τον κομψό, μινιμαλιστικό σχεδιασμό της, αυτή η βάση ρούχων ενσωματώνεται άψογα σε κάθε χώρο. Είναι κάτι περισσότερο από ένα λειτουργικό κομμάτι - είναι μια πινελιά κομψότητας για το διάδρομο, το υπνοδωμάτιο, το γραφείο ή την αίθουσα υποδοχής σας.  Προδιαγραφές:  Χρώμα: Μαύρο μελάνι  Υλικό: Γάντζοι και κύριος στύλος από καουτσούκ, MDF (Ινοσανίδα μέσης πυκνότητας) Βάση προϊόντος  Μέγεθος προϊόντος: 11,8"Β x 11,8"Π x 68,9"Υ (30 x 30 x 175 εκ.)  Βάρος προϊόντος: 8,6 lb (3,9 kg)  Μέγιστη συνολική στατική ικανότητα φορτίου: 53 lb (24 kg)   Περιεχόμενα συσκευασίας:  1 x Ράφι ρούχων  1 x Κιτ αξεσουάρ  1 x Οδηγίες</Description>
-		<Quantity>12</Quantity>
+		<Quantity>11</Quantity>
 	</product>
 	<product>
 		<ID>77001231022</ID>
@@ -19541,7 +19439,7 @@
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>CRW03W-20</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Υλικό: Ξύλο Σφενδάμου     Ανθεκτικότητα στη Χρήση     Εγκοπές για Φούστες     Μεταλλικά, Περιστρεφόμενα Άγκιστρα</Description>
-		<Quantity>302</Quantity>
+		<Quantity>296</Quantity>
 	</product>
 	<product>
 		<ID>77001242002</ID>
@@ -20883,7 +20781,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3809</MPN>
 		<Description>Η ραφιέρα μπάνιου E-3809 της εταιρείας Sidirela, διαθέτει 4 ράφια αποθήκευσης στα οποία μπορείτε να τοποθετήσετε τα προϊόντα της προσωπικής σας περιποίησης, ώστε να έχετε πάντα ένα οργανωμένο και τακτοποιημένο μπάνιο.  Τοποθετείται στο δάπεδο και εκτός του αποθηκευτικού χώρου που θα σας προσφέρει, θα προσθέσει κομψότητα στη διακόσμηση του μπάνιου σας.  Κατασκευάζεται από πλαστικό, το οποίο αποτελεί μία πολύ πιο οικονομική λύση σε σχέση με τα υπόλοιπα υλικά. Είναι πολύ ανθεκτικό στην υγρασία αλλά και παρουσιάζει παράλληλα μεγάλη αντοχή στον χρόνο.</Description>
-		<Quantity>34</Quantity>
+		<Quantity>33</Quantity>
 	</product>
 	<product>
 		<ID>7715006202</ID>
@@ -20901,6 +20799,42 @@
 		<MPN>E-3557</MPN>
 		<Description>Η ραφιέρα μπάνιου της εταιρείας Sidirela, διαθέτει 3 ράφια αποθήκευσης στα οποία μπορείτε να τοποθετήσετε τα προϊόντα της προσωπικής σας περιποίησης, ώστε να έχετε πάντα ένα οργανωμένο και τακτοποιημένο μπάνιο.  Μπορείτε να την τοποθετήσετε σε κάποια γωνία του μπάνιου σας και να την στηρίξετε στον τοίχο. Αυτός ο τρόπος τοποθέτησης είναι πολύ χρήσιμος, καθώς θα εξοικονομήσει χώρο στο μπάνιο σας. Κατασκευάζεται από μέταλλο και είναι κατάλληλη για μπάνιο με υψηλότερη από το συνηθισμένο υγρασία. Είναι ανθεκτικό, ενώ παράλληλα καθαρίζεται εύκολα και απαιτεί ελάχιστη συντήρηση.</Description>
 		<Quantity>18</Quantity>
+	</product>
+	<product>
+		<ID>770500701</ID>
+		<Barcode>5206753052807</Barcode>
+		<Name>Viosarp Πατάκι Μπάνιου Αφρού Μνήμης Stone Memory Foam σε Γκρι Χρώμα 40x60cm BM309</Name>
+		<Product_Link>https://www.skroutz.gr/s/66241642/viosarp-pataki-mpaniou-memory-foam-5206753052807-stone-40x60ek.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/066241/66241642/fixedratio_20260330163145_viosarp_pataki_mpaniou_memory_foam_5206753052807_stone_40x60ek.jpeg</Image_Link>
+		<Additional>https://www.viosarp.gr/sites/default/files/styles/product_thumb/public/products/5206753052807_2.jpg.webp?itok=QZPA6BZb</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>2.9693412</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πατάκια Μπάνιου</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>BM309</MPN>
+		<Description>Περιγραφή προϊόντος  Το πατάκι μπάνιου Stone Memory Foam συνδυάζει άνεση και μοντέρνο design, προσφέροντας μια ξεχωριστή εμπειρία στο μπάνιο σας. Η επιφάνειά του με σχέδιο “πέτρας” χαρίζει ιδιαίτερη αισθητική, ενώ το εσωτερικό memory foam προσαρμόζεται στο σχήμα του ποδιού για μέγιστη άνεση.  Χάρη στη μαλακή και απορροφητική του υφή, απομακρύνει αποτελεσματικά την υγρασία, διατηρώντας το χώρο καθαρό και στεγνό. Παράλληλα, η αντιολισθητική βάση συμβάλλει στην ασφάλεια, μειώνοντας τον κίνδυνο γλιστρήματος.  Ιδανικό για καθημερινή χρήση σε κάθε μπάνιο, προσφέροντας άνεση μετά από κάθε ντους ή μπάνιο.  ✅ Χαρακτηριστικά &amp; Πλεονεκτήματα Τεχνολογία Memory Foam για άνετο πάτημα Μοντέρνος σχεδιασμός με σχέδιο “πέτρας” Απαλή και ευχάριστη υφή Υψηλή απορροφητικότητα Αντιολισθητική βάση για μεγαλύτερη ασφάλεια Ιδανικό για καθημερινή χρήση 📐 Διαστάσεις 40 x 60 cm 🏠 Ιδανικό για Μπάνια κατοικιών Ξενοδοχεία &amp; Airbnb Αναβάθμιση αισθητικής μπάνιου 💡 Πλεονέκτημα χρήσης  Το memory foam μειώνει την πίεση στα πέλματα και προσφέρει αίσθηση χαλάρωσης, ενώ το ιδιαίτερο design το καθιστά και διακοσμητικό στοιχείο για το μπάνιο.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770500711</ID>
+		<Barcode>5206753052814</Barcode>
+		<Name>Viosarp Σετ Πατάκι Μπάνιου Αφρού Μνήμης Soft Step Memory Foam σε Γκρι Χρώμα 40x60cm &amp; 40x50cm BM309-2SA</Name>
+		<Product_Link>https://www.viosarp.gr/el/product/pataki-mpanioy-set-soft-step-memory-foam-40x60cm-50x40cm-nobm309-2sa?v=21786</Product_Link>
+		<Image_Link>https://www.viosarp.gr/sites/default/files/styles/product_detailed_page_800_800px/public/products/5206753052814.jpg?itok=9EzZ8Xyf</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/071810/71810118/fixedratio_20230213132953_c317a01e.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>5.938682399999999</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πατάκια Μπάνιου</Category_Path>
+		<Manufacturer>Viosarp</Manufacturer>
+		<MPN>BM309-2SA</MPN>
+		<Description>Περιγραφή προϊόντος  Το σετ πατακιών μπάνιου Soft Step Memory Foam προσφέρει άνεση, ασφάλεια και μοντέρνα αισθητική στον χώρο του μπάνιου σας. Κατασκευασμένο με τεχνολογία memory foam, προσαρμόζεται στο σχήμα του ποδιού, προσφέροντας απαλή και ξεκούραστη αίσθηση σε κάθε βήμα.  Το σετ περιλαμβάνει δύο πατάκια:  ένα ορθογώνιο 40x60cm ένα ειδικά διαμορφωμένο για λεκάνη 50x40cm  Η επιφάνειά τους είναι απαλή και ευχάριστη στην αφή, ενώ η απορροφητική τους ιδιότητα βοηθά στη γρήγορη απομάκρυνση της υγρασίας, διατηρώντας το μπάνιο καθαρό και στεγνό.  ✅ Χαρακτηριστικά &amp; Πλεονεκτήματα Τεχνολογία Memory Foam για μέγιστη άνεση Απαλή και ευχάριστη υφή Υψηλή απορροφητικότητα Αντιολισθητική βάση για μεγαλύτερη ασφάλεια Ιδανικό για καθημερινή χρήση Μοντέρνος σχεδιασμός που ταιριάζει σε κάθε μπάνιο 📐 Διαστάσεις Πατάκι: 40 x 60 cm Πατάκι λεκάνης: 50 x 40 cm 🏠 Ιδανικό για Οικιακή χρήση Μπάνια ξενοδοχείων &amp; Airbnb Αναβάθμιση αισθητικής και άνεσης του χώρου 💡 Πλεονέκτημα χρήσης  Χάρη στο memory foam, μειώνει την πίεση στα πόδια και προσφέρει αίσθηση χαλάρωσης μετά το μπάνιο, ενώ παράλληλα συμβάλλει στην αποφυγή ολισθήσεων σε βρεγμένες επιφάνειες.</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>771501101</ID>
@@ -21307,7 +21241,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3443</MPN>
 		<Description>Χαρακτηριστικά του αδιάβροχου επιστρώματος της εταιρείας Sidi Home:      Φάσα-φούστα 30 εκ. γύρω γύρω για να καλύπτει το ύψος του στρώματος     100% αδιάβροχο με ίνες Bamboo     Υποαλλεργικό - αντιμικροβιακό     Απαλό ύφασμα που αναπνέει     Πλένεται στο πλυντήριο</Description>
-		<Quantity>242</Quantity>
+		<Quantity>241</Quantity>
 	</product>
 	<product>
 		<ID>772100104</ID>
