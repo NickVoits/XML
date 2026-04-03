@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-04-03 11:39</created_at>
+	<created_at>2026-04-03 12:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -499,7 +499,7 @@
 		<MPN>0450</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
-		<Quantity>13</Quantity>
+		<Quantity>12</Quantity>
 	</product>
 	<product>
 		<ID>11541</ID>
@@ -640,7 +640,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1931</Quantity>
+		<Quantity>1930</Quantity>
 	</product>
 	<product>
 		<ID>120218</ID>
@@ -658,7 +658,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>428</Quantity>
+		<Quantity>427</Quantity>
 	</product>
 	<product>
 		<ID>1202186</ID>
@@ -1521,7 +1521,7 @@
 		<MPN>0977</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>1807</Quantity>
+		<Quantity>1792</Quantity>
 	</product>
 	<product>
 		<ID>17052</ID>
@@ -1611,7 +1611,7 @@
 		<MPN>0000</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>1424</Quantity>
+		<Quantity>1409</Quantity>
 	</product>
 	<product>
 		<ID>17060</ID>
@@ -1970,7 +1970,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1147</Quantity>
+		<Quantity>1077</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2004,7 +2004,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1306</MPN>
 		<Description>Φυσικό μεταλλικό νερό Τεμάχια : 6 Όγκος Τεμαχίου : 1.5lt  Οδηγίες Φύλαξης **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>2197</Quantity>
+		<Quantity>2113</Quantity>
 	</product>
 	<product>
 		<ID>20301</ID>
@@ -2055,7 +2055,7 @@
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>2594</Quantity>
+		<Quantity>2592</Quantity>
 	</product>
 	<product>
 		<ID>20403</ID>
@@ -2497,7 +2497,7 @@
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>861</Quantity>
+		<Quantity>849</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2533,7 +2533,7 @@
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>414</Quantity>
+		<Quantity>402</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -11837,7 +11837,7 @@
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T3.750G</MPN>
 		<Description>Το ρολό κουζίνας της σειράς PRO SOFT διαθέτει τρία φύλλα. Είναι σχεδιασμένος για να προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα κατά τον καθημερινό καθαρισμό στην κουζίνα.</Description>
-		<Quantity>2106</Quantity>
+		<Quantity>2104</Quantity>
 	</product>
 	<product>
 		<ID>70105</ID>
@@ -12247,7 +12247,7 @@
 		<MPN>0996</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων. Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας. Τα δελεαστικά και αποκλειστικά αρώματα από το Tesori d'Oriente Muschio Bianco αγκαλιάζουν τέλεια τα πιο πολύτιμα ενδύματα σας. Έντονo μοσχοκάρυδο, κεχριμπάρι και το άρωμα White Musk, εμπλουτισμένο με πολύτιμα μικροσφαιρίδια, χαϊδεύει τα ρούχα σας αφήνοντάς τα μαλακά με ένα άρωμα μακράς διαρκείας. Η κρεμώδης υφή του, απαλλαγμένη από χρωστικές ουσίες, χαλαρώνει το ύφασμα και διευκολύνει το σιδέρωμα.</Description>
-		<Quantity>1933</Quantity>
+		<Quantity>1930</Quantity>
 	</product>
 	<product>
 		<ID>71022</ID>
@@ -12265,7 +12265,7 @@
 		<MPN>0265</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
-		<Quantity>1171</Quantity>
+		<Quantity>1168</Quantity>
 	</product>
 	<product>
 		<ID>71023</ID>
@@ -12283,7 +12283,7 @@
 		<MPN>0915</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
-		<Quantity>486</Quantity>
+		<Quantity>483</Quantity>
 	</product>
 	<product>
 		<ID>71024</ID>
@@ -12301,7 +12301,7 @@
 		<MPN>0792</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Το Tesori d'Oriente είναι ένα συμπυκνωμένο μαλακτικό ρούχων.Περιποιείται το δέρμα σας και αφήνει ένα άρωμα φρεσκάδας στα ρούχα σας.</Description>
-		<Quantity>521</Quantity>
+		<Quantity>518</Quantity>
 	</product>
 	<product>
 		<ID>71025</ID>
@@ -31217,7 +31217,7 @@
 		<MPN>1289</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Η λευκή ζάχαρη της εταιρείας Royal Sugar σε κρυσταλλική μορφή, είναι το γλυκό προϊόν που προκύπτει μετά απο επεξεργασία, προκειμένου να αφαιρεθεί εντελώς η μελάσα και να μείνουν μόνο οι λευκοί καθαροί κρύσταλλοι. Ένα κουταλάκι του γλυκού (5 γραμμάρια) αποδίδει 16 θερμίδες.</Description>
-		<Quantity>6455</Quantity>
+		<Quantity>6445</Quantity>
 	</product>
 	<product>
 		<ID>803091</ID>
@@ -32546,7 +32546,7 @@
 		<MPN>1021</MPN>
 		<Weight>20 kg</Weight>
 		<Description>Πλήρης τροφή συντήρησης με γεύση κοτόπουλο για όλους τους τύπους σκύλων. Υψηλή περιεκτικότητα σε βιταμίνες, ιχνοστοιχεία και μεταλλικά άλατα. Κατάλληλη για ενήλικους σκύλους.</Description>
-		<Quantity>198</Quantity>
+		<Quantity>195</Quantity>
 	</product>
 	<product>
 		<ID>99002</ID>
