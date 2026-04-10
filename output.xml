@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-04-10 16:05</created_at>
+	<created_at>2026-04-10 16:47</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -248,7 +248,7 @@
 		<MPN>0453</MPN>
 		<Weight>3 kg</Weight>
 		<Description>Η μπύρα lager της εταιρείας ΒΑΠ είναι μία μπύρα από βύνες κριθαριού και έχει ανοιχτό χρώμα. Η ζύμωση της πραγματοποιείται σε χαμηλές θερμοκρασίες και η μαγιά υφίσταται καθίζηση. Έχει γεμάτη γεύση.</Description>
-		<Quantity>662</Quantity>
+		<Quantity>659</Quantity>
 	</product>
 	<product>
 		<ID>11011</ID>
@@ -266,7 +266,7 @@
 		<MPN>0838</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Αναψυκτικό με γεύση πορτοκάλι, ανθρακικό και χωρίς συντηρητικά.Το 1927 η εταιρεία Κλιάφα ξεκίνησε στα Τρίκαλα  την παραγωγή αναψυκτικών. Από τότε μέχρι σήμερα, συνεχίζει την παραγωγή ποιοτικών προϊόντων, συνδυάζοντας την οικογενειακή παράδοση και τις τεχνολογικές καινοτομίες.</Description>
-		<Quantity>2191</Quantity>
+		<Quantity>2190</Quantity>
 	</product>
 	<product>
 		<ID>11012</ID>
@@ -284,7 +284,7 @@
 		<MPN>0140</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Εδώ και πολλές δεκαετίες επιλέγουμε τα καλύτερα λεμόνια που απλόχερα μας χαρίζει η ελληνική γη και κρατώντας την ίδια συνταγή παράγουμε την πιο νόστιμη λεμονάδα του τόπου μας. Φρεσκάδα και απόλαυση η οποία μεταδίδεται από γενιά σε γενιά.</Description>
-		<Quantity>691</Quantity>
+		<Quantity>690</Quantity>
 	</product>
 	<product>
 		<ID>11031</ID>
@@ -445,7 +445,7 @@
 		<MPN>0146</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
-		<Quantity>38</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -463,7 +463,7 @@
 		<MPN>0620</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Εψα πορτοκαλί χωρίς ανθρακικό είναι μια δροσερή αναψυκτική επιλογή με φυσικό άρωμα πορτοκαλιού. Απολαύστε την δροσιστική γεύση του φρέσκου πορτοκαλιού χωρίς τον ανθρακικό οίστρο, ιδανική για να απολαμβάνετε σε κάθε περίσταση.</Description>
-		<Quantity>59</Quantity>
+		<Quantity>58</Quantity>
 	</product>
 	<product>
 		<ID>11532</ID>
@@ -553,7 +553,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>2597</Quantity>
+		<Quantity>2596</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -571,7 +571,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1835</Quantity>
+		<Quantity>1833</Quantity>
 	</product>
 	<product>
 		<ID>12012</ID>
@@ -1701,7 +1701,7 @@
 		<MPN>0812</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>871</Quantity>
+		<Quantity>870</Quantity>
 	</product>
 	<product>
 		<ID>17074</ID>
@@ -1719,7 +1719,7 @@
 		<MPN>0198</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Χυμός της εταιρείας Agros από μπανάνα η οποία είναι μια πολύ καλή πηγή ινών, καλίου, βιταμίνης Β6, βιταμίνης C, ενώ περιέχει διάφορα αντιοξειδωτικά και φυτοθρεπτικά συστατικά. Προέρχεται από εκχύμωση φρέσκων φρούτων και έχει το χρώμα, το άρωμα και τη χαρακτηριστική γεύση των χυμών των φρούτων από τα οποία προέρχεται.</Description>
-		<Quantity>291</Quantity>
+		<Quantity>290</Quantity>
 	</product>
 	<product>
 		<ID>17075</ID>
@@ -1791,7 +1791,7 @@
 		<MPN>0510</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός βύσσινο από συμπυκνωμένο φυσικό χυμό βύσσινο.</Description>
-		<Quantity>595</Quantity>
+		<Quantity>593</Quantity>
 	</product>
 	<product>
 		<ID>17080</ID>
@@ -1987,7 +1987,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>130501</MPN>
 		<Description>Το Φυσικό Μεταλλικό Νερό «Βίκος» εμφιαλώνεται κατευθείαν στην ομώνυμη πηγή, στα παρθένα και προστατευόμενα Ζαγοροχώρια. Έχει αναγνωρισθεί σαν φυσικό μεταλλικό νερό κατάλληλο για δίαιτα πτωχή σε νάτριο, με χαμηλή περιεκτικότητα σε άλατα.  Χάρη στην ισορροπημένη σύστασή του (με χαμηλή περιεκτικότητα σε άλατα και υψηλή σε ασβέστιο) θεωρείται ότι συμβάλει στην καλή λειτουργία του οργανισμού, ενώ είναι κατάλληλο σε όσους ακολουθούν δίαιτα πτωχή σε νάτριο. Οδηγίες Φύλαξης  Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.</Description>
-		<Quantity>1314</Quantity>
+		<Quantity>1266</Quantity>
 	</product>
 	<product>
 		<ID>20203</ID>
@@ -2004,7 +2004,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1306</MPN>
 		<Description>Φυσικό μεταλλικό νερό Τεμάχια : 6 Όγκος Τεμαχίου : 1.5lt  Οδηγίες Φύλαξης **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>2375</Quantity>
+		<Quantity>2359</Quantity>
 	</product>
 	<product>
 		<ID>20301</ID>
@@ -8813,7 +8813,7 @@
 		<MPN>60111-01</MPN>
 		<Description>Χειροκίνητη παιδική οδοντόβουρτσα έξτρα μαλακή για τον καθαρισμό των δοντιών και την διατήρηση των ούλων σε υγιή κατάσταση.  Kατάλληλη για ηλικίες 24 μηνών και άνω.</Description>
 		<Quantity>38</Quantity>
-		<Color>Μπλε</Color>
+		<Color>BLUE</Color>
 	</product>
 	<product>
 		<ID>602100101</ID>
@@ -9174,7 +9174,7 @@
 		<MPN>0851</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Πάνες Trusted Trends Junior 5, Moroccan baby Value Pack 44 τεμάχια.Για εμάς, οι έννοιες «ασφάλεια», «προστασία» και «φροντίδα» είναι αξίες ζωτικής σημασίας. Γι’ αυτό μπορούμε να σου εγγυηθούμε πως οι βρεφικές πάνες Pufies είναι πιστοποιημένες από την Oeko-Tex,διαθέτουν μη τοξικές ουσίες και δεν περιέχουν αλλεργιογόνα, βλαβερές τοξίνες, άρωμα, οινόπνευμα,λάτεξ ή χλώριο (το οποίο χρησιμοποιείται στη λευκασμένη κυτταρίνη).Επίσης, μπορούμε να σου υποσχεθούμε ότι θα εφαρμόσουν άνετα στο μωρό σου, θα το κρατάνε ολόστεγνο, θα το προστατεύουν από διαρροές και ότι θα το αγκαλιάζουν με αγάπη!</Description>
-		<Quantity>205</Quantity>
+		<Quantity>203</Quantity>
 	</product>
 	<product>
 		<ID>62001</ID>
@@ -17789,7 +17789,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>103.33</Price>
+		<Price>116.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Σαλονιού&gt; Τραπεζάκια Σαλονιού</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -17915,7 +17915,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>58.41</Price>
+		<Price>63.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -17933,7 +17933,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>56.16</Price>
+		<Price>63.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -18008,6 +18008,43 @@
 		<MPN>E-3768</MPN>
 		<Description>Περιγραφή Τρόλεϊ κουζίνας κατασκευασμένο από μέταλλο εξαιρετικής ποιότητας και αντοχής στη φθορά και στο χρόνο. Διαθέτει τρεις θέσεις για την αποθήκευση και τοποθέτηση των αντικειμένων σας και ροδάκια για εύκολη μετακίνηση. Ιδανική και πρακτική επιλογή που θα ανανεώσει τη διακόσμηση του χώρου που θα το τοποθετήσετε και θα βοηθήσει στην οργάνωσή του.  Σημείωση: Το προϊόν παραδίδεται αμοντάριστο και συσκευασμένο. Περιέχει αναλυτικές οδηγίες συναρμολόγησης.</Description>
 		<Quantity>6</Quantity>
+		<Color>WHITE</Color>
+	</product>
+	<product>
+		<ID>77001103037</ID>
+		<Barcode>5203642114646</Barcode>
+		<Name>Sidirela Μεταλλικό Τρόλεϊ Κουζίνας με Ρόδες, 3 Θέσεων σε Inox, 44x26x63cm E-1464 (E-3868)</Name>
+		<Product_Link>https://www.skroutz.gr/s/22924103/Sidirela-Kypseli-Trolei-Kouzinas-Metalliko-Asimi-3-THeseon-44x26x63cm-E-1464.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/022924/22924103/fixedratio_20220822113646_sidi_home_kypseli_trolei_kouzinas_metalliko_se_asimi_chroma_3_theseon_44x26x63cm.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>21.23</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN>E-1464</MPN>
+		<Description>Περιγραφή Τρόλεϊ κουζίνας κατασκευασμένο από μέταλλο εξαιρετικής ποιότητας και αντοχής στη φθορά και στο χρόνο. Διαθέτει τρεις θέσεις για την αποθήκευση και τοποθέτηση των αντικειμένων σας και ροδάκια για εύκολη μετακίνηση. Ιδανική και πρακτική επιλογή που θα ανανεώσει τη διακόσμηση του χώρου που θα το τοποθετήσετε και θα βοηθήσει στην οργάνωσή του.  Σημείωση: Το προϊόν παραδίδεται αμοντάριστο και συσκευασμένο. Περιέχει αναλυτικές οδηγίες συναρμολόγησης.</Description>
+		<Quantity>23</Quantity>
+		<Color>SILVER</Color>
+	</product>
+	<product>
+		<ID>77001103038</ID>
+		<Barcode>5203642137683</Barcode>
+		<Name>Sidirela Μεταλλικό Τρόλεϊ Κουζίνας με Ρόδες, 3 Θέσεων σε Μαύρο Χρώμα, 44x26x63cm E-3768</Name>
+		<Product_Link>https://www.skroutz.gr/s/49707833/Sidirela-Roco-Trolei-Kouzinas-Metalliko-se-Mayro-CHroma-3-THeseon-E-3768.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/049707/49707833/fixedratio_20240129141149_sidirela_roco_trolei_kouzinas_metalliko_se_mayro_chroma_3_theseon_e_3768.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>16.51</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
+		<Manufacturer>Sidirela</Manufacturer>
+		<MPN>E-3768</MPN>
+		<Description>Περιγραφή Τρόλεϊ κουζίνας κατασκευασμένο από μέταλλο εξαιρετικής ποιότητας και αντοχής στη φθορά και στο χρόνο. Διαθέτει τρεις θέσεις για την αποθήκευση και τοποθέτηση των αντικειμένων σας και ροδάκια για εύκολη μετακίνηση. Ιδανική και πρακτική επιλογή που θα ανανεώσει τη διακόσμηση του χώρου που θα το τοποθετήσετε και θα βοηθήσει στην οργάνωσή του.  Σημείωση: Το προϊόν παραδίδεται αμοντάριστο και συσκευασμένο. Περιέχει αναλυτικές οδηγίες συναρμολόγησης.</Description>
+		<Quantity>1</Quantity>
+		<Color>BLACK</Color>
 	</product>
 	<product>
 		<ID>7700110321</ID>
@@ -26467,7 +26504,7 @@
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1400</MPN>
 		<Description>Αλκαλικές μπαταρίες AA LR06 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές την ενέργεια που χρειάζονται ανά πάσα στιγμή.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους και έχουν ικανοποιητική διάρκεια.</Description>
-		<Quantity>2246</Quantity>
+		<Quantity>2245</Quantity>
 	</product>
 	<product>
 		<ID>7975023</ID>
@@ -30280,6 +30317,42 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>79962104032</ID>
+		<Barcode>6931474738653</Barcode>
+		<Name>Hoco Flash Drive USB 3.0 Stick 32GB με σύνδεση USB-A &amp; USB-C UD10 Ασημί</Name>
+		<Product_Link>https://www.skroutz.gr/s/26498857/Hoco-UD10-32GB-USB-2-0-Stick-me-syndesi-USB-A-USB-C-Asimi.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/026498/26498857/xlarge_20210105165358_hoco_ud10_32gb_usb_2_0.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/037315/37315119/xlarge_20210105165357_7ad684a3.jpeg https://c.scdn.gr/images/sku_images/037315/37315124/xlarge_20210105165358_0e09f564.jpeg https://d.scdn.gr/images/sku_images/051762/51762934/xlarge_20211104103632_1dd9717d.jpeg https://b.scdn.gr/images/sku_images/051762/51762936/xlarge_20211104103632_97de895f.jpeg https://c.scdn.gr/images/sku_images/037315/37315125/xlarge_20210105165358_fe225e3d.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>9.4740216</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Storage &gt; Κάρτες Μνήμης</Category_Path>
+		<Manufacturer>Hoco</Manufacturer>
+		<MPN>UD10-32GB</MPN>
+		<Description>Περιγραφή Hoco Wide UD10 32 GB pendrive 2-σε-1 κρυφή μνήμη. Σας επιτρέπει να μεταφέρετε και να αποθηκεύετε με ασφάλεια δεδομένα όπως αρχεία ήχου, εικόνες, βίντεο. Το pendrive διαθέτει δύο τύπους υποδοχών: USB και USB-C, που επιτρέπουν ακόμη ευρύτερη χρήση του προϊόντος σε διάφορες συσκευές.  Περιστροφή 360 μοιρών για γρήγορη και άνετη χρήση. Ευρεία συμβατότητα με λειτουργικά συστήματα: Windows XP/7/8+, Linux 2.4+, Mac OS X 10.5+, Android 4.0+. Χωρητικότητα: 32 GB. Ταχύτητα εγγραφής: 30 MB/s. Ταχύτητα ανάγνωσης: 120 MB/s. Δυνατότητα αναστολής: Ναι. Υλικό στέγασης: Μέταλλο. Κατασκευή: Στριφτή. Interface: USB-C 3.2 Gen 1 (3.0/3.1 Gen 1) και USB 3.2 Gen 1 (3.0/3.1 Gen 1).</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>79962104064</ID>
+		<Barcode>6931474738660</Barcode>
+		<Name>Hoco Flash Drive USB 3.0 Stick 64GB με σύνδεση USB-A &amp; USB-C UD10 Ασημί</Name>
+		<Product_Link>https://www.skroutz.gr/s/29664509/Hoco-UD10-64GB-USB-3-0-Stick-me-syndesi-USB-A-USB-C-Asimi.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/047990/47990915/xlarge_20210624125745_fa39900d.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/047990/47990914/xlarge_20210624125745_38e8b8ed.jpeg https://b.scdn.gr/images/sku_images/047990/47990916/xlarge_20210624125746_c539485c.jpeg https://c.scdn.gr/images/sku_images/047990/47990921/xlarge_20210624125747_1eb9e6cf.jpeg https://b.scdn.gr/images/sku_images/047990/47990918/xlarge_20210624125746_e190868c.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>12.5775804</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Storage &gt; Κάρτες Μνήμης</Category_Path>
+		<Manufacturer>Hoco</Manufacturer>
+		<MPN>UD10-64GB</MPN>
+		<Description>Περιγραφή Χρώμα: Ασημί  Ταχύτητα εγγραφής: 30 MB/s  Χωρητικότητα: 64 GB  Δυνατότητα αναστολής: Ναι  Υλικό στέγασης: Μέταλλο  Κατασκευή: Στριφτή  Ταχύτητα ανάγνωσης: 120 MB/s  Encryption: Χωρίς κρυπτογράφηση  Σχήμα στέγης: Standard  Διεπαφή: USB-C 3.2 Gen 1 (3.0/3.1 Gen 1), USB 3.2 Gen 1 (3.0/3.1 Gen 1)</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>79962105032</ID>
 		<Barcode>6920680869138</Barcode>
 		<Name>ΧΟ 32GB USB 3.0 Stick με σύνδεση USB-A &amp; USB-C Silver U50</Name>
@@ -30882,6 +30955,24 @@
 		<MPN>EM24</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Τύπος μικροφώνου: δυναμικό     Απόκριση συχνότητας: 100-10.000 Hz     Αντίσταση: 600 ohms     Καλώδιο: 3m     Συνδεσιμότητα: 6.35mm + Adaptor 3.55mm</Description>
 		<Quantity>6</Quantity>
+	</product>
+	<product>
+		<ID>7996601432</ID>
+		<Barcode>8806096387566</Barcode>
+		<Name>LG Smart Τηλεόραση 43" 4K UHD LED UR78 HDR WiFi BT 1xUSB 3xHDMI 43UR78GC0LK (2023)</Name>
+		<Product_Link>https://www.skroutz.gr/s/60199129/lg-smart-tileorasi-43-4k-uhd-led-ur78-hdr-2023-43ur78gc0lk-aeu.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/060199/60199129/xlarge_20250618162254_lg_smart_tileorasi_43_4k_uhd_led_43ur78gc0lk_hdr_2023.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/110816/110816783/xlarge_20250430134645_bb409000.jpeg https://d.scdn.gr/images/sku_images/112963/112963582/xlarge_20250618162255_3d420591.jpeg https://c.scdn.gr/images/sku_images/112963/112963590/xlarge_20250618162256_b64d58fb.jpeg https://d.scdn.gr/images/sku_images/112963/112963597/xlarge_20250618162256_ccade926.jpeg https://www.octamax.gr/assets/products/51258_w_2.webp</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>288.72</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt;Τηλεοράσεις &amp; Αξεσουάρ&gt;Τηλεοράσεις</Category_Path>
+		<Manufacturer>LG</Manufacturer>
+		<MPN>43UR78GC0LK</MPN>
+		<Description>Περιγραφή Αποκαλύπτει ακόμη και τις πιο μικρές λεπτομέρειες  Με την τεχνολογία HDR10 Pro, η τηλεόραση LG UHD προσφέρει ζωντανά χρώματα και εξαιρετικά λεπτομερείς εικόνες με βελτιστοποιημένη φωτεινότητα.  Μια ακόμη υψηλότερου επιπέδου τηλεοπτική εμπειρία  Ο επεξεργαστής AI ™5 4K (6ης γενιάς) προσφέρει στις τηλεοράσεις LG UHD ακόμη περισσότερες δυνατότητες για μια ακόμη πιο καθηλωτική εμπειρία.  Επαναπροσδιορίζει το 4K  Απολαύστε περιεχόμενο που δεν είναι 4K σε ανάλυση 4K στη μεγάλη οθόνη UHD - η εικόνα είναι καθαρή και ακριβής, κάθε στιγμή.  Μια νέα σειρά τηλεοράσεων UHD  Θαυμάστε το αγαπημένο σας περιεχόμενο από κοντά στην εξαιρετικά μεγάλη τηλεόραση 4K UHD!  Ιδανικά κατάλληλο για πλούσιο ήχο  Οι αγαπημένες σας εκπομπές διαθέτουν κρυστάλλινο ήχο, ώστε να τις ακούτε πραγματικά καλά.  Διεπαφή χρήστη WOW  Διάφορες ρυθμίσεις Το LG Soundbar μεταβαίνει αυτόματα σε λειτουργία soundbar όταν συνδέεται σε μια τηλεόραση LG. Επιπλέον, μπορείτε να επιλέξετε από 3 επιπλέον λειτουργίες για την καλύτερη δυνατή εμπειρία ήχου.  Προσαρμοσμένο στο γούστο σας  Η Αρχική οθόνη του webOS 23 είναι μια κεντρική διεπαφή σχεδιασμένη για την άνεσή σας - από το αγαπημένο σας περιεχόμενο έως τις προτιμώμενες ρυθμίσεις σας, όλα σε ένα μέρος.  Κάρτα γρήγορης εκκίνησης  Δημιουργήστε τις δικές σας κάρτες γρήγορης εκκίνησης για τις αγαπημένες σας εφαρμογές και υπηρεσίες. Τακτοποιήστε τα όπως θέλετε, ακόμη και εναλλάσσοντάς τα και μεταβαίνοντας γρήγορα στο περιεχόμενο που θέλετε.</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>79966201</ID>
