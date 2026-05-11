@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-11 16:05</created_at>
+	<created_at>2026-05-11 16:45</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -1698,7 +1698,7 @@
 		<MPN>0310</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Φυσικός χυμός πορτοκάλι από συμπυκνωμένο φυσικό χυμό πορτοκαλιού που περιέχει βιταμίνη C.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>9</Quantity>
 	</product>
 	<product>
 		<ID>17072</ID>
@@ -2173,7 +2173,7 @@
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>1238</Quantity>
+		<Quantity>1236</Quantity>
 	</product>
 	<product>
 		<ID>20703</ID>
@@ -3080,7 +3080,7 @@
 		<Manufacturer>ΒΑΣΔΑΒΑΝΟΥ</Manufacturer>
 		<MPN>1665</MPN>
 		<Description>Ένα ισορροπημένο λευκό κρασί, με γεμάτη γεύση φίνο άρωμα και διαυγές χρώμα. Προέρχεται από τοπικούς αμπελώνες της ποικιλίας Ροδίτης.</Description>
-		<Quantity>564</Quantity>
+		<Quantity>504</Quantity>
 	</product>
 	<product>
 		<ID>43003</ID>
@@ -11132,7 +11132,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.7287586875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11150,7 +11150,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.7287586875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11168,7 +11168,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.7287586875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11186,7 +11186,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.7287586875</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11204,7 +11204,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>4.293722125</Price>
+		<Price>5.3106563125</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11222,7 +11222,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>4.293722125</Price>
+		<Price>5.3106563125</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11240,7 +11240,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>4.293722125</Price>
+		<Price>5.3106563125</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -13558,7 +13558,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.338681212295</Price>
+		<Price>3.79</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -13576,7 +13576,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.63883881364</Price>
+		<Price>18.53</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -13594,7 +13594,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.550724290481683</Price>
+		<Price>3.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -13611,7 +13611,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.799191893764</Price>
+		<Price>18.91</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -13628,7 +13628,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.334860155034501</Price>
+		<Price>4.74</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>VILEDA</Manufacturer>
@@ -13651,7 +13651,7 @@
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>175775</MPN>
 		<Description>Περιγραφή Ανακαλύψτε τη δύναμη του καθαρισμού με το Vileda H2PrO Flachwischer Set, το ιδανικό εργαλείο για την καθαριότητα του σπιτιού σας.  Δύο δεξαμενές για διαχωρισμό καθαριστικών και καθαρού νερού. Εργονομικός σχεδιασμός για άνεση και ευκολία στη χρήση. Ελαφρύς χειριστής, ιδανικός για δύσκολες γωνίες. Απομάκρυνση βρωμιάς και σκόνης από όλα τα δάπεδα. Πρώτη δεξαμενή για καθαριστικό διάλυμα και δεύτερη για καθαρό νερό. Πλάκα καθαρισμού με δυνατότητα πλυσίματος για εύκολη συντήρηση. Ιδανικό για καθημερινή χρήση ώστε να διατηρείτε το σπίτι σας καθαρό και τακτοποιημένο. Προϊόντα Vileda - αναγνωρίσιμη γκάμα για την ποιότητα και την καινοτομία τους.</Description>
-		<Quantity>171</Quantity>
+		<Quantity>170</Quantity>
 	</product>
 	<product>
 		<ID>740510212</ID>
@@ -13662,7 +13662,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.337777598375001</Price>
+		<Price>4.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>Vileda</Manufacturer>
@@ -13696,7 +13696,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.337777598375001</Price>
+		<Price>4.66</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>Vileda</Manufacturer>
@@ -15161,7 +15161,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-0376</MPN>
 		<Description>Σακούλες φύλαξης χαλιών (2τμχ) 42cm x 250cm      Συσκευασία 2 τεμαχίων ανά πακέτο     Από υλικό HDPE μεγάλης αντοχής</Description>
-		<Quantity>167</Quantity>
+		<Quantity>162</Quantity>
 	</product>
 	<product>
 		<ID>75821</ID>
@@ -16556,7 +16556,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3772</MPN>
 		<Description>Πτυσσόμενος δίσκος κατασκευασμένος από ξύλο μπαμπού, ιδανικός για πρωινό στο κρεβάτι. Διπλώνεται και αποθηκεύεται εξοικονομώντας χώρο. Πρακτικός σχεδιασμός για άνετη απόλαυση γεύματος.</Description>
-		<Quantity>26</Quantity>
+		<Quantity>25</Quantity>
 	</product>
 	<product>
 		<ID>76722101</ID>
@@ -19995,7 +19995,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.87</Price>
+		<Price>19.44</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -20544,7 +20544,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.318792000000001</Price>
+		<Price>6.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category_Path>
 		<Manufacturer>Viosarp</Manufacturer>
@@ -21887,7 +21887,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.129357000000001</Price>
+		<Price>3.945711</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καλαμάκια (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -21904,7 +21904,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.626006</Price>
+		<Price>5.578419</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καλαμάκια (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22074,7 +22074,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.6725709</Price>
+		<Price>1.8246228</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22091,7 +22091,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.6725709</Price>
+		<Price>1.8246228</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22108,7 +22108,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.8246228</Price>
+		<Price>2.03749546</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Καπάκια Ποτηριών μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22199,7 +22199,7 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1288101</MPN>
 		<Description>Θήκη μεταφοράς καφέ σε μαύρο χρώμα 2 θέσεων.  Χάρτινες βάσεις μεταφοράς ποτηριών 2 θέσεων, για την ασφαλή μεταφορά του καφέ ή άλλων ροφημάτων.</Description>
-		<Quantity>61</Quantity>
+		<Quantity>58</Quantity>
 	</product>
 	<product>
 		<ID>781910041</ID>
@@ -22244,7 +22244,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.15890375</Price>
+		<Price>5.430425</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22278,7 +22278,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.86085</Price>
+		<Price>11.539653125</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22312,7 +22312,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.874116249999999</Price>
+		<Price>8.281398124999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22346,7 +22346,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.824440625</Price>
+		<Price>9.2317225</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22380,7 +22380,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.970078125</Price>
+		<Price>17.64888125</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Σκεύη Αλουμινίου (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -23177,7 +23177,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.960032304</Price>
+		<Price>1.005748128</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -23194,7 +23194,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.691485488</Price>
+		<Price>2.026734864</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -23211,7 +23211,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.422938672</Price>
+		<Price>2.89533552</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -23228,7 +23228,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.007038500000001</Price>
+		<Price>7.347186000000002</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -23349,7 +23349,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.960032304</Price>
+		<Price>1.06670256</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Αναλώσιμα Κουζίνας</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -23366,7 +23366,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.303068769999999</Price>
+		<Price>4.63758295</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Είδη Τυλίγματος Τροφίμων (Χονδρική)</Category_Path>
 		<Manufacturer>HANDY</Manufacturer>
@@ -23384,7 +23384,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.8420256875</Price>
+		<Price>4.1406990625</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Συσκευασίες Τροφίμων μιας Χρήσης (Χονδρική) &gt; Είδη Τυλίγματος Τροφίμων (Χονδρική)</Category_Path>
 		<Manufacturer>Θαλασσινός</Manufacturer>
@@ -23401,7 +23401,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.8200051</Price>
+		<Price>6.452614349999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
@@ -23418,7 +23418,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.23609505</Price>
+		<Price>10.121748</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
@@ -23435,7 +23435,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.28479425</Price>
+		<Price>14.55001275</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
@@ -23452,7 +23452,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.713059</Price>
+		<Price>19.61088675</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματικά Vacuum Τροφίμων &gt; Σακούλες Vacuum</Category_Path>
 		<Manufacturer>OEM</Manufacturer>
@@ -27445,6 +27445,24 @@
 		<Quantity>27</Quantity>
 	</product>
 	<product>
+		<ID>799500111</ID>
+		<Barcode>6941876247752</Barcode>
+		<Name>Ugreen Ασύρματος Φορτιστής Robot Disign 2-in-1 Magnetic Charging Station Qi2 15W iPhone + 5W AirPods + USB-C 5W with 70° Angle Adjustment - Γκρι/Μαύρος W709 / 45775</Name>
+		<Product_Link>https://www.skroutz.gr/s/58252030/Ugreen-Asyrmatos-Fortistis-Qi2-15W-Power-Delivery-Mayros-W709.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/058252/58252030/xlarge_20250207170503_ugreen_asyrmatos_fortistis_qi2_15w_power_delivery_mayros_w709.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-4.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-2.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-3.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-5.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-6.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-7.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-8.jpg https://cdn.omax.bg/images/products/full/6/2/9/8/6/c/omax.bg-ugreen-uno-2-in-1-9.jpg https://d.scdn.gr/images/sku_images/105915/105915043/xlarge_20250110123809_d74f91e6.jpeg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>36.76</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Φορτιστές Κινητών</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>W709 / 45775</MPN>
+		<Description>* Μαγνητικός ασύρματος φορτιστής 2 σε 1 UGREEN W709. * Πιστοποιημένος Qi2 φορτιστής 15W. * Συμβατός με τα πρότυπα MagSafe και Qi2, σχεδιασμένος για γρήγορη και αποτελεσματική φόρτιση iPhone και AirPods. * Πιστοποιημένη Qi2 γρήγορη φόρτιση: Υποστηρίζει ασύρματη φόρτιση έως και 15W για iPhone σειράς 12-17. * Επιτρέπει την ταυτόχρονη φόρτιση iPhone (έως 15W) και AirPods (έως 5W). * Ο συμπαγής και ελαφρύς σχεδιασμός επιτρέπει την εύκολη μεταφορά και η ρυθμιζόμενη γωνία έως 70° παρέχει άνεση κατά τη χρήση. * Ενσωματωμένη προστασία από υπέρταση, υπερθέρμανση, βραχυκύκλωμα και ξένα αντικείμενα, εξασφαλίζοντας ασφαλή φόρτιση.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799500202</ID>
 		<Barcode>6957303849147</Barcode>
 		<Name>Ugreen GaN Φορτιστής Με Καλώδιο 200W 2xUSB-A 4xUSB-C PDx4 &amp; QC4.0x2 Grey/Black CD271/40914</Name>
@@ -28520,6 +28538,23 @@
 		<Quantity>1</Quantity>
 	</product>
 	<product>
+		<ID>7995191011</ID>
+		<Barcode>6920680860487</Barcode>
+		<Name>XO Power Bank 10000mAh με 2 Θύρες USB-A και Θύρα USB-C Μαύρο PR251</Name>
+		<Product_Link>https://www.skroutz.gr/s/57571244/XO-PR251-Lighted-Power-Bank-10000mAh-me-2-THyres-USB-A-kai-THyra-USB-C-Mayro.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/057571/57571244/xlarge_20241120144442_xo_pr251_lighted_power_bank_10000mah_me_2_thyres_usb_a_mayro.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.365600000000001</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Κινητή Τηλεφωνία &gt; Power Banks</Category_Path>
+		<Manufacturer>XO</Manufacturer>
+		<MPN>PR251</MPN>
+		<Description>Περιγραφή Μοντέλο: XO-PR251  Όνομα προϊόντος: Τράπεζα τροφοδοσίας διπλής εισόδου/εξόδου  Υλικό προϊόντος: ABS+PC  Οθόνη: Οθόνη φωτός LED  Είσοδος USB-C / Micro: 5V/2A Έξοδος USB1/ USB2: 5V/2.1A Έξοδος USB1+USB2: 5V/2.1A (MAX) Χωρητικότητα: 10000 mAh Ονομαστική χωρητικότητα: 5500mAh (5V-2,1A) Χρώμα προϊόντος: Μαύρο, λευκό Βάρος προϊόντος: 240+15g Μέγεθος προϊόντος: 143,7*68,2*16,3mm Μέγεθος συσκευασίας: 93*175*25mm Υποστήριξη πρωτοκόλλου: Πρωτόκολλο εισόδου: PD2.0/QC2.0, Πρωτόκολλο εξόδου: PD2.0/QC2.0 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί φορτίζει γρήγορα τις συσκευές σου και είναι ελαφρύ για να το έχεις καθημερινά μαζί σου.</Description>
+		<Quantity>2</Quantity>
+	</product>
+	<product>
 		<ID>7995191012</ID>
 		<Barcode>6975837583269</Barcode>
 		<Name>XO Power Bank 10000mAh με 2 Θύρες USB-A και Θύρα USB-C Μαύρο PB312</Name>
@@ -28644,39 +28679,21 @@
 		<Quantity>21</Quantity>
 	</product>
 	<product>
-		<ID>799519501</ID>
-		<Barcode>6932172604196</Barcode>
-		<Name>Baseus Super Energy Air Φορητός Εκκινητής Μπαταρίας Αυτοκινήτου 10000mAh 1000A με USB / Φακό / Power Bank Μαύρο CGNL020101</Name>
-		<Product_Link>https://www.skroutz.gr/s/35953538/Baseus-Super-Energy-Air-Foritos-Ekkinitis-Mpatarias-Aytokinitou-10000mAh-me-USB-Fako-Power-Bank-CGNL020101.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_images/080669/80669523/xlarge_20230728111510_ec863c20.jpeg</Image_Link>
-		<Additional>https://cdn.omax.bg/images/products/full/4/5/8/7/8/c/skyphone.bg-jump-starter-baseus-cgnl020101-6.jpeg https://cdn.omax.bg/images/products/full/4/5/8/7/8/c/skyphone.bg-jump-starter-baseus-cgnl020101-2.jpeg https://cdn.omax.bg/images/products/full/4/5/8/7/8/c/skyphone.bg-jump-starter-baseus-cgnl020101-3.jpeg https://cdn.omax.bg/images/products/full/4/5/8/7/8/c/skyphone.bg-jump-starter-baseus-cgnl020101-5.jpeg https://cdn.omax.bg/images/products/full/4/5/8/7/8/c/skyphone.bg-jump-starter-baseus-cgnl020101-9.jpeg https://cdn.omax.bg/images/products/full/4/5/8/7/8/c/skyphone.bg-jump-starter-baseus-cgnl020101-10.jpeg</Additional>
+		<ID>799519503</ID>
+		<Barcode>6932172616915</Barcode>
+		<Name>Baseus Super Energy 2in1 Φορητός Εκκινητής Μπαταρίας Αυτοκινήτου 8000mAh 1000A με Τρόμπα / USB / Φακό / Power Bank 12V Μαύρο CGCN000001</Name>
+		<Product_Link>https://www.skroutz.gr/s/39917403/Baseus-Super-Energy-2-in-1-Foritos-Ekkinitis-Mpatarias-Aytokinitou-8000mAh-me-Power-Bank-USB-Trompa-Fako-12V-CGCN000001.html</Product_Link>
+		<Image_Link>https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-12.jpeg</Image_Link>
+		<Additional>https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/omax.bg-baseus-cgcn000001-box.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-5.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-1.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-2.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-3.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-4.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-6.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-13.png https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-14.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-7.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-8.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-9.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-10.jpeg https://cdn.omax.bg/images/products/full/4/5/8/8/4/c/skyphone.bg-jump-starter-baseus-cgcn000001-11.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>57.2296134375</Price>
+		<Price>99.92</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Auto - Moto&gt; Εργαλεία Αυτοκινήτου &gt; Εκκινητές &amp; Φορτιστές Μπαταρίας Αυτοκινήτου</Category_Path>
 		<Manufacturer>Baseus</Manufacturer>
-		<MPN>CGNL020101</MPN>
-		<Description>* Εκκινητής αυτοκινήτου και Power Bank 2 σε 1. * Ισχύς: 12W. * Ισχύς: 5V. * Ρεύμα εκκίνησης: 500A. * Ρεύμα κορυφής: 1000A. * Είσοδος USB-C: 5V-2,4A (μέγ.). * Έξοδοι: 1 x USB. * Χωρητικότητα μπαταρίας: 10.000mAh / 3,7V / 37Wh. * Σε λειτουργία αναμονής, η συσκευή φορτίζεται στο 85% και διαρκεί έως και 270 ημέρες. * Το υψηλό ρεύμα κορυφής καθιστά δυνατή την εκκίνηση του αυτοκινήτου σε λίγα μόνο δευτερόλεπτα - ανεξάρτητα από την κατάσταση της μπαταρίας. * Η μίζα εγγυάται κανονική εκκίνηση σε θερμοκρασίες από -20℃ έως 60℃. * Κατάλληλο για βενζινοκίνητα αυτοκίνητα 12V/4l. πετρελαιοκίνητα αυτοκίνητα 12V/2,5l. * Κατάλληλο για sedan, ηλεκτρικά αυτοκίνητα, μοτοσικλέτες, φορτηγά, SUV, μίνι βαν και φορτηγάκια, μεταξύ άλλων. * Η συσκευή διαθέτει προστασία από υπερφόρτιση, βραχυκύκλωμα, υπερένταση, υπερθέρμανση και άλλα. * Μπορεί επίσης να χρησιμεύσει ως φακός με 3 λειτουργίες - σταθερό φως, φως που αναβοσβήνει και SOS. * Μέγεθος: 85x160x30 χιλ.  ** Περιλαμβάνονται πολυλειτουργικά κλιπ έξυπνης εκκίνησης και καλώδιο φόρτισης. **</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>799519502</ID>
-		<Barcode>6932172630256</Barcode>
-		<Name>Baseus Βooster Roadstart Φορητός Εκκινητής Μπαταρίας Αυτοκινήτου 12000mAh 1200A με USB / Φακό / Power Bank 12V Μαύρο C00245700111-00</Name>
-		<Product_Link>https://www.skroutz.gr/s/30054186/Baseus-Vooster-Roadstart-Foritos-Ekkinitis-Mpatarias-Aytokinitou-12000mAh-me-USB-Fako-Power-Bank-12V-C00245700111-00.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/030054/30054186/xlarge_20230915120838_sealey_ekkinitis_mpatarias_aytokinitou_12v_me_usb_fako_vooster_roadstart_12v_1200a_sea_rs102c.jpeg</Image_Link>
-		<Additional>https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-8.jpeg https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-3.jpeg https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-4.jpeg https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-5.jpeg https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-6.jpeg https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-9.jpeg https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-10.jpeg https://cdn.omax.bg/images/products/full/4/8/1/7/9/c/skyphone.bg-baseus-jump-starter-c00245700111-00-11.jpeg</Additional>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>77.74997625</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Auto - Moto&gt; Εργαλεία Αυτοκινήτου &gt; Εκκινητές &amp; Φορτιστές Μπαταρίας Αυτοκινήτου</Category_Path>
-		<Manufacturer>Baseus</Manufacturer>
-		<MPN>C00245700111-00</MPN>
-		<Description>* Είναι κατάλληλο για την εκκίνηση διαφόρων τύπων αυτοκινήτων - τόσο με βενζινοκινητήρες (12 V / 6 l) όσο και με πετρελαιοκινητήρες (12 V / 2,5 l). Με τη βοήθειά του, μπορείτε εύκολα να ξεκινήσετε μια μοτοσικλέτα, ένα αυτοκίνητο, ένα SUV, ένα pickup, ακόμη και ένα φορτηγό! * Εξοπλισμένο με 3 μπαταρίες. * Ρεύμα εκκίνησης 600 A. * Μέγιστο ρεύμα 1200 A. * Τάση εκκίνησης: 12 Vdc * Είσοδος USB-C: 5V/3A, 9V/2A (μέγ.) * Έξοδος:     - USB-A 1: 5V/3A;     - USB-A 2: 5V/3A. * Χωρητικότητα μπαταρίας 12000 mAh / 44,4 Wh. * Ονομαστική χωρητικότητα εξόδου 7200 mAh (5V/3A). * Χρόνος λειτουργίας: έως 6 μήνες. * Χρόνος αναμονής: έως 6 μήνες. * Το Baseus Pro+ είναι εξοπλισμένο με μια μικρή οθόνη όπου μπορείτε να ελέγξετε τη φόρτιση της μπαταρίας! * Ενσωματωμένη προστασία από υπερθέρμανση, υπερένταση, αντίστροφη πολικότητα και βραχυκύκλωμα, μεταξύ άλλων. * Ενσωματωμένος φακός με 3 λειτουργίες φωτισμού - Έκτακτης Ανάγκης, SOS και Strobing. * Βάρος περίπου 600 γρ. * Υλικό ABS + PC. * Διαστάσεις 162 x 95 x 33 mm.  * Περιλαμβάνεται εκκίνηση αυτοκινήτου, έξυπνοι ακροδέκτες, καλώδιο USB-A σε USB-C.</Description>
+		<MPN>CGCN000001</MPN>
+		<Description>* Εκκινητής Μπαταρίας αυτοκινήτου και συμπιεστής σε ένα. * Ισχύς: 54W. * Ισχύς: 5V. * Ρεύμα εκκίνησης: 500A. * Ρεύμα κορυφής: 1000A. * Είσοδος 5V-2,4A (μέγ.). Ρεύμα φόρτισης * Χωρητικότητα μπαταρίας: 8000mAh. * Είσοδος USB-C: 5V/2,4A, 9V/2A. * Έξοδοι: 2 x USB: 5V/3A. * Υλικό: ABS * Χρόνος φόρτισης μπαταρίας: Περίπου 3 ώρες. * Σας επιτρέπει να ξεκινήσετε το αυτοκίνητό σας σε περίπτωση έκτακτης ανάγκης έως και 50 φορές. * Το υψηλό ρεύμα κορυφής καθιστά δυνατή την εκκίνηση του αυτοκινήτου σε λίγα μόνο δευτερόλεπτα - ανεξάρτητα από την κατάσταση της μπαταρίας. * Ο εκκινητής Μπαταρίας εγγυάται κανονική εκκίνηση σε θερμοκρασίες από -20℃ έως 60℃. * Πίεση συμπιεστή: 5 - 150 PSI (Εάν ξεπεραστούν τα 150 PSI, η λυχνία LED θα αναβοσβήσει - σε αυτήν την περίπτωση, σταματήστε εντελώς την άντληση). * Έξυπνο φούσκωμα ελαστικών: Ο συμπιεστής διαθέτει ένα έξυπνο σύστημα φουσκώματος ελαστικών που αποτρέπει το υπερβολικό φούσκωμα. * Ενσωματωμένος φακός με 3 λειτουργίες φωτισμού - συνεχές φως, SOS και φως που αναβοσβήνει, θα σας φανεί χρήσιμο σε περίπτωση έκτακτης ανάγκης στο δρόμο ή σε ατύχημα, ειδικά τη νύχτα. * Η συσκευή είναι εξοπλισμένη με μια σειρά από χαρακτηριστικά ασφαλείας - έναντι βραχυκυκλώματος, υπερφόρτωσης και υπερφόρτισης. * Η συσκευή είναι συμβατή με τα περισσότερα αυτοκίνητα με βενζινοκινητήρες 12V/4.0l και πετρελαιοκινητήρες 12V/2.5l. * Μπορείτε εύκολα να φορτίσετε την μπαταρία σε ένα sedan, SUV ή μοτοσικλέτα, για παράδειγμα. * Μέγεθος: 124 x 171 x 55 mm. * Βάρος: Περίπου 1360 g.  ** Το σετ περιλαμβάνει:    - 1 x Εκκινητής Jump Starter CGCN000001.    - 1 x Καλώδιο USB - USB Type C.    - 1 x Έξυπνα κλιπ ανάφλεξης.    - 2 x Άκρο αντλίας.    - 1 x Βελόνα φουσκώματος.    - 1 x Θήκη μεταφοράς από καμβά.</Description>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -28817,7 +28834,7 @@
 		<Manufacturer>XO</Manufacturer>
 		<MPN>16.006.0287</MPN>
 		<Description>Τύπος: Επιτραπέζια βάση  Χρώμα: Μαύρο  Βάση επιφάνειας εργασίας που παρέχει υποστήριξη και σταθερότητα στη συσκευή σας, ώστε να μπορείτε να παρακολουθείτε ένα βίντεο, να διαβάζετε ένα κείμενο ή να πραγματοποιείτε μια βιντεοκλήση με ευκολία, χωρίς να χρειάζεται να κρατάτε τη συσκευή σας.</Description>
-		<Quantity>95</Quantity>
+		<Quantity>94</Quantity>
 	</product>
 	<product>
 		<ID>799551152</ID>
@@ -29837,7 +29854,7 @@
 		<MPN>0675</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Μακρύσπερμο ρύζι που παίρνει το χρυσαφένιο χρώμα από τα συστατικά του εξωτερικού φλοιού του, κατά την υγροθερμική επεξεργασία, ο οποίος απομακρύνεται στη συνέχεια. Θεωρείται ιδανικό για πιλάφι λόγω του ότι παραμένει σπυρωτό.</Description>
-		<Quantity>308</Quantity>
+		<Quantity>305</Quantity>
 	</product>
 	<product>
 		<ID>81014</ID>
