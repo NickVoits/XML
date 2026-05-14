@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-14 16:05</created_at>
+	<created_at>2026-05-14 16:47</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -17,7 +17,7 @@
 		<MPN>0461</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η ελληνική μπύρα Άλφα είναι μια αυθεντική επιλογή που συνδυάζει παράδοση και ποιότητα. Με έναν ελαφρύ και δροσερό χαρακτήρα, η Άλφα προσφέρει μια μοναδική εμπειρία γεύσης. Το χρώμα της είναι κεχριμπαρένιο και διαφανές, ενώ η περιεκτικότητά της σε αλκοόλ  5%.</Description>
-		<Quantity>26</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>310239</ID>
@@ -462,7 +462,7 @@
 		<MPN>0146</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Η Διαχρονική – Κλασική Πορτοκαλάδα της ΕΨΑ. Φτιαγμένη με τη συνταγή ενός αιώνα, με μεράκι, από φρέσκα ζουμερά πορτοκάλια, χωρίς χρωστικές, αλλά με άρωμα και πλούσια γεύση, η Πορτοκαλάδα της ΕΨΑ ενσωματώνει την τέλεια ισορροπία παράδοσης και καινοτομίας. Είτε την απολαμβάνεις στην παραλία, είτε στην επιστροφή για το σπίτι, η Πορτοκαλάδα είναι η κατάλληλη επιλογή για εσένα.</Description>
-		<Quantity>14</Quantity>
+		<Quantity>13</Quantity>
 	</product>
 	<product>
 		<ID>115318</ID>
@@ -516,7 +516,7 @@
 		<MPN>0450</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Είναι η All time Classic επιλογή που δεν μπορείς να μη γευτείς. Η Βυσσινάδα της ΕΨΑ είναι φτιαγμένη από τα πιο ζουμερά Βύσσινα της Ελλάδας, διατηρώντας τη γεύση της σε τέλεια ισορροπία με μία νότα γλυκύτητας.</Description>
-		<Quantity>35</Quantity>
+		<Quantity>33</Quantity>
 	</product>
 	<product>
 		<ID>11541</ID>
@@ -2003,7 +2003,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>1278</Quantity>
+		<Quantity>1276</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2088,7 +2088,7 @@
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>377</Quantity>
+		<Quantity>376</Quantity>
 	</product>
 	<product>
 		<ID>20403</ID>
@@ -2133,7 +2133,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>3.21</Price>
+		<Price>3.30157312464</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
@@ -2150,7 +2150,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>2</Price>
+		<Price>1.76884700064</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
@@ -2167,7 +2167,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>13</VAT>
-		<Price>1.57</Price>
+		<Price>1.62141444294</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Εμφιαλωμένα Νερά</Category_Path>
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
@@ -8947,7 +8947,7 @@
 		<Manufacturer>Pampers</Manufacturer>
 		<MPN>ΦΡΟΝΤ-611100101</MPN>
 		<Description>Περιγραφή Πάνες ειδικά σχεδιασμένες για την επιδερμίδα του μωρού σας, με μεταξένια απαλότητα και 3 κανάλια, που απορροφούν την υγρασία γρήγορα, αφήνοντας την επιδερμίδα στεγνή. Η πάνα διαθέτει δείκτη υγρασίας που αλλάζει χρώμα και σας λέει πότε χρειάζεται αλλαγή το μωρό σας. Τα Pampers συνιστώνται από την Ελληνική Εταιρεία Παιδιατρικής Δερματολογίας.  Απαλό Απορροφητικό Στρώμα με Καρδούλες Χαρίζει ακόμα πιο απαλή αίσθηση στο δερματάκι του μωρού, απομακρύνοντας την υγρασία.   Απαλά σαν Πούπουλο Με απαλά σαν πούπουλο υλικά, που αγκαλιάζουν ανάλαφρα τη βρεφική επιδερμίδα.   Σχήμα που δεν Πιέζει τον Αφαλό Προστατεύει την ευαίσθητη κοιλίτσα του μωρού σας, χάρη στο περίγραμμα που εφαρμόζει τέλεια.   Με Απαλές και Ελαστικές Επιφάνειες Απαλές και ελαστικές περιμετρικά, για απόλυτη άνεση.   Κανάλια που Επιτρέπουν την Κυκλοφορία του Αέρα Αξεπέραστη στεγνότητα με υλικά που αναπνέουν, και προστασία έως και 12 ώρες.   Δείκτης Υγρασίας Σας ειδοποιεί για πιθανή ανάγκη αλλαγής της πάνας.</Description>
-		<Quantity>39</Quantity>
+		<Quantity>37</Quantity>
 	</product>
 	<product>
 		<ID>61114+</ID>
@@ -9867,7 +9867,7 @@
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>1250</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>84</Quantity>
+		<Quantity>83</Quantity>
 	</product>
 	<product>
 		<ID>65053</ID>
@@ -9987,7 +9987,7 @@
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>6551201-01</MPN>
 		<Description>Αγνό όσο το ελαιόλαδο από το οποίο παρασκευάζεται, το σαπούνι αυτό φροντίζει για το πρόσωπο, το σώμα και τα μαλλιά. Είναι δερματολογικά ελεγμένο. Δεν περιέχει parabens, mineral oil, συνθετικά χρώματα και προϊόντα ζωικής προέλευσης. Σε οικονομική συσκευασία 4τμχ.</Description>
-		<Quantity>28</Quantity>
+		<Quantity>27</Quantity>
 	</product>
 	<product>
 		<ID>65521</ID>
@@ -10117,7 +10117,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.876740855263158</Price>
+		<Price>2.56</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Καθημερινή Περιποίηση Μαλλιών &gt; Σαμπουάν</Category_Path>
 		<Manufacturer>LOREAL PARIS</Manufacturer>
@@ -10158,23 +10158,6 @@
 		<MPN>136901</MPN>
 		<Description>Βασικά χαρακτηριστικά:    Δράση : Προστασία Χρώματος    Τύπος Μαλλιών: ΒαμμέναΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα και προσφέρει ικανοποιητική ενυδάτωση.</Description>
 		<Quantity>7</Quantity>
-	</product>
-	<product>
-		<ID>66027</ID>
-		<Barcode>3600524016272</Barcode>
-		<Name>L'Oreal Paris Elvive Total Repair 5 Conditioner Αναδόμησης/θρέψης για Όλους τους Τύπους Μαλλιών 300ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/55033998/L-Oreal-Paris-Elvive-Total-Repair-5-Conditioner-Anadomisis-threpsis-gia-Olous-tous-Typous-Mallion-300ml.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/055033/55033998/20240722165147_l_oreal_paris_elvive_total_repair_5_conditioner_anadomisis_threpsis_gia_olous_tous_typous_mallion_300ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>3.196378728070175</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Supermarket &gt; Φροντίδα Μαλλιών &gt; Conditioner Μαλλιών</Category_Path>
-		<Manufacturer>LOREAL PARIS</Manufacturer>
-		<MPN>1370</MPN>
-		<Description>Conditioner για αναδόμηση/θρέψη της L'Oreal Paris, κατάλληλο για όλους τους τύπους μαλλιών, σε μορφή κρέμας. Βοηθάει στην επανόρθωση των μαλλιών χωρίς να τα βαραίνει και μεταμορφώνει τα ταλαιπωρημένα μαλλιά σε πιο υγιή, πιο λαμπερά και πιο δυνατά. Στοχεύει στις περιοχές των μαλλιών με τη μεγαλύτερη φθορά και προσφέρει ενισχυμένη ενυδάτωση, μειώνοντας έτσι την ξηρότητα και τη θαμπάδα τους.    Δράση : Αναδόμηση/Θρέψη    Τύπος Μαλλιών: Όλοι οι τύποιΟι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>66031</ID>
@@ -11008,7 +10991,7 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1075</MPN>
 		<Description>Γάντια Latex μιάς χρήσης, κατασκευασμένα από 100% latex σε λευκό χρώμα, μή αποστειρωμένα. Ελαφρώς Πουδραρισμένα. Οι χρήστες που τα έχουν αγοράσει τα ξεχωρίζουν κυρίως γιατί ´εχουν καλή εφαρμογή.</Description>
-		<Quantity>193</Quantity>
+		<Quantity>173</Quantity>
 		<Size>L</Size>
 	</product>
 	<product>
@@ -11545,7 +11528,7 @@
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.RK.T2.1000G.P2P</MPN>
 		<Description>Το ρολό κουζίνας Point to Point της σειράς PRO SOFT διαθέτει δύο φύλλα. Προσφέρει αξιόπιστη απορροφητικότητα και ανθεκτικότητα, καθιστώντας τον κατάλληλο για ευρεία χρήση στην κουζίνα.</Description>
-		<Quantity>63</Quantity>
+		<Quantity>62</Quantity>
 	</product>
 	<product>
 		<ID>70200</ID>
@@ -12260,7 +12243,7 @@
 		<MPN>1099</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Το Vanish Hand Shampoo μπορεί να χρησιμοποιηθεί στα χαλιά και τις ταπετσαρίες, για να αφαιρέσει τη βαθιά βρωμιά και τη σκόνη. Tο Vanish Hand Shampoo είναι κατάλληλο για χρήση σε μεγάλες περιοχές του χαλιού, με σκοπό να διαλύσει και να αφαιρέσει ακόμα και τους πιο επίμονους στεγνούς λεκέδες και σκόνη. Το πλούσιο, αφρώδες σαμπουάν εξουδετερώνει επίσης τις δυσάρεστες οσμές, κάνοντας το χαλί και την ταπετσαρία σας να μυρίζουν καθαριότητα &amp; φρεσκάδα έναντι μόνο σκουπίσματος με ηλεκτρική σκούπα.</Description>
-		<Quantity>74</Quantity>
+		<Quantity>73</Quantity>
 	</product>
 	<product>
 		<ID>71302</ID>
@@ -12289,7 +12272,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9499392000000001</Price>
+		<Price>0.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Πλύσιμο Ρούχων &gt; Ενισχυτικά Πλύσης</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -12414,7 +12397,7 @@
 		<Manufacturer>CIF</Manufacturer>
 		<MPN>1101001</MPN>
 		<Description>Το Cif Pro Formula Hand Dishwash είναι ένα υγρό απορρυπαντικό για πλύσιμο στο χέρι πιάτων, μαχαιροπήρουνων, ποτηριών, κατσαρόλες, τηγάνια και όλα τα σκεύη κουζίνας που πλένονται. Η φόρμουλα έχει αναπτυχθεί ειδικά για να αφαιρεί το επίμονο λίπος και τα αποξηραμένα τρόφιμα, ακόμη και σε κρύο νερό, αφήνοντας τα πιάτα σας αφρώδη και χωρίς ραβδώσεις.  Χάρη στο ουδέτερο pH του δέρματος, είναι απαλό στα χέρια. Αφήνει ευχάριστο άρωμα λεμονιού.      Σύνθεση: 5-15% ανιονικά επιφανειοδραστικά.</Description>
-		<Quantity>303</Quantity>
+		<Quantity>302</Quantity>
 	</product>
 	<product>
 		<ID>72021</ID>
@@ -12499,7 +12482,7 @@
 		<Manufacturer>FINISH</Manufacturer>
 		<MPN>1502</MPN>
 		<Description>Οι ταμπλέτες Finish Powerball Calgonit προσφέρουν ισχυρή καθαριστική δράση ακόμη και στις πιο δύσκολες συνθήκες. Η  δράση μουλιάσματος του Powerball, αφαιρεί ακόμα και τους πιο επίμονους λεκέδες.</Description>
-		<Quantity>102</Quantity>
+		<Quantity>100</Quantity>
 	</product>
 	<product>
 		<ID>72072</ID>
@@ -13157,7 +13140,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.961465199999999</Price>
+		<Price>4.09</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Είδη για Σκούπισμα &amp; Σφουγγάρισμα</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -14022,7 +14005,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.45616872</Price>
+		<Price>0.52</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αξεσουάρ Καθαρισμού &gt; Σφουγγάρια Κουζίνας</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -14674,7 +14657,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9839353500000003</Price>
+		<Price>1.053175245</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -14691,7 +14674,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.25017668</Price>
+		<Price>1.48683564</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -14708,7 +14691,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.6205994</Price>
+		<Price>1.73464158</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -14725,7 +14708,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.0836278</Price>
+		<Price>2.230253460000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -14810,7 +14793,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.0836278</Price>
+		<Price>2.23</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Εκκλησιαστικά &gt; Είδη Μνημείων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -14844,7 +14827,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9261907199999999</Price>
+		<Price>0.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αρωματικά Χώρου &amp; Αρωματοθεραπεία &gt; Αρωματικά Χώρου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -14861,7 +14844,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9261907199999999</Price>
+		<Price>0.96</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αρωματικά Χώρου &amp; Αρωματοθεραπεία &gt; Αρωματικά Χώρου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15155,7 +15138,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.27781704</Price>
+		<Price>0.3</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Οικιακής Χρήσης &gt; Διάφορα Οικιακά Είδη</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15359,7 +15342,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.6688188</Price>
+		<Price>0.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Μανταλάκια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15411,7 +15394,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7202664000000001</Price>
+		<Price>0.7434178200000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Άπλωμα, Σιδέρωμα &amp; Οργάνωση Ρούχων &gt; Μανταλάκια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15428,7 +15411,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.03238184</Price>
+		<Price>1.065565542</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Hobby - Αθλητισμός Camping</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15734,7 +15717,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.665845</Price>
+		<Price>2.603641950000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Συσκευές Μαγειρέματος&gt; Αξεσουάρ Συσκευών Μαγειρέματος</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15752,7 +15735,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.665845</Price>
+		<Price>2.603641950000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Συσκευές Μαγειρέματος&gt; Αξεσουάρ Συσκευών Μαγειρέματος</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15770,7 +15753,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.665845</Price>
+		<Price>2.603641950000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Συσκευές Μαγειρέματος&gt; Αξεσουάρ Συσκευών Μαγειρέματος</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15788,7 +15771,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.52334</Price>
+		<Price>1.61177835</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Λευκών Οικιακών Συσκευών&gt; Αξεσουάρ Απορροφητήρων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15805,7 +15788,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.8793522000000001</Price>
+		<Price>0.8441781119999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Αξεσουάρ Ποτών</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15822,7 +15805,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.39235525</Price>
+		<Price>2.73116448</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15839,7 +15822,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.586329999999999</Price>
+		<Price>2.4828768</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15856,7 +15839,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.586329999999999</Price>
+		<Price>2.4828768</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15873,7 +15856,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.39235525</Price>
+		<Price>2.29666104</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15891,7 +15874,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.879495</Price>
+		<Price>3.7243152</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Μαχαιροπίρουνα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15908,7 +15891,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9052154999999998</Price>
+		<Price>0.8690068799999998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Ψαλίδια Μαγειρικής</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15925,7 +15908,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9052154999999998</Price>
+		<Price>0.8690068799999998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Ψαλίδια Μαγειρικής</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15942,7 +15925,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.034769999999998</Price>
+		<Price>6.207192</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μαγειρικά Σκεύη&gt; Μπρίκια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15959,7 +15942,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.638246999999998</Price>
+		<Price>6.827911199999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μαγειρικά Σκεύη&gt; Μπρίκια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15976,7 +15959,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.4831148</Price>
+		<Price>7.696918079999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μαγειρικά Σκεύη&gt; Μπρίκια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -15993,7 +15976,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.8107642</Price>
+		<Price>9.06250032</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μαγειρικά Σκεύη&gt; Μπρίκια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16011,7 +15994,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.1725172</Price>
+		<Price>2.23458912</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Διάφορες Βάσεις &amp; Θήκες Κουζίνας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16029,7 +16012,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.5346034</Price>
+		<Price>2.60702064</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Διάφορες Βάσεις &amp; Θήκες Κουζίνας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16284,7 +16267,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.708025</Price>
+		<Price>27.27560860199999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Κατσαρόλες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16301,7 +16284,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>25.8633</Price>
+		<Price>29.755209384</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Κατσαρόλες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16318,7 +16301,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>29.0962125</Price>
+		<Price>33.474610557</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Κατσαρόλες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16352,7 +16335,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.5523216</Price>
+		<Price>12.897510444</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Κατσαρόλες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16370,7 +16353,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.879971</Price>
+		<Price>14.2616702025</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Κατσαρόλες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -16388,7 +16371,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.9140746</Price>
+		<Price>6.076711651499999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Τηγάνια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16406,7 +16389,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.638246999999998</Price>
+		<Price>6.8207987925</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Τηγάνια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16424,7 +16407,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.724505600000001</Price>
+		<Price>7.936929503999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Τηγάνια</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16442,7 +16425,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.845200999999999</Price>
+		<Price>8.060944027499998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Γάστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16460,7 +16443,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.5004998</Price>
+		<Price>10.7892635445</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Γάστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16478,7 +16461,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.879971</Price>
+		<Price>14.2616702025</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Γάστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16496,7 +16479,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.517551599999999</Price>
+		<Price>7.192842362999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Ταψιά</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -16514,7 +16497,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.6900688</Price>
+		<Price>8.929045691999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Ταψιά</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -16532,7 +16515,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.259109</Price>
+		<Price>10.5412344975</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μαγειρικά Σκεύη &gt; Ταψιά</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -16727,7 +16710,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.8746092000000002</Price>
+		<Price>0.9</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Αποθήκευση Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16744,7 +16727,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7202664000000001</Price>
+		<Price>0.750106008</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αποθήκευση Ρούχων&gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16761,7 +16744,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.8403107999999998</Price>
+		<Price>0.87332301</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αποθήκευση Ρούχων&gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16778,7 +16761,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.0203774</Price>
+		<Price>1.062650178</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αποθήκευση Ρούχων&gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16795,7 +16778,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.200444</Price>
+		<Price>1.25017668</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αποθήκευση Ρούχων&gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16812,7 +16795,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.7406438</Price>
+		<Price>1.812756186</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αποθήκευση Ρούχων&gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16829,7 +16812,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.11278144</Price>
+		<Price>2.2003109568</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αποθήκευση Ρούχων&gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -16846,7 +16829,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.3408658</Price>
+		<Price>2.437844526</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αποθήκευση Ρούχων&gt; Θήκες Ρούχων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -17006,7 +16989,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.6788875</Price>
+		<Price>14.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Έπιπλα Σαλονιού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -17374,7 +17357,7 @@
 	<product>
 		<ID>77001103035</ID>
 		<Barcode>5203642146067</Barcode>
-		<Name>Sidirela Μεταλλικό Τρόλεϊ Κουζίνας με Ρόδες, 3 Θέσεων σε Μαύρο Χρώμα, 51x26x61cm E-4606</Name>
+		<Name>Sidirela Μεταλλικό Τρόλεϊ Κουζίνας με Πλαστικά Ράφια και Ρόδες, 3 Θέσεων σε Μαύρο Χρώμα, 51x26x61cm E-4606</Name>
 		<Product_Link>https://www.skroutz.gr/s/58709623/Sidirela-Pro-Trolei-Kouzinas-Metalliko-Mayro-3-THeseon-44-5x29x77-5cm-E-4606.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/058709/58709623/fixedratio_20250707155912_sidirela_trolei_kouzinas_metalliko_mayro_3_theseon_44_5x29x77_5cm_e_4606.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -17458,7 +17441,7 @@
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>KCS02NW</MPN>
 		<Description>Πού λείπει ένα ράφι; Ο ακατάστατος πάγκος, το ντουλάπι ή το ντουλάπι; Φέρτε αυτά τα 2 ράφια για να επεκτείνετε τον αποθηκευτικό σας χώρο: μπουκάλια μπαχαρικών, κονσερβοποιημένα τρόφιμα - όλα αυτά τα χάος που δημιουργούν μπορούν να τιθασευτούν.  Δώστε στυλ στην κουζίνα σας: Όταν το φυσικό μπαμπού συναντά το ανθεκτικό μέταλλο, τι θα συμβεί; Ένα γοητευτικό σετ ραφιών πάγκου! Μπορείτε να το επιδείξετε στον πάγκο και να το κάνετε ένα πρακτικό κόσμημα που θα αναβαθμίσει την κουζίνα σας.  Η δύναμη δεν χάνεται: Υποστηριζόμενα από μπαμπού υψηλής αντοχής και ανθεκτικό μέταλλο, τα ράφια του πάγκου μπορούν να αντέξουν έως και 15 κιλά το καθένα. Μη διστάσετε να τοποθετήσετε τον εξοπλισμό καφέ ή την πρέσα panini πάνω τους - μπορούν να το αντέξουν.  Ράφια με τον τρόπο που σας ταιριάζει: Θέλετε να τα στοιβάζετε, να τα τοποθετείτε σε φωλιά, να τα χωρίζετε ή να τα τοποθετείτε σε σχήμα L για να ταιριάζουν στον χώρο σας; Ναι σε όλα τα παραπάνω! Απλώς βρείτε τον τρόπο που σας ταιριάζει, προσαρμόστε τον αποθηκευτικό σας χώρο και μεγιστοποιήστε τον χώρο σας.  Τι Παίρνετε: Ένα σετ από 2 στιβαρά ράφια με στοιβαζόμενο και επεκτάσιμο σχεδιασμό, εύκολη συναρμολόγηση και έναν απλό τρόπο για να επαναφέρετε τον χώρο του πάγκου σας, καθώς και την τάξη και το στυλ.  Προδιαγραφές: - Χρώμα: Λευκό, Φυσικό - Υλικό: Μέταλλο, Μπαμπού - Μεγάλο Ένα Μέγεθος: 29,7 x 19,5 x 15,5 εκ. (Μ x Π x Υ) - Μικρό Ένα Μέγεθος: 29,7 x 18,5 x 13,6 εκ. (Μ x Π x Υ) - Συνολικό Βάρος: 1,3 kg - Μέγιστη Στατική Χωρητικότητα Φορτίου Κάθε Ραφιού: 15 kg  Περιεχόμενα Συσκευασίας: - 2 x Ράφια Ντουλαπιού - 1 x Τσάντα Αξεσουάρ - 1 x Οδηγίες</Description>
-		<Quantity>90</Quantity>
+		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>7700110322</ID>
@@ -18924,7 +18907,7 @@
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>CRW03W-20</MPN>
 		<Description>Βασικά χαρακτηριστικά:      Υλικό: Ξύλο Σφενδάμου     Ανθεκτικότητα στη Χρήση     Εγκοπές για Φούστες     Μεταλλικά, Περιστρεφόμενα Άγκιστρα</Description>
-		<Quantity>233</Quantity>
+		<Quantity>232</Quantity>
 	</product>
 	<product>
 		<ID>77001242002</ID>
@@ -24225,7 +24208,7 @@
 		<Manufacturer>Typotrust</Manufacturer>
 		<MPN>FP20140</MPN>
 		<Description>Περιγραφή προϊόντος  Οι ενισχυμένες ζελατίνες A4 πάχους 40 microns αποτελούν ιδανική λύση για την οργάνωση και προστασία εγγράφων σε κλασέρ και ντοσιέ. Κατασκευασμένες από διαφανές και ανθεκτικό πλαστικό, επιτρέπουν την εύκολη προβολή των εγγράφων χωρίς να χρειάζεται να τα αφαιρείτε.  Η ενισχυμένη πλευρά με 11 οπές εξασφαλίζει μεγάλη αντοχή στη χρήση και συμβατότητα με τους περισσότερους τύπους κλασέρ και ντοσιέ με 2, 3 ή 4 κρίκους. Το επάνω άνοιγμα επιτρέπει γρήγορη εισαγωγή και αφαίρεση των φύλλων.  Ιδανικές για χρήση σε γραφεία, σχολεία, αρχεία και επαγγελματικούς χώρους όπου απαιτείται σωστή ταξινόμηση και προστασία εγγράφων.  Χαρακτηριστικά  Μέγεθος φύλλου: A4  Πάχος: 40 microns  Υλικό: Διαφανές πλαστικό  Ενισχυμένη πλευρά με 11 οπές  Συμβατές με ντοσιέ και κλασέρ 2, 3 ή 4 κρίκων  Άνοιγμα στο επάνω μέρος  Ιδανικές για αρχειοθέτηση και προστασία εγγράφων  Συσκευασία  1 πακέτο = 100 ζελατίνες</Description>
-		<Quantity>120</Quantity>
+		<Quantity>116</Quantity>
 	</product>
 	<product>
 		<ID>793201151</ID>
@@ -25713,7 +25696,7 @@
 		<Manufacturer>PANASONIC</Manufacturer>
 		<MPN>1399</MPN>
 		<Description>Αλκαλικές μπαταρίες AAA LR03 ιδανικές για χρήση σε ζυγαριές, ρολόγια και μικρές ηλεκτρονικές συσκευές. Διαθέτουν προστασία κατά των διαρροών, ενώ ταυτόχρονα διατηρούν την υψηλή απόδοσή τους καθ’ όλη την διάρκεια ζωής τους, εξασφαλίζοντας στις συσκευές σου την ενέργεια που χρειάζονται ανά πάσα στιγμή.</Description>
-		<Quantity>913</Quantity>
+		<Quantity>912</Quantity>
 	</product>
 	<product>
 		<ID>7975022</ID>
@@ -25833,7 +25816,7 @@
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>1776</MPN>
 		<Description>Αλκαλικές μπαταρίες ΑΑ της Maxell κατάλληλες για φακούς, παιχνίδια, τηλεχειριστήρια, αριθμομηχανές κι άλλες μικροσυσκευές.</Description>
-		<Quantity>660</Quantity>
+		<Quantity>659</Quantity>
 	</product>
 	<product>
 		<ID>7975032032</ID>
@@ -27055,7 +27038,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.997745745</Price>
+		<Price>27.69</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Απωθητικά &amp; Παγίδες &gt; Ηλεκτρικές Εντομοπαγίδες</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
