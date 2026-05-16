@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-16 14:05</created_at>
+	<created_at>2026-05-16 14:49</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -5546,7 +5546,7 @@
 		<MPN>0322</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Αρωματισμένο τσίπουρο της οικογένειας Αποστολάκη​ με γλυκάνισο και βότανα από τα βουνά του Πηλίου. Συνοδεύει παραδοσιακούς μεζέδες και θαλασσινά πιάτα.</Description>
-		<Quantity>818</Quantity>
+		<Quantity>794</Quantity>
 	</product>
 	<product>
 		<ID>52103</ID>
@@ -5618,7 +5618,7 @@
 		<MPN>0638</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Το Τσίπουρο της Οικογένειας Αποστολάκη χωρίς γλυκάνισο αποστάζεται αποκλειστικά από στέμφυλα της ποικιλίας Μοσχάτο. Χαρακτηρίζεται για την ελαφριά του γεύση και το πλούσιο άρωμα του.</Description>
-		<Quantity>1626</Quantity>
+		<Quantity>1602</Quantity>
 	</product>
 	<product>
 		<ID>52153</ID>
@@ -7175,7 +7175,7 @@
 		<Manufacturer>BEEFEATER</Manufacturer>
 		<MPN>1499</MPN>
 		<Description>To Beefeater London είναι ένα premium dry τζιν με κρυστάλλινη όψη που παρασκευάζεται στο Λονδίνο, στο αποστακτήριο του Kennington. Οι νότες αρκεύθου, μπαχαρικών και φρούτων είναι ένας συνδυασμός που έχει ως αποτέλεσμα ένα απόσταγμα αρωματικό και με καθαρή γεύση.</Description>
-		<Quantity>33</Quantity>
+		<Quantity>32</Quantity>
 	</product>
 	<product>
 		<ID>55305</ID>
@@ -7623,7 +7623,7 @@
 		<Manufacturer>Campari</Manufacturer>
 		<MPN>55600-01</MPN>
 		<Description>Το Campari είναι ένα απεριτίφ το οποίο προέρχεται από τη μίξη πικρών βοτάνων, αρωματικών φυτών και φρούτων με αλκοόλ και νερό.  Παράγεται εδώ και 150 χρόνια με την ίδια μυστική συνταγή που περνά από γενιά σε γενιά και δημιούργησε ο Gaspare Campari.   Χρησιμοποιείται για την παρασκευή ποτών και κοκτέιλ όπως τα κλασικά Negroni, Campari Orange και Americano.</Description>
-		<Quantity>65</Quantity>
+		<Quantity>64</Quantity>
 	</product>
 	<product>
 		<ID>556011</ID>
@@ -7692,7 +7692,7 @@
 		<Manufacturer>Martini</Manufacturer>
 		<MPN>55600-03</MPN>
 		<Description>Το Martini Rosso είναι ένα παγκοσμίου φήμης κόκκινο βερμούτ από την Ιταλία, που δημιουργήθηκε για πρώτη φορά το 1863.Με γλυκόπικρο χαρακτήρα είναι το πιο περίπλοκο από τα υπόλοιπα Martini.   Το ήλεκτρο-καφέ χρώμα του οφείλεται στην προσθήκη καραμέλας. Βότανα και μπαχαρικά βρεγμένα στο κρασί το οποίο στη συνέχεια εμπλουτίζεται με οινόπνευμα. Ένα βερμούτ με γλυκό ύφος και φυτικές νότες.</Description>
-		<Quantity>5</Quantity>
+		<Quantity>4</Quantity>
 	</product>
 	<product>
 		<ID>55604</ID>
@@ -8328,7 +8328,7 @@
 		<MPN>1187</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Ένα μοναδικό απεριτίφ που συνδυάζει πλούσιο, γλυκό ενισχυμένο κρασί, βότανα, μπαχαρικά και κινίνη. Ένας μεθυστικός συνδυασμός που μπορεί να κρυώσει και να σερβιριστεί πριν από το γεύμα ή να αφεθεί σε θερμοκρασία δωματίου για ένα κέρασμα μετά το δείπνο.</Description>
-		<Quantity>9</Quantity>
+		<Quantity>8</Quantity>
 	</product>
 	<product>
 		<ID>55532</ID>
@@ -11607,7 +11607,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9624031232400002</Price>
+		<Price>1.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Επαγγελματική Καθαριότητα &amp; Υγιεινή &gt; Χαρτικά (Χονδρική)</Category_Path>
 		<Manufacturer>ENDLESS</Manufacturer>
@@ -13668,7 +13668,7 @@
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>178333</MPN>
 		<Description>Περιγραφή Το Vileda H2PrO Spin Mop Set είναι ένα προηγμένο σετ σφουγγαρίστρας που προσφέρει αποτελεσματικό και υγιεινό καθάρισμα για όλα τα σκληρά δάπεδα του σπιτιού σας.  Διαθέτει καινοτόμο σύστημα διπλής δεξαμενής (Zweitanksystem), που διαχωρίζει το καθαρό από το βρώμικο νερό, ώστε να σφουγγαρίζετε πάντα με καθαρό νερό και να αποφεύγετε τη μεταφορά βρωμιάς στο δάπεδο. Το δοχείο καθαρού νερού έχει χωρητικότητα 6 λίτρων, επαρκές για τον καθαρισμό μεγάλων επιφανειών χωρίς συχνή αλλαγή νερού. Η σφουγγαρίστρα διαθέτει μικροϊνες για αποτελεσματική απομάκρυνση της βρωμιάς και των λεκέδων και είναι ιδανική για γωνίες χάρη στο τριγωνικό της σχήμα. Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα. Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα. Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>182</Quantity>
+		<Quantity>181</Quantity>
 	</product>
 	<product>
 		<ID>740510222</ID>
@@ -17346,7 +17346,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.129891</Price>
+		<Price>15.745893705</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -17363,7 +17363,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.67862</Price>
+		<Price>17.3576781</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -17380,7 +17380,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.67862</Price>
+		<Price>17.3576781</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -17398,7 +17398,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>21.44394</Price>
+		<Price>26.03651715</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -17416,7 +17416,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.67862</Price>
+		<Price>17.3576781</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Οργάνωση &amp; Αποθήκευση Κουζίνας&gt; Ράφια Τροφίμων</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -17632,7 +17632,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.350516</Price>
+		<Price>17.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Έπιπλα Γραφείου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -17820,7 +17820,7 @@
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>OFC60WT</MPN>
 		<Description>Όλα σε ένα μέρος: Μήπως το γραφείο σας βυθίζεται στο χάος; Αυτό το ντουλάπι (39 x 52 x 60 εκ.) προσφέρει άφθονο αποθηκευτικό χώρο, αλλά καταλαμβάνει λίγο χώρο. Μπορείτε να αποθηκεύσετε αρχεία σε διαφορετικές μορφές (A4, letter ή legal) στα 3 συρτάρια.  Ανθεκτικό; Χωρίς αμφιβολία, αυτό το ντουλάπι αρχειοθέτησης είναι κατασκευασμένο από ανθεκτικό χάλυβα που εξασφαλίζει υψηλή σταθερότητα - καθένα από τα 2 επάνω συρτάρια μπορεί να χωρέσει έως και 15 κιλά, ενώ το μεγάλο κάτω συρτάρι μπορεί να χωρέσει έως και 20 κιλά.  Μινιμαλιστικός σχεδιασμός: αυτό το ντουλάπι είναι εξοπλισμένο χωρίς λαβές, δημιουργώντας μια απλή, μοντέρνα εμφάνιση. Χάρη στους υψηλής ποιότητας οδηγούς, τα συρτάρια στα πλάγια μπορούν εύκολα να τραβηχτούν έξω.  Ήδη προσυναρμολογημένο: αυτό το ντουλάπι γραφείου διατίθεται προσυναρμολογημένο, ώστε να μην χρειάζεται να περάσετε όλο το απόγευμα της Κυριακής με περίπλοκη συναρμολόγηση. Απλώς βιδώστε τους 5 τροχούς που περιλαμβάνονται και στη συνέχεια μπορείτε να σύρετε το ντουλάπι μπρος-πίσω και να διατηρείτε τα πάντα σε τάξη.  Τι λαμβάνετε:  1 ντουλάπι αρχειοθέτησης Songmics με 3 συρτάρια,  1 ένθετο συρταριού για εργαλεία γραφείου,   Προδιαγραφές: - Χρώμα: Μαύρο (OFC60BK), Λευκό (OFC60WT) - Υλικό: Ατσάλι - Μέγεθος προϊόντος: 52 x 39 x 60 εκ. (Π x Β x Υ) - Βάρος: 18,7 kg  Περιεχόμενα συσκευασίας: - 1 x Κινητό ντουλάπι αρχειοθέτησης - 1 x Τσάντα αξεσουάρ - 1 x Οδηγίες (EN, DE, FR, IT, ES) Σημειώσεις SONGMICS: - Να είστε προσεκτικοί κατά την τοποθέτηση των ροδών. 1 κρεμαστό αρχείο και 5 ρόδες, 2 με φρένα για επιπλέον κράτημα. Ο επιπλέον κύλινδρος στο μπροστινό μέρος του συρταριού προστατεύει από ανατροπή.</Description>
-		<Quantity>6</Quantity>
+		<Quantity>5</Quantity>
 	</product>
 	<product>
 		<ID>770011303</ID>
@@ -18155,7 +18155,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.59192</Price>
+		<Price>29.76</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Έπιπλα Εισόδου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -18398,13 +18398,13 @@
 	<product>
 		<ID>770012101</ID>
 		<Barcode>5203642132947</Barcode>
-		<Name>Μεταλλική Παπουτσοθήκη με 3 Ράφια Μαύρο / Φυσικό 63x30x63cm E-3294</Name>
+		<Name>Sidirela Μεταλλική Παπουτσοθήκη με 3+1 Ράφια Μαύρο / Φυσικό 63x30x63cm E-3294</Name>
 		<Product_Link>https://www.skroutz.gr/s/21477441/Metalliki-Papoutsothiki-me-3-Rafia-Mayro-Fysiko-E-3294-63x30x63cm.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/058389/58389258/fixedratio_20220401130309_ca234a89.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.656945</Price>
+		<Price>19.11</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18433,14 +18433,14 @@
 	<product>
 		<ID>7700121052</ID>
 		<Barcode>5203642137737</Barcode>
-		<Name>Παπουτσοθήκη από Μασίφ Ξύλο με 2 Ράφια Μ74xΠ26xΥ30cm σε Φυσικό Χρώμα E-3773</Name>
+		<Name>Sidirela Παπουτσοθήκη από Μασίφ Ξύλο με 2 Ράφια Μ74xΠ26xΥ30cm σε Φυσικό Χρώμα E-3773</Name>
 		<Product_Link>https://www.skroutz.gr/s/33851716/Papoutsothiki-apo-Masif-Xylo-me-2-Rafia-Fysiko-M74xP26xY30cm-E-3773.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/033851/33851716/fixedratio_20250225152107_xylini_papoutsothiki_fysiko_e_3773_74x26x30cm.jpeg</Image_Link>
 		<Additional>https://a.scdn.gr/images/sku_images/116964/116964523/fixedratio_20250910164047_fd3feb9a.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.5097675</Price>
+		<Price>6.327494009999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18451,13 +18451,13 @@
 	<product>
 		<ID>77001210521</ID>
 		<Barcode>5203642137737</Barcode>
-		<Name>Παπουτσοθήκη από Μασίφ Ξύλο με 2 Ράφια Μ74xΠ26xΥ30cm σε Μαύρο Χρώμα E-3773</Name>
+		<Name>Sidirela Παπουτσοθήκη από Μασίφ Ξύλο με 2 Ράφια Μ74xΠ26xΥ30cm σε Μαύρο Χρώμα E-3773</Name>
 		<Product_Link>https://www.skroutz.gr/s/59758148/papoutsothiki-rafiera-xylini-gri-74x26x30ek-sidirela-e-3773.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/062970/62970872/fixedratio_20250910131613_xylini_papoutsothiki_74x26x30cm_e_3773.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.5097675</Price>
+		<Price>6.327494009999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18468,13 +18468,13 @@
 	<product>
 		<ID>7700121053</ID>
 		<Barcode>5203642137744</Barcode>
-		<Name>Παπουτσοθήκη από Μασίφ Ξύλο με 3 Ράφια Μπεζ Μ74xΠ26xΥ49cm E-3774</Name>
+		<Name>Sidirela Παπουτσοθήκη από Μασίφ Ξύλο με 3 Ράφια Μπεζ Μ74xΠ26xΥ49cm E-3774</Name>
 		<Product_Link>https://www.skroutz.gr/s/33850551/Papoutsothiki-apo-Masif-Xylo-me-3-Rafia-Mpez-M74xP26xY49cm-E-3774.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/033850/33850551/fixedratio_20220207174631_xylini_papoutsothiki_me_3_rafia_e_3774_74x26x49cm.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.5731875</Price>
+		<Price>9.30513825</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18485,13 +18485,13 @@
 	<product>
 		<ID>770012111</ID>
 		<Barcode>5203642102063</Barcode>
-		<Name>Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Γκρι Χρώμα E-02061</Name>
+		<Name>Sidirela Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Γκρι Χρώμα E-02061</Name>
 		<Product_Link>https://www.skroutz.gr/s/40607787/Xylini-Papoutsothiki-E-0206-me-2-Rafia-Gri-60x24x80cm.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/040607/40607787/fixedratio_20230208131834_xylini_papoutsothiki_e_0206_me_2_rafia_gri_60x24x80cm.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.165375</Price>
+		<Price>39.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18502,13 +18502,13 @@
 	<product>
 		<ID>770012112</ID>
 		<Barcode>5203642102063</Barcode>
-		<Name>Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Καφέ Χρώμα E-02062</Name>
+		<Name>Sidirela Ξύλινη Ανακλινόμενη Παπουτσοθήκη με 2 Ντουλάπια και 4 Ράφια 60x25x80cm σε Καφέ Χρώμα E-02062</Name>
 		<Product_Link>https://www.skroutz.gr/s/58625759/Xylini-Papoutsothiki-60x25x80cm-E-0206.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/058625/58625759/fixedratio_20250205144413_xylini_papoutsothiki_60x25x80cm_e_0206.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>36.165375</Price>
+		<Price>39.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Μικροέπιπλα&gt; Παπουτσοθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -19041,7 +19041,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.7195625</Price>
+		<Price>33.473224485</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Δαπέδου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -19059,7 +19059,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>23.401125</Price>
+		<Price>27.27447921</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Αποθήκευση Ρούχων &gt; Κρεμάστρες Δαπέδου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -19181,7 +19181,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>31.910625</Price>
+		<Price>37.19247165000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B&gt; Ξενοδοχειακός Εξοπλισμός Δωματίου&gt; Μπαγκαζιέρες Ξενοδοχείου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -19199,7 +19199,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.4648125</Price>
+		<Price>28.514228265</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B&gt; Ξενοδοχειακός Εξοπλισμός Δωματίου&gt; Μπαγκαζιέρες Ξενοδοχείου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -19216,7 +19216,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>30.8469375</Price>
+		<Price>35.952722595</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Μικροέπιπλα &gt; Μικροέπιπλα Αποθήκευσης</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -19630,7 +19630,7 @@
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>LTB03GS</MPN>
 		<Description>Ο κάδος απορριμμάτων, από την εταιρία Songmics, είναι κατασκευασμένος από ατσάλι και έχει χωρητικότητα 30 Lt. Διαθέτει εσωτερικό πλαστικό κάδο, στον οποίο μπορείτε να τοποθετήσετε σακούλα και έχει μηχανισμό με αντιολισθητικό πεντάλ, ώστε η απόρριψη των απορριμμάτων να πραγματοποιείται με απολύτως άνετο και υγιεινό τρόπο. Το καπάκι του κάδου χάρη στο ενσωματωμένο σύστημα soft-close, κλείνει αργά και αθόρυβα. Χαρακτηριστικά      Υλικό Κατασκευής: Ατσάλι     Πλαστικός εσωτερικός κάδος     Χωρητικότητα: 30 Lt     Ενσωματωμένο σύστημα soft-close     Φινίρισμα που δεν επιτρέπει τις δακτυλιές     Διαστάσεις: 35 x 23.8 x 63 cm     Διαστάσεις εσωτερικού κάδου: 35 x 23.5 x 57.5 cm     Συνολικό ύψος με ανοιχτό καπάκι: 85.5 cm     Βάρος: 3.8 Kg</Description>
-		<Quantity>18</Quantity>
+		<Quantity>17</Quantity>
 	</product>
 	<product>
 		<ID>770500201</ID>
@@ -19747,7 +19747,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>42.5475</Price>
+		<Price>49.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Μπάνιου&gt; Ντουλάπια Μπάνιου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -19818,7 +19818,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>13.212045</Price>
+		<Price>15.6198080808</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά Πρώτες Βοήθειες&gt;Κουτιά Πρώτων Βοηθειών</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -19836,7 +19836,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.2529125</Price>
+		<Price>19.214843274</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά Πρώτες Βοήθειες&gt;Κουτιά Πρώτων Βοηθειών</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -20211,7 +20211,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.00666</Price>
+		<Price>20.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20245,7 +20245,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.00666</Price>
+		<Price>20.58</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20262,7 +20262,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.5746</Price>
+		<Price>9.919783248</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20279,7 +20279,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.167255600000001</Price>
+		<Price>4.4639024616</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20314,7 +20314,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.63527</Price>
+		<Price>23.55684885</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Ραφιέρες Μπάνιου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20368,7 +20368,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.404218</Price>
+		<Price>11.774040498</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Απλώστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20386,7 +20386,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.163019199999999</Price>
+		<Price>8.4277342512</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Απλώστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20404,7 +20404,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.810656</Price>
+		<Price>29.74494441600001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Απλώστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20456,7 +20456,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>16.72047</Price>
+		<Price>16.111844892</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Απλώστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20474,7 +20474,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.4033625</Price>
+		<Price>32.843376126</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Σιδερώστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20492,7 +20492,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.803996</Price>
+		<Price>11.154354156</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Σιδερώστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20509,7 +20509,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.790075</Price>
+		<Price>13.633099524</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Σιδερώστρες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20616,7 +20616,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>28.59192</Price>
+		<Price>29.76418872</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Κήπου &amp; Βεράντας&gt; Τραπέζια Κήπου &amp; Βεράντας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20634,7 +20634,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>33.35724</Price>
+		<Price>34.72488684</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Κήπου &amp; Βεράντας&gt; Τραπέζια Κήπου &amp; Βεράντας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20652,7 +20652,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.891625</Price>
+		<Price>17.36244342</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Έπιπλα Κήπου &amp; Βεράντας&gt; Τραπέζια Κήπου &amp; Βεράντας</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20723,7 +20723,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.22578</Price>
+		<Price>12.40392708</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20740,7 +20740,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.059647</Price>
+		<Price>14.264516142</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20757,7 +20757,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.727381</Price>
+		<Price>17.985694266</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20774,7 +20774,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.949959</Price>
+		<Price>19.226086974</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος Λευκά Είδη&gt; Επιστρώματα</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20792,7 +20792,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.1912726</Price>
+		<Price>8.3106311436</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Λευκά Είδη&gt; Μαξιλαροθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20810,7 +20810,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>7.702241400000001</Price>
+		<Price>7.814474060399999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Λευκά Είδη&gt; Μαξιλαροθήκες</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20827,7 +20827,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.780624</Price>
+		<Price>9.923141664</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Λευκά Είδη&gt; Μαξιλάρια Ύπνου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20845,7 +20845,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>20.0415465</Price>
+		<Price>21.086676036</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Λευκά Είδη&gt; Μαξιλάρια Ύπνου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20862,7 +20862,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.54808375</Price>
+		<Price>2.8479422457</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20879,30 +20879,13 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.76380875</Price>
+		<Price>5.3244137637</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-0529</MPN>
 		<Description>Πατάκι εισόδου από καουτσούκ με σχέδιο δαχτυλιδιών. Κατάλληλο για εξωτερικούς χώρους.</Description>
 		<Quantity>5</Quantity>
-	</product>
-	<product>
-		<ID>773001101</ID>
-		<Barcode>5203642108973</Barcode>
-		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Meka Welcome 40x60εκ. Ε-0897</Name>
-		<Product_Link>https://www.skroutz.gr/s/32953156/Sidirela-Pataki-Eisodou-apo-Kokofoinika-Meka-I-Love-Home-40x60ek-E-0897.html</Product_Link>
-		<Image_Link>https://www.sidirela.gr/uploads/2024/12/e-0897-01-podomaktro-meka-web.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.209877499999999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>Ε-0897</MPN>
-		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home είναι κατασκευασμένο από ίνες κοκοφοίνικα, υψηλής αντοχής σε νερό και υγρασία, με λαστιχένιο υπόστρωμα για καλύτερη σταθερότητα.</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>773001104</ID>
@@ -20913,7 +20896,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.209877499999999</Price>
+		<Price>4.705295884199999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20930,7 +20913,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.209877499999999</Price>
+		<Price>4.705295884199999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20947,7 +20930,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.707707599999999</Price>
+		<Price>5.695884491399999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20981,7 +20964,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.546851</Price>
+		<Price>10.5250039515</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -20998,7 +20981,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.852896</Price>
+		<Price>19.811772144</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21015,7 +20998,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.81611999999999</Price>
+		<Price>24.76471518</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21032,7 +21015,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.700352399999999</Price>
+		<Price>6.6864730986</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21050,7 +21033,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.430125599999998</Price>
+		<Price>9.410591768399998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21067,7 +21050,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.1378332</Price>
+		<Price>15.1064762598</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21084,7 +21067,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>30.0275052</Price>
+		<Price>29.9653053678</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21118,7 +21101,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.9016</Price>
+		<Price>3.22</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Είδη Ένδυσης &gt; Ομπρέλες Βροχής</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -21204,7 +21187,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.601332</Price>
+		<Price>3.72352005</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Προϊόντα Οικιακής Χρήσης&gt; Σίτες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21222,7 +21205,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.0815096</Price>
+		<Price>4.21998939</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Προϊόντα Οικιακής Χρήσης&gt; Σίτες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21239,7 +21222,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.6465268</Price>
+		<Price>18.245248245</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Προϊόντα Οικιακής Χρήσης&gt; Κουρτίνες Πόρτας</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21257,7 +21240,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.7699</Price>
+		<Price>10.16957604</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Στόρια &amp; Κουρτινόξυλα&gt; Στόρια &amp; Περσίδες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21275,7 +21258,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.7645</Price>
+		<Price>13.6421142</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Στόρια &amp; Κουρτινόξυλα&gt; Στόρια &amp; Περσίδες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21293,7 +21276,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.7591</Price>
+		<Price>17.11465236</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Στόρια &amp; Κουρτινόξυλα&gt; Στόρια &amp; Περσίδες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21311,7 +21294,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.64675</Price>
+		<Price>20.4631713</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Στόρια &amp; Κουρτινόξυλα&gt; Στόρια &amp; Περσίδες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21611,7 +21594,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.649574399999999</Price>
+		<Price>6.939305856</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Πότισμα&gt; Λάστιχα Ποτίσματος</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21629,7 +21612,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.2118464</Price>
+		<Price>10.656791136</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Πότισμα&gt; Λάστιχα Ποτίσματος</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21647,7 +21630,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>31.2514875</Price>
+		<Price>32.621552712</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Barbeque &amp; Ψησταριές&gt; Ψησταριές Κάρβουνου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21665,7 +21648,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>10.78056</Price>
+		<Price>11.16018972</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κήπος - Εργαλεία Αρχιτεκτονική Κήπου&gt; Δίχτυα &amp; Πανιά Σκίασης</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21683,7 +21666,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.37408</Price>
+		<Price>14.88025296</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κήπος - Εργαλεία Αρχιτεκτονική Κήπου&gt; Δίχτυα &amp; Πανιά Σκίασης</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21701,7 +21684,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.925872</Price>
+		<Price>19.592333064</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κήπος - Εργαλεία&gt; Κηπουρική&gt; Καρότσια Κήπου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -23024,7 +23007,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.7108920000000001</Price>
+		<Price>0.7362810000000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -23041,7 +23024,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.9478559999999999</Price>
+		<Price>0.981708</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -23058,7 +23041,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.658748</Price>
+		<Price>1.717989</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -24486,48 +24469,48 @@
 	</product>
 	<product>
 		<ID>7949901</ID>
-		<Barcode>5203358500849</Barcode>
-		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής 1τμχ Π57xΔ40mm με Μήκος 15m</Name>
-		<Product_Link>https://www.skroutz.gr/s/50350885/Typotrust-THermiki-CHartotainia-Tameiakis-P57xD40mm-me-Mikos-15m-48gr-m2-5005740.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/050350/50350885/20240516091744_typotrust_thermiki_chartotainia_tameiakis_p57xd40mm_me_mikos_25m_48gr_m_5005740.jpeg</Image_Link>
+		<Barcode>5200309507889</Barcode>
+		<Name>Θερμική Χαρτοταινία Ταμειακής 1τμχ Π57xΔ40mm με Μήκος 15m</Name>
+		<Product_Link>https://www.skroutz.gr/s/22860658/Media-Center-THermiki-CHartotainia-Tameiakis-P57xD40mm-me-Mikos-15m-48gr-m2.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/022860/22860658/xlarge_20200421144011_57x40mm_15m_1tmch.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.1945025787656249</Price>
+		<Price>0.18</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Χαρτοταινίες Ταμειακής</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>1680</MPN>
-		<Description>Η ουσία BPA είναι ένα συστατικό που χρησιμοποιείται, ως μέσο εμφάνισης της χρωστικής ουσίας σε θερμικό χαρτί ώστε κατά την εκτύπωση να εμφανίζεται η μελάνη.Στην Ε.Ε., η χρήση της BPA στο θερμικό χαρτί υπόκειται σε περιορισμό.Η καθολική απαγόρευση της χρήσης θα τεθεί σε ισχύ το 2020, ούτως ώστε να δοθεί στις επιχειρήσεις το χρονικό περιθώριο να την εξαλείψουν σταδιακά και να την αντικαταστήσουν με μια οικολογικότερη ουσία.</Description>
+		<Description>Περιγραφή Θερμική χαρτοταινία ρολό με διάσταση 57 x 40 cm.  Η χαρτοταινία είναι τύπου BPA FREE, απαλλαγμένες από τη βλαβερή χημική ουσία δισφαινόλη Α.  Πλάτος ταινίας: 57 mm  Μήκος ταινίας: 15 m Βάρος: 48 gr/m²</Description>
 		<Quantity>5480</Quantity>
 	</product>
 	<product>
 		<ID>7949902</ID>
-		<Barcode>5203358500344</Barcode>
+		<Barcode>5200000500349</Barcode>
 		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής 1τμχ Π57xΔ50mm με Μήκος 25m</Name>
-		<Product_Link>https://www.skroutz.gr/s/56739276/Various-THermiki-CHartotainia-Tameiakis-P57xD50mm-me-Mikos-25m-48gr-m2-5005750.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/056739/56739276/20241009092923_various_thermiki_chartotainia_tameiakis_p57xd50mm_me_mikos_25m_48gr_m_5005750.jpeg</Image_Link>
+		<Product_Link>https://www.skroutz.gr/s/29713978/Typotrust-THermiki-CHartotainia-Tameiakis-P57xD50mm-me-Mikos-24m-48gr-m2-50034.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/049936/49936283/xlarge_20210916110942_8112fc68.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.2950747249165626</Price>
+		<Price>0.28</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Χαρτοταινίες Ταμειακής</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
 		<MPN>1681</MPN>
-		<Description>Λευκή θερμική χαρτοταινία σε ρολό για ταμειακές μηχανές, από την Various. Ένα προϊόν από άριστης ποιότητας χαρτί.    Πλάτος ρολού: 57mm    Μήκος: 25 τρεχούμενα μέτρα</Description>
+		<Description>Θερμική χαρτοταινία ταμειακής της εταιρείας Typotrust με εξωτερική διάμετρο ρολού 50mm και βάρος 48gr/m².   Διαστάσεις Ταινίας:  Εξωτερική Διάμετρος: 50mm Πλάτος: 57mm Μήκος: 24m</Description>
 		<Quantity>1308</Quantity>
 	</product>
 	<product>
 		<ID>7949903</ID>
-		<Barcode>5203358500443</Barcode>
+		<Barcode>5200000500448</Barcode>
 		<Name>Typotrust Θερμική Χαρτοταινία Ταμειακής 1τμχ Π80xΔ80mm με Μήκος 65m</Name>
-		<Product_Link>https://www.skroutz.gr/s/56739213/Various-THermiki-CHartotainia-Tameiakis-P80xD80mm-me-Mikos-65m-48gr-m2-5008080.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/056739/56739213/20241009092715_various_thermiki_chartotainia_tameiakis_p80xd80mm_me_mikos_65m_48gr_m_5008080.jpeg</Image_Link>
+		<Product_Link>https://www.skroutz.gr/s/30254597/Typotrust-50044-THermiki-CHartotainia-Tameiakis-P80xD80mm-me-Mikos-65m-48gr-m2-50044.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/059416/59416452/xlarge_20220426113544_1c9ca380.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.078272632795312</Price>
+		<Price>1.03</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Είδη Ταμείου &gt; Χαρτοταινίες Ταμειακής</Category_Path>
 		<Manufacturer>TYPOTRUST</Manufacturer>
@@ -26136,7 +26119,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.751651199999999</Price>
+		<Price>6.944555519999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26153,7 +26136,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>6.751651199999999</Price>
+		<Price>6.944555519999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26170,7 +26153,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.453694</Price>
+		<Price>11.7809424</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26187,7 +26170,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.453694</Price>
+		<Price>11.7809424</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26204,7 +26187,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.439563999999999</Price>
+		<Price>8.6806944</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26221,7 +26204,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.439563999999999</Price>
+		<Price>8.6806944</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26238,7 +26221,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.05652</Price>
+		<Price>12.400992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26255,7 +26238,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.05652</Price>
+		<Price>12.400992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26272,7 +26255,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.05652</Price>
+		<Price>12.400992</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26290,7 +26273,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>9.645216</Price>
+		<Price>9.920793599999998</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26307,7 +26290,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.590488094444444</Price>
+		<Price>5.588420288888888</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -26324,7 +26307,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>4.590488094444444</Price>
+		<Price>5.588420288888888</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -26394,7 +26377,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.96353125</Price>
+		<Price>21.69994575</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26412,7 +26395,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>17.96353125</Price>
+		<Price>21.69994575</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26429,7 +26412,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.389343</Price>
+		<Price>27.2799318</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Φραπεδιέρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26621,7 +26604,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.5231475</Price>
+		<Price>15.117943662</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26638,7 +26621,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>12.5231475</Price>
+		<Price>15.117943662</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26655,7 +26638,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.08936625</Price>
+		<Price>18.215882937</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket&gt;Ηλεκτρικές Συσκευές &gt; Καφετιέρες Ελληνικού</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -26706,7 +26689,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>8.047662</Price>
+		<Price>8.68</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Μικροσυσκευές Πρωινού &amp; Σνακ &gt; Βραστήρες</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26811,7 +26794,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.969489</Price>
+		<Price>20.46</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Καφετιέρες &gt; Καφετιέρες Φίλτρου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26880,7 +26863,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>46.55951999999999</Price>
+		<Price>49.59586584000001</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26897,7 +26880,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.623808</Price>
+		<Price>19.838346336</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Σόμπες Αλογόνου - Χαλαζία</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26915,7 +26898,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>11.8726776</Price>
+		<Price>12.6469457892</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Αερόθερμα</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26951,7 +26934,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.945658</Price>
+		<Price>16.113554418</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Ηλεκτρικές Κουβέρτες &amp; Υποστρώματα</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -26969,7 +26952,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>24.717819</Price>
+		<Price>26.649339999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Συσκευές Θέρμανσης &gt; Ηλεκτρικές Κουβέρτες &amp; Υποστρώματα</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
