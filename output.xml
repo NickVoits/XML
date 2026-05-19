@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-19 16:49</created_at>
+	<created_at>2026-05-19 16:53</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -2571,6 +2571,7 @@
 		<ID>40081</ID>
 		<Barcode>5200139440967</Barcode>
 		<Name>Αέρι Λευκό Ημίξηρο Ροδίτης/Μοσχοφίλερο σε Πλαστική Φιάλη Pet 500ml με Βιδωτό Καπάκι</Name>
+		<Product_Link>https://imgur.com/xGrot0r</Product_Link>
 		<Image_Link>https://i.imgur.com/xGrot0r.png</Image_Link>
 		<Additional>blob:https://imgur.com/981529e3-8556-4047-a20a-bd3472c85dc8</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2588,6 +2589,7 @@
 		<ID>40082</ID>
 		<Barcode>5200139440974</Barcode>
 		<Name>Αέρι  Ροζέ Ημίξηρο Merlot/Μοσχάτο Τυρνάβου σε Πλαστική Φιάλη Pet 500ml  με Βιδωτό Καπάκι</Name>
+		<Product_Link>https://imgur.com/CIATFEY</Product_Link>
 		<Image_Link>https://i.imgur.com/CIATFEY.png</Image_Link>
 		<Additional>blob:https://imgur.com/981529e3-8556-4047-a20a-bd3472c85dc8</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2605,6 +2607,7 @@
 		<ID>40083</ID>
 		<Barcode>5200139440998</Barcode>
 		<Name>Αέρι ο Ερυθρό Ημίξηρο Αγιωργίτικο σε Πλαστική Φιάλη Pet 500ml  με Βιδωτό Καπάκι</Name>
+		<Product_Link>https://imgur.com/0h6qvIs</Product_Link>
 		<Image_Link>https://i.imgur.com/0h6qvIs.png</Image_Link>
 		<Additional>blob:https://imgur.com/981529e3-8556-4047-a20a-bd3472c85dc8</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2622,6 +2625,7 @@
 		<ID>400100101</ID>
 		<Barcode>5200139441001</Barcode>
 		<Name>7 Κούπες Λευκός Ξηρός Ροδίτης σε Πλαστική Φιάλη Pet 1500ml με Βιδωτό Καπάκι</Name>
+		<Product_Link>https://imgur.com/EMKWbcF</Product_Link>
 		<Image_Link>https://i.imgur.com/EMKWbcF.png</Image_Link>
 		<Additional>blob:https://imgur.com/b4278fc4-9fe8-4d5a-bf0e-6412e5434826</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -2639,6 +2643,7 @@
 		<ID>400100104</ID>
 		<Barcode>5200139441025</Barcode>
 		<Name>7 Κούπες Ροζέ Ημίγλυκος Merlot σε Πλαστική Φιάλη Pet 1500ml με Βιδωτό Καπάκι</Name>
+		<Product_Link>https://imgur.com/qOBdfN3</Product_Link>
 		<Image_Link>https://i.imgur.com/qOBdfN3.png</Image_Link>
 		<Additional>blob:https://imgur.com/b4278fc4-9fe8-4d5a-bf0e-6412e5434826</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
