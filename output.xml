@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-05-20 17:05</created_at>
+	<created_at>2026-05-20 17:10</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -1287,24 +1287,6 @@
 		<Weight>2 kg</Weight>
 		<Description>Ετοιμάσου για το ροζ φαινόμενο, Bίκος Pink Grapefruit, το mixer που ξυπνά τις αισθήσεις με τη γεύση, το άρωμα και το ιδιαίτερο χρώμα του. Απόλαυσε την ασύγκριτη γεύση του είτε ως ένα ξεχωριστό αναψυκτικό, είτε ως το πιο δημιουργικό και εντυπωσιακό mixer στα cocktails σου.</Description>
 		<Quantity>808</Quantity>
-	</product>
-	<product>
-		<ID>13038</ID>
-		<Barcode>5201946910483</Barcode>
-		<Name>Βίκος Tonic Μπουκάλι 6x330ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/37678072/Vikos-Tonic-Mpoukali-6x330ml.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/037678/37678072/20220818115824_vikos_tonic_mpoukali_6x330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>13</VAT>
-		<Price>3.10290898176</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Αναψυκτικά</Category_Path>
-		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
-		<MPN>1235</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Ανακάλυψε το Βίκος Tonic με τη δροσιστική φρεσκάδα του φυσικού μεταλλικού νερού και την προσθήκη φυσικού διοξειδίου πηγής. Το πλούσιο άρωμα κινίνης και η διακριτική, ισορροπημένη του γλυκύτητα απογειώνουν τη γεύση, ώστε να το απολαμβάνεις στο αγαπημένο σου ποτό ή και σκέτο.</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>14021</ID>
@@ -11074,7 +11056,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11092,7 +11074,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11110,7 +11092,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11128,7 +11110,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.55926965625</Price>
+		<Price>3.986382015</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11147,7 +11129,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -11166,7 +11148,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -11185,7 +11167,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -11204,7 +11186,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.562351275</Price>
+		<Price>3.9937779</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>Practic</Manufacturer>
@@ -11222,7 +11204,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11240,7 +11222,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11258,7 +11240,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11276,7 +11258,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>3.7287586875</Price>
+		<Price>4.176209729999999</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11294,7 +11276,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>5.3106563125</Price>
+		<Price>5.94793507</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11312,7 +11294,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>5.3106563125</Price>
+		<Price>5.94793507</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11330,7 +11312,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>6</VAT>
-		<Price>5.3106563125</Price>
+		<Price>5.94793507</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -11348,7 +11330,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.3955103999999999</Price>
+		<Price>0.45236502</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Υγεία - Ομορφιά &gt; Φαρμακευτικά &gt; Γάντια μιας Χρήσης</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -15013,7 +14995,7 @@
 	<product>
 		<ID>75300</ID>
 		<Barcode>4270001094902</Barcode>
-		<Name>ΚΑΡΒΟΥΝΟ ΕΤΟΙΜΟ ΓΙΑ ΑΝΑΜΜΑ 1 ΚΙΛ</Name>
+		<Name>Κάρβουνα Έτοιμα για Άναμα σε συσκευασία 1Kg (περιλαμβάνεται προσάναμμα)</Name>
 		<Product_Link>https://www.skroutz.gr/s/46407802/Karvouna-PSisimatos.html</Product_Link>
 		<Image_Link>https://cdn02.plentymarkets.com/65vhg2on0lps/item/images/182092/middle/16800797-Holzkohlebox-Zuend-mich-an-002-print-Fogra39-jpg.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
