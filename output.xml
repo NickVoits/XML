@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-04 11:47</created_at>
+	<created_at>2026-06-04 12:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -2002,7 +2002,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>3094</Quantity>
+		<Quantity>3076</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -2036,7 +2036,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1306</MPN>
 		<Description>Φυσικό μεταλλικό νερό Τεμάχια : 6 Όγκος Τεμαχίου : 1.5lt  Οδηγίες Φύλαξης **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>1867</Quantity>
+		<Quantity>1846</Quantity>
 	</product>
 	<product>
 		<ID>20301</ID>
@@ -2799,7 +2799,7 @@
 		<MPN>0043</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Στον Ημίγλυκο αυτό ποικιλιακό οίνο του Μοσχάτου Μαύρου Τυρνάβου τα αζύμωτα σάκχαρα του σταφυλιού που περιέχονται αναδεικνύουν τα πληθωρικά αρώματα τριαντάφυλλου και τη φρουτώδη επίγευση.</Description>
-		<Quantity>27</Quantity>
+		<Quantity>26</Quantity>
 	</product>
 	<product>
 		<ID>40204</ID>
