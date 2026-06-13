@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-13 11:05</created_at>
+	<created_at>2026-06-13 12:05</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -141,7 +141,7 @@
 		<MPN>1239</MPN>
 		<Weight>0.5 kg</Weight>
 		<Description>Μεξικάνική μπύρα lager που καταναλώνεται απευθείας από το μπουκάλι και συνοδεύεται πάντα από μία φέτα lime στο λαιμό του μπουκαλιού για να προσθέσει οξύτητα και γεύση. Έχει ξανθό χρώμα, ελαφρύ σώμα και απαλό άρωμα φρούτων με νότες λυκίσκου και δροσιστική, ελαφριά γεύση με αρωματική επίγευση.</Description>
-		<Quantity>1175</Quantity>
+		<Quantity>1169</Quantity>
 	</product>
 	<product>
 		<ID>33007</ID>
@@ -1447,7 +1447,7 @@
 		<MPN>0419</MPN>
 		<Weight>0.3 kg</Weight>
 		<Description>Το Red Bull Energy Drink είναι ένα ενεργειακό ποτό με ειδική σύνθεση του περιέχει υψηλής ποιότητας συστατικά όπως καφεΐνη, ταυρίνη, βιταμίνες συμπλέγματος Β, σάκχαρα και αλπικό νερό.</Description>
-		<Quantity>1677</Quantity>
+		<Quantity>1605</Quantity>
 	</product>
 	<product>
 		<ID>15101</ID>
@@ -5950,7 +5950,7 @@
 		<Manufacturer>FAMOUS GROUSE</Manufacturer>
 		<MPN>1492</MPN>
 		<Description>The Famous Grouse, το φημισμένο ουίσκι πήρε το όνομά του από την κόκκινη πέρδικα, το σύμβολο του National Game Bird της Σκωτίας. Υπέροχο, με απαλό άρωμα λουλουδιών στη μύτη και δημητριακά που εργάζονται σε τέλεια αρμονία. και στην πραγματικότητα έχει αρκετά ελαφρύ σώμα. Φρουτώδες, με ένα άγγιγμα του καπνού.</Description>
-		<Quantity>89</Quantity>
+		<Quantity>86</Quantity>
 	</product>
 	<product>
 		<ID>55004</ID>
