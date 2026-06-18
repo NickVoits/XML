@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-18 16:05</created_at>
+	<created_at>2026-06-18 16:54</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -570,7 +570,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1968</Quantity>
+		<Quantity>1967</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -1572,7 +1572,7 @@
 		<MPN>0440</MPN>
 		<Weight>0.2 kg</Weight>
 		<Description>Χυμός μήλο, πορτοκάλι και ροδάκινο της εταιρείας AGROS που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>3992</Quantity>
+		<Quantity>3792</Quantity>
 	</product>
 	<product>
 		<ID>17055</ID>
@@ -2002,7 +2002,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1305</MPN>
 		<Description>Συστατικά: Φυσικό Μεταλλικό Νερό.  Συνθήκες Διατήρησης: Διατηρείται σε ξηρό και δροσερό μέρος.  Ειδικά Χαρακτηριστικά Προϊόντος:      Κατιόντα (mg/l): Ca² + 100     Mg 2+ 1,83     Na + 2,82     K + 0,52     NH 4 +     Ανιόντα (mg/l): HCO 3 - 281     Cl - 8,26     SO 4 2- 12,9     NO 3 - 8,65     NO 2 -     pH 7,4     Αγωγιμότητα: 478μS/cm (25°C)     Στερεό Υπόλειμμα: 296mg/I     Ολικά Διαλυμένα Στερεά: 296mg/I     Σκληρότητα: 257mg/l (ως CaCO 3)  Στοιχεία Προμηθευτή: Ηπειρωτική Βιομηχανία Εμφιαλώσεων ΑΕ, Χατζή Πελλερέν 2, ΤΚ: 45221 Ιωάννινα, Τηλ: 2651061951</Description>
-		<Quantity>769</Quantity>
+		<Quantity>768</Quantity>
 	</product>
 	<product>
 		<ID>20202</ID>
@@ -5039,7 +5039,7 @@
 	<product>
 		<ID>480100101</ID>
 		<Barcode>3760189782162</Barcode>
-		<Name>Divin Origine Λευκό Ξηρό με 0.0% Αλκοόλ 750ml Sauvignon Blanc</Name>
+		<Name>Divin Origine Λευκό Ξηρό Χωρίς Αλκοόλ 750ml Sauvignon Blanc</Name>
 		<Product_Link>https://www.divinnolow.com/products/divin-sauvignon-blush-blanc-0-0/</Product_Link>
 		<Image_Link>https://www.bonnebouffe.co.uk/wp-content/uploads/2025/05/852bba6f-ff31-4574-8a76-bf3739c0348e.png</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5056,7 +5056,7 @@
 	<product>
 		<ID>480100201</ID>
 		<Barcode>3760189782414</Barcode>
-		<Name>Divin Origine Ροζέ Ξηρό με 0.0% Αλκοόλ 750ml Blend</Name>
+		<Name>Divin Origine Ροζέ Ξηρό Χωρίς Αλκοόλ 750ml Blend</Name>
 		<Product_Link>https://www.divinnolow.com/products/divin-rose-0-0/</Product_Link>
 		<Image_Link>https://cdn11.bigcommerce.com/s-oyi93ews/images/stencil/original/products/19234/14965/2024-08-19-15.11.20__35097.1724175089.png?c=2</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5073,7 +5073,7 @@
 	<product>
 		<ID>480100301</ID>
 		<Barcode>3760189782421</Barcode>
-		<Name>Divin Origine Ερυθρό Ξηρό με 0.0% Αλκοόλ 750ml Pinot Noir</Name>
+		<Name>Divin Origine Ερυθρό Ξηρό Χωρίς Αλκοόλ 750ml Pinot Noir</Name>
 		<Product_Link>https://www.divinnolow.com/products/divin-pinot-noir/</Product_Link>
 		<Image_Link>https://www.tresorsdebacchus.com/media/catalog/product/cache/2d50c3d080cc33a24d9d72401818c147/d/i/divin_origine_pinot_noir_divin_nolow_nm_frontbs.png</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
@@ -5085,6 +5085,40 @@
 		<Manufacturer>Divin</Manufacturer>
 		<MPN>4801003-01</MPN>
 		<Description>Ένα λεπτό αλλά εκφραστικό αρωματικό προφίλ με 0% Αλκοόλ, που αναδεικνύει τις κλασικές νότες Pinot Noir της κοιλάδας του Λίγηρα - κόκκινα φρούτα όπως κόκκινη σταφίδα, φράουλα, κεράσι και μαύρη σταφίδα - που συμπληρώνονται από πιο φρέσκες νότες génépi, μέντας και φύλλων ντομάτας. Το μπουκέτο ενισχύεται από διακριτικές νότες καραμέλας και βανίλιας. Αυτά τα ίδια αρώματα διαπερνούν τον ουρανίσκο, όπου το κρασί αποκαλύπτει μια μέτρια δομή, δροσιστική οξύτητα και ζωντανές αλλά καλά ενσωματωμένες τανίνες.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>480101101</ID>
+		<Barcode>4049366004815</Barcode>
+		<Name>The Bench Λευκό Ξηρό Χωρίς Αλκοόλ 750ml Sauvignon Blanc</Name>
+		<Product_Link>https://www.mvauron.co.nz/sauvignon-blanc-alcohol-free-b001880?srsltid=AfmBOoq5lNFigfcZ7yBvdXPen_jm15OiNFBS0trN5KDRJsMopFAAHX2R</Product_Link>
+		<Image_Link>https://www.mvauron.co.nz/content/products/sauvignon-blanc-alcohol-free-b001880.jpg?width=720</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>The Bench</Manufacturer>
+		<MPN>ΚΡ-480101101</MPN>
+		<Description>Απολαύστε όλη τη φρεσκάδα και τον αρωματικό χαρακτήρα ενός Sauvignon Blanc, χωρίς το αλκοόλ. Το Sauvignon Blanc Alcohol Free αποτελεί μια εξαιρετική επιλογή για όσους επιθυμούν να απολαμβάνουν τη γευστική εμπειρία του κρασιού σε κάθε περίσταση, διατηρώντας παράλληλα έναν πιο ισορροπημένο τρόπο ζωής.  Στο ποτήρι παρουσιάζει λαμπερό αχυροκίτρινο χρώμα με διακριτικές πρασινωπές ανταύγειες. Η μύτη είναι ιδιαίτερα εκφραστική, με αρώματα λευκών ανθέων, ανανά, τροπικών φρούτων και ντελικάτες ορυκτές νότες που χαρίζουν φρεσκάδα και κομψότητα. Στο στόμα είναι ευχάριστα στρογγυλό και ισορροπημένο, με ζωηρή οξύτητα και δροσιστικές νότες λεμονιού και γκρέιπφρουτ που οδηγούν σε καθαρή και απολαυστική επίγευση.  Με περιεκτικότητα αλκοόλης μόλις 0,1%, προσφέρει μια ελαφριά και σύγχρονη εναλλακτική πρόταση, διατηρώντας τα βασικά χαρακτηριστικά της ποικιλίας Sauvignon Blanc. Είναι ιδανικό για όσους αποφεύγουν το αλκοόλ, για επαγγελματικές ή κοινωνικές εκδηλώσεις, καθώς και για καθημερινή κατανάλωση χωρίς συμβιβασμούς στη γεύση.  Συνδυάζεται εξαιρετικά με θαλασσινά, ψάρια, λευκά κρέατα, πράσινες σαλάτες και ποικιλίες τυριών, ενώ σερβίρεται ιδανικά καλά παγωμένο στους 8-10°C.  Χαρακτηριστικά  Τύπος: Λευκός οίνος χωρίς αλκοόλ Ποικιλία: Sauvignon Blanc Αλκοόλη: 0,1% vol Αρώματα: Λευκά άνθη, ανανάς, τροπικά φρούτα, ορυκτές νότες Γεύση: Ισορροπημένη, με νότες λεμονιού και γκρέιπφρουτ Ιδανικοί συνδυασμοί: Θαλασσινά, λευκά κρέατα, σαλάτες, τυριά Σερβίρισμα: 8-10°C  Μια δροσερή και εκλεπτυσμένη επιλογή για όσους θέλουν να απολαμβάνουν το κρασί χωρίς αλκοόλ, χωρίς να στερούνται τον χαρακτήρα και την απόλαυση ενός ποιοτικού Sauvignon Blanc.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>480101103</ID>
+		<Barcode>4049366004822</Barcode>
+		<Name>Divin Origine Ερυθρό Ξηρό Χωρίς Αλκοόλ 750ml Cabernet Sauvignon</Name>
+		<Product_Link>https://www.winerack.com.hk/en/the-bench-alcohol-free-cabernet-sauvignon-italy.html?srsltid=AfmBOoqAXW3dcE1yEsUt5NqH748qOqVBZmG9dckGNW6T5IUcm43rhmvY</Product_Link>
+		<Image_Link>https://www.winerack.com.hk/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/_/t/_t_h_the_bench_alcohol_free_cabernet_sauvignon_italy.jpg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>6.57</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
+		<Manufacturer>The Bench</Manufacturer>
+		<MPN>ΚΡ-480101103</MPN>
+		<Description>Απολαύστε τον πλούσιο χαρακτήρα ενός Cabernet Sauvignon χωρίς τους περιορισμούς του αλκοόλ. Το The Bench Alcohol Free Cabernet Sauvignon αποτελεί μια εξαιρετική επιλογή για όσους επιθυμούν να απολαμβάνουν τη γευστική εμπειρία ενός ερυθρού κρασιού, διατηρώντας παράλληλα έναν πιο ισορροπημένο τρόπο ζωής.  Στο ποτήρι ξεχωρίζει για το βαθύ, έντονο χρώμα του με αποχρώσεις που κυμαίνονται από σκούρο γρανά έως μωβ. Η μύτη είναι πλούσια και εκφραστική, με αρώματα κόκκινων και μαύρων φρούτων, κυρίαρχες νότες μαύρου φραγκοστάφυλου και διακριτικές πινελιές μπαχαρικών που αναδεικνύουν τον χαρακτηριστικό χαρακτήρα της ποικιλίας Cabernet Sauvignon.  Στο στόμα παρουσιάζει ευχάριστη δομή, βελούδινες τανίνες και ισορροπημένο σώμα, με μακρά και επίμονη επίγευση που θυμίζει ώριμα κόκκινα φρούτα και ήπιες πικάντικες νότες. Παρά την απουσία αλκοόλ, διατηρεί την αίσθηση και την πολυπλοκότητα ενός ποιοτικού ερυθρού κρασιού.  Παράγεται από σταφύλια Cabernet Sauvignon και έχει περιεκτικότητα αλκοόλης μικρότερη από 0,5%, προσφέροντας μια ιδανική εναλλακτική λύση για όσους αποφεύγουν το αλκοόλ χωρίς να στερούνται την απόλαυση του κρασιού.  Συνδυάζεται εξαιρετικά με κόκκινα κρέατα, ψητά σχάρας, μαγειρευτά, πλούσια πιάτα με σάλτσες, μανιτάρια και ώριμα τυριά. Σερβίρεται ιδανικά στους 16-18°C για να αναδείξει πλήρως τα αρώματα και τη γευστική του προσωπικότητα.  Η πρακτική φιάλη με βιδωτό καπάκι επιτρέπει εύκολο άνοιγμα χωρίς τη χρήση ανοιχτηριού, προσφέροντας άνεση και ευκολία σε κάθε περίσταση. Είναι ιδανικό για κοινωνικές εκδηλώσεις, επαγγελματικά γεύματα, χώρους φιλοξενίας, ξενοδοχεία και καταλύματα τύπου Airbnb που επιθυμούν να προσφέρουν μια ποιοτική επιλογή χωρίς αλκοόλ στους επισκέπτες τους.  Χαρακτηριστικά  Τύπος: Ερυθρός οίνος χωρίς αλκοόλ Ποικιλία: Cabernet Sauvignon Αλκοόλη: &lt;0,5% vol Χρώμα: Βαθύ γρανά με μωβ ανταύγειες Αρώματα: Μαύρο φραγκοστάφυλο, κόκκινα φρούτα, μπαχαρικά Γεύση: Ισορροπημένη, με απαλές τανίνες και μακρά επίγευση Ιδανικοί συνδυασμοί: Κόκκινα κρέατα, ψητά, μαγειρευτά, μανιτάρια, ώριμα τυριά Θερμοκρασία σερβιρίσματος: 16-18°C Πώμα: Βιδωτό καπάκι για εύκολο άνοιγμα χωρίς ανοιχτήρι  Μια σύγχρονη και απολαυστική πρόταση για όσους θέλουν να απολαμβάνουν τον αυθεντικό χαρακτήρα ενός Cabernet Sauvignon, χωρίς αλκοόλ και χωρίς συμβιβασμούς στη γεύση.</Description>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -6986,7 +7020,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.741818125</Price>
+		<Price>15.07</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Ποτά</Category_Path>
 		<Manufacturer>TANQUERAY</Manufacturer>
@@ -8729,7 +8763,7 @@
 		<Manufacturer>BABYLINO</Manufacturer>
 		<MPN>1046</MPN>
 		<Description>Οι βρεφικές πάνες Babylino Sensitive, χάρη στην ενισχυμένη απορροφητικότητά τους και τα πλαϊνά φράγματα ασφαλείας, προστατεύουν από ανεπιθύμητες διαρροές και προσφέρουν στο μωράκι σας τη στεγνότητα που ζητάτε από μία πάνα. Βραβείο Ασφαλείας από την Ευρωπαϊκή Επιτροπή  Οι μόνες βρεφικές πάνες με Βραβείο Ασφάλειας Προϊόντος από την Ευρωπαϊκή Επιτροπή και οι 1ες στην Ευρώπη που πιστοποιήθηκαν με τη διεθνή πιστοποίηση Oeko-Tex® Standard 100 για την απουσία πάνω από 200 βλαβερών ουσιών. Οι Babylino Sensitive Cotton Soft έχουν ελεγχθεί με βάση τα αυστηρότερα κριτήρια, που αντιστοιχούν σε προϊόντα που προορίζονται για βρέφη 0-3 ετών. Δερματολογικά Ελεγμένες  Κλινικά ελεγμένες με άριστα αποτελέσματα, μετά από έλεγχο 4 εβδομάδων σε βρέφη υπό την επίβλεψη δερματολόγων και παιδιάτρων στο Δερματολογικό εργαστήριο Dermatest (Γερμανία). Με ειδική τεχνολογία Comfi-Fit, που προσφέρει άνεση σε κάθε κίνηση του μωρού και άριστη εφαρμογή στο σώμα. Τεχνολογία Dry Matrix  H απορροφητικότητα εξασφαλίζεται από τη νέα τεχνολογία Dry Matrix που έχει ενσωματωθεί στον πυρήνα των Babylino Sensitive. Πρόκειται για ένα πλέγμα φυτικών ινών, που συγκρατεί την υγρασία σταθερή στο εσωτερικό.      Δεν περιέχουν λάτεξ, λοσιόν, παραβένες, ΕU 26 αλλεργιογόνα.     Συνιστώνται από την Ελληνική Εταιρία Παιδιατρικής Δερματολογίας.  Οδηγίες χρήσης  Οδηγίες Χρήσης Πάνας Μωρού:      Βήμα 1: Ανοίξτε μια νέα καθαρή πάνα και τοποθετήστε το μωρό σας απαλά πάνω της, καλύπτοντας με το σώμα του/της το πίσω μισό της βρεφικής πάνας.     Βήμα 2: Τεντώστε καλά το μπροστινό μισό της πάνας και εφαρμόστε έτσι ώστε να αγκαλιάσετε την κοιλιά του μωρού σας.     Βήμα 3: Κλείστε την πάνα στερεώνοντας τις ταινίες τοποθέτησης στο μπροστά επάνω μέρος της.     Βήμα 4: Ρυθμίστε τα ελαστικά γύρω από τα ποδαράκια του μωρού για καλύτερη εφαρμογή και προστασία από διαρροές. Η πάνα πρέπει να αγκαλιάζει το μωρό απαλά ώστε να προστατεύεται χωρίς να είναι πολύ σφιχτή.  Ειδικές προειδοποιήσεις και προφυλάξεις  Προϊόν μίας χρήσης. Μην επαναχρησιμοποιείτε.  Μην απορρίπτετε στην τουαλέτα. Διατηρείτε τη συσκευασία σε μέρος σκιερό και δροσερό.  Αποφύγετε την υπερβολική χρήση βρεφικών καλλυντικών με ελαιώδη σύσταση, καθώς ενδέχεται να προκαλέσουν διαχωρισμό των στρωμάτων της πάνας.  Πνιγμός μπορεί να επέλθει από οτιδήποτε βάλουν στο στόμα τους τα παιδιά. Για να αποφύγετε τον κίνδυνο πνιγμού, μην επιτρέπετε στο παιδί να σκίσει την πάνα. Πετάξτε μακριά κάθε σκισμένη πάνα.  Όπως τα περισσότερα είδη ένδυσης, έτσι και οι πάνες μιας χρήσεως μπορεί να καούν αν εκτεθούν σε φλόγες. Να κρατάτε πάντα το παιδί σας μακριά από οποιαδήποτε πηγή φλόγας.  Για την αποφυγή ασφυξίας, κρατήστε τις πλαστικές σακούλες μακριά από τα παιδιά.  Μετά τη χρήση της πάνας, τοποθετείστε τη μέσα στον κάδο απορριμάτων ή μέσα σε αρωματική σακούλα και σε ειδικό κάδο, όσο παραμένει στο σπίτι, για τον έλεγχο των οσμών.  Διατηρείστε τη σακούλα απορριμάτων μακριά από παιδιά. Μην απορρίπτετε τη χρησιμοποιημένη πάνα στην τουαλέτα, στην ύπαιθρο, στις παραλίες ή οπουδήποτε αλλού στο περιβάλλον.</Description>
-		<Quantity>54</Quantity>
+		<Quantity>52</Quantity>
 	</product>
 	<product>
 		<ID>61106</ID>
@@ -8746,7 +8780,7 @@
 		<Manufacturer>BABYLINO</Manufacturer>
 		<MPN>1047</MPN>
 		<Description>Οι βρεφικές πάνες Babylino Sensitive, χάρη στην ενισχυμένη απορροφητικότητά τους και τα πλαϊνά φράγματα ασφαλείας, προστατεύουν από ανεπιθύμητες διαρροές και προσφέρουν στο μωράκι σας τη στεγνότητα που ζητάτε από μία πάνα. Βραβείο Ασφαλείας από την Ευρωπαϊκή Επιτροπή  Οι μόνες βρεφικές πάνες με Βραβείο Ασφάλειας Προϊόντος από την Ευρωπαϊκή Επιτροπή και οι 1ες στην Ευρώπη που πιστοποιήθηκαν με τη διεθνή πιστοποίηση Oeko-Tex® Standard 100 για την απουσία πάνω από 200 βλαβερών ουσιών. Οι Babylino Sensitive Cotton Soft έχουν ελεγχθεί με βάση τα αυστηρότερα κριτήρια, που αντιστοιχούν σε προϊόντα που προορίζονται για βρέφη 0-3 ετών. Δερματολογικά Ελεγμένες  Κλινικά ελεγμένες με άριστα αποτελέσματα, μετά από έλεγχο 4 εβδομάδων σε βρέφη υπό την επίβλεψη δερματολόγων και παιδιάτρων στο Δερματολογικό εργαστήριο Dermatest (Γερμανία). Με ειδική τεχνολογία Comfi-Fit, που προσφέρει άνεση σε κάθε κίνηση του μωρού και άριστη εφαρμογή στο σώμα. Τεχνολογία Dry Matrix  H απορροφητικότητα εξασφαλίζεται από τη νέα τεχνολογία Dry Matrix που έχει ενσωματωθεί στον πυρήνα των Babylino Sensitive. Πρόκειται για ένα πλέγμα φυτικών ινών, που συγκρατεί την υγρασία σταθερή στο εσωτερικό.      Δεν περιέχουν λάτεξ, λοσιόν, παραβένες, ΕU 26 αλλεργιογόνα.     Συνιστώνται από την Ελληνική Εταιρία Παιδιατρικής Δερματολογίας.  Οδηγίες χρήσης  Οδηγίες Χρήσης Πάνας Μωρού:      Βήμα 1: Ανοίξτε μια νέα καθαρή πάνα και τοποθετήστε το μωρό σας απαλά πάνω της, καλύπτοντας με το σώμα του/της το πίσω μισό της βρεφικής πάνας.     Βήμα 2: Τεντώστε καλά το μπροστινό μισό της πάνας και εφαρμόστε έτσι ώστε να αγκαλιάσετε την κοιλιά του μωρού σας.     Βήμα 3: Κλείστε την πάνα στερεώνοντας τις ταινίες τοποθέτησης στο μπροστά επάνω μέρος της.     Βήμα 4: Ρυθμίστε τα ελαστικά γύρω από τα ποδαράκια του μωρού για καλύτερη εφαρμογή και προστασία από διαρροές. Η πάνα πρέπει να αγκαλιάζει το μωρό απαλά ώστε να προστατεύεται χωρίς να είναι πολύ σφιχτή.  Ειδικές προειδοποιήσεις και προφυλάξεις  Προϊόν μίας χρήσης. Μην επαναχρησιμοποιείτε.  Μην απορρίπτετε στην τουαλέτα. Διατηρείτε τη συσκευασία σε μέρος σκιερό και δροσερό.  Αποφύγετε την υπερβολική χρήση βρεφικών καλλυντικών με ελαιώδη σύσταση, καθώς ενδέχεται να προκαλέσουν διαχωρισμό των στρωμάτων της πάνας.  Πνιγμός μπορεί να επέλθει από οτιδήποτε βάλουν στο στόμα τους τα παιδιά. Για να αποφύγετε τον κίνδυνο πνιγμού, μην επιτρέπετε στο παιδί να σκίσει την πάνα. Πετάξτε μακριά κάθε σκισμένη πάνα.  Όπως τα περισσότερα είδη ένδυσης, έτσι και οι πάνες μιας χρήσεως μπορεί να καούν αν εκτεθούν σε φλόγες. Να κρατάτε πάντα το παιδί σας μακριά από οποιαδήποτε πηγή φλόγας.  Για την αποφυγή ασφυξίας, κρατήστε τις πλαστικές σακούλες μακριά από τα παιδιά.  Μετά τη χρήση της πάνας, τοποθετείστε τη μέσα στον κάδο απορριμάτων ή μέσα σε αρωματική σακούλα και σε ειδικό κάδο, όσο παραμένει στο σπίτι, για τον έλεγχο των οσμών.  Διατηρείστε τη σακούλα απορριμάτων μακριά από παιδιά. Μην απορρίπτετε τη χρησιμοποιημένη πάνα στην τουαλέτα, στην ύπαιθρο, στις παραλίες ή οπουδήποτε αλλού στο περιβάλλον.</Description>
-		<Quantity>49</Quantity>
+		<Quantity>38</Quantity>
 	</product>
 	<product>
 		<ID>61107</ID>
@@ -8763,7 +8797,7 @@
 		<Manufacturer>BABYLINO</Manufacturer>
 		<MPN>1048</MPN>
 		<Description>Οι πάνες-βρακάκι Babylino Sensitive Pants, χαρίζουν στο μωρό σας εξαιρετική εφαρμογή και απόλυτη ελευθερία κινήσεων. Η νέα τεχνολογία “all around elastic” προσφέρει ελαστικότητα περιμετρικά στη μεσούλα και στα ποδαράκια, αγκαλιάζει το σωματάκι του μωρού σε κάθε κίνηση και συγκρατεί την πάνα-βρακάκι σταθερή, χωρίς να «κρεμάει».</Description>
-		<Quantity>97</Quantity>
+		<Quantity>95</Quantity>
 	</product>
 	<product>
 		<ID>611100101</ID>
@@ -9123,7 +9157,7 @@
 		<Manufacturer>NIVEA</Manufacturer>
 		<MPN>1055</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Διακριτικό Άρωμα•48 Ώρες Προστασία•Δερματολογικά Ελεγμένο•Σύνθεση Χωρίς Αιθυλική ΑλκοόληΑποσμητικό σώματος πρωτοποριακής σύνθεσης με πολύτιμα εκχυλίσματα μαργαριταριού για ομοιόμορφο χρωματικό τόνο και απαλή επιδερμίδα, αποτελεσματικό στην προστασία από τον ιδρώτα και την κακοσμία.</Description>
-		<Quantity>151</Quantity>
+		<Quantity>150</Quantity>
 	</product>
 	<product>
 		<ID>63021</ID>
@@ -9684,7 +9718,7 @@
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>1249</MPN>
 		<Description>Το κρεμοσάπουνο Natura Vanilla Caramel με φυτικό εκχύλισμα καλέντουλας, λειτουργεί σαν ένα φυσικό μαλακτικό για τα χέρια, ενώ παράλληλα τα προστατεύει από ερεθισμούς.</Description>
-		<Quantity>107</Quantity>
+		<Quantity>106</Quantity>
 	</product>
 	<product>
 		<ID>65052</ID>
@@ -9701,7 +9735,7 @@
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>1250</MPN>
 		<Description>Υγρό κρεμοσάπουνο της Papoutsanis, σχεδιασμένο για τον καθαρισμό και την φροντίδα των χεριών, απομακρύνει τους καθημερινούς ρύπους και τυχόν δυσάρεστες μυρωδιές.Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει ωραίο άρωμα.</Description>
-		<Quantity>78</Quantity>
+		<Quantity>77</Quantity>
 	</product>
 	<product>
 		<ID>65053</ID>
@@ -9838,7 +9872,7 @@
 		<Manufacturer>PAPOUTSANIS</Manufacturer>
 		<MPN>1015</MPN>
 		<Description>Σαπούνι της Papoutsanis με καθαριστική δράση που διασφαλίζει τη σωστή υγιεινή της επιδερμίδας.</Description>
-		<Quantity>16</Quantity>
+		<Quantity>15</Quantity>
 	</product>
 	<product>
 		<ID>65522</ID>
@@ -11241,7 +11275,7 @@
 		<Manufacturer>PROMITHEAS</Manufacturer>
 		<MPN>PS.XY.3PLY.90G.10</MPN>
 		<Description>Το PRO SOFT είναι ένα μαλακό χαρτί υγείας πολλαπλών στρωμάτων, κατάλληλο για καθημερινή χρήση. Η ποιότητά του το καθιστά ιδανικό για απαλή αίσθηση και αποτελεσματικό καθαρισμό. Με την εξαιρετική απορροφητικότητά του, προσφέρει άνεση και προστασία σε κάθε χρήση.</Description>
-		<Quantity>8348</Quantity>
+		<Quantity>8347</Quantity>
 	</product>
 	<product>
 		<ID>70011</ID>
@@ -11619,7 +11653,7 @@
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1091</MPN>
 		<Description>Μωρομάντηλα ασφαλή για τον καθαρισμό και την αποφυγή των ερεθισμών της ευαίσθητης βρεφικής επιδερμίδας. Προσφέρουν φυσική φροντίδα και μια αίσθηση φρεσκάδας, ιδανικά για την καθημερινή περιποίηση από την 1η μέρα. Μπορείτε να τα έχετε μαζί σας στη βόλτα ή την εκδρομή προσφέροντας άμεση φρεσκάδα στο μωρό σας αλλά και σε εσάς, χάρη στην πρακτική τους συσκευασία.</Description>
-		<Quantity>432</Quantity>
+		<Quantity>431</Quantity>
 	</product>
 	<product>
 		<ID>70421</ID>
@@ -11883,7 +11917,7 @@
 		<MPN>0690</MPN>
 		<Weight>0.5kg</Weight>
 		<Description>Το απορρυπαντικό ρούχων σε σκόνη της Tide με άρωμα lenor scent touch, διαλύεται σε ζεστό νερό και χρησιμοποιείται για λεκέδες, όπως βρωμιά, λάσπη ή γρασίδι. Η εφαρμογή του απευθείας πάνω στους λεκέδες πριν από την πλύση δεν συνιστάται. Για πλύσιμο στο χέρι διαλύστε σε καθαρό νερό και στη συνέχεια προσθέστε τα ρούχα, διότι η σκόνη δεν διαλύεται επαρκώς σε θερμοκρασίες κάτω των 30°C.</Description>
-		<Quantity>641</Quantity>
+		<Quantity>639</Quantity>
 	</product>
 	<product>
 		<ID>71103</ID>
@@ -12060,7 +12094,7 @@
 		<Manufacturer>ARIEL</Manufacturer>
 		<MPN>1098</MPN>
 		<Description>Απίστευτη καθαριστική δύναμη, σε μια μικρή κάψουλα. Οι κάψουλες πλυντηρίου Ariel Allin1 PODS Color διαθέτουν ένα μοναδικό σχεδιασμό με πολλά τμήματα, που διατηρούν τα συστατικά τους σταθερά και ξεχωριστά μέχρι να ξεκινήσει η διαδικασία της πλύσης, προσφέροντάς σας μια υπερσυμπυκνωμένη καθαριστική δύναμη.</Description>
-		<Quantity>102</Quantity>
+		<Quantity>101</Quantity>
 	</product>
 	<product>
 		<ID>71291</ID>
@@ -12572,7 +12606,7 @@
 		<Manufacturer>BREF</Manufacturer>
 		<MPN>1113</MPN>
 		<Description>Με σύνθεση τεσσάρων λειτουργιών, το Bref Power Activ Natura Pine αποτρέπει τον σχηματισμό αλάτων, παρέχει καθαριστικό αφρό, έχει σύστημα ενεργής προστασίας και προσφέρει περισσότερη φρεσκάδα.</Description>
-		<Quantity>315</Quantity>
+		<Quantity>314</Quantity>
 	</product>
 	<product>
 		<ID>72252</ID>
@@ -12725,7 +12759,7 @@
 		<Manufacturer>AJAX</Manufacturer>
 		<MPN>1114</MPN>
 		<Description>Βασικά χαρακτηριστικά:•Καθαριστικό Τζαμιών•Για Γυάλινες &amp; Λείες Επιφάνειες•Απομακρύνει Βρομιές &amp; Σκόνη•Υγρό Σπρέι</Description>
-		<Quantity>911</Quantity>
+		<Quantity>910</Quantity>
 	</product>
 	<product>
 		<ID>72302</ID>
@@ -12759,7 +12793,7 @@
 		<Manufacturer>AJAX</Manufacturer>
 		<MPN>0725</MPN>
 		<Description>• Καθαριστικό Πατώματος &amp; Επιφανειών• Σε Υγρή Μορφή• Εξαφανίζει τη Βρομιά• Άρωμα Ανοιξιάτικων Λουλουδιών</Description>
-		<Quantity>213</Quantity>
+		<Quantity>212</Quantity>
 	</product>
 	<product>
 		<ID>73032</ID>
@@ -12895,7 +12929,7 @@
 		<Manufacturer>REX</Manufacturer>
 		<MPN>0540</MPN>
 		<Description>Αυτό που θέλουν οι καταναλωτές είναι ένα χλώριο που να αφήνει πίσω του:1. καθαριότητα, 2. φρεσκάδα, 3. χρήματα στην τσέπη τους.Η πραγματικά παχύρρευστη και δυνατή σύνθεση της σειράς προϊόντων REX ULTRA έχει αποτέλεσμα το χλώριο να παραμένει περισσότερο χρόνο στην επιφάνεια και επομένως να καθαρίζει και να απολυμαίνει πιο καλά και πιο σίγουρα! Και πάντα πιο οικονομικά!</Description>
-		<Quantity>346</Quantity>
+		<Quantity>345</Quantity>
 	</product>
 	<product>
 		<ID>740050101</ID>
@@ -14052,7 +14086,7 @@
 		<Manufacturer>Viosarp</Manufacturer>
 		<MPN>VC469</MPN>
 		<Description>Κόλλα σε πιατάκι για κατσαρίδες, οι οποίες περνώντας από το σημείο εφαρμογής παγιδεύονται, με αποτέλεσμα την εξολόθρευσή τους.</Description>
-		<Quantity>279</Quantity>
+		<Quantity>274</Quantity>
 	</product>
 	<product>
 		<ID>74941</ID>
@@ -22836,7 +22870,7 @@
 		<Manufacturer>MY HEART</Manufacturer>
 		<MPN>1773</MPN>
 		<Description>Κουταλάκι γλυκού συσκευασμένο σε διάφανο πλαστικό 11cm επαναχρησιμοποιούμενο. Ιδανικό για παγωτό ή γλυκό. Η συσκευασία περιλαμβάνει 10 τεμάχια.</Description>
-		<Quantity>2755</Quantity>
+		<Quantity>2752</Quantity>
 	</product>
 	<product>
 		<ID>78615102</ID>
@@ -22904,54 +22938,72 @@
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0138</MPN>
 		<Description>• 10 τεμάχια• Διάμετρος: 23cm</Description>
-		<Quantity>207</Quantity>
+		<Quantity>205</Quantity>
 	</product>
 	<product>
-		<ID>78801</ID>
+		<ID>788100137</ID>
+		<Barcode>5202054473624</Barcode>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 21x14x37cm S Λευκή 1 Κιλό EM7362</Name>
+		<Product_Link>https://www.skroutz.gr/s/41872666/Sakoules-Plastikes-Fanelaki-Leykes-35cm-1Kg.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/041872/41872666/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_35cm_1kg.jpeg</Image_Link>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>3.37</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
+		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
+		<MPN>0817</MPN>
+		<Weight>1 kg</Weight>
+		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
+		<Quantity>115</Quantity>
+	</product>
+	<product>
+		<ID>788110137</ID>
 		<Barcode>5202054473662</Barcode>
-		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 40εκ. Μπλε 1 Κιλό</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 21x14x37cm S Μπλε 1 Κιλό EM7366</Name>
 		<Product_Link>https://www.skroutz.gr/s/26895827/Tsantes-Fanelaki-Plastikes-Sakoules-V-Mple-35cm-1kg-CHYMA.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/026895/26895827/xlarge_20210202095108_tsantes_fanelaki_plastikes_sakoules_v_mple_35cm_1kg.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.757076139999999</Price>
+		<Price>3.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0700</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>125</Quantity>
 	</product>
 	<product>
-		<ID>78802</ID>
+		<ID>788110143</ID>
 		<Barcode>5219711976220</Barcode>
-		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 45εκ. Μπλε 1 Κιλό</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 25x20x43cm M Μπλε 1 Κιλό EM7367</Name>
 		<Product_Link>https://makarigakispack.gr/sakoyla-fanelaki-no-45-mple-237-tem-kilo-a-poiotita</Product_Link>
 		<Image_Link>https://makarigakispack.gr/image/cache/catalog/%20%CE%A3%CE%91%CE%9A%CE%9F%CE%A5%CE%9B%CE%95%CE%A3/sakoyla-fanelaki-makarigakis-500x500w.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.757076139999999</Price>
+		<Price>3.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0243</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>143</Quantity>
 	</product>
 	<product>
-		<ID>78805</ID>
+		<ID>788110150</ID>
 		<Barcode>5202054174170</Barcode>
-		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 50εκ. Μπλε 1 Κιλό</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 30x24x50cm L Μπλε 1 Κιλό EM7368</Name>
 		<Product_Link>https://www.skroutz.gr/s/31898450/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Mple-50ek-1kg-Fanelaki-A-CHartoplast.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/031898/31898450/20211025101710_plastikes_sakoules_111_25005000.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.757076139999999</Price>
+		<Price>3.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22961,94 +23013,76 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>78806</ID>
+		<ID>788110160</ID>
 		<Barcode>5219711976244</Barcode>
-		<Name>Πλαστική Σακούλα Συσκευασίας Τύπου Φανελάκι 60εκ. Μπλε 1kg</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 30x24x60cm XL Μπλε 1 Κιλό EM7369</Name>
 		<Product_Link>https://www.skroutz.gr/s/42927293/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Mple-1kg-118-27025000.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/042927/42927293/xlarge_20230614154355_plastikes_sakoules_syskeyasias_typou_fanelaki_mple_1kg_60cm.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.757076139999999</Price>
+		<Price>3.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0992</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>88</Quantity>
 	</product>
 	<product>
-		<ID>78811</ID>
-		<Barcode>5202054473624</Barcode>
-		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 37εκ. 1kg</Name>
-		<Product_Link>https://www.skroutz.gr/s/41872666/Sakoules-Plastikes-Fanelaki-Leykes-35cm-1Kg.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/041872/41872666/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_35cm_1kg.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>2.86489476</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
-		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
-		<MPN>0817</MPN>
-		<Weight>1 kg</Weight>
-		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
-		<ID>78812</ID>
+		<ID>788100143</ID>
 		<Barcode>5202054473631</Barcode>
-		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 43εκ. 1kg</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 25x20x43cm M Λευκή 1 Κιλό EM7363</Name>
 		<Product_Link>https://www.skroutz.gr/s/30506332/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-45ek-1kg-3800232530231.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/030506/30506332/xlarge_20210818123736_plastikes_sakoules_45cm_1kg_3800232530231.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.86489476</Price>
+		<Price>3.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0534</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>580</Quantity>
 	</product>
 	<product>
-		<ID>78815</ID>
+		<ID>788100150</ID>
 		<Barcode>5202054473648</Barcode>
-		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 50εκ. 1kg</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 30x24x50cm L Λευκή 1 Κιλό EM7364</Name>
 		<Product_Link>https://www.skroutz.gr/s/32185992/Plastikes-Sakoules-Syskeyasias-Typou-Fanelaki-Leykes-50ek-1kg.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/032185/32185992/20211108090959_plastikes_sakoules_50cm.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.86489476</Price>
+		<Price>3.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>1564</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>110</Quantity>
 	</product>
 	<product>
-		<ID>78816</ID>
+		<ID>788100160</ID>
 		<Barcode>5219711976244</Barcode>
-		<Name>Πλαστικές Σακούλες Συσκευασίας Τύπου Φανελάκι Λευκές 60εκ. 1kg</Name>
+		<Name>Πλαστική Σακούλα Συσκευασίας Φανελάκι 30x24x60cm XL Λευκή 1 Κιλό EM7365</Name>
 		<Product_Link>https://www.skroutz.gr/s/41872667/Sakoules-Plastikes-Fanelaki-Leykes-60cm-1Kg.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/041872/41872667/xlarge_20230424142541_sakoules_plastikes_fanelaki_leykes_60cm_1kg.jpeg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>2.86489476</Price>
+		<Price>3.37</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B &gt; Αναλώσιμα Εστίασης μιας Χρήσης &gt; Σακούλες (Χονδρική)</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
 		<MPN>0842</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Πλαστικές σακούλες με 2 ενσωματωμένες λαβές στο άνω μέρος της σακούλας, κατάλληλες για χρήση σε καταστήματα λιανικής πώλησης, όπως σε super markets, mini markets, φαρμακεία, μανάβικα, κρεοπωλεία, αλλά και για υπηρεσίες take away και delivery.</Description>
-		<Quantity>0</Quantity>
+		<Quantity>41</Quantity>
 	</product>
 	<product>
 		<ID>788400101</ID>
@@ -29551,7 +29585,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>201.69</Price>
+		<Price>209.75</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία&gt;Εκτυπωτές &amp; Αξεσουάρ&gt; Εκτυπωτές</Category_Path>
 		<Manufacturer>Brother</Manufacturer>
