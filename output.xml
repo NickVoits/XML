@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-06-19 16:05</created_at>
+	<created_at>2026-06-19 16:45</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -570,7 +570,7 @@
 		<MPN>0128</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1954</Quantity>
+		<Quantity>1948</Quantity>
 	</product>
 	<product>
 		<ID>120118</ID>
@@ -588,7 +588,7 @@
 		<MPN>0272</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>1288</Quantity>
+		<Quantity>1282</Quantity>
 	</product>
 	<product>
 		<ID>12012</ID>
@@ -657,7 +657,7 @@
 		<MPN>22601</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Κλασσική Coca Cola. Ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>965</Quantity>
+		<Quantity>964</Quantity>
 	</product>
 	<product>
 		<ID>120218</ID>
@@ -675,7 +675,7 @@
 		<MPN>76001</MPN>
 		<Weight>0.4 kg</Weight>
 		<Description>Η κλασσική Coca Cola Zero χωρίς ζάχαρη, ιδανικά σερβίρεται παγωμένη για μέγιστη απόλαυση.</Description>
-		<Quantity>168</Quantity>
+		<Quantity>167</Quantity>
 	</product>
 	<product>
 		<ID>1202186</ID>
@@ -1106,7 +1106,7 @@
 		<MPN>0752</MPN>
 		<Weight>2 kg</Weight>
 		<Description>Ανακάλυψε την ανώτερη ποιότητα της Βίκος Cola με Μηδέν Ζάχαρη! Μοναδική γεύση, απόλυτη απόλαυση και το (όχι και τόσο) μυστικό συστατικό: το φυσικό μεταλλικό νερό. Όλα αυτά, σε μία cola χωρίς ζάχαρη, χωρίς θερμίδες, χωρίς καθόλου τύψεις. Cheers!</Description>
-		<Quantity>1109</Quantity>
+		<Quantity>1115</Quantity>
 	</product>
 	<product>
 		<ID>130319</ID>
@@ -1698,7 +1698,7 @@
 		<MPN>0341</MPN>
 		<Weight>1 kg</Weight>
 		<Description>Νέκταρ ροδάκινο AGROS. Ελληνικό προϊόν που παράγεται από την Ένωση Αγροτών Συνεταίρων Αργολίδας (Ε.Α.Σ.Α).</Description>
-		<Quantity>254</Quantity>
+		<Quantity>252</Quantity>
 	</product>
 	<product>
 		<ID>17073</ID>
@@ -2036,7 +2036,7 @@
 		<Manufacturer>ΒΙΚΟΣ</Manufacturer>
 		<MPN>1306</MPN>
 		<Description>Φυσικό μεταλλικό νερό Τεμάχια : 6 Όγκος Τεμαχίου : 1.5lt  Οδηγίες Φύλαξης **Συνιστάται η φύλαξη του σε μέρος σκιερό και δροσερό (έως 18 C) μακριά από οσμές.**</Description>
-		<Quantity>2164</Quantity>
+		<Quantity>2159</Quantity>
 	</product>
 	<product>
 		<ID>20301</ID>
@@ -2138,7 +2138,7 @@
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10160</MPN>
 		<Description>Μετά το μακρύ ταξίδι του στα υπόγεια πετρώματα, όπου αποκτά φυσικά τη μοναδική σύστασή του, εμφιαλώνεται απευθείας από την πηγή, χωρίς να μεσολαβεί σε κανένα στάδιο ανθρώπινος παράγοντας. Το Φυσικό Μεταλλικό Νερό “ΖΑΓΟΡΙ” είναι το αγνό προϊόν της φύσης, χωρίς καμία επεξεργασία ή πρόσθετα.</Description>
-		<Quantity>537</Quantity>
+		<Quantity>527</Quantity>
 	</product>
 	<product>
 		<ID>20602</ID>
@@ -2172,7 +2172,7 @@
 		<Manufacturer>ΖΑΓΟΡΙ</Manufacturer>
 		<MPN>10108</MPN>
 		<Description>Η δημοφιλής πλέον φιάλη 1,5 L Ζαγόρι, ξεχωρίζει έντονα από τις μοναδικές αρμονικές της καμπύλες και τα ανάγλυφα χαρακτηριστικά που διαθέτει. Μινιμαλιστική μοντέρνα με διάφανη ετικέτα θυμίζει την καθαρότητα του Φυσικού Μεταλλικού Νερού Ζαγόρι.</Description>
-		<Quantity>852</Quantity>
+		<Quantity>842</Quantity>
 	</product>
 	<product>
 		<ID>20703</ID>
@@ -2189,7 +2189,7 @@
 		<Manufacturer>Κωστηλάτα</Manufacturer>
 		<MPN>ΝΕ-20703</MPN>
 		<Description>Οι "Πηγές Κωστηλάτας" είναι φυσικό μεταλλικό νερό που εμφιαλώνεται σε υψόμετρο 1.450 μέτρων στα Αθαμανικά Όρη της Άρτας. Διακρίνεται για την υψηλή του ποιότητα, τη χαμηλή του περιεκτικότητα σε νάτριο και άλατα, καθώς και για την πλούσια περιεκτικότητά του σε ασβέστιο και μαγνήσιο, γεγονός που το καθιστά ιδανικό για δίαιτες χαμηλές σε νάτριο και κατάλληλο για την καρδιαγγειακή λειτουργία.</Description>
-		<Quantity>1535</Quantity>
+		<Quantity>1515</Quantity>
 	</product>
 	<product>
 		<ID>21501011</ID>
@@ -2529,7 +2529,7 @@
 		<MPN>0917</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Δήμητρα Λευκό Ξηρό σε συσκευασία PET 1,5 λίτρου προσφέρει ένα φρέσκο και δροσιστικό λευκό κρασί με εκλεπτυσμένη γεύση και αρώματα φρούτων. Ιδανικό για απολαυστικές στιγμές αναψυχής και κοινωνικής συνύπαρξης.</Description>
-		<Quantity>1220</Quantity>
+		<Quantity>1217</Quantity>
 	</product>
 	<product>
 		<ID>40103</ID>
@@ -2655,7 +2655,7 @@
 		<MPN>0939</MPN>
 		<Weight>1.5 kg</Weight>
 		<Description>Το Αρέτο είναι λευκό ξηρό κρασί με ξεχωριστή γεύση και λεπτό άρωμα που παράγεται με μεράκι από ισορροπημένο χαρμάνι των ποικιλιών Ροδίτη και Ugni Blanc.</Description>
-		<Quantity>578</Quantity>
+		<Quantity>575</Quantity>
 	</product>
 	<product>
 		<ID>40222</ID>
@@ -2817,7 +2817,7 @@
 		<MPN>0606</MPN>
 		<Weight>10 kg</Weight>
 		<Description>Εκρηκτικά αρώματα τριαντάφυλλου, που σε συνεπαίρνουν με την αφαίρεση του φελλού. Σπάνιο, ελαφρύ και εκπληκτικά μοντέρνο κρασί, που διακρίνεται. Αυτός ο λευκός οίνος παράγεται από ερυθρά σταφύλια της ποικιλίας Μαύρου Μοσχάτου Τυρνάβου με τη μέθοδο blanc de noir. Η καινοτόμα αυτή έκφραση της ποικιλίας από επιλεγμένα αμπελοτόπια, έχει σημαντική απήχηση στους κύκλους των οινόφιλων. Ο ΑΟΣ Τυρνάβου είναι από τους λίγους στον κόσμο που οινοποιούν και παράγουν κρασί αποκλειστικά από Μοσχάτο Μαύρο Τυρνάβου.</Description>
-		<Quantity>45</Quantity>
+		<Quantity>44</Quantity>
 	</product>
 	<product>
 		<ID>40205</ID>
@@ -5095,7 +5095,7 @@
 		<Image_Link>https://www.mvauron.co.nz/content/products/sauvignon-blanc-alcohol-free-b001880.jpg?width=720</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
+		<VAT>13</VAT>
 		<Price>6.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
@@ -5112,7 +5112,7 @@
 		<Image_Link>https://www.winerack.com.hk/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/_/t/_t_h_the_bench_alcohol_free_cabernet_sauvignon_italy.jpg</Image_Link>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
+		<VAT>13</VAT>
 		<Price>6.57</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Supermarket &gt; Κάβα &gt; Κρασιά</Category_Path>
@@ -12402,7 +12402,7 @@
 		<Manufacturer>TUBOFLO</Manufacturer>
 		<MPN>0628</MPN>
 		<Description>Το Tuboflo ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις μόνο με την προσθήκη κρύου νερού.</Description>
-		<Quantity>1937</Quantity>
+		<Quantity>1936</Quantity>
 	</product>
 	<product>
 		<ID>72102</ID>
@@ -12419,7 +12419,7 @@
 		<Manufacturer>TUBOFLO</Manufacturer>
 		<MPN>0871</MPN>
 		<Description>Το Tuboflo είναι ο ειδικός στην απόφραξη των σωληνώσεων. Ξεβουλώνει τις σωληνώσεις, εξαφανίζει τις κακές οσμές και ταυτόχρονα προστατεύει τις σωληνώσεις κερδίζοντας έτσι την εμπιστοσύνη των καταναλωτών.</Description>
-		<Quantity>4103</Quantity>
+		<Quantity>4102</Quantity>
 	</product>
 	<product>
 		<ID>72110101</ID>
@@ -17940,7 +17940,7 @@
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>LBC72WT</MPN>
 		<Description>Κομψό γωνιακό ράφι: Οργανώστε και εκθέστε τα βιβλία και άλλα διακοσμητικά σας με αυτό το νέο και μοναδικό γωνιακό ράφι  Μεγιστοποιήστε τον χώρο του δωματίου σας: Με απόσταση 20 cm μεταξύ κάθε ραφιού, αυτή η ραφιέρα αποθήκευσης 5 επιπέδων είναι ιδανική για φυτά, παιχνίδια και άλλα διακοσμητικά. Με μέγεθος 20 x 20 x 127,5 cm, μπορείτε να τη χρησιμοποιήσετε ακόμη και σε μικρά δωμάτια.  Κατασκευασμένο για να διαρκεί: Οι σανίδες από επεξεργασμένο ξύλο με πάχος 15 mm μπορούν να αντέξουν έως και 6 κιλά για κάθε ράφι. Εξαρτήματα αγκύρωσης για μεγάλη σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.  Κομψό &amp; Πρακτικό: Μοναδικό σχήμα ζιγκ-ζαγκ και καμπυλωτά ράφια, αισθητικά ευχάριστα και χωρίς χτυπήματα για παιδιά. Ανοιχτό ράφι για εύκολη μεταφορά, ιδανικό για σαλόνια, υπνοδωμάτια ή γραφείο.  Τι παίρνετε: Ένα γωνιακό ράφι με λεπτομερείς οδηγίες για εύκολη εγκατάσταση και έναν συναρπαστικό τρόπο για να τοποθετήσετε διακοσμητικά χρησιμοποιώντας τον γωνιακό χώρο στον τοίχο.  Προδιαγραφές: - Χρώμα: Λευκό - Υλικό: Μοριοσανίδα με επένδυση μελαμίνης - Μέγεθος προϊόντος: 20 x 20 x 127,5 cm (Μ x Π x Υ) - Βάρος προϊόντος: 4,5 kg - Μέγιστη στατική χωρητικότητα ανά ράφι: 15 kg  Περιεχόμενα συσκευασίας: - 1 x Γωνιακό ράφι - 1 x Τσάντα αξεσουάρ - 1 x Οδηγίες</Description>
-		<Quantity>24</Quantity>
+		<Quantity>23</Quantity>
 	</product>
 	<product>
 		<ID>7700113103</ID>
@@ -17959,6 +17959,24 @@
 		<MPN>LLS851B01</MPN>
 		<Description>Ένα ράφι για κάθε δωμάτιο: Θέλετε να εκμεταλλευτείτε μια γωνιά στο σαλόνι, το υπνοδωμάτιο, το μπάνιο ή την κουζίνα σας για να βάλετε φωτογραφίες, διακοσμητικά, βιβλία, χαριτωμένα σχέδια σε γλάστρες, είδη προσωπικής υγιεινής ή βάζα; Αυτό το ευέλικτο γωνιακό ράφι μπορεί να κάνει όλες τις ιδέες σας πραγματικότητα!  Πιο σταθερό από όσο νομίζετε: Με πάνελ από μοριοσανίδες και στιβαρό χάλυβα, κάθε επίπεδο του γωνιακού ραφιού μπορεί να αντέξει έως και 6 κιλά. Τα ράφια σε σχήμα βεντάλιας σας προστατεύουν από ενοχλητικά χτυπήματα. Αυτό το πλωτό ράφι παραμένει σταθερό στο σπίτι σας για να σας εξυπηρετεί για τα επόμενα χρόνια.  Ανησυχείτε για τη συναρμολόγηση; Δεν χρειάζεται! Οι εύκολες οδηγίες και τα ετικέτες στα εξαρτήματα καθιστούν αυτή τη βιβλιοθήκη που εξοικονομεί χώρο και τοποθετείται στον τοίχο εύκολη στη συναρμολόγηση.  Ο χώρος; 5 ράφια! Με ακτίνα 20 cm και απόσταση 20 cm μεταξύ των ραφιών, αυτό το γωνιακό ράφι σας προσφέρει άφθονο χώρο για να αναδείξετε τα διακοσμητικά σας και να έχετε πρόχειρα αντικείμενα που χρησιμοποιείτε συχνά.  Εξοικονόμηση χώρου και τράβηγμα της προσοχής: Αυτό το γωνιακό ράφι τοίχου αξιοποιεί στο έπακρο μια άδεια γωνία χωρίς να καταλαμβάνει καθόλου χώρο στο δάπεδο! Με σχέδιο ζιγκ-ζαγκ, ρουστίκ καφέ ράφια και μαύρα σύρματα σε σχήμα Χ, προσθέτει επίσης λίγο χαρακτήρα.  Προδιαγραφές:  Χρώμα: Ρουστίκ Καφέ, Μαύρο Υλικό: Μοριοσανίδα, Ατσάλι Μέγεθος προϊόντος: 20 x 20 x 127,5 εκ. (Μ x Π x Υ) Βάρος προϊόντος: 2,9 kg Μέγιστη στατική χωρητικότητα φορτίου ανά ράφι: 6 kg  Περιεχόμενα συσκευασίας:  1 x Επιτοίχιο γωνιακό ράφι 1 x Κιτ αξεσουάρ 1 x Οδηγίες</Description>
 		<Quantity>4</Quantity>
+	</product>
+	<product>
+		<ID>7700113104</ID>
+		<Barcode>6955880316663</Barcode>
+		<Name>Vasagle Ξύλινο Γωνιακό Ράφι Τοίχου με Ζιγκ-Ζαγκ, 5 Θέσεων για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 20x20x127,5 cm σε Ρουστίκ Καφέ Χρώμα LBC72BX</Name>
+		<Product_Link>https://www.skroutz.gr/s/23312890/Goniako-Rafi-Toichou-Kafe-20x20x127-5ek-LBC20BX.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/122827/122827091/fixedratio_20260225150643_c3d3a325.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC72BX/Schwebendes-Eckregal-Holzoptik-LBC20BX-7.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.02</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC72BX</MPN>
+		<Description>Κομψό γωνιακό ράφι: Ταξινομήστε όλα τα βιβλία σας, εκθέστε τα αγαπημένα σας διακοσμητικά αντικείμενα ή χρησιμοποιήστε το ράφι τοίχου ως διακοσμητικό  Χρησιμοποιήστε τις γωνίες και βελτιστοποιήστε τον χώρο σας: Με απόσταση 20 cm μεταξύ των επιπέδων, αυτό το ράφι 5 επιπέδων είναι ιδανικό για φυτά, παιχνίδια και διακοσμητικά. Με μέγεθος 20 x 128 x 20 cm, είναι κατάλληλο για μικρούς χώρους.  Για τα επόμενα χρόνια: Η μοριοσανίδα 15 mm εξασφαλίζει υψηλή ικανότητα φόρτωσης (κάθε επίπεδο αντέχει έως και 6 kg). Στερεώσεις για καλή σταθερότητα. Επιφάνεια από μελαμίνη ανθεκτική στη φθορά  Ζήστε με στυλ και άνεση: Μοναδικό σχήμα ζιγκ-ζαγκ και στρογγυλεμένα ράφια, ελκυστικά και ασφαλή για παιδιά. Ανοιχτό ράφι για εύκολη χρήση στο σαλόνι, το υπνοδωμάτιο ή το γραφείο.  Ιδέες για διακόσμηση: Ομορφύνετε το σπίτι σας τώρα με αυτό το κομψό και πρακτικό ράφι τοίχου</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7700114101</ID>
@@ -18087,11 +18105,30 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>7700113108</ID>
+		<Barcode>6955880387175</Barcode>
+		<Name>Vasagle Ξύλινη Βιβλιοθήκη 10 Διαμερισμάτων, Διαχωριστικό δωματίου, Ελεύθερο ράφι, για Κουζίνα, Υπνοδωμάτιο, Σαλόνι, Γραφείο, 129,5x29x129,5 cm σε Ρουστίκ Καφέ Χρώμα LBC10BX</Name>
+		<Product_Link>https://www.skroutz.gr/s/23795138/Vivliothiki-Kafe-129-5x29x129-5ek-LBC10BX.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_images/122827/122827900/fixedratio_20260225154704_7cb03b9e.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LBC10BX/Buecherregal-mit-10-Wuerfeln-LBC10BX-6.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>96.44</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Έπιπλα Γραφείου &gt; Βιβλιοθήκες &amp; Ράφια</Category_Path>
+		<Manufacturer>Vasagle</Manufacturer>
+		<MPN>LBC10BX</MPN>
+		<Description>Κομψή Ράφι Αποθήκευσης: Αυτή η θήκη οργάνωσης σε σχήμα κύβου θα μπορούσε να φυλάξει όλα τα βιβλία σας, να αναδείξει τα αγαπημένα σας μπιχλιμπίδια ή απλώς να χρησιμεύσει ως διαχωριστικό δωματίου στο σαλόνι ή σε μια γωνία.  Εξοικονόμηση χώρου αλλά και ευρύχωρο: 129,5 x 29 x 129,5 εκ. (Μ x Π x Υ), οι 10 κύβοι προσφέρουν μεγάλο χώρο για βιβλία, CD, DVD. Το μέγεθος κάθε κύβου είναι στάνταρ, το οποίο σας επιτρέπει να τοποθετείτε κουτιά αποθήκευσης ή καλάθια.  Κατασκευασμένο για να αντέχει: μοριοσανίδα πάχους 15 mm, κάθε κύβος αντέχει έως και 10 kg. Η αντιανατρεπτική διάταξη προσθέτει σταθερότητα. Η επιφάνεια επένδυσης είναι ανθεκτική στις γρατσουνιές και τη φθορά.  Επαγγελματικό φινίρισμα: Όλες οι άκρες αυτής της βιβλιοθήκης είναι σφραγισμένες, λείες στην αφή και λεπτή στην εμφάνιση. Κάθε βίδα συνοδεύεται από ένα αυτοκόλλητο για να την κρύβει για ομορφιά.  Τι αποκτάτε: Μια θήκη αποθήκευσης με σχέδιο σκάλας, εύκολες οδηγίες και έναν κομψό, πρακτικό τρόπο για να εκθέτετε και να αποθηκεύετε όμορφα διακοσμητικά.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7700120801</ID>
 		<Barcode>0194343411460</Barcode>
 		<Name>Vasagle Έπιπλο Εισόδου με Καθρέπτη / Κρεμάστρα &amp; Παπουτσοθήκη 98x36x185cm σε Ρουστίκ Καφέ και Μαύρο Χρώμα HSR050B0 (HSR415B01)</Name>
 		<Product_Link>https://www.skroutz.gr/s/57572672/Epiplo-Eisodou-me-Kathrepti-Kremastra-Papoutsothiki-Kafe-mayro-98x36x185ek-HSR050B01.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/057572/57572672/fixedratio_20241120160601_epiplo_eisodou_me_kathrepti_kremastra_papoutsothiki_kafe_mayro_98x36x185ek_hsr050b01.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/104743/104743730/fixedratio_20241120160631_fa21ecfa.jpeg https://b.scdn.gr/images/sku_images/104743/104743681/fixedratio_20241120160607_c167f5ad.jpeg https://a.scdn.gr/images/sku_images/104743/104743700/fixedratio_20241120160616_c4b144e9.jpeg https://a.scdn.gr/images/sku_images/104743/104743718/fixedratio_20241120160622_2fda9596.jpeg https://a.scdn.gr/images/sku_images/104743/104743727/fixedratio_20241120160627_17e6c9a4.jpeg https://b.scdn.gr/images/sku_images/104743/104743735/fixedratio_20241120160636_c332c7b9.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -18199,6 +18236,7 @@
 		<Name>Vasagle Μεταλλική Παπουτσοθήκη με 2 Ράφια και Κάθισμα Δερματίνη σε Μαύρο/Καφέ 80x30x48cm LBS75X</Name>
 		<Product_Link>https://www.skroutz.gr/s/23281399/Epiplo-Eisodou-me-Papoutsothiki-Pagaki-Mayro-Kafe-80x30x48ek-LBS75X.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/023281/23281399/fixedratio_20250314165410_epiplo_eisodou_me_papoutsothiki_pagaki_mayro_kafe_80x30x48ek_lbs75x.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/108103/108103660/fixedratio_20250314165409_8c985615.jpeg https://a.scdn.gr/images/sku_images/032555/32555525/fixedratio_20200522104506_4dc6e487.jpeg https://b.scdn.gr/images/sku_images/032555/32555527/fixedratio_20200522104506_04df98ed.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -18660,6 +18698,7 @@
 		<Name>Songmics Καλόγερος Μεταλλικός με 12 Κρεμάστρες Μαύρος 44x182cm RCR19B</Name>
 		<Product_Link>https://www.skroutz.gr/s/21465856/Kalogeros-Metallikos-Mayros-RCR19B-44x44x182cm.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/021465/21465856/fixedratio_20191227142733_rcr19b.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/RCR19B/Metal-Clothes-Stand-RCR19B-7.jpg https://a.scdn.gr/images/sku_images/033984/33984135/fixedratio_20200806130504_a313498b.jpeg https://d.scdn.gr/images/sku_images/033984/33984134/fixedratio_20200806130504_45941a99.jpeg https://b.scdn.gr/images/sku_images/033984/33984136/fixedratio_20200806130504_c90b63a1.jpeg https://a.scdn.gr/images/sku_images/033984/33984137/fixedratio_20200806130505_19ecde06.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -18911,6 +18950,7 @@
 		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Μαύρο Χρώμα Σετ 10τμχ CRW02B10</Name>
 		<Product_Link>https://www.skroutz.gr/s/37955167/Songmics-Kremastra-Rouchon-se-Mayro-CHroma-CRW02B10-10tmch.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/037955/37955167/xlarge_20220907131935_songmics_kremastra_rouchon_se_mayro_chroma_crw02b10_10tmch.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/064026/64026104/xlarge_20220907131936_3dcc090f.jpeg https://c.scdn.gr/images/sku_images/064026/64026107/xlarge_20220907131936_9f6c066b.jpeg https://c.scdn.gr/images/sku_images/064026/64026108/xlarge_20220907131936_28e13657.jpeg https://b.scdn.gr/images/sku_images/064026/64026106/xlarge_20220907131936_6dcd6911.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -18928,6 +18968,7 @@
 		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Λευκό Χρώμα Σετ 20τμχ CRW03W-20</Name>
 		<Product_Link>https://www.skroutz.gr/s/24803629/Songmics-Kremastra-Rouchon-se-Leyko-CHroma-CRW03W-20-20tmch.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/024803/24803629/xlarge_20200917110129_songmics_kremastra_ntoulapas_xylini_crw03w_20_20tmch.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/034486/34486028/xlarge_20200917110130_c648937e.jpeg https://c.scdn.gr/images/sku_images/034486/34486029/xlarge_20200917110130_4661d024.jpeg https://a.scdn.gr/images/sku_images/034486/34486031/xlarge_20200917110132_c6bb3401.jpeg https://c.scdn.gr/images/sku_images/034486/34486033/xlarge_20200917110132_64daa942.jpeg https://b.scdn.gr/images/sku_images/034486/34486032/xlarge_20200917110132_135c6ef6.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -18945,6 +18986,7 @@
 		<Name>Songmics Ξύλινη Κρεμάστρα Ρούχων σε Καφέ Ανοιχτό Χρώμα Σετ 20τμχ CRW001-20</Name>
 		<Product_Link>https://www.skroutz.gr/s/50798095/Songmics-Kremastra-Ntoulapas-gia-Pantelonia-Xylini-Kafe-CRW001-20-20tmch.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/050798/50798095/xlarge_20240227112820_songmics_kremastra_rouchon_kafe_crw001_20_20tmch.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/090410/90410130/xlarge_20240227112822_22e6e597.jpeg https://c.scdn.gr/images/sku_images/090410/90410160/xlarge_20240227112824_8f6ab121.jpeg https://a.scdn.gr/images/sku_images/090410/90410187/xlarge_20240227112825_ed9a8f2d.jpeg https://b.scdn.gr/images/sku_images/090410/90410208/xlarge_20240227112827_38a446a6.jpeg https://d.scdn.gr/images/sku_images/090410/90410234/xlarge_20240227112829_f746735d.jpeg https://d.scdn.gr/images/sku_images/090410/90410261/xlarge_20240227112831_71ae4f66.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -18962,6 +19004,7 @@
 		<Name>Songmics Κρεμάστρα Ντουλάπας για Παντελόνια / Φούστες με Κλιπς Βαρέως Τύπου Inox 31x10,5cm Σετ 20τμχ CRI003-20</Name>
 		<Product_Link>https://www.skroutz.gr/s/25687541/Songmics-Kremastra-Ntoulapas-gia-Pantelonia-Foustes-me-Klips-Vareos-Typou-CRI003-20-20tmch.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/025687/25687541/xlarge_20201117125021_songmics_kremastra_ntoulapas_gia_pantelonia_foustes_me_klips_vareos_typou_cri003_20_20tmch.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/035923/35923100/xlarge_20201117125021_115d48ab.jpeg https://a.scdn.gr/images/sku_images/035923/35923101/xlarge_20201117125021_f55174e3.jpeg https://d.scdn.gr/images/sku_images/035923/35923103/xlarge_20201117125021_e0ebe951.jpeg https://c.scdn.gr/images/sku_images/035923/35923102/xlarge_20201117125021_9ae86be5.jpeg https://a.scdn.gr/images/sku_images/035923/35923104/xlarge_20201117125022_5f0429c3.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -18997,6 +19040,7 @@
 		<Name>Songmics Αντιολισθητική Κρεμάστρα Ρούχων σε Γκρι Χρώμα Σετ 30τμχ CRP20G30</Name>
 		<Product_Link>https://www.skroutz.gr/s/35216055/Songmics-Kremastra-Rouchon-se-Gri-CHroma-CRP20G30-30tmch.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/035216/35216055/xlarge_20220405113845_songmics_kremastra_rouchon_se_gri_chroma_crp20g30_30tmch.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/058520/58520304/xlarge_20220405113845_8d5fb80b.jpeg https://b.scdn.gr/images/sku_images/058520/58520303/xlarge_20220405113845_8b256bf9.jpeg https://b.scdn.gr/images/sku_images/058520/58520305/xlarge_20220405113845_e5c30d8e.jpeg https://a.scdn.gr/images/sku_images/058520/58520306/xlarge_20220405113845_72fec82d.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19014,6 +19058,7 @@
 		<Name>Songmics Βελούδινη Κρεμάστρα Ρούχων σε Ροζ Χρώμα Σετ 50τμχ CRF21PK50</Name>
 		<Product_Link>https://www.skroutz.gr/s/35216186/Songmics-Kremastra-Rouchon-se-Roz-CHroma-CRF21PK50-50tmch.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/035216/35216186/xlarge_20220405114014_songmics_kremastra_rouchon_se_roz_chroma_crf21pk50_50tmch.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/058696/58696000/xlarge_20220408101320_6cdc2234.jpeg https://c.scdn.gr/images/sku_images/058696/58696003/xlarge_20220408101320_b8c18c8e.jpeg https://c.scdn.gr/images/sku_images/058696/58696001/xlarge_20220408101320_83f736b1.jpeg https://c.scdn.gr/images/sku_images/058696/58696002/xlarge_20220408101320_6c1fd04c.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19103,6 +19148,7 @@
 		<Name>Songmics Τροχήλατη Μεταλλική Κρεμάστρα Ρούχων Δαπέδου Βαρέως Τύπου με Ρόδες με Επεκτεινόμενη Ράγα και Κάτω Ράφι Μαύρη 92-132x45.4x160cm HSR13BKV1</Name>
 		<Product_Link>https://www.skroutz.gr/s/24795140/Songmics-Trochilati-Kremastra-Dapedou-apo-Metallo-Mayri-132x45-4x160cm-HSR13BKV1.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/024795/24795140/fixedratio_20200916145714_songmics_hsr13bkv1.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/034474/34474394/fixedratio_20200916145714_92b9fdb3.jpeg https://a.scdn.gr/images/sku_images/034474/34474392/fixedratio_20200916145714_da83ef34.jpeg https://c.scdn.gr/images/sku_images/034474/34474393/fixedratio_20200916145714_d5f4e221.jpeg https://a.scdn.gr/images/sku_images/034474/34474391/fixedratio_20200916145714_3319e1db.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19120,6 +19166,7 @@
 		<Name>Songmics Τροχήλατη Μεταλλική Κρεμάστρα Ρούχων Δαπέδου Βαρέως Τύπου με Ρόδες με Επεκτεινόμενη Ράγα και Κάτω Ράφι Inox 92-132x45.4x160cm HSR13S</Name>
 		<Product_Link>https://www.skroutz.gr/s/48752044/Songmics-Trochilati-Kremastra-Dapedou-apo-Metallo-Gri-92x45-4x160cm-HSR13S.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/086470/86470445/fixedratio_20231212141014_cd0ea4c3.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/086470/86470509/fixedratio_20231212141044_ab0dcb05.jpeg https://c.scdn.gr/images/sku_images/086470/86470423/fixedratio_20231212141009_d3b6a163.jpeg https://b.scdn.gr/images/sku_images/086470/86470445/fixedratio_20231212141014_cd0ea4c3.jpeg https://c.scdn.gr/images/sku_images/086470/86470462/fixedratio_20231212141019_7db270d2.jpeg https://b.scdn.gr/images/sku_images/086470/86470497/fixedratio_20231212141026_b1ddd73f.jpeg https://c.scdn.gr/images/sku_images/086470/86470501/fixedratio_20231212141031_4d267b80.jpeg https://b.scdn.gr/images/sku_images/086470/86470504/fixedratio_20231212141037_b1d98539.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19173,6 +19220,7 @@
 		<Name>Songmics Τροχήλατη Διπλή Μεταλλική Κρεμάστρα Ρούχων Δαπέδου Βαρέως Τύπου με Ρόδες και Κάτω Ράφι Μαύρη 100x59x162cm HSR60BV1</Name>
 		<Product_Link>https://www.skroutz.gr/s/24277306/Songmics-Trochilati-Kremastra-Dapedou-apo-Metallo-se-Mayro-CHroma-100x59x162cm-HSR60B.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_images/033962/33962011/fixedratio_20220510233034_2208da88.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/033962/33962011/fixedratio_20220510233034_2208da88.jpeg https://b.scdn.gr/images/sku_images/033962/33962009/fixedratio_20220510233035_e714c18e.jpeg https://d.scdn.gr/images/sku_images/033962/33962010/fixedratio_20220510233037_88783bc6.jpeg https://a.scdn.gr/images/sku_images/033962/33962012/fixedratio_20220510233039_9997a146.jpeg https://a.scdn.gr/images/sku_images/033962/33962013/fixedratio_20220510233042_023f81e6.jpeg https://b.scdn.gr/images/sku_images/033962/33962014/fixedratio_20220510233044_47fc6048.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19278,6 +19326,7 @@
 		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Ρυθμιζόμενο Φωτισμό 80x40x145cm RDT114W01</Name>
 		<Product_Link>https://www.skroutz.gr/s/38621267/Toualeta-Krevatokamaras-Xylini-Leyki-me-Kathrepti-80x40x145ek-RDT114W01.html#reviews</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/038621/38621267/fixedratio_20221010163838_xylini_toualeta_krevatokamaras_leyki_me_kathrepti_80x40x145ek_rdt114w01.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/065770/65770065/20221010163838_21d1eddc.jpeg https://d.scdn.gr/images/sku_images/111248/111248020/20250513161835_94446d23.jpeg https://c.scdn.gr/images/sku_images/111248/111248047/20250513161852_02aea325.jpeg https://c.scdn.gr/images/sku_images/111248/111248074/20250513161902_72bf8940.jpeg https://b.scdn.gr/images/sku_images/065770/65770069/20221010163839_bd6a2bac.jpeg https://c.scdn.gr/images/sku_images/065770/65770064/20221010163838_a17b2a98.jpeg https://b.scdn.gr/images/sku_images/065770/65770066/20221010163838_c7363c0b.jpeg https://b.scdn.gr/images/sku_images/065770/65770067/20221010163839_f1fd97b0.jpeg https://a.scdn.gr/images/sku_images/065770/65770068/20221010163839_1597a857.jpeg https://d.scdn.gr/images/sku_images/111248/111248002/20250513161823_db07ccb3.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19295,6 +19344,7 @@
 		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας Ξύλινη Λευκή με Καθρέπτη και Φωτισμό 90x40x145cm RDT123T14V1</Name>
 		<Product_Link>https://www.skroutz.gr/s/52594024/Toualeta-Krevatokamaras-Xylini-Mpountouar-me-Kathrepti-90x40x145ek-RDT123T14.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_images/094411/94411771/fixedratio_20240419135057_044f82b5.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/094411/94411782/fixedratio_20240419135111_75b09c8d.jpeg https://a.scdn.gr/images/sku_main_images/052594/52594024/fixedratio_20240419135052_toualeta_krevatokamaras_xylini_mpountouar_me_kathrepti_90x40x145ek_rdt123t14.jpeg https://b.scdn.gr/images/sku_images/094411/94411771/fixedratio_20240419135057_044f82b5.jpeg https://c.scdn.gr/images/sku_images/094411/94411774/fixedratio_20240419135100_5bf1a6b9.jpeg https://a.scdn.gr/images/sku_images/094411/94411777/fixedratio_20240419135103_eabca0f2.jpeg https://d.scdn.gr/images/sku_images/094411/94411779/fixedratio_20240419135106_129e8d03.jpeg https://d.scdn.gr/images/sku_images/094411/94411780/fixedratio_20240419135108_9f963447.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19312,6 +19362,7 @@
 		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας από Ξύλο &amp; Μέταλλο Καφέ με Καθρέπτη και Μεταλλικό Σκαμπό 90x40x141cm RVT004B01V1</Name>
 		<Product_Link>https://www.skroutz.gr/s/36477711/Toualeta-Krevatokamaras-apo-Xylo-Metallo-Kafe-me-Kathrepti-90x40x141ek-RVT004B01.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/036477/36477711/fixedratio_20220608102909_toualeta_krevatokamaras_apo_xylo_metallo_kafe_me_kathrepti_90x40x141ek_rvt004b01.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/060993/60993405/fixedratio_20220608102911_cb3aa241.jpeg https://d.scdn.gr/images/sku_images/060993/60993394/fixedratio_20220608102910_914115b8.jpeg https://b.scdn.gr/images/sku_images/060993/60993395/fixedratio_20220608102910_69052608.jpeg https://a.scdn.gr/images/sku_images/060993/60993396/fixedratio_20220608102910_a3e1cd09.jpeg https://c.scdn.gr/images/sku_images/060993/60993398/fixedratio_20220608102910_0f12cf49.jpeg https://a.scdn.gr/images/sku_images/060993/60993399/fixedratio_20220608102910_4441eb19.jpeg https://a.scdn.gr/images/sku_images/060993/60993402/fixedratio_20220608102910_0d90ad12.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19329,6 +19380,7 @@
 		<Name>Vasagle Τουαλέτα Κρεβατοκάμαρας από Ξύλο &amp; Μέταλλο σε Γκρι/Μαύρο Χρώμα με Καθρέπτη και Μεταλλικό Σκαμπό 90x40x141cm RVT004B02</Name>
 		<Product_Link>https://www.skroutz.gr/s/47942071/Toualeta-Krevatokamaras-apo-Xylo-Metallo-Kafe-me-Kathrepti-90x40x141ek-RVT004B02.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/047942/47942071/fixedratio_20231110154208_toualeta_krevatokamaras_apo_xylo_metallo_kafe_me_kathrepti_90x40x141ek_rvt004b02.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-7-eu.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RVT004B02V1/RVT004B02-6.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19418,6 +19470,7 @@
 		<Name>Songmics Μπιζουτιέρα Κουτί Ξύλινη με Συρτάρι &amp; Καθρέφτη 27x12.5x12.5cm JOW008K01</Name>
 		<Product_Link>https://www.skroutz.gr/s/43748642/Songmics-Mpizoutiera-Kouti-Xylini-me-Syrtari-Kathrefti-27x12-5x12-5cm-JOW008K01.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/043748/43748642/fixedratio_20230630132602_songmics_mpizoutiera_kouti_xylini_me_syrtari_kathrefti_jow008k01.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/078659/78659722/fixedratio_20250916194712_ebd646eb.jpeg https://b.scdn.gr/images/sku_images/078659/78659718/fixedratio_20250916194707_e1143487.jpeg https://c.scdn.gr/images/sku_images/078659/78659719/fixedratio_20250916194716_35c6373d.jpeg https://a.scdn.gr/images/sku_images/078659/78659715/fixedratio_20250916194720_ad8f5048.jpeg https://d.scdn.gr/images/sku_images/078659/78659720/fixedratio_20250916194724_8b2487fd.jpeg https://c.scdn.gr/images/sku_images/078659/78659717/fixedratio_20250916194734_bc1a331d.jpeg https://c.scdn.gr/images/sku_images/078659/78659721/fixedratio_20250916194739_0e51bc1b.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19651,6 +19704,7 @@
 		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι Γκρι με Πεντάλ 30lt LTB03GS</Name>
 		<Product_Link>https://www.skroutz.gr/s/25562858/Songmics-Soft-Close-Kados-Aporrimmaton-apo-Anoxeidoto-Atsali-Gri-me-Pental-30lt-LTB03GS.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_images/035738/35738623/fixedratio_20201108144737_b3b48bf2.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/035738/35738623/fixedratio_20201108144737_b3b48bf2.jpeg https://a.scdn.gr/images/sku_images/035738/35738624/fixedratio_20201108144737_f9df3098.jpeg https://d.scdn.gr/images/sku_images/035738/35738626/fixedratio_20201108144737_4cc79adf.jpeg https://c.scdn.gr/images/sku_images/035738/35738627/fixedratio_20201108144738_cfbaec58.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19663,11 +19717,138 @@
 		<Quantity>13</Quantity>
 	</product>
 	<product>
+		<ID>770500111</ID>
+		<Barcode>0194343160665</Barcode>
+		<Name>Songmics Μεταλλικός Κάδος Απορριμμάτων Μπάνιου με Καπάκι Soft-Close και Εσωτερικό Κάδο, 6lt σε Μαύρο Χρώμα LTB016BZ02</Name>
+		<Product_Link>https://www.skroutz.gr/s/67480407/songmics-ltb016bz02-inox-kalathaki-mpaniou-soft-close-6lt-mayro.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/067480/67480407/fixedratio_20260525160244_songmics_ltb016bz02_inox_kalathaki_mpaniou_soft_close_6lt_mayro.jpeg</Image_Link>
+		<Additional>https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016BZ02/Amazon/UK/LTB016BZ02-2-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016BZ02/Amazon/UK/LTB016BZ02-3-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016BZ02/Amazon/UK/LTB016BZ02-4-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016BZ02/Amazon/UK/LTB016BZ02-5-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016BZ02/Amazon/UK/LTB016BZ02-6-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016BZ02/Amazon/UK/LTB016BZ02-7-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016BZ02/Amazon/UK/LTB016BZ02-8-UK.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.57904</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB016BZ02</MPN>
+		<Description>Ομαλό κλείσιμο και διατήρηση ανοιχτού: Το καπάκι αυτού του κάδου απορριμμάτων στο μπάνιο κλείνει αργά και αθόρυβα, επομένως δεν θα ακούτε δυνατούς θορύβους. Για μεγαλύτερους χρόνους καθαρισμού, σηκώστε χειροκίνητα το καπάκι στις 90° και θα παραμείνει ανοιχτό.  Εύκολο άδειασμα και μετακίνηση: Ένας αφαιρούμενος εσωτερικός κάδος κάνει το άδειασμα και το καθάρισμα πανεύκολο. Η πίσω λαβή σάς επιτρέπει να μετακινείτε τον κάδο της τουαλέτας με ευκολία.  Ιδανικό για μπάνια: Κατασκευασμένος από ανθεκτικό στη σκουριά χάλυβα με ερμητικά σφραγισμένο καπάκι, αυτός ο κάδος απορριμμάτων με πεντάλ κρατά το νερό έξω και τους εσωτερικούς χώρους στεγνούς - ιδανικός για μπάνια με υγρασία  Σικ &amp; Συμπαγές: Ο κομψός, μοντέρνος σχεδιασμός του ταιριάζει στις περισσότερες διακοσμήσεις σπιτιού, ενώ το συμπαγές μέγεθος ταιριάζει απόλυτα σε μικρούς χώρους.  Λειτουργία χωρίς χέρια: Ανοίξτε το καπάκι με ένα άγγιγμα του πεντάλ - δεν χρειάζεται να αγγίξετε τον κάδο</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770500112</ID>
+		<Barcode>0194343160641</Barcode>
+		<Name>Songmics Μεταλλικός Κάδος Απορριμμάτων Μπάνιου με Καπάκι Soft-Close και Εσωτερικό Κάδο, 6lt σε Λευκό Χρώμα LTB016WZ02</Name>
+		<Product_Link>https://www.skroutz.gr/s/67524219/songmics-ltb016wz02-inox-kalathaki-mpaniou-soft-close-6lt-leyko.html</Product_Link>
+		<Image_Link>https://b.scdn.gr/images/sku_main_images/067524/67524219/fixedratio_20260527142340_songmics_ltb016wz02_inox_kalathaki_mpaniou_soft_close_6lt_leyko.jpeg</Image_Link>
+		<Additional>https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016WZ02/Amazon/UK/LTB016WZ02-2-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016WZ02/Amazon/UK/LTB016WZ02-3-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016WZ02/Amazon/UK/LTB016WZ02-4-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016WZ02/Amazon/UK/LTB016WZ02-5-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016WZ02/Amazon/UK/LTB016WZ02-6-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016WZ02/Amazon/UK/LTB016WZ02-7-UK.jpg https://ziel-listing-studio.s3.dualstack.us-west-2.amazonaws.com/ListingStudio/ListingPictures/LTB016WZ02/Amazon/UK/LTB016WZ02-8-UK.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>20.57904</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB016WZ02</MPN>
+		<Description>Ομαλό κλείσιμο και διατήρηση ανοιχτού: Το καπάκι αυτού του κάδου απορριμμάτων στο μπάνιο κλείνει αργά και αθόρυβα, επομένως δεν θα ακούτε δυνατούς θορύβους. Για μεγαλύτερους χρόνους καθαρισμού, σηκώστε χειροκίνητα το καπάκι στις 90° και θα παραμείνει ανοιχτό.  Εύκολο άδειασμα και μετακίνηση: Ένας αφαιρούμενος εσωτερικός κάδος κάνει το άδειασμα και το καθάρισμα πανεύκολο. Η πίσω λαβή σάς επιτρέπει να μετακινείτε τον κάδο της τουαλέτας με ευκολία.  Ιδανικό για μπάνια: Κατασκευασμένος από ανθεκτικό στη σκουριά χάλυβα με ερμητικά σφραγισμένο καπάκι, αυτός ο κάδος απορριμμάτων με πεντάλ κρατά το νερό έξω και τους εσωτερικούς χώρους στεγνούς - ιδανικός για μπάνια με υγρασία  Σικ &amp; Συμπαγές: Ο κομψός, μοντέρνος σχεδιασμός του ταιριάζει στις περισσότερες διακοσμήσεις σπιτιού, ενώ το συμπαγές μέγεθος ταιριάζει απόλυτα σε μικρούς χώρους.  Λειτουργία χωρίς χέρια: Ανοίξτε το καπάκι με ένα άγγιγμα του πεντάλ - δεν χρειάζεται να αγγίξετε τον κάδο</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770500113</ID>
+		<Barcode>0194343156989</Barcode>
+		<Name>Songmics Μεταλλικός Κάδος Απορριμμάτων με Καπάκι Soft-Close, Εσωτερικό Κάδο και 15 Σακούλες, 20lt σε Λευκό Χρώμα LTB021WZ01</Name>
+		<Product_Link>https://www.skroutz.gr/s/67480165/songmics-kados-aporrimmaton-metallikos-me-pental-leykos-20lt-ltb021wz01.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/067480/67480165/fixedratio_20260525155923_songmics_kados_aporrimmaton_metallikos_me_pental_leykos_20lt_ltb021wz01.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/products/LTB021WZ01/LTB021WZ01-2-FR.jpg https://static.eu.distributor.songmics.com/products/LTB021WZ01/LTB021WZ01-3-FR.jpg https://static.eu.distributor.songmics.com/products/LTB021WZ01/LTB021WZ01-4-FR.jpg https://static.eu.distributor.songmics.com/products/LTB021WZ01/LTB021WZ01-5-FR.jpg https://static.eu.distributor.songmics.com/products/LTB021WZ01/LTB021WZ01-6-FR.jpg https://static.eu.distributor.songmics.com/products/LTB021WZ01/LTB021WZ01-7-FR.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>41.15808</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB021WZ01</MPN>
+		<Description>Μοντέρνος σχεδιασμός και εύκολη συντήρηση: σύγχρονος κάδος απορριμμάτων από χάλυβα, ανθεκτικός και εύκολος στον καθαρισμό, ιδανικός ως κάδος απορριμμάτων για την κουζίνα, το σαλόνι ή το μπάνιο ΑΝΟΙΓΜΑ ΧΩΡΙΣ ΧΕΡΙ - Ανθεκτικός κάδος απορριμμάτων με πεντάλ, δοκιμασμένος για 150.000 βήματα, βολικός για καθημερινή χρήση χωρίς να λυγίζει ή να αγγίζει το καπάκι Πρακτικός για χρονοβόρες εργασίες: όπως καθαρισμός σπιτιού ή προετοιμασία γευμάτων. Το καπάκι παραμένει ανοιχτό στους 90° για εύκολο άδειασμα (αφήστε 5 εκατοστά μεταξύ του κάδου και του τοίχου για βέλτιστο άνοιγμα) Αθόρυβος και υγιεινός: κάδος κουζίνας με απαλό κλείσιμο, χωρίς ενοχλητικό θόρυβο, με εσωτερικό κάδο και λαβή για εύκολο και υγιεινό άδειασμα και καθάρισμα Έτοιμο προς χρήση: παρέχεται με 15 τέλεια προσαρμοσμένες σακούλες απορριμμάτων (κωδικός H) για άμεση χρήση μόλις τον παραλάβετε και γρήγορη αντικατάσταση των σακουλών</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770500114</ID>
+		<Barcode>0194343262017</Barcode>
+		<Name>Songmics Διπλός Μεταλλικός Κάδος Απορριμμάτων Βαρέως τύπου με Απαλό Κλείσιμο και Εσωτερικούς Κάδους 2x15lt, 41.7x33.2x49.4cm σε Μαύρο Χρώμα LTB544B02</Name>
+		<Product_Link>https://www.skroutz.gr/s/60600714/songmics-kados-aporrimmaton-apo-anoxeidoto-atsali-me-pental-mayros-30lt-ltb544b02.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/060600/60600714/fixedratio_20250526110155_songmics_kados_aporrimmaton_apo_anoxeidoto_atsali_me_pental_mayros_30lt_ltb544b02.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/products/LTB544B02/LTB544B02-2.jpg https://static.eu.distributor.songmics.com/products/LTB544B02/LTB544B02-3.jpg https://static.eu.distributor.songmics.com/products/LTB544B02/LTB544B02-4.jpg https://static.eu.distributor.songmics.com/products/LTB544B02/LTB544B02-5.jpg https://static.eu.distributor.songmics.com/products/LTB544B02/LTB544B02-6.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>47.16030000000001</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB544B02</MPN>
+		<Description>【2 ξεχωριστοί κάδοι απορριμμάτων για υγρή/ξηρή χρήση】Αυτός ο κάδος απορριμμάτων κουζίνας διαθέτει 2 διαμερίσματα των 15 λίτρων, γεγονός που διευκολύνει τον διαχωρισμό των απορριμμάτων. Με αυτήν την ενιαία μονάδα, δεν χρειάζεται να αποθηκεύετε ποικιλία κάδων απορριμμάτων, πλαστικών, κονσερβών, μπουκαλιών και άλλων τύπων κάδων απορριμμάτων.  Υψηλής ποιότητας χάλυβας: Αυτό το προϊόν είναι κατασκευασμένο από υψηλής ποιότητας ανοξείδωτο χάλυβα και το εσωτερικό του είναι κατασκευασμένο από ανθεκτικό στη θερμότητα πλαστικό PP. Έτσι, είναι ανθεκτικό και θα διαρκέσει για μεγάλο χρονικό διάστημα. Η επίστρωση ανθεκτική στα δακτυλικά αποτυπώματα στην επιφάνεια διευκολύνει τον καθαρισμό και τη διατήρησή της καθαρής.  【Απαλό κλείσιμο και άνοιγμα】Το καπάκι του κάδου απορριμμάτων κλείνει απαλά και αθόρυβα, μειώνοντας τον θόρυβο στην κουζίνα. Ασφαλές για χρήση σε περιβάλλοντα με μικρά παιδιά και κατοικίδια. Μπορεί επίσης να ανυψωθεί χειροκίνητα έως και 90° για να διατηρείται ανοιχτό, καθιστώντας το βολικό για πολυάσχολα γεύματα.  【Πρακτικός Εσωτερικός Κάδος】 Αυτός ο κάδος απορριμμάτων διαθέτει 2 εσωτερικούς κάδους με λαβές που πλένονται πλήρως και διατηρούνται καθαρές. Επιπλέον, υπάρχει μια τρύπα για τη στερέωση της σακούλας, έτσι ώστε η σακούλα απορριμμάτων να παραμένει σταθερά στερεωμένη χωρίς να προεξέχει από το καπάκι. Αυτό σας επιτρέπει να αλλάζετε τις σακούλες απορριμμάτων σας ομαλά και να διατηρείτε τους ανοξείδωτους κάδους απορριμμάτων σας τακτοποιημένους χωρίς να θυσιάζετε την κομψή εμφάνιση.  【Ανθεκτικό πεντάλ &amp; εύκολη κίνηση】 Το πεντάλ ανοίγει και κλείνει για να αποτρέψει την παραβίαση από κατοικίδιο ζώο κατά το μαγείρεμα, εξασφαλίζοντας υγιεινή και ασφάλεια. Το φαρδύ σκαμπό από ανοξείδωτο ατσάλι σάς επιτρέπει να ανοίγετε και να κλείνετε εύκολα το καπάκι, αρκετά ανθεκτικό ώστε να αντέχει στη συχνή χρήση. Οι λαβές και στις δύο πλευρές του κάδου απορριμμάτων μπορούν να διευκολύνουν τη μετακίνησή του εάν χρειαστεί.  Προδιαγραφές: Χρώμα: Μεταλλικό Ασημί. Υλικό: Ατσάλι, πλαστικό PP. Μέγεθος προϊόντος: Π 16,3 x Β 13,2 x Υ 19,4 cm. Ύψος όταν είναι ανοιχτό: 29,1 cm. Μέγεθος κάθε εσωτερικού κάδου: Π 8,9 x Β 18,2 x Υ 44,8 cm. Μέγεθος πεντάλ: Π 18,5 x Β 5,3 cm. Χωρητικότητα: 2 x 15 L. Βάρος προϊόντος: 4,9 kg  【Προειδοποίηση SONGMICS】Αυτός ο κάδος διαλογής απορριμμάτων προορίζεται μόνο για εσωτερική χρήση. Σκουπίστε με ένα μαλακό, υγρό πανί και χρησιμοποιήστε ουδέτερο απορρυπαντικό εάν είναι απαραίτητο. Μην πιέζετε το καπάκι για να παρατείνετε τη διάρκεια ζωής του κάδου απορριμμάτων. Σχετικά με το χρώμα: Το χρώμα του πραγματικού προϊόντος ενδέχεται να διαφέρει ανάλογα με τις ρυθμίσεις της οθόνης σας.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770500115</ID>
+		<Barcode>0194343042367</Barcode>
+		<Name>Songmics Μεταλλικός Κάδος Απορριμμάτων με Καπάκι Soft-Close και Εσωτερικό Κάδο 5lt, 29.9x14.4x29cm σε Μαύρο Χρώμα LTB560B05</Name>
+		<Product_Link>https://www.skroutz.gr/s/54767128/Songmics-ULTB560B05-Inox-Kalathaki-Mpaniou-Soft-Close-Gri.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/054767/54767128/fixedratio_20240705162722_songmics_ultb560b05_inox_kalathaki_mpaniou_soft_close_gri.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product1/LTB560B05/LTB560B05-2.jpg https://static.eu.distributor.songmics.com/storage/images/product1/LTB560B05/LTB560B05-3.jpg https://static.eu.distributor.songmics.com/storage/images/product1/LTB560B05/LTB560B05-4.jpg https://static.eu.distributor.songmics.com/storage/images/product1/LTB560B05/LTB560B05-5.jpg https://static.eu.distributor.songmics.com/storage/images/product1/LTB560B05/LTB560B05-6.jpg https://static.eu.distributor.songmics.com/storage/images/product1/LTB560B05/LTB560B05-7.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>15.00555</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>ULTB560B05</MPN>
+		<Description>[Λύση που εξοικονομεί χώρο] Με λεπτό προφίλ διαστάσεων 29,9 x 14,4 x 29 cm, αυτός ο κάδος μπάνιου 5L ταιριάζει άνετα σε μικρούς χώρους, προσφέροντας άφθονη χωρητικότητα ενώ καταλαμβάνει ελάχιστο χώρο στο δάπεδο  [Ιδανικό για Μπάνια] Κατασκευασμένο από ανθεκτικό στη σκουριά ατσάλι και με ερμητικά σφραγισμένο καπάκι, αυτός ο μικρός κάδος είναι ανθεκτικός στο νερό, διασφαλίζοντας ότι το εσωτερικό του παραμένει στεγνό. Είναι η ιδανική επιλογή για υγρά μπάνια.  [Κλείνει απαλά και παραμένει ανοιχτό] Αυτός ο κάδος τουαλέτας διαθέτει αθόρυβο καπάκι με απαλό κλείσιμο, χωρίς να δημιουργεί θόρυβο. Το καπάκι μπορεί να παραμείνει ανοιχτό για εύκολη απόρριψη των απορριμμάτων όταν χρειάζεται να καθαρίσετε το μπάνιο για μεγάλο χρονικό διάστημα.  [Αφαιρούμενος κουβάς &amp; εύχρηστη λαβή] Απλώς σηκώστε τον αφαιρούμενο εσωτερικό κουβά με τις ενσωματωμένες λαβές για να τον καθαρίσετε ή να τον αδειάσετε εύκολα. Η πίσω λαβή επιτρέπει την εύκολη μετακίνηση.  [Άνοιγμα χωρίς χέρια] Το καπάκι του μικρού κάδου απορριμμάτων του μπάνιου μπορεί να λειτουργήσει με το πεντάλ βήματος, επιτρέποντας γρήγορη απόρριψη των απορριμμάτων χωρίς να χρειάζεται να αγγίξετε τον κάδο</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770500116</ID>
+		<Barcode>0194343187341</Barcode>
+		<Name>Songmics Μεταλλικός Κάδος Απορριμμάτων με Καπάκι Soft-Close και Εσωτερικό Κάδο 6lt, 23.9x19.3x25.5cm σε Μαύρο Χρώμα LTB590B0602</Name>
+		<Product_Link>https://www.skroutz.gr/s/65506547/songmics-ltb590b0602-metalliko-kalathaki-mpaniou-soft-close-6lt-mayro.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/065506/65506547/fixedratio_20260217114644_songmics_ltb590b0602_metalliko_kalathaki_mpaniou_soft_close_6lt_mayro.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/skuImgs/251223/LTB590B0602/LTB590B0602-2.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LTB590B0602/LTB590B0602-3.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LTB590B0602/LTB590B0602-4.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LTB590B0602/LTB590B0602-5.jpg https://static.eu.distributor.songmics.com/skuImgs/251223/LTB590B0602/LTB590B0602-6.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>17.1492</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB590B0602</MPN>
+		<Description>Εξοικονόμηση χώρου: Μεγιστοποιεί τον χώρο της κουζίνας με λεπτό σχεδιασμό και μεγάλο άνοιγμα για εύκολη απόρριψη απορριμμάτων  Σταθερή βάση: Τα αντιολισθητικά μαξιλαράκια διατηρούν τον κάδο σταθερό και βοηθούν στην αποτροπή της ανατροπής του από τα κατοικίδια ζώα.  Μοντέρνα εμφάνιση: Το κομψό ατσάλινο σώμα αντιστέκεται στη σκουριά και καθαρίζεται εύκολα με σκούπισμα για διαρκές στυλ στην κουζίνα σας  Αθόρυβο &amp; Βολικό: Το καπάκι με απαλό κλείσιμο λειτουργεί αθόρυβα και παραμένει ανοιχτό για μεγαλύτερες εργασίες όταν χρειάζεται  Εύκολη αλλαγή σακούλας: Ο αφαιρούμενος εσωτερικός κάδος με λαβές και μια οπή ασφάλισης κάνει την αλλαγή σακούλας απλή</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>770500117</ID>
+		<Barcode>6955880357574</Barcode>
+		<Name>Songmics Κρεμαστός Μεταλλικός Κάδος Απορριμμάτων με Καπάκι και Εσωτερικό Κάδο 8lt, 25,8x15,2x 32cm σε Ασημί Χρώμα LTB810E08</Name>
+		<Product_Link>https://songmicshome.co.uk/products/songmics-8l-hanging-kitchen-steel-bin-with-lid-ukltb810?variant=47729106780498</Product_Link>
+		<Image_Link>https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/UKLTB810E08-4.jpg</Image_Link>
+		<Additional>https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-1.jpg https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-2.jpg https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-3-UK.jpg https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-5-UK.jpg https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-6-UK.jpg https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-7-UK.jpg https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-8-UK.jpg https://static.songmics.co.uk/fit-in/1000x1000/image/Product/UKLTB810E08/LTB810E08-9-UK.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.00666</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LTB810E08</MPN>
+		<Description>[Ανθεκτικό και Αποσμητικό] Αυτός ο κρεμαστός κάδος κουζίνας 8 λίτρων, κατασκευασμένος από ποιοτικό χάλυβα, είναι ανθεκτικός στη σκουριά και εύκολος στον καθαρισμό. Το ερμητικά σφραγισμένο καπάκι συγκρατεί αποτελεσματικά τις οσμές, διασφαλίζοντας ότι η κουζίνα σας παραμένει φρέσκια. [Πολυχρηστικές χρήσεις] Ο μικρός κάδος μπορεί να κρεμαστεί εκατέρωθεν των πορτών των ντουλαπιών (πάχους έως 2,5 cm) με το παρεχόμενο γάντζο, να τοποθετηθεί σε λείους τοίχους με το αυτοκόλλητο γάντζο ή απλά να τοποθετηθεί σε πάγκους—3 τρόποι για να ταιριάξει στις ανάγκες σας. [Άνοιγμα καπακιού με 2 τρόπους] Αυτός ο κρεμαστός κάδος στην πόρτα παρέχει 2 τρόπους για να ανοίξετε το καπάκι—ανασηκώστε ή σύρετε προς τα κάτω, επιτρέποντας την εύκολη απόρριψη των απορριμμάτων όταν ετοιμάζετε ένα γεύμα. [Εύκολο άδειασμα και αλλαγή επένδυσης] Ο κάδος απορριμμάτων τροφίμων διαθέτει έναν αφαιρούμενο εσωτερικό κουβά με λαβές, διευκολύνοντας τον καθαρισμό ή τη μεταφορά του στον κάδο κομποστοποίησης κήπου. Οι διπλές οπές για σακούλες καθιστούν εύκολη την ασφάλιση της σακούλας στη θέση της και μακριά από τα μάτια σας. [Ευρεία Εφαρμογή] Το λεπτό προφίλ αυτού του κρεμαστού κάδου απορριμμάτων τον καθιστά κατάλληλο για διάφορους χώρους όπως κουζίνες, μπάνια, τουαλέτες και τροχόσπιτα, παρέχοντας μια λύση απόρριψης απορριμμάτων που εξοικονομεί χώρο.  Προδιαγραφές:  Χρώμα: Μαύρο  Υλικό: Χαλύβδινος κάδος, Εσωτερικός κάδος από πλαστικό PP, Βάση από πλαστικό ABS Μέγεθος προϊόντος: 10,1"Μ x 6"Π x 12,6"Υ (25,8 x 15,2 x 32 cm) Ύψος με ανοιχτό καπάκι: 18,1" (46 cm) Μέγεθος εσωτερικού κάδου: 8,6"Μ x 5,2"Π x 12"Υ (21,9 x 13,3 x 30,5 cm) Όγκος: 2,1 γαλόνια (8 L) Βάρος προϊόντος: 2,7 λίβρες (1,2 kg) Περιεχόμενα συσκευασίας:  1 x Κρεμαστό Κάδος απορριμμάτων Σημειώσεις SONGMICS:  Αυτός ο κάδος απορριμμάτων προορίζεται μόνο για εσωτερική χρήση. Σκουπίστε με ένα μαλακό, υγρό πανί και χρησιμοποιήστε ήπιο απορρυπαντικό εάν είναι απαραίτητο.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>770500201</ID>
 		<Barcode>0194343027425</Barcode>
 		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Μαύρος με Πεντάλ 60lt LTB60BK</Name>
 		<Product_Link>https://www.skroutz.gr/s/25984963/Songmics-Kados-Aporrimmaton-apo-Anoxeidoto-Atsali-Mayros-me-Pental-60lt-LTB60BK.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/025984/25984963/fixedratio_20201202093304_songmics_inox_kados_aporrimmaton_me_pental_ltb60bk_60lt.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/036225/36225785/fixedratio_20201202093304_7099f7c7.jpeg https://d.scdn.gr/images/sku_images/036225/36225787/fixedratio_20201202093305_c0e14a3e.jpeg https://b.scdn.gr/images/sku_images/036225/36225788/fixedratio_20201202093305_ef335291.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19685,6 +19866,7 @@
 		<Name>Songmics Κάδος Απορριμμάτων Soft-Close από Ανοξείδωτο Ατσάλι με 2 Θέσεις Ασημί  με Πεντάλ 60lt LTB60NL</Name>
 		<Product_Link>https://www.skroutz.gr/s/25562860/Songmics-Soft-Close-Kados-Anakyklosis-Metallikos-Asimi-me-Pental-60lt-LTB60NL.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/025562/25562860/fixedratio_20201108145201_songmics_metallikos_kados_aporrimmaton_me_systima_soft_close_me_pental_ltb60nl_60lt.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/035738/35738632/fixedratio_20201108145202_60148fec.jpeg https://b.scdn.gr/images/sku_images/035738/35738635/fixedratio_20201108145202_99d7799f.jpeg https://b.scdn.gr/images/sku_images/035738/35738633/fixedratio_20201108145202_abfd4297.jpeg  https://c.scdn.gr/images/sku_images/035738/35738636/fixedratio_20201108145202_1467bbae.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19953,6 +20135,7 @@
 		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Υφασμάτινο Κάδο 50x33x72cm Μαύρο BLH101B01</Name>
 		<Product_Link>https://www.skroutz.gr/s/46912789/Vasagle-BLH101B01-Kalathi-Aplyton-Metalliko-me-Kapaki-50x33x72cm-Mayro.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/046912/46912789/fixedratio_20231020103636_vasagle_blh101b01_kalathi_aplyton_metalliko_50x33x72cm_mayro.jpeg</Image_Link>
+		<Additional>https://b.scdn.gr/images/sku_images/083793/83793549/fixedratio_20231020103642_7fd6e8ed.jpeg https://b.scdn.gr/images/sku_images/083793/83793539/fixedratio_20231020103640_5dabfbe2.jpeg https://b.scdn.gr/images/sku_images/102861/102861254/fixedratio_20241002115228_c3d46b3a.jpeg https://b.scdn.gr/images/sku_images/102861/102861210/fixedratio_20241002115226_9aae6f8a.jpeg https://d.scdn.gr/images/sku_images/102861/102861241/fixedratio_20241002115227_711ad555.jpeg https://c.scdn.gr/images/sku_images/102861/102861238/fixedratio_20241002115227_c1c6b7d9.jpeg https://a.scdn.gr/images/sku_images/102861/102861240/fixedratio_20241002115227_43e35836.jpeg https://a.scdn.gr/images/sku_images/102861/102861225/fixedratio_20241002115226_7af9fb65.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -19970,6 +20153,7 @@
 		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Υφασμάτινο Κάδο 50x33x72cm Λευκό BLH101W01</Name>
 		<Product_Link>https://www.skroutz.gr/s/46919073/Vasagle-BLH101W01-Kalathi-Aplyton-Metalliko-50x33x72cm-Leyko.html</Product_Link>
 		<Image_Link>https://c.scdn.gr/images/sku_main_images/046919/46919073/fixedratio_20231020130849_vasagle_blh101w01_kalathi_aplyton_metalliko_50x33x72cm_leyko.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/083809/83809762/fixedratio_20231020130856_2ad0c7ac.jpeg https://b.scdn.gr/images/sku_images/083809/83809760/fixedratio_20231020130852_550000da.jpeg https://c.scdn.gr/images/sku_images/102861/102861214/fixedratio_20241002115226_e8cd57e1.jpeg https://b.scdn.gr/images/sku_images/102861/102861221/fixedratio_20241002115226_68fdc32e.jpeg https://c.scdn.gr/images/sku_images/102861/102861216/fixedratio_20241002115226_4c74ba92.jpeg https://d.scdn.gr/images/sku_images/102861/102861246/fixedratio_20241002115227_2fb900d2.jpeg https://a.scdn.gr/images/sku_images/102861/102861215/fixedratio_20241002115226_d9850bbc.jpeg https://b.scdn.gr/images/sku_images/102861/102861242/fixedratio_20241002115227_41c2a75c.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -20071,11 +20255,48 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
+		<ID>7715006018</ID>
+		<Barcode>0194343156910</Barcode>
+		<Name>Songmics Καλάθι Απλύτων Υφασμάτινο 65lt με Καπάκι 42x22.5x70.5cm σε Μαύρο Χρώμα LCB506B01</Name>
+		<Product_Link>https://www.skroutz.gr/s/61562534/songmics-lcb506b01v1-kalathi-aplyton-yfasmatino-65lt-me-kapaki-42x22-5x70-5cm-mayro.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_images/117484/117484250/fixedratio_20250923110502_fac007ab.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-1.jpg.jpg https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-2.jpg.jpg https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-3.jpg.jpg https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-4.jpg.jpg https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-5.jpg.jpg https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-6.jpg.jpg https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-7.jpg.jpg https://static.eu.distributor.songmics.com/skuImgs/250319/LCB506B01V1/LCB506B01V1-8.jpg.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.44</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LCB506B01</MPN>
+		<Description>[Ευρύχωρο] Αυτό το λεπτό καλάθι πλυντηρίου 65 λίτρων, με διαστάσεις 42 x 22,5 x 70,5 εκ., είναι ειδικά σχεδιασμένο για να χωράει σε στενούς χώρους, καθιστώντας το ιδανικό καλάθι πλυντηρίου για μικρούς χώρους διαβίωσης ή μικρούς χώρους πλυντηρίων.  [Βολικό Καπάκι με Λαβή] Το καλάθι πλυντηρίου διαθέτει καπάκι που όχι μόνο κρατά τη σκόνη μακριά, αλλά προστατεύει και την ιδιωτικότητα κρύβοντας την ακαταστασία. Το λογότυπο από συνθετικό δέρμα στο καπάκι χρησιμεύει ως λαβή για εύκολο άνοιγμα, προσθέτοντας μια πινελιά κομψότητας.  [Αφαιρούμενη &amp; Ευέλικτη Επένδυση] Η επένδυση, που ασφαλίζεται με κουμπώματα τύπου hook-and-loop, μπορεί εύκολα να αφαιρεθεί και τα κορδόνια περίσφιξης λειτουργούν και ως λαβές για βολική μεταφορά. Ο σχεδιασμός με πλέγμα της επιτρέπει να χρησιμεύει ως τσάντα πλύσης για ταξινομημένα ρούχα στο πλυντήριο.  [Ανθεκτικό και Στιβαρό] Κατασκευασμένο από ύφασμα Oxford πάχους 600D, το καλάθι πλυντηρίου διαθέτει αντοχή στο νερό, αντοχή στο σκίσιμο και εύκολο καθάρισμα. Η εσωτερική του δομή, που υποστηρίζεται από ράβδους από υαλοβάμβακα, εξασφαλίζει σταθερότητα για τακτική χρήση.  [Εύκολη συναρμολόγηση] Με σαφείς οδηγίες και χωρίς να απαιτούνται εργαλεία, μπορείτε εύκολα να στηρίξετε αυτό το καλάθι πλυντηρίου σε μόλις 5 λεπτά.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>77150060181</ID>
+		<Barcode>194343055176</Barcode>
+		<Name>Songmics Καλάθι Απλύτων Υφασμάτινο 65lt με Καπάκι 42x22.5x70.5cm σε Γκρι Χρώμα LCB506G01</Name>
+		<Product_Link>https://www.skroutz.gr/s/56276274/Songmics-LCB506G01-Kalathi-Aplyton-Yfasmatino-65lt-me-Kapaki-42x22-5x70-5cm-Gri.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/056276/56276274/fixedratio_20240917100533_songmics_lcb506g01_kalathi_aplyton_yfasmatino_me_kapaki_42by22_5x70_5cm_gri.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/LCB506G01/LCB506G01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB506G01/LCB506G01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB506G01/LCB506G01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB506G01/LCB506G01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB506G01/LCB506G01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/LCB506G01/LCB506G01-8.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>18.44</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>LCB506G01</MPN>
+		<Description>[Εξοικονόμηση χώρου] Αυτό το λεπτό καλάθι πλυντηρίου 65 λίτρων, με διαστάσεις 42 x 22,5 x 70,5 cm, είναι ειδικά σχεδιασμένο για να ταιριάζει σε στενούς χώρους, καθιστώντας το ιδανικό καλάθι πλυντηρίου για μικρούς χώρους διαβίωσης ή μικρούς χώρους πλυντηρίων. [Βολικό καπάκι με λαβή] Το καλάθι πλυντηρίου διαθέτει καπάκι που όχι μόνο κρατά τη σκόνη μακριά, αλλά προστατεύει και την ιδιωτικότητα κρύβοντας την ακαταστασία. Το λογότυπο από συνθετικό δέρμα στο καπάκι χρησιμεύει ως λαβή για εύκολο άνοιγμα, προσθέτοντας μια πινελιά κομψότητας. [Αφαιρούμενη και ευέλικτη επένδυση] Η επένδυση, που ασφαλίζεται με κουμπώματα με γάντζο και θηλιά, μπορεί εύκολα να αφαιρεθεί και τα κορδόνια περίσφιξης λειτουργούν και ως λαβές για βολική μεταφορά. Ο σχεδιασμός πλέγματος του επιτρέπει να χρησιμεύει ως σακούλα πλύσης για ταξινομημένα ρούχα στο πλυντήριο. [Ανθεκτικό και στιβαρό] Κατασκευασμένο από ύφασμα Oxford πάχους 600D, το καλάθι πλυντηρίου διαθέτει αντοχή στο νερό, αντοχή στο σκίσιμο και εύκολο καθάρισμα. Η εσωτερική του δομή, που υποστηρίζεται από ράβδους fiberglass, εξασφαλίζει σταθερότητα για τακτική χρήση. [Εύκολη συναρμολόγηση] Με σαφείς οδηγίες και χωρίς να απαιτούνται εργαλεία, μπορείτε εύκολα να στηρίξετε αυτό το καλάθι πλυντηρίου σε μόλις 5 λεπτά.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>7715006021</ID>
 		<Barcode>0194343037967</Barcode>
 		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Διπλό Υφασμάτινο Κάδο 73x33x72cm Γκρι BLH201G01</Name>
 		<Product_Link>https://www.skroutz.gr/s/43081909/Vasagle-BLH201G01-Kalathi-Aplyton-Yfasmatino-73x33x72cm-Brown-Grey.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/043081/43081909/fixedratio_20230621132154_vasagle_blh201g01_kalathi_aplyton_plastiko_kafe.jpeg</Image_Link>
+		<Additional>https://a.scdn.gr/images/sku_images/077601/77601268/fixedratio_20230621132154_bcf42a6f.jpeg https://a.scdn.gr/images/sku_images/077601/77601271/fixedratio_20230621132154_fcdb4922.jpeg https://d.scdn.gr/images/sku_images/077601/77601270/fixedratio_20230621132154_55127437.jpeg https://d.scdn.gr/images/sku_images/077601/77601269/fixedratio_20230621132154_b6afd68e.jpeg https://b.scdn.gr/images/sku_images/077601/77601267/fixedratio_20230621132153_f6b82252.jpeg https://d.scdn.gr/images/sku_images/077601/77601272/fixedratio_20230621132154_6db0a66e.jpeg https://b.scdn.gr/images/sku_images/077601/77601273/fixedratio_20230621132154_d3692f20.jpeg https://c.scdn.gr/images/sku_images/077601/77601274/fixedratio_20230621132154_6b4cce93.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -20093,6 +20314,7 @@
 		<Name>Vasagle Καλάθι Απλύτων Μεταλλικό με Ξύλινο Ράφι και Διπλό Υφασμάτινο Κάδο 73x33x72cm Λευκό BLH201W01</Name>
 		<Product_Link>https://www.skroutz.gr/s/46912790/Vasagle-BLH201W01-Kalathi-Aplyton-Metalliko-73x33x72cm-Leyko.html</Product_Link>
 		<Image_Link>https://a.scdn.gr/images/sku_main_images/046912/46912790/fixedratio_20231020103637_vasagle_blh201w01_kalathi_aplyton_metalliko_73x33x72cm_leyko.jpeg</Image_Link>
+		<Additional>https://d.scdn.gr/images/sku_images/104272/104272980/fixedratio_20241104112752_9ee2e0ac.jpeg https://b.scdn.gr/images/sku_images/083793/83793540/fixedratio_20231020103640_4b92dae2.jpeg https://c.scdn.gr/images/sku_images/104272/104272975/fixedratio_20241104112752_ae21a061.jpeg https://b.scdn.gr/images/sku_images/104272/104272969/fixedratio_20241104112751_c02c1dd1.jpeg https://c.scdn.gr/images/sku_images/104272/104272977/fixedratio_20241104112752_1a62778d.jpeg https://c.scdn.gr/images/sku_images/104272/104272979/fixedratio_20241104112752_7579f0be.jpeg https://a.scdn.gr/images/sku_images/104272/104272978/fixedratio_20241104112752_7019720f.jpeg https://a.scdn.gr/images/sku_images/104272/104272972/fixedratio_20241104112752_7f464570.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
@@ -20731,19 +20953,55 @@
 	<product>
 		<ID>771700301</ID>
 		<Barcode>0194343013435</Barcode>
-		<Name>Songmics Μεταλλική Μονάδα Ραφιών, Βαρέως Τύπου, 5 Επιπέδων Μ100xΠ50xΥ2000cm σε Μαύρο Χρώμα GLR050B01</Name>
+		<Name>Songmics Μεταλλική Μονάδα Ραφιών, Βαρέως Τύπου, 5 Επιπέδων Μ100xΠ50xΥ200cm σε Μαύρο Χρώμα GLR050B01</Name>
 		<Product_Link>https://www.e-dructer.com/vendors/songmics/songmics-%CE%B2%CE%B1%CF%81%CE%B5%CF%89%CF%83-%CF%84%CF%85%CF%80%CE%BF%CF%85-%CF%81%CE%B1%CF%86%CE%B9%CE%B5%CF%81%CE%B1-5-%CE%B5%CF%80%CE%B9%CF%80%CE%B5%CE%B4%CF%89%CE%BD-%CE%B1%CF%80%CF%8C-%CE%B1%CF%84%CF%83%CE%B1%CE%BB%CE%B9-50-x-100-x-200-%CE%B5%CE%BA-%CE%BC%CE%B1%CF%85%CF%81%CE%BF-glr050b01%C2%A0-12-%CE%B1%CF%84%CE%BF%CE%BA%CE%B5%CF%83-%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%83-%CE%BA%CE%B1%CE%B9-5-cash-back.htm</Product_Link>
 		<Image_Link>https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-1.jpg</Image_Link>
 		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-7-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR050B01/GLR050B01-8.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>52.8333</Price>
+		<Price>61.1754</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κήπος - Εργαλεία&gt; Ραφιέρες &amp; Εξαρτήματα Dexion&gt; Ραφιέρες Dexion</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
 		<MPN>GLR050B01</MPN>
 		<Description>[Βαρέως τύπου &amp; Σταθερό] Αυτή η ραφιέρα γκαράζ είναι κατασκευασμένη με ατσάλινο σκελετό και κάθε επίπεδο μπορεί να αντέξει έως και 120 κιλά. Το κιτ αντι-ανατροπής που περιλαμβάνεται μπορεί να βοηθήσει στην τοποθέτηση της ραφιέρας στον τοίχο, καθιστώντας την πιο σταθερή και ασφαλή.  [Διαιρούμενο] Αυτή η μεταλλική μονάδα ραφιών μπορεί να χωριστεί σε 2 ξεχωριστές μονάδες για να ταιριάζει στις ανάγκες αποθήκευσης και στον χώρο σας. Μόλις χωριστούν, λειτουργούν επίσης ιδανικά ως πάγκοι εργασίας με αποθηκευτικό χώρο.  [Ρυθμιζόμενα ράφια] Κάθε επίπεδο μπορεί εύκολα να ρυθμιστεί ανά 5 cm, καλύπτοντας τις ανάγκες σας για αποθήκευση αντικειμένων διαφορετικών μεγεθών  [Μεγάλο Μέγεθος, Μεγάλη Χωρητικότητα] Με διαστάσεις 50 x 100 x 200 cm και συνολική χωρητικότητα φορτίου 600 kg, αυτή η ραφιέρα μπορεί να χρησιμοποιηθεί σε γκαράζ, αποθήκη, κελάρι ή βοηθητικό χώρο για να οργανώσετε όλα τα εργαλεία και τον εξοπλισμό σας.  [Εύκολη συναρμολόγηση χωρίς εργαλεία] Με σχεδιασμό αλληλοσύνδεσης και σαφείς οδηγίες, αυτή η ανθεκτική μονάδα ραφιών είναι εύκολη στη συναρμολόγηση και δεν απαιτεί εργαλεία  Προδιαγραφές: - Χρώμα: Μαύρο - Υλικό: Ατσάλινο πλαίσιο, MDF (Ινοσανίδα μέσης πυκνότητας) - Μέγεθος προϊόντος: 200 x 100 x 50 εκ. (Υ x Μ x Π) - Βάρος προϊόντος: 16,8 kg - Μέγιστη στατική ικανότητα φορτίου ανά επίπεδο: 175 kg  Περιεχόμενα συσκευασίας: - 1 x Μονάδα ραφιών - 1 x Κιτ προστασίας από ανατροπή - 1 x Οδηγίες</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>771700302</ID>
+		<Barcode>0194343104119</Barcode>
+		<Name>Songmics Μεταλλική Μονάδα Ραφιών, Βαρέως Τύπου, 5 Επιπέδων Μ90xΠ40xΥ180cm σε Μαύρο Χρώμα GLR040B01</Name>
+		<Product_Link>https://www.skroutz.gr/s/38616792/Songmics-Rafiera-Dexion-90x40x180ek-me-5-Rafia-Synolikis-Antochis-875kg.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/038616/38616792/xlarge_20221010154238_rafiera_dexion_me_5_xylina_rafia_m90xv40xy180ek_glr040b01.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/GLR040B01/GLR050B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR040B01/GLR050B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR040B01/GLR050B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR040B01/GLR050B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR040B01/GLR050B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR040B01/GLR050B01-7.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>45.88155</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Κήπος - Εργαλεία&gt; Ραφιέρες &amp; Εξαρτήματα Dexion&gt; Ραφιέρες Dexion</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>GLR040B01</MPN>
+		<Description>[Βαρέως τύπου &amp; Σταθερό] Αυτή η ραφιέρα γκαράζ είναι κατασκευασμένη με ατσάλινο σκελετό και κάθε επίπεδο μπορεί να αντέξει έως και 175 κιλά. Το κιτ αντι-ανατροπής που περιλαμβάνεται μπορεί να βοηθήσει στην τοποθέτηση της ραφιέρας στον τοίχο, καθιστώντας την πιο σταθερή και ασφαλή.  [Διαιρούμενο] Αυτή η μεταλλική μονάδα ραφιών μπορεί να χωριστεί σε 2 ξεχωριστές μονάδες για να ταιριάζει στις ανάγκες αποθήκευσης και στον χώρο σας. Μόλις χωριστούν, λειτουργούν επίσης ιδανικά ως πάγκοι εργασίας με αποθηκευτικό χώρο.  [Ρυθμιζόμενα ράφια] Κάθε επίπεδο μπορεί εύκολα να ρυθμιστεί ανά 5 cm, καλύπτοντας τις ανάγκες σας για αποθήκευση αντικειμένων διαφορετικών μεγεθών  [Μεγάλο Μέγεθος, Μεγάλη Χωρητικότητα] Με διαστάσεις 40 x 90 x 180 cm και συνολική χωρητικότητα φορτίου 875 kg, αυτή η ραφιέρα μπορεί να χρησιμοποιηθεί σε γκαράζ, αποθήκη, κελάρι ή βοηθητικό χώρο για να οργανώσετε όλα τα εργαλεία και τον εξοπλισμό σας.  [Εύκολη συναρμολόγηση χωρίς εργαλεία] Με σχεδιασμό αλληλοσύνδεσης και σαφείς οδηγίες, αυτή η ανθεκτική μονάδα ραφιών είναι εύκολη στη συναρμολόγηση και δεν απαιτεί εργαλεία</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
+		<ID>771700303</ID>
+		<Barcode>0194343153995</Barcode>
+		<Name>Songmics Μεταλλική Μονάδα Ραφιών, Βαρέως Τύπου, 5 Επιπέδων Μ120xΠ60xΥ200cm σε Μαύρο Χρώμα GLR060B01</Name>
+		<Product_Link>https://www.skroutz.gr/s/47947276/Songmics-Rafiera-Dexion-120x60x200ek-me-5-Rafia-Synolikis-Antochis-875kg.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/047947/47947276/xlarge_20231110165024_songmics_rafiera_dexion_120x200x60ek_glr060b01.jpeg</Image_Link>
+		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/GLR060B01/GLR060B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR060B01/GLR060B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR060B01/GLR060B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR060B01/GLR060B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR060B01/GLR060B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR060B01/GLR060B01-7-DE.jpg https://static.eu.distributor.songmics.com/storage/images/product100/GLR060B01/GLR060B01-8.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>76.46925000000002</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Κήπος - Εργαλεία&gt; Ραφιέρες &amp; Εξαρτήματα Dexion&gt; Ραφιέρες Dexion</Category_Path>
+		<Manufacturer>Songmics</Manufacturer>
+		<MPN>GLR060B01</MPN>
+		<Description>[Βαρέως τύπου &amp; Σταθερό] Αυτή η ραφιέρα γκαράζ είναι κατασκευασμένη με ατσάλινο σκελετό και κάθε επίπεδο μπορεί να αντέξει έως και 175 κιλά. Το κιτ αντι-ανατροπής που περιλαμβάνεται μπορεί να βοηθήσει στην τοποθέτηση της ραφιέρας στον τοίχο, καθιστώντας την πιο σταθερή και ασφαλή.  [Διαιρούμενο] Αυτή η μεταλλική μονάδα ραφιών μπορεί να χωριστεί σε 2 ξεχωριστές μονάδες για να ταιριάζει στις ανάγκες αποθήκευσης και στον χώρο σας. Μόλις χωριστούν, λειτουργούν επίσης ιδανικά ως πάγκοι εργασίας με αποθηκευτικό χώρο.  [Ρυθμιζόμενα ράφια] Κάθε επίπεδο μπορεί εύκολα να ρυθμιστεί ανά 5 cm, καλύπτοντας τις ανάγκες σας για αποθήκευση αντικειμένων διαφορετικών μεγεθών  [Μεγάλο Μέγεθος, Μεγάλη Χωρητικότητα] Με διαστάσεις 60 x 120 x 200 cm και συνολική χωρητικότητα φορτίου 875 kg, αυτή η ραφιέρα μπορεί να χρησιμοποιηθεί σε γκαράζ, αποθήκη, κελάρι ή βοηθητικό χώρο για να οργανώσετε όλα τα εργαλεία και τον εξοπλισμό σας.  [Εύκολη συναρμολόγηση χωρίς εργαλεία] Με σχεδιασμό αλληλοσύνδεσης και σαφείς οδηγίες, αυτή η ανθεκτική μονάδα ραφιών είναι εύκολη στη συναρμολόγηση και δεν απαιτεί εργαλεία</Description>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -24066,7 +24324,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>3.2060448</Price>
+		<Price>3.44</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Αναλώσιμα Γραφείου &gt; Αναλώσιμα Καθαρισμού Γραφείου</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -26376,7 +26634,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.588420288888888</Price>
+		<Price>5.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -26393,7 +26651,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>5.588420288888888</Price>
+		<Price>5.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Φωτιστικά Εσωτερικού Χώρου&gt; Διακοσμητικά Φωτιστικά</Category_Path>
 		<Manufacturer>Esperanza</Manufacturer>
@@ -30139,7 +30397,7 @@
 		<MPN>0111</MPN>
 		<Weight>0.1 kg</Weight>
 		<Description>Τα φιλέτα σκουμπριού JOLY σε αυτήν την κονσέρβα 125gr προσφέρουν μια πικάντικη εμπειρία γεύσης. Τα φιλέτα σκουμπριού παρασκευάζονται με ποιοτικά ψάρια και είναι εμποτισμένα σε ηλιέλαιο, που διατηρεί τη φρεσκάδα και τη γεύση τους. Η πικάντικη πινελιά προστίθεται με μια προσεκτική επιλογή μπαχαρικών και αρωμάτων, προσδίδοντας ένταση και ζωντάνια στη γεύση τους.</Description>
-		<Quantity>10</Quantity>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>85229</ID>
@@ -30806,7 +31064,7 @@
 		<MPN>1026</MPN>
 		<Weight>15 kg</Weight>
 		<Description>Ξηρά τροφή από την Nitsiakos, κατάλληλη για ενήλικες γάτες. Είναι ιδανική για μια ισορροπημένη διατροφή και προσφέρει την απαραίτητη ενέργεια που χρειάζονται για τις καθημερινές τους ανάγκες.• Κυρίως συστατικό: Κρέας, Ψάρια• Συσκευασία: 15kg</Description>
-		<Quantity>98</Quantity>
+		<Quantity>100</Quantity>
 	</product>
 	<product>
 		<ID>99111</ID>
