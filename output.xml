@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-07-07 16:05</created_at>
+	<created_at>2026-07-07 16:50</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -194,24 +194,6 @@
 		<MPN>ΜΠ-320271</MPN>
 		<Description>Είδος:Χωρίς Αλκοόλ Περιεκτικότητα σε αλκοόλ:0,5% Προέλευση:ΕλλάδαΑπό:2017  Η ΦΙΞ Άνευ έχει αυθεντική γεύση μπύρας χωρίς αλκοόλ. Με την ισορροπημένη πικράδα και με το εκλεπτυσμένο, ανθώδες μπουκέτο αρωμάτων της, στο οποίο κυριαρχεί το άρωμα της βύνης, αφήνοντας έτσι μια ολοκληρωμένη επίγευση μακράς διάρκειας.  Η ΦΙΞ Άνευ αποτελεί μια διαφορετική πρόταση για όλες εκείνες τις περιστάσεις που επιθυμούμε να απολαύσουμε τη γεύση του αγαπημένου μας ποτού, άνευ αλκοόλ! Για τις μικρές ή τις μεγάλες παρέες, για μέσα ή έξω από το σπίτι, η ΦΙΞ Άνευ είναι μια δροσιστική επιλογή για το διάλειμμα στη δουλειά, ταιριάζει ιδανικά με ελαφριά σνακ, φρέσκες σαλάτες ή μακαρόνια με μόνο 14 θερμίδες ανά 100ml για απόλαυση … άνευ προηγουμένου!</Description>
 		<Quantity>100</Quantity>
-	</product>
-	<product>
-		<ID>32227</ID>
-		<Barcode>5203076051135</Barcode>
-		<Name>ΒΕΡΓΙΝΑ FREE 6x330ml</Name>
-		<Product_Link>https://www.skroutz.gr/s/26444369/Vergina-Low-Alcohol-Kouti-6-x-330ml.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/026444/26444369/20201231123546_vergina_low_alcohol_kouti_6_x_330ml.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>6ΑΔΑ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>0.25</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.79</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος &gt; Ποτά &amp; Αξεσουάρ Ποτών &gt; Μπύρες</Category_Path>
-		<Manufacturer>ΒΕΡΓΙΝΑ</Manufacturer>
-		<MPN>505</MPN>
-		<Weight>2 kg</Weight>
-		<Description>Η μπύρα low alcohol της εταιρείας Βεργίνα είναι μία μπύρα με χαμηλή περιεκτικότητα σε αλκοόλ, που δεν υστερεί όμως σε γεύση. Χρώμα: Ξανθιά. Αλκοόλ : 0%</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>32323</ID>
@@ -2069,7 +2051,7 @@
 		<Manufacturer>ΙΟΛΗ</Manufacturer>
 		<MPN>130701</MPN>
 		<Description>Αναβλύζει στους πρόποδες της οροσειράς Οίτης και εμφιαλώνεται κατευθείαν στην πηγή, χωρίς να υφίσταται κανενός είδους επεξεργασία ή επέμβαση στη σύστασή του. Ιδανικά ισορροπημένο και εμπλουτισμένο από την φύση με πολύτιμα στοιχεία απαραίτητα για την σωστή λειτουργία του ανθρώπινου οργανισμού. Αγνό, Εύγευστο και Πολύτιμο, ξεχωρίζει για τον σύγχρονο χαρακτήρα, την μοναδική του ποιότητα και αποτελεί ιδανική επιλογή για ευεξία και ισορροπία σώματος και πνεύματος.</Description>
-		<Quantity>1352</Quantity>
+		<Quantity>1350</Quantity>
 	</product>
 	<product>
 		<ID>20403</ID>
@@ -4946,7 +4928,7 @@
 		<MPN>1165</MPN>
 		<Weight>0.8 kg</Weight>
 		<Description>Είναι δύσκολο να μη το "ερωτευθεις" αφού σφύζει από αρώματα ροδάκινου, βερίκοκου τροπικών φρούτων και λουλουδιών στη μύτη, ενώ στο στόμα συνδυάζει μια υπέροχη γλύκα, με ελαφρύ χαρακτήρα και δροσιστικές φυσαλίδες. Ένα καλοφτιαγμένο Moscato d' Asti, από τη γειτονική Ιταλία με εξαιρετική σχέση ποιότητας-τιμής που σίγουρα θα σας ξετρελάνει.</Description>
-		<Quantity>362</Quantity>
+		<Quantity>361</Quantity>
 	</product>
 	<product>
 		<ID>58108</ID>
@@ -12335,7 +12317,7 @@
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>155737</MPN>
 		<Description>ουβάς χωρητικότητας 10Lt  - Πανί 100% μικροϊνών που προσφέρουν  απορροφητικότητα, καθαριστική απόδοση και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό (έρευνα από ανεξάρτητο, διαπιστευμένο ινστιτούτο μικροβιολογίας και ανοσολογίας)  - Αποδοτικό στύψιμο για να στεγνώνει το πάτωμα πιο γρήγορα  - Μπορεί να χρησιμοποιηθεί για στεγνό ή βρεγμένο καθάρισμα αφού λειτουργεί ως παρκετέζα καθώς και ως σφουγγαρίστρα</Description>
-		<Quantity>200</Quantity>
+		<Quantity>199</Quantity>
 	</product>
 	<product>
 		<ID>740510112</ID>
@@ -12353,7 +12335,7 @@
 		<Manufacturer>VILEDA</Manufacturer>
 		<MPN>155747</MPN>
 		<Description>Με νέα σύνθεση από 100% μικροΐνες που προσφέρουν μέγιστη απορροφητικότητα και απομακρύνουν πάνω από το 99% των βακτηρίων μόνο με νερό.  Οι λευκές μικροΐνες εξασφαλίζουν τέλεια καθαριότητα για πάτωμα που αστράφτει. Οι κόκκινες μικροΐνες χαρίζουν βαθύ καθαρισμό και απομακρύνουν ακόμα και την πιο επίμονη βρωμιά. Είναι κατάλληλο για όλους τους τύπους πατώματος. Πλένεται στο πλυντήριο στους 60°C.</Description>
-		<Quantity>865</Quantity>
+		<Quantity>864</Quantity>
 	</product>
 	<product>
 		<ID>740510201</ID>
@@ -12404,7 +12386,7 @@
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>175775</MPN>
 		<Description>Περιγραφή Ανακαλύψτε τη δύναμη του καθαρισμού με το Vileda H2PrO Flachwischer Set, το ιδανικό εργαλείο για την καθαριότητα του σπιτιού σας.  Δύο δεξαμενές για διαχωρισμό καθαριστικών και καθαρού νερού. Εργονομικός σχεδιασμός για άνεση και ευκολία στη χρήση. Ελαφρύς χειριστής, ιδανικός για δύσκολες γωνίες. Απομάκρυνση βρωμιάς και σκόνης από όλα τα δάπεδα. Πρώτη δεξαμενή για καθαριστικό διάλυμα και δεύτερη για καθαρό νερό. Πλάκα καθαρισμού με δυνατότητα πλυσίματος για εύκολη συντήρηση. Ιδανικό για καθημερινή χρήση ώστε να διατηρείτε το σπίτι σας καθαρό και τακτοποιημένο. Προϊόντα Vileda - αναγνωρίσιμη γκάμα για την ποιότητα και την καινοτομία τους.</Description>
-		<Quantity>118</Quantity>
+		<Quantity>117</Quantity>
 	</product>
 	<product>
 		<ID>740510212</ID>
@@ -12438,7 +12420,7 @@
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>178333</MPN>
 		<Description>Περιγραφή Το Vileda H2PrO Spin Mop Set είναι ένα προηγμένο σετ σφουγγαρίστρας που προσφέρει αποτελεσματικό και υγιεινό καθάρισμα για όλα τα σκληρά δάπεδα του σπιτιού σας.  Διαθέτει καινοτόμο σύστημα διπλής δεξαμενής (Zweitanksystem), που διαχωρίζει το καθαρό από το βρώμικο νερό, ώστε να σφουγγαρίζετε πάντα με καθαρό νερό και να αποφεύγετε τη μεταφορά βρωμιάς στο δάπεδο. Το δοχείο καθαρού νερού έχει χωρητικότητα 6 λίτρων, επαρκές για τον καθαρισμό μεγάλων επιφανειών χωρίς συχνή αλλαγή νερού. Η σφουγγαρίστρα διαθέτει μικροϊνες για αποτελεσματική απομάκρυνση της βρωμιάς και των λεκέδων και είναι ιδανική για γωνίες χάρη στο τριγωνικό της σχήμα. Το κεφάλι της σφουγγαρίστρας πλένεται στο πλυντήριο έως και στους 60°C, προσφέροντας μακροχρόνια χρήση και υγιεινή φροντίδα. Ο κάδος διαθέτει πεντάλ για εύκολο και αποδοτικό στύψιμο: όσο περισσότερο πατάτε το πεντάλ, τόσο πιο στεγνή γίνεται η σφουγγαρίστρα. Το τηλεσκοπικό κοντάρι προσαρμόζεται στο επιθυμητό ύψος για άνετη χρήση.</Description>
-		<Quantity>41</Quantity>
+		<Quantity>40</Quantity>
 	</product>
 	<product>
 		<ID>740510222</ID>
@@ -12455,7 +12437,7 @@
 		<Manufacturer>Vileda</Manufacturer>
 		<MPN>178331</MPN>
 		<Description>Περιγραφή Η ανταλλακτική κεφαλή Vileda H2Pro Classic είναι σχεδιασμένη ειδικά για τη σφουγγαρίστρα H2Pro Spin Mop, προσφέροντας αποτελεσματικό και υγιεινό καθάρισμα σε κάθε επιφάνεια του σπιτιού σας. Κατασκευασμένη από υψηλής ποιότητας μικροΐνες, απορροφά άμεσα τη βρωμιά και τα υγρά, αφήνοντας τα πατώματα αστραφτερά και χωρίς γραμμές.  Χαρακτηριστικά: Υλικό: Μικροΐνες υψηλής αντοχής για μέγιστη απορροφητικότητα και καθαριστική δύναμη.  Συμβατότητα: Ιδανική για το σύστημα σφουγγαρίσματος Vileda H2Pro Spin Mop.  Εύκολη τοποθέτηση: Απλή αντικατάσταση με ένα κλικ, χωρίς εργαλεία.  Πλενόμενη: Πλένεται στο πλυντήριο για επαναλαμβανόμενη χρήση και υγιεινή.  Ιδανική για όλους τους τύπους δαπέδων: Ξύλο, πλακάκι, μάρμαρο, laminate</Description>
-		<Quantity>76</Quantity>
+		<Quantity>75</Quantity>
 	</product>
 	<product>
 		<ID>74201</ID>
@@ -18214,7 +18196,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>27.28</Price>
+		<Price>27.26</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Επαγγελματικά - B2B&gt; Ξενοδοχειακός Εξοπλισμός Δωματίου&gt; Μπαγκαζιέρες Ξενοδοχείου</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -18411,7 +18393,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>175.86</Price>
+		<Price>158.28</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Διακοσμητικά Δαπέδου &gt; Καθρέπτες Δαπέδου</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -18603,37 +18585,39 @@
 		<ID>770140101</ID>
 		<Barcode>0194343107882</Barcode>
 		<Name>Vasagle Διπλό Μεταλλικό Κρεβάτι 198x141,8x86,4cm για Στρώμα 140x190cm σε Μαύρο Χρώμα RMB063B01</Name>
-		<Product_Link>https://www.e-dructer.com/vendors/vasagle/vasagle-%CF%83%CF%84%CE%B9%CE%B2%CE%B1%CF%81%CF%8C-%CE%BC%CE%B5%CF%84%CE%B1%CE%BB%CE%BB%CE%B9%CE%BA%CF%8C-%CE%B4%CE%B9%CF%80%CE%BB%CF%8C-%CE%BA%CF%81%CE%B5%CE%B2%CE%B1%CF%84%CE%B9-%CE%BC%CE%B1%CF%85%CF%81%CE%BF-140-x-190-cmrmb063b01%C2%A0-12-%CE%B1%CF%84%CE%BF%CE%BA%CE%B5%CF%83-%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%83-%CE%BA%CE%B1%CE%B9-5-cash-back.htm</Product_Link>
-		<Image_Link>https://www.e-dructer.com/mediastream/w640/files/products/2e4dfeb6c4ebe1a08c9c2d0a79bc7054.jpg.webp</Image_Link>
+		<Product_Link>https://www.skroutz.gr/s/47947571/Krevati-Diplo-Black-me-Tavles-gia-Stroma-140x190cm-RMB063B01.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/047947/47947571/fixedratio_20231110165547_krevati_diplo_metalliko_black_me_tavles_gia_stroma_140x190cm_rmb063b01.jpeg</Image_Link>
 		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-7.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-8.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063B01/RMB063B01-9.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>84.88854</Price>
+		<Price>94.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Έπιπλα Κρεβατοκάμαρας&gt; Κρεβάτια</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>RMB063B01</MPN>
 		<Description>Αγαπώντας το απλό αλλά κομψό: Δημιουργήστε το κρησφύγετο των ονείρων σας με αυτό το μεταλλικό σκελετό κρεβατιού. Η απλή σιλουέτα και τα κομψά σχέδια στο υποπόδιο και το κεφαλάρι προσθέτουν στυλ, καθιστώντας αυτό το σκελετό κρεβατιού μια μεγάλη νίκη για την κρεβατοκάμαρά σας (αλλά και για το πορτοφόλι σας).  Λίγος χώρος; Μην ανησυχείτε! Με μικρό μέγεθος 198 x 141,8 x 86,4 εκ.—αυτό το πλαίσιο διπλού κρεβατιού, κατάλληλο για στρώμα 140 x 190 εκ. (δεν περιλαμβάνεται), θα χωρέσει εύκολα σε δωμάτια με περιορισμένο χώρο και διακόσμηση από μοντέρνα μινιμαλιστική έως βιομηχανική γοητεία.  Μακροχρόνια Ευτυχία: Αξίζει να βασιστείτε σε αυτό, αυτό το ανθεκτικό, διπλό κρεβάτι στηρίζεται σε ένα χαλύβδινο πλαίσιο, ενισχυμένο με 9 μεταλλικά πόδια και ενισχυμένο με μεταλλικές ράβδους. Αυτή η ομάδα υποστηρίζει συνολικά έως και 225 κιλά.  Η συναρμολόγηση έγινε ευκολότερη: Γνωρίζουμε ότι δεν είναι όλοι ειδικοί στις κατασκευές. Γι' αυτό σας παρέχουμε ένα κιτ συναρμολόγησης, εύκολες οδηγίες και ένα βολικό σχέδιο πτυσσόμενου σκελετού. Η συναρμολόγηση αυτού του σκελετού διπλού κρεβατιού δεν θα απαιτήσει μεγάλη προσπάθεια!  Δυσκολίες στη Λήψη Αποφάσεων; Μπορείτε να εφαρμόσετε οποιαδήποτε από τις ιδέες σας για το σχεδιασμό — χρησιμοποιήστε το στον κοιτώνα σας για να προσθέσετε αισθητική που κάνει τη διαφορά, πάρτε το στο δωμάτιο των επισκεπτών όταν μένουν οι φίλοι σας, τοποθετήστε το στο δωμάτιο του παιδιού σας για να αντέχει τον ξέφρενο χρόνο παιχνιδιού ή...  Προδιαγραφές: - Χρώμα: Μαύρο - Υλικό: Μέταλλο με ηλεκτροστατική βαφή - Μέγεθος προϊόντος: 198 x 141,8 x 86,4 cm (Μ x Π x Υ) - Βάρος προϊόντος: 19,8 kg - Μέγιστη στατική ικανότητα φορτίου: 225 kg  Περιεχόμενα συσκευασίας: - 1 x Πλαίσιο κρεβατιού - 1 x Κιτ συναρμολόγησης - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
 		<Quantity>0</Quantity>
+		<Color>Black</Color>
 	</product>
 	<product>
 		<ID>770140102</ID>
 		<Barcode>0194343020433</Barcode>
 		<Name>Vasagle Διπλό Μεταλλικό Κρεβάτι 198x141,8x86,4cm για Στρώμα 140x190cm σε Λευκό Χρώμα RMB063W01</Name>
-		<Product_Link>https://www.e-dructer.com/vendors/vasagle/vasagle-rmb063w01-%CE%BB%CE%B5%CF%85%CE%BA%CF%8C-%CE%BC%CE%B5%CF%84%CE%B1%CE%BB%CE%BB%CE%B9%CE%BA%CF%8C-%CE%B4%CE%B9%CF%80%CE%BB%CF%8C-%CE%BA%CF%81%CE%B5%CE%B2%CE%B1%CF%84%CE%B9-140-x-190-cm%C2%A0-12-%CE%B1%CF%84%CE%BF%CE%BA%CE%B5%CF%83-%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%83-%CE%BA%CE%B1%CE%B9-5-cash-back.htm</Product_Link>
+		<Product_Link>https://www.skroutz.gr/s/47947571/Krevati-Diplo-Black-me-Tavles-gia-Stroma-140x190cm-RMB063B01.html</Product_Link>
 		<Image_Link>https://www.e-dructer.com/mediastream/w640/files/products/1bc0dc4ec64991dce971309c363c4cab.jpg.webp</Image_Link>
 		<Additional>https://static.eu.distributor.songmics.com/storage/images/product100/RMB063W01/RMB063W01-2.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063W01/RMB063W01-3.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063W01/RMB063W01-4.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063W01/RMB063W01-5.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063W01/RMB063W01-6.jpg https://static.eu.distributor.songmics.com/storage/images/product100/RMB063W01/RMB063W01-7.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>84.88854</Price>
+		<Price>94.32</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Διακόσμηση&gt; Έπιπλα Κρεβατοκάμαρας&gt; Κρεβάτια</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
 		<MPN>RMB063W01</MPN>
 		<Description>Απλό αλλά κομψό: με αυτό το πλαίσιο κρεβατιού μπορείτε να δημιουργήσετε μια ζεστή φωλιά. Με τον απλό σχεδιασμό και τα κομψά σχέδια στο κεφαλάρι, αυτό το πλαίσιο κρεβατιού δίνει στους τέσσερις τοίχους σας μια μοναδική πινελιά χωρίς να επιβαρύνει το πορτοφόλι σας.  Μικρός χώρος; Μην ανησυχείτε! Με διαστάσεις 78 x 55 x 34 ίντσες, αυτό το κομψό πλαίσιο διπλού κρεβατιού σε βιομηχανικό στιλ ταιριάζει αβίαστα σε μικρούς χώρους. Τα στρώματα μεγέθους 140 x 190 είναι τα καλύτερα (δεν περιλαμβάνονται)  ΧΡΟΝΟ ΜΕ ΤΟ ΧΡΟΝΟ: Με ένα ισχυρό ατσάλινο σκελετό, 9 ανθεκτικά μεταλλικά πόδια και 11 στιβαρές δοκούς στήριξης, αυτό το πλαίσιο διπλού κρεβατιού είναι άρτια εξοπλισμένο για μεγάλη διάρκεια ζωής. Η μέγιστη ικανότητα φόρτωσης είναι 225 κιλά - ένας αξιόπιστος φίλος στο δωμάτιό σας!  Συναρμολόγηση: Απλή. Δεν είναι όλοι ειδικοί στις κατασκευές. Με τη βοήθεια του πακέτου αξεσουάρ, των εύκολων στην παρακολούθηση οδηγιών και του πρακτικού σχεδιασμού με πτυσσόμενο πλαίσιο, μπορείτε εύκολα να στήσετε αυτό το πλαίσιο κρεβατιού. Δεν χάνουμε ποτέ τον χρόνο σας.  Πού το τοποθετείτε; Στο κοινόχρηστο δωμάτιο για να δημιουργήσετε μια ξεχωριστή πινελιά στο δωμάτιο των επισκεπτών σας, ώστε οι καλεσμένοι σας να αισθάνονται απόλυτα άνετα ή στο δωμάτιο του εφήβου σας για να εκφράσετε το προσωπικό του στυλ; Η επιλογή είναι δική σας.  Προδιαγραφές: - Χρώμα: Λευκό - Υλικό: Μέταλλο με ηλεκτροστατική βαφή - Μέγεθος προϊόντος: 198 x 141,8 x 86,4 cm (Μ x Π x Υ) - Βάρος προϊόντος: 19,8 kg - Μέγιστη στατική ικανότητα φορτίου: 225 kg  Περιεχόμενα συσκευασίας: - 1 x Πλαίσιο κρεβατιού - 1 x Κιτ συναρμολόγησης - 1 x Οδηγίες (EN, DE, FR, ES, IT)</Description>
 		<Quantity>0</Quantity>
+		<Color>White</Color>
 	</product>
 	<product>
 		<ID>770160101</ID>
@@ -18735,7 +18719,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>47.16030000000001</Price>
+		<Price>53.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Οικιακής Χρήσης &gt; Κάδοι Απορριμμάτων</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -19129,7 +19113,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>22.508325</Price>
+		<Price>24.31</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>SIDIRELA</Manufacturer>
@@ -19147,7 +19131,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.44</Price>
+		<Price>20.65</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -19219,7 +19203,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.44</Price>
+		<Price>16.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -19237,7 +19221,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.44</Price>
+		<Price>16.59</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Songmics</Manufacturer>
@@ -19255,7 +19239,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>42.44427</Price>
+		<Price>45.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt;Αξεσουάρ Μπάνιου&gt; Καλάθια Απλύτων</Category_Path>
 		<Manufacturer>Vasagle</Manufacturer>
@@ -19410,23 +19394,6 @@
 		<Color>beige</Color>
 	</product>
 	<product>
-		<ID>7715006101</ID>
-		<Barcode>5203642118101</Barcode>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Λευκό E-1810wh</Name>
-		<Product_Link>https://www.skroutz.gr/s/52554708/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Leyko.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_main_images/052554/52554708/fixedratio_20250305164226_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.58</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810wh</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>7715006102</ID>
 		<Barcode>5203642118101</Barcode>
 		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Γκρι E-1810gr</Name>
@@ -19442,23 +19409,6 @@
 		<MPN>E-1810gr</MPN>
 		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
 		<Quantity>50</Quantity>
-	</product>
-	<product>
-		<ID>7715006103</ID>
-		<Barcode>5203642118101</Barcode>
-		<Name>Sidirela Μεταλλικό Σετ Πιγκάλ και Καλαθάκι Μπάνιου Soft Close 7lt Μαύρο E-1810bl</Name>
-		<Product_Link>https://www.skroutz.gr/s/52554701/Sidirela-E-1810-Plastiko-Set-Pigal-kai-Kalathaki-Mpaniou-Soft-Close-7lt-Mayro.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_main_images/052554/52554701/fixedratio_20240418183343_sidirela_e_1810_set_pigal_kai_kalathaki_mpaniou_mayro.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>20.58</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Αξεσουάρ Μπάνιου&gt; Πιγκάλ &amp; Καλαθάκια Μπάνιου</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>E-1810bl</MPN>
-		<Description>Ο κάδος είναι κατασκευασμένος από μέταλλο και διαθέτει bamboo καπάκι, το οποίο έχει μηχανισμό για soft close κλείσιμο. Η χωρητικότητα του κάδου είναι 7 λίτρα. Εσωτερικά, υπάρχει πλαστικός κάδος, ο οποίος είναι αποσπώμενος για να τον καθαρίζεις πανεύκολα. Πιγκάλ  Το πιγκάλ είναι πλαστικό και διαθέτει bamboo καπάκι, πάνω στο οποίο θα βιδώσεις την λευκή βούρτσα και την ανοξείδωτη λαβή.</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>7715006151</ID>
@@ -19790,7 +19740,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.229832</Price>
+		<Price>1.15</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category_Path>
 		<Manufacturer>Viosarp</Manufacturer>
@@ -19808,7 +19758,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>1.017792</Price>
+		<Price>0.95</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Άπλωμα &amp; Σιδέρωμα&gt; Αναλώσιμα Πλυσίματος &amp; Σιδερώματος</Category_Path>
 		<Manufacturer>Viosarp</Manufacturer>
@@ -19836,7 +19786,7 @@
 	<product>
 		<ID>771700101</ID>
 		<Barcode>0194343019635</Barcode>
-		<Name>Ομπρέλα Κήπου Αλουμινίου Τετράγωνη Περιστρεφόμενη με Ρυθμιζόμενη Κλίση και Σταυρωτή Βάση Στήριξης σε Γκρί Χρώμα 3x3m GPU039G01V1</Name>
+		<Name>Songmics Ομπρέλα Κήπου Αλουμινίου Τετράγωνη Περιστρεφόμενη με Ρυθμιζόμενη Κλίση και Σταυρωτή Βάση Στήριξης σε Γκρί Χρώμα 3x3m GPU039G01V1</Name>
 		<Product_Link>https://www.skroutz.gr/s/60908658/omprela-dapedou-tetragoni-alouminiou-gri-me-vasi-stirixis-3x3m-gpu039g01.html</Product_Link>
 		<Image_Link>https://d.scdn.gr/images/sku_main_images/060908/60908658/fixedratio_20250610151012_omprela_dapedou_tetragoni_alouminiou_gri_me_vasi_stirixis_3x3m_gpu039g01.jpeg</Image_Link>
 		<Additional>https://d.scdn.gr/images/sku_images/112599/112599014/fixedratio_20250610151020_c548757c.jpeg, https://b.scdn.gr/images/sku_images/112599/112599041/fixedratio_20250610151031_d5484f6b.jpeg, https://a.scdn.gr/images/sku_images/112599/112599063/fixedratio_20250610151041_dc43e9f8.jpeg, https://a.scdn.gr/images/sku_images/112599/112599097/fixedratio_20250610151053_fc246eef.jpeg, https://c.scdn.gr/images/sku_images/112599/112599135/fixedratio_20250610151115_230b8bbb.jpeg, https://a.scdn.gr/images/sku_images/112599/112599157/fixedratio_20250610151127_907d5c74.jpeg</Additional>
@@ -20202,23 +20152,6 @@
 		<MPN>Ε-08973</MPN>
 		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home είναι κατασκευασμένο από ίνες κοκοφοίνικα, υψηλής αντοχής σε νερό και υγρασία, με λαστιχένιο υπόστρωμα για καλύτερη σταθερότητα.</Description>
 		<Quantity>1</Quantity>
-	</product>
-	<product>
-		<ID>773001105</ID>
-		<Barcode>5203642108973</Barcode>
-		<Name>Sidirela Πατάκι Εισόδου από Κοκοφοίνικα Meka "Flowers" 40x60εκ. Ε-0897</Name>
-		<Product_Link>https://www.skroutz.gr/s/58933591/Sidirela-Pataki-Eisodou-apo-Kokofoinika-me-Antiolisthitiko-Ypostroma-Meka-40x60ek-E-08974.html</Product_Link>
-		<Image_Link>https://www.sidirela.gr/uploads/2024/12/e-0897-05-podomaktro-meka-web.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>4.705295884199999</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt;Πατάκια Εισόδου Χαλιά</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>Ε-08974</MPN>
-		<Description>Το πατάκι εισόδου της εταιρείας Sidi Home είναι κατασκευασμένο από ίνες κοκοφοίνικα, υψηλής αντοχής σε νερό και υγρασία, με λαστιχένιο υπόστρωμα για καλύτερη σταθερότητα.</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>77300111</ID>
@@ -20912,7 +20845,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>35.96</Price>
+		<Price>34.25</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος&gt; Barbeque &amp; Ψησταριές&gt; Ψησταριές Κάρβουνου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -20948,7 +20881,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>14.88025296</Price>
+		<Price>14.78</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κήπος - Εργαλεία Αρχιτεκτονική Κήπου&gt; Δίχτυα &amp; Πανιά Σκίασης</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -20966,7 +20899,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>19.592333064</Price>
+		<Price>18.93</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κήπος - Εργαλεία&gt; Κηπουρική&gt; Καρότσια Κήπου</Category_Path>
 		<Manufacturer>Sidirela</Manufacturer>
@@ -21019,7 +20952,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>139.2985</Price>
+		<Price>126.64</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -21038,7 +20971,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>152.2565</Price>
+		<Price>138.42</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -21057,7 +20990,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>71.269</Price>
+		<Price>67.735</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -21076,7 +21009,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>71.269</Price>
+		<Price>67.735</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -21095,7 +21028,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>58.311</Price>
+		<Price>58.9</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -21114,7 +21047,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>58.311</Price>
+		<Price>58.9</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -21133,7 +21066,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>113.3825</Price>
+		<Price>106.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -21152,7 +21085,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>113.3825</Price>
+		<Price>106.02</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Κατοικίδια&gt; Γάτες&gt; Ονυχοδρόμια</Category_Path>
 		<Manufacturer>Feandrea</Manufacturer>
@@ -22146,7 +22079,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.277503072</Price>
+		<Price>0.36</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Party &gt; Είδη Party για Σερβίρισμα</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22163,7 +22096,7 @@
 		<ΣΥΣΚΕΥΑΣΙΑ>ΠΑΚΕΤΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>0.4892395199999999</Price>
+		<Price>0.63</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Σπίτι - Κήπος &gt; Είδη Party &gt; Είδη Party για Σερβίρισμα</Category_Path>
 		<Manufacturer>ΘΑΛΑΣΣΙΝΟΣ</Manufacturer>
@@ -22433,23 +22366,6 @@
 		<MPN>Ε-0463</MPN>
 		<Description>Λάστιχα από καουτσούκ. Σε σακούλα. Ιδανικά για κάθε χρήση στο γραφείο, στη δουλειά ή στο σπίτι. Διάμετρος: 50mm Χρώμα: Καφέ</Description>
 		<Quantity>3</Quantity>
-	</product>
-	<product>
-		<ID>788500160</ID>
-		<Barcode>5203642104692</Barcode>
-		<Name>Sidirela Λαστιχάκια Συσκευασίας με Διάμετρο 60mm Καφέ σε Συσκευασία 1000gr  Ε-0469</Name>
-		<Product_Link>https://www.skroutz.gr/s/57621990/Sidirela-Lastichakia-Syskeyasias-Kafe-1000gr.html</Product_Link>
-		<Image_Link>https://www.sidirela.gr/uploads/2025/06/e-0455-lastichaki-web.jpg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>5.762131200000001</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Σπίτι - Κήπος&gt; Προϊόντα Οικιακής Χρήσης&gt; Λαστιχάκια Συσκευασίας</Category_Path>
-		<Manufacturer>SIDIRELA</Manufacturer>
-		<MPN>Ε-0469</MPN>
-		<Description>Λάστιχα από καουτσούκ. Σε σακούλα. Ιδανικά για κάθε χρήση στο γραφείο, στη δουλειά ή στο σπίτι. Διάμετρος: 60mm Χρώμα: Καφέ</Description>
-		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>78901</ID>
@@ -22758,7 +22674,7 @@
 		<Manufacturer>ΟΕΜ</Manufacturer>
 		<MPN>1768</MPN>
 		<Description>Διάφανη ταινία συσκευασίας χαρτοκιβωτίων υψηλής αντοχής​, η οποία έχει διαστασεις 48mm x 50m.​</Description>
-		<Quantity>6142</Quantity>
+		<Quantity>6070</Quantity>
 	</product>
 	<product>
 		<ID>78991111</ID>
@@ -25081,7 +24997,7 @@
 		<Manufacturer>Maxell</Manufacturer>
 		<MPN>1776001</MPN>
 		<Description>Αλκαλικές μπαταρίες Maxell AAA κατάλληλες για τηλεχειριστήρια, ρολόγια, φακούς, αριθμομηχανές κ.ά.  Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί αξίζουν τα χρήματά τους.</Description>
-		<Quantity>1097</Quantity>
+		<Quantity>1095</Quantity>
 	</product>
 	<product>
 		<ID>7975031032</ID>
@@ -25840,7 +25756,7 @@
 		<Manufacturer>Esperanza</Manufacturer>
 		<MPN>EKH011</MPN>
 		<Description>Επαγωγική Εστία  Ο τύπος της είναι επαγωγική, θερμαίνεται δηλαδή μόνο το κάτω μέρος από το σκεύος και όχι όλη η εστία, με αποτέλεσμα η περιβάλλουσα περιοχή να παραμένει κρύα στην αφή. Χρησιμοποιεί λιγότερη ενέργεια σε σχέση με τους υπόλοιπους τύπους εστιών και ο χρόνος μαγειρέματος μειώνεται στο μισό. Ενδεικτικά, το νερό βράζει σε λιγότερο από 90 δευτερόλεπτα.  Ο καθαρισμός της είναι πανεύκολος, αφού η περιοχή γύρω από το σκεύος παραμένει κρύα, άρα οτιδήποτε χυθεί δεν θερμαίνεται και δεν κολλάει στην επιφάνεια.  Απαραίτητη προϋπόθεση για αυτόν τον τύπο εστιών είναι ότι τα σκεύη πρέπει να είναι συμβατά για επαγωγικές εστίες, δηλαδή κατασκευασμένα από ανοξείδωτο ατσάλι ή χυτοσίδηρο, καθώς δεν μπορούμε να χρησιμοποιήσουμε όλα τα είδη σκευών. Τέλος, αν έχετε μικρά παιδιά θεωρείται η πιο ασφαλής επιλογή. Χειρισμός αφής  Ο χειρισμός για την επιλογή των επιθυμητών θερμοκρασιών και ρυθμίσεων γίνεται ψηφιακά και μέσω αφής.  Όλες οι επιλογές βρίσκονται ενσωματωμένες στην επιφάνεια, συνεπώς το μόνο που χρειάζεται για να ξεκινήσετε το μαγείρεμα, είναι μερικά απαλά αγγίγματα με το δάχτυλό σας.  Στην ψηφιακή οθόνη της μπορείτε να βλέπετε ανά πάσα στιγμή τις τρεχουσες ρυθμίσεις σας. Επιφάνεια μαγειρέματος  Διαθέτει μεγάλη επιφάνεια μαγειρέματος διαμέτρου από 14 έως 22 cm. Μπορεί να αναπτύξει θερμοκρασίες από 80°C έως 270°C.  Πρόκειται για μία έξυπνη εστία που προειδοποιεί στην περίπτωση χρήσης ακατάλληλου ή πολύ μικρού σκεύους.  Οι 5 προεπιλεγμένες λειτουργίες θα σας βοηθήσουν στην παρασκευή οποιουδήποτε φαγητού επιθυμείτε. Χρονοδιακόπτης  Ηλεκτρονικός χρονοδιακόπτης που τερματίζει αυτόματα την λειτουργία της εστίας, στο τέλος του επιθυμητού χρόνου μαγειρέματος. Ιδανική για τα ταξίδια και το εξοχικό  Ο απλός σχεδιασμός της ταιριάζει σε κάθε κουζίνα και το εύχρηστο μέγεθος καθιστά εύκολη τη μεταφορά είτε για κάμπινγκ, είτε για διακοπές είτε για μετακόμιση.      Διαστάσεις: 28 x 36 x 7 cm</Description>
-		<Quantity>23</Quantity>
+		<Quantity>22</Quantity>
 	</product>
 	<product>
 		<ID>799130301</ID>
@@ -28086,6 +28002,24 @@
 		<Quantity>29</Quantity>
 	</product>
 	<product>
+		<ID>799551124</ID>
+		<Barcode>6957303883486</Barcode>
+		<Name>Ugreen Ρυθμιζόμενη Βάση Στήριξης Laptop 11-16 Inch Ultra-Light Height Adjustable Laptop Desk Stand σε Ασημί Χρώμα LP230-80348</Name>
+		<Product_Link>https://www.skroutz.gr/s/24611133/Ugreen-LP230-Vasi-gia-Laptop-eos-15-6-Asimi.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/024611/24611133/xlarge_20200903165418_ugreen_adjustable_laptop_desk_stand.jpeg</Image_Link>
+		<Additional>https://static5.eu.hurtel.com/hpeciai/9c7e6a684b5dcbadf34626cd391b7a97/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_3.jpg https://static1.eu.hurtel.com/hpeciai/11821de2c04e2b36b3445fcfded3b463/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_4.jpg https://static2.eu.hurtel.com/hpeciai/177871c38225c388f1071b7097c2ef06/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_5.jpghttps://static5.eu.hurtel.com/hpeciai/595a8bf7434d8adddef7089ecdf5a7b0/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_6.jpg  https://static2.eu.hurtel.com/hpeciai/75489c475c78ba361d75be7098869945/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_15.jpg https://static3.eu.hurtel.com/hpeciai/545b8b1c5bfdb3436179ef8e06e2c703/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_7.jpg https://static1.eu.hurtel.com/hpeciai/83c10f3bb51f5a292f1e951b77e79331/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_8.jpg https://static5.eu.hurtel.com/hpeciai/c37b93b297663cc1a3cb6f8a9b5aaa48/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_9.jpg https://static3.eu.hurtel.com/hpeciai/c4a6a8b730ad1f4f6bb3217c3bbdf229/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_10.jpg https://static5.eu.hurtel.com/hpeciai/70783ae20c77515dfc2f5c3c21a8537b/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_11.jpg https://static3.eu.hurtel.com/hpeciai/516cea38a7e9c53ca45a886704f1c836/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_12.jpg https://static2.eu.hurtel.com/hpeciai/fb83b59c9d6c8a4f6bed6987190af121/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_13.jpg https://static2.eu.hurtel.com/hpeciai/84520178a8397b96d1f5108967cc0159/eng_pl_Ugreen-adjustable-stand-laptop-stand-silver-LP230-136255_14.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>7.05</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία &gt; Laptops &amp; Αξεσουάρ &gt; Βάσεις Laptop</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>80348</MPN>
+		<Description>Ρυθμιζόμενη βάση στήριξης φορητού υπολογιστή Ugreen ασημί (LP230)  Η άνεση είναι η βάση της εργασίας σε φορητό υπολογιστή. Αν ψάχνετε έναν αποδεδειγμένο τρόπο για να ανακουφίσετε τους μύες της σπονδυλικής στήλης και του αυχένα, επιλέξτε τη βάση Ugreen. Διαθέτει ελαφρύ σχεδιασμό που θα κρατάει σταθερά φορητούς υπολογιστές από 11 έως 17 ίντσες. Μπορείτε να αυξήσετε ή να μειώσετε ελεύθερα τη γωνία κλίσης. Ακριβώς όπως σας αρέσει!  Προσδιορισμός:  Μάρκα: Ugreen Μοντέλο: LP230 Συμβατότητα: με φορητούς υπολογιστές από 11'' έως 17'' Ύψος προσαρμογής: 86,8-131,6 χιλιοστά Υλικό: ανοξείδωτο ατσάλι + σιλικόνη + PC + ABS Διαστάσεις όταν είναι ξεδιπλωμένο: 185x250x81 χιλιοστά Βάρος: περίπου 110 γρ. Ασημί χρώμα Τα σημαντικότερα πλεονεκτήματα της βάσης:  Θα σας φανεί χρήσιμο στο σπίτι, την εργασία και τα ταξίδια . Πτυσσόμενο, ελαφρύ σχεδιασμό και συμπαγές μέγεθος. Θα ξεχάσετε τους πόνους στην πλάτη και τον αυχένα. Ρυθμίζοντας το ύψος και τη γωνία κλίσης, θα αποφύγετε περιττά προβλήματα υγείας.</Description>
+		<Quantity>0</Quantity>
+	</product>
+	<product>
 		<ID>799551151</ID>
 		<Barcode>6920680859177</Barcode>
 		<Name>XO Μεταλλική 360° Περιστρεφόμενη Επιτραπέζια Βάση Κινητού Μαύρη C151-59177</Name>
@@ -28100,7 +28034,7 @@
 		<Manufacturer>XO</Manufacturer>
 		<MPN>16.006.0287</MPN>
 		<Description>Τύπος: Επιτραπέζια βάση  Χρώμα: Μαύρο  Βάση επιφάνειας εργασίας που παρέχει υποστήριξη και σταθερότητα στη συσκευή σας, ώστε να μπορείτε να παρακολουθείτε ένα βίντεο, να διαβάζετε ένα κείμενο ή να πραγματοποιείτε μια βιντεοκλήση με ευκολία, χωρίς να χρειάζεται να κρατάτε τη συσκευή σας.</Description>
-		<Quantity>84</Quantity>
+		<Quantity>82</Quantity>
 	</product>
 	<product>
 		<ID>799551152</ID>
@@ -28243,23 +28177,6 @@
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>7996101</ID>
-		<Barcode>4711421975155</Barcode>
-		<Name>A4Tech Fstyler Combo F1512S Σετ Πληκτρολόγιο &amp; Ποντίκι Ελληνικό</Name>
-		<Product_Link>https://www.skroutz.gr/s/36860129/A4Tech-Fstyler-Combo-F1512S-Set-Pliktrologio-Pontiki-Elliniko.html</Product_Link>
-		<Image_Link>https://c.scdn.gr/images/sku_main_images/036860/36860129/20220627162407_a4tech_fstyler_combo_f1512s_set_pliktrologio_pontiki_elliniko.jpeg</Image_Link>
-		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
-		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
-		<VAT>24</VAT>
-		<Price>19.050864</Price>
-		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Πληκτρολόγια &amp; Ποντίκια &gt; Πληκτρολόγια</Category_Path>
-		<Manufacturer>MOTOROLA</Manufacturer>
-		<MPN>1554</MPN>
-		<Description>Σετ Α4 Tech F1512S Sleek Comfort (Πληκτρολόγιο &amp; Ποντίκι).    Οπτικός Σένσορας: Υψηλή ακρίβεια παρακολούθησης.    Συμμετρικός Σχεδιασμός: Κατάλληλο για δεξιόχειρες και αριστερόχειρες χρήστες.    Φαρδύ Ρόδα Σκύθου: Άνετη αίσθηση κατά τη διάρκεια μακράς χρήσης.    Δυο Κατευθύνσεων Ρόδα: Έξυπνη οριζόντια και κατακόρυφη κύλιση.    8 σε 1: 8 χειρονομίες για επιλογή εντολών.    Στραμμένα Πλήκτρα: Βελτιώνουν την περιοχή πληκτρολόγησης.    Υψηλή Ελαστικότητα Σιλικόνης: Άνετη εμπειρία πληκτρολόγησης.    Σχεδίαση Αποστράγγισης: Προστασία από υγρά.    Πλήκτρα Πολυμέσων: Άμεση πρόσβαση σε 12 λειτουργίες.    Συμπαγής Εικόνα Δύο Τμημάτων: Ικανότητα εξοικονόμησης χώρου.</Description>
-		<Quantity>0</Quantity>
-	</product>
-	<product>
 		<ID>799610101</ID>
 		<Barcode>4260664871514</Barcode>
 		<Name>MediaRange MROS131-GR Ασύρματο Bluetooth Πληκτρολόγιο με 78 Πλήκτρα, Touchpad και Tablet Slot Ελληνικό</Name>
@@ -28294,20 +28211,21 @@
 		<Quantity>5</Quantity>
 	</product>
 	<product>
-		<ID>799613111</ID>
-		<Barcode>5099206064201</Barcode>
-		<Name>Logitech Web Camera HD 720p (C270)</Name>
-		<Product_Link>https://www.skroutz.gr/s/275549/Logitech-C270-Web-Camera-HD-720p-960-000582-960-000636-960-001063.html</Product_Link>
-		<Image_Link>https://d.scdn.gr/images/sku_images/016980/16980916/xlarge_20170324165741_0c2fdad9.jpeg</Image_Link>
+		<ID>799613102</ID>
+		<Barcode>6941876217281</Barcode>
+		<Name>Ugreen Θήκη Οργάνωσης και Μεταφοράς 24.5x17.5x5 cm σε Σκούρο Γκρι Χρώμα LP139-50147</Name>
+		<Product_Link>https://www.skroutz.gr/s/51120712/Ugreen-CM678-Web-Camera-Full-HD-1080p-Asimi-15728.html</Product_Link>
+		<Image_Link>https://d.scdn.gr/images/sku_main_images/051120/51120712/xlarge_20240809153355_ugreen_cm678_web_camera_full_hd_1080p_asimi_15728.jpeg</Image_Link>
+		<Additional>https://static1.eu.hurtel.com/hpeciai/2cddf18b941a2cffe096b6710479cea4/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_2.jpg https://static3.eu.hurtel.com/hpeciai/a0b620daab55f6b8ef9da211d06d9dc4/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_3.jpg https://static5.eu.hurtel.com/hpeciai/09b75f9b04890d962be33eda39d5128b/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_11.jpg https://static4.eu.hurtel.com/hpeciai/74bbd8765e50394805be5f2196db654d/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_4.jpg https://static1.eu.hurtel.com/hpeciai/e84ee11aad65acfa3419525f24f54952/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_5.jpg https://static4.eu.hurtel.com/hpeciai/69da46f207c0f7314c911f5372d2ad17/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_6.jpg https://static4.eu.hurtel.com/hpeciai/677b1eb3d24c717963476c658230a6f3/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_7.jpg https://static2.eu.hurtel.com/hpeciai/fd7990059340359159993486fcca4471/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_8.jpg https://static5.eu.hurtel.com/hpeciai/6d74df564a51e2fe1dc3d76855f9183c/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_9.jpg https://static1.eu.hurtel.com/hpeciai/7b76e9e823b10701831e9b0381a0a161/eng_pm_Ugreen-CM678-USB-HD-Webcam-Gray-159932_10.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>15.325191</Price>
+		<Price>26.86</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
 		<Category_Path>Τεχνολογία &gt; Multimedia &gt; Web Cameras</Category_Path>
-		<Manufacturer>Logitech</Manufacturer>
-		<MPN>C270</MPN>
-		<Description>Πραγματοποιήστε ευκρινείς, ομαλές κλήσεις βίντεο (720p/30 fps) σε μορφή ευρείας οθόνης με την κάμερα web C270 HD. Η αυτόματη διόρθωση φωτισμού προβάλλει την εικόνα σας σε ζωντανά, φυσικά χρώματα.</Description>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>CM678</MPN>
+		<Description>Κάμερα Web Ugreen CM678 USB HD - Γκρι Η κάμερα web Ugreen CM678 εγγυάται εξαιρετική ποιότητα για τις βιντεοδιασκέψεις και τις ηχογραφήσεις σας. Χάρη στην τεχνολογία full HD 1080p, κάθε λεπτομέρεια θα είναι απόλυτα ορατή. Η αυτόματη διόρθωση χαμηλού φωτισμού διασφαλίζει ότι η εικόνα είναι πάντα φωτεινή, ανεξάρτητα από τις συνθήκες. Τα διπλά μικρόφωνα εξαλείφουν τον περιττό θόρυβο, εξασφαλίζοντας καθαρό ήχο. Η εστίαση του φακού διασφαλίζει ότι η εικόνα είναι πάντα σταθερή και ευκρινής. Η ευρεία γωνία θέασης 85 μοιρών σάς επιτρέπει να χωρέσετε περισσότερα άτομα στο κάδρο, ενώ η περιστροφή 360 μοιρών και οι τρεις επιλογές εγκατάστασης προσφέρουν απαράμιλλη ευελιξία και ευκολία.  Βασικά πλεονεκτήματα της κάμερας web Ugreen CM678:  Οι ηχογραφήσεις και οι βιντεοκλήσεις σας θα είναι υψηλής ποιότητας . Η κάμερα παρέχει ποιότητα βίντεο full HD 1080p. Είναι ιδανικό για άβολες συνθήκες . Διαθέτει δύο ενσωματωμένα μικρόφωνα και διορθώνει αυτόματα το χαμηλό φωτισμό. Μπορείτε να προσαρμόσετε τη γωνία θέασης στις ανάγκες σας . Η κάμερα διαθέτει ρύθμιση 360 μοιρών. Δεν απαιτεί εγκατάσταση προγράμματος οδήγησης . Χαρακτηρίζεται από ευρεία συμβατότητα χάρη στη λειτουργία plug and play. Παρέχει ευελιξία και ευκολία χρήσης . Προσφέρει τρεις τύπους εγκατάστασης: σε τραπέζι, σε τρίποδο ή τοποθετημένο πάνω στον υπολογιστή. Προσδιορισμός:  Μάρκα: Ugreen Μοντέλο: CM678 Ανάλυση : Full HD (1920×1080) Τύπος σύνδεσης : USB-A (αρσενικό) Ενσωματωμένο μικρόφωνο : ναι Ρυθμιζόμενο : Ναι Μήκος καλωδίου : 2 μ. Υλικό: πλαστικό Χρώμα: γκρι Ασύγκριτη ποιότητα εικόνας σε full HD Η τεχνολογία Full HD 1080p της Ugreen CM678 αποτυπώνει κάθε λεπτομέρεια, προσφέροντάς σας επαγγελματική ποιότητα εικόνας κάθε φορά. Είτε πραγματοποιείτε μια σημαντική επαγγελματική συνάντηση είτε απλώς θέλετε να συνομιλήσετε με φίλους, η Ugreen CM678 διασφαλίζει ότι θα σας δουν με τον καλύτερο δυνατό τρόπο.  Φωτεινή εικόνα ακόμα και στη σκιά Η αυτόματη διόρθωση φωτισμού προσαρμόζει τις ρυθμίσεις της κάμερας σε πραγματικό χρόνο, εξασφαλίζοντας φωτεινές και καθαρές εικόνες ακόμη και σε δωμάτια με χαμηλό φωτισμό. Έτσι, μπορείτε να είστε σίγουροι ότι οι βιντεοδιασκέψεις και οι ηχογραφήσεις σας θα φαίνονται πάντα επαγγελματικές, ανεξάρτητα από τις συνθήκες φωτισμού.  Καθαρός ήχος χάρη στα διπλά μικρόφωνα Η κάμερα web Ugreen CM678 είναι εξοπλισμένη με δύο μικρόφωνα υψηλής ποιότητας που διασφαλίζουν ότι η φωνή σας θα ακούγεται φυσική και καθαρή, χωρίς παρεμβολές. Η τεχνολογία μείωσης θορύβου εξαλείφει αποτελεσματικά τον ανεπιθύμητο θόρυβο του περιβάλλοντος, επιτρέποντας ομαλή και καθαρή επικοινωνία.  Σταθερότητα και ακρίβεια εικόνας Ο φακός σταθερής εστίασης στο Ugreen CM678 διασφαλίζει ότι η εικόνα είναι πάντα ευκρινής και σταθερή. Αυτή η λειτουργία σάς επιτρέπει να εστιάζετε γρήγορα και με ακρίβεια σε άτομα, δημιουργώντας σταθερές και λεπτομερείς εικόνες χωρίς την ανάγκη χειροκίνητων ρυθμίσεων. Αυτό είναι εξαιρετικά χρήσιμο σε δυναμικές καταστάσεις όπως η διαδικτυακή διδασκαλία ή οι παρουσιάσεις.  Ευρεία γωνία θέασης και ευέλικτες ρυθμίσεις Η κάμερα Ugreen CM678 διαθέτει ευρεία γωνία θέασης 85 μοιρών - αποτελεί ιδανική λύση για ομαδικές συναντήσεις και οικογενειακές βιντεοκλήσεις. Επιπλέον, η δυνατότητα ρύθμισης 360 μοιρών και οι τρεις επιλογές εγκατάστασης (επιτραπέζια, τρίποδη ή οθόνη) προσφέρουν μεγάλη ευκολία, επιτρέποντάς σας να προσαρμόσετε τη ρύθμιση της κάμερας σε οποιαδήποτε περίσταση.</Description>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
@@ -28484,37 +28402,57 @@
 		<Quantity>28</Quantity>
 	</product>
 	<product>
-		<ID>79962701</ID>
-		<Barcode>6957939000516</Barcode>
-		<Name>Mercusys v1 WiFi Extender Dual Band (2.4 &amp; 5GHz) 1200Mbps ME30</Name>
-		<Product_Link>https://www.skroutz.gr/s/27234745/Mercusys-ME30-v1-WiFi-Extender-Dual-Band-2-4-5GHz-1200Mbps.html</Product_Link>
-		<Image_Link>https://b.scdn.gr/images/sku_images/039824/39824978/xlarge_20210219150953_6a7663e4.jpeg</Image_Link>
+		<ID>799631111</ID>
+		<Barcode>6941876232673</Barcode>
+		<Name>Ugreen Θήκη Αλουμινίου για Σκληρό Δίσκο M.2/NVME με σύνδεση Type-C (CM767) 35267</Name>
+		<Product_Link>https://www.skroutz.gr/s/59264870/Ugreen-THiki-gia-Skliro-Disko-M-2-SATA-III-NVME-me-syndesi-Type-C-35267.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/059264/59264870/xlarge_20250318170051_ugreen_thiki_gia_skliro_disko_m_2_sata_iii_nvme_me_syndesi_type_c_35267.jpeg</Image_Link>
+		<Additional>https://c.scdn.gr/images/sku_images/108879/108879391/xlarge_20250402093954_23d06524.jpeg https://c.scdn.gr/images/sku_images/108879/108879390/xlarge_20250402093954_a1279856.jpeg https://b.scdn.gr/images/sku_images/108879/108879394/xlarge_20250402093955_c76c74e7.jpeg https://d.scdn.gr/images/sku_images/108879/108879395/xlarge_20250402093955_88ef5d34.jpeg https://c.scdn.gr/images/sku_images/108879/108879397/xlarge_20250402093955_84497869.jpeg https://a.scdn.gr/images/sku_images/108879/108879399/xlarge_20250402093955_d8e16ab8.jpeg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.077058675</Price>
+		<Price>14.99</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; WiFi Extenders</Category_Path>
-		<Manufacturer>Mercusys</Manufacturer>
-		<MPN>ME30</MPN>
-		<Description>Βασικά χαρακτηριστικά:      Dual Band (2.4 &amp; 5GHz)     Μέγιστη ταχύτητα 1200 Mbps     Wi‑Fi 5     Δύο κεραίες     Θύρα ethernet     Διαστάσεις 112x84.7x39mm</Description>
+		<Category_Path>Τεχνολογία &gt; Σκληροί Δίσκοι &gt; Θήκες Σκληρών Δίσκων</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>(CM767) 35267</MPN>
+		<Description>Input: USB C 3.1 GEN 2 Female Output: M.2 M-KEY/M+B Key(NVME;PCIE 3.0 stand) USB-C 3.1 GEN2 speed up to 10Gbps, compatible with USB 3.0&amp;2.0 &amp; 1.1 Support four sizes (2230/2242/2260/2280) of M.2 (NVME) M-KEY solid state drives Up to 2TB Support UASP transfer protocol Short-Circuit protection Built-in ESD protection circuit,Resistant to 4KV static Support S.M.A.R.T detection function. Support TRIM function Tool-free installation USB C3.1 GEN2 cable to USB C 3.1 GEN2 Length: 50cm Compatible with Windows, Mac OS, Linux, Chrome OS, PS4, PS3, Xbox, router, OTG Phones Aluminum Case Better for heat dissipation</Description>
+		<Quantity>40</Quantity>
+	</product>
+	<product>
+		<ID>799631503</ID>
+		<Barcode>6957303803750</Barcode>
+		<Name>Ugreen Θήκη Οργάνωσης και Μεταφοράς 24.5x17.5x5 cm σε Σκούρο Γκρι Χρώμα LP139-50147</Name>
+		<Product_Link>https://www.skroutz.gr/s/33250920/Ugreen-THiki-Kalodion-Gri-50147-1tmch.html</Product_Link>
+		<Image_Link>https://c.scdn.gr/images/sku_main_images/033250/33250920/xlarge_20211230131318_ugreen_thiki_organosis_kai_metaforas_gri.jpeg</Image_Link>
+		<Additional>https://static4.eu.hurtel.com/hpeciai/805e0de7c24d5b331b8ef9985dad77a3/eng_pm_Ugreen-case-box-for-hard-drive-HDD-SSD-phone-cables-accessories-24-5-x-17-5-x-5-cm-gray-50147-LP149-60428_8.jpg https://static2.eu.hurtel.com/hpeciai/263ccbc2fca0d53581b6b4748897f882/eng_pl_Ugreen-case-box-for-hard-drive-HDD-SSD-phone-cables-accessories-24-5-x-17-5-x-5-cm-gray-50147-LP149-60428_2.jpg https://static2.eu.hurtel.com/hpeciai/14c83aa917e3b840281e8fecb1646e87/eng_pl_Ugreen-case-box-for-hard-drive-HDD-SSD-phone-cables-accessories-24-5-x-17-5-x-5-cm-gray-50147-LP149-60428_4.jpg https://static3.eu.hurtel.com/hpeciai/fc43ceef5b066e0a56690fcba3c239c9/eng_pl_Ugreen-case-box-for-hard-drive-HDD-SSD-phone-cables-accessories-24-5-x-17-5-x-5-cm-gray-50147-LP149-60428_5.jpg https://static5.eu.hurtel.com/hpeciai/f4b71bb8f8a10ec519f81f4b800a0f63/eng_pl_Ugreen-case-box-for-hard-drive-HDD-SSD-phone-cables-accessories-24-5-x-17-5-x-5-cm-gray-50147-LP149-60428_6.jpg https://static4.eu.hurtel.com/hpeciai/e022d9ae8feaab359e1314e7e107e50c/eng_pl_Ugreen-case-box-for-hard-drive-HDD-SSD-phone-cables-accessories-24-5-x-17-5-x-5-cm-gray-50147-LP149-60428_3.jpg https://static2.eu.hurtel.com/hpeciai/525418e98da93db17411f211885f3e48/eng_pl_Ugreen-case-box-for-hard-drive-HDD-SSD-phone-cables-accessories-24-5-x-17-5-x-5-cm-gray-50147-LP149-60428_7.jpg</Additional>
+		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
+		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
+		<VAT>24</VAT>
+		<Price>14.37</Price>
+		<Availability>Άμεσα διαθέσιμο</Availability>
+		<Category_Path>Τεχνολογία&gt; Διαχείριση Καλωδίων&gt; Διάφορα Διαχείρισης Καλωδίων</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>50147</MPN>
+		<Description>Θήκη Ugreen για σκληρό δίσκο, HDD, SSD, αξεσουάρ καλωδίων τηλεφώνου 24,5 x 17,5 x 5  Η οργάνωση καλωδίων και ηλεκτρονικών συσκευών μπορεί να είναι πολύ χρονοβόρα και κουραστική. Ειδικά όταν ταξιδεύετε. Εκτός αν αγοράσετε την τσάντα μεταφοράς ταξιδιού Ugreen - μια εύχρηστη θήκη για την αποθήκευση αξεσουάρ με οργανωμένο τρόπο. Όχι μόνο θα έχετε τα πάντα στα χέρια σας, αλλά θα ξεχάσετε και τα μπερδεμένα καλώδια ή την ακαταστασία στις αποσκευές σας.  Μαζική κατασκευή  Γιατί είναι το προϊόν κατάλληλο για τη μεταφορά ηλεκτρονικών συσκευών; Πρώτα απ 'όλα, αυτό οφείλεται στην ογκώδη κατασκευή δύο στρώσεων:  Στρώμα: 12 ελαστικές θηλιές για μικρά αντικείμενα όπως καλώδιο USB, ακουστικά, μονάδα flash, κάρτα SD, δρομολογητή ταξιδιού, 1 τσέπη με φερμουάρ για τροφοδοτικό, μικρό power bank, MP3 player κ.λπ. Στρώμα: 2 τσέπες από πλέγμα για ποντίκι, τηλέφωνο, εξωτερική μπαταρία, power bank κ.λπ. 1 τσέπη με φερμουάρ για tablet μεγέθους έως iPad Mini, δηλαδή μικρότερο από 7,9 ίντσες. Πλήρης προστασία  Ο κατασκευαστής έχει εφαρμόσει ολοκληρωμένη προστασία εδώ, λαμβάνοντας υπόψη όλες τις απειλές που μπορεί να αντιμετωπίσουν οι αποσκευές σας κατά τη διάρκεια του ταξιδιού. Εξ ου και η επιλογή μιας ελαστικής θηλιάς από καουτσούκ κατασκευασμένης από υλικά υψηλής ποιότητας - ένα μείγμα από λινό και ίνες πολυεστέρα.  Ευρύχωρο, αλλά και συμπαγές  Η τσάντα έχει μέγεθος 245x175x50 mm και ζυγίζει 0,19 kg, καθιστώντας την τον ιδανικό σύντροφο ταξιδιού. Σας επιτρέπει να μεταφέρετε εύκολα τις συσκευές σας. Μπορείτε να την έχετε στο χέρι σας ή να την στερεώσετε σε ένα σακίδιο πλάτης, τσάντα ή βαλίτσα.</Description>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
-		<ID>79962702</ID>
-		<Barcode>6935364071158</Barcode>
-		<Name>TP-LINK WiFi Extender V6 Passthrough Single Band (2.4GHz) 300Mbps WA860RE</Name>
-		<Product_Link>https://www.skroutz.gr/s/23141702/TP-LINK-TL-WA860RE-v6-WiFi-Extender-Single-Band-2-4GHz-300Mbps.html</Product_Link>
-		<Image_Link>https://a.scdn.gr/images/sku_images/032335/32335432/xlarge_20200512165900_c74a4650.jpeg</Image_Link>
+		<ID>799631504</ID>
+		<Barcode>6957303852758</Barcode>
+		<Name>Ugreen Υφασμάτινη Θήκη Μεταφοράς 26x13x8.8cm για Nintendo Switch σε Μαύρο Χρώμα LP145-50275</Name>
+		<Product_Link>https://www.skroutz.gr/s/25793631/Ugreen-Yfasmatini-THiki-Metaforas-Version-A-Small-26x13x8-8cm-gia-Konsola-Switch-Mayri-50275.html</Product_Link>
+		<Image_Link>https://a.scdn.gr/images/sku_main_images/025793/25793631/xlarge_20201124121637_ugreen_nintendo_switch_anti_shock_case_version_a_small_26x13x8_8cm.jpeg</Image_Link>
+		<Additional>https://static2.eu.hurtel.com/hpeciai/fc1ea773f5c50062a8a37c6695a055eb/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_2.jpg https://static2.eu.hurtel.com/hpeciai/1a92380ed46a5a5530d33d00efcc44cb/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_3.jpg https://static4.eu.hurtel.com/hpeciai/6abf02670562ad1997278d2fccb1a2e0/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_4.jpg https://static2.eu.hurtel.com/hpeciai/75fbf77818e487b5fb8809eb78be0386/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_5.jpg https://static1.eu.hurtel.com/hpeciai/1a617ab87d708746871b45dc4043d537/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_6.jpg https://static3.eu.hurtel.com/hpeciai/6d836f074f7b10a7c6d524d62adf120b/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_7.jpg https://static4.eu.hurtel.com/hpeciai/8b5e072a064714c4ae12395c444be81a/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_8.jpg https://static3.eu.hurtel.com/hpeciai/94de225d2be984c7905eac114adef307/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_9.jpg https://static5.eu.hurtel.com/hpeciai/4b437acf51cd2419b0151b8bef0dca86/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_10.jpg https://static2.eu.hurtel.com/hpeciai/dae701da425348d2950cb62a88a73e46/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_11.jpg https://static5.eu.hurtel.com/hpeciai/03af641c16af69e9c846e91694d81ce6/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_12.jpg https://static3.eu.hurtel.com/hpeciai/93c3561be46ccffa1d85ac4c6712b742/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_13.jpg https://static2.eu.hurtel.com/hpeciai/8dc097cbf2672d013653ec305c0ea3aa/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_14.jpg https://static3.eu.hurtel.com/hpeciai/7a6b6bd9bac55f8f9f1f685b598141cd/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_15.jpg https://static2.eu.hurtel.com/hpeciai/605b9f871d0d9638dad4e47d651eac9e/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_17.jpg https://static4.eu.hurtel.com/hpeciai/bafd2bee89e0ab959ed4e9dad679a57c/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_16.jpg https://static5.eu.hurtel.com/hpeciai/94818a5756365ea302e5b1ac00b0fb10/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_19.jpg https://static4.eu.hurtel.com/hpeciai/9d835224767324252abff04f2c939261/eng_pl_Ugreen-Case-Box-for-Nintendo-Switch-and-Accessories-S-26-5-x-10-x-13-5-cm-black-50275-LP145-60430_18.jpg</Additional>
 		<ΣΥΣΚΕΥΑΣΙΑ>ΤΕΜΑΧΙΟ</ΣΥΣΚΕΥΑΣΙΑ>
 		<ΤΕΜΑΧΙΑ>1</ΤΕΜΑΧΙΑ>
 		<VAT>24</VAT>
-		<Price>18.625484325</Price>
+		<Price>10.52</Price>
 		<Availability>Άμεσα διαθέσιμο</Availability>
-		<Category_Path>Τεχνολογία &gt; Δικτυακά &gt; WiFi Extenders</Category_Path>
-		<Manufacturer>TP-LINK</Manufacturer>
-		<MPN>WA860RE</MPN>
-		<Description>Μια εύχρηστη και βολική συσκευή που θα σας επιτρέπει να επεκτείνετε το δίκτυό σας. Κατάλληλο για οικιακούς και επαγγελματικούς χώρους, είναι σε θέση να ενισχύσει το σήμα του ασύρματου δικτύου σας και να καλύψει τις νεκρές ζώνες που μέχρι πρότινος ήταν εκτός εμβέλειας.</Description>
+		<Category_Path>Τεχνολογία&gt; Αξεσουάρ Κονσολών &amp; Χειριστηρίων&gt; Θήκες Κονσόλας &amp; Χειριστηρίου</Category_Path>
+		<Manufacturer>Ugreen</Manufacturer>
+		<MPN>50275</MPN>
+		<Description>Θήκη Ugreen για Nintendo Switch και αξεσουάρ S 26,5 x 10 x 13,5 cm (50275 LP145)  Μία θήκη είναι αρκετή για να διατηρείτε την κονσόλα βιντεοπαιχνιδιών Nintendo και τα συμβατά αξεσουάρ σας οργανωμένα. Γνωρίστε τη φορητή θήκη ταξιδιού της Ugreen, σχεδιασμένη για την αποθήκευση και μεταφορά ηλεκτρονικών αξεσουάρ με τον πιο οργανωμένο και ασφαλή τρόπο. Κατασκευασμένη από συμπαγή υλικά: EVA και Oxford - αδιάβροχη και απορροφητική των κραδασμών.  Εσωτερική κατασκευή  Το κάτω στρώμα της θήκης είναι επενδυμένο με μαλακό αφρό, χάρη στον οποίο το joy-con με το χειριστήριο και το τροφοδοτικό δεν θα γρατσουνιστεί ή υποστεί ζημιά λόγω κίνησης. Η μπροστινή πλευρά του κεντρικού διαμερίσματος με ελαστική ταινία κρατά την κονσόλα σταθερά και σταθερά. Στο πίσω μέρος, ο κατασκευαστής χρησιμοποίησε μια λύση που μπορεί να χωρέσει έως και 10 κασέτες παιχνιδιών.  Στο πάνω μέρος της τσάντας, υπάρχει μια τσέπη με φερμουάρ από πλέγμα που προσφέρει αρκετό χώρο για επιπλέον joy-con, λουράκια joy-con, ακουστικά, καλώδια φόρτισης, μονάδες flash κ.λπ.  Συμπαγές και ευρύχωρο  Η τσάντα είναι μικρή σε μέγεθος και μεγάλη σε χωρητικότητα. Το κάλυμμα για το Nintendo Switch έχει μέγεθος 260x135x88 χιλιοστά, και κάθε διαμέρισμα και εσωτερική τσέπη ταιριάζουν σε μέγεθος και σχήμα με το μεταφερόμενο περιεχόμενο.  Τα καλύτερα υλικά  Το σκληρό προστατευτικό κάλυμμα είναι κατασκευασμένο από υλικό EVA και Oxford υψηλής ποιότητας. Αυτός ο συνδυασμός προσφέρει ανθεκτικότητα και αντοχή στη συμπίεση. Ταυτόχρονα, ο μαλακός και ανθεκτικός στους κραδασμούς αφρός που χρησιμοποιείται για την εσωτερική επένδυση προστατεύει τη συσκευή σας από χτυπήματα και πτώσεις. Ο ρόλος του μαλακού βελούδινου εσωτερικού υλικού είναι να προστατεύει την κονσόλα (ειδικά την οθόνη της) από γρατζουνιές.  Φορέστε το όσο πιο άνετα νιώθετε  Χάρη στον φορητό ιμάντα μεταφοράς και το καραμπίνερ υψηλής ποιότητας, μπορείτε εύκολα να στερεώσετε τη θήκη στο σακίδιο ή την τσάντα σας για να απελευθερώσετε τα χέρια σας και να βεβαιωθείτε ότι δεν θα χάσετε τον εξοπλισμό σας κατά τη διάρκεια του check-in στο αεροδρόμιο ή των εκδρομών.</Description>
 		<Quantity>0</Quantity>
 	</product>
 	<product>
