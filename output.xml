@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-08-12 17:35</created_at>
+	<created_at>2026-08-12 17:49</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -8448,7 +8448,7 @@
 		<Manufacturer>GILLETTE</Manufacturer>
 		<MPN>0581</MPN>
 		<Description>Ο αφρός ξυρίσματος Gillette βοηθά στην προστασία της επιδερμίδας σας για ένα βαθύ και άνετο ξύρισμα που αφήνει την επιδερμίδα λεία και απαλή.</Description>
-		<Quantity>46</Quantity>
+		<Quantity>47</Quantity>
 	</product>
 	<product>
 		<ID>62102</ID>
@@ -10591,7 +10591,7 @@
 	<product>
 		<ID>68215103</ID>
 		<Barcode>5203642132077</Barcode>
-		<Name>Sidirela Ανατομικά Υποπτέρνια από Σιλικόνη για Άντρες E-3207 2τμχ</Name>
+		<Name>Sidirela Ανατομικά Υποπτέρνια από Σιλικόνη για Άντρες One Size E-3207 2τμχ</Name>
 		<Product_Link>https://www.skroutz.gr/s/35080072/Sidirela-Anatomika-Ypopternia-apo-Silikoni-gia-Antres-E-3207-2tmch.html</Product_Link>
 		<Image_Link>https://b.scdn.gr/images/sku_main_images/035080/35080072/xlarge_20230302135242_sidirela_ypopternia_silikonis_gia_andres_2tmch.jpeg</Image_Link>
 		<Additional>https://sidirela.gr/soft1/4653/%CE%95-3207-%CE%A0%CE%91%CE%A4%CE%9F%CE%A3-%CE%A3%CE%99%CE%9B%CE%99%CE%9A%CE%9F%CE%9D%CE%97%CE%A3.jpg</Additional>
@@ -10605,6 +10605,7 @@
 		<MPN>E-3207</MPN>
 		<Description>Ανδρικά υποπτέρνια της εταιρείας Sidi Home, τα οποία είναι κατασκευασμένα από σιλικόνη και σχεδιασμένα να ανυψώνουν την πτέρνα ώστε να ανακουφίζουν αποτελεσματικά την περιοχή, απορροφώντας τους κραδασμούς και τα φορτία. Επιπλέον βοηθούν στη μείωση της πίεσης που δέχονται οι αστράγαλοι, τα γόνατα και οι αρθρώσεις της σπονδυλικής στήλης.  Υλικό: Σιλικόνης</Description>
 		<Quantity>120</Quantity>
+		<Size>one size</Size>
 	</product>
 	<product>
 		<ID>70003</ID>
