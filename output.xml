@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-09-10 16:40</created_at>
+	<created_at>2026-09-10 16:44</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -16468,7 +16468,7 @@
 		<Quantity>195</Quantity>
 	</product>
 	<product>
-		<ID>763100101</ID>
+		<ID>7700100106</ID>
 		<Barcode>5203642137720</Barcode>
 		<Name>Sidirela Πτυσσόμενο Τραπεζάκι Κρεβατιού με Λαβές από Ξύλο Bamboo σε Φυσικό Χρώμα 68x30x21cm E-3772</Name>
 		<Product_Link>https://www.skroutz.gr/s/33065546/Sidirela-Bamboo-Diskos-Krevatiou.html?product_id=96556401&amp;sponsored=listing</Product_Link>
@@ -16483,6 +16483,7 @@
 		<Manufacturer>SIDIRELA</Manufacturer>
 		<MPN>E-3772</MPN>
 		<Description>Πτυσσόμενος δίσκος κατασκευασμένος από ξύλο μπαμπού, ιδανικός για πρωινό στο κρεβάτι. Διπλώνεται και αποθηκεύεται εξοικονομώντας χώρο. Πρακτικός σχεδιασμός για άνετη απόλαυση γεύματος.</Description>
+		<Quantity>0</Quantity>
 	</product>
 	<product>
 		<ID>77001101</ID>
