@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-	<created_at>2026-10-12 13:25</created_at>
+	<created_at>2026-10-12 13:26</created_at>
 	<product>
 		<ID>31023</ID>
 		<Barcode>5201261231843</Barcode>
@@ -21945,6 +21945,7 @@
 		<Manufacturer>BIC</Manufacturer>
 		<MPN>ΤΥΠ-79161</MPN>
 		<Description>Εργονομικό στυλό διαρκείας.  Eξάγωνο σώμα για άνετη, ελεγχόμενη γραφή. Διαυγές για ορατή παροχή μελανιού.</Description>
+		<Quantity>4</Quantity>
 	</product>
 	<product>
 		<ID>79162</ID>
@@ -21961,6 +21962,7 @@
 		<Manufacturer>BIC</Manufacturer>
 		<MPN>ΤΥΠ-79162</MPN>
 		<Description>Εργονομικό στυλό διαρκείας.  Eξάγωνο σώμα για άνετη, ελεγχόμενη γραφή. Διαυγές για ορατή παροχή μελανιού.</Description>
+		<Quantity>2</Quantity>
 	</product>
 	<product>
 		<ID>79181</ID>
